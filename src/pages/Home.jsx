@@ -18,6 +18,7 @@ import Toast from "../components/trinatech/Toast";
 import SearchOverlay from "../components/trinatech/SearchOverlay";
 import CartDrawer from "../components/trinatech/CartDrawer";
 import CheckoutModal from "../components/trinatech/CheckoutModal";
+import BlogSection from "../components/trinatech/BlogSection";
 
 // Product images
 const IMAGES = {
@@ -79,6 +80,7 @@ function HomeContent() {
         btnHref="https://wa.me/254729589346?text=Hi%20Trinatech!%20I%27d%20like%20to%20place%20an%20order."
         btnClass="tt-btn-red"
       />
+      <BlogSection />
       <ReviewsSection />
       <FaqSection />
       <ContactSection showToast={showToast} />

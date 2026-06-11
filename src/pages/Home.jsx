@@ -1,4 +1,5 @@
 import React, { useState, useCallback, useRef } from "react";
+import { CartProvider } from "@/lib/CartContext";
 import TriBar from "../components/trinatech/TriBar";
 import Navbar from "../components/trinatech/Navbar";
 import HeroSection from "../components/trinatech/HeroSection";
@@ -14,6 +15,9 @@ import ContactSection from "../components/trinatech/ContactSection";
 import Footer from "../components/trinatech/Footer";
 import WhatsAppFloat from "../components/trinatech/WhatsAppFloat";
 import Toast from "../components/trinatech/Toast";
+import SearchOverlay from "../components/trinatech/SearchOverlay";
+import CartDrawer from "../components/trinatech/CartDrawer";
+import CheckoutModal from "../components/trinatech/CheckoutModal";
 
 // Product images
 const IMAGES = {
@@ -28,22 +32,21 @@ const IMAGES = {
   royal85a: "https://media.base44.com/images/public/6a2af0be8cd723993cb3cb6c/cbf44078e_generated_44344c8f.png",
 };
 
-const PRODUCTS = [
-  { img: IMAGES.ricohMpc2503, name: "Ricoh MPC2503 Toner Cartridge", category: "Ricoh Toners", price: "3,300", badge: "Hot offer" },
-  { img: IMAGES.hp151a, name: "HP 151A Black LaserJet Toner (W1510A)", category: "HP Original Toners", price: "13,000", badge: "Original", badgeClass: "original" },
-  { img: IMAGES.samsungD101s, name: "Samsung MLT-D101S Black Toner", category: "Toner Cartridges", price: "10,000" },
-  { img: IMAGES.kyoceraM2135, name: "Kyocera Ecosys M2135DN A4 Mono MFP", category: "Printers & Copiers", price: "95,000" },
-  { img: IMAGES.hp55a, name: "HP 55A Black Original LaserJet Toner", category: "HP Original Toners", price: "11,000", badge: "Original", badgeClass: "original" },
-  { img: IMAGES.hp652, name: "HP 652 Black Original Ink Cartridge", category: "Ink Cartridges", price: "2,500", badge: "Original", badgeClass: "original" },
-  { img: IMAGES.royal107a, name: "Royal Superior 107A LaserJet Toner", category: "Royal Compatible Toners", price: "2,200", badge: "Best value" },
-  { img: IMAGES.royal85a, name: "Royal Toner 85A / 35A Cartridge", category: "Royal Compatible Toners", price: "2,000" },
+export const PRODUCTS = [
+  { id: "p1", img: IMAGES.ricohMpc2503, name: "Ricoh MPC2503 Toner Cartridge", category: "Ricoh Toners", price: "3,300", priceNum: 3300, badge: "Hot offer" },
+  { id: "p2", img: IMAGES.hp151a, name: "HP 151A Black LaserJet Toner (W1510A)", category: "HP Original Toners", price: "13,000", priceNum: 13000, badge: "Original", badgeClass: "original" },
+  { id: "p3", img: IMAGES.samsungD101s, name: "Samsung MLT-D101S Black Toner", category: "Toner Cartridges", price: "10,000", priceNum: 10000 },
+  { id: "p4", img: IMAGES.kyoceraM2135, name: "Kyocera Ecosys M2135DN A4 Mono MFP", category: "Printers & Copiers", price: "95,000", priceNum: 95000 },
+  { id: "p5", img: IMAGES.hp55a, name: "HP 55A Black Original LaserJet Toner", category: "HP Original Toners", price: "11,000", priceNum: 11000, badge: "Original", badgeClass: "original" },
+  { id: "p6", img: IMAGES.hp652, name: "HP 652 Black Original Ink Cartridge", category: "Ink Cartridges", price: "2,500", priceNum: 2500, badge: "Original", badgeClass: "original" },
+  { id: "p7", img: IMAGES.royal107a, name: "Royal Superior 107A LaserJet Toner", category: "Royal Compatible Toners", price: "2,200", priceNum: 2200, badge: "Best value" },
+  { id: "p8", img: IMAGES.royal85a, name: "Royal Toner 85A / 35A Cartridge", category: "Royal Compatible Toners", price: "2,000", priceNum: 2000 },
 ];
 
-export default function Home() {
+function HomeContent() {
   const [toastMsg, setToastMsg] = useState("");
   const [toastVisible, setToastVisible] = useState(false);
   const timerRef = useRef(null);
-  const cartRef = useRef(0);
 
   const showToast = useCallback((msg) => {
     setToastMsg(msg);
@@ -52,19 +55,12 @@ export default function Home() {
     timerRef.current = setTimeout(() => setToastVisible(false), 2400);
   }, []);
 
-  const handleAddToCart = useCallback((name) => {
-    cartRef.current += 1;
-    showToast(`${name} added — ${cartRef.current} item(s) ✓`);
-  }, [showToast]);
-
   return (
     <div style={{ background: "var(--paper)", minHeight: "100vh" }}>
       <TriBar />
       <Navbar />
       <HeroSection images={IMAGES} />
-
       <AboutSection />
-
       <CtaBand
         title="Not sure which toner fits your machine?"
         subtitle="Send us your printer model on WhatsApp — we'll match the exact cartridge, first time."
@@ -72,12 +68,10 @@ export default function Home() {
         btnHref="https://wa.me/254729589346?text=Hi%20Trinatech!%20Please%20help%20me%20find%20the%20right%20toner%20for%20my%20printer%20model:%20"
         btnClass="tt-btn-navy"
       />
-
       <SuppliesSection images={IMAGES} />
-      <ProductGrid products={PRODUCTS} onAdd={handleAddToCart} />
+      <ProductGrid products={PRODUCTS} />
       <VideosSection />
       <ProcessSection />
-
       <CtaBand
         title="Office running low on toner?"
         subtitle="Order before 2 PM for same-day delivery within Nairobi."
@@ -85,13 +79,25 @@ export default function Home() {
         btnHref="https://wa.me/254729589346?text=Hi%20Trinatech!%20I%27d%20like%20to%20place%20an%20order."
         btnClass="tt-btn-red"
       />
-
       <ReviewsSection />
       <FaqSection />
       <ContactSection showToast={showToast} />
       <Footer />
       <WhatsAppFloat />
       <Toast message={toastMsg} visible={toastVisible} />
+
+      {/* E-commerce overlays */}
+      <SearchOverlay products={PRODUCTS} />
+      <CartDrawer />
+      <CheckoutModal />
     </div>
+  );
+}
+
+export default function Home() {
+  return (
+    <CartProvider>
+      <HomeContent />
+    </CartProvider>
   );
 }

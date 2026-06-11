@@ -1,5 +1,6 @@
 import React, { useState } from "react";
 import TrinatechLogo from "./TrinatechLogo";
+import { useCart } from "@/lib/CartContext";
 
 const links = [
   { label: "About", href: "#about" },
@@ -12,6 +13,7 @@ const links = [
 
 export default function Navbar() {
   const [menuOpen, setMenuOpen] = useState(false);
+  const { totalItems, setCartOpen, setSearchOpen } = useCart();
 
   return (
     <header className="tt-nav">
@@ -25,8 +27,34 @@ export default function Navbar() {
               <a key={l.href} href={l.href}>{l.label}</a>
             ))}
           </nav>
-          <div style={{ display: "flex", gap: 10, alignItems: "center" }}>
-            <a className="tt-btn tt-btn-red" href="#contact">Order Now</a>
+          <div style={{ display: "flex", gap: 8, alignItems: "center" }}>
+            {/* Search button */}
+            <button
+              className="nav-icon-btn"
+              aria-label="Search products"
+              onClick={() => setSearchOpen(true)}
+            >
+              <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2.2" strokeLinecap="round" strokeLinejoin="round">
+                <circle cx="11" cy="11" r="8"/><path d="m21 21-4.35-4.35"/>
+              </svg>
+            </button>
+
+            {/* Cart button */}
+            <button
+              className="nav-icon-btn nav-cart-btn"
+              aria-label={`Cart${totalItems ? ` — ${totalItems} items` : ""}`}
+              onClick={() => setCartOpen(true)}
+            >
+              <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2.2" strokeLinecap="round" strokeLinejoin="round">
+                <path d="M6 2 3 6v14a2 2 0 0 0 2 2h14a2 2 0 0 0 2-2V6l-3-4z"/><line x1="3" y1="6" x2="21" y2="6"/><path d="M16 10a4 4 0 0 1-8 0"/>
+              </svg>
+              {totalItems > 0 && (
+                <span className="cart-badge">{totalItems > 9 ? "9+" : totalItems}</span>
+              )}
+            </button>
+
+            <a className="tt-btn tt-btn-red" href="#contact" style={{ padding: "11px 22px", fontSize: 14 }}>Order Now</a>
+
             <button
               className="burger"
               aria-label="Open menu"
@@ -38,9 +66,18 @@ export default function Navbar() {
           </div>
         </div>
         <div className={`mobile-menu${menuOpen ? " open" : ""}`}>
+          <button className="mobile-search-row" onClick={() => { setMenuOpen(false); setSearchOpen(true); }}>
+            🔍 Search products
+          </button>
           {links.map(l => (
             <a key={l.href} href={l.href} onClick={() => setMenuOpen(false)}>{l.label}</a>
           ))}
+          <button
+            className="mobile-cart-row"
+            onClick={() => { setMenuOpen(false); setCartOpen(true); }}
+          >
+            🛒 Cart {totalItems > 0 ? `(${totalItems})` : ""}
+          </button>
           <a href="#contact" onClick={() => setMenuOpen(false)}>Order Now</a>
         </div>
       </div>

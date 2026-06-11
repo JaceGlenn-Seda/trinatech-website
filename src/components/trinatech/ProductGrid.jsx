@@ -1,7 +1,20 @@
-import React from "react";
+import React, { useState } from "react";
 import RevealWrap from "./RevealWrap";
+import { useCart } from "@/lib/CartContext";
 
-function ProductCard({ product, onAdd }) {
+const CATEGORIES = ["All", "HP Original Toners", "Royal Compatible Toners", "Toner Cartridges", "Ink Cartridges", "Printers & Copiers", "Ricoh Toners"];
+
+function ProductCard({ product }) {
+  const { addItem, setCartOpen } = useCart();
+  const [added, setAdded] = useState(false);
+
+  const handleAdd = () => {
+    addItem(product);
+    setAdded(true);
+    setTimeout(() => setAdded(false), 1400);
+    setTimeout(() => setCartOpen(true), 400);
+  };
+
   return (
     <RevealWrap>
       <article className="product-card">
@@ -17,7 +30,13 @@ function ProductCard({ product, onAdd }) {
           <h3>{product.name}</h3>
           <div className="product-foot">
             <div className="price"><small>KSh</small>{product.price}</div>
-            <button className="add-btn" aria-label={`Add ${product.name} to cart`} onClick={() => onAdd(product.name)}>+</button>
+            <button
+              className={`add-btn${added ? " added" : ""}`}
+              aria-label={`Add ${product.name} to cart`}
+              onClick={handleAdd}
+            >
+              {added ? "✓" : "+"}
+            </button>
           </div>
         </div>
       </article>
@@ -25,7 +44,16 @@ function ProductCard({ product, onAdd }) {
   );
 }
 
-export default function ProductGrid({ products, onAdd }) {
+export default function ProductGrid({ products }) {
+  const [activeCategory, setActiveCategory] = useState("All");
+  const [searchQ, setSearchQ] = useState("");
+
+  const filtered = products.filter(p => {
+    const catMatch = activeCategory === "All" || p.category === activeCategory;
+    const searchMatch = !searchQ.trim() || p.name.toLowerCase().includes(searchQ.toLowerCase()) || p.category.toLowerCase().includes(searchQ.toLowerCase());
+    return catMatch && searchMatch;
+  });
+
   return (
     <section id="shop" style={{ paddingTop: 0, paddingBottom: 96 }}>
       <div className="tt-container">
@@ -39,11 +67,49 @@ export default function ProductGrid({ products, onAdd }) {
             <a href="https://trinatechtonersandprinters.co.ke/shop/" className="link-arrow" target="_blank" rel="noopener noreferrer">View all products →</a>
           </div>
         </RevealWrap>
-        <div className="product-grid">
-          {products.map((p, i) => (
-            <ProductCard key={i} product={p} onAdd={onAdd} />
-          ))}
-        </div>
+
+        {/* Filter bar */}
+        <RevealWrap>
+          <div className="shop-filter-bar">
+            <div className="shop-cats">
+              {CATEGORIES.map(c => (
+                <button
+                  key={c}
+                  className={`cat-pill${activeCategory === c ? " active" : ""}`}
+                  onClick={() => setActiveCategory(c)}
+                >
+                  {c}
+                </button>
+              ))}
+            </div>
+            <div className="shop-search-inline">
+              <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2.2" strokeLinecap="round" strokeLinejoin="round">
+                <circle cx="11" cy="11" r="8"/><path d="m21 21-4.35-4.35"/>
+              </svg>
+              <input
+                placeholder="Search in products…"
+                value={searchQ}
+                onChange={e => setSearchQ(e.target.value)}
+                aria-label="Filter products"
+              />
+              {searchQ && <button onClick={() => setSearchQ("")} className="ssi-clear">✕</button>}
+            </div>
+          </div>
+        </RevealWrap>
+
+        {filtered.length === 0 ? (
+          <div style={{ textAlign: "center", padding: "60px 0", color: "var(--ink-soft)" }}>
+            <div style={{ fontSize: 40, marginBottom: 12 }}>🔎</div>
+            <div style={{ fontFamily: "var(--font-display)", fontWeight: 700, fontSize: 18, marginBottom: 8 }}>No products found</div>
+            <button className="tt-btn tt-btn-ghost" onClick={() => { setSearchQ(""); setActiveCategory("All"); }}>Clear filters</button>
+          </div>
+        ) : (
+          <div className="product-grid">
+            {filtered.map((p, i) => (
+              <ProductCard key={p.id || i} product={p} />
+            ))}
+          </div>
+        )}
       </div>
     </section>
   );

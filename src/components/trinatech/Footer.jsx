@@ -1,4 +1,5 @@
 import React from "react";
+import { Link } from "react-router-dom";
 import TriBar from "./TriBar";
 
 const SocialLinks = [
@@ -77,12 +78,11 @@ export default function Footer() {
         </div>
         <div>
           <h4>Pages</h4>
-          <a href="#about">About</a>
-          <a href="#supplies">Supplies</a>
+          <Link to="/about">About Us</Link>
+          <Link to="/contact">Contact</Link>
+          <Link to="/printing-guide">Printing Guide</Link>
           <a href="#shop">Shop</a>
           <a href="#blog">Blog</a>
-          <a href="#videos">Videos</a>
-          <a href="#reviews">Reviews</a>
           <a href="#faq">FAQ</a>
         </div>
         <div>

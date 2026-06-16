@@ -8,6 +8,9 @@ import UserNotRegisteredError from '@/components/UserNotRegisteredError';
 import ScrollToTop from './components/ScrollToTop';
 import Home from './pages/Home';
 import BlogPost from './pages/BlogPost';
+import About from './pages/About';
+import Contact from './pages/Contact';
+import PrintingGuide from './pages/PrintingGuide';
 // Add page imports here
 
 const AuthenticatedApp = () => {
@@ -38,6 +41,9 @@ const AuthenticatedApp = () => {
     <Routes>
       <Route path="/" element={<Home />} />
       <Route path="/blog/:slug" element={<BlogPost />} />
+      <Route path="/about" element={<About />} />
+      <Route path="/contact" element={<Contact />} />
+      <Route path="/printing-guide" element={<PrintingGuide />} />
       <Route path="*" element={<PageNotFound />} />
     </Routes>
   );

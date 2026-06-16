@@ -1,13 +1,14 @@
 import React, { useState } from "react";
+import { Link } from "react-router-dom";
 import TrinatechLogo from "./TrinatechLogo";
 import { useCart } from "@/lib/CartContext";
 
 const links = [
-  { label: "About", href: "#about" },
+  { label: "About", href: "/about", page: true },
   { label: "Supplies", href: "#supplies" },
   { label: "Shop", href: "#shop" },
+  { label: "Blog", href: "#blog" },
   { label: "Videos", href: "#videos" },
-  { label: "Reviews", href: "#reviews" },
   { label: "FAQ", href: "#faq" },
 ];
 
@@ -24,7 +25,9 @@ export default function Navbar() {
           </a>
           <nav className="nav-links" aria-label="Main">
             {links.map(l => (
-              <a key={l.href} href={l.href}>{l.label}</a>
+              l.page
+                ? <Link key={l.href} to={l.href}>{l.label}</Link>
+                : <a key={l.href} href={l.href}>{l.label}</a>
             ))}
           </nav>
           <div style={{ display: "flex", gap: 8, alignItems: "center" }}>
@@ -70,7 +73,9 @@ export default function Navbar() {
             🔍 Search products
           </button>
           {links.map(l => (
-            <a key={l.href} href={l.href} onClick={() => setMenuOpen(false)}>{l.label}</a>
+            l.page
+              ? <Link key={l.href} to={l.href} onClick={() => setMenuOpen(false)}>{l.label}</Link>
+              : <a key={l.href} href={l.href} onClick={() => setMenuOpen(false)}>{l.label}</a>
           ))}
           <button
             className="mobile-cart-row"

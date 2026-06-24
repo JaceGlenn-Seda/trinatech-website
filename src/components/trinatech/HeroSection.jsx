@@ -15,10 +15,10 @@ export default function HeroSection({ images }) {
           <div className="eyebrow"><span className="dot"></span> Nairobi · The One Mall, River Road</div>
         </RevealWrap>
         <RevealWrap>
-          <h1>Keep your office <span className="red">printing</span>, without overpaying.</h1>
+          <h1>Nairobi's One-Stop Shop for <span className="red">Toners, Ink & Printers</span></h1>
         </RevealWrap>
         <RevealWrap>
-          <p>Trinatech helps Nairobi offices, schools and businesses get quality printers, genuine toners and computing equipment — with honest pricing and same-day delivery.</p>
+          <p>Trinatech stocks 1,000+ genuine and compatible toners, ink cartridges, printers and copiers from HP, Kyocera, Canon, Epson, Ricoh, Brother, Toshiba and Royal. Based at The One Mall, Ground Floor, River Road CBD, Nairobi. Same-day service available.</p>
         </RevealWrap>
         <RevealWrap>
           <div className="cta-row">

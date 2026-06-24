@@ -687,3 +687,10 @@ a:focus-visible, button:focus-visible, summary:focus-visible { outline: 3px soli
   .wa-float .wa-txt { display: none; }
   .wa-float { padding: 16px; }
 }
+
+/* ─── NAV ORDER BUTTON — HIDE ON MOBILE ─── */
+@media (max-width: 768px) {
+  .nav-order-btn {
+    display: none !important;
+  }
+}

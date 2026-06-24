@@ -15,9 +15,46 @@ function ProductCard({ product }) {
     setTimeout(() => setCartOpen(true), 400);
   };
 
+  const brandName =
+    product.category.includes("HP") ? "HP" :
+    product.category.includes("Kyocera") ? "Kyocera" :
+    product.category.includes("Ricoh") ? "Ricoh" :
+    product.category.includes("Royal") ? "Royal" :
+    product.category.includes("Canon") ? "Canon" :
+    product.category.includes("Epson") ? "Epson" :
+    product.category.includes("Brother") ? "Brother" : "Trinatech";
+
+  const productSchema = {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": product.name,
+    "description": `${product.name} — ${product.category} available at Trinatech Toners & Printers Kenya, The One Mall, River Road CBD, Nairobi. Same-day delivery available.`,
+    "brand": {
+      "@type": "Brand",
+      "name": brandName
+    },
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "KES",
+      "price": String(product.price).replace(/,/g, ""),
+      "availability": "https://schema.org/InStock",
+      "url": "https://trinatechtonersandprinters.co.ke/shop/",
+      "seller": {
+        "@type": "Organization",
+        "name": "Trinatech Toners & Printers Kenya",
+        "url": "https://trinatechtonersandprinters.co.ke"
+      }
+    }
+  };
+
   return (
     <RevealWrap>
       <article className="product-card">
+        {/* PRODUCT SCHEMA — AEO/GEO Layer */}
+        <script
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{ __html: JSON.stringify(productSchema) }}
+        />
         <div className="strip" aria-hidden="true"><span></span><span></span><span></span></div>
         <div className="product-media">
           {product.badge && (

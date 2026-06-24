@@ -1,33 +1,40 @@
 import React, { useState } from "react";
-import { Link } from "react-router-dom";
+import { Link, useLocation } from "react-router-dom";
 import TrinatechLogo from "./TrinatechLogo";
 import { useCart } from "@/lib/CartContext";
 
 const links = [
   { label: "About", href: "/about", page: true },
-  { label: "Supplies", href: "#supplies" },
-  { label: "Shop", href: "#shop" },
-  { label: "Blog", href: "#blog" },
-  { label: "Videos", href: "#videos" },
-  { label: "FAQ", href: "#faq" },
+  { label: "Supplies", href: "/#supplies" },
+  { label: "Shop", href: "/#shop" },
+  { label: "Blog", href: "/#blog" },
+  { label: "Videos", href: "/#videos" },
+  { label: "FAQ", href: "/#faq" },
 ];
 
 export default function Navbar() {
   const [menuOpen, setMenuOpen] = useState(false);
   const { totalItems, setCartOpen, setSearchOpen } = useCart();
+  const location = useLocation();
+  const isHome = location.pathname === "/";
+
+  const getHref = (href) => {
+    if (href.startsWith("/#") && isHome) return href.slice(1);
+    return href;
+  };
 
   return (
     <header className="tt-nav">
       <div className="nav-wrap">
         <div className="nav-pill">
-          <a href="#top" className="tt-logo" aria-label="Trinatech Toners and Printers home">
+          <Link to="/" className="tt-logo" aria-label="Trinatech Toners and Printers home">
             <TrinatechLogo />
-          </a>
+          </Link>
           <nav className="nav-links" aria-label="Main">
             {links.map(l => (
               l.page
                 ? <Link key={l.href} to={l.href}>{l.label}</Link>
-                : <a key={l.href} href={l.href}>{l.label}</a>
+                : <a key={l.href} href={getHref(l.href)}>{l.label}</a>
             ))}
           </nav>
           <div style={{ display: "flex", gap: 8, alignItems: "center" }}>
@@ -56,7 +63,14 @@ export default function Navbar() {
               )}
             </button>
 
-            <a className="tt-btn tt-btn-red" href="#contact" style={{ padding: "11px 22px", fontSize: 14 }}>Order Now</a>
+            {/* Order Now — hidden on mobile via CSS */}
+            
+              className="tt-btn tt-btn-red nav-order-btn"
+              href={isHome ? "#contact" : "/#contact"}
+              style={{ padding: "11px 22px", fontSize: 14 }}
+            >
+              Order Now
+            </a>
 
             <button
               className="burger"
@@ -75,7 +89,7 @@ export default function Navbar() {
           {links.map(l => (
             l.page
               ? <Link key={l.href} to={l.href} onClick={() => setMenuOpen(false)}>{l.label}</Link>
-              : <a key={l.href} href={l.href} onClick={() => setMenuOpen(false)}>{l.label}</a>
+              : <a key={l.href} href={getHref(l.href)} onClick={() => setMenuOpen(false)}>{l.label}</a>
           ))}
           <button
             className="mobile-cart-row"
@@ -83,7 +97,12 @@ export default function Navbar() {
           >
             🛒 Cart {totalItems > 0 ? `(${totalItems})` : ""}
           </button>
-          <a href="#contact" onClick={() => setMenuOpen(false)}>Order Now</a>
+          
+            href={isHome ? "#contact" : "/#contact"}
+            onClick={() => setMenuOpen(false)}
+          >
+            Order Now
+          </a>
         </div>
       </div>
     </header>

@@ -1,0 +1,59 @@
+# ——— ALL USERS & SEARCH ENGINES ———
+User-agent: *
+Allow: /
+
+# ——— OPENAI ———
+User-agent: GPTBot
+Allow: /
+
+User-agent: OAI-SearchBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+# ——— ANTHROPIC (CLAUDE) ———
+User-agent: anthropic-ai
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: Claude-SearchBot
+Allow: /
+
+# ——— PERPLEXITY ———
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: Perplexity-User
+Allow: /
+
+# ——— GOOGLE (GEMINI + AI OVERVIEWS) ———
+User-agent: Google-Extended
+Allow: /
+
+# ——— MICROSOFT (BING / COPILOT) ———
+User-agent: Bingbot
+Allow: /
+
+# ——— APPLE ———
+User-agent: Applebot
+Allow: /
+
+User-agent: Applebot-Extended
+Allow: /
+
+# ——— META ———
+User-agent: FacebookBot
+Allow: /
+
+User-agent: meta-externalagent
+Allow: /
+
+# ——— COMMON CRAWL ———
+User-agent: CCBot
+Allow: /
+
+# ——— SITEMAP ———
+Sitemap: https://trinatechtonersandprinters.co.ke/sitemap.xml

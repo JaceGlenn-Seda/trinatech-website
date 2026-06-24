@@ -1,4 +1,5 @@
 import React, { useState } from "react";
+import usePageMeta from "@/hooks/usePageMeta";
 import { Link } from "react-router-dom";
 import { CartProvider } from "@/lib/CartContext";
 import TriBar from "../components/trinatech/TriBar";
@@ -6,6 +7,10 @@ import Navbar from "../components/trinatech/Navbar";
 import Footer from "../components/trinatech/Footer";
 
 export default function Contact() {
+  usePageMeta({
+    title: "Contact Trinatech | Toner Shop Nairobi CBD | 0729 589 346",
+    description: "Visit Trinatech at The One Mall, Ground Floor, River Road CBD, Nairobi. Call 0729 589 346. WhatsApp orders accepted. Open Mon–Fri 8:30am–8pm, Sat–Sun 9:30am–6:30pm.",
+  });
   const [name, setName] = useState("");
   const [product, setProduct] = useState("");
   const [msg, setMsg] = useState("");

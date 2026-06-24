@@ -1,4 +1,5 @@
 import React from "react";
+import usePageMeta from "@/hooks/usePageMeta";
 import { Link } from "react-router-dom";
 import { CartProvider } from "@/lib/CartContext";
 import TriBar from "../components/trinatech/TriBar";
@@ -29,6 +30,10 @@ const topics = [
 ];
 
 export default function PrintingGuide() {
+  usePageMeta({
+    title: "Printer & Toner Buying Guide Kenya | Trinatech Nairobi",
+    description: "Complete guide to choosing the right toner and printer in Kenya. HP, Kyocera, Canon, Epson — genuine vs compatible explained. By Trinatech Nairobi.",
+  });
   return (
     <CartProvider>
       <div style={{ background: "var(--paper)", minHeight: "100vh" }}>

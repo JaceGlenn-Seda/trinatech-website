@@ -1,4 +1,5 @@
 import React, { useState } from "react";
+import usePageMeta from "@/hooks/usePageMeta";
 import { useParams, Link } from "react-router-dom";
 import TriBar from "../components/trinatech/TriBar";
 import Footer from "../components/trinatech/Footer";
@@ -229,6 +230,10 @@ function FaqItem({ q, a }) {
 }
 
 export default function BlogPost() {
+  usePageMeta({
+    title: "Printing Tips & Toner Guides Nairobi | Trinatech Blog",
+    description: "Expert printing tips, toner guides, and printer advice for Nairobi businesses. HP, Kyocera, Canon, Epson & more. By Trinatech Toners & Printers Kenya.",
+  });
   const { slug } = useParams();
   const post = BLOG_POSTS.find(p => p.slug === slug);
   const content = CONTENT[slug];

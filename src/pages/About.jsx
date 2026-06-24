@@ -1,4 +1,5 @@
 import React from "react";
+import usePageMeta from "@/hooks/usePageMeta";
 import { Link } from "react-router-dom";
 import { CartProvider } from "@/lib/CartContext";
 import TriBar from "../components/trinatech/TriBar";
@@ -6,6 +7,10 @@ import Navbar from "../components/trinatech/Navbar";
 import Footer from "../components/trinatech/Footer";
 
 export default function About() {
+  usePageMeta({
+    title: "About Trinatech | Printer Shop River Road CBD Nairobi",
+    description: "Trinatech Toners & Printers Kenya is Nairobi's go-to store for genuine HP, Canon, Kyocera & Epson toners. Based at The One Mall, River Road CBD Nairobi.",
+  });
   return (
     <CartProvider>
       <div style={{ background: "var(--paper)", minHeight: "100vh" }}>

@@ -1,4 +1,5 @@
 import React, { useState, useCallback, useRef } from "react";
+import usePageMeta from "@/hooks/usePageMeta";
 import { CartProvider } from "@/lib/CartContext";
 import TriBar from "../components/trinatech/TriBar";
 import Navbar from "../components/trinatech/Navbar";
@@ -45,6 +46,10 @@ export const PRODUCTS = [
 ];
 
 function HomeContent() {
+  usePageMeta({
+    title: "Toner Cartridges, Ink & Printers Nairobi | Trinatech",
+    description: "Buy genuine HP, Kyocera, Canon, Epson toners & printers in Nairobi CBD. 1,000+ products in stock. Same-day delivery. Call 0729 589 346.",
+  });
   const [toastMsg, setToastMsg] = useState("");
   const [toastVisible, setToastVisible] = useState(false);
   const timerRef = useRef(null);

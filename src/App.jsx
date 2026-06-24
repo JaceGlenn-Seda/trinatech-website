@@ -5,6 +5,7 @@ import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
 import PageNotFound from './lib/PageNotFound';
 import { AuthProvider, useAuth } from '@/lib/AuthContext';
 import UserNotRegisteredError from '@/components/UserNotRegisteredError';
+
 import ScrollToTop from './components/ScrollToTop';
 import Home from './pages/Home';
 import BlogPost from './pages/BlogPost';
@@ -14,26 +15,14 @@ import PrintingGuide from './pages/PrintingGuide';
 // Add page imports here
 
 const AuthenticatedApp = () => {
-  const { isLoadingAuth, isLoadingPublicSettings, authError, navigateToLogin } = useAuth();
+  const { authError } = useAuth();
 
-  // Show loading spinner while checking app public settings or auth
-  if (isLoadingPublicSettings || isLoadingAuth) {
-    return (
-      <div className="fixed inset-0 flex items-center justify-center">
-        <div className="w-8 h-8 border-4 border-slate-200 border-t-slate-800 rounded-full animate-spin"></div>
-      </div>
-    );
+  // Only block rendering for user_not_registered — all other states render the public app immediately
+  if (authError?.type === 'user_not_registered') {
+    return <UserNotRegisteredError />;
   }
 
-  // Handle authentication errors
-  if (authError) {
-    if (authError.type === 'user_not_registered') {
-      return <UserNotRegisteredError />;
-    }
-    // For auth_required and other errors on a public site, just render the app
-  }
-
-  // Render the main app
+  // Render routes immediately so crawlers and the sitemap checker never get a redirect
   return (
     <Routes>
       <Route path="/" element={<Home />} />

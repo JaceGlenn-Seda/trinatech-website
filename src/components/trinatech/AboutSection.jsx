@@ -67,6 +67,11 @@ export default function AboutSection() {
             </RevealWrap>
           ))}
         </div>
+        <RevealWrap>
+          <p style={{ color: "var(--ink-soft)", fontSize: 14.5, lineHeight: 1.75, marginTop: 36, maxWidth: 820, marginLeft: "auto", marginRight: "auto", textAlign: "center" }}>
+            Trinatech is Nairobi's trusted toner shop on River Road CBD — supplying schools, corporate offices, cyber cafes and home users with genuine and compatible printer supplies since 2014. We stock HP original toners, Kyocera toner cartridges, Canon ink cartridges, Epson printer ink, Ricoh toners, Brother ink and printer parts. Bulk pricing available for schools and businesses. Same-day delivery within Nairobi. Countrywide delivery via courier.
+          </p>
+        </RevealWrap>
       </div>
     </section>
   );

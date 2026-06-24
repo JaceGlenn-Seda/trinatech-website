@@ -68,6 +68,12 @@ export default function ProductGrid({ products }) {
           </div>
         </RevealWrap>
 
+        <RevealWrap>
+          <p style={{ color: "var(--ink-soft)", fontSize: 14.5, lineHeight: 1.75, marginBottom: 28 }}>
+            Shop genuine HP toners, Royal compatible toners, Kyocera cartridges, Canon ink, Epson ink, Ricoh toners and laser printers in Nairobi CBD — all in stock, all with same-day availability.
+          </p>
+        </RevealWrap>
+
         {/* Filter bar */}
         <RevealWrap>
           <div className="shop-filter-bar">

@@ -28,6 +28,11 @@ export default function ProcessSection() {
             </RevealWrap>
           ))}
         </div>
+        <RevealWrap className="text-center">
+          <p style={{ color: "var(--ink-soft)", fontSize: 14.5, lineHeight: 1.75, marginTop: 40 }}>
+            Serving printer shops, schools, cyber cafes and corporate offices across Nairobi, Mombasa, Kisumu and countrywide Kenya.
+          </p>
+        </RevealWrap>
       </div>
     </section>
   );

@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+import React, { useState, useEffect } from "react";
 import usePageMeta from "@/hooks/usePageMeta";
 import { useParams, Link } from "react-router-dom";
 import TriBar from "../components/trinatech/TriBar";
@@ -235,6 +235,52 @@ export default function BlogPost() {
     description: "Expert printing tips, toner guides, and printer advice for Nairobi businesses. HP, Kyocera, Canon, Epson & more. By Trinatech Toners & Printers Kenya.",
   });
   const { slug } = useParams();
+
+  // ARTICLE SCHEMA — AEO/GEO Layer
+  useEffect(() => {
+    const post = BLOG_POSTS.find(p => p.slug === slug);
+    if (!post) return;
+    const schema = {
+      "@context": "https://schema.org",
+      "@type": "Article",
+      "headline": post.title,
+      "description": post.excerpt,
+      "author": {
+        "@type": "Organization",
+        "name": "Trinatech Toners & Printers Kenya"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "Trinatech Toners & Printers Kenya",
+        "url": "https://trinatechtonersandprinters.co.ke",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://trinatechtonersandprinters.co.ke/logo.png"
+        }
+      },
+      "datePublished": post.date,
+      "dateModified": post.date,
+      "url": `https://trinatechtonersandprinters.co.ke/blog/${post.slug}`,
+      "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": `https://trinatechtonersandprinters.co.ke/blog/${post.slug}`
+      },
+      "image": post.img,
+      "keywords": post.tags ? post.tags.join(", ") : "toner, printer, Nairobi, Kenya"
+    };
+    let el = document.getElementById("article-schema");
+    if (!el) {
+      el = document.createElement("script");
+      el.id = "article-schema";
+      el.type = "application/ld+json";
+      document.head.appendChild(el);
+    }
+    el.textContent = JSON.stringify(schema);
+    return () => {
+      const s = document.getElementById("article-schema");
+      if (s) s.remove();
+    };
+  }, [slug]);
   const post = BLOG_POSTS.find(p => p.slug === slug);
   const content = CONTENT[slug];
   const related = BLOG_POSTS.filter(p => p.slug !== slug).slice(0, 3);

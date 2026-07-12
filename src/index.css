@@ -661,6 +661,9 @@
 /* Focus */
 a:focus-visible, button:focus-visible, summary:focus-visible { outline: 3px solid var(--navy); outline-offset: 3px; border-radius: 6px; }
 
+/* Force font-mono Tailwind class to use Plus Jakarta Sans */
+.font-mono { font-family: 'Plus Jakarta Sans', system-ui, sans-serif !important; }
+
 /* Reduced motion */
 @media (prefers-reduced-motion: reduce) {
   .tt-reveal { opacity: 1; transform: none; transition: none; }

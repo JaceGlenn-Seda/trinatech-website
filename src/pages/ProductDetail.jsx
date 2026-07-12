@@ -90,7 +90,7 @@ function ProductDetailContent() {
   if (!product) {
     return (
       <div className="mx-auto max-w-3xl px-4 py-24 text-center">
-        <p className="font-mono text-xs uppercase tracking-widest" style={{ color: RED }}>
+        <p className="font-sans text-xs uppercase tracking-widest" style={{ color: RED }}>
           Product not found
         </p>
         <h1 className="mt-3 text-2xl font-bold" style={{ color: NAVY }}>
@@ -115,7 +115,7 @@ function ProductDetailContent() {
   return (
     <div className="mx-auto max-w-6xl px-4 py-8 md:py-12">
       {/* BREADCRUMB */}
-      <nav className="mb-6 font-mono text-xs uppercase tracking-widest text-gray-500" aria-label="Breadcrumb">
+      <nav className="mb-6 font-sans text-xs uppercase tracking-widest text-gray-500" aria-label="Breadcrumb">
         <a href="/" className="hover:underline">Home</a>
         <span className="mx-2">/</span>
         <a href="/#shop" className="hover:underline">Shop</a>
@@ -140,7 +140,7 @@ function ProductDetailContent() {
 
         {/* INFO */}
         <div className="flex flex-col justify-center">
-          <p className="font-mono text-xs uppercase tracking-widest text-gray-500">
+          <p className="font-sans text-xs uppercase tracking-widest text-gray-500">
             {product.category}
           </p>
 
@@ -150,17 +150,17 @@ function ProductDetailContent() {
 
           <div className="mt-3 flex items-center gap-3">
             <span
-              className="rounded px-2.5 py-1 font-mono text-xs font-semibold uppercase tracking-wider text-white"
+              className="rounded px-2.5 py-1 font-sans text-xs font-semibold uppercase tracking-wider text-white"
               style={{ background: NAVY }}
             >
               {product.brand}
             </span>
-            <span className="rounded bg-green-100 px-2.5 py-1 font-mono text-xs font-semibold uppercase tracking-wider text-green-700">
+            <span className="rounded bg-green-100 px-2.5 py-1 font-sans text-xs font-semibold uppercase tracking-wider text-green-700">
               In Stock
             </span>
           </div>
 
-          <p className="mt-5 font-mono text-3xl font-bold md:text-4xl" style={{ color: NAVY }}>
+          <p className="mt-5 font-sans text-3xl font-bold md:text-4xl" style={{ color: NAVY }}>
             {formatPrice(product.price)}
           </p>
 
@@ -192,7 +192,7 @@ function ProductDetailContent() {
 
           {/* PAYMENTS */}
           <div className="mt-5 flex items-center gap-2">
-            <span className="font-mono text-xs uppercase tracking-widest text-gray-500">We accept:</span>
+            <span className="font-sans text-xs uppercase tracking-widest text-gray-500">We accept:</span>
             {["M-Pesa", "Cash", "Bank Transfer"].map((m) => (
               <span key={m} className="rounded border border-gray-300 bg-gray-50 px-2 py-0.5 text-xs font-semibold text-gray-700">
                 {m}
@@ -247,9 +247,9 @@ function ProductDetailContent() {
                   />
                 </div>
                 <div className="p-4 pt-1">
-                  <p className="font-mono text-[10px] uppercase tracking-widest text-gray-500">{p.category}</p>
+                  <p className="font-sans text-[10px] uppercase tracking-widest text-gray-500">{p.category}</p>
                   <p className="mt-1 line-clamp-2 text-sm font-bold leading-snug" style={{ color: NAVY }}>{p.name}</p>
-                  <p className="mt-2 font-mono text-sm font-bold" style={{ color: NAVY }}>{formatPrice(p.price)}</p>
+                  <p className="mt-2 font-sans text-sm font-bold" style={{ color: NAVY }}>{formatPrice(p.price)}</p>
                 </div>
               </a>
             ))}

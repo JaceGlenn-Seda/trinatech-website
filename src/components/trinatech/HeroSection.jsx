@@ -1,5 +1,6 @@
 import React from "react";
 import RevealWrap from "./RevealWrap";
+import TypewriterWord from "./TypewriterWord";
 
 export default function HeroSection() {
   return (
@@ -9,7 +10,9 @@ export default function HeroSection() {
           <div className="eyebrow"><span className="dot"></span> Nairobi · The One Mall, River Road</div>
         </RevealWrap>
         <RevealWrap>
-          <h1>Nairobi's One-Stop Shop for <span className="red">Toners, Ink & Printers</span></h1>
+          <h1 aria-label="Nairobi's One-Stop Shop for Toners, Ink & Printers">
+            Nairobi's One-Stop Shop for <TypewriterWord />
+          </h1>
         </RevealWrap>
         <RevealWrap>
           <p>Trinatech stocks 1,000+ genuine and compatible toners, ink cartridges, printers and copiers from HP, Kyocera, Canon, Epson, Ricoh, Brother, Toshiba and Royal. Based at The One Mall, Ground Floor, River Road CBD, Nairobi. Same-day service available.</p>

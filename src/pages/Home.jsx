@@ -20,6 +20,7 @@ import SearchOverlay from "../components/trinatech/SearchOverlay";
 import CartDrawer from "../components/trinatech/CartDrawer";
 import CheckoutModal from "../components/trinatech/CheckoutModal";
 import BlogSection from "../components/trinatech/BlogSection";
+import FeaturedCarousel from "../components/trinatech/FeaturedCarousel";
 
 import { PRODUCTS } from "@/data/products";
 
@@ -67,6 +68,9 @@ function HomeContent() {
       />
       <SuppliesSection images={IMAGES} />
       <ProductGrid />
+      <div className="tt-container" style={{ paddingBottom: 48 }}>
+        <FeaturedCarousel />
+      </div>
       <VideosSection />
       <ProcessSection />
       <CtaBand

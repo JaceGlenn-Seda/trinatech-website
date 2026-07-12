@@ -28,7 +28,7 @@ export const CATEGORIES = [
   "Toshiba Toners"
 ];
 
-export const formatPrice = (n) => `KES ${n.toLocaleString()}`;
+export const formatPrice = (n) => `KSh ${n.toLocaleString()}`;
 
 export const PRODUCTS = [
   {"id": 4967, "sku": "TN-1000", "name": "Brother TN-1000 Black Toner Cartridge", "brand": "Brother", "category": "Brother Toners", "price": 2500, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/Brother-TN-1000-Black-Toner-Cartridge.webp", "imageFile": "Brother-TN-1000-Black-Toner-Cartridge.webp", "description": "BROTHER TN-1000 BLACK TONER CARTRIDGE", "inStock": true},

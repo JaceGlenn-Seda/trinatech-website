@@ -30,7 +30,7 @@ export function CartProvider({ children }) {
   const clearCart = useCallback(() => setItems([]), []);
 
   const totalItems = items.reduce((s, i) => s + i.qty, 0);
-  const subtotal = items.reduce((s, i) => s + i.priceNum * i.qty, 0);
+  const subtotal = items.reduce((s, i) => s + (i.price || 0) * i.qty, 0);
 
   return (
     <CartContext.Provider value={{

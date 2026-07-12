@@ -44,7 +44,7 @@ export default function CartDrawer() {
                   <div className="ci-info">
                     <div className="ci-cat">{item.category}</div>
                     <div className="ci-name">{item.name}</div>
-                    <div className="ci-price">KSh {fmt(item.priceNum)}</div>
+                    <div className="ci-price">KSh {fmt(item.price)}</div>
                     <div className="ci-controls">
                       <button onClick={() => updateQty(item.id, item.qty - 1)} aria-label="Decrease qty">−</button>
                       <span>{item.qty}</span>

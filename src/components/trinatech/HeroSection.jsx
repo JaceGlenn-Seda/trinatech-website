@@ -1,11 +1,20 @@
 import React from "react";
 import RevealWrap from "./RevealWrap";
 import TypewriterWord from "./TypewriterWord";
+import CircuitMotif from "./CircuitMotif";
 
 export default function HeroSection() {
   return (
-    <section className="tt-hero" id="top">
-      <div className="tt-container">
+    <section className="tt-hero" id="top" style={{ position: "relative", overflow: "hidden" }}>
+      <CircuitMotif
+        style={{
+          top: 0,
+          left: 0,
+          color: "#1a2c6b",
+          opacity: 0.08,
+        }}
+      />
+      <div className="tt-container" style={{ position: "relative", zIndex: 1 }}>
         <RevealWrap>
           <div className="eyebrow"><span className="dot"></span> Nairobi · The One Mall, River Road</div>
         </RevealWrap>

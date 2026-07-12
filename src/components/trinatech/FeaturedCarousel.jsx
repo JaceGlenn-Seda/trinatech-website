@@ -13,6 +13,7 @@
 
 import React, { useRef, useState, useEffect } from "react";
 import { PRODUCTS, formatPrice } from "@/data/products";
+import CircuitMotif from "./CircuitMotif";
 
 const NAVY = "#1a2c6b";
 const RED = "#d3222a";
@@ -75,6 +76,10 @@ export default function FeaturedCarousel() {
           "linear-gradient(135deg, #101c4d 0%, #1a2c6b 55%, #2b1a5e 100%)",
       }}
     >
+      {/* Circuit motifs */}
+      <CircuitMotif style={{ top: 0, left: 0, color: "white", opacity: 0.14 }} />
+      <CircuitMotif style={{ bottom: 0, right: 0, color: "white", opacity: 0.14, transform: "rotate(180deg)" }} />
+
       {/* Header row */}
       <div className="mb-8 flex flex-wrap items-end justify-between gap-4">
         <div>

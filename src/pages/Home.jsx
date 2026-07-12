@@ -21,7 +21,9 @@ import CartDrawer from "../components/trinatech/CartDrawer";
 import CheckoutModal from "../components/trinatech/CheckoutModal";
 import BlogSection from "../components/trinatech/BlogSection";
 
-// Product images
+import { PRODUCTS } from "@/data/products";
+
+// Hero section images (kept for HeroSection + SuppliesSection)
 const IMAGES = {
   hp55a: "https://media.base44.com/images/public/6a2af0be8cd723993cb3cb6c/5c5caf757_generated_15d1fc43.png",
   kyocera4012i: "https://media.base44.com/images/public/6a2af0be8cd723993cb3cb6c/1a88ba84b_generated_73a704d3.png",
@@ -33,17 +35,6 @@ const IMAGES = {
   royal107a: "https://media.base44.com/images/public/6a2af0be8cd723993cb3cb6c/3301d3144_generated_54855544.png",
   royal85a: "https://media.base44.com/images/public/6a2af0be8cd723993cb3cb6c/cbf44078e_generated_44344c8f.png",
 };
-
-export const PRODUCTS = [
-  { id: "p1", img: IMAGES.ricohMpc2503, name: "Ricoh MPC2503 Toner Cartridge", category: "Ricoh Toners", price: "3,300", priceNum: 3300, badge: "Hot offer" },
-  { id: "p2", img: IMAGES.hp151a, name: "HP 151A Black LaserJet Toner (W1510A)", category: "HP Original Toners", price: "13,000", priceNum: 13000, badge: "Original", badgeClass: "original" },
-  { id: "p3", img: IMAGES.samsungD101s, name: "Samsung MLT-D101S Black Toner", category: "Toner Cartridges", price: "10,000", priceNum: 10000 },
-  { id: "p4", img: IMAGES.kyoceraM2135, name: "Kyocera Ecosys M2135DN A4 Mono MFP", category: "Printers & Copiers", price: "95,000", priceNum: 95000 },
-  { id: "p5", img: IMAGES.hp55a, name: "HP 55A Black Original LaserJet Toner", category: "HP Original Toners", price: "11,000", priceNum: 11000, badge: "Original", badgeClass: "original" },
-  { id: "p6", img: IMAGES.hp652, name: "HP 652 Black Original Ink Cartridge", category: "Ink Cartridges", price: "2,500", priceNum: 2500, badge: "Original", badgeClass: "original" },
-  { id: "p7", img: IMAGES.royal107a, name: "Royal Superior 107A LaserJet Toner", category: "Royal Compatible Toners", price: "2,200", priceNum: 2200, badge: "Best value" },
-  { id: "p8", img: IMAGES.royal85a, name: "Royal Toner 85A / 35A Cartridge", category: "Royal Compatible Toners", price: "2,000", priceNum: 2000 },
-];
 
 function HomeContent() {
   usePageMeta({
@@ -75,7 +66,7 @@ function HomeContent() {
         btnClass="tt-btn-navy"
       />
       <SuppliesSection images={IMAGES} />
-      <ProductGrid products={PRODUCTS} />
+      <ProductGrid />
       <VideosSection />
       <ProcessSection />
       <CtaBand

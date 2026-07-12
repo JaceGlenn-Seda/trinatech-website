@@ -1,8 +1,7 @@
 import React, { useState } from "react";
 import RevealWrap from "./RevealWrap";
 import { useCart } from "@/lib/CartContext";
-
-const CATEGORIES = ["All", "HP Original Toners", "Royal Compatible Toners", "Toner Cartridges", "Ink Cartridges", "Printers & Copiers", "Ricoh Toners"];
+import { PRODUCTS, BRANDS, CATEGORIES, formatPrice } from "@/data/products";
 
 function ProductCard({ product }) {
   const { addItem, setCartOpen } = useCart();
@@ -15,15 +14,6 @@ function ProductCard({ product }) {
     setTimeout(() => setCartOpen(true), 400);
   };
 
-  const brandName =
-    product.category.includes("HP") ? "HP" :
-    product.category.includes("Kyocera") ? "Kyocera" :
-    product.category.includes("Ricoh") ? "Ricoh" :
-    product.category.includes("Royal") ? "Royal" :
-    product.category.includes("Canon") ? "Canon" :
-    product.category.includes("Epson") ? "Epson" :
-    product.category.includes("Brother") ? "Brother" : "Trinatech";
-
   const productSchema = {
     "@context": "https://schema.org",
     "@type": "Product",
@@ -31,12 +21,12 @@ function ProductCard({ product }) {
     "description": `${product.name} — ${product.category} available at Trinatech Toners & Printers Kenya, The One Mall, River Road CBD, Nairobi. Same-day delivery available.`,
     "brand": {
       "@type": "Brand",
-      "name": brandName
+      "name": product.brand
     },
     "offers": {
       "@type": "Offer",
       "priceCurrency": "KES",
-      "price": String(product.price).replace(/,/g, ""),
+      "price": String(product.price),
       "availability": "https://schema.org/InStock",
       "url": "https://trinatechtonersandprinters.co.ke/shop/",
       "seller": {
@@ -50,23 +40,19 @@ function ProductCard({ product }) {
   return (
     <RevealWrap>
       <article className="product-card">
-        {/* PRODUCT SCHEMA — AEO/GEO Layer */}
         <script
           type="application/ld+json"
           dangerouslySetInnerHTML={{ __html: JSON.stringify(productSchema) }}
         />
         <div className="strip" aria-hidden="true"><span></span><span></span><span></span></div>
         <div className="product-media">
-          {product.badge && (
-            <span className={`badge${product.badgeClass ? ` ${product.badgeClass}` : ""}`}>{product.badge}</span>
-          )}
-          <img src={product.img} alt={product.name} loading="lazy" />
+          <img src={product.image} alt={product.name} loading="lazy" />
         </div>
         <div className="product-info">
           <div className="cat">{product.category}</div>
           <h3>{product.name}</h3>
           <div className="product-foot">
-            <div className="price"><small>KSh</small>{product.price}</div>
+            <div className="price">{formatPrice(product.price)}</div>
             <button
               className={`add-btn${added ? " added" : ""}`}
               aria-label={`Add ${product.name} to cart`}
@@ -81,14 +67,16 @@ function ProductCard({ product }) {
   );
 }
 
-export default function ProductGrid({ products }) {
+export default function ProductGrid() {
   const [activeCategory, setActiveCategory] = useState("All");
+  const [activeBrand, setActiveBrand] = useState("All");
   const [searchQ, setSearchQ] = useState("");
 
-  const filtered = products.filter(p => {
+  const filtered = PRODUCTS.filter(p => {
     const catMatch = activeCategory === "All" || p.category === activeCategory;
+    const brandMatch = activeBrand === "All" || p.brand === activeBrand;
     const searchMatch = !searchQ.trim() || p.name.toLowerCase().includes(searchQ.toLowerCase()) || p.category.toLowerCase().includes(searchQ.toLowerCase());
-    return catMatch && searchMatch;
+    return catMatch && brandMatch && searchMatch;
   });
 
   return (
@@ -113,29 +101,56 @@ export default function ProductGrid({ products }) {
 
         {/* Filter bar */}
         <RevealWrap>
-          <div className="shop-filter-bar">
+          <div className="shop-filter-bar" style={{ flexDirection: "column", alignItems: "flex-start", gap: 10 }}>
+            {/* Brand filter */}
             <div className="shop-cats">
-              {CATEGORIES.map(c => (
+              <button
+                className={`cat-pill${activeBrand === "All" ? " active" : ""}`}
+                onClick={() => setActiveBrand("All")}
+              >
+                All Brands
+              </button>
+              {BRANDS.map(b => (
                 <button
-                  key={c}
-                  className={`cat-pill${activeCategory === c ? " active" : ""}`}
-                  onClick={() => setActiveCategory(c)}
+                  key={b}
+                  className={`cat-pill${activeBrand === b ? " active" : ""}`}
+                  onClick={() => setActiveBrand(b)}
                 >
-                  {c}
+                  {b}
                 </button>
               ))}
             </div>
-            <div className="shop-search-inline">
-              <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2.2" strokeLinecap="round" strokeLinejoin="round">
-                <circle cx="11" cy="11" r="8"/><path d="m21 21-4.35-4.35"/>
-              </svg>
-              <input
-                placeholder="Search in products…"
-                value={searchQ}
-                onChange={e => setSearchQ(e.target.value)}
-                aria-label="Filter products"
-              />
-              {searchQ && <button onClick={() => setSearchQ("")} className="ssi-clear">✕</button>}
+            {/* Category filter + search */}
+            <div style={{ display: "flex", gap: 10, flexWrap: "wrap", alignItems: "center", width: "100%" }}>
+              <div className="shop-cats" style={{ flex: 1 }}>
+                <button
+                  className={`cat-pill${activeCategory === "All" ? " active" : ""}`}
+                  onClick={() => setActiveCategory("All")}
+                >
+                  All Categories
+                </button>
+                {CATEGORIES.map(c => (
+                  <button
+                    key={c}
+                    className={`cat-pill${activeCategory === c ? " active" : ""}`}
+                    onClick={() => setActiveCategory(c)}
+                  >
+                    {c}
+                  </button>
+                ))}
+              </div>
+              <div className="shop-search-inline">
+                <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2.2" strokeLinecap="round" strokeLinejoin="round">
+                  <circle cx="11" cy="11" r="8"/><path d="m21 21-4.35-4.35"/>
+                </svg>
+                <input
+                  placeholder="Search products…"
+                  value={searchQ}
+                  onChange={e => setSearchQ(e.target.value)}
+                  aria-label="Filter products"
+                />
+                {searchQ && <button onClick={() => setSearchQ("")} className="ssi-clear">✕</button>}
+              </div>
             </div>
           </div>
         </RevealWrap>
@@ -144,7 +159,7 @@ export default function ProductGrid({ products }) {
           <div style={{ textAlign: "center", padding: "60px 0", color: "var(--ink-soft)" }}>
             <div style={{ fontSize: 40, marginBottom: 12 }}>🔎</div>
             <div style={{ fontFamily: "var(--font-display)", fontWeight: 700, fontSize: 18, marginBottom: 8 }}>No products found</div>
-            <button className="tt-btn tt-btn-ghost" onClick={() => { setSearchQ(""); setActiveCategory("All"); }}>Clear filters</button>
+            <button className="tt-btn tt-btn-ghost" onClick={() => { setSearchQ(""); setActiveCategory("All"); setActiveBrand("All"); }}>Clear filters</button>
           </div>
         ) : (
           <div className="product-grid">

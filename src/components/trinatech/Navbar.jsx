@@ -64,7 +64,7 @@ export default function Navbar() {
             </button>
 
             {/* Order Now — hidden on mobile via CSS */}
-            
+            <a
               className="tt-btn tt-btn-red nav-order-btn"
               href={isHome ? "#contact" : "/#contact"}
               style={{ padding: "11px 22px", fontSize: 14 }}
@@ -97,8 +97,9 @@ export default function Navbar() {
           >
             🛒 Cart {totalItems > 0 ? `(${totalItems})` : ""}
           </button>
-          
+          <a
             href={isHome ? "#contact" : "/#contact"}
+            className="tt-btn tt-btn-red"
             onClick={() => setMenuOpen(false)}
           >
             Order Now

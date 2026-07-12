@@ -39,31 +39,30 @@ function AnimatedCounter({ target, suffix, label }) {
   return (
     <div ref={ref} className="counter" style={{ padding: "40px 28px 36px" }}>
       {/* Number hero */}
-      <div style={{ lineHeight: 1, marginBottom: 14 }}>
+      <div style={{ display: "flex", alignItems: "flex-start", lineHeight: 1, marginBottom: 14 }}>
         <span
           style={{
             fontFamily: "var(--font-display)",
             fontWeight: 800,
-            fontSize: "clamp(3.5rem, 7vw, 5rem)",
+            fontSize: "clamp(2rem, 5vw, 2.75rem)",
             letterSpacing: "-0.03em",
             color: "#1a2c6b",
           }}
         >
           {value.toLocaleString()}
         </span>
-        <sup
+        <span
           style={{
             fontFamily: "var(--font-display)",
             fontWeight: 800,
-            fontSize: "clamp(2rem, 4vw, 3rem)",
-            letterSpacing: "-0.03em",
+            fontSize: "clamp(1.1rem, 2.8vw, 1.5rem)",
+            letterSpacing: "-0.02em",
             color: "#d3222a",
-            verticalAlign: "super",
-            lineHeight: 0,
+            marginTop: "0.15em",
           }}
         >
           {suffix}
-        </sup>
+        </span>
       </div>
       {/* Label */}
       <span

@@ -292,7 +292,7 @@ export default function BlogPost() {
           <TriBar />
           <Navbar />
           <div className="tt-container" style={{ padding: "120px 24px", textAlign: "center" }}>
-            <h1 style={{ fontFamily: "var(--font-display)", fontSize: 32 }}>Article not found</h1>
+            <h1 style={{ fontSize: 32 }}>Article not found</h1>
             <Link to="/" className="tt-btn tt-btn-navy" style={{ marginTop: 24, display: "inline-flex" }}>← Back to home</Link>
           </div>
           <Footer />

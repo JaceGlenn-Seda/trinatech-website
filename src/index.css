@@ -96,9 +96,7 @@
     line-height: 1.6;
     font-family: 'Plus Jakarta Sans', system-ui, sans-serif;
   }
-  body, h1, h2, h3, h4, h5, h6, p, a, button, input, textarea, select, li {
-    font-family: 'Plus Jakarta Sans', system-ui, sans-serif;
-  }
+  /* font-family set globally by universal rule at end of file */
   h1, h2, h3 {
     font-weight: 700;
     letter-spacing: -0.02em;
@@ -661,8 +659,14 @@
 /* Focus */
 a:focus-visible, button:focus-visible, summary:focus-visible { outline: 3px solid var(--navy); outline-offset: 3px; border-radius: 6px; }
 
-/* Force font-mono Tailwind class to use Plus Jakarta Sans */
-.font-mono { font-family: 'Plus Jakarta Sans', system-ui, sans-serif !important; }
+/* ── Universal font enforcement — single source of truth ── */
+*,
+*::before,
+*::after {
+  font-family: 'Plus Jakarta Sans', system-ui, sans-serif !important;
+}
+
+h1, h2, h3 { font-weight: 800 !important; letter-spacing: -0.02em; }
 
 /* Reduced motion */
 @media (prefers-reduced-motion: reduce) {

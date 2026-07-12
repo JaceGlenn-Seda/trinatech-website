@@ -1,7 +1,7 @@
 import React, { useEffect, useMemo } from "react";
 import { PRODUCTS, formatPrice } from "@/data/products";
 import usePageMeta from "@/hooks/usePageMeta";
-import { CartProvider, useCart } from "@/lib/CartContext";
+import { useCart } from "@/lib/CartContext";
 import TriBar from "@/components/trinatech/TriBar";
 import Navbar from "@/components/trinatech/Navbar";
 import Footer from "@/components/trinatech/Footer";
@@ -262,17 +262,15 @@ function ProductDetailContent() {
 
 export default function ProductDetail() {
   return (
-    <CartProvider>
-      <div style={{ background: "var(--paper)", minHeight: "100vh" }}>
-        <TriBar />
-        <Navbar />
-        <ProductDetailContent />
-        <Footer />
-        <WhatsAppFloat />
-        <SearchOverlay products={PRODUCTS} />
-        <CartDrawer />
-        <CheckoutModal />
-      </div>
-    </CartProvider>
+    <div style={{ background: "var(--paper)", minHeight: "100vh" }}>
+      <TriBar />
+      <Navbar />
+      <ProductDetailContent />
+      <Footer />
+      <WhatsAppFloat />
+      <SearchOverlay products={PRODUCTS} />
+      <CartDrawer />
+      <CheckoutModal />
+    </div>
   );
 }

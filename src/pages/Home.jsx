@@ -1,6 +1,6 @@
 import React, { useState, useCallback, useRef } from "react";
 import usePageMeta from "@/hooks/usePageMeta";
-import { CartProvider } from "@/lib/CartContext";
+
 import TriBar from "../components/trinatech/TriBar";
 import Navbar from "../components/trinatech/Navbar";
 import HeroSection from "../components/trinatech/HeroSection";
@@ -93,9 +93,5 @@ function HomeContent() {
 }
 
 export default function Home() {
-  return (
-    <CartProvider>
-      <HomeContent />
-    </CartProvider>
-  );
+  return <HomeContent />;
 }

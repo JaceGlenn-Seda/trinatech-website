@@ -4,6 +4,7 @@ import { queryClientInstance } from '@/lib/query-client'
 import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
 import PageNotFound from './lib/PageNotFound';
 import { AuthProvider, useAuth } from '@/lib/AuthContext';
+import { CartProvider } from '@/lib/CartContext';
 import UserNotRegisteredError from '@/components/UserNotRegisteredError';
 
 import ScrollToTop from './components/ScrollToTop';
@@ -44,8 +45,10 @@ function App() {
     <AuthProvider>
       <QueryClientProvider client={queryClientInstance}>
         <Router>
-          <ScrollToTop />
-          <AuthenticatedApp />
+          <CartProvider>
+            <ScrollToTop />
+            <AuthenticatedApp />
+          </CartProvider>
         </Router>
         <Toaster />
       </QueryClientProvider>

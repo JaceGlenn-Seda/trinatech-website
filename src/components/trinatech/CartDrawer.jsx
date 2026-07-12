@@ -39,7 +39,17 @@ export default function CartDrawer() {
               {items.map(item => (
                 <div key={item.id} className="cart-item">
                   <div className="ci-img">
-                    <img src={item.img} alt={item.name} />
+                    <img
+                      src={item.image}
+                      alt={item.name}
+                      onError={e => {
+                        e.currentTarget.style.display = "none";
+                        e.currentTarget.nextSibling.style.display = "flex";
+                      }}
+                    />
+                    <div style={{ display: "none", alignItems: "center", justifyContent: "center", width: "100%", height: "100%", background: "var(--paper-2)", borderRadius: 8, fontSize: 11, color: "var(--ink-soft)", fontWeight: 600, textAlign: "center", padding: "4px" }}>
+                      {item.brand || "—"}
+                    </div>
                   </div>
                   <div className="ci-info">
                     <div className="ci-cat">{item.category}</div>

@@ -27,7 +27,7 @@ import { PRODUCTS } from "@/data/products";
 
 function HomeContent() {
   usePageMeta({
-    title: "Toner Cartridges, Ink & Printers Nairobi | Trinatech",
+    title: "Trinatech Ltd | Toners, Ink & Printers Nairobi",
     description: "Buy genuine HP, Kyocera, Canon, Epson toners & printers in Nairobi CBD. 1,000+ products in stock. Same-day delivery. Call 0729 589 346.",
   });
   const [toastMsg, setToastMsg] = useState("");

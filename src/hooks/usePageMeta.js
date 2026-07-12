@@ -1,6 +1,6 @@
 import { useEffect } from "react";
 
-const OG_TITLE = "Trinatech Toners & Printers Kenya | Nairobi's #1 Printer Shop";
+const OG_TITLE = "Trinatech Ltd | Toners, Ink & Printers Nairobi";
 const OG_DESCRIPTION = "1,000+ genuine toners, inks & printers in stock. HP, Kyocera, Canon, Epson, Ricoh, Brother. River Road CBD Nairobi. Same-day service. WhatsApp 0729 589 346.";
 
 export default function usePageMeta({ title, description, ogTitle, ogDescription } = {}) {

@@ -1,12 +1,14 @@
-// ============================================================
-// TRINATECH — PRODUCT DETAIL PAGE (PDP)
-// Jace Studio | July 12, 2026
-// ============================================================
-
 import React, { useEffect, useMemo } from "react";
 import { PRODUCTS, formatPrice } from "@/data/products";
 import usePageMeta from "@/hooks/usePageMeta";
-import { useCart } from "@/lib/CartContext";
+import { CartProvider, useCart } from "@/lib/CartContext";
+import TriBar from "@/components/trinatech/TriBar";
+import Navbar from "@/components/trinatech/Navbar";
+import Footer from "@/components/trinatech/Footer";
+import WhatsAppFloat from "@/components/trinatech/WhatsAppFloat";
+import SearchOverlay from "@/components/trinatech/SearchOverlay";
+import CartDrawer from "@/components/trinatech/CartDrawer";
+import CheckoutModal from "@/components/trinatech/CheckoutModal";
 
 const NAVY = "#1a2c6b";
 const RED = "#d3222a";
@@ -32,7 +34,7 @@ function productUrl(id) {
   return `/product?id=${id}`;
 }
 
-export default function ProductDetail() {
+function ProductDetailContent() {
   const id = getProductId();
   const product = useMemo(() => PRODUCTS.find((p) => p.id === id), [id]);
   const { addItem, setCartOpen } = useCart();
@@ -255,5 +257,22 @@ export default function ProductDetail() {
         </section>
       )}
     </div>
+  );
+}
+
+export default function ProductDetail() {
+  return (
+    <CartProvider>
+      <div style={{ background: "var(--paper)", minHeight: "100vh" }}>
+        <TriBar />
+        <Navbar />
+        <ProductDetailContent />
+        <Footer />
+        <WhatsAppFloat />
+        <SearchOverlay products={PRODUCTS} />
+        <CartDrawer />
+        <CheckoutModal />
+      </div>
+    </CartProvider>
   );
 }

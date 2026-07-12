@@ -12,6 +12,7 @@ import BlogPost from './pages/BlogPost';
 import About from './pages/About';
 import Contact from './pages/Contact';
 import PrintingGuide from './pages/PrintingGuide';
+import ProductDetail from './pages/ProductDetail';
 // Add page imports here
 
 const AuthenticatedApp = () => {
@@ -30,6 +31,7 @@ const AuthenticatedApp = () => {
       <Route path="/about" element={<About />} />
       <Route path="/contact" element={<Contact />} />
       <Route path="/printing-guide" element={<PrintingGuide />} />
+      <Route path="/product" element={<ProductDetail />} />
       <Route path="*" element={<PageNotFound />} />
     </Routes>
   );

@@ -39,6 +39,7 @@ function ProductCard({ product }) {
 
   return (
     <RevealWrap>
+      <a href={`/product?id=${product.id}`} style={{ display: "contents" }}>
       <article className="product-card">
         <script
           type="application/ld+json"
@@ -63,6 +64,7 @@ function ProductCard({ product }) {
           </div>
         </div>
       </article>
+      </a>
     </RevealWrap>
   );
 }

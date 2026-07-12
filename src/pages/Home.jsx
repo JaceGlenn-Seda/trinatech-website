@@ -24,18 +24,6 @@ import FeaturedCarousel from "../components/trinatech/FeaturedCarousel";
 
 import { PRODUCTS } from "@/data/products";
 
-// Hero section images (kept for HeroSection + SuppliesSection)
-const IMAGES = {
-  hp55a: "https://media.base44.com/images/public/6a2af0be8cd723993cb3cb6c/5c5caf757_generated_15d1fc43.png",
-  kyocera4012i: "https://media.base44.com/images/public/6a2af0be8cd723993cb3cb6c/1a88ba84b_generated_73a704d3.png",
-  kyoceraM2135: "https://media.base44.com/images/public/6a2af0be8cd723993cb3cb6c/89a1bf79e_generated_08ac22e0.png",
-  ricohMpc2503: "https://media.base44.com/images/public/6a2af0be8cd723993cb3cb6c/0de497e5b_generated_6898ac66.png",
-  hp151a: "https://media.base44.com/images/public/6a2af0be8cd723993cb3cb6c/4080382d3_generated_d8a0564e.png",
-  samsungD101s: "https://media.base44.com/images/public/6a2af0be8cd723993cb3cb6c/e5370769a_generated_3c49d7e6.png",
-  hp652: "https://media.base44.com/images/public/6a2af0be8cd723993cb3cb6c/c46b0996d_generated_a1c2c654.png",
-  royal107a: "https://media.base44.com/images/public/6a2af0be8cd723993cb3cb6c/3301d3144_generated_54855544.png",
-  royal85a: "https://media.base44.com/images/public/6a2af0be8cd723993cb3cb6c/cbf44078e_generated_44344c8f.png",
-};
 
 function HomeContent() {
   usePageMeta({
@@ -57,7 +45,10 @@ function HomeContent() {
     <div style={{ background: "var(--paper)", minHeight: "100vh" }}>
       <TriBar />
       <Navbar />
-      <HeroSection images={IMAGES} />
+      <HeroSection />
+      <div className="tt-container" style={{ paddingTop: 48, paddingBottom: 48 }}>
+        <FeaturedCarousel />
+      </div>
       <AboutSection />
       <CtaBand
         title="Not sure which toner fits your machine?"
@@ -66,11 +57,8 @@ function HomeContent() {
         btnHref="https://wa.me/254729589346?text=Hi%20Trinatech!%20Please%20help%20me%20find%20the%20right%20toner%20for%20my%20printer%20model:%20"
         btnClass="tt-btn-navy"
       />
-      <SuppliesSection images={IMAGES} />
+      <SuppliesSection />
       <ProductGrid />
-      <div className="tt-container" style={{ paddingBottom: 48 }}>
-        <FeaturedCarousel />
-      </div>
       <VideosSection />
       <ProcessSection />
       <CtaBand

@@ -1,13 +1,7 @@
 import React from "react";
 import RevealWrap from "./RevealWrap";
 
-export default function HeroSection({ images }) {
-  const heroProducts = [
-    { img: images.hp55a, name: "HP 55A Original Toner", price: "KSh 11,000" },
-    { img: images.kyocera4012i, name: "Kyocera TaskAlfa 4012i · 20% off", price: "KES 85,000" },
-    { img: images.kyoceraM2135, name: "Kyocera Ecosys M2135DN", price: "KSh 95,000" },
-  ];
-
+export default function HeroSection() {
   return (
     <section className="tt-hero" id="top">
       <div className="tt-container">
@@ -24,21 +18,6 @@ export default function HeroSection({ images }) {
           <div className="cta-row">
             <a className="tt-btn tt-btn-red" href="#contact">Request a Quote</a>
             <a className="tt-btn tt-btn-ghost" href="#shop">Browse Best Sellers</a>
-          </div>
-        </RevealWrap>
-      </div>
-      <div className="tt-container">
-        <RevealWrap>
-          <div className="hero-media">
-            <div className="hm-grid">
-              {heroProducts.map((p, i) => (
-                <div className="hm-item" key={i}>
-                  <img src={p.img} alt={p.name} loading="eager" />
-                  <div className="nm">{p.name}</div>
-                  <div className="pr">{p.price}</div>
-                </div>
-              ))}
-            </div>
           </div>
         </RevealWrap>
       </div>

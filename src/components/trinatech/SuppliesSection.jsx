@@ -1,16 +1,46 @@
 import React, { useState } from "react";
 import RevealWrap from "./RevealWrap";
 
-export default function SuppliesSection({ images }) {
-  const tabs = [
-    { name: "Printers & Copiers", desc: "A3/A4 laser printers, photocopiers and MFPs from Kyocera, HP, Canon, Ricoh and more — for home, office and high-volume use.", img: images.kyocera4012i, cap: "Printers & Copiers" },
-    { name: "Inks & Toner Cartridges", desc: "Genuine HP originals plus Royal verified-compatible toners — sealed, warranty-backed, and matched to your exact model.", img: images.hp55a, cap: "Inks & Toner Cartridges" },
-    { name: "Copier Toners & Master Rolls", desc: "Ricoh, Kyocera, Toshiba, Sharp and Riso consumables for busy copy shops, cybers and bureaus.", img: images.ricohMpc2503, cap: "Copier Toners & Master Rolls" },
-    { name: "Laptops & Computing", desc: "Laptops, desktops, monitors and external storage from trusted brands — configured for Kenyan business needs.", img: images.kyoceraM2135, cap: "Laptops & Computing" },
-    { name: "Printer Parts & Maintenance", desc: "Maintenance kits, fusers, rollers and spare parts to keep your machines running — with expert fitting advice.", img: images.hp151a, cap: "Printer Parts & Maintenance" },
-    { name: "Projectors & UPS", desc: "Presentation projectors and uninterruptible power supplies to keep your office working through anything.", img: images.royal107a, cap: "Projectors & UPS" },
-  ];
+const tabs = [
+  {
+    name: "Printers & Copiers",
+    desc: "A3/A4 laser printers, photocopiers and MFPs from Kyocera, HP, Canon, Ricoh and more — for home, office and high-volume use.",
+    img: "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2024/12/Kyocera-ECOSYS-M2135dn-A4-mfp-Printer.png",
+    cap: "Printers & Copiers",
+  },
+  {
+    name: "Inks & Toner Cartridges",
+    desc: "Genuine HP originals plus Royal verified-compatible toners — sealed, warranty-backed, and matched to your exact model.",
+    img: "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/415A-COMBINED.png",
+    cap: "Inks & Toner Cartridges",
+  },
+  {
+    name: "Copier Toners & Master Rolls",
+    desc: "Ricoh, Kyocera, Toshiba, Sharp and Riso consumables for busy copy shops, cybers and bureaus.",
+    img: "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/Ricoh-Mp-C2503-Toner-For-MPC2003-2503.webp",
+    cap: "Copier Toners & Master Rolls",
+  },
+  {
+    name: "Laptops & Computing",
+    desc: "Laptops, desktops, monitors and external storage from trusted brands — configured for Kenyan business needs.",
+    img: "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2024/12/Kyocera-MA2000w-mfp-Printer.png",
+    cap: "Laptops & Computing",
+  },
+  {
+    name: "Printer Parts & Maintenance",
+    desc: "Maintenance kits, fusers, rollers and spare parts to keep your machines running — with expert fitting advice.",
+    img: "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2025/01/HP-415A-Black-Original-LaserJet-Toner.png",
+    cap: "Printer Parts & Maintenance",
+  },
+  {
+    name: "Projectors & UPS",
+    desc: "Presentation projectors and uninterruptible power supplies to keep your office working through anything.",
+    img: "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2024/12/epson-eb-Projector.png",
+    cap: "Projectors & UPS",
+  },
+];
 
+export default function SuppliesSection() {
   const [active, setActive] = useState(0);
   const [swapping, setSwapping] = useState(false);
 

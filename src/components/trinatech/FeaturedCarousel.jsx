@@ -11,7 +11,7 @@
 // cropped, never black-barred.
 // ============================================================
 
-import React, { useRef } from "react";
+import React, { useRef, useState, useEffect } from "react";
 import { PRODUCTS, formatPrice } from "@/data/products";
 
 const NAVY = "#1a2c6b";
@@ -36,6 +36,26 @@ function productUrl(id) {
 
 export default function FeaturedCarousel() {
   const trackRef = useRef(null);
+  const [paused, setPaused] = useState(false);
+
+  useEffect(() => {
+    const el = trackRef.current;
+    if (!el) return;
+    if (window.matchMedia("(prefers-reduced-motion: reduce)").matches) return;
+
+    let rafId;
+    const step = () => {
+      if (!paused && el.scrollWidth > el.clientWidth) {
+        el.scrollLeft += 0.6;
+        if (el.scrollLeft >= el.scrollWidth - el.clientWidth - 1) {
+          el.scrollLeft = 0;
+        }
+      }
+      rafId = requestAnimationFrame(step);
+    };
+    rafId = requestAnimationFrame(step);
+    return () => cancelAnimationFrame(rafId);
+  }, [paused]);
 
   const featured = FEATURED_IDS.map((id) =>
     PRODUCTS.find((p) => p.id === id)
@@ -70,7 +90,11 @@ export default function FeaturedCarousel() {
         </div>
 
         {/* Arrows (hidden on mobile — swipe instead) */}
-        <div className="hidden gap-2 md:flex">
+        <div
+          className="hidden gap-2 md:flex"
+          onMouseEnter={() => setPaused(true)}
+          onMouseLeave={() => setPaused(false)}
+        >
           <button
             aria-label="Previous products"
             onClick={() => scrollByCards(-1)}
@@ -91,8 +115,12 @@ export default function FeaturedCarousel() {
       {/* Track */}
       <div
         ref={trackRef}
-        className="flex snap-x snap-mandatory gap-5 overflow-x-auto pb-4"
+        className="flex gap-5 overflow-x-auto pb-4"
         style={{ scrollbarWidth: "none" }}
+        onMouseEnter={() => setPaused(true)}
+        onMouseLeave={() => setPaused(false)}
+        onTouchStart={() => setPaused(true)}
+        onTouchEnd={() => setTimeout(() => setPaused(false), 4000)}
       >
         {featured.map((p) => {
           const isRoyal = p.brand === "Royal";
@@ -100,7 +128,7 @@ export default function FeaturedCarousel() {
             <a
               key={p.id}
               href={productUrl(p.id)}
-              className="group w-64 flex-none snap-start overflow-hidden rounded-2xl bg-white shadow-lg transition-transform duration-300 hover:-translate-y-1 md:w-72"
+              className="group w-64 flex-none overflow-hidden rounded-2xl bg-white shadow-lg transition-transform duration-300 hover:-translate-y-1 md:w-72"
             >
               {/* Image area — fixed height, generous padding, contain */}
               <div className="relative flex h-52 items-center justify-center p-6 md:h-56">

@@ -11,7 +11,8 @@ export default function HeroSection() {
         </RevealWrap>
         <RevealWrap>
           <h1 aria-label="Nairobi's One-Stop Shop for Toners, Ink & Printers">
-            Nairobi's One-Stop Shop for <TypewriterWord />
+            Nairobi's One-Stop Shop for{" "}
+            <TypewriterWord words={["Toners", "Printers", "Cartridges", "Inks", "Photocopiers"]} />
           </h1>
         </RevealWrap>
         <RevealWrap>

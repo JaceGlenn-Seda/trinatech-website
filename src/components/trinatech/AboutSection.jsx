@@ -1,20 +1,25 @@
 import React, { useRef, useEffect, useState } from "react";
 import RevealWrap from "./RevealWrap";
 
-function AnimatedCounter({ target, suffix }) {
+const REDUCED_MOTION =
+  typeof window !== "undefined" &&
+  window.matchMedia("(prefers-reduced-motion: reduce)").matches;
+
+function AnimatedCounter({ target, suffix, label }) {
   const ref = useRef(null);
-  const [value, setValue] = useState(0);
-  const [started, setStarted] = useState(false);
+  const [value, setValue] = useState(REDUCED_MOTION ? target : 0);
 
   useEffect(() => {
+    if (REDUCED_MOTION) return;
     const el = ref.current;
     if (!el) return;
+    let started = false;
     const observer = new IntersectionObserver(
       ([entry]) => {
         if (entry.isIntersecting && !started) {
-          setStarted(true);
+          started = true;
           observer.unobserve(el);
-          const dur = 1600;
+          const dur = 1200;
           const t0 = performance.now();
           function tick(t) {
             const p = Math.min((t - t0) / dur, 1);
@@ -25,25 +30,63 @@ function AnimatedCounter({ target, suffix }) {
           requestAnimationFrame(tick);
         }
       },
-      { threshold: 0.6 }
+      { threshold: 0.5 }
     );
     observer.observe(el);
     return () => observer.disconnect();
-  }, [target, started]);
+  }, [target]);
 
   return (
-    <b ref={ref}>
-      <span>{value.toLocaleString()}</span>
-      <span className="suffix">{suffix}</span>
-    </b>
+    <div ref={ref} className="counter" style={{ padding: "40px 28px 36px" }}>
+      {/* Number hero */}
+      <div style={{ lineHeight: 1, marginBottom: 14 }}>
+        <span
+          style={{
+            fontFamily: "var(--font-display)",
+            fontWeight: 800,
+            fontSize: "clamp(3.5rem, 7vw, 5rem)",
+            letterSpacing: "-0.03em",
+            color: "#1a2c6b",
+          }}
+        >
+          {value.toLocaleString()}
+        </span>
+        <sup
+          style={{
+            fontFamily: "var(--font-display)",
+            fontWeight: 800,
+            fontSize: "clamp(2rem, 4vw, 3rem)",
+            letterSpacing: "-0.03em",
+            color: "#d3222a",
+            verticalAlign: "super",
+            lineHeight: 0,
+          }}
+        >
+          {suffix}
+        </sup>
+      </div>
+      {/* Label */}
+      <span
+        style={{
+          display: "block",
+          fontSize: 11,
+          fontWeight: 600,
+          letterSpacing: "0.12em",
+          textTransform: "uppercase",
+          color: "#6b7280",
+        }}
+      >
+        {label}
+      </span>
+    </div>
   );
 }
 
 const counters = [
-  { target: 10, suffix: "+", label: "Years serving Nairobi" },
-  { target: 500, suffix: "+", label: "Products stocked" },
-  { target: 12000, suffix: "+", label: "Orders delivered" },
-  { target: 98, suffix: "%", label: "Customer satisfaction" },
+  { target: 10,    suffix: "+", label: "Years Serving Nairobi" },
+  { target: 1000,  suffix: "+", label: "Products Stocked" },
+  { target: 12000, suffix: "+", label: "Orders Delivered" },
+  { target: 90,    suffix: "%", label: "Customer Satisfaction" },
 ];
 
 export default function AboutSection() {
@@ -60,10 +103,7 @@ export default function AboutSection() {
         <div className="counters">
           {counters.map((c, i) => (
             <RevealWrap key={i}>
-              <div className="counter">
-                <AnimatedCounter target={c.target} suffix={c.suffix} />
-                <span>{c.label}</span>
-              </div>
+              <AnimatedCounter target={c.target} suffix={c.suffix} label={c.label} />
             </RevealWrap>
           ))}
         </div>

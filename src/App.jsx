@@ -14,6 +14,7 @@ import About from './pages/About';
 import Contact from './pages/Contact';
 import PrintingGuide from './pages/PrintingGuide';
 import ProductDetail from './pages/ProductDetail';
+import Shop from './pages/Shop';
 // Add page imports here
 
 const AuthenticatedApp = () => {
@@ -33,6 +34,7 @@ const AuthenticatedApp = () => {
       <Route path="/contact" element={<Contact />} />
       <Route path="/printing-guide" element={<PrintingGuide />} />
       <Route path="/product" element={<ProductDetail />} />
+      <Route path="/shop" element={<Shop />} />
       <Route path="*" element={<PageNotFound />} />
     </Routes>
   );

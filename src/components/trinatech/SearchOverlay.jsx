@@ -1,10 +1,22 @@
 import React, { useState, useEffect, useRef } from "react";
-import { useCart } from "@/lib/CartContext";
+import { useCart } from "@/context/CartContext";
 
 export default function SearchOverlay({ products }) {
-  const { searchOpen, setSearchOpen, addItem, setCartOpen } = useCart();
+  const { addToCart } = useCart();
+  const [searchOpen, setSearchOpen] = useState(false);
   const [query, setQuery] = useState("");
   const inputRef = useRef(null);
+
+  useEffect(() => {
+    const open = () => setSearchOpen(true);
+    const close = () => setSearchOpen(false);
+    window.addEventListener("trinatech:search:open", open);
+    window.addEventListener("trinatech:search:close", close);
+    return () => {
+      window.removeEventListener("trinatech:search:open", open);
+      window.removeEventListener("trinatech:search:close", close);
+    };
+  }, []);
 
   useEffect(() => {
     if (searchOpen) {
@@ -17,7 +29,7 @@ export default function SearchOverlay({ products }) {
     const handler = (e) => { if (e.key === "Escape") setSearchOpen(false); };
     window.addEventListener("keydown", handler);
     return () => window.removeEventListener("keydown", handler);
-  }, [setSearchOpen]);
+  }, []);
 
   const results = query.trim().length > 1
     ? products.filter(p =>
@@ -27,9 +39,9 @@ export default function SearchOverlay({ products }) {
     : [];
 
   const handleAdd = (p) => {
-    addItem(p);
+    addToCart(p);
     setSearchOpen(false);
-    setCartOpen(true);
+    window.dispatchEvent(new Event("trinatech:cart:open"));
   };
 
   if (!searchOpen) return null;
@@ -61,11 +73,11 @@ export default function SearchOverlay({ products }) {
             ) : (
               results.map(p => (
                 <div key={p.id} className="search-result-item">
-                  <img src={p.img} alt={p.name} />
+                  <img src={p.image} alt={p.name} />
                   <div className="sri-info">
                     <div className="sri-cat">{p.category}</div>
                     <div className="sri-name">{p.name}</div>
-                    <div className="sri-price">KSh {p.price}</div>
+                    <div className="sri-price">KSh {p.price?.toLocaleString("en-KE")}</div>
                   </div>
                   <button className="tt-btn tt-btn-red" style={{ padding: "9px 18px", fontSize: 13 }} onClick={() => handleAdd(p)}>
                     Add to cart

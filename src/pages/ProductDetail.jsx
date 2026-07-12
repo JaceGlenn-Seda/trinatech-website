@@ -1,7 +1,7 @@
 import React, { useEffect, useMemo } from "react";
 import { PRODUCTS, formatPrice } from "@/data/products";
 import usePageMeta from "@/hooks/usePageMeta";
-import { useCart } from "@/lib/CartContext";
+import { useCart } from "@/context/CartContext";
 import TriBar from "@/components/trinatech/TriBar";
 import Navbar from "@/components/trinatech/Navbar";
 import Footer from "@/components/trinatech/Footer";
@@ -37,7 +37,7 @@ function productUrl(id) {
 function ProductDetailContent() {
   const id = getProductId();
   const product = useMemo(() => PRODUCTS.find((p) => p.id === id), [id]);
-  const { addItem, setCartOpen } = useCart();
+  const { addToCart } = useCart();
 
   const related = useMemo(() => {
     if (!product) return [];
@@ -168,8 +168,8 @@ function ProductDetailContent() {
           <div className="mt-6 flex flex-col gap-3 sm:flex-row">
             <button
               onClick={() => {
-                addItem(product);
-                setTimeout(() => setCartOpen(true), 400);
+                addToCart(product);
+                setTimeout(() => window.dispatchEvent(new Event("trinatech:cart:open")), 400);
               }}
               className="flex-1 rounded-full px-6 py-3.5 font-semibold text-white transition hover:opacity-90"
               style={{ background: RED }}

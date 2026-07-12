@@ -1,65 +1,95 @@
-import React from "react";
-import { useCart } from "@/lib/CartContext";
+import React, { useState } from "react";
+import { useCart } from "@/context/CartContext";
+
+const fmt = (n) => n.toLocaleString("en-KE");
 
 export default function CartDrawer() {
-  const { items, cartOpen, setCartOpen, removeItem, updateQty, subtotal, totalItems, setCheckoutOpen } = useCart();
+  const { lines, itemCount, subtotal, setQuantity, removeFromCart } = useCart();
+  const [cartOpen, setCartOpen] = useState(false);
+  const [checkoutOpen, setCheckoutOpen] = useState(false);
 
-  const fmt = (n) => n.toLocaleString("en-KE");
+  // These are lifted up from context — expose setters via window events
+  // so Navbar and other components can open/close the drawer.
+  React.useEffect(() => {
+    const open = () => setCartOpen(true);
+    const close = () => setCartOpen(false);
+    window.addEventListener("trinatech:cart:open", open);
+    window.addEventListener("trinatech:cart:close", close);
+    return () => {
+      window.removeEventListener("trinatech:cart:open", open);
+      window.removeEventListener("trinatech:cart:close", close);
+    };
+  }, []);
+
+  React.useEffect(() => {
+    const open = () => setCheckoutOpen(true);
+    const close = () => setCheckoutOpen(false);
+    window.addEventListener("trinatech:checkout:open", open);
+    window.addEventListener("trinatech:checkout:close", close);
+    return () => {
+      window.removeEventListener("trinatech:checkout:open", open);
+      window.removeEventListener("trinatech:checkout:close", close);
+    };
+  }, []);
 
   return (
     <>
-      {/* Backdrop */}
       <div
         className={`cart-backdrop${cartOpen ? " open" : ""}`}
         onClick={() => setCartOpen(false)}
         aria-hidden="true"
       />
-      {/* Drawer */}
       <aside className={`cart-drawer${cartOpen ? " open" : ""}`} aria-label="Shopping cart">
         <div className="cart-header">
           <div>
             <h2 className="cart-title">Your Cart</h2>
-            {totalItems > 0 && <span className="cart-count-label">{totalItems} item{totalItems !== 1 ? "s" : ""}</span>}
+            {itemCount > 0 && (
+              <span className="cart-count-label">{itemCount} item{itemCount !== 1 ? "s" : ""}</span>
+            )}
           </div>
           <button className="cart-close" onClick={() => setCartOpen(false)} aria-label="Close cart">✕</button>
         </div>
 
-        {items.length === 0 ? (
+        {lines.length === 0 ? (
           <div className="cart-empty">
             <div style={{ fontSize: 44, marginBottom: 14 }}>🛒</div>
             <div style={{ fontFamily: "var(--font-display)", fontWeight: 700, fontSize: 18, marginBottom: 8 }}>Cart is empty</div>
             <div style={{ color: "var(--ink-soft)", fontSize: 14, marginBottom: 24 }}>Add toners, printers or ink cartridges to get started.</div>
-            <button className="tt-btn tt-btn-navy" style={{ width: "100%", justifyContent: "center" }} onClick={() => { setCartOpen(false); document.querySelector("#shop")?.scrollIntoView({ behavior: "smooth" }); }}>
+            <button
+              className="tt-btn tt-btn-navy"
+              style={{ width: "100%", justifyContent: "center" }}
+              onClick={() => { setCartOpen(false); document.querySelector("#shop")?.scrollIntoView({ behavior: "smooth" }); }}
+            >
               Browse products →
             </button>
           </div>
         ) : (
           <>
             <div className="cart-items">
-              {items.map(item => (
-                <div key={item.id} className="cart-item">
+              {lines.map(({ product, quantity }) => (
+                <div key={product.id} className="cart-item">
                   <div className="ci-img">
                     <img
-                      src={item.image}
-                      alt={item.name}
+                      src={product.image}
+                      alt={product.name}
                       onError={e => {
                         e.currentTarget.style.display = "none";
                         e.currentTarget.nextSibling.style.display = "flex";
                       }}
                     />
                     <div style={{ display: "none", alignItems: "center", justifyContent: "center", width: "100%", height: "100%", background: "var(--paper-2)", borderRadius: 8, fontSize: 11, color: "var(--ink-soft)", fontWeight: 600, textAlign: "center", padding: "4px" }}>
-                      {item.brand || "—"}
+                      {product.brand || "—"}
                     </div>
                   </div>
                   <div className="ci-info">
-                    <div className="ci-cat">{item.category}</div>
-                    <div className="ci-name">{item.name}</div>
-                    <div className="ci-price">KSh {fmt(item.price)}</div>
+                    <div className="ci-cat">{product.category}</div>
+                    <div className="ci-name">{product.name}</div>
+                    <div className="ci-price">KSh {fmt(product.price)}</div>
                     <div className="ci-controls">
-                      <button onClick={() => updateQty(item.id, item.qty - 1)} aria-label="Decrease qty">−</button>
-                      <span>{item.qty}</span>
-                      <button onClick={() => updateQty(item.id, item.qty + 1)} aria-label="Increase qty">+</button>
-                      <button className="ci-remove" onClick={() => removeItem(item.id)} aria-label="Remove item">🗑</button>
+                      <button onClick={() => setQuantity(product.id, quantity - 1)} aria-label="Decrease qty">−</button>
+                      <span>{quantity}</span>
+                      <button onClick={() => setQuantity(product.id, quantity + 1)} aria-label="Increase qty">+</button>
+                      <button className="ci-remove" onClick={() => removeFromCart(product.id)} aria-label="Remove item">🗑</button>
                     </div>
                   </div>
                 </div>
@@ -75,7 +105,7 @@ export default function CartDrawer() {
               <button
                 className="tt-btn tt-btn-red"
                 style={{ width: "100%", justifyContent: "center", marginTop: 16 }}
-                onClick={() => { setCartOpen(false); setCheckoutOpen(true); }}
+                onClick={() => { setCartOpen(false); window.dispatchEvent(new Event("trinatech:checkout:open")); }}
               >
                 Checkout — KSh {fmt(subtotal)} →
               </button>

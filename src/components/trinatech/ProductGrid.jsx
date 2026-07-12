@@ -1,17 +1,17 @@
 import React, { useState } from "react";
 import RevealWrap from "./RevealWrap";
-import { useCart } from "@/lib/CartContext";
+import { useCart } from "@/context/CartContext";
 import { PRODUCTS, BRANDS, CATEGORIES, formatPrice } from "@/data/products";
 
 function ProductCard({ product }) {
-  const { addItem, setCartOpen } = useCart();
+  const { addToCart } = useCart();
   const [added, setAdded] = useState(false);
 
   const handleAdd = () => {
-    addItem(product);
+    addToCart(product);
     setAdded(true);
     setTimeout(() => setAdded(false), 1400);
-    setTimeout(() => setCartOpen(true), 400);
+    setTimeout(() => window.dispatchEvent(new Event("trinatech:cart:open")), 400);
   };
 
   const productSchema = {

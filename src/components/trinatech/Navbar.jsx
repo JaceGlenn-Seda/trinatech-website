@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 import { Link, useLocation } from "react-router-dom";
 import TrinatechLogo from "./TrinatechLogo";
-import { useCart } from "@/lib/CartContext";
+import { useCart } from "@/context/CartContext";
 
 const links = [
   { label: "About", href: "/about", page: true },
@@ -14,7 +14,9 @@ const links = [
 
 export default function Navbar() {
   const [menuOpen, setMenuOpen] = useState(false);
-  const { totalItems, setCartOpen, setSearchOpen } = useCart();
+  const { itemCount } = useCart();
+  const setCartOpen = (v) => window.dispatchEvent(new Event(v ? "trinatech:cart:open" : "trinatech:cart:close"));
+  const setSearchOpen = (v) => window.dispatchEvent(new Event(v ? "trinatech:search:open" : "trinatech:search:close"));
   const location = useLocation();
   const isHome = location.pathname === "/";
 
@@ -52,14 +54,14 @@ export default function Navbar() {
             {/* Cart button */}
             <button
               className="nav-icon-btn nav-cart-btn"
-              aria-label={`Cart${totalItems ? ` — ${totalItems} items` : ""}`}
+              aria-label={`Cart${itemCount ? ` — ${itemCount} items` : ""}`}
               onClick={() => setCartOpen(true)}
             >
               <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2.2" strokeLinecap="round" strokeLinejoin="round">
                 <path d="M6 2 3 6v14a2 2 0 0 0 2 2h14a2 2 0 0 0 2-2V6l-3-4z"/><line x1="3" y1="6" x2="21" y2="6"/><path d="M16 10a4 4 0 0 1-8 0"/>
               </svg>
-              {totalItems > 0 && (
-                <span className="cart-badge">{totalItems > 9 ? "9+" : totalItems}</span>
+              {itemCount > 0 && (
+                <span className="cart-badge">{itemCount > 9 ? "9+" : itemCount}</span>
               )}
             </button>
 
@@ -95,7 +97,7 @@ export default function Navbar() {
             className="mobile-cart-row"
             onClick={() => { setMenuOpen(false); setCartOpen(true); }}
           >
-            🛒 Cart {totalItems > 0 ? `(${totalItems})` : ""}
+            🛒 Cart {itemCount > 0 ? `(${itemCount})` : ""}
           </button>
           <a
             href={isHome ? "#contact" : "/#contact"}

@@ -1,5 +1,5 @@
-import React, { useState } from "react";
-import { useCart } from "@/lib/CartContext";
+import React, { useState, useEffect } from "react";
+import { useCart } from "@/context/CartContext";
 
 const DELIVERY_COST = 300;
 const DELIVERY_FREE_THRESHOLD = 10000;
@@ -21,33 +21,37 @@ function StepIndicator({ step }) {
   );
 }
 
-function OrderSummary({ items, subtotal }) {
+function OrderSummary({ lines, subtotal }) {
   const fmt = (n) => n.toLocaleString("en-KE");
   const delivery = subtotal >= DELIVERY_FREE_THRESHOLD ? 0 : DELIVERY_COST;
   const total = subtotal + delivery;
   return (
     <div className="co-summary">
       <div className="co-summary-title">Order Summary</div>
-      {items.map(item => (
-        <div key={item.id} className="cos-item">
-          <img src={item.img} alt={item.name} />
+      {lines.map(({ product, quantity }) => (
+        <div key={product.id} className="cos-item">
+          <img src={product.image} alt={product.name} />
           <div className="cos-info">
-            <div className="cos-name">{item.name}</div>
-            <div className="cos-qty">× {item.qty}</div>
+            <div className="cos-name">{product.name}</div>
+            <div className="cos-qty">× {quantity}</div>
           </div>
-          <div className="cos-price">KSh {fmt(item.priceNum * item.qty)}</div>
+          <div className="cos-price">KSh {fmt(product.price * quantity)}</div>
         </div>
       ))}
       <div className="cos-line"></div>
       <div className="cos-row"><span>Subtotal</span><span>KSh {fmt(subtotal)}</span></div>
-      <div className="cos-row"><span>Delivery {delivery === 0 ? <span className="cos-free">FREE</span> : ""}</span><span>{delivery === 0 ? "—" : `KSh ${fmt(delivery)}`}</span></div>
+      <div className="cos-row">
+        <span>Delivery {delivery === 0 ? <span className="cos-free">FREE</span> : ""}</span>
+        <span>{delivery === 0 ? "—" : `KSh ${fmt(delivery)}`}</span>
+      </div>
       <div className="cos-row total"><span>Total</span><span>KSh {fmt(total)}</span></div>
     </div>
   );
 }
 
 export default function CheckoutModal() {
-  const { items, subtotal, checkoutOpen, setCheckoutOpen, clearCart } = useCart();
+  const { lines, subtotal, clearCart } = useCart();
+  const [checkoutOpen, setCheckoutOpen] = useState(false);
   const [step, setStep] = useState(1);
   const [details, setDetails] = useState({ name: "", phone: "", email: "", address: "", area: "Nairobi CBD" });
   const [payMethod, setPayMethod] = useState("mpesa");
@@ -55,16 +59,24 @@ export default function CheckoutModal() {
   const [processing, setProcessing] = useState(false);
   const [orderRef] = useState(() => "TT-" + Date.now().toString(36).toUpperCase());
 
+  useEffect(() => {
+    const open = () => setCheckoutOpen(true);
+    const close = () => setCheckoutOpen(false);
+    window.addEventListener("trinatech:checkout:open", open);
+    window.addEventListener("trinatech:checkout:close", close);
+    return () => {
+      window.removeEventListener("trinatech:checkout:open", open);
+      window.removeEventListener("trinatech:checkout:close", close);
+    };
+  }, []);
+
   const delivery = subtotal >= DELIVERY_FREE_THRESHOLD ? 0 : DELIVERY_COST;
   const total = subtotal + delivery;
   const fmt = (n) => n.toLocaleString("en-KE");
 
   const handleClose = () => { setCheckoutOpen(false); setStep(1); setMpesaCode(""); setProcessing(false); };
 
-  const handleDetailsSubmit = (e) => {
-    e.preventDefault();
-    setStep(2);
-  };
+  const handleDetailsSubmit = (e) => { e.preventDefault(); setStep(2); };
 
   const handlePayment = (e) => {
     e.preventDefault();
@@ -81,7 +93,6 @@ export default function CheckoutModal() {
   return (
     <div className="checkout-overlay" onClick={(e) => { if (e.target === e.currentTarget) handleClose(); }}>
       <div className="checkout-modal">
-        {/* Header */}
         <div className="checkout-header">
           <div>
             <div className="checkout-title">Secure Checkout</div>
@@ -93,10 +104,7 @@ export default function CheckoutModal() {
         <StepIndicator step={step} />
 
         <div className="checkout-body">
-          {/* LEFT: form */}
           <div className="checkout-left">
-
-            {/* STEP 1 — Details */}
             {step === 1 && (
               <form onSubmit={handleDetailsSubmit} className="co-form">
                 <div className="co-section-title">Delivery details</div>
@@ -132,7 +140,6 @@ export default function CheckoutModal() {
               </form>
             )}
 
-            {/* STEP 2 — Payment */}
             {step === 2 && (
               <form onSubmit={handlePayment} className="co-form">
                 <div className="co-section-title">Choose payment method</div>
@@ -169,7 +176,7 @@ export default function CheckoutModal() {
                       placeholder="e.g. QDX4A78BNP"
                       value={mpesaCode}
                       onChange={e => setMpesaCode(e.target.value.toUpperCase())}
-                      style={{ fontFamily: "var(--font-mono)", letterSpacing: 2 }}
+                      style={{ letterSpacing: 2 }}
                     />
                   </div>
                 )}
@@ -213,7 +220,6 @@ export default function CheckoutModal() {
               </form>
             )}
 
-            {/* STEP 3 — Confirmation */}
             {step === 3 && (
               <div className="co-confirm">
                 <div className="co-confirm-icon">✓</div>
@@ -243,10 +249,9 @@ export default function CheckoutModal() {
             )}
           </div>
 
-          {/* RIGHT: order summary */}
           {step < 3 && (
             <div className="checkout-right">
-              <OrderSummary items={items} subtotal={subtotal} />
+              <OrderSummary lines={lines} subtotal={subtotal} />
               <div className="co-trust">
                 <div className="co-trust-item"><span>🔒</span> Secure checkout</div>
                 <div className="co-trust-item"><span>🛵</span> Same-day Nairobi delivery</div>

@@ -44,7 +44,7 @@ function HomeContent() {
   return (
     <div style={{ background: "var(--paper)", minHeight: "100vh", position: "relative" }}>
       {/* Wave mesh — decorative fixed background, never intercepts clicks */}
-      <div aria-hidden="true" style={{ position: "fixed", inset: 0, zIndex: 0, pointerEvents: "none", opacity: 0.55 }}>
+      <div aria-hidden="true" style={{ position: "fixed", inset: 0, zIndex: 0, pointerEvents: "none", opacity: 0.7 }}>
         <svg viewBox="0 0 1600 900" preserveAspectRatio="xMidYMid slice" style={{ width: "100%", height: "100%" }}>
           <defs>
             <path id="wa" d="M-100,300 C 300,120 500,560 800,420 C 1100,280 1250,600 1700,380" />

@@ -74,7 +74,7 @@ export default function Shop() {
               Genuine and compatible supplies from HP, Kyocera, Canon, Epson, Ricoh, Brother and Royal — in stock at River Road CBD, Nairobi.
             </p>
             <p style={{ color: "var(--ink-soft)", fontSize: 13.5, marginTop: 8 }}>
-              Showing <strong style={{ color: "var(--navy)" }}>{filtered.length}</strong> of <strong style={{ color: "var(--navy)" }}>{PRODUCTS.length}</strong> products
+              Showing <strong style={{ color: "var(--navy)" }}>{visible.length}</strong> of <strong style={{ color: "var(--navy)" }}>{filtered.length}</strong> products
             </p>
           </div>
 

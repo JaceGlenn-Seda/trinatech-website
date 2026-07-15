@@ -42,7 +42,19 @@ export function ProductCard({ product }) {
           <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(productSchema) }} />
           <div className="strip" aria-hidden="true"><span></span><span></span><span></span></div>
           <div className="product-media">
-            <img src={product.image} alt={product.name} loading="lazy" width="300" height="160" />
+            {product.image ? (
+              <img src={product.image} alt={product.name} loading="lazy" width="300" height="160" />
+            ) : (
+              <div style={{ width: "100%", height: "100%", display: "flex", flexDirection: "column", alignItems: "center", justifyContent: "center", background: "#f0f0ed", position: "relative" }}>
+                <div style={{ display: "flex", height: 4, width: "100%", position: "absolute", top: 0 }}>
+                  <div style={{ flex: 2, background: "var(--navy)" }}></div>
+                  <div style={{ flex: 1, background: "var(--gold)" }}></div>
+                  <div style={{ flex: 2, background: "var(--red)" }}></div>
+                </div>
+                <div style={{ fontFamily: "var(--font-display)", fontWeight: 700, fontSize: 13, color: "var(--navy)", marginBottom: 4, textAlign: "center", padding: "0 12px" }}>{product.brand}</div>
+                <div style={{ fontFamily: "var(--font-body)", fontSize: 11, color: "var(--ink-soft)", letterSpacing: "0.5px" }}>Image coming soon</div>
+              </div>
+            )}
           </div>
           <div className="product-info">
             <div className="cat">{product.category}</div>

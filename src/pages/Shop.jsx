@@ -23,7 +23,7 @@ const SORT_OPTIONS = [
 export default function Shop() {
   usePageMeta({
     title: "Shop Toners, Ink & Printers in Nairobi | Trinatech",
-    description: "Browse 80+ genuine and compatible toners, ink cartridges, printers and copiers from HP, Kyocera, Canon, Epson, Ricoh, Brother and Royal. In stock at Trinatech, River Road CBD, Nairobi.",
+    description: "Browse 832 genuine and compatible toners, ink cartridges, printers and copiers from HP, Kyocera, Canon, Epson, Ricoh, Brother and Royal. In stock at Trinatech, River Road CBD, Nairobi.",
   });
 
   const [searchQ, setSearchQ] = useState("");
@@ -108,19 +108,23 @@ export default function Shop() {
             </div>
 
             {/* Brand chips */}
-            <div className="shop-cats">
-              <button className={`cat-pill${activeBrand === "All" ? " active" : ""}`} onClick={() => { setActiveBrand("All"); setShown(PAGE_SIZE); }}>All Brands</button>
-              {BRANDS.map(b => (
-                <button key={b} className={`cat-pill${activeBrand === b ? " active" : ""}`} onClick={() => { setActiveBrand(b); setShown(PAGE_SIZE); }}>{b}</button>
-              ))}
+            <div style={{ overflowX: "auto", WebkitOverflowScrolling: "touch", paddingBottom: 4 }}>
+              <div className="shop-cats" style={{ flexWrap: "nowrap", minWidth: "max-content" }}>
+                <button className={`cat-pill${activeBrand === "All" ? " active" : ""}`} onClick={() => { setActiveBrand("All"); setShown(PAGE_SIZE); }}>All Brands</button>
+                {BRANDS.map(b => (
+                  <button key={b} className={`cat-pill${activeBrand === b ? " active" : ""}`} onClick={() => { setActiveBrand(b); setShown(PAGE_SIZE); }}>{b}</button>
+                ))}
+              </div>
             </div>
 
             {/* Category chips */}
-            <div className="shop-cats">
-              <button className={`cat-pill${activeCategory === "All" ? " active" : ""}`} onClick={() => { setActiveCategory("All"); setShown(PAGE_SIZE); }}>All Categories</button>
-              {CATEGORIES.map(c => (
-                <button key={c} className={`cat-pill${activeCategory === c ? " active" : ""}`} onClick={() => { setActiveCategory(c); setShown(PAGE_SIZE); }}>{c}</button>
-              ))}
+            <div style={{ overflowX: "auto", WebkitOverflowScrolling: "touch", paddingBottom: 4 }}>
+              <div className="shop-cats" style={{ flexWrap: "nowrap", minWidth: "max-content" }}>
+                <button className={`cat-pill${activeCategory === "All" ? " active" : ""}`} onClick={() => { setActiveCategory("All"); setShown(PAGE_SIZE); }}>All Categories</button>
+                {CATEGORIES.map(c => (
+                  <button key={c} className={`cat-pill${activeCategory === c ? " active" : ""}`} onClick={() => { setActiveCategory(c); setShown(PAGE_SIZE); }}>{c}</button>
+                ))}
+              </div>
             </div>
           </div>
 

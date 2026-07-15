@@ -36,6 +36,9 @@ export default function About() {
                 <img
                   src="https://images.unsplash.com/photo-1497366216548-37526070297c?w=800&q=80"
                   alt="Trinatech Toners and Printers office in Nairobi"
+                  loading="lazy"
+                  width="800"
+                  height="320"
                   style={{ width: "100%", borderRadius: "var(--tt-radius-lg)", objectFit: "cover", height: 320 }}
                 />
               </div>

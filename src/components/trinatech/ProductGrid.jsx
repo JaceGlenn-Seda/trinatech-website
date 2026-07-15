@@ -42,7 +42,7 @@ export function ProductCard({ product }) {
           <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(productSchema) }} />
           <div className="strip" aria-hidden="true"><span></span><span></span><span></span></div>
           <div className="product-media">
-            <img src={product.image} alt={product.name} loading="lazy" />
+            <img src={product.image} alt={product.name} loading="lazy" width="300" height="160" />
           </div>
           <div className="product-info">
             <div className="cat">{product.category}</div>

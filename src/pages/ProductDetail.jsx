@@ -134,6 +134,8 @@ function ProductDetailContent() {
               alt={product.name}
               className="max-h-96 w-full object-contain transition-transform duration-300 group-hover:scale-105"
               loading="eager"
+              width="600"
+              height="384"
             />
           </div>
         </div>
@@ -244,6 +246,8 @@ function ProductDetailContent() {
                     alt={p.name}
                     className="max-h-full object-contain transition-transform duration-300 group-hover:scale-105"
                     loading="lazy"
+                    width="200"
+                    height="144"
                   />
                 </div>
                 <div className="p-4 pt-1">
@@ -265,7 +269,7 @@ export default function ProductDetail() {
     <div style={{ background: "var(--paper)", minHeight: "100vh" }}>
       <TriBar />
       <Navbar />
-      <ProductDetailContent />
+      <main><ProductDetailContent /></main>
       <Footer />
       <WhatsAppFloat />
       <SearchOverlay products={PRODUCTS} />

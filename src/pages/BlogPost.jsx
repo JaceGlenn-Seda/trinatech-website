@@ -220,9 +220,8 @@ const CONTENT = {
 };
 
 function FaqItem({ q, a }) {
-  const [open, setOpen] = React.useState(false);
   return (
-    <details className="faq" open={open} onClick={() => setOpen(!open)} style={{ cursor: "pointer" }}>
+    <details className="faq" style={{ cursor: "pointer" }}>
       <summary>{q} <span className="pm">+</span></summary>
       <div className="faq-body">{a}</div>
     </details>
@@ -308,6 +307,7 @@ export default function BlogPost() {
       <div style={{ background: "var(--paper)", minHeight: "100vh" }}>
         <TriBar />
         <Navbar />
+        <main>
 
         {/* Hero */}
         <div className="bp-hero">
@@ -324,7 +324,7 @@ export default function BlogPost() {
             </div>
           </div>
           <div className="bp-hero-img">
-            <img src={post.img} alt={post.title} />
+            <img src={post.img} alt={post.title} width="1200" height="460" loading="eager" />
           </div>
         </div>
 
@@ -339,7 +339,7 @@ export default function BlogPost() {
                 <h2 className="bp-h2">{s.h2}</h2>
                 {s.img && (
                   <div className="bp-img-wrap">
-                    <img src={s.img} alt={s.imgAlt} loading="lazy" />
+                    <img src={s.img} alt={s.imgAlt} loading="lazy" width="900" height="360" />
                   </div>
                 )}
                 <div className="bp-text">
@@ -393,11 +393,11 @@ export default function BlogPost() {
 
         {/* Related */}
         <div className="tt-container" style={{ paddingBottom: 80 }}>
-          <h3 className="bp-related-title">More articles</h3>
+          <h2 className="bp-related-title">More articles</h2>
           <div className="blog-grid">
             {related.map(p => (
               <Link key={p.slug} to={`/blog/${p.slug}`} className="blog-card">
-                <div className="blog-card-img"><img src={p.img} alt={p.title} loading="lazy" /></div>
+                <div className="blog-card-img"><img src={p.img} alt={p.title} loading="lazy" width="600" height="220" /></div>
                 <div className="blog-card-body">
                   <div className="blog-meta"><span>{p.date}</span><span className="blog-dot">·</span><span>{p.readTime}</span></div>
                   <h3 className="blog-card-title">{p.title}</h3>
@@ -408,6 +408,7 @@ export default function BlogPost() {
           </div>
         </div>
 
+        </main>
         <Footer />
       </div>
     </CartProvider>

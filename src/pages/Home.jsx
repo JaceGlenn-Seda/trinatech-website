@@ -70,6 +70,8 @@ function HomeContent() {
       <div style={{ position: "relative", zIndex: 1 }}>
         <TriBar />
         <Navbar />
+        
+        <main>
         <HeroSection />
         <div className="tt-container" style={{ paddingTop: 48, paddingBottom: 48 }}>
           <FeaturedCarousel />
@@ -97,6 +99,7 @@ function HomeContent() {
         <ReviewsSection />
         <FaqSection />
         <ContactSection showToast={showToast} />
+        </main>
         <Footer />
         <WhatsAppFloat />
         <Toast message={toastMsg} visible={toastVisible} />

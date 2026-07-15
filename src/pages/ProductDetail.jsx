@@ -143,7 +143,7 @@ function ProductDetailContent() {
 
         {/* INFO */}
         <div className="flex flex-col justify-center">
-          <p className="font-sans text-xs uppercase tracking-widest text-gray-500">
+          <p className="font-sans text-xs uppercase tracking-widest text-gray-600">
             {product.category}
           </p>
 
@@ -195,7 +195,7 @@ function ProductDetailContent() {
 
           {/* PAYMENTS */}
           <div className="mt-5 flex items-center gap-2">
-            <span className="font-sans text-xs uppercase tracking-widest text-gray-500">We accept:</span>
+            <span className="font-sans text-xs uppercase tracking-widest text-gray-600">We accept:</span>
             {["M-Pesa", "Cash", "Bank Transfer"].map((m) => (
               <span key={m} className="rounded border border-gray-300 bg-gray-50 px-2 py-0.5 text-xs font-semibold text-gray-700">
                 {m}
@@ -253,7 +253,7 @@ function ProductDetailContent() {
                   />
                 </div>
                 <div className="p-4 pt-1">
-                  <p className="font-sans text-[10px] uppercase tracking-widest text-gray-500">{p.category}</p>
+                  <p className="font-sans text-[10px] uppercase tracking-widest text-gray-600">{p.category}</p>
                   <p className="mt-1 line-clamp-2 text-sm font-bold leading-snug" style={{ color: NAVY }}>{p.name}</p>
                   <p className="mt-2 font-sans text-sm font-bold" style={{ color: NAVY }}>{formatPrice(p.price)}</p>
                 </div>

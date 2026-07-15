@@ -149,6 +149,7 @@ export default function FeaturedCarousel() {
                   src={p.image}
                   alt={p.name}
                   loading="lazy"
+                  decoding="async"
                   width="220"
                   height="180"
                   className="max-h-full max-w-full object-contain transition-transform duration-300 group-hover:scale-105"
@@ -159,7 +160,7 @@ export default function FeaturedCarousel() {
               {/* Info area */}
               <div className="border-t border-gray-100 px-5 pb-5 pt-3">
                 <p
-                  className="text-[10px] font-semibold uppercase tracking-widest text-gray-500"
+                  className="text-[10px] font-semibold uppercase tracking-widest text-gray-600"
                 >
                   {p.category}
                 </p>
@@ -172,7 +173,7 @@ export default function FeaturedCarousel() {
                 <div className="mt-2 flex items-center justify-between">
                   <span
                     className="text-lg font-extrabold"
-                    style={{ color: "#b8860b" }}
+                    style={{ color: "#6b5000" }}
                   >
                     {formatPrice(p.price)}
                   </span>

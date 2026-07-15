@@ -43,7 +43,7 @@ export function ProductCard({ product }) {
           <div className="strip" aria-hidden="true"><span></span><span></span><span></span></div>
           <div className="product-media">
             {product.image ? (
-              <img src={product.image} alt={product.name} loading="lazy" width="300" height="160" referrerPolicy="no-referrer" />
+              <img src={product.image} alt={product.name} loading="lazy" decoding="async" width="300" height="160" referrerPolicy="no-referrer" />
             ) : (
               <div style={{ width: "100%", height: "100%", display: "flex", flexDirection: "column", alignItems: "center", justifyContent: "center", background: "#f0f0ed", position: "relative" }}>
                 <div style={{ display: "flex", height: 4, width: "100%", position: "absolute", top: 0 }}>
@@ -80,13 +80,13 @@ export default function ProductGrid() {
   const bestSellers = BEST_SELLER_IDS.map(id => PRODUCTS.find(p => p.id === id)).filter(Boolean);
 
   return (
-    <section id="shop" style={{ paddingTop: 0, paddingBottom: 96 }}>
+    <section id="shop" aria-labelledby="bestsellers-heading" style={{ paddingTop: 0, paddingBottom: 96 }}>
       <div className="tt-container">
         <RevealWrap>
           <div className="shop-head">
             <div>
               <span className="eyebrow-label">Our Products</span>
-              <h2 className="sec-h2">Best sellers this month</h2>
+              <h2 id="bestsellers-heading" className="sec-h2">Best sellers this month</h2>
               <p className="sec-sub">The toners, cartridges and machines Nairobi offices reorder every month.</p>
             </div>
             <Link to="/shop" className="link-arrow">View all products →</Link>

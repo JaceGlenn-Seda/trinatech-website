@@ -32,10 +32,14 @@ export default function SearchOverlay({ products }) {
   }, []);
 
   const results = query.trim().length > 1
-    ? products.filter(p =>
-        p.name.toLowerCase().includes(query.toLowerCase()) ||
-        p.category.toLowerCase().includes(query.toLowerCase())
-      )
+    ? products.filter(p => {
+        const q = query.toLowerCase();
+        return (
+          p.name.toLowerCase().includes(q) ||
+          p.brand.toLowerCase().includes(q) ||
+          p.category.toLowerCase().includes(q)
+        );
+      })
     : [];
 
   const handleAdd = (p) => {
@@ -91,7 +95,7 @@ export default function SearchOverlay({ products }) {
         {query.trim().length <= 1 && (
           <div className="search-suggestions">
             <div className="sug-label">Popular searches</div>
-            {["HP 55A toner", "Kyocera copier", "Samsung toner", "HP ink", "Royal 107A"].map(s => (
+            {["HP toner", "Kyocera TK", "Royal", "Epson ink", "HP 415A", "Printers"].map(s => (
               <button key={s} className="sug-pill" onClick={() => setQuery(s)}>{s}</button>
             ))}
           </div>

@@ -1,4 +1,4 @@
-import React, { useState, useMemo } from "react";
+import React, { useState, useMemo, useEffect } from "react";
 import { Link } from "react-router-dom";
 import usePageMeta from "@/hooks/usePageMeta";
 import Navbar from "@/components/trinatech/Navbar";
@@ -31,6 +31,15 @@ export default function Shop() {
   const [activeCategory, setActiveCategory] = useState("All");
   const [sort, setSort] = useState("featured");
   const [shown, setShown] = useState(PAGE_SIZE);
+
+  // Read filter values from URL params on mount (enables shareable filtered links)
+  useEffect(() => {
+    const params = new URLSearchParams(window.location.search);
+    const cat = params.get("category");
+    const brand = params.get("brand");
+    if (cat && CATEGORIES.includes(cat)) setActiveCategory(cat);
+    if (brand && BRANDS.includes(brand)) setActiveBrand(brand);
+  }, []);
 
   const filtered = useMemo(() => {
     let list = PRODUCTS.filter(p => {

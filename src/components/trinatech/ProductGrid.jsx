@@ -43,7 +43,7 @@ export function ProductCard({ product }) {
           <div className="strip" aria-hidden="true"><span></span><span></span><span></span></div>
           <div className="product-media">
             {product.image ? (
-              <img src={product.image} alt={product.name} loading="lazy" width="300" height="160" />
+              <img src={product.image} alt={product.name} loading="lazy" width="300" height="160" referrerPolicy="no-referrer" />
             ) : (
               <div style={{ width: "100%", height: "100%", display: "flex", flexDirection: "column", alignItems: "center", justifyContent: "center", background: "#f0f0ed", position: "relative" }}>
                 <div style={{ display: "flex", height: 4, width: "100%", position: "absolute", top: 0 }}>

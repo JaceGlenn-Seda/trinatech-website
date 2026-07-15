@@ -73,7 +73,7 @@ export default function SearchOverlay({ products }) {
             ) : (
               results.map(p => (
                 <div key={p.id} className="search-result-item">
-                  <img src={p.image} alt={p.name} />
+                  <img src={p.image} alt={p.name} referrerPolicy="no-referrer" />
                   <div className="sri-info">
                     <div className="sri-cat">{p.category}</div>
                     <div className="sri-name">{p.name}</div>

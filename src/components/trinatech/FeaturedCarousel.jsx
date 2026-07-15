@@ -152,6 +152,7 @@ export default function FeaturedCarousel() {
                   width="220"
                   height="180"
                   className="max-h-full max-w-full object-contain transition-transform duration-300 group-hover:scale-105"
+                  referrerPolicy="no-referrer"
                 />
               </div>
 

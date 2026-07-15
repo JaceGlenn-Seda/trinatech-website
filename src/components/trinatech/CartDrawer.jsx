@@ -72,6 +72,7 @@ export default function CartDrawer() {
                     <img
                       src={product.image}
                       alt={product.name}
+                      referrerPolicy="no-referrer"
                       onError={e => {
                         e.currentTarget.style.display = "none";
                         e.currentTarget.nextSibling.style.display = "flex";

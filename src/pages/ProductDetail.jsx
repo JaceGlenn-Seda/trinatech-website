@@ -136,6 +136,7 @@ function ProductDetailContent() {
               loading="eager"
               width="600"
               height="384"
+              referrerPolicy="no-referrer"
             />
           </div>
         </div>
@@ -248,6 +249,7 @@ function ProductDetailContent() {
                     loading="lazy"
                     width="200"
                     height="144"
+                    referrerPolicy="no-referrer"
                   />
                 </div>
                 <div className="p-4 pt-1">

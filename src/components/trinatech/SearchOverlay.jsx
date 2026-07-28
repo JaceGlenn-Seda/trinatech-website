@@ -1,6 +1,7 @@
 import React, { useState, useEffect, useRef } from "react";
 import { useCart } from "@/context/CartContext";
 import { isComingSoon } from "@/data/products";
+import BrandLogo from "./BrandLogo";
 
 const WHATSAPP_NUMBER = "254729589346";
 
@@ -64,7 +65,7 @@ export default function SearchOverlay({ products }) {
     <div className="search-overlay" onClick={() => setSearchOpen(false)}>
       <div className="search-modal" onClick={e => e.stopPropagation()}>
         <div className="search-bar-row">
-          <span className="search-ico">🔍</span>
+          <BrandLogo variant="icon" />
           <input
             ref={inputRef}
             className="search-input"

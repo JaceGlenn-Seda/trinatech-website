@@ -30,7 +30,7 @@ export default function Navbar() {
       <div className="nav-wrap">
         <div className="nav-pill">
           <Link to="/" className="tt-logo" aria-label="Trinatech Toners and Printers home">
-            <BrandLogo height={38} />
+            <BrandLogo variant="nav" />
           </Link>
           <nav className="nav-links" aria-label="Main">
             {links.map(l => (

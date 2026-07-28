@@ -56,9 +56,9 @@ export default function Footer() {
     <footer className="tt-footer">
       <div className="tt-container foot-grid">
         <div className="foot-brand">
-          <a href="#top" className="tt-logo" aria-label="Trinatech home">
-          <BrandLogo height={42} />
-        </a>
+          <Link to="/" className="tt-logo" aria-label="Trinatech home">
+          <BrandLogo variant="footer" />
+        </Link>
           <p>Your one-stop shop for quality printers &amp; tech supplies in Nairobi — honest pricing, genuine products, same-day delivery.</p>
           <div className="socials">
             {SocialLinks.map(s => (

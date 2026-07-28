@@ -137,10 +137,10 @@
 .tt-logo { display: flex; align-items: center; gap: 11px; }
 
 /* Brand logo (transparent PNG) — responsive sizing, no background */
-.brand-logo { display: block; height: 54px; width: auto; min-height: 48px; object-fit: contain; background: transparent; }
-.brand-logo--footer { height: 72px; }
-@media (min-width: 768px) { .brand-logo { height: 64px; } }
-@media (min-width: 1024px) { .brand-logo { height: 76px; } .brand-logo--footer { height: 84px; } }
+.brand-logo { display: block; height: 70px; width: auto; min-height: 64px; object-fit: contain; background: transparent; }
+.brand-logo--footer { height: 96px; }
+@media (min-width: 768px) { .brand-logo { height: 82px; } }
+@media (min-width: 1024px) { .brand-logo { height: 96px; } .brand-logo--footer { height: 112px; } }
 .tt-logo svg { overflow: visible; }
 .tt-logo .word { display: flex; flex-direction: column; line-height: 1; }
 .tt-logo .word b { font-family: var(--font-display); font-weight: 800; font-size: 20px; letter-spacing: -0.6px; color: var(--red); }

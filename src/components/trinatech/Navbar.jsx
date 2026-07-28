@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 import { Link, useLocation } from "react-router-dom";
-import TrinatechLogo from "./TrinatechLogo";
+import BrandLogo from "./BrandLogo";
 import { useCart } from "@/context/CartContext";
 
 const links = [
@@ -30,7 +30,7 @@ export default function Navbar() {
       <div className="nav-wrap">
         <div className="nav-pill">
           <Link to="/" className="tt-logo" aria-label="Trinatech Toners and Printers home">
-            <TrinatechLogo />
+            <BrandLogo height={38} />
           </Link>
           <nav className="nav-links" aria-label="Main">
             {links.map(l => (

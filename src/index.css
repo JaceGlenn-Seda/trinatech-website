@@ -181,6 +181,7 @@
   box-shadow: 0 10px 34px rgba(22,26,34,0.08);
 }
 .nav-wrap { padding: 0 16px; }
+.nav-left { display: flex; align-items: center; gap: 28px; }
 .nav-links { display: flex; gap: 26px; font-size: 14px; font-weight: 500; }
 .nav-links a { position: relative; padding: 6px 0; color: var(--ink-soft); transition: color 0.2s; }
 .nav-links a:hover, .nav-links a:focus-visible { color: var(--ink); }

@@ -29,16 +29,18 @@ export default function Navbar() {
     <header className="tt-nav">
       <div className="nav-wrap">
         <div className="nav-pill">
-          <Link to="/" className="tt-logo" aria-label="Trinatech Toners and Printers home">
-            <BrandLogo variant="nav" />
-          </Link>
-          <nav className="nav-links" aria-label="Main">
-            {links.map(l => (
-              l.page
-                ? <Link key={l.href} to={l.href}>{l.label}</Link>
-                : <a key={l.href} href={getHref(l.href)}>{l.label}</a>
-            ))}
-          </nav>
+          <div className="nav-left">
+            <Link to="/" className="tt-logo" aria-label="Trinatech Toners and Printers home">
+              <BrandLogo variant="nav" />
+            </Link>
+            <nav className="nav-links" aria-label="Main">
+              {links.map(l => (
+                l.page
+                  ? <Link key={l.href} to={l.href}>{l.label}</Link>
+                  : <a key={l.href} href={getHref(l.href)}>{l.label}</a>
+              ))}
+            </nav>
+          </div>
           <div style={{ display: "flex", gap: 8, alignItems: "center" }}>
             {/* Search button */}
             <button

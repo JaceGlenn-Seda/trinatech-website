@@ -87,7 +87,13 @@ export default function SearchOverlay({ products }) {
               </div>
             ) : (
               results.map(p => (
-                <div key={p.id} className="search-result-item">
+                <a
+                  key={p.id}
+                  href={`/product?id=${p.id}`}
+                  className="search-result-item"
+                  style={{ cursor: "pointer", textDecoration: "none", color: "inherit" }}
+                  onClick={() => setSearchOpen(false)}
+                >
                   {p.image ? (
                     <img src={p.image} alt={p.name} loading="lazy" decoding="async" width="52" height="52" referrerPolicy="no-referrer" />
                   ) : (
@@ -105,15 +111,15 @@ export default function SearchOverlay({ products }) {
                     </div>
                   </div>
                   {isComingSoon(p) ? (
-                    <button className="tt-btn tt-btn-navy" style={{ padding: "9px 18px", fontSize: 13 }} onClick={() => handleEnquire(p)}>
+                    <button className="tt-btn tt-btn-navy" style={{ padding: "9px 18px", fontSize: 13 }} onClick={(e) => { e.stopPropagation(); e.preventDefault(); handleEnquire(p); }}>
                       Enquire
                     </button>
                   ) : (
-                    <button className="tt-btn tt-btn-red" style={{ padding: "9px 18px", fontSize: 13 }} onClick={() => handleAdd(p)}>
+                    <button className="tt-btn tt-btn-red" style={{ padding: "9px 18px", fontSize: 13 }} onClick={(e) => { e.stopPropagation(); e.preventDefault(); handleAdd(p); }}>
                       Add to cart
                     </button>
                   )}
-                </div>
+                </a>
               ))
             )}
           </div>

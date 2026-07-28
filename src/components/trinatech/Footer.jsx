@@ -59,7 +59,7 @@ export default function Footer() {
           <Link to="/" className="tt-logo" aria-label="Trinatech home">
           <BrandLogo variant="footer" />
         </Link>
-          <p>Your one-stop shop for quality printers &amp; tech supplies in Nairobi — honest pricing, genuine products, same-day delivery.</p>
+          <p>Your one-stop shop for all printer inks, toner cartridges, printers, copiers, parts, computers &amp; accessories in Nairobi — honest pricing, genuine products, same-day delivery. Major brands in stock: HP, Kyocera, Royal, Ricoh, Canon, Epson, Brother, Sharp &amp; Toshiba.</p>
           <div className="socials">
             {SocialLinks.map(s => (
               <a key={s.label} href={s.href} aria-label={s.label} target="_blank" rel="noopener noreferrer">

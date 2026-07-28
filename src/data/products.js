@@ -26,4 +26,7 @@ export const CATEGORIES = ["Brother Inks Cartridges", "Brother Toners", "Canon I
 
 export const formatPrice = (n) => `KSh ${n.toLocaleString()}`;
 
+export const isComingSoon = (p) =>
+  !!p && (p.comingSoon === true || p.price === null || p.price === undefined);
+
 export default PRODUCTS;

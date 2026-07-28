@@ -1,5 +1,5 @@
 import React, { useEffect, useMemo } from "react";
-import { PRODUCTS, formatPrice } from "@/data/products";
+import { PRODUCTS, formatPrice, isComingSoon } from "@/data/products";
 import usePageMeta from "@/hooks/usePageMeta";
 import { useCart } from "@/context/CartContext";
 import TriBar from "@/components/trinatech/TriBar";
@@ -38,6 +38,7 @@ function ProductDetailContent() {
   const id = getProductId();
   const product = useMemo(() => PRODUCTS.find((p) => p.id === id), [id]);
   const { addToCart } = useCart();
+  const comingSoon = isComingSoon(product);
 
   const related = useMemo(() => {
     if (!product) return [];
@@ -57,7 +58,7 @@ function ProductDetailContent() {
     ? `${product.name} | Price in Kenya | Trinatech Toners & Printers`
     : "Product Not Found | Trinatech Toners & Printers";
   const metaDesc = product
-    ? `${product.name} — ${formatPrice(product.price)} in Nairobi, Kenya. ${product.description}`.slice(0, 155)
+    ? `${product.name} — ${comingSoon ? "coming soon" : formatPrice(product.price) + " in Nairobi, Kenya."} ${product.description}`.slice(0, 155)
     : "This product could not be found.";
 
   usePageMeta({ title, description: metaDesc });
@@ -78,8 +79,8 @@ function ProductDetailContent() {
         "@type": "Offer",
         url: window.location.href,
         priceCurrency: "KES",
-        price: product.price,
-        availability: "https://schema.org/InStock",
+        price: product.price ?? 0,
+        availability: comingSoon ? "https://schema.org/PreOrder" : "https://schema.org/InStock",
         seller: { "@type": "Organization", name: "Trinatech Services Ltd" },
       },
     });
@@ -108,7 +109,9 @@ function ProductDetailContent() {
   }
 
   const waMessage = encodeURIComponent(
-    `Hello Trinatech, I'd like to order: ${product.name} — ${formatPrice(product.price)}`
+    comingSoon
+      ? `Hello Trinatech, I'd like to enquire about: ${product.name}`
+      : `Hello Trinatech, I'd like to order: ${product.name} — ${formatPrice(product.price)}`
   );
   const waLink = `https://wa.me/${WHATSAPP_NUMBER}?text=${waMessage}`;
 
@@ -129,15 +132,22 @@ function ProductDetailContent() {
         <div className="rounded-lg border border-gray-200 bg-white shadow-sm">
           <BrandStripe />
           <div className="group flex items-center justify-center overflow-hidden p-8">
-            <img
-              src={product.image}
-              alt={product.name}
-              className="max-h-96 w-full object-contain transition-transform duration-300 group-hover:scale-105"
-              loading="eager"
-              width="600"
-              height="384"
-              referrerPolicy="no-referrer"
-            />
+            {product.image ? (
+              <img
+                src={product.image}
+                alt={product.name}
+                className="max-h-96 w-full object-contain transition-transform duration-300 group-hover:scale-105"
+                loading="eager"
+                width="600"
+                height="384"
+                referrerPolicy="no-referrer"
+              />
+            ) : (
+              <div className="flex w-full flex-col items-center justify-center" style={{ minHeight: 320 }}>
+                <div className="text-center" style={{ fontFamily: "var(--font-display)", fontWeight: 700, fontSize: 16, color: NAVY, marginBottom: 6 }}>{product.brand}</div>
+                <div style={{ fontFamily: "var(--font-body)", fontSize: 12, color: "#6b7280", letterSpacing: "0.5px" }}>Image coming soon</div>
+              </div>
+            )}
           </div>
         </div>
 
@@ -158,27 +168,41 @@ function ProductDetailContent() {
             >
               {product.brand}
             </span>
-            <span className="rounded bg-green-100 px-2.5 py-1 font-sans text-xs font-semibold uppercase tracking-wider text-green-700">
-              In Stock
-            </span>
+            {comingSoon ? (
+              <span className="rounded px-2.5 py-1 font-sans text-xs font-semibold uppercase tracking-wider text-white" style={{ background: GOLD }}>
+                Coming Soon
+              </span>
+            ) : (
+              <span className="rounded bg-green-100 px-2.5 py-1 font-sans text-xs font-semibold uppercase tracking-wider text-green-700">
+                In Stock
+              </span>
+            )}
           </div>
 
-          <p className="mt-5 font-sans text-3xl font-bold md:text-4xl" style={{ color: NAVY }}>
-            {formatPrice(product.price)}
-          </p>
+          {comingSoon ? (
+            <span className="mt-5 inline-block rounded-full px-4 py-1.5 font-sans text-sm font-bold uppercase tracking-wider text-white" style={{ background: NAVY }}>
+              Coming Soon
+            </span>
+          ) : (
+            <p className="mt-5 font-sans text-3xl font-bold md:text-4xl" style={{ color: NAVY }}>
+              {formatPrice(product.price)}
+            </p>
+          )}
 
           {/* BUTTONS */}
           <div className="mt-6 flex flex-col gap-3 sm:flex-row">
-            <button
-              onClick={() => {
-                addToCart(product);
-                setTimeout(() => window.dispatchEvent(new Event("trinatech:cart:open")), 400);
-              }}
-              className="flex-1 rounded-full px-6 py-3.5 font-semibold text-white transition hover:opacity-90"
-              style={{ background: RED }}
-            >
-              Add to Cart
-            </button>
+            {!comingSoon && (
+              <button
+                onClick={() => {
+                  addToCart(product);
+                  setTimeout(() => window.dispatchEvent(new Event("trinatech:cart:open")), 400);
+                }}
+                className="flex-1 rounded-full px-6 py-3.5 font-semibold text-white transition hover:opacity-90"
+                style={{ background: RED }}
+              >
+                Add to Cart
+              </button>
+            )}
             <a
               href={waLink}
               target="_blank"
@@ -189,7 +213,7 @@ function ProductDetailContent() {
               <svg viewBox="0 0 24 24" width="22" height="22" fill="#25D366" aria-hidden="true">
                 <path d="M12 2a10 10 0 0 0-8.6 15.1L2 22l5-1.3A10 10 0 1 0 12 2zm5.2 14.2c-.2.6-1.3 1.2-1.8 1.2-.5.1-1 .2-3.3-.7-2.8-1.1-4.6-4-4.7-4.2-.1-.2-1.1-1.5-1.1-2.9 0-1.4.7-2 1-2.3.2-.3.5-.3.7-.3h.5c.2 0 .4 0 .6.5s.8 1.9.8 2c.1.1.1.3 0 .5-.3.6-.7.9-.5 1.2.7 1.2 1.6 2 2.8 2.6.3.2.5.1.7-.1l.9-1c.2-.3.4-.2.7-.1l2 1c.3.1.5.2.5.3.1.1.1.7-.1 1.3z"/>
               </svg>
-              Order via WhatsApp
+              {comingSoon ? "Enquire on WhatsApp" : "Order via WhatsApp"}
             </a>
           </div>
 
@@ -242,20 +266,33 @@ function ProductDetailContent() {
               >
                 <BrandStripe />
                 <div className="flex h-36 items-center justify-center overflow-hidden p-4">
-                  <img
-                    src={p.image}
-                    alt={p.name}
-                    className="max-h-full object-contain transition-transform duration-300 group-hover:scale-105"
-                    loading="lazy"
-                    width="200"
-                    height="144"
-                    referrerPolicy="no-referrer"
-                  />
+                  {p.image ? (
+                    <img
+                      src={p.image}
+                      alt={p.name}
+                      className="max-h-full object-contain transition-transform duration-300 group-hover:scale-105"
+                      loading="lazy"
+                      width="200"
+                      height="144"
+                      referrerPolicy="no-referrer"
+                    />
+                  ) : (
+                    <div className="flex flex-col items-center justify-center text-center">
+                      <span style={{ fontFamily: "var(--font-display)", fontWeight: 700, fontSize: 12, color: NAVY }}>{p.brand}</span>
+                      <span style={{ fontFamily: "var(--font-body)", fontSize: 10, color: "#9ca3af" }}>Image coming soon</span>
+                    </div>
+                  )}
                 </div>
                 <div className="p-4 pt-1">
                   <p className="font-sans text-[10px] uppercase tracking-widest text-gray-600">{p.category}</p>
                   <p className="mt-1 line-clamp-2 text-sm font-bold leading-snug" style={{ color: NAVY }}>{p.name}</p>
-                  <p className="mt-2 font-sans text-sm font-bold" style={{ color: NAVY }}>{formatPrice(p.price)}</p>
+                  {isComingSoon(p) ? (
+                    <span className="mt-2 inline-block rounded-full px-2.5 py-0.5 font-sans text-[11px] font-bold uppercase tracking-wider text-white" style={{ background: NAVY }}>
+                      Coming Soon
+                    </span>
+                  ) : (
+                    <p className="mt-2 font-sans text-sm font-bold" style={{ color: NAVY }}>{formatPrice(p.price)}</p>
+                  )}
                 </div>
               </a>
             ))}

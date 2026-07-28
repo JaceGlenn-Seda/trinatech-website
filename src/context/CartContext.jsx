@@ -42,6 +42,8 @@ export function CartProvider({ children }) {
   const api = useMemo(() => {
     const addToCart = (product, qty = 1) =>
       setLines((prev) => {
+        // Coming-soon products can never enter the cart
+        if (!product || product.price === null || product.price === undefined || product.comingSoon === true) return prev;
         const i = prev.findIndex((l) => l.product.id === product.id);
         if (i === -1) return [...prev, { product, quantity: qty }];
         const next = [...prev];

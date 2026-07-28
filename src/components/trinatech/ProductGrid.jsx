@@ -2,7 +2,7 @@ import React, { useState } from "react";
 import { Link } from "react-router-dom";
 import RevealWrap from "./RevealWrap";
 import { useCart } from "@/context/CartContext";
-import { PRODUCTS, formatPrice } from "@/data/products";
+import { PRODUCTS, formatPrice, isComingSoon } from "@/data/products";
 
 // 8 best-seller IDs for the homepage teaser
 const BEST_SELLER_IDS = [4160, 5416, 3457, 4145, 5327, 5533, 5227, 4968];
@@ -10,9 +10,11 @@ const BEST_SELLER_IDS = [4160, 5416, 3457, 4145, 5327, 5533, 5227, 4968];
 export function ProductCard({ product }) {
   const { addToCart } = useCart();
   const [added, setAdded] = useState(false);
+  const comingSoon = isComingSoon(product);
 
   const handleAdd = (e) => {
     e.preventDefault();
+    if (comingSoon) return;
     addToCart(product);
     setAdded(true);
     setTimeout(() => setAdded(false), 1400);
@@ -23,13 +25,13 @@ export function ProductCard({ product }) {
     "@context": "https://schema.org",
     "@type": "Product",
     "name": product.name,
-    "description": `${product.name} — ${product.category} available at Trinatech Toners & Printers Kenya, The One Mall, River Road CBD, Nairobi. Same-day delivery available.`,
+    "description": `${product.name} — ${product.category} ${comingSoon ? "(coming soon)" : "available"} at Trinatech Toners & Printers Kenya, The One Mall, River Road CBD, Nairobi.`,
     "brand": { "@type": "Brand", "name": product.brand },
     "offers": {
       "@type": "Offer",
       "priceCurrency": "KES",
-      "price": String(product.price),
-      "availability": "https://schema.org/InStock",
+      "price": String(product.price ?? 0),
+      "availability": comingSoon ? "https://schema.org/PreOrder" : "https://schema.org/InStock",
       "url": "https://trinatechtonersandprinters.co.ke/shop",
       "seller": { "@type": "Organization", "name": "Trinatech Toners & Printers Kenya", "url": "https://trinatechtonersandprinters.co.ke" }
     }
@@ -60,14 +62,20 @@ export function ProductCard({ product }) {
             <div className="cat">{product.category}</div>
             <h3>{product.name}</h3>
             <div className="product-foot">
-              <div className="price">{formatPrice(product.price)}</div>
-              <button
-                className={`add-btn${added ? " added" : ""}`}
-                aria-label={`Add ${product.name} to cart`}
-                onClick={handleAdd}
-              >
-                {added ? "✓" : "+"}
-              </button>
+              {comingSoon ? (
+                <span style={{ fontFamily: "var(--font-display)", fontSize: 11, fontWeight: 700, letterSpacing: "1px", textTransform: "uppercase", color: "#fff", background: "var(--navy)", padding: "6px 12px", borderRadius: 999, alignSelf: "center" }} aria-label="Coming soon">Coming Soon</span>
+              ) : (
+                <>
+                  <div className="price">{formatPrice(product.price)}</div>
+                  <button
+                    className={`add-btn${added ? " added" : ""}`}
+                    aria-label={`Add ${product.name} to cart`}
+                    onClick={handleAdd}
+                  >
+                    {added ? "✓" : "+"}
+                  </button>
+                </>
+              )}
             </div>
           </div>
         </article>

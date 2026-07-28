@@ -1,5 +1,8 @@
 import React, { useState, useEffect, useRef } from "react";
 import { useCart } from "@/context/CartContext";
+import { isComingSoon } from "@/data/products";
+
+const WHATSAPP_NUMBER = "254729589346";
 
 export default function SearchOverlay({ products }) {
   const { addToCart } = useCart();
@@ -43,9 +46,16 @@ export default function SearchOverlay({ products }) {
     : [];
 
   const handleAdd = (p) => {
+    if (isComingSoon(p)) return;
     addToCart(p);
     setSearchOpen(false);
     window.dispatchEvent(new Event("trinatech:cart:open"));
+  };
+
+  const handleEnquire = (p) => {
+    const msg = encodeURIComponent(`Hello Trinatech, I'd like to enquire about: ${p.name}`);
+    window.open(`https://wa.me/${WHATSAPP_NUMBER}?text=${msg}`, "_blank", "noopener,noreferrer");
+    setSearchOpen(false);
   };
 
   if (!searchOpen) return null;
@@ -77,15 +87,31 @@ export default function SearchOverlay({ products }) {
             ) : (
               results.map(p => (
                 <div key={p.id} className="search-result-item">
-                  <img src={p.image} alt={p.name} loading="lazy" decoding="async" width="52" height="52" referrerPolicy="no-referrer" />
+                  {p.image ? (
+                    <img src={p.image} alt={p.name} loading="lazy" decoding="async" width="52" height="52" referrerPolicy="no-referrer" />
+                  ) : (
+                    <div style={{ width: 52, height: 52, borderRadius: 10, background: "var(--paper-2)", display: "grid", placeItems: "center", flexShrink: 0, fontFamily: "var(--font-display)", fontWeight: 700, fontSize: 11, color: "var(--navy)" }}>{p.brand?.slice(0, 2)}</div>
+                  )}
                   <div className="sri-info">
                     <div className="sri-cat">{p.category}</div>
                     <div className="sri-name">{p.name}</div>
-                    <div className="sri-price">KSh {p.price?.toLocaleString("en-KE")}</div>
+                    <div className="sri-price">
+                      {isComingSoon(p) ? (
+                        <span style={{ fontFamily: "var(--font-display)", fontSize: 11, fontWeight: 700, letterSpacing: 1, textTransform: "uppercase", color: "#fff", background: "var(--navy)", padding: "3px 9px", borderRadius: 999 }}>Coming Soon</span>
+                      ) : (
+                        `KSh ${p.price.toLocaleString("en-KE")}`
+                      )}
+                    </div>
                   </div>
-                  <button className="tt-btn tt-btn-red" style={{ padding: "9px 18px", fontSize: 13 }} onClick={() => handleAdd(p)}>
-                    Add to cart
-                  </button>
+                  {isComingSoon(p) ? (
+                    <button className="tt-btn tt-btn-navy" style={{ padding: "9px 18px", fontSize: 13 }} onClick={() => handleEnquire(p)}>
+                      Enquire
+                    </button>
+                  ) : (
+                    <button className="tt-btn tt-btn-red" style={{ padding: "9px 18px", fontSize: 13 }} onClick={() => handleAdd(p)}>
+                      Add to cart
+                    </button>
+                  )}
                 </div>
               ))
             )}

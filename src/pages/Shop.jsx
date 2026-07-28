@@ -9,7 +9,7 @@ import CheckoutModal from "@/components/trinatech/CheckoutModal";
 import SearchOverlay from "@/components/trinatech/SearchOverlay";
 import WhatsAppFloat from "@/components/trinatech/WhatsAppFloat";
 import { ProductCard } from "@/components/trinatech/ProductGrid";
-import { PRODUCTS, BRANDS, CATEGORIES, formatPrice } from "@/data/products";
+import { PRODUCTS, BRANDS, CATEGORIES, formatPrice, isComingSoon } from "@/data/products";
 
 const PAGE_SIZE = 24;
 
@@ -23,7 +23,7 @@ const SORT_OPTIONS = [
 export default function Shop() {
   usePageMeta({
     title: "Shop Toners, Ink & Printers in Nairobi | Trinatech",
-    description: "Browse 832 genuine and compatible toners, ink cartridges, printers and copiers from HP, Kyocera, Canon, Epson, Ricoh, Brother and Royal. In stock at Trinatech, River Road CBD, Nairobi.",
+    description: `Browse ${PRODUCTS.length} genuine and compatible toners, ink cartridges, printers and copiers from HP, Kyocera, Canon, Epson, Ricoh, Brother and Royal. In stock at Trinatech, River Road CBD, Nairobi.`,
   });
 
   const [searchQ, setSearchQ] = useState("");
@@ -50,8 +50,8 @@ export default function Shop() {
       return brandMatch && catMatch && searchMatch;
     });
 
-    if (sort === "price-asc") list = [...list].sort((a, b) => a.price - b.price);
-    else if (sort === "price-desc") list = [...list].sort((a, b) => b.price - a.price);
+    if (sort === "price-asc") list = [...list].sort((a, b) => (a.price ?? Infinity) - (b.price ?? Infinity));
+    else if (sort === "price-desc") list = [...list].sort((a, b) => (b.price ?? 0) - (a.price ?? 0));
     else if (sort === "name-asc") list = [...list].sort((a, b) => a.name.localeCompare(b.name));
 
     return list;

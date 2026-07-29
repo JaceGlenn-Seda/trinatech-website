@@ -725,3 +725,40 @@ h1, h2, h3 { font-weight: 800 !important; letter-spacing: -0.02em; }
     display: none !important;
   }
 }
+
+/* ---- Featured Royal carousel — premium blob + float (FeaturedCarousel.jsx only) ---- */
+.fc-blob {
+  position: absolute; left: 50%; top: 50%;
+  width: 80%; height: 80%;
+  transform: translate(-50%, -50%);
+  background: linear-gradient(135deg, rgba(27, 42, 99, 0.55), rgba(208, 28, 36, 0.45));
+  opacity: 0.18;
+  filter: blur(8px);
+  z-index: 0;
+  pointer-events: none;
+}
+.fc-float {
+  position: relative; z-index: 1;
+  display: inline-flex; align-items: center; justify-content: center;
+  max-width: 100%; max-height: 100%;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  /* Scroll-into-view fade + scale (reuses .reveal IntersectionObserver via RevealWrap) */
+  .tt-reveal.fc-reveal { opacity: 0; transform: scale(0.94); transition: opacity 0.7s ease, transform 0.7s ease; }
+  .tt-reveal.fc-reveal.visible { opacity: 1; transform: scale(1); }
+  /* Morphing blob */
+  .fc-blob { animation: blobMorph 9s ease-in-out infinite; }
+  /* Gentle float */
+  .fc-float { animation: floatY 6s ease-in-out infinite; }
+
+  @keyframes blobMorph {
+    0%, 100% { border-radius: 42% 58% 63% 37% / 45% 42% 58% 55%; }
+    33%      { border-radius: 58% 42% 40% 60% / 55% 60% 40% 45%; }
+    66%      { border-radius: 40% 60% 55% 45% / 60% 40% 55% 40%; }
+  }
+  @keyframes floatY {
+    0%, 100% { transform: translateY(0); }
+    50%      { transform: translateY(-8px); }
+  }
+}

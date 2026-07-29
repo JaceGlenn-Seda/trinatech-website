@@ -14,6 +14,7 @@
 import React, { useRef, useState, useEffect } from "react";
 import { PRODUCTS, formatPrice } from "@/data/products";
 import CircuitMotif from "./CircuitMotif";
+import RevealWrap from "./RevealWrap";
 
 const NAVY = "#1a2c6b";
 const RED = "#d3222a";
@@ -127,35 +128,43 @@ export default function FeaturedCarousel() {
         onTouchStart={() => setPaused(true)}
         onTouchEnd={() => setTimeout(() => setPaused(false), 4000)}
       >
-        {featured.map((p) => {
+        {featured.map((p, i) => {
           const isRoyal = p.brand === "Royal";
           return (
-            <a
-              key={p.id}
-              href={productUrl(p.id)}
-              className="group w-64 flex-none overflow-hidden rounded-2xl bg-white shadow-lg transition-transform duration-300 hover:-translate-y-1 md:w-72"
-            >
-              {/* Image area — fixed height, generous padding, contain */}
-              <div className="relative flex h-52 items-center justify-center p-6 md:h-56">
-                {isRoyal && (
+            <RevealWrap key={p.id} className="w-64 flex-none md:w-72 fc-reveal">
+              <a
+                href={productUrl(p.id)}
+                className="group block h-full overflow-hidden rounded-2xl bg-white shadow-lg transition-transform duration-300 hover:-translate-y-1"
+              >
+                {/* Image area — fixed height, generous padding, contain */}
+                <div className="relative flex h-52 items-center justify-center p-6 md:h-56">
+                  {isRoyal && (
+                    <span
+                      className="absolute left-3 top-3 z-10 rounded px-2 py-1 text-[10px] font-bold uppercase tracking-widest"
+                      style={{ background: GOLD, color: NAVY }}
+                    >
+                      Royal · Our House Brand
+                    </span>
+                  )}
+                  {/* Morphing blob — behind image, never clips it */}
+                  <span className="fc-blob" aria-hidden="true" />
+                  {/* Floating product image (staggered per card) */}
                   <span
-                    className="absolute left-3 top-3 rounded px-2 py-1 text-[10px] font-bold uppercase tracking-widest"
-                    style={{ background: GOLD, color: NAVY }}
+                    className="fc-float"
+                    style={{ animationDelay: `${i * 0.4}s` }}
                   >
-                    Royal · Our House Brand
+                    <img
+                      src={p.image}
+                      alt={p.name}
+                      loading="lazy"
+                      decoding="async"
+                      width="220"
+                      height="180"
+                      className="max-h-full max-w-full object-contain transition-transform duration-300 group-hover:scale-105"
+                      referrerPolicy="no-referrer"
+                    />
                   </span>
-                )}
-                <img
-                  src={p.image}
-                  alt={p.name}
-                  loading="lazy"
-                  decoding="async"
-                  width="220"
-                  height="180"
-                  className="max-h-full max-w-full object-contain transition-transform duration-300 group-hover:scale-105"
-                  referrerPolicy="no-referrer"
-                />
-              </div>
+                </div>
 
               {/* Info area */}
               <div className="border-t border-gray-100 px-5 pb-5 pt-3">
@@ -185,7 +194,8 @@ export default function FeaturedCarousel() {
                   </span>
                 </div>
               </div>
-            </a>
+              </a>
+            </RevealWrap>
           );
         })}
       </div>

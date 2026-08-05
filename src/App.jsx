@@ -15,6 +15,7 @@ import Contact from './pages/Contact';
 import PrintingGuide from './pages/PrintingGuide';
 import ProductDetail from './pages/ProductDetail';
 import Shop from './pages/Shop';
+import Export from './pages/Export';
 // Add page imports here
 
 const AuthenticatedApp = () => {
@@ -35,6 +36,7 @@ const AuthenticatedApp = () => {
       <Route path="/printing-guide" element={<PrintingGuide />} />
       <Route path="/product" element={<ProductDetail />} />
       <Route path="/shop" element={<Shop />} />
+      <Route path="/export" element={<Export />} />
       <Route path="*" element={<PageNotFound />} />
     </Routes>
   );

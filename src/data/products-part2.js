@@ -646,9 +646,111 @@ Do I need the colours too? Yes for colour printing. HP 128A cyan CE321A, yellow 
 How fast is delivery? Same day within Nairobi, next working day to most towns.
 Can I return it? Yes, sealed and unused.
 Will the printer stop if a colour runs out? On most of these models yes, even for a black-only job, so keep an eye on all four levels.`, "metaTitle": "HP 128A Black Toner CE320A - Genuine HP Kenya", "metaDescription": "Genuine HP 128A black toner (CE320A), 2,000 pages, for HP LaserJet Pro CP1525 and CM1415 colour MFP. Nairobi stock, countrywide delivery.", "inStock": true},
-  {"id": 5166, "sku": "CE321A", "name": "HP 128A Cyan Toner Original Laserjet (CE321A)", "brand": "HP", "category": "HP Original Toners", "price": 8000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/HP-128A-Cyan-Toner-Original-Laserjet-CE321A-scaled.webp", "imageFile": "HP-128A-Cyan-Toner-Original-Laserjet-CE321A-scaled.webp", "description": "HP 128A CYAN TONER ORIGINAL LASERJET (CE321A", "inStock": true},
-  {"id": 5165, "sku": "CE322A-2", "name": "HP 128A Magneta Toner Original Laserjet (CE322A)", "brand": "HP", "category": "HP Original Toners", "price": 8000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/HP-128A-Magneta-Toner-Original-Laserjet-CE322A-scaled.webp", "imageFile": "HP-128A-Magneta-Toner-Original-Laserjet-CE322A-scaled.webp", "description": "HP 128A MAGNETA TONER ORIGINAL LASERJET (CE322A", "inStock": true},
-  {"id": 5164, "sku": "CE322A", "name": "HP 128A Yellow Toner Original Laserjet (CE322A)", "brand": "HP", "category": "HP Original Toners", "price": 8000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/HP-128A-Yellow-Toner-Original-Laserjet-CE322A.webp", "imageFile": "HP-128A-Yellow-Toner-Original-Laserjet-CE322A.webp", "description": "HP 128A YELLOW TONER ORIGINAL LASERJET (CE322A", "inStock": true},
+  {"id": 5166, "sku": "CE321A", "name": "HP 128A Cyan Toner Original Laserjet (CE321A)", "brand": "HP", "category": "HP Original Toners", "price": 8000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/HP-128A-Cyan-Toner-Original-Laserjet-CE321A-scaled.webp", "imageFile": "HP-128A-Cyan-Toner-Original-Laserjet-CE321A-scaled.webp", "description": `The HP 128A cyan toner cartridge is the genuine Original HP replacement, part number CE321A, for the HP LaserJet Pro CP1525 colour printers and the CM1415 colour all-in-ones. It is one of three colour cartridges in these machines and is replaced individually, so you buy only the colour that has actually run out.
+
+## Compatible printers
+HP LaserJet Pro CP1525n Color Printer
+HP LaserJet Pro CP1525nw Color Printer
+HP LaserJet Pro CM1415fn Color MFP
+HP LaserJet Pro CM1415fnw Color MFP
+If your model isn't listed, send us the number from the front of the machine and we'll confirm before you pay.
+
+## Specifications
+| Page yield | Cartridge type | Colour | Capacity | Part number | Genuine or compatible |
+|---|---|---|---|---|---|
+| 1,300 pages at 5% coverage | Laser toner cartridge | Cyan | Standard capacity | CE321A | Genuine Original HP |
+
+## Genuine or compatible?
+Genuine, Original HP, sealed box. Not a refill and not our Royal house brand, which we always sell under its own name. Colour matching is where non-genuine toner shows itself fastest on a four-cartridge machine. If one cartridge uses a slightly different pigment, greens and greys shift across every page and the cause is hard to trace back to a single cartridge. Mixing genuine and compatible cartridges in a colour laser is the most common source of colour complaints we see at the counter.
+
+## Why buy from Trinatech
+Held in Nairobi CBD stock, including for machines other suppliers have dropped.
+Countrywide courier delivery, Nakuru, Eldoret, Kisumu and Mombasa included.
+M-Pesa or bank transfer, with proper invoicing and LPO handling for corporate accounts.
+WhatsApp us the model number, or walk in to The One Mall on River Road.
+
+## Getting the most from this cartridge
+Rock the cartridge gently before installing and keep your fingers off the drum surface underneath.
+Store spares boxed and upright, away from heat and direct sunlight. Light degrades the drum coating on a colour laser cartridge.
+At 1,300 pages the colours empty faster than people expect on a machine used for anything more than occasional colour. Keeping one spare avoids a stopped printer.
+1,300 pages assumes 5% coverage of cyan specifically, so a page carrying a large block of that colour can consume a great deal more than the figure suggests.
+
+## Frequently asked questions
+Is there a higher-yield version? No. HP sells the 128A as a standard-capacity range only.
+Do I need the other cartridges too? In time yes. The set is black CE320A at 2,000 pages, plus yellow CE322A and magenta CE323A at around 1,300 pages each.
+How fast is delivery? Same day within Nairobi, next working day upcountry.
+Can I return it? Yes, sealed and unused.
+Will the printer stop if one colour runs out? On most of these models yes, even for a black-only job, so keep an eye on all four levels.`, "metaTitle": "HP 128A Cyan Toner CE321A - Genuine HP Kenya", "metaDescription": "Genuine HP 128A cyan toner (CE321A), 1,300 pages, for HP LaserJet Pro CP1525 and CM1415 colour MFP. Nairobi stock, delivered across Kenya.", "inStock": true},
+  {"id": 5165, "sku": "CE322A-2", "name": "HP 128A Magneta Toner Original Laserjet (CE322A)", "brand": "HP", "category": "HP Original Toners", "price": 8000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/HP-128A-Magneta-Toner-Original-Laserjet-CE322A-scaled.webp", "imageFile": "HP-128A-Magneta-Toner-Original-Laserjet-CE322A-scaled.webp", "description": `The HP 128A magenta toner cartridge is the genuine Original HP replacement, part number CE323A, for the HP LaserJet Pro CP1525 colour printers and the CM1415 colour all-in-ones. It is one of three colour cartridges in these machines and is replaced individually, so you buy only the colour that has actually run out.
+
+## Compatible printers
+HP LaserJet Pro CP1525n Color Printer
+HP LaserJet Pro CP1525nw Color Printer
+HP LaserJet Pro CM1415fn Color MFP
+HP LaserJet Pro CM1415fnw Color MFP
+If your model isn't listed, send us the number from the front of the machine and we'll confirm before you pay.
+
+## Specifications
+| Page yield | Cartridge type | Colour | Capacity | Part number | Genuine or compatible |
+|---|---|---|---|---|---|
+| 1,300 pages at 5% coverage | Laser toner cartridge | Magenta | Standard capacity | CE323A | Genuine Original HP |
+
+## Genuine or compatible?
+Genuine, Original HP, sealed box. Not a refill and not our Royal house brand, which we always sell under its own name. Colour matching is where non-genuine toner shows itself fastest on a four-cartridge machine. If one cartridge uses a slightly different pigment, greens and greys shift across every page and the cause is hard to trace back to a single cartridge. Mixing genuine and compatible cartridges in a colour laser is the most common source of colour complaints we see at the counter.
+
+## Why buy from Trinatech
+Held in Nairobi CBD stock, including for machines other suppliers have dropped.
+Countrywide courier delivery, Nakuru, Eldoret, Kisumu and Mombasa included.
+M-Pesa or bank transfer, with proper invoicing and LPO handling for corporate accounts.
+WhatsApp us the model number, or walk in to The One Mall on River Road.
+
+## Getting the most from this cartridge
+Rock the cartridge gently before installing and keep your fingers off the drum surface underneath.
+Store spares boxed and upright, away from heat and direct sunlight. Light degrades the drum coating on a colour laser cartridge.
+At 1,300 pages the colours empty faster than people expect on a machine used for anything more than occasional colour. Keeping one spare avoids a stopped printer.
+1,300 pages assumes 5% coverage of magenta specifically, so a page carrying a large block of that colour can consume a great deal more than the figure suggests.
+
+## Frequently asked questions
+Is there a higher-yield version? No. HP sells the 128A as a standard-capacity range only.
+Do I need the other cartridges too? In time yes. The set is black CE320A at 2,000 pages, plus cyan CE321A and yellow CE322A at around 1,300 pages each.
+How fast is delivery? Same day within Nairobi, next working day upcountry.
+Can I return it? Yes, sealed and unused.
+Will the printer stop if one colour runs out? On most of these models yes, even for a black-only job, so keep an eye on all four levels.`, "metaTitle": "HP 128A Magenta Toner CE323A - Genuine HP Kenya", "metaDescription": "Genuine HP 128A magenta toner (CE323A), 1,300 pages, for HP LaserJet Pro CP1525 and CM1415 colour MFP. Nairobi stock, delivered across Kenya.", "inStock": true},
+  {"id": 5164, "sku": "CE322A", "name": "HP 128A Yellow Toner Original Laserjet (CE322A)", "brand": "HP", "category": "HP Original Toners", "price": 8000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/HP-128A-Yellow-Toner-Original-Laserjet-CE322A.webp", "imageFile": "HP-128A-Yellow-Toner-Original-Laserjet-CE322A.webp", "description": `The HP 128A yellow toner cartridge is the genuine Original HP replacement, part number CE322A, for the HP LaserJet Pro CP1525 colour printers and the CM1415 colour all-in-ones. It is one of three colour cartridges in these machines and is replaced individually, so you buy only the colour that has actually run out.
+
+## Compatible printers
+HP LaserJet Pro CP1525n Color Printer
+HP LaserJet Pro CP1525nw Color Printer
+HP LaserJet Pro CM1415fn Color MFP
+HP LaserJet Pro CM1415fnw Color MFP
+If your model isn't listed, send us the number from the front of the machine and we'll confirm before you pay.
+
+## Specifications
+| Page yield | Cartridge type | Colour | Capacity | Part number | Genuine or compatible |
+|---|---|---|---|---|---|
+| 1,300 pages at 5% coverage | Laser toner cartridge | Yellow | Standard capacity | CE322A | Genuine Original HP |
+
+## Genuine or compatible?
+Genuine, Original HP, sealed box. Not a refill and not our Royal house brand, which we always sell under its own name. Colour matching is where non-genuine toner shows itself fastest on a four-cartridge machine. If one cartridge uses a slightly different pigment, greens and greys shift across every page and the cause is hard to trace back to a single cartridge. Mixing genuine and compatible cartridges in a colour laser is the most common source of colour complaints we see at the counter.
+
+## Why buy from Trinatech
+Held in Nairobi CBD stock, including for machines other suppliers have dropped.
+Countrywide courier delivery, Nakuru, Eldoret, Kisumu and Mombasa included.
+M-Pesa or bank transfer, with proper invoicing and LPO handling for corporate accounts.
+WhatsApp us the model number, or walk in to The One Mall on River Road.
+
+## Getting the most from this cartridge
+Rock the cartridge gently before installing and keep your fingers off the drum surface underneath.
+Store spares boxed and upright, away from heat and direct sunlight. Light degrades the drum coating on a colour laser cartridge.
+At 1,300 pages the colours empty faster than people expect on a machine used for anything more than occasional colour. Keeping one spare avoids a stopped printer.
+1,300 pages assumes 5% coverage of yellow specifically, so a page carrying a large block of that colour can consume a great deal more than the figure suggests.
+
+## Frequently asked questions
+Is there a higher-yield version? No. HP sells the 128A as a standard-capacity range only.
+Do I need the other cartridges too? In time yes. The set is black CE320A at 2,000 pages, plus cyan CE321A and magenta CE323A at around 1,300 pages each.
+How fast is delivery? Same day within Nairobi, next working day upcountry.
+Can I return it? Yes, sealed and unused.
+Will the printer stop if one colour runs out? On most of these models yes, even for a black-only job, so keep an eye on all four levels.`, "metaTitle": "HP 128A Yellow Toner CE322A - Genuine HP Kenya", "metaDescription": "Genuine HP 128A yellow toner (CE322A), 1,300 pages, for HP LaserJet Pro CP1525 and CM1415 colour MFP. Nairobi stock, delivered across Kenya.", "inStock": true},
   {"id": 5495, "sku": "C9364H", "name": "HP 129 Black Ink Cartridge (C9364HE)", "brand": "HP", "category": "Original Hp Ink Cartridges", "price": 3500, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/HP-129-Black-Ink-Cartridge-C9364HE.webp", "imageFile": "HP-129-Black-Ink-Cartridge-C9364HE.webp", "description": "HP 129 BLACK INK CARTRIDGE (C9364HE", "inStock": true},
   {"id": 3556, "sku": null, "name": "HP 12A Black Original Laserjet Toner Cartridge", "brand": "HP", "category": "Inks & Toner Cartridges", "price": 6000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2024/12/HP-12A-Toner.png", "imageFile": "HP-12A-Toner.png", "description": `The HP 12A black toner cartridge is the genuine Original HP replacement, part number Q2612A, and probably the most widely used laser cartridge in Kenya. The LaserJet 1020 and M1005 it serves have been running in offices, schools, clinics and cyber cafes for years, and at 2,000 pages the cartridge is why those machines are still worth keeping.
 

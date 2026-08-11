@@ -574,20 +574,240 @@ Can I return it? Yes, sealed and unused.
 I have seen this cartridge advertised at 3,000 pages. Which is right? 2,100 pages is HP's figure for the genuine cartridge. The 3,000-page claims belong to non-genuine jumbo-fill products, which is a different thing entirely.`, "metaTitle": "HP 78A Black Toner Cartridge CE278A - Genuine HP Kenya", "metaDescription": "Genuine HP 78A black toner (CE278A), 2,100 pages, for HP LaserJet Pro P1566, P1606dn and MFP M1536dnf. Nairobi stock, delivered across Kenya.", "inStock": true},
   {"id": 5065, "sku": "CE278A", "name": "HP 78A Black Toner Laserjet (CE278A)", "brand": "HP", "category": "HP Original Toners", "price": 6000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/HP-78A-Black-Toner-Laserjet-CE278A-scaled.webp", "imageFile": "HP-78A-Black-Toner-Laserjet-CE278A-scaled.webp", "description": "HP 78A BLACK TONER LASERJET (CE278A", "inStock": true},
   {"id": 5064, "sku": null, "name": "HP 79A Black Laserjet Toner Cartridge", "brand": "HP", "category": "HP Original Toners", "price": 9500, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/HP-79A-Black-Laserjet-Toner-Cartridge-scaled.webp", "imageFile": "HP-79A-Black-Laserjet-Toner-Cartridge-scaled.webp", "description": "HP 79A BLACK LASERJET TONER CARTRIDGE", "inStock": true},
-  {"id": 4151, "sku": null, "name": "HP 79A Black Original Laserjet Toner Cartridge", "brand": "HP", "category": "Inks & Toner Cartridges", "price": 9000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2025/01/HP-79A-Black-Original-LaserJet-Toner.png", "imageFile": "HP-79A-Black-Original-LaserJet-Toner.png", "description": "The HP 79A Black Original LaserJet Toner Cartridge ensures exceptional print quality with each page.", "inStock": true},
+  {"id": 4151, "sku": null, "name": "HP 79A Black Original Laserjet Toner Cartridge", "brand": "HP", "category": "Inks & Toner Cartridges", "price": 9000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2025/01/HP-79A-Black-Original-LaserJet-Toner.png", "imageFile": "HP-79A-Black-Original-LaserJet-Toner.png", "description": `The HP 79A black toner cartridge is the genuine Original HP replacement, part number CF279A, for the HP LaserJet Pro M12 and MFP M26 series. These are the smallest laser printers HP makes, built for a desk, a shop counter or a home office that needs proper laser output without the footprint.
+
+## Compatible printers
+HP LaserJet Pro M12a Printer
+HP LaserJet Pro M12w Printer
+HP LaserJet Pro MFP M26a
+HP LaserJet Pro MFP M26nw
+If your model isn't listed, send us the number from the front of the machine and we'll confirm before you pay.
+
+## Specifications
+| Page yield | Cartridge type | Colour | Capacity | Part number | Genuine or compatible |
+|---|---|---|---|---|---|
+| 1,000 pages at 5% coverage | Laser toner cartridge | Black | Standard capacity | CF279A | Genuine Original HP |
+
+## Genuine or compatible?
+Genuine, Original HP in the sealed box. Not a refill and not our Royal house brand, which is always sold under the Royal name. This generation checks the cartridge chip in firmware, so non-genuine cartridges on the M12 and M26 are frequently rejected outright rather than simply printing poorly. On a machine this small there is no second printer to fall back on, which is worth weighing against the saving.
+
+## Why buy from Trinatech
+Stocked in the Nairobi CBD for same-day collection or dispatch.
+Countrywide courier delivery, Kisumu, Nakuru, Eldoret and Mombasa included.
+M-Pesa or bank transfer, with an invoice for your records.
+WhatsApp the model number from the front of the printer, or visit The One Mall on River Road.
+
+## Getting the most from this cartridge
+Rock the cartridge gently side to side before fitting and remove the sealing strip completely.
+At 1,000 pages this is the smallest laser cartridge in our range. If you print daily rather than occasionally, work out your cost per page before settling on this machine as your main printer.
+When pages start to fade, take the cartridge out and rock it again. That commonly buys another thirty or forty pages.
+Store spares flat and boxed, away from heat and damp. Toner clumps in humidity and clumped toner streaks.
+
+## Frequently asked questions
+Is there a higher-yield version? No. HP sells the 79A as a standard-capacity cartridge only for this range.
+Do I need a separate drum? No. The drum is built into the cartridge, so both are replaced together.
+How fast is delivery? Same day within Nairobi, next working day to most towns.
+Can I return it? Yes, sealed and unused.
+Why does such a small cartridge cost this much? The M12 and M26 were sold cheaply and the running cost sits in the toner. If you print steadily, a larger machine like the M404 works out cheaper per page over a year, and we are happy to work that out with you.`, "metaTitle": "HP 79A Black Toner Cartridge CF279A - Genuine HP Kenya", "metaDescription": "Genuine HP 79A black toner (CF279A), 1,000 pages, for HP LaserJet Pro M12a, M12w and MFP M26a, M26nw. Nairobi stock, delivered across Kenya.", "inStock": true},
   {"id": 4603, "sku": null, "name": "HP 80A Black Original Laserjet Toner Cartridge (CF280A)", "brand": "HP", "category": "Inks & Toner Cartridges", "price": 6000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2025/07/HP-80A-Black-Original-LaserJet-Toner-Cartridge.png", "imageFile": "HP-80A-Black-Original-LaserJet-Toner-Cartridge.png", "description": "Compatible with: HP LaserJet Pro 400 M401 models: M401a, M401d, M401dn, M401dne, M401dw, M401n HP LaserJet Pro 400 MFP M425 models: M425dn, M425dw", "inStock": true},
   {"id": 5063, "sku": "CE280A", "name": "HP 80A Black Toner Laserjet (CE280A)", "brand": "HP", "category": "HP Original Toners", "price": 6000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/HP-80A-Black-Toner-Laserjet-CE280A-scaled.webp", "imageFile": "HP-80A-Black-Toner-Laserjet-CE280A-scaled.webp", "description": "HP 80A BLACK TONER LASERJET (CE280A", "inStock": true},
-  {"id": 4781, "sku": null, "name": "HP 81A Black Original Laserjet Toner Cartridge", "brand": "HP", "category": "Inks & Toner Cartridges", "price": 12000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2025/07/HP-81A-Black-Original-Toner.png", "imageFile": "HP-81A-Black-Original-Toner.png", "description": "Compatible with: HP LaserJet Enterprise M604 (including M604n, M604dn) HP LaserJet Enterprise M605 (M605n, M605dn, M605x) HP LaserJet Enterprise M606 (M606dn, M606x)", "inStock": true},
+  {"id": 4781, "sku": null, "name": "HP 81A Black Original Laserjet Toner Cartridge", "brand": "HP", "category": "Inks & Toner Cartridges", "price": 12000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2025/07/HP-81A-Black-Original-Toner.png", "imageFile": "HP-81A-Black-Original-Toner.png", "description": `The HP 81A black toner cartridge is the genuine Original HP replacement, part number CF281A, for the HP LaserJet Enterprise M604, M605 and M606 series and the MFP M630. At 10,500 pages this is departmental printing, the kind of cartridge a whole floor shares.
+
+## Compatible printers
+HP LaserJet Enterprise M604n Printer
+HP LaserJet Enterprise M604dn Printer
+HP LaserJet Enterprise M605n Printer
+HP LaserJet Enterprise M605dn Printer
+HP LaserJet Enterprise M605dh Printer
+HP LaserJet Enterprise M605x Printer
+HP LaserJet Enterprise M606dn Printer
+HP LaserJet Enterprise M606x Printer
+HP LaserJet Enterprise MFP M630f
+HP LaserJet Enterprise MFP M630h
+HP LaserJet Enterprise Flow MFP M630h
+HP LaserJet Enterprise Flow MFP M630z
+If your model isn't listed, send us the number from the front of the machine and we'll confirm before you pay.
+
+## Specifications
+| Page yield | Cartridge type | Colour | Capacity | Part number | Genuine or compatible |
+|---|---|---|---|---|---|
+| 10,500 pages at 5% coverage | Laser toner cartridge | Black | Standard capacity | CF281A | Genuine Original HP |
+
+## Genuine or compatible?
+Genuine, Original HP in the sealed box. Not a refill and not our Royal house brand. On enterprise fleets this matters more than anywhere. These machines usually sit on a service contract or a managed print agreement, and non-genuine consumables can put that arrangement in question. A leaking or rejected cartridge here does not inconvenience one desk, it stops a department and can mean a service call on a machine worth many times the cartridge.
+
+## Why buy from Trinatech
+Enterprise-class stock held in the Nairobi CBD rather than ordered in on request.
+Courier delivery countrywide, Nakuru, Eldoret, Kisumu and Mombasa included.
+M-Pesa or bank transfer, with proper invoicing and LPO handling for corporate accounts.
+WhatsApp us the model number, or visit The One Mall on River Road.
+
+## Getting the most from this cartridge
+Rock the cartridge gently before fitting. These are large, heavy cartridges and toner settles in transit.
+Order before you run out. On a shared machine the low-toner warning is usually ignored until the queue stops.
+If your volume is high, HP 81X holds roughly two and a half times as much at around 25,000 pages. Ask us to compare on your monthly figures.
+10,500 pages assumes 5% coverage. Heavy reports and forms will come in well under that on a machine running all day.
+
+## Frequently asked questions
+Is there a higher-yield version? Yes, HP 81X fits the same printers and prints around 25,000 pages.
+Do I need anything else? These take a single black cartridge, so no. Ask us about maintenance kits if the printer has high mileage.
+How fast is delivery? Same day within Nairobi, next working day to most towns.
+Can I return it? Yes, sealed and unused.
+Which cartridge suits a machine printing all day? Ask us to compare 81A and 81X against your monthly volume. On heavy use the larger cartridge usually wins clearly.`, "metaTitle": "HP 81A Black Toner Cartridge CF281A - Genuine HP Kenya", "metaDescription": "Genuine HP 81A black toner (CF281A), 10,500 pages, for HP LaserJet Enterprise M604, M605, M606 and MFP M630. Nairobi stock, countrywide delivery.", "inStock": true},
   {"id": 5062, "sku": "CF281A", "name": "HP 81A Black Toner Laserjet Catrigde (CF281A)", "brand": "HP", "category": "HP Original Toners", "price": 12000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/HP-81A-Black-Toner-Laserjet-Catrigde-CF281A-scaled.webp", "imageFile": "HP-81A-Black-Toner-Laserjet-Catrigde-CF281A-scaled.webp", "description": "HP 81A BLACK TONER LASERJET CATRIGDE (CF281A", "inStock": true},
   {"id": 5061, "sku": "CF300A", "name": "HP 827A Black Toner Laserjet Cartridge (CF300A)", "brand": "HP", "category": "HP Original Toners", "price": 25000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/HP-827A-Black-Toner-Laserjet-Cartridge-CF300A-scaled.webp", "imageFile": "HP-827A-Black-Toner-Laserjet-Cartridge-CF300A-scaled.webp", "description": "HP 827A BLACK TONER LASERJET CARTRIDGE (CF300A", "inStock": true},
-  {"id": 5060, "sku": null, "name": "HP 827A Color Toner Cartridges Each", "brand": "HP", "category": "HP Original Toners", "price": 35000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/HP-827A-Color-Toner-Cartridges-Each-scaled.webp", "imageFile": "HP-827A-Color-Toner-Cartridges-Each-scaled.webp", "description": "HP 827A COLOR TONER CARTRIDGES EACH", "inStock": true},
+  {"id": 5060, "sku": null, "name": "HP 827A Color Toner Cartridges Each", "brand": "HP", "category": "HP Original Toners", "price": 35000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/HP-827A-Color-Toner-Cartridges-Each-scaled.webp", "imageFile": "HP-827A-Color-Toner-Cartridges-Each-scaled.webp", "description": `The HP 827A colour toner cartridges are the genuine Original HP replacements for the HP Color LaserJet Enterprise flow MFP M880 series, priced individually. Cyan is CF301A, yellow is CF302A and magenta is CF303A. At 32,000 pages each these are the largest colour cartridges in our range, made for a production machine. Tell us which colour you need when you order.
+
+## Compatible printers
+HP Color LaserJet Enterprise flow MFP M880z
+HP Color LaserJet Enterprise flow MFP M880z+
+If your model isn't listed, send us the number from the front of the machine and we'll confirm before you pay.
+
+## Specifications
+| Page yield | Cartridge type | Colour | Capacity | Part number | Genuine or compatible |
+|---|---|---|---|---|---|
+| 32,000 pages at 5% coverage (ISO/IEC 19798), each | Laser toner cartridge | Cyan, yellow or magenta, sold individually | Standard capacity | CF301A cyan, CF302A yellow, CF303A magenta | Genuine Original HP |
+
+## Genuine or compatible?
+Genuine, Original HP in the sealed box. Not a refill and not our Royal house brand. The M880 is a production machine, usually the centre of a print room or a large marketing department, and colour accuracy is the entire reason an organisation buys one. A single non-genuine cartridge with a slightly different pigment shifts every page it touches, and at 32,000 pages you will have printed an enormous amount before anyone traces the fault back to the cartridge.
+
+## Why buy from Trinatech
+Production-class stock sourced for the Nairobi CBD, all three colours available.
+Courier delivery countrywide, Nakuru, Eldoret, Kisumu and Mombasa included.
+M-Pesa or bank transfer, with proper invoicing and LPO handling for corporate accounts.
+WhatsApp us the colour and model number, or visit The One Mall on River Road.
+
+## Getting the most from this cartridge
+Rock the cartridge gently before fitting. These are heavy cartridges and toner settles during shipping.
+Order well before you run out. On a machine at the centre of a print room, an empty cartridge stops a queue of work for several departments at once.
+Store spares flat, boxed and away from heat. A cartridge at this yield is a serious asset sitting on your shelf and deserves proper storage.
+32,000 pages assumes 5% coverage of that colour. Full-bleed marketing work will consume it far faster than the figure suggests.
+
+## Frequently asked questions
+Which colour will I receive? Tell us when you order. Cyan, yellow and magenta are separate cartridges at the same price.
+Do I need the black too? Yes. HP 827A black is CF300A at around 29,500 pages, and the machine stops when any cartridge is empty.
+How fast is delivery? Same day within Nairobi where stock is held, otherwise we will confirm lead time when you order.
+Can I return it? Yes, sealed and unused.
+Can I run a colour job with one cartridge empty? No. These machines halt rather than substituting another colour, so keep all four stocked.`, "metaTitle": "HP 827A Colour Toner Cartridges - Genuine HP Kenya", "metaDescription": "Genuine HP 827A colour toner, 32,000 pages each, for HP Color LaserJet Enterprise flow MFP M880. Nairobi stock, delivered across Kenya.", "inStock": true},
   {"id": 5059, "sku": "CF358A", "name": "HP 828A Black Drum Laserjet Image (CF358A)", "brand": "HP", "category": "HP Original Toners", "price": 26000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/HP-828A-Black-Drum-Laserjet-Image-CF358A-scaled.webp", "imageFile": "HP-828A-Black-Drum-Laserjet-Image-CF358A-scaled.webp", "description": "HP 828A BLACK DRUM LASERJET IMAGE (CF358A", "inStock": true},
   {"id": 5058, "sku": null, "name": "HP 828A Drum Units Cym Each", "brand": "HP", "category": "HP Original Toners", "price": 36000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/HP-828A-Drum-Units-Cym-Each-scaled.webp", "imageFile": "HP-828A-Drum-Units-Cym-Each-scaled.webp", "description": "HP 828A DRUM UNITS CYM EACH", "inStock": true},
-  {"id": 3542, "sku": null, "name": "HP 83A Black Original Laserjet Toner Cartridge", "brand": "HP", "category": "Inks & Toner Cartridges", "price": 5500, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2024/12/HP-83A-Toner.png", "imageFile": "HP-83A-Toner.png", "description": "Compatible with: LaserJet Pro Single-Function: HP M201dw HP M201n HP LaserJet Pro MFP (All-in-One) Series: M125a, M125nw, M125rnw M127fn, M127fw, M127fs M225dn, M225dw M128fn", "inStock": true},
+  {"id": 3542, "sku": null, "name": "HP 83A Black Original Laserjet Toner Cartridge", "brand": "HP", "category": "Inks & Toner Cartridges", "price": 5500, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2024/12/HP-83A-Toner.png", "imageFile": "HP-83A-Toner.png", "description": `The HP 83A black toner cartridge is the genuine Original HP replacement, part number CF283A, for the HP LaserJet Pro M125, M127, M201 and M225 series. These compact mono lasers and all-in-ones sold in large numbers to small offices, clinics and shopfronts, and plenty are still in daily service.
+
+## Compatible printers
+HP LaserJet Pro M201n Printer
+HP LaserJet Pro M201dw Printer
+HP LaserJet Pro MFP M125a
+HP LaserJet Pro MFP M125nw
+HP LaserJet Pro MFP M125rnw
+HP LaserJet Pro MFP M127fn
+HP LaserJet Pro MFP M127fw
+HP LaserJet Pro MFP M225dn
+HP LaserJet Pro MFP M225dw
+If your model isn't listed, send us the number from the front of the machine and we'll confirm before you pay.
+
+## Specifications
+| Page yield | Cartridge type | Colour | Capacity | Part number | Genuine or compatible |
+|---|---|---|---|---|---|
+| 1,500 pages at 5% coverage | Laser toner cartridge | Black | Standard capacity | CF283A | Genuine Original HP |
+
+## Genuine or compatible?
+Genuine, Original HP, sealed box. Not a refill and not our Royal house brand, which we always sell under its own name. This is a heavily counterfeited cartridge because the printers are everywhere and the price point is low enough that people buy without much thought. A fake announces itself through grey rather than black text, poor fusing and toner that comes off on your fingers. Ask us and we will quote a compatible openly rather than pass one off as genuine.
+
+## Why buy from Trinatech
+Held in Nairobi CBD stock, in depth, because this is a high-turnover small-office cartridge.
+Courier delivery countrywide, Nakuru, Eldoret, Kisumu and Mombasa included.
+M-Pesa or bank transfer, with an invoice for your records.
+WhatsApp us the model number, or walk in to The One Mall on River Road.
+
+## Getting the most from this cartridge
+Rock the cartridge gently side to side before fitting and remove the sealing strip completely.
+When print goes faint, take it out and rock it again before ordering. It commonly recovers another fifty pages or so.
+If your office prints more than a ream a month, HP 83X holds more in the same slot and works out cheaper per page.
+1,500 pages assumes 5% coverage. Invoices with heavy rules and forms with dark headers will come in under that.
+
+## Frequently asked questions
+Is there a higher-yield version? Yes, HP 83X black fits the same printers and holds around 2,200 pages.
+Do I need a separate drum? No. The drum is built into the cartridge, so both are replaced together.
+How fast is delivery? Same day within Nairobi, next working day to most towns.
+Can I return it? Yes, sealed and unused.
+On the M127 all-in-one, does copying use toner too? Yes. Copies and received faxes draw on the same cartridge as printing, so it runs down faster than the print count alone suggests.`, "metaTitle": "HP 83A Black Toner Cartridge CF283A - Genuine HP Kenya", "metaDescription": "Genuine HP 83A black toner (CF283A), 1,500 pages, for HP LaserJet Pro M125, M127, M201 and M225 series. Nairobi stock, delivered across Kenya.", "inStock": true},
   {"id": 5057, "sku": "CF283A", "name": "HP 83A Black Toner Laserjet (CF283A)", "brand": "HP", "category": "HP Original Toners", "price": 6000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/HP-83A-Black-Toner-Laserjet-CF283A-scaled.webp", "imageFile": "HP-83A-Black-Toner-Laserjet-CF283A-scaled.webp", "description": "HP 83A BLACK TONER LASERJET (CF283A", "inStock": true},
-  {"id": 4580, "sku": null, "name": "HP 85A Black Original Laserjet Toner Cartridge", "brand": "HP", "category": "Inks & Toner Cartridges", "price": 6000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2025/07/HP-85A-Black-LaserJet-Toner.png", "imageFile": "HP-85A-Black-LaserJet-Toner.png", "description": "Compatible with: HP LaserJet Pro P1102 / P1102w / P1109w / P1109 HP LaserJet Pro P1104 / P1106 / P1107 / P1108 HP LaserJet Pro M1130 / M1132 / M1136 / M1139 (MFPs)", "inStock": true},
+  {"id": 4580, "sku": null, "name": "HP 85A Black Original Laserjet Toner Cartridge", "brand": "HP", "category": "Inks & Toner Cartridges", "price": 6000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2025/07/HP-85A-Black-LaserJet-Toner.png", "imageFile": "HP-85A-Black-LaserJet-Toner.png", "description": `The HP 85A black toner cartridge is the genuine Original HP replacement, part number CE285A, for the HP LaserJet Pro P1102 and the M1132 and M1212nf all-in-ones. The P1102 is one of the most widely sold small laser printers ever made and is still working in offices, schools and cyber cafes across Kenya.
+
+## Compatible printers
+HP LaserJet Pro P1102 Printer
+HP LaserJet Pro P1102w Printer
+HP LaserJet Pro MFP M1132
+HP LaserJet Pro MFP M1212nf
+HP LaserJet Pro MFP M1217nfw
+If your model isn't listed, send us the number from the front of the machine and we'll confirm before you pay.
+
+## Specifications
+| Page yield | Cartridge type | Colour | Capacity | Part number | Genuine or compatible |
+|---|---|---|---|---|---|
+| 1,600 pages at 5% coverage | Laser toner cartridge | Black | Standard capacity | CE285A | Genuine Original HP |
+
+## Genuine or compatible?
+Genuine, Original HP, sealed box. Not a refill and not our Royal house brand, which is always sold as Royal. Because the P1102 is so common, this is among the most counterfeited toner cartridges on the Kenyan market. The signs of a fake are grey rather than black text, powder leaking inside the machine and toner that rubs off a printed page. On a printer that has already given you a decade of service, that is a poor trade. Ask us and we will quote a compatible openly.
+
+## Why buy from Trinatech
+Stocked in depth at our Nairobi CBD shop, because this is one of the fastest-moving cartridges we carry.
+Courier delivery countrywide, Nakuru, Eldoret, Kisumu and Mombasa included.
+M-Pesa or bank transfer, with an invoice for your records.
+WhatsApp us the model number, or walk in to The One Mall on River Road.
+
+## Getting the most from this cartridge
+Rock the cartridge gently side to side before fitting and pull the sealing strip out fully.
+When pages fade, remove and rock the cartridge again. On this model that reliably buys another fifty to a hundred pages.
+Store spares flat and boxed, out of the sun. Toner clumps in humidity and clumped toner streaks down the page.
+1,600 pages assumes 5% coverage. Forms, receipts and anything with a dark header will fall short.
+
+## Frequently asked questions
+Is there a higher-yield version? No. HP sells the 85A as a standard-capacity cartridge for this range.
+Do I need a separate drum? No. The drum is part of the cartridge, so both are replaced together.
+How fast is delivery? Same day within Nairobi, next working day to most towns.
+Can I return it? Yes, sealed and unused.
+Can this cartridge be refilled? Physically yes, and many are. But the drum wears on the same schedule as the toner, so a cartridge refilled two or three times leaves repeating marks down the page.`, "metaTitle": "HP 85A Black Toner Cartridge CE285A - Genuine HP Kenya", "metaDescription": "Genuine HP 85A black toner (CE285A), 1,600 pages, for HP LaserJet Pro P1102, P1102w and MFP M1132, M1212nf. Nairobi stock, countrywide delivery.", "inStock": true},
   {"id": 5056, "sku": "CE285A", "name": "HP 85A Black Toner Laserjet (CE285A)", "brand": "HP", "category": "HP Original Toners", "price": 6000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/HP-85A-Black-Toner-Laserjet-CE285A-scaled.webp", "imageFile": "HP-85A-Black-Toner-Laserjet-CE285A-scaled.webp", "description": "HP 85A BLACK TONER LASERJET (CE285A", "inStock": true},
-  {"id": 4790, "sku": null, "name": "HP 87A Black Original Laserjet Toner Cartridge", "brand": "HP", "category": "Inks & Toner Cartridges", "price": 12000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2025/07/HP-87A-Black-Original-Toner.png", "imageFile": "HP-87A-Black-Original-Toner.png", "description": "Compatible with: HP LaserJet Enterprise M506 series: M506dn, M506n, M506x HP LaserJet Pro M501 series: M501dn, M501n HP LaserJet Enterprise Flow MFP M527 series: M527dn, M527f", "inStock": true},
+  {"id": 4790, "sku": null, "name": "HP 87A Black Original Laserjet Toner Cartridge", "brand": "HP", "category": "Inks & Toner Cartridges", "price": 12000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2025/07/HP-87A-Black-Original-Toner.png", "imageFile": "HP-87A-Black-Original-Toner.png", "description": `The HP 87A black toner cartridge is the genuine Original HP replacement, part number CF287A, for the HP LaserJet Enterprise M506 series, the MFP M527 and the LaserJet Pro M501. At 9,000 pages it is built for a workgroup machine that prints steadily all day.
+
+## Compatible printers
+HP LaserJet Enterprise M506n Printer
+HP LaserJet Enterprise M506dn Printer
+HP LaserJet Enterprise M506x Printer
+HP LaserJet Enterprise MFP M527dn
+HP LaserJet Enterprise MFP M527f
+HP LaserJet Enterprise Flow MFP M527c
+HP LaserJet Enterprise Flow MFP M527z
+HP LaserJet Pro M501dn Printer
+If your model isn't listed, send us the number from the front of the machine and we'll confirm before you pay.
+
+## Specifications
+| Page yield | Cartridge type | Colour | Capacity | Part number | Genuine or compatible |
+|---|---|---|---|---|---|
+| 9,000 pages at 5% coverage | Laser toner cartridge | Black | Standard capacity | CF287A | Genuine Original HP |
+
+## Genuine or compatible?
+Genuine, Original HP in the sealed box. Not a refill and not our Royal house brand. These machines are usually shared across a team and often sit on a service contract, and non-genuine consumables can put that arrangement in question. A rejected or leaking cartridge does not delay one person's document here, it stops a workgroup and can mean a service call on a machine worth many times the cartridge.
+
+## Why buy from Trinatech
+Business-class stock held in the Nairobi CBD rather than ordered in on request.
+Courier delivery countrywide, Kisumu, Nakuru, Eldoret and Mombasa included.
+M-Pesa or bank transfer, with proper invoicing and LPO handling for corporate accounts.
+WhatsApp us the model number, or visit The One Mall on River Road.
+
+## Getting the most from this cartridge
+Rock the cartridge gently before fitting. These are large cartridges and toner settles in transit.
+Order before you run out. On a shared machine the low-toner warning tends to be ignored until the queue stops.
+If your volume is high, HP 87X holds substantially more in the same slot and works out cheaper per page. Ask us to compare on your monthly figures.
+9,000 pages assumes 5% coverage. Heavy reports and forms will come in under that on a machine running all day.
+
+## Frequently asked questions
+Is there a higher-yield version? Yes, HP 87X fits the same printers and holds considerably more toner.
+Do I need anything else? These take a single black cartridge, so no. Ask us about maintenance kits if the printer has high mileage.
+How fast is delivery? Same day within Nairobi, next working day to most towns.
+Can I return it? Yes, sealed and unused.
+Which cartridge suits a machine printing all day? Ask us to compare 87A and 87X against your monthly volume. On heavy use the larger cartridge usually wins clearly.`, "metaTitle": "HP 87A Black Toner Cartridge CF287A - Genuine HP Kenya", "metaDescription": "Genuine HP 87A black toner (CF287A), 9,000 pages, for HP LaserJet Enterprise M506, MFP M527 and Pro M501. Nairobi stock, delivered across Kenya.", "inStock": true},
   {"id": 5055, "sku": "CF287A", "name": "HP 87A Black Toner Original Laserjet (CF287A)", "brand": "HP", "category": "HP Original Toners", "price": 12000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/HP-87A-Black-Toner-Original-Laserjet-CF287A-scaled.webp", "imageFile": "HP-87A-Black-Toner-Original-Laserjet-CF287A-scaled.webp", "description": "HP 87A BLACK TONER ORIGINAL LASERJET (CF287A", "inStock": true},
   {"id": 5054, "sku": "CF289A", "name": "HP 89A Black Toner Cartridge (CF289A)", "brand": "HP", "category": "HP Original Toners", "price": 11000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/HP-89A-Black-Toner-Cartridge-CF289A-scaled.webp", "imageFile": "HP-89A-Black-Toner-Cartridge-CF289A-scaled.webp", "description": "HP 89A BLACK TONER CARTRIDGE (CF289A", "inStock": true},
   {"id": 5470, "sku": "CC653A", "name": "HP 901 Black Ink Cartridge (CC653A)", "brand": "HP", "category": "Original Hp Ink Cartridges", "price": 2800, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/HP-901-Black-Ink-Cartridge-CC653A.png", "imageFile": "HP-901-Black-Ink-Cartridge-CC653A.png", "description": `The HP 901 black ink cartridge is the genuine Original HP replacement, part number CC653AE, for the HP OfficeJet 4500 and J4500 series all-in-ones. These are the fax-and-copy machines that still anchor plenty of small offices and front desks in Kenya, and the cartridge is usually the only part that ever needs buying. Keeping one on the shelf is cheaper than losing the machine for a day.
@@ -663,7 +883,46 @@ Can I check the ink level? The OfficeJet reports estimated levels on its front p
   {"id": 5464, "sku": null, "name": "HP 903XL Cyan High Capacity Cartridge", "brand": "HP", "category": "Original Hp Ink Cartridges", "price": 3500, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/HP-903XL-Cyan-High-Capacity-Cartridge.webp", "imageFile": "HP-903XL-Cyan-High-Capacity-Cartridge.webp", "description": "HP 903XL CYAN HIGH CAPACITY CARTRIDGE", "inStock": true},
   {"id": 5463, "sku": null, "name": "HP 903XL Magenta Ink High Capacity Cartridge (T6M07AE)", "brand": "HP", "category": "Original Hp Ink Cartridges", "price": 3500, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/HP-903XL-Magenta-Ink-High-Capacity-Cartridge-T6M07AE.webp", "imageFile": "HP-903XL-Magenta-Ink-High-Capacity-Cartridge-T6M07AE.webp", "description": "HP 903XL MAGENTA INK HIGH CAPACITY CARTRIDGE (T6M07AE", "inStock": true},
   {"id": 5462, "sku": null, "name": "HP 903XL Yellow Ink High Capacity Cartridge (T6M11AE)", "brand": "HP", "category": "Original Hp Ink Cartridges", "price": 3500, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/HP-903XL-Yellow-Ink-High-Capacity-Cartridge-T6M11AE.webp", "imageFile": "HP-903XL-Yellow-Ink-High-Capacity-Cartridge-T6M11AE.webp", "description": "HP 903XL YELLOW INK HIGH CAPACITY CARTRIDGE (T6M11AE", "inStock": true},
-  {"id": 4787, "sku": null, "name": "HP 90A Black Original Laserjet Toner Cartridge", "brand": "HP", "category": "Inks & Toner Cartridges", "price": 11000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2025/07/HP-90A-Black-Original-Toner.png", "imageFile": "HP-90A-Black-Original-Toner.png", "description": "Compatible with: HP LaserJet Enterprise 600 series: M601n / M601dn M602n / M602dn / M602x M603n / M603dn / M603xh HP LaserJet Enterprise M4555 MFP series", "inStock": true},
+  {"id": 4787, "sku": null, "name": "HP 90A Black Original Laserjet Toner Cartridge", "brand": "HP", "category": "Inks & Toner Cartridges", "price": 11000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2025/07/HP-90A-Black-Original-Toner.png", "imageFile": "HP-90A-Black-Original-Toner.png", "description": `The HP 90A black toner cartridge is the genuine Original HP replacement, part number CE390A, for the HP LaserJet Enterprise 600 series and the M4555 MFP. At 10,000 pages this is a departmental cartridge for machines built to run all day, every day.
+
+## Compatible printers
+HP LaserJet Enterprise 600 M601n Printer
+HP LaserJet Enterprise 600 M601dn Printer
+HP LaserJet Enterprise 600 M602n Printer
+HP LaserJet Enterprise 600 M602dn Printer
+HP LaserJet Enterprise 600 M602x Printer
+HP LaserJet Enterprise 600 M603n Printer
+HP LaserJet Enterprise 600 M603dn Printer
+HP LaserJet Enterprise 600 M603xh Printer
+HP LaserJet Enterprise M4555 MFP
+If your model isn't listed, send us the number from the front of the machine and we'll confirm before you pay.
+
+## Specifications
+| Page yield | Cartridge type | Colour | Capacity | Part number | Genuine or compatible |
+|---|---|---|---|---|---|
+| 10,000 pages at 5% coverage | Laser toner cartridge | Black | Standard capacity | CE390A | Genuine Original HP |
+
+## Genuine or compatible?
+Genuine, Original HP in the sealed box. Not a refill and not our Royal house brand. The Enterprise 600 series was built to a standard that has kept these machines in service far longer than most, which is exactly why the toner matters. A leaking cartridge inside a printer of this class means a service call, and a good M602 is worth keeping properly supplied rather than economising on.
+
+## Why buy from Trinatech
+Departmental-class stock held in the Nairobi CBD, including for machines other suppliers have stopped carrying.
+Courier delivery countrywide, Nakuru, Eldoret, Kisumu and Mombasa included.
+M-Pesa or bank transfer, with proper invoicing and LPO handling for corporate accounts.
+WhatsApp us the model number, or walk in to The One Mall on River Road.
+
+## Getting the most from this cartridge
+Rock the cartridge gently side to side before fitting. These are large, heavy cartridges and toner settles in transit.
+Order before you run out. On a shared machine an empty cartridge stops a whole floor and nobody notices the warning until then.
+If your volume is high, HP 90X holds substantially more in the same slot and works out cheaper per page. Ask us to compare on your monthly figures.
+10,000 pages assumes 5% coverage. Heavy reports and forms will come in well under that.
+
+## Frequently asked questions
+Is there a higher-yield version? Yes, HP 90X fits the same printers and holds considerably more toner.
+Do I need anything else? These take a single black cartridge, so no. Ask us about maintenance kits if the printer has high mileage.
+How fast is delivery? Same day within Nairobi, next working day to most towns.
+Can I return it? Yes, sealed and unused.
+My machine is over a decade old. Is this cartridge still made? Yes. That is a large part of why these printers remain worth running rather than replacing.`, "metaTitle": "HP 90A Black Toner Cartridge CE390A - Genuine HP Kenya", "metaDescription": "Genuine HP 90A black toner (CE390A), 10,000 pages, for HP LaserJet Enterprise 600 M601, M602, M603 and M4555 MFP. Nairobi stock, countrywide delivery.", "inStock": true},
   {"id": 5053, "sku": "CE390A", "name": "HP 90A Black Toner Laserjet Original (CE390A)", "brand": "HP", "category": "HP Original Toners", "price": 11000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/HP-90A-Black-Toner-Laserjet-Original-CE390A-scaled.webp", "imageFile": "HP-90A-Black-Toner-Laserjet-Original-CE390A-scaled.webp", "description": "HP 90A BLACK TONER LASERJET ORIGINAL (CE390A", "inStock": true},
   {"id": 3923, "sku": null, "name": "HP 920 Black Original Ink Cartridge", "brand": "HP", "category": "Inks & Toner Cartridges", "price": 4000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2024/12/HP-920-Black-Original-Ink.png", "imageFile": "HP-920-Black-Original-Ink.png", "description": `The HP 920 black ink cartridge is the genuine Original HP replacement, part number CD971AE, for the HP OfficeJet 6000 and 6500 generation of business all-in-ones. These machines were bought in volume by Kenyan offices for their speed and duplex printing, and many are still in service. Pigment black ink keeps invoices and contracts sharp under handling.
 

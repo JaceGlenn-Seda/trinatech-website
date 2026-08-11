@@ -1776,8 +1776,80 @@ How fast is delivery? Same day within Nairobi, next working day to most towns.
 Can I return it? Yes, sealed and unused.
 My machine is over a decade old. Is this cartridge still made? Yes. That is a large part of why these printers remain worth running rather than replacing.`, "metaTitle": "HP 42A Black Toner Cartridge Q5942A - Genuine HP Kenya", "metaDescription": "Genuine HP 42A black toner (Q5942A), 10,000 pages, for HP LaserJet 4240, 4250 and 4350 series. Nairobi stock, delivered across Kenya.", "inStock": true},
   {"id": 5098, "sku": "Q5949A", "name": "HP 49A Black Toner Original Laserjet Catridge (Q5949A)", "brand": "HP", "category": "HP Original Toners", "price": 7500, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/HP-49A-Black-Toner-Original-Laserjet-Catridge-Q5949A-scaled.webp", "imageFile": "HP-49A-Black-Toner-Original-Laserjet-Catridge-Q5949A-scaled.webp", "description": "HP 49A BLACK TONER ORIGINAL LASERJET CATRIDGE (Q5949A", "inStock": true},
-  {"id": 5097, "sku": "CE250A", "name": "HP 504A Black Toner Original Laserjet (CE250A)", "brand": "HP", "category": "HP Original Toners", "price": 15500, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/HP-504A-Black-Toner-Original-Laserjet-CE250A-scaled.webp", "imageFile": "HP-504A-Black-Toner-Original-Laserjet-CE250A-scaled.webp", "description": "HP 504A BLACK TONER ORIGINAL LASERJET (CE250A", "inStock": true},
-  {"id": 5096, "sku": "CE251A", "name": "HP 504A Cyan Toner Original Laserjet (CE251A)", "brand": "HP", "category": "HP Original Toners", "price": 17000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/HP-504A-Cyan-Toner-Original-Laserjet-CE251A-scaled.webp", "imageFile": "HP-504A-Cyan-Toner-Original-Laserjet-CE251A-scaled.webp", "description": "HP 504A CYAN TONER ORIGINAL LASERJET (CE251A", "inStock": true},
+  {"id": 5097, "sku": "CE250A", "name": "HP 504A Black Toner Original Laserjet (CE250A)", "brand": "HP", "category": "HP Original Toners", "price": 15500, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/HP-504A-Black-Toner-Original-Laserjet-CE250A-scaled.webp", "imageFile": "HP-504A-Black-Toner-Original-Laserjet-CE250A-scaled.webp", "description": `The HP 504A black toner cartridge is the genuine Original HP replacement, part number CE250A, for the HP Color LaserJet CP3525 and CM3530 family. These were serious workgroup colour machines in their day and a good number are still in service in Kenyan offices that print colour in volume.
+
+## Compatible printers
+HP Color LaserJet CP3525 Printer
+HP Color LaserJet CP3525n Printer
+HP Color LaserJet CP3525dn Printer
+HP Color LaserJet CP3525x Printer
+HP Color LaserJet CM3530 MFP
+HP Color LaserJet CM3530fs MFP
+If your model isn't listed, send us the number from the front of the machine and we'll confirm before you pay.
+
+## Specifications
+| Page yield | Cartridge type | Colour | Capacity | Part number | Genuine or compatible |
+|---|---|---|---|---|---|
+| 5,000 pages at 5% coverage | Laser toner cartridge | Black | Standard capacity | CE250A | Genuine Original HP |
+
+## Genuine or compatible?
+Genuine, Original HP in the sealed box. Not a refill and not our Royal house brand, which is always sold under the Royal name. Machines of this age attract remanufactured and counterfeit toner, and on a four-cartridge colour machine the signs show quickly: streaking, background shading and a black that fuses differently from the three colours around it. Ask us and we will price a compatible openly alongside it.
+
+## Why buy from Trinatech
+Held in Nairobi CBD stock, including for colour lasers other suppliers have dropped.
+Countrywide courier delivery, Nakuru, Eldoret, Kisumu and Mombasa included.
+M-Pesa or bank transfer, with proper invoicing for business accounts.
+WhatsApp us the model number, or walk in to The One Mall on River Road.
+
+## Getting the most from this cartridge
+Rock the cartridge gently end to end before fitting, then pull the sealing strip out in one steady movement.
+Handle it by the ends and keep the drum away from light and fingers.
+Black is used on nearly every page, so it empties before the colours. Buying black on its own rather than as a set is usually the cheaper approach.
+5,000 pages assumes 5% coverage. Reports with shaded tables and colour headers will fall short of that.
+
+## Frequently asked questions
+Is there a higher-yield version? Yes, HP 504X black holds considerably more and fits the same printers.
+Do I need the colours too? Yes for colour printing. HP 504A cyan CE251A, yellow CE252A and magenta CE253A are sold separately at around 7,000 pages each.
+How fast is delivery? Same day within Nairobi, next working day to most towns.
+Can I return it? Yes, sealed and unused.
+Why do the colours yield more than the black? HP fills the colour cartridges to a higher page count on this range. It is unusual, and it means you will replace the black more often than the colours.`, "metaTitle": "HP 504A Black Toner CE250A - Genuine HP Kenya", "metaDescription": "Genuine HP 504A black toner (CE250A), 5,000 pages, for HP Color LaserJet CP3525 and CM3530 MFP. Nairobi stock, delivered across Kenya.", "inStock": true},
+  {"id": 5096, "sku": "CE251A", "name": "HP 504A Cyan Toner Original Laserjet (CE251A)", "brand": "HP", "category": "HP Original Toners", "price": 17000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/HP-504A-Cyan-Toner-Original-Laserjet-CE251A-scaled.webp", "imageFile": "HP-504A-Cyan-Toner-Original-Laserjet-CE251A-scaled.webp", "description": `The HP 504A cyan toner cartridge is the genuine Original HP replacement, part number CE251A, for the HP Color LaserJet CP3525 and CM3530 family. Cyan is one of three colour cartridges in these machines and is replaced individually, so you buy only the colour that has actually run out.
+
+## Compatible printers
+HP Color LaserJet CP3525 Printer
+HP Color LaserJet CP3525n Printer
+HP Color LaserJet CP3525dn Printer
+HP Color LaserJet CP3525x Printer
+HP Color LaserJet CM3530 MFP
+HP Color LaserJet CM3530fs MFP
+If your model isn't listed, send us the number from the front of the machine and we'll confirm before you pay.
+
+## Specifications
+| Page yield | Cartridge type | Colour | Capacity | Part number | Genuine or compatible |
+|---|---|---|---|---|---|
+| 7,000 pages at 5% coverage | Laser toner cartridge | Cyan | Standard capacity | CE251A | Genuine Original HP |
+
+## Genuine or compatible?
+Genuine, Original HP, sealed box. Not a refill and not our Royal house brand, which we always sell as Royal. Colour matching is where non-genuine toner shows itself fastest. If one cartridge in the set uses a slightly different pigment, greens and greys shift across every page and the cause is hard to trace back to a single cartridge. Mixing genuine and compatible cartridges in a colour laser is the most common source of colour complaints we see at the counter.
+
+## Why buy from Trinatech
+Held in Nairobi CBD stock, including for colour lasers other suppliers have dropped.
+Countrywide courier delivery, Nakuru, Eldoret, Kisumu and Mombasa included.
+M-Pesa or bank transfer, with proper invoicing for business accounts.
+WhatsApp us the model number, or walk in to The One Mall on River Road.
+
+## Getting the most from this cartridge
+Rock the cartridge gently before installing and pull the sealing strip out fully.
+Handle it by the ends and keep the drum away from light and fingers.
+At 7,000 pages the cyan outlasts the black on this machine, so check all four levels before ordering rather than assuming they empty together.
+7,000 pages assumes 5% coverage of cyan specifically, so a page with a large block of blue can consume a great deal more than the figure suggests.
+
+## Frequently asked questions
+Is there a higher-yield version? Yes, HP 504X is available for this range. Ask us what we hold.
+Do I need the other cartridges too? In time yes. The set is black CE250A at 5,000 pages, plus yellow CE252A and magenta CE253A at around 7,000 pages each.
+How soon can I get it? Same day within Nairobi, next working day upcountry.
+Can I return it? Yes, provided it is sealed and unused.
+Why does the cyan cost more than the black? It holds more toner. At 7,000 pages against 5,000 it works out similar or better per page.`, "metaTitle": "HP 504A Cyan Toner CE251A - Genuine HP Kenya", "metaDescription": "Genuine HP 504A cyan toner (CE251A), 7,000 pages, for HP Color LaserJet CP3525 and CM3530 MFP. Nairobi stock, delivered across Kenya.", "inStock": true},
   {"id": 5095, "sku": "CE253A", "name": "HP 504A Magneta Toner Original Laserjet (CE253A)", "brand": "HP", "category": "HP Original Toners", "price": 17000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/HP-504A-Magneta-Toner-Original-Laserjet-CE253A-scaled.webp", "imageFile": "HP-504A-Magneta-Toner-Original-Laserjet-CE253A-scaled.webp", "description": "HP 504A MAGNETA TONER ORIGINAL LASERJET (CE253A", "inStock": true},
   {"id": 5094, "sku": "CE252A", "name": "HP 504A Yellow Toner Original Laserjet (CE252A)", "brand": "HP", "category": "HP Original Toners", "price": 17000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/HP-504A-Yellow-Toner-Original-Laserjet-CE252A-scaled.webp", "imageFile": "HP-504A-Yellow-Toner-Original-Laserjet-CE252A-scaled.webp", "description": "HP 504A YELLOW TONER ORIGINAL LASERJET (CE252A", "inStock": true},
   {"id": 4819, "sku": null, "name": "HP 507A Black Original Laserjet Toner Cartridge", "brand": "HP", "category": "Inks & Toner Cartridges", "price": 14000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2025/07/HP-507A-Black-Original-Toner.png", "imageFile": "HP-507A-Black-Original-Toner.png", "description": `The HP 507A black toner cartridge is the genuine Original HP replacement, part number CE400A, for the HP LaserJet Enterprise 500 colour M551 and MFP M575 series. These are departmental colour machines, and at 5,500 pages the black is sized for a workgroup rather than a single desk.

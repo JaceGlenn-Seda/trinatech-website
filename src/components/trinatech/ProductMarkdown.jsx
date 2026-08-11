@@ -11,7 +11,8 @@ import remarkBreaks from "remark-breaks";
 // list. Under "Compatible printers", closing-note lines (starting with the
 // prefixes below) stay as plain paragraphs.
 const LIST_SECTIONS = ["Compatible printers", "Why buy from Trinatech", "Getting the most from this cartridge"];
-const NOTE_PREFIXES = ["If your model isn't listed", "The e-suffix"];
+const NOTE_PREFIXES = ["If your model isn't listed", "and other models", "The e-suffix"];
+const FAQ_SECTION = "Frequently asked questions";
 
 function preprocess(md) {
   if (typeof md !== "string") return "";
@@ -22,13 +23,29 @@ function preprocess(md) {
   for (const line of lines) {
     const h = line.match(/^##\s+(.+?)\s*$/);
     if (h) {
-      section = LIST_SECTIONS.includes(h[1]) ? h[1] : null;
+      section = h[1];
       inNotes = false;
       out.push(line);
       continue;
     }
-    if (section && line.trim() !== "") {
-      const isNote = section === "Compatible printers" && NOTE_PREFIXES.some((p) => line.startsWith(p));
+    if (line.trim() === "") {
+      section = null;
+      inNotes = false;
+      out.push(line);
+      continue;
+    }
+    if (section === FAQ_SECTION) {
+      // Each FAQ line: "Question? answer". Render as a bullet with the
+      // question (up to and including the first "?") bold, answer normal.
+      const idx = line.indexOf("?");
+      if (idx >= 0) {
+        out.push(`- **${line.slice(0, idx + 1)}**${line.slice(idx + 1)}`);
+      } else {
+        out.push("- " + line);
+      }
+    } else if (LIST_SECTIONS.includes(section)) {
+      const isNote =
+        section === "Compatible printers" && NOTE_PREFIXES.some((p) => line.startsWith(p));
       if (isNote) {
         if (!inNotes && out.length && out[out.length - 1].trim() !== "") out.push("");
         inNotes = true;
@@ -37,7 +54,6 @@ function preprocess(md) {
         out.push("- " + line);
       }
     } else {
-      if (line.trim() === "") section = null;
       out.push(line);
     }
   }

@@ -462,12 +462,190 @@ Do I need the other cartridges too? In time yes. The set is black CB540A at 2,20
 How fast is delivery? Same day within Nairobi, next working day to most towns.
 Can I return it? Yes, if the packaging is sealed and unopened.
 My prints look green rather than yellow. Is the cartridge faulty? Usually not. That points to the cyan running heavy or a cartridge not seated properly, so check all four before replacing anything.`, "metaTitle": "HP 125A Yellow Toner CB542A - Genuine HP Kenya", "metaDescription": "Genuine HP 125A yellow toner (CB542A), 1,400 pages, for HP Color LaserJet CP1215, CP1515n, CP1518ni and CM1312. Nairobi stock, countrywide delivery.", "inStock": true},
-  {"id": 5172, "sku": "CE310A", "name": "HP 126A Black Toner Original Laserjet (CE310A)", "brand": "HP", "category": "HP Original Toners", "price": 4500, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/HP-126A-Black-Toner-Original-Laserjet-CE310A.webp", "imageFile": "HP-126A-Black-Toner-Original-Laserjet-CE310A.webp", "description": "HP 126A BLACK TONER ORIGINAL LASERJET (CE310A", "inStock": true},
-  {"id": 5171, "sku": "CE311A", "name": "HP 126A Cyan Toner Original Laserjet (CE311A)", "brand": "HP", "category": "HP Original Toners", "price": 4500, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/HP-126A-Cyan-Toner-Original-Laserjet-CE311A.webp", "imageFile": "HP-126A-Cyan-Toner-Original-Laserjet-CE311A.webp", "description": "HP 126A CYAN TONER ORIGINAL LASERJET (CE311A", "inStock": true},
+  {"id": 5172, "sku": "CE310A", "name": "HP 126A Black Toner Original Laserjet (CE310A)", "brand": "HP", "category": "HP Original Toners", "price": 4500, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/HP-126A-Black-Toner-Original-Laserjet-CE310A.webp", "imageFile": "HP-126A-Black-Toner-Original-Laserjet-CE310A.webp", "description": `The HP 126A black toner cartridge is the genuine Original HP replacement, part number CE310A, for the HP LaserJet Pro CP1025, the 100 colour MFP M175 and the TopShot M275. These are the smallest colour lasers HP built, aimed at a desk or a small reception area that needs occasional colour rather than volume.
+
+## Compatible printers
+HP LaserJet Pro CP1025 Printer
+HP LaserJet Pro CP1025nw Printer
+HP LaserJet Pro 100 color MFP M175a
+HP LaserJet Pro 100 color MFP M175nw
+HP TopShot LaserJet Pro M275 MFP
+HP TopShot LaserJet Pro M275nw MFP
+If your model isn't listed, send us the number from the front of the machine and we'll confirm before you pay.
+
+## Specifications
+| Page yield | Cartridge type | Colour | Capacity | Part number | Genuine or compatible |
+|---|---|---|---|---|---|
+| 1,200 pages at 5% coverage | Laser toner cartridge | Black | Standard capacity | CE310A | Genuine Original HP |
+
+## Genuine or compatible?
+Genuine, Original HP in the sealed box. Not a refill and not our Royal house brand, which is always sold as Royal. One thing that surprises people on this range: the imaging drum is a separate part, HP 126A CE314A, rather than being built into the cartridge. If pages come out streaked or faded after fitting fresh toner, the drum is usually the culprit rather than the cartridge you just bought.
+
+## Why buy from Trinatech
+Held in Nairobi CBD stock, including for machines other suppliers have dropped.
+Countrywide courier delivery, Nakuru, Eldoret, Kisumu and Mombasa included.
+M-Pesa or bank transfer, with proper invoicing for business accounts.
+WhatsApp us the model number, or walk in to The One Mall on River Road.
+
+## Getting the most from this cartridge
+Rock the cartridge gently before installing and remove any protective packaging fully before it goes in.
+Handle it by the ends. The drum surface marks easily and fingerprints show on every page afterwards.
+At 1,200 pages these are small cartridges. In an office printing colour daily they empty quickly, so keeping a spare avoids a stopped machine.
+Remember the separate imaging drum, HP 126A CE314A. It lasts far longer than a cartridge but it does wear out, and replacing toner will not fix a worn drum.
+
+## Frequently asked questions
+Is there a higher-yield version? No. HP sells the 126A as a standard-capacity range only.
+Do I need the other cartridges too? In time yes. The set is cyan CE311A, yellow CE312A and magenta CE313A at around 1,000 pages each.
+How fast is delivery? Same day within Nairobi, next working day upcountry.
+Can I return it? Yes, sealed and unused.
+My pages are streaked even with a new cartridge. What now? That usually points to the imaging drum, CE314A, rather than the toner. Bring the machine details to us and we will work out which part you actually need.`, "metaTitle": "HP 126A Black Toner CE310A - Genuine HP Kenya", "metaDescription": "Genuine HP 126A black toner (CE310A), 1,200 pages, for HP LaserJet Pro CP1025, MFP M175 and TopShot M275. Nairobi stock, delivered Kenya-wide.", "inStock": true},
+  {"id": 5171, "sku": "CE311A", "name": "HP 126A Cyan Toner Original Laserjet (CE311A)", "brand": "HP", "category": "HP Original Toners", "price": 4500, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/HP-126A-Cyan-Toner-Original-Laserjet-CE311A.webp", "imageFile": "HP-126A-Cyan-Toner-Original-Laserjet-CE311A.webp", "description": `The HP 126A cyan toner cartridge is the genuine Original HP replacement, part number CE311A, for the HP LaserJet Pro CP1025, the 100 colour MFP M175 and the TopShot M275. These are the smallest colour lasers HP built, aimed at a desk or a small reception area that needs occasional colour rather than volume.
+
+## Compatible printers
+HP LaserJet Pro CP1025 Printer
+HP LaserJet Pro CP1025nw Printer
+HP LaserJet Pro 100 color MFP M175a
+HP LaserJet Pro 100 color MFP M175nw
+HP TopShot LaserJet Pro M275 MFP
+HP TopShot LaserJet Pro M275nw MFP
+If your model isn't listed, send us the number from the front of the machine and we'll confirm before you pay.
+
+## Specifications
+| Page yield | Cartridge type | Colour | Capacity | Part number | Genuine or compatible |
+|---|---|---|---|---|---|
+| 1,000 pages at 5% coverage | Laser toner cartridge | Cyan | Standard capacity | CE311A | Genuine Original HP |
+
+## Genuine or compatible?
+Genuine, Original HP, sealed box. Not a refill and not our Royal house brand, which we always sell under its own name. Worth knowing on this range: the imaging drum is a separate part, HP 126A CE314A, and it is shared by all four cartridges. Colour faults that persist after replacing a cartridge usually point at the drum rather than the toner, so tell us what you are seeing before you buy a second cartridge.
+
+## Why buy from Trinatech
+Held in Nairobi CBD stock, including for machines other suppliers have dropped.
+Countrywide courier delivery, Nakuru, Eldoret, Kisumu and Mombasa included.
+M-Pesa or bank transfer, with proper invoicing for business accounts.
+WhatsApp us the model number, or walk in to The One Mall on River Road.
+
+## Getting the most from this cartridge
+Rock the cartridge gently before installing and remove any protective packaging fully before it goes in.
+Handle it by the ends. The drum surface marks easily and fingerprints show on every page afterwards.
+At 1,000 pages these are small cartridges. In an office printing colour daily they empty quickly, so keeping a spare avoids a stopped machine.
+Remember the separate imaging drum, HP 126A CE314A. It lasts far longer than a cartridge but it does wear out, and replacing toner will not fix a worn drum.
+
+## Frequently asked questions
+Is there a higher-yield version? No. HP sells the 126A as a standard-capacity range only.
+Do I need the other cartridges too? In time yes. The set is black CE310A at 1,200 pages, plus yellow CE312A and magenta CE313A at around 1,000 pages each.
+How fast is delivery? Same day within Nairobi, next working day upcountry.
+Can I return it? Yes, sealed and unused.
+My pages are streaked even with a new cartridge. What now? That usually points to the imaging drum, CE314A, rather than the toner. Bring the machine details to us and we will work out which part you actually need.`, "metaTitle": "HP 126A Cyan Toner CE311A - Genuine HP Kenya", "metaDescription": "Genuine HP 126A cyan toner (CE311A), 1,000 pages, for HP LaserJet Pro CP1025, MFP M175 and TopShot M275. Nairobi stock, delivered Kenya-wide.", "inStock": true},
   {"id": 5170, "sku": "CE314A", "name": "HP 126A Imaging Drum Laserjet (CE314A)", "brand": "HP", "category": "HP Original Toners", "price": 4500, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/HP-126A-Imaging-Drum-Laserjet-CE314A.webp", "imageFile": "HP-126A-Imaging-Drum-Laserjet-CE314A.webp", "description": "HP 126A IMAGING DRUM LASERJET (CE314A", "inStock": true},
-  {"id": 5169, "sku": "CE313A", "name": "HP 126A Magneta Toner Original Laserjet (CE313A)", "brand": "HP", "category": "HP Original Toners", "price": 4500, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/HP-126A-Magneta-Toner-Original-Laserjet-CE313A.webp", "imageFile": "HP-126A-Magneta-Toner-Original-Laserjet-CE313A.webp", "description": "HP 126A MAGNETA TONER ORIGINAL LASERJET (CE313A", "inStock": true},
-  {"id": 5168, "sku": "CE312A", "name": "HP 126A Yellow Toner Original Laserjet (CE312A)", "brand": "HP", "category": "HP Original Toners", "price": 2500, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/HP-126A-Yellow-Toner-Original-Laserjet-CE312A.webp", "imageFile": "HP-126A-Yellow-Toner-Original-Laserjet-CE312A.webp", "description": "HP 126A YELLOW TONER ORIGINAL LASERJET (CE312A", "inStock": true},
-  {"id": 5167, "sku": "CE320A", "name": "HP 128A Black Toner Original Laserjet (CE320A)", "brand": "HP", "category": "HP Original Toners", "price": 8000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/HP-128A-Black-Toner-Original-Laserjet-CE320A.webp", "imageFile": "HP-128A-Black-Toner-Original-Laserjet-CE320A.webp", "description": "HP 128A BLACK TONER ORIGINAL LASERJET (CE320A", "inStock": true},
+  {"id": 5169, "sku": "CE313A", "name": "HP 126A Magneta Toner Original Laserjet (CE313A)", "brand": "HP", "category": "HP Original Toners", "price": 4500, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/HP-126A-Magneta-Toner-Original-Laserjet-CE313A.webp", "imageFile": "HP-126A-Magneta-Toner-Original-Laserjet-CE313A.webp", "description": `The HP 126A magenta toner cartridge is the genuine Original HP replacement, part number CE313A, for the HP LaserJet Pro CP1025, the 100 colour MFP M175 and the TopShot M275. These are the smallest colour lasers HP built, aimed at a desk or a small reception area that needs occasional colour rather than volume.
+
+## Compatible printers
+HP LaserJet Pro CP1025 Printer
+HP LaserJet Pro CP1025nw Printer
+HP LaserJet Pro 100 color MFP M175a
+HP LaserJet Pro 100 color MFP M175nw
+HP TopShot LaserJet Pro M275 MFP
+HP TopShot LaserJet Pro M275nw MFP
+If your model isn't listed, send us the number from the front of the machine and we'll confirm before you pay.
+
+## Specifications
+| Page yield | Cartridge type | Colour | Capacity | Part number | Genuine or compatible |
+|---|---|---|---|---|---|
+| 1,000 pages at 5% coverage | Laser toner cartridge | Magenta | Standard capacity | CE313A | Genuine Original HP |
+
+## Genuine or compatible?
+Genuine, Original HP, sealed box. Not a refill and not our Royal house brand, which we always sell under its own name. Worth knowing on this range: the imaging drum is a separate part, HP 126A CE314A, and it is shared by all four cartridges. Colour faults that persist after replacing a cartridge usually point at the drum rather than the toner, so tell us what you are seeing before you buy a second cartridge.
+
+## Why buy from Trinatech
+Held in Nairobi CBD stock, including for machines other suppliers have dropped.
+Countrywide courier delivery, Nakuru, Eldoret, Kisumu and Mombasa included.
+M-Pesa or bank transfer, with proper invoicing for business accounts.
+WhatsApp us the model number, or walk in to The One Mall on River Road.
+
+## Getting the most from this cartridge
+Rock the cartridge gently before installing and remove any protective packaging fully before it goes in.
+Handle it by the ends. The drum surface marks easily and fingerprints show on every page afterwards.
+At 1,000 pages these are small cartridges. In an office printing colour daily they empty quickly, so keeping a spare avoids a stopped machine.
+Remember the separate imaging drum, HP 126A CE314A. It lasts far longer than a cartridge but it does wear out, and replacing toner will not fix a worn drum.
+
+## Frequently asked questions
+Is there a higher-yield version? No. HP sells the 126A as a standard-capacity range only.
+Do I need the other cartridges too? In time yes. The set is black CE310A at 1,200 pages, plus cyan CE311A and yellow CE312A at around 1,000 pages each.
+How fast is delivery? Same day within Nairobi, next working day upcountry.
+Can I return it? Yes, sealed and unused.
+My pages are streaked even with a new cartridge. What now? That usually points to the imaging drum, CE314A, rather than the toner. Bring the machine details to us and we will work out which part you actually need.`, "metaTitle": "HP 126A Magenta Toner CE313A - Genuine HP Kenya", "metaDescription": "Genuine HP 126A magenta toner (CE313A), 1,000 pages, for HP LaserJet Pro CP1025, MFP M175 and TopShot M275. Nairobi stock, delivered Kenya-wide.", "inStock": true},
+  {"id": 5168, "sku": "CE312A", "name": "HP 126A Yellow Toner Original Laserjet (CE312A)", "brand": "HP", "category": "HP Original Toners", "price": 2500, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/HP-126A-Yellow-Toner-Original-Laserjet-CE312A.webp", "imageFile": "HP-126A-Yellow-Toner-Original-Laserjet-CE312A.webp", "description": `The HP 126A yellow toner cartridge is the genuine Original HP replacement, part number CE312A, for the HP LaserJet Pro CP1025, the 100 colour MFP M175 and the TopShot M275. These are the smallest colour lasers HP built, aimed at a desk or a small reception area that needs occasional colour rather than volume.
+
+## Compatible printers
+HP LaserJet Pro CP1025 Printer
+HP LaserJet Pro CP1025nw Printer
+HP LaserJet Pro 100 color MFP M175a
+HP LaserJet Pro 100 color MFP M175nw
+HP TopShot LaserJet Pro M275 MFP
+HP TopShot LaserJet Pro M275nw MFP
+If your model isn't listed, send us the number from the front of the machine and we'll confirm before you pay.
+
+## Specifications
+| Page yield | Cartridge type | Colour | Capacity | Part number | Genuine or compatible |
+|---|---|---|---|---|---|
+| 1,000 pages at 5% coverage | Laser toner cartridge | Yellow | Standard capacity | CE312A | Genuine Original HP |
+
+## Genuine or compatible?
+Genuine, Original HP, sealed box. Not a refill and not our Royal house brand, which we always sell under its own name. Worth knowing on this range: the imaging drum is a separate part, HP 126A CE314A, and it is shared by all four cartridges. Colour faults that persist after replacing a cartridge usually point at the drum rather than the toner, so tell us what you are seeing before you buy a second cartridge.
+
+## Why buy from Trinatech
+Held in Nairobi CBD stock, including for machines other suppliers have dropped.
+Countrywide courier delivery, Nakuru, Eldoret, Kisumu and Mombasa included.
+M-Pesa or bank transfer, with proper invoicing for business accounts.
+WhatsApp us the model number, or walk in to The One Mall on River Road.
+
+## Getting the most from this cartridge
+Rock the cartridge gently before installing and remove any protective packaging fully before it goes in.
+Handle it by the ends. The drum surface marks easily and fingerprints show on every page afterwards.
+At 1,000 pages these are small cartridges. In an office printing colour daily they empty quickly, so keeping a spare avoids a stopped machine.
+Remember the separate imaging drum, HP 126A CE314A. It lasts far longer than a cartridge but it does wear out, and replacing toner will not fix a worn drum.
+
+## Frequently asked questions
+Is there a higher-yield version? No. HP sells the 126A as a standard-capacity range only.
+Do I need the other cartridges too? In time yes. The set is black CE310A at 1,200 pages, plus cyan CE311A and magenta CE313A at around 1,000 pages each.
+How fast is delivery? Same day within Nairobi, next working day upcountry.
+Can I return it? Yes, sealed and unused.
+My pages are streaked even with a new cartridge. What now? That usually points to the imaging drum, CE314A, rather than the toner. Bring the machine details to us and we will work out which part you actually need.`, "metaTitle": "HP 126A Yellow Toner CE312A - Genuine HP Kenya", "metaDescription": "Genuine HP 126A yellow toner (CE312A), 1,000 pages, for HP LaserJet Pro CP1025, MFP M175 and TopShot M275. Nairobi stock, delivered Kenya-wide.", "inStock": true},
+  {"id": 5167, "sku": "CE320A", "name": "HP 128A Black Toner Original Laserjet (CE320A)", "brand": "HP", "category": "HP Original Toners", "price": 8000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/HP-128A-Black-Toner-Original-Laserjet-CE320A.webp", "imageFile": "HP-128A-Black-Toner-Original-Laserjet-CE320A.webp", "description": `The HP 128A black toner cartridge is the genuine Original HP replacement, part number CE320A, for the HP LaserJet Pro CP1525 colour printers and the CM1415 colour all-in-ones. These were compact colour lasers for a small office that needed colour output alongside everyday documents.
+
+## Compatible printers
+HP LaserJet Pro CP1525n Color Printer
+HP LaserJet Pro CP1525nw Color Printer
+HP LaserJet Pro CM1415fn Color MFP
+HP LaserJet Pro CM1415fnw Color MFP
+If your model isn't listed, send us the number from the front of the machine and we'll confirm before you pay.
+
+## Specifications
+| Page yield | Cartridge type | Colour | Capacity | Part number | Genuine or compatible |
+|---|---|---|---|---|---|
+| 2,000 pages at 5% coverage | Laser toner cartridge | Black | Standard capacity | CE320A | Genuine Original HP |
+
+## Genuine or compatible?
+Genuine, Original HP in the sealed box. Not a refill and not our Royal house brand, which is always sold as Royal. On a four-cartridge colour laser the black does most of the work and gets replaced most often, which is where the temptation to economise sits. The catch is that a black which fuses differently from the three colours beside it shows as a dull or patchy finish on any mixed page, and the fault is hard to trace.
+
+## Why buy from Trinatech
+Held in Nairobi CBD stock, including for machines other suppliers have dropped.
+Countrywide courier delivery, Nakuru, Eldoret, Kisumu and Mombasa included.
+M-Pesa or bank transfer, with proper invoicing for business accounts.
+WhatsApp us the model number, or walk in to The One Mall on River Road.
+
+## Getting the most from this cartridge
+Rock the cartridge gently before installing and keep your fingers off the drum surface underneath.
+Black empties well before the colours here, which yield 1,300 against 2,000. Buying black on its own rather than as a set is usually the cheaper approach.
+Store spares boxed and upright, away from heat and direct sunlight. Light degrades the drum coating on a colour laser cartridge.
+2,000 pages assumes 5% coverage. Documents with colour headers and shaded tables will bring that down noticeably.
+
+## Frequently asked questions
+Is there a higher-yield version? No. HP sells the 128A as a standard-capacity range only.
+Do I need the colours too? Yes for colour printing. HP 128A cyan CE321A, yellow CE322A and magenta CE323A are sold separately at around 1,300 pages each.
+How fast is delivery? Same day within Nairobi, next working day to most towns.
+Can I return it? Yes, sealed and unused.
+Will the printer stop if a colour runs out? On most of these models yes, even for a black-only job, so keep an eye on all four levels.`, "metaTitle": "HP 128A Black Toner CE320A - Genuine HP Kenya", "metaDescription": "Genuine HP 128A black toner (CE320A), 2,000 pages, for HP LaserJet Pro CP1525 and CM1415 colour MFP. Nairobi stock, countrywide delivery.", "inStock": true},
   {"id": 5166, "sku": "CE321A", "name": "HP 128A Cyan Toner Original Laserjet (CE321A)", "brand": "HP", "category": "HP Original Toners", "price": 8000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/HP-128A-Cyan-Toner-Original-Laserjet-CE321A-scaled.webp", "imageFile": "HP-128A-Cyan-Toner-Original-Laserjet-CE321A-scaled.webp", "description": "HP 128A CYAN TONER ORIGINAL LASERJET (CE321A", "inStock": true},
   {"id": 5165, "sku": "CE322A-2", "name": "HP 128A Magneta Toner Original Laserjet (CE322A)", "brand": "HP", "category": "HP Original Toners", "price": 8000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/HP-128A-Magneta-Toner-Original-Laserjet-CE322A-scaled.webp", "imageFile": "HP-128A-Magneta-Toner-Original-Laserjet-CE322A-scaled.webp", "description": "HP 128A MAGNETA TONER ORIGINAL LASERJET (CE322A", "inStock": true},
   {"id": 5164, "sku": "CE322A", "name": "HP 128A Yellow Toner Original Laserjet (CE322A)", "brand": "HP", "category": "HP Original Toners", "price": 8000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/HP-128A-Yellow-Toner-Original-Laserjet-CE322A.webp", "imageFile": "HP-128A-Yellow-Toner-Original-Laserjet-CE322A.webp", "description": "HP 128A YELLOW TONER ORIGINAL LASERJET (CE322A", "inStock": true},

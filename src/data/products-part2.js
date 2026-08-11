@@ -8,12 +8,108 @@ export const PRODUCTS_2 = [
   {"id": 5283, "sku": null, "name": "Royal Premium Epson 103 Ink CMYK", "brand": "Epson", "category": "Master Rolls & Inks", "price": 400, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/Royal-Premium-Epson-103-Ink-CMYK.webp", "imageFile": "Royal-Premium-Epson-103-Ink-CMYK.webp", "description": "ROYAL PREMIUM EPSON 103 INK CMYK", "inStock": true},
   {"id": 4599, "sku": null, "name": "HP 05A Black Original Laserjet Toner Cartridge (CE505A)", "brand": "HP", "category": "Inks & Toner Cartridges", "price": 7000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2025/07/HP-05A-Black-Original-LaserJet-Toner-Cartridge.png", "imageFile": "HP-05A-Black-Original-LaserJet-Toner-Cartridge.png", "description": "Compatible with: HP LaserJet P2035 HP LaserJet P2035n HP LaserJet P2055 HP LaserJet P2055d HP LaserJet P2055dn HP LaserJet P2055x", "inStock": true},
   {"id": 5185, "sku": "CE505A", "name": "HP 05A Black Toner Laserjet (CE505A)", "brand": "HP", "category": "HP Original Toners", "price": 6000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/HP-05A-Black-Toner-Laserjet-CE505A.webp", "imageFile": "HP-05A-Black-Toner-Laserjet-CE505A.webp", "description": "HP 05A BLACK TONER LASERJET (CE505A", "inStock": true},
-  {"id": 5184, "sku": null, "name": "HP 103A Black Neverstop Toner Reload Kit (1103A)", "brand": "HP", "category": "HP Original Toners", "price": 4000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/HP-103A-Black-Neverstop-Toner-Reload-Kit-1103A.webp", "imageFile": "HP-103A-Black-Neverstop-Toner-Reload-Kit-1103A.webp", "description": "HP 103A BLACK NEVERSTOP TONER RELOAD KIT (1103A", "inStock": true},
+  {"id": 5184, "sku": null, "name": "HP 103A Black Neverstop Toner Reload Kit (1103A)", "brand": "HP", "category": "HP Original Toners", "price": 4000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/HP-103A-Black-Neverstop-Toner-Reload-Kit-1103A.webp", "imageFile": "HP-103A-Black-Neverstop-Toner-Reload-Kit-1103A.webp", "description": `The HP 103A Neverstop toner reload kit is genuine Original HP toner, part number W1103A, for HP's cartridge-free Neverstop Laser printers. It is not a toner cartridge. You load it into a port on the printer and the toner flows into a tank built into the machine, which is what makes Neverstop the cheapest laser printing HP sells.
+
+## Compatible printers
+Neverstop Laser: 1000a, 1000n, 1000w
+Neverstop Laser MFP: 1200a, 1200n, 1200nw, 1200w
+If your model isn't listed, send us the number from the front of the machine and we'll confirm before you pay.
+
+## Specifications
+| Page yield | Cartridge type | Colour | Capacity | Part number | Genuine or compatible |
+|---|---|---|---|---|---|
+| 2,500 pages at 5% coverage | Toner reload kit, not a cartridge | Black | Single reload kit | W1103A | Genuine Original HP |
+
+## Genuine or compatible?
+Genuine, Original HP. Not our Royal house brand and not a third-party refill. Neverstop printers are unusual in that the toner tank and imaging drum stay in the machine, so what you pour in has to be right. Poor quality toner in a permanent tank is a much harder problem to reverse than a bad cartridge you can simply pull out. If you want a compatible reload priced, ask us and we will tell you what we hold.
+
+## Why buy from Trinatech
+Nairobi CBD stock, ready for collection.
+Courier delivery countrywide, from Nakuru and Eldoret through to Mombasa.
+M-Pesa or bank transfer, with invoicing for office accounts.
+Order on WhatsApp, or walk in to The One Mall on River Road.
+
+## Getting the most from this cartridge
+Reload when the printer's panel tells you to, not before. The tank has a fixed capacity and there is nowhere for excess toner to go.
+Follow the on-screen sequence. The kit only releases toner once it is seated correctly in the reload port, which is what keeps the process clean.
+The imaging drum is a separate consumable, HP 104A, and lasts far longer than a reload. Faded or streaked pages after a fresh reload usually point to the drum rather than the toner.
+Keep the kit sealed and dry until use. Toner absorbs moisture, and Nairobi humidity does it no favours.
+
+## Frequently asked questions
+Is there a larger version? Yes, HP 103AD is a twin pack giving up to 5,000 pages.
+Do I need anything else? Only the imaging drum eventually, HP 104A, which is replaced far less often.
+How fast is delivery? Same day within Nairobi, next working day to most towns.
+Can I return it? Yes, if the kit is sealed and unused.
+Is this the same as a toner cartridge? No. Neverstop printers have no cartridge. This kit refills a tank inside the printer, which is why the cost per page is so low.`, "metaTitle": "HP 103A Neverstop Toner Reload Kit W1103A - Genuine HP", "metaDescription": "Genuine HP 103A Neverstop toner reload kit (W1103A), 2,500 pages, for HP Neverstop Laser 1000 and MFP 1200. Nairobi stock, delivered Kenya-wide.", "inStock": true},
   {"id": 5183, "sku": "W1104A", "name": "HP 104A Black Laser Imaging Drum (W1104A)", "brand": "HP", "category": "HP Original Toners", "price": 7000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/HP-104A-Black-Laser-Imaging-Drum-W1104A.webp", "imageFile": "HP-104A-Black-Laser-Imaging-Drum-W1104A.webp", "description": "HP 104A BLACK LASER IMAGING DRUM (W1104A", "inStock": true},
   {"id": 5182, "sku": "W1106A", "name": "HP 106A Black Toner Cartridge (W1106A)", "brand": "HP", "category": "HP Original Toners", "price": 7500, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/HP-106A-Black-Toner-Cartridge-W1106A.webp", "imageFile": "HP-106A-Black-Toner-Cartridge-W1106A.webp", "description": "HP 106A BLACK TONER CARTRIDGE (W1106A", "inStock": true},
-  {"id": 4175, "sku": null, "name": "HP 107A Black Original Laserjet Toner Cartridge", "brand": "HP", "category": "Inks & Toner Cartridges", "price": 7500, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2025/01/HP-107A-Black-Original-LaserJet-Toner.png", "imageFile": "HP-107A-Black-Original-LaserJet-Toner.png", "description": "Compatible with: HP LaserJet 107 Series: 107a, 107w, 107r HP LaserJet Pro MFP 130 Series: 135a, 135w HP LaserJet Pro MFP 137fnw", "inStock": true},
+  {"id": 4175, "sku": null, "name": "HP 107A Black Original Laserjet Toner Cartridge", "brand": "HP", "category": "Inks & Toner Cartridges", "price": 7500, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2025/01/HP-107A-Black-Original-LaserJet-Toner.png", "imageFile": "HP-107A-Black-Original-LaserJet-Toner.png", "description": `The HP 107A black toner cartridge is the genuine Original HP replacement, part number W1107A, for HP's compact Laser 100 and MFP 130 series. These are the small, affordable mono lasers that suit a shop counter, a clinic reception or a home office that needs crisp documents rather than colour. Laser output does not run or fade the way inkjet can, which matters for receipts and records kept in a humid office.
+
+## Compatible printers
+HP Laser: 107a, 107r, 107w
+HP Laser MFP: 135a, 135r, 135w, 135wg, 137fnw, 137fwg
+If your model isn't listed, send us the number from the front of the machine and we'll confirm before you pay.
+
+## Specifications
+| Page yield | Cartridge type | Colour | Capacity | Part number | Genuine or compatible |
+|---|---|---|---|---|---|
+| 1,000 pages at 5% coverage | Laser toner cartridge | Black | Standard capacity | W1107A | Genuine Original HP |
+
+## Genuine or compatible?
+Genuine, Original HP in the sealed box. Not a refill and not our Royal house brand, which we always sell under the Royal name. Toner for these printers is widely counterfeited, and a fake cartridge tends to announce itself through streaking, poor fusing and toner that rubs off the page. On documents you may need to produce months later, that matters. Ask us and we will price a compatible honestly alongside it.
+
+## Why buy from Trinatech
+Held in Nairobi CBD stock for immediate collection.
+Countrywide courier delivery, Kisumu, Nakuru, Eldoret and Mombasa included.
+M-Pesa or bank transfer, with a proper invoice for your accounts.
+WhatsApp the model number from the front of the printer, or visit The One Mall on River Road.
+
+## Getting the most from this cartridge
+Rock the cartridge gently side to side before fitting to distribute the toner evenly. Do not shake it hard.
+Keep it in the box until you need it and store it away from direct sun. Heat and damp both shorten toner life.
+When pages start to fade, take the cartridge out and rock it again. That often buys another fifty or so pages before you truly need a replacement.
+1,000 pages assumes 5% coverage. Documents with logos, shaded tables or large headings will use noticeably more.
+
+## Frequently asked questions
+Is there a higher-yield version? Yes, HP 107X holds more toner and fits the same printers.
+Do I need a separate drum? No. On this design the drum is part of the cartridge, so you replace both together.
+How fast is delivery? Same day within Nairobi, next working day upcountry.
+Can I return it? Yes, sealed and unused.
+Is this the same as HP 105A? No. HP 105A is for a different HP Laser series. Send us your model number and we will match it before you pay.`, "metaTitle": "HP 107A Black Toner Cartridge W1107A - Genuine HP Kenya", "metaDescription": "Genuine HP 107A black toner (W1107A), 1,000 pages, for HP Laser 107a, 107w and MFP 135a, 135w, 137fnw. Nairobi stock, delivered across Kenya.", "inStock": true},
   {"id": 5181, "sku": "W1107A", "name": "HP 107A Black Toner Cartridge (W1107A)", "brand": "HP", "category": "HP Original Toners", "price": 7500, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/HP-107A-Black-Toner-Cartridge-W1107A.webp", "imageFile": "HP-107A-Black-Toner-Cartridge-W1107A.webp", "description": "HP 107A BLACK TONER CARTRIDGE (W1107A", "inStock": true},
-  {"id": 4793, "sku": null, "name": "HP 117A Black Original Laserjet Toner Cartridge", "brand": "HP", "category": "Inks & Toner Cartridges", "price": 7500, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2025/07/HP-117A-Black-Original-Toner.png", "imageFile": "HP-117A-Black-Original-Toner.png", "description": "Compatible with: HP Color LaserJet 150a / 150nw HP Color LaserJet MFP 178nw HP Color LaserJet MFP 179fnw / 179fng", "inStock": true},
+  {"id": 4793, "sku": null, "name": "HP 117A Black Original Laserjet Toner Cartridge", "brand": "HP", "category": "Inks & Toner Cartridges", "price": 7500, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2025/07/HP-117A-Black-Original-Toner.png", "imageFile": "HP-117A-Black-Original-Toner.png", "description": `The HP 117A black toner cartridge is the genuine Original HP replacement, part number W2070A, for HP's compact Color Laser 150 and MFP 178 series. These are the entry-level colour lasers that put colour documents within reach of a small office without the running costs of a larger machine. Black is the cartridge that empties first on almost every colour laser, so it is the one worth keeping a spare of.
+
+## Compatible printers
+HP Color Laser: 150a, 150nw
+HP Color Laser MFP: 178nw, 178nwg, 179fnw, 179fwg
+If your model isn't listed, send us the number from the front of the machine and we'll confirm before you pay.
+
+## Specifications
+| Page yield | Cartridge type | Colour | Capacity | Part number | Genuine or compatible |
+|---|---|---|---|---|---|
+| 1,000 pages at 5% coverage | Laser toner cartridge | Black | Standard capacity | W2070A | Genuine Original HP |
+
+## Genuine or compatible?
+Genuine, Original HP, sealed box. Not a refill and not our Royal house brand, which is always sold as Royal. Colour lasers are less forgiving of poor toner than mono machines, because all four cartridges have to lay down consistently for colours to come out right. A cheap black that fuses differently from the colours around it shows up immediately on a printed page. Ask us for an honest comparison if price is the deciding factor.
+
+## Why buy from Trinatech
+Stocked in the Nairobi CBD, available over the counter.
+Courier countrywide, from the lakeside towns through to the coast.
+M-Pesa and bank transfer both accepted, invoiced for business customers.
+Order on WhatsApp, or come to The One Mall on River Road.
+
+## Getting the most from this cartridge
+Rock the cartridge gently before installing to spread the toner, and avoid touching the green drum surface.
+Keep spare cartridges boxed, upright and out of direct sunlight. Light degrades the drum coating.
+Black runs out fastest on a colour laser because most office printing is text. Stocking the black separately from the colour set usually costs less than buying full sets.
+1,000 pages assumes 5% coverage. Colour-heavy documents will still consume black for text and shadows, so the figure drops in mixed work.
+
+## Frequently asked questions
+Is there a higher-yield version? HP sells 117A as a standard-yield cartridge for this series. If you print heavily, ask us what higher-capacity options exist for your exact model.
+Do I need the colours too? Yes for colour printing. The matching HP 117A cyan, magenta and yellow are sold separately.
+How soon can I get it? Same day within Nairobi, next working day upcountry.
+Can I return it? Yes, sealed and unused.
+Will HP 116A fit instead? No. The 116A is for a different HP Color Laser range despite the similar printers. Confirm your model with us first.`, "metaTitle": "HP 117A Black Toner Cartridge W2070A - Genuine HP Kenya", "metaDescription": "Genuine HP 117A black toner (W2070A), 1,000 pages, for HP Color Laser 150a, 150nw and MFP 178nw, 179fnw. Nairobi stock, delivered Kenya-wide.", "inStock": true},
   {"id": 5180, "sku": "W2070A", "name": "HP 117A Black Toner Cartridge (W2070A)", "brand": "HP", "category": "HP Original Toners", "price": 7500, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/HP-117A-Black-Toner-Cartridge-W2070A.webp", "imageFile": "HP-117A-Black-Toner-Cartridge-W2070A.webp", "description": "HP 117A BLACK TONER CARTRIDGE (W2070A", "inStock": true},
   {"id": 5179, "sku": "CF214A-2", "name": "HP 117A Cym Toner Laserjet Cartridge Each (CF214A)", "brand": "HP", "category": "HP Original Toners", "price": 7500, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/HP-117A-Cym-Toner-Laserjet-Cartridge-Each-CF214A.webp", "imageFile": "HP-117A-Cym-Toner-Laserjet-Cartridge-Each-CF214A.webp", "description": "HP 117A CYM TONER LASERJET CARTRIDGE EACH (CF214A", "inStock": true},
   {"id": 5178, "sku": "Q6511A", "name": "HP 11A Black Toner Original Laserjet (Q6511A)", "brand": "HP", "category": "HP Original Toners", "price": 11000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/HP-11A-Black-Toner-Original-Laserjet-Q6511A.webp", "imageFile": "HP-11A-Black-Toner-Original-Laserjet-Q6511A.webp", "description": "HP 11A BLACK TONER ORIGINAL LASERJET (Q6511A", "inStock": true},
@@ -194,8 +290,72 @@ Do I need the black as well? Yes for normal document printing, and most of these
 How long is delivery? Same day in Nairobi, next working day for most other towns.
 Can I return it? Yes, provided it is sealed and unused.
 Why is the page yield so low? This is the standard cartridge and these compact all-in-ones ship with small cartridges by design. The XL is the answer if you print regularly.`, "metaTitle": "HP 123 Tri-Colour Ink Cartridge F6V16AE - Genuine HP", "metaDescription": "Genuine HP 123 tri-colour ink (F6V16AE), about 100 pages, for DeskJet 2130, 2620, 2630 and 3630. Nairobi stock, delivered nationwide.", "inStock": true},
-  {"id": 5176, "sku": "CB540A", "name": "HP 125A Black Toner Laserjet Catridge (CB540A)", "brand": "HP", "category": "HP Original Toners", "price": 4500, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/HP-125A-Black-Toner-Laserjet-Catridge-CB540A.webp", "imageFile": "HP-125A-Black-Toner-Laserjet-Catridge-CB540A.webp", "description": "HP 125A BLACK TONER LASERJET CATRIDGE (CB540A", "inStock": true},
-  {"id": 5175, "sku": "CB541A", "name": "HP 125A Cyan Toner Laserjet Catridge (CB541A)", "brand": "HP", "category": "HP Original Toners", "price": 4500, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/HP-125A-Cyan-Toner-Laserjet-Catridge-CB541A.webp", "imageFile": "HP-125A-Cyan-Toner-Laserjet-Catridge-CB541A.webp", "description": "HP 125A CYAN TONER LASERJET CATRIDGE (CB541A", "inStock": true},
+  {"id": 5176, "sku": "CB540A", "name": "HP 125A Black Toner Laserjet Catridge (CB540A)", "brand": "HP", "category": "HP Original Toners", "price": 4500, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/HP-125A-Black-Toner-Laserjet-Catridge-CB540A.webp", "imageFile": "HP-125A-Black-Toner-Laserjet-Catridge-CB540A.webp", "description": `The HP 125A black toner cartridge is the genuine Original HP replacement, part number CB540A, for the HP Color LaserJet CP1215 and CM1312 family. These colour lasers have been in Kenyan offices a long time, and at 2,200 pages the black cartridge outlasts the colours by a wide margin, which is what you would expect from mostly text printing.
+
+## Compatible printers
+Color LaserJet: CP1215, CP1515n, CP1518ni
+Color LaserJet MFP: CM1312, CM1312nfi
+If your model isn't listed, send us the number from the front of the machine and we'll confirm before you pay.
+
+## Specifications
+| Page yield | Cartridge type | Colour | Capacity | Part number | Genuine or compatible |
+|---|---|---|---|---|---|
+| 2,200 pages at 5% coverage | Laser toner cartridge | Black | Standard capacity | CB540A | Genuine Original HP |
+
+## Genuine or compatible?
+Genuine, Original HP in the sealed box. Not a refill and not our Royal house brand, which is always sold under its own name. Machines this age attract a lot of remanufactured and counterfeit toner, and the tell-tale signs are streaking, background shading and toner that does not fuse properly. On a colour laser that also has three colour cartridges to match against, that becomes obvious quickly. We will price a compatible for you honestly if you ask.
+
+## Why buy from Trinatech
+Kept in Nairobi CBD stock, including for older colour lasers others no longer supply.
+Countrywide courier, Nakuru, Eldoret, Kisumu and Mombasa included.
+M-Pesa or bank transfer, with a proper invoice for office accounts.
+WhatsApp us the model number, or walk in to The One Mall on River Road.
+
+## Getting the most from this cartridge
+Rock the cartridge gently end to end before fitting to redistribute the toner, then remove the sealing strip fully.
+Never touch the drum surface or leave the cartridge out in bright light while installing.
+Because black is used on almost every page, it empties well before the colours. Buying black on its own rather than as part of a set is usually the cheaper approach.
+2,200 pages assumes 5% coverage. Reports with shaded tables, logos or dark headers will fall short of that.
+
+## Frequently asked questions
+Is there a higher-yield version? HP sells 125A as a standard-capacity cartridge for this series, so there is no XL equivalent in this range.
+Do I need the colours too? Yes for colour printing. HP 125A cyan, magenta and yellow are separate cartridges, each around 1,400 pages.
+How fast is delivery? Same day within Nairobi, next working day to most towns.
+Can I return it? Yes, sealed and unused.
+Why does black run out so much faster than the colours? Because black is used on text, which is most of what an office prints, while the colours are only touched on graphics.`, "metaTitle": "HP 125A Black Toner CB540A - Genuine HP Kenya", "metaDescription": "Genuine HP 125A black toner (CB540A), 2,200 pages, for HP Color LaserJet CP1215, CP1515n, CP1518ni and CM1312. Nairobi stock, delivered Kenya-wide.", "inStock": true},
+  {"id": 5175, "sku": "CB541A", "name": "HP 125A Cyan Toner Laserjet Catridge (CB541A)", "brand": "HP", "category": "HP Original Toners", "price": 4500, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/HP-125A-Cyan-Toner-Laserjet-Catridge-CB541A.webp", "imageFile": "HP-125A-Cyan-Toner-Laserjet-Catridge-CB541A.webp", "description": `The HP 125A cyan toner cartridge is the genuine Original HP replacement, part number CB541A, for the HP Color LaserJet CP1215 and CM1312 family. Cyan is one of three colour cartridges in these machines, and it is replaced individually rather than as a set, so you only buy the colour that has actually run out.
+
+## Compatible printers
+Color LaserJet: CP1215, CP1515n, CP1518ni
+Color LaserJet MFP: CM1312, CM1312nfi
+If your model isn't listed, send us the number from the front of the machine and we'll confirm before you pay.
+
+## Specifications
+| Page yield | Cartridge type | Colour | Capacity | Part number | Genuine or compatible |
+|---|---|---|---|---|---|
+| 1,400 pages at 5% coverage | Laser toner cartridge | Cyan | Standard capacity | CB541A | Genuine Original HP |
+
+## Genuine or compatible?
+Genuine, Original HP, sealed box. Not a refill and not our Royal house brand, which we always sell as Royal. Colour matching is where non-genuine toner shows itself most clearly. If one of your four cartridges is a compatible with a slightly different pigment, greens and greys come out wrong across every page, and the fault is hard to trace. Mixing genuine and compatible cartridges in a colour laser is the most common cause of colour complaints we see.
+
+## Why buy from Trinatech
+Nairobi CBD stock, ready for same-day collection.
+Delivered countrywide by courier, Kisumu, Nakuru, Eldoret and Mombasa included.
+M-Pesa and bank transfer accepted, with invoicing for offices.
+Order on WhatsApp, or visit us at The One Mall on River Road.
+
+## Getting the most from this cartridge
+Rock it gently before installation and pull the sealing strip out in one steady movement.
+Handle it by the ends and keep the drum away from light and fingers.
+Colour cartridges often expire from age rather than use in a low-volume office. If you print colour rarely, buy one when you need it rather than stocking spares for years.
+1,400 pages assumes 5% coverage of cyan specifically, so a page with a large blue graphic can consume a great deal more than the figure suggests.
+
+## Frequently asked questions
+Is there a higher-yield version? No. HP 125A is sold as a standard-capacity cartridge for this series.
+Do I need the other colours too? You will eventually. HP 125A magenta is CB543A and yellow is CB542A, each around 1,400 pages, plus the black CB540A at 2,200 pages.
+How soon can I get it? Same day in Nairobi, next working day upcountry.
+Can I return it? Yes, if it is sealed and unused.
+Can I keep printing with an empty cyan? Usually not. These printers generally stop rather than substituting another colour, so a single empty cartridge halts the machine.`, "metaTitle": "HP 125A Cyan Toner CB541A - Genuine HP Kenya", "metaDescription": "Genuine HP 125A cyan toner (CB541A), 1,400 pages, for HP Color LaserJet CP1215, CP1515n, CP1518ni and CM1312. Nairobi stock, countrywide delivery.", "inStock": true},
   {"id": 5174, "sku": "CB543A", "name": "HP 125A Magneta Toner Laserjet (CB543A)", "brand": "HP", "category": "HP Original Toners", "price": 4500, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/HP-125A-Magneta-Toner-Laserjet-CB543A.webp", "imageFile": "HP-125A-Magneta-Toner-Laserjet-CB543A.webp", "description": "HP 125A MAGNETA TONER LASERJET (CB543A", "inStock": true},
   {"id": 5173, "sku": "CB542A", "name": "HP 125A Yellow Toner Laserjet Catridge (CB542A)", "brand": "HP", "category": "HP Original Toners", "price": 4500, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/HP-125A-Yellow-Toner-Laserjet-Catridge-CB542A.webp", "imageFile": "HP-125A-Yellow-Toner-Laserjet-Catridge-CB542A.webp", "description": "HP 125A YELLOW TONER LASERJET CATRIDGE (CB542A", "inStock": true},
   {"id": 5172, "sku": "CE310A", "name": "HP 126A Black Toner Original Laserjet (CE310A)", "brand": "HP", "category": "HP Original Toners", "price": 4500, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/HP-126A-Black-Toner-Original-Laserjet-CE310A.webp", "imageFile": "HP-126A-Black-Toner-Original-Laserjet-CE310A.webp", "description": "HP 126A BLACK TONER ORIGINAL LASERJET (CE310A", "inStock": true},

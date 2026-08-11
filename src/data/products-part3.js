@@ -968,7 +968,42 @@ If your model isn't listed, send us the number from the front of the machine and
   {"id": 5301, "sku": null, "name": "HP 728 Black 300ML Matte Designjet Ink Cartridge Each", "brand": "HP", "category": "Master Rolls & Inks", "price": 18000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/HP-728-Black-300ML-Matte-Designjet-Ink-Cartridge-Each.webp", "imageFile": "HP-728-Black-300ML-Matte-Designjet-Ink-Cartridge-Each.webp", "description": "HP 728 BLACK 300ML MATTE DESIGNJET INK CARTRIDGE EACH", "inStock": true},
   {"id": 5300, "sku": null, "name": "HP 728 Cym High Capacity Ink 130-ML Each", "brand": "HP", "category": "Master Rolls & Inks", "price": 18000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/HP-728-Cym-High-Capacity-Ink-130-ML-Each.webp", "imageFile": "HP-728-Cym-High-Capacity-Ink-130-ML-Each.webp", "description": "HP 728 CYM HIGH CAPACITY INK 130-ML EACH", "inStock": true},
   {"id": 5299, "sku": null, "name": "HP 730 Designjet Ink Cartridges 130-ML Each", "brand": "HP", "category": "Master Rolls & Inks", "price": 18000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/HP-730-Designjet-Ink-Cartridges-130-ML-Each.webp", "imageFile": "HP-730-Designjet-Ink-Cartridges-130-ML-Each.webp", "description": "HP 730 DESIGNJET INK CARTRIDGES 130-ML EACH", "inStock": true},
-  {"id": 5066, "sku": "CF276A", "name": "HP 76A Black Toner Laserjet Cartridge (CF276A)", "brand": "HP", "category": "HP Original Toners", "price": 17000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/HP-76A-Black-Toner-Laserjet-Cartridge-CF276A-scaled.webp", "imageFile": "HP-76A-Black-Toner-Laserjet-Cartridge-CF276A-scaled.webp", "description": "HP 76A BLACK TONER LASERJET CARTRIDGE (CF276A", "inStock": true},
+  {"id": 5066, "sku": "CF276A", "name": "HP 76A Black Toner Laserjet Cartridge (CF276A)", "brand": "HP", "category": "HP Original Toners", "price": 17000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/HP-76A-Black-Toner-Laserjet-Cartridge-CF276A-scaled.webp", "imageFile": "HP-76A-Black-Toner-Laserjet-Cartridge-CF276A-scaled.webp", "description": `The HP 76A black toner cartridge is the genuine Original HP replacement, part number CF276A, for the HP LaserJet Pro M404 and MFP M428 series. These are among the most widely sold business mono lasers of recent years and are common in Kenyan offices.
+
+## Compatible printers
+HP LaserJet Pro M404n Printer
+HP LaserJet Pro M404dn Printer
+HP LaserJet Pro M404dw Printer
+HP LaserJet Pro MFP M428fdn
+HP LaserJet Pro MFP M428fdw
+If your model isn't listed, send us the number from the front of the machine and we'll confirm before you pay.
+
+## Specifications
+| Page yield | Cartridge type | Colour | Capacity | Part number | Genuine or compatible |
+|---|---|---|---|---|---|
+| 3,000 pages at 5% coverage | Laser toner cartridge | Black | Standard capacity | CF276A | Genuine Original HP |
+
+## Genuine or compatible?
+Genuine, Original HP in the sealed box. Not a refill and not our Royal house brand, which is always sold as Royal. Worth knowing before you order: HP supplies more than one cartridge number for the M404 and M428 family depending on the market, and the 59A is the other one you will see. They fit the same printers. Tell us which number your machine currently uses and what you paid last time, and we will work out which is the better buy rather than simply selling you the box in front of us.
+
+## Why buy from Trinatech
+Stocked in the Nairobi CBD, because the M404 and M428 are everywhere in this market.
+Countrywide courier delivery, Kisumu, Nakuru, Eldoret and Mombasa included.
+M-Pesa or bank transfer, with proper invoicing and LPO handling for corporate accounts.
+WhatsApp the model number from the front of the printer, or visit The One Mall on River Road.
+
+## Getting the most from this cartridge
+Rock the cartridge gently side to side before fitting and pull the sealing tab out fully.
+Do not touch the chip on the side of the cartridge. On this generation a dirty or damaged chip is the usual cause of a not-genuine message on a perfectly good cartridge.
+If you print more than a ream a month, HP 76X holds substantially more in the same slot and costs less per page.
+3,000 pages assumes 5% coverage. Invoices with heavy rules and dark headers will come in under that.
+
+## Frequently asked questions
+Is there a higher-yield version? Yes, HP 76X black fits the same printers and holds considerably more toner.
+Do I need a separate drum? No. The drum is built into the cartridge, so both are replaced together.
+How fast is delivery? Same day within Nairobi, next working day to most towns.
+Can I return it? Yes, sealed and unused.
+My printer says the cartridge is not genuine. What now? Reseat it and wipe the chip contacts with a dry cloth. If it persists on a cartridge bought from us, bring it in and we will sort it out.`, "metaTitle": "HP 76A Black Toner CF276A - Genuine HP Kenya", "metaDescription": "Genuine HP 76A black toner (CF276A), 3,000 pages, for HP LaserJet Pro M404 and MFP M428 series. Nairobi stock, delivered across Kenya.", "inStock": true},
   {"id": 5298, "sku": null, "name": "HP 771 Designjet 775-ML Ink Cartridge Each", "brand": "HP", "category": "Master Rolls & Inks", "price": 18000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/HP-771-Designjet-775-ML.png", "imageFile": "HP-771-Designjet-775-ML.png", "description": "HP 771 DESIGNJET 775-ML INK CARTRIDGE EACH", "inStock": true},
   {"id": 3552, "sku": null, "name": "HP 78A Black Original Laserjet Toner Cartridge", "brand": "HP", "category": "Inks & Toner Cartridges", "price": 6000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2024/12/HP-78A-Toner.png", "imageFile": "HP-78A-Toner.png", "description": `The HP 78A black toner cartridge is the genuine Original HP replacement, part number CE278A, for the HP LaserJet Pro P1566, P1606dn and the M1536dnf all-in-one. These compact mono lasers were sold in large numbers to small offices and home businesses, and many are still in daily use. Laser output does not run or fade the way inkjet can, which matters for receipts and records kept in a humid office.
 

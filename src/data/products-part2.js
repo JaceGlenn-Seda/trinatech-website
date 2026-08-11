@@ -1020,7 +1020,44 @@ Will refilling void my printer warranty? Using compatible supplies does not auto
 How fast is delivery? Same day within Nairobi, next working day upcountry.
 Refill or buy new? If the printer matters to your business, buy the cartridge. For a spare machine or low-value printing, refilling can make sense.`, "metaTitle": "Toner Refill Powder 140g - Compatible, Nairobi Stock", "metaDescription": "140g bottle of compatible black toner refill powder for mono laser cartridges. Not an HP product. Nairobi stock, delivered across Kenya.", "inStock": true},
   {"id": 5151, "sku": "W1470A", "name": "HP 147A Black Toner Laserjet Cartridge (W1470A)", "brand": "HP", "category": "HP Original Toners", "price": 14000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/HP-147A-Black-Toner-Laserjet-Cartridge-W1470A-scaled.webp", "imageFile": "HP-147A-Black-Toner-Laserjet-Cartridge-W1470A-scaled.webp", "description": "HP 147A BLACK TONER LASERJET CARTRIDGE (W1470A", "inStock": true},
-  {"id": 5150, "sku": "CF214A", "name": "HP 14A Black Toner Laserjet Cartridge (CF214A)", "brand": "HP", "category": "HP Original Toners", "price": 18000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/HP-14A-Black-Toner-Laserjet-Cartridge-CF214A-scaled.webp", "imageFile": "HP-14A-Black-Toner-Laserjet-Cartridge-CF214A-scaled.webp", "description": "HP 14A BLACK TONER LASERJET CARTRIDGE (CF214A", "inStock": true},
+  {"id": 5150, "sku": "CF214A", "name": "HP 14A Black Toner Laserjet Cartridge (CF214A)", "brand": "HP", "category": "HP Original Toners", "price": 18000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/HP-14A-Black-Toner-Laserjet-Cartridge-CF214A-scaled.webp", "imageFile": "HP-14A-Black-Toner-Laserjet-Cartridge-CF214A-scaled.webp", "description": `The HP 14A black toner cartridge is the genuine Original HP replacement, part number CF214A, for the HP LaserJet Enterprise 700 M712 series and the MFP M725. These are A3-capable departmental mono machines built for serious volume, and at 10,000 pages the cartridge is sized to match.
+
+## Compatible printers
+HP LaserJet Enterprise 700 Printer M712n
+HP LaserJet Enterprise 700 Printer M712dn
+HP LaserJet Enterprise 700 Printer M712xh
+HP LaserJet Enterprise 700 MFP M725dn
+HP LaserJet Enterprise 700 MFP M725f
+HP LaserJet Enterprise 700 MFP M725z
+HP LaserJet Enterprise 700 MFP M725z+
+If your model isn't listed, send us the number from the front of the machine and we'll confirm before you pay.
+
+## Specifications
+| Page yield | Cartridge type | Colour | Capacity | Part number | Genuine or compatible |
+|---|---|---|---|---|---|
+| 10,000 pages at 5% coverage (ISO/IEC 19752) | Laser toner cartridge | Black | Standard capacity | CF214A | Genuine Original HP |
+
+## Genuine or compatible?
+Genuine, Original HP in the sealed box. Not a refill and not our Royal house brand. These machines usually sit on a service contract or a managed print agreement, and non-genuine consumables can put that arrangement in question. A leaking or rejected cartridge here does not delay one person's document, it stops a department and can mean a service call on an A3 machine worth many times the cartridge.
+
+## Why buy from Trinatech
+Departmental-class stock held in the Nairobi CBD rather than ordered in on request.
+Countrywide courier delivery, Nakuru, Eldoret, Kisumu and Mombasa included.
+M-Pesa or bank transfer, with proper invoicing and LPO handling for corporate accounts.
+WhatsApp us the model number, or visit The One Mall on River Road.
+
+## Getting the most from this cartridge
+Rock the cartridge gently before fitting. These are large, heavy cartridges and toner settles in transit.
+Order before you run out. On a shared A3 machine the low-toner warning is usually ignored until the queue stops.
+If your volume is high, HP 14X holds around 17,500 pages in the same slot and works out cheaper per page. Ask us to compare on your monthly figures.
+10,000 pages assumes 5% coverage. Heavy reports and A3 work will come in well under that on a machine running all day.
+
+## Frequently asked questions
+Is there a higher-yield version? Yes, HP 14X fits the same printers and prints around 17,500 pages.
+Do I need anything else? These take a single black cartridge, so no. Ask us about maintenance kits if the printer has high mileage.
+How fast is delivery? Same day within Nairobi, next working day to most towns.
+Can I return it? Yes, sealed and unused.
+Which cartridge suits a machine printing all day? Ask us to compare 14A and 14X against your monthly volume. On heavy use the larger cartridge usually wins clearly.`, "metaTitle": "HP 14A Black Toner CF214A - Genuine HP Kenya", "metaDescription": "Genuine HP 14A black toner (CF214A), 10,000 pages, for HP LaserJet Enterprise 700 M712 and MFP M725. Nairobi stock, countrywide delivery.", "inStock": true},
   {"id": 3496, "sku": null, "name": "HP 15 Celeron 4GB/500GB/15.6in Laptop", "brand": "HP", "category": "Laptops", "price": 42000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2024/12/HP-15-Celeron-Laptop.png", "imageFile": "HP-15-Celeron-Laptop.png", "description": "The HP 15 Celeron is a practical and affordable laptop that offers reliable performance for everyday computing needs.", "inStock": true},
   {"id": 3501, "sku": null, "name": "HP 15 Core I7 8GB/1TB/15.6in DOS Laptop", "brand": "HP", "category": "Laptops", "price": 98000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2024/12/HP-15-Celeron-Laptop.png", "imageFile": "HP-15-Celeron-Laptop.png", "description": "The HP 15 Core i7 is a robust and high-performance laptop designed for users who require speed, efficiency, and ample storage.", "inStock": true},
   {"id": 4822, "sku": null, "name": "HP 150A Black Original Laserjet Toner Cartridge", "brand": "HP", "category": "Inks & Toner Cartridges", "price": 7500, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2025/07/HP-150A-Black-Original-Toner.png", "imageFile": "HP-150A-Black-Original-Toner.png", "description": `The HP 150A black toner cartridge is the genuine Original HP replacement, part number W1500A, for HP's current compact LaserJet range. These are the small mono lasers sold to home offices and small businesses in the last few years, and this is the cartridge they take.

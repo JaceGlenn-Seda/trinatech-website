@@ -1780,5 +1780,41 @@ My machine is over a decade old. Is this cartridge still made? Yes. That is a la
   {"id": 5096, "sku": "CE251A", "name": "HP 504A Cyan Toner Original Laserjet (CE251A)", "brand": "HP", "category": "HP Original Toners", "price": 17000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/HP-504A-Cyan-Toner-Original-Laserjet-CE251A-scaled.webp", "imageFile": "HP-504A-Cyan-Toner-Original-Laserjet-CE251A-scaled.webp", "description": "HP 504A CYAN TONER ORIGINAL LASERJET (CE251A", "inStock": true},
   {"id": 5095, "sku": "CE253A", "name": "HP 504A Magneta Toner Original Laserjet (CE253A)", "brand": "HP", "category": "HP Original Toners", "price": 17000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/HP-504A-Magneta-Toner-Original-Laserjet-CE253A-scaled.webp", "imageFile": "HP-504A-Magneta-Toner-Original-Laserjet-CE253A-scaled.webp", "description": "HP 504A MAGNETA TONER ORIGINAL LASERJET (CE253A", "inStock": true},
   {"id": 5094, "sku": "CE252A", "name": "HP 504A Yellow Toner Original Laserjet (CE252A)", "brand": "HP", "category": "HP Original Toners", "price": 17000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/HP-504A-Yellow-Toner-Original-Laserjet-CE252A-scaled.webp", "imageFile": "HP-504A-Yellow-Toner-Original-Laserjet-CE252A-scaled.webp", "description": "HP 504A YELLOW TONER ORIGINAL LASERJET (CE252A", "inStock": true},
-  {"id": 4819, "sku": null, "name": "HP 507A Black Original Laserjet Toner Cartridge", "brand": "HP", "category": "Inks & Toner Cartridges", "price": 14000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2025/07/HP-507A-Black-Original-Toner.png", "imageFile": "HP-507A-Black-Original-Toner.png", "description": "Compatible with: HP LaserJet Enterprise 500 Color M551 series: M551n, M551dn, M551xh HP LaserJet Enterprise 500 Color Flow MFP M575 series: M575c, M575dn, M575f HP LaserJet Pro", "inStock": true},
+  {"id": 4819, "sku": null, "name": "HP 507A Black Original Laserjet Toner Cartridge", "brand": "HP", "category": "Inks & Toner Cartridges", "price": 14000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2025/07/HP-507A-Black-Original-Toner.png", "imageFile": "HP-507A-Black-Original-Toner.png", "description": `The HP 507A black toner cartridge is the genuine Original HP replacement, part number CE400A, for the HP LaserJet Enterprise 500 colour M551 and MFP M575 series. These are departmental colour machines, and at 5,500 pages the black is sized for a workgroup rather than a single desk.
+
+## Compatible printers
+HP LaserJet Enterprise 500 color M551dn Printer
+HP LaserJet Enterprise 500 color M551n Printer
+HP LaserJet Enterprise 500 color M551xh Printer
+HP LaserJet Enterprise 500 color MFP M575dn
+HP LaserJet Enterprise 500 color MFP M575f
+HP LaserJet Enterprise 500 color Flow MFP M575c
+If your model isn't listed, send us the number from the front of the machine and we'll confirm before you pay.
+
+## Specifications
+| Page yield | Cartridge type | Colour | Capacity | Part number | Genuine or compatible |
+|---|---|---|---|---|---|
+| 5,500 pages at 5% coverage | Laser toner cartridge | Black | Standard capacity | CE400A | Genuine Original HP |
+
+## Genuine or compatible?
+Genuine, Original HP in the sealed box. Not a refill and not our Royal house brand. On enterprise colour machines this matters more than anywhere. These printers usually sit on a service contract or managed print agreement, and non-genuine consumables can put that arrangement in question. A rejected or leaking cartridge does not inconvenience one person here, it stops a department and can mean a service call on a machine worth many times the cartridge.
+
+## Why buy from Trinatech
+Enterprise-class stock held in the Nairobi CBD rather than ordered in on request.
+Countrywide courier delivery, Kisumu, Nakuru, Eldoret and Mombasa included.
+M-Pesa or bank transfer, with proper invoicing and LPO handling for corporate accounts.
+WhatsApp us the model number, or visit The One Mall on River Road.
+
+## Getting the most from this cartridge
+Rock the cartridge gently before fitting. These are heavy cartridges and toner settles during shipping.
+Order before you run out. On a shared machine nobody notices the warning until the queue has already stopped.
+Keep the printer's supply alerts switched on and check all four levels weekly rather than waiting for the panel.
+5,500 pages assumes 5% coverage. Reports with colour charts and branded headers will fall well short.
+
+## Frequently asked questions
+Is there a higher-yield version? Yes, HP 507X black holds considerably more and fits the same printers. On a busy machine it costs less per page.
+Do I need the colours too? Yes for colour printing. HP 507A cyan, yellow and magenta are sold separately.
+How fast is delivery? Same day within Nairobi, next working day to most towns.
+Can I return it? Yes, sealed and unused.
+Which cartridge suits a machine printing all day? Ask us to compare 507A and 507X against your monthly volume. On heavy use the larger cartridge usually wins clearly.`, "metaTitle": "HP 507A Black Toner Cartridge CE400A - Genuine HP Kenya", "metaDescription": "Genuine HP 507A black toner (CE400A), 5,500 pages, for HP LaserJet Enterprise 500 color M551 and MFP M575. Nairobi stock, countrywide delivery.", "inStock": true},
 ];

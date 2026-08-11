@@ -233,10 +233,150 @@ Do I need the black as well? Yes for normal document printing, and most of these
 How soon can I have it? Same day within Nairobi, next working day for most other towns.
 Can I return it? Yes, sealed and unused.
 Only the magenta has run out. Can it be replaced on its own? No. All three colours share a single cartridge that is replaced as one unit.`, "metaTitle": "HP 63 Tri-Colour Ink Cartridge F6U61AE - Genuine HP", "metaDescription": "Genuine HP 63 tri-colour ink (F6U61AE), about 165 pages, for DeskJet 2130, 3630, ENVY 4520 and OfficeJet 3830. Nairobi stock, countrywide.", "inStock": true},
-  {"id": 5080, "sku": "CE260A", "name": "HP 647A Black Toner Laserjet Original Catridge (CE260A)", "brand": "HP", "category": "HP Original Toners", "price": 18000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/HP-647A-Black-Toner-Laserjet-Original-Catridge-CE260A-scaled.webp", "imageFile": "HP-647A-Black-Toner-Laserjet-Original-Catridge-CE260A-scaled.webp", "description": "HP 647A BLACK TONER LASERJET ORIGINAL CATRIDGE (CE260A", "inStock": true},
-  {"id": 5079, "sku": "CE261A", "name": "HP 648A Cyan Toner Laserjet Original Catridge (CE261A)", "brand": "HP", "category": "HP Original Toners", "price": 18000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/HP-648A-Cyan-Toner-Laserjet-Original-Catridge-CE261A-scaled.webp", "imageFile": "HP-648A-Cyan-Toner-Laserjet-Original-Catridge-CE261A-scaled.webp", "description": "HP 648A CYAN TONER LASERJET ORIGINAL CATRIDGE (CE261A", "inStock": true},
-  {"id": 5078, "sku": "CE263A", "name": "HP 648A Magneta Toner Laserjet Original (CE263A)", "brand": "HP", "category": "HP Original Toners", "price": 18000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/HP-648A-Magneta-Toner-Laserjet-Original-CE263A-scaled.webp", "imageFile": "HP-648A-Magneta-Toner-Laserjet-Original-CE263A-scaled.webp", "description": "HP 648A MAGNETA TONER LASERJET ORIGINAL (CE263A", "inStock": true},
-  {"id": 5077, "sku": "CE262A", "name": "HP 648A Yellow Toner Laserjet Original Catridge (CE262A)", "brand": "HP", "category": "HP Original Toners", "price": 18000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/HP-648A-Yellow-Toner-Laserjet-Original-Catridge-CE262A-scaled.webp", "imageFile": "HP-648A-Yellow-Toner-Laserjet-Original-Catridge-CE262A-scaled.webp", "description": "HP 648A YELLOW TONER LASERJET ORIGINAL CATRIDGE (CE262A", "inStock": true},
+  {"id": 5080, "sku": "CE260A", "name": "HP 647A Black Toner Laserjet Original Catridge (CE260A)", "brand": "HP", "category": "HP Original Toners", "price": 18000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/HP-647A-Black-Toner-Laserjet-Original-Catridge-CE260A-scaled.webp", "imageFile": "HP-647A-Black-Toner-Laserjet-Original-Catridge-CE260A-scaled.webp", "description": `The HP 647A black toner cartridge is the genuine Original HP replacement, part number CE260A, for the HP Color LaserJet Enterprise CP4025 and CP4525 series. These are workgroup colour machines built for volume, and at 8,500 pages the black is sized for a department rather than a desk.
+
+## Compatible printers
+HP Color LaserJet Enterprise CP4025n Printer
+HP Color LaserJet Enterprise CP4025dn Printer
+HP Color LaserJet Enterprise CP4525n Printer
+HP Color LaserJet Enterprise CP4525dn Printer
+HP Color LaserJet Enterprise CP4525xh Printer
+If your model isn't listed, send us the number from the front of the machine and we'll confirm before you pay.
+
+## Specifications
+| Page yield | Cartridge type | Colour | Capacity | Part number | Genuine or compatible |
+|---|---|---|---|---|---|
+| 8,500 pages at 5% coverage (ISO/IEC 19798) | Laser toner cartridge | Black | Standard capacity | CE260A | Genuine Original HP |
+
+## Genuine or compatible?
+Genuine, Original HP in the sealed box. Not a refill and not our Royal house brand. These machines usually sit on a service contract or a managed print agreement, and non-genuine consumables can put that arrangement in question. A leaking or rejected cartridge here does not delay one person's document, it stops a workgroup and can mean a service call on a machine worth many times the cartridge.
+
+## Why buy from Trinatech
+Held in Nairobi CBD stock, including for colour lasers other suppliers have dropped.
+Countrywide courier delivery, Nakuru, Eldoret, Kisumu and Mombasa included.
+M-Pesa or bank transfer, with proper invoicing and LPO handling for corporate accounts.
+WhatsApp us the model number, or walk in to The One Mall on River Road.
+
+## Getting the most from this cartridge
+Rock the cartridge gently before fitting. These are large, heavy cartridges and toner settles in transit.
+Order before you run out. On a shared colour machine the low-toner warning tends to be ignored until the queue stops.
+Black empties before the colours on this range, which yield 11,000 against 8,500. Buying black on its own rather than as a set is usually the cheaper approach.
+8,500 pages assumes 5% coverage. Reports with shaded tables and branded headers will fall short of that.
+
+## Frequently asked questions
+Why is the black called 647A when the colours are 648A? That is simply how HP numbered this range. The black is 647A (CE260A) and the three colours are 648A (CE261A, CE262A, CE263A). They fit the same printers and are bought as a set.
+Is there a higher-yield version? Yes, HP 647X black is available. Note that the 647X fits the CP4525 but not the CP4025, so confirm your exact model with us first.
+How fast is delivery? Same day within Nairobi, next working day to most towns.
+Can I return it? Yes, sealed and unused.
+Will this fit a CM4540 MFP? Send us your model and we will confirm before you pay. Sources disagree on that machine and we would rather check than have you return a cartridge at this price.`, "metaTitle": "HP 647A Black Toner CE260A - Genuine HP Kenya", "metaDescription": "Genuine HP 647A black toner (CE260A), 8,500 pages, for HP Color LaserJet Enterprise CP4025 and CP4525. Nairobi stock, countrywide delivery.", "inStock": true},
+  {"id": 5079, "sku": "CE261A", "name": "HP 648A Cyan Toner Laserjet Original Catridge (CE261A)", "brand": "HP", "category": "HP Original Toners", "price": 18000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/HP-648A-Cyan-Toner-Laserjet-Original-Catridge-CE261A-scaled.webp", "imageFile": "HP-648A-Cyan-Toner-Laserjet-Original-Catridge-CE261A-scaled.webp", "description": `The HP 648A cyan toner cartridge is the genuine Original HP replacement, part number CE261A, for the HP Color LaserJet Enterprise CP4025 and CP4525 series. At 11,000 pages it is a workgroup colour cartridge, replaced individually so you buy only the colour that has actually run out.
+
+## Compatible printers
+HP Color LaserJet Enterprise CP4025n Printer
+HP Color LaserJet Enterprise CP4025dn Printer
+HP Color LaserJet Enterprise CP4525n Printer
+HP Color LaserJet Enterprise CP4525dn Printer
+HP Color LaserJet Enterprise CP4525xh Printer
+If your model isn't listed, send us the number from the front of the machine and we'll confirm before you pay.
+
+## Specifications
+| Page yield | Cartridge type | Colour | Capacity | Part number | Genuine or compatible |
+|---|---|---|---|---|---|
+| 11,000 pages at 5% coverage (ISO/IEC 19798) | Laser toner cartridge | Cyan | Standard capacity | CE261A | Genuine Original HP |
+
+## Genuine or compatible?
+Genuine, Original HP in the sealed box. Not a refill and not our Royal house brand, which we always sell under its own name. On a workgroup colour machine the four cartridges have to lay down consistently against each other for colours to come out right. One non-genuine cartridge with a slightly different pigment shifts every colour page, and on a machine printing thousands of pages a month you will have produced a great deal of work before anyone traces the fault.
+
+## Why buy from Trinatech
+Held in Nairobi CBD stock, including for colour lasers other suppliers have dropped.
+Countrywide courier delivery, Nakuru, Eldoret, Kisumu and Mombasa included.
+M-Pesa or bank transfer, with proper invoicing and LPO handling for corporate accounts.
+WhatsApp us the model number, or walk in to The One Mall on River Road.
+
+## Getting the most from this cartridge
+Rock the cartridge gently before fitting. These are heavy cartridges and toner settles during shipping.
+Handle it by the ends and keep the drum away from light and fingers.
+At 11,000 pages the colours outlast the black, which yields 8,500. Check all four levels before ordering rather than assuming they empty together.
+11,000 pages assumes 5% coverage of cyan specifically. Full-colour reports and marketing work will consume it considerably faster.
+
+## Frequently asked questions
+Why are the colours 648A when the black is 647A? That is how HP numbered this range. The three colours are 648A and the black is 647A (CE260A). They fit the same printers and are bought as a set.
+Do I need the other cartridges too? In time yes. The set is black CE260A at 8,500 pages, plus yellow CE262A and magenta CE263A at around 11,000 pages each.
+How fast is delivery? Same day within Nairobi, next working day to most towns.
+Can I return it? Yes, sealed and unused.
+Will this fit a CM4540 MFP? Send us your model and we will confirm before you pay. Sources disagree on that machine and we would rather check than have you return a cartridge at this price.`, "metaTitle": "HP 648A Cyan Toner CE261A - Genuine HP Kenya", "metaDescription": "Genuine HP 648A cyan toner (CE261A), 11,000 pages, for HP Color LaserJet Enterprise CP4025 and CP4525. Nairobi stock, countrywide delivery.", "inStock": true},
+  {"id": 5078, "sku": "CE263A", "name": "HP 648A Magneta Toner Laserjet Original (CE263A)", "brand": "HP", "category": "HP Original Toners", "price": 18000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/HP-648A-Magneta-Toner-Laserjet-Original-CE263A-scaled.webp", "imageFile": "HP-648A-Magneta-Toner-Laserjet-Original-CE263A-scaled.webp", "description": `The HP 648A magenta toner cartridge is the genuine Original HP replacement, part number CE263A, for the HP Color LaserJet Enterprise CP4025 and CP4525 series. At 11,000 pages it is a workgroup colour cartridge, replaced individually so you buy only the colour that has actually run out.
+
+## Compatible printers
+HP Color LaserJet Enterprise CP4025n Printer
+HP Color LaserJet Enterprise CP4025dn Printer
+HP Color LaserJet Enterprise CP4525n Printer
+HP Color LaserJet Enterprise CP4525dn Printer
+HP Color LaserJet Enterprise CP4525xh Printer
+If your model isn't listed, send us the number from the front of the machine and we'll confirm before you pay.
+
+## Specifications
+| Page yield | Cartridge type | Colour | Capacity | Part number | Genuine or compatible |
+|---|---|---|---|---|---|
+| 11,000 pages at 5% coverage (ISO/IEC 19798) | Laser toner cartridge | Magenta | Standard capacity | CE263A | Genuine Original HP |
+
+## Genuine or compatible?
+Genuine, Original HP in the sealed box. Not a refill and not our Royal house brand, which we always sell under its own name. On a workgroup colour machine the four cartridges have to lay down consistently against each other for colours to come out right. One non-genuine cartridge with a slightly different pigment shifts every colour page, and on a machine printing thousands of pages a month you will have produced a great deal of work before anyone traces the fault.
+
+## Why buy from Trinatech
+Held in Nairobi CBD stock, including for colour lasers other suppliers have dropped.
+Countrywide courier delivery, Nakuru, Eldoret, Kisumu and Mombasa included.
+M-Pesa or bank transfer, with proper invoicing and LPO handling for corporate accounts.
+WhatsApp us the model number, or walk in to The One Mall on River Road.
+
+## Getting the most from this cartridge
+Rock the cartridge gently before fitting. These are heavy cartridges and toner settles during shipping.
+Handle it by the ends and keep the drum away from light and fingers.
+At 11,000 pages the colours outlast the black, which yields 8,500. Check all four levels before ordering rather than assuming they empty together.
+11,000 pages assumes 5% coverage of magenta specifically. Full-colour reports and marketing work will consume it considerably faster.
+
+## Frequently asked questions
+Why are the colours 648A when the black is 647A? That is how HP numbered this range. The three colours are 648A and the black is 647A (CE260A). They fit the same printers and are bought as a set.
+Do I need the other cartridges too? In time yes. The set is black CE260A at 8,500 pages, plus cyan CE261A and yellow CE262A at around 11,000 pages each.
+How fast is delivery? Same day within Nairobi, next working day to most towns.
+Can I return it? Yes, sealed and unused.
+Will this fit a CM4540 MFP? Send us your model and we will confirm before you pay. Sources disagree on that machine and we would rather check than have you return a cartridge at this price.`, "metaTitle": "HP 648A Magenta Toner CE263A - Genuine HP Kenya", "metaDescription": "Genuine HP 648A magenta toner (CE263A), 11,000 pages, for HP Color LaserJet Enterprise CP4025 and CP4525. Nairobi stock, countrywide delivery.", "inStock": true},
+  {"id": 5077, "sku": "CE262A", "name": "HP 648A Yellow Toner Laserjet Original Catridge (CE262A)", "brand": "HP", "category": "HP Original Toners", "price": 18000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/HP-648A-Yellow-Toner-Laserjet-Original-Catridge-CE262A-scaled.webp", "imageFile": "HP-648A-Yellow-Toner-Laserjet-Original-Catridge-CE262A-scaled.webp", "description": `The HP 648A yellow toner cartridge is the genuine Original HP replacement, part number CE262A, for the HP Color LaserJet Enterprise CP4025 and CP4525 series. At 11,000 pages it is a workgroup colour cartridge, replaced individually so you buy only the colour that has actually run out.
+
+## Compatible printers
+HP Color LaserJet Enterprise CP4025n Printer
+HP Color LaserJet Enterprise CP4025dn Printer
+HP Color LaserJet Enterprise CP4525n Printer
+HP Color LaserJet Enterprise CP4525dn Printer
+HP Color LaserJet Enterprise CP4525xh Printer
+If your model isn't listed, send us the number from the front of the machine and we'll confirm before you pay.
+
+## Specifications
+| Page yield | Cartridge type | Colour | Capacity | Part number | Genuine or compatible |
+|---|---|---|---|---|---|
+| 11,000 pages at 5% coverage (ISO/IEC 19798) | Laser toner cartridge | Yellow | Standard capacity | CE262A | Genuine Original HP |
+
+## Genuine or compatible?
+Genuine, Original HP in the sealed box. Not a refill and not our Royal house brand, which we always sell under its own name. On a workgroup colour machine the four cartridges have to lay down consistently against each other for colours to come out right. One non-genuine cartridge with a slightly different pigment shifts every colour page, and on a machine printing thousands of pages a month you will have produced a great deal of work before anyone traces the fault.
+
+## Why buy from Trinatech
+Held in Nairobi CBD stock, including for colour lasers other suppliers have dropped.
+Countrywide courier delivery, Nakuru, Eldoret, Kisumu and Mombasa included.
+M-Pesa or bank transfer, with proper invoicing and LPO handling for corporate accounts.
+WhatsApp us the model number, or walk in to The One Mall on River Road.
+
+## Getting the most from this cartridge
+Rock the cartridge gently before fitting. These are heavy cartridges and toner settles during shipping.
+Handle it by the ends and keep the drum away from light and fingers.
+At 11,000 pages the colours outlast the black, which yields 8,500. Check all four levels before ordering rather than assuming they empty together.
+11,000 pages assumes 5% coverage of yellow specifically. Full-colour reports and marketing work will consume it considerably faster.
+
+## Frequently asked questions
+Why are the colours 648A when the black is 647A? That is how HP numbered this range. The three colours are 648A and the black is 647A (CE260A). They fit the same printers and are bought as a set.
+Do I need the other cartridges too? In time yes. The set is black CE260A at 8,500 pages, plus cyan CE261A and magenta CE263A at around 11,000 pages each.
+How fast is delivery? Same day within Nairobi, next working day to most towns.
+Can I return it? Yes, sealed and unused.
+Will this fit a CM4540 MFP? Send us your model and we will confirm before you pay. Sources disagree on that machine and we would rather check than have you return a cartridge at this price.`, "metaTitle": "HP 648A Yellow Toner CE262A - Genuine HP Kenya", "metaDescription": "Genuine HP 648A yellow toner (CE262A), 11,000 pages, for HP Color LaserJet Enterprise CP4025 and CP4525. Nairobi stock, countrywide delivery.", "inStock": true},
   {"id": 5076, "sku": "CC364A", "name": "HP 64A Black Toner Original Laserjet Cartridge (CC364A)", "brand": "HP", "category": "HP Original Toners", "price": 18000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/HP-64A-Black-Toner-Original-Laserjet-Cartridge-CC364A-scaled.webp", "imageFile": "HP-64A-Black-Toner-Original-Laserjet-Cartridge-CC364A-scaled.webp", "description": `The HP 64A black toner cartridge is the genuine Original HP replacement, part number CC364A, for the HP LaserJet P4014, P4015 and P4515 series. These are heavy-duty departmental mono lasers built for volume, and at 10,000 pages the cartridge matches the machine rather than holding it back.
 
 ## Compatible printers
@@ -367,8 +507,80 @@ HP Deskjet Ink Advantage 4515 e-All-in-One Printer
 HP Deskjet Ink Advantage 4645 e-All-in-One Printer
 If your model isn't listed, send us the number from the front of the machine and we'll confirm before you pay.
 `, "inStock": true},
-  {"id": 5075, "sku": "CE270A", "name": "HP 650A Black Toner Original Laserjet (CE270A)", "brand": "HP", "category": "HP Original Toners", "price": 22000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/HP-650A-Black-Toner-Original-Laserjet-CE270A-scaled.webp", "imageFile": "HP-650A-Black-Toner-Original-Laserjet-CE270A-scaled.webp", "description": "HP 650A BLACK TONER ORIGINAL LASERJET (CE270A", "inStock": true},
-  {"id": 5074, "sku": "CE271A", "name": "HP 650A Cyan Toner Original Laserjet (CE271A)", "brand": "HP", "category": "HP Original Toners", "price": 22000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/HP-650A-Cyan-Toner-Original-Laserjet-CE271A-scaled.webp", "imageFile": "HP-650A-Cyan-Toner-Original-Laserjet-CE271A-scaled.webp", "description": "HP 650A CYAN TONER ORIGINAL LASERJET (CE271A", "inStock": true},
+  {"id": 5075, "sku": "CE270A", "name": "HP 650A Black Toner Original Laserjet (CE270A)", "brand": "HP", "category": "HP Original Toners", "price": 22000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/HP-650A-Black-Toner-Original-Laserjet-CE270A-scaled.webp", "imageFile": "HP-650A-Black-Toner-Original-Laserjet-CE270A-scaled.webp", "description": `The HP 650A black toner cartridge is the genuine Original HP replacement, part number CE270A, for the HP Color LaserJet Enterprise CP5525 and M750 series. These are A3-capable production colour machines, and at 13,500 pages the black is sized for a print room rather than an office corner.
+
+## Compatible printers
+HP Color LaserJet Enterprise CP5525n Printer
+HP Color LaserJet Enterprise CP5525dn Printer
+HP Color LaserJet Enterprise CP5525xh Printer
+HP Color LaserJet Enterprise M750n Printer
+HP Color LaserJet Enterprise M750dn Printer
+HP Color LaserJet Enterprise M750xh Printer
+If your model isn't listed, send us the number from the front of the machine and we'll confirm before you pay.
+
+## Specifications
+| Page yield | Cartridge type | Colour | Capacity | Part number | Genuine or compatible |
+|---|---|---|---|---|---|
+| 13,500 pages at 5% coverage | Laser toner cartridge | Black | Standard capacity | CE270A | Genuine Original HP |
+
+## Genuine or compatible?
+Genuine, Original HP in the sealed box. Not a refill and not our Royal house brand. The CP5525 and M750 are production machines, usually the centre of a print room or a busy marketing department, and colour accuracy is the whole reason an organisation buys one. A single non-genuine cartridge with a different pigment shifts every page it touches, and at this yield you will have printed an enormous amount before anyone traces the fault back to the cartridge.
+
+## Why buy from Trinatech
+Held in Nairobi CBD stock, including for colour lasers other suppliers have dropped.
+Countrywide courier delivery, Nakuru, Eldoret, Kisumu and Mombasa included.
+M-Pesa or bank transfer, with proper invoicing and LPO handling for corporate accounts.
+WhatsApp us the model number, or walk in to The One Mall on River Road.
+
+## Getting the most from this cartridge
+Rock the cartridge gently before fitting. These are large, heavy cartridges and toner settles in transit.
+Order well before you run out. On a machine this central, an empty cartridge stops work for several people at once.
+Black empties before the colours here, which yield 15,000 against 13,500. Buying black singly rather than as a set is usually the cheaper approach.
+13,500 pages assumes 5% coverage. Heavy colour reports and marketing work will come in well under that.
+
+## Frequently asked questions
+Is there a higher-yield version? HP sells the 650A as a standard-capacity cartridge for this range. Ask us what else is available for your exact model.
+Do I need the colours too? Yes for colour printing. HP 650A cyan CE271A, yellow CE272A and magenta CE273A are sold separately at around 15,000 pages each.
+How fast is delivery? Same day within Nairobi where stock is held, otherwise we will confirm lead time when you order.
+Can I return it? Yes, sealed and unused.
+Will this fit an M750? Yes. The CP5525 and M750 series take the same 650A cartridges.`, "metaTitle": "HP 650A Black Toner CE270A - Genuine HP Kenya", "metaDescription": "Genuine HP 650A black toner (CE270A), 13,500 pages, for HP Color LaserJet Enterprise CP5525 and M750. Nairobi stock, delivered across Kenya.", "inStock": true},
+  {"id": 5074, "sku": "CE271A", "name": "HP 650A Cyan Toner Original Laserjet (CE271A)", "brand": "HP", "category": "HP Original Toners", "price": 22000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/HP-650A-Cyan-Toner-Original-Laserjet-CE271A-scaled.webp", "imageFile": "HP-650A-Cyan-Toner-Original-Laserjet-CE271A-scaled.webp", "description": `The HP 650A cyan toner cartridge is the genuine Original HP replacement, part number CE271A, for the HP Color LaserJet Enterprise CP5525 and M750 series. At 15,000 pages it is one of the largest colour cartridges in our range, made for A3 production printing.
+
+## Compatible printers
+HP Color LaserJet Enterprise CP5525n Printer
+HP Color LaserJet Enterprise CP5525dn Printer
+HP Color LaserJet Enterprise CP5525xh Printer
+HP Color LaserJet Enterprise M750n Printer
+HP Color LaserJet Enterprise M750dn Printer
+HP Color LaserJet Enterprise M750xh Printer
+If your model isn't listed, send us the number from the front of the machine and we'll confirm before you pay.
+
+## Specifications
+| Page yield | Cartridge type | Colour | Capacity | Part number | Genuine or compatible |
+|---|---|---|---|---|---|
+| 15,000 pages at 5% coverage | Laser toner cartridge | Cyan | Standard capacity | CE271A | Genuine Original HP |
+
+## Genuine or compatible?
+Genuine, Original HP in the sealed box. Not a refill and not our Royal house brand. The CP5525 and M750 are production machines, usually the centre of a print room or a busy marketing department, and colour accuracy is the whole reason an organisation buys one. A single non-genuine cartridge with a different pigment shifts every page it touches, and at this yield you will have printed an enormous amount before anyone traces the fault back to the cartridge.
+
+## Why buy from Trinatech
+Held in Nairobi CBD stock, including for colour lasers other suppliers have dropped.
+Countrywide courier delivery, Nakuru, Eldoret, Kisumu and Mombasa included.
+M-Pesa or bank transfer, with proper invoicing and LPO handling for corporate accounts.
+WhatsApp us the model number, or walk in to The One Mall on River Road.
+
+## Getting the most from this cartridge
+Rock the cartridge gently before fitting. These are heavy cartridges and toner settles during shipping.
+Handle it by the ends and keep the drum away from light and fingers.
+At 15,000 pages the cyan outlasts the black, which yields 13,500. Check all four levels before ordering rather than assuming they empty together.
+15,000 pages assumes 5% coverage of cyan specifically. Full-bleed marketing work will consume it far faster.
+
+## Frequently asked questions
+Is there a higher-yield version? HP sells the 650A as a standard-capacity cartridge for this range. Ask us what else is available for your exact model.
+Do I need the other cartridges too? In time yes. The set is black CE270A at 13,500 pages, plus yellow CE272A and magenta CE273A at around 15,000 pages each.
+How fast is delivery? Same day within Nairobi where stock is held, otherwise we will confirm lead time when you order.
+Can I return it? Yes, sealed and unused.
+Will this fit an M750? Yes. The CP5525 and M750 series take the same 650A cartridges.`, "metaTitle": "HP 650A Cyan Toner CE271A - Genuine HP Kenya", "metaDescription": "Genuine HP 650A cyan toner (CE271A), 15,000 pages, for HP Color LaserJet Enterprise CP5525 and M750. Nairobi stock, delivered across Kenya.", "inStock": true},
   {"id": 5073, "sku": "CE273A", "name": "HP 650A Magneta Toner Original Laserjet (CE273A)", "brand": "HP", "category": "HP Original Toners", "price": 22000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/HP-650A-Magneta-Toner-Original-Laserjet-CE273A-scaled.webp", "imageFile": "HP-650A-Magneta-Toner-Original-Laserjet-CE273A-scaled.webp", "description": "HP 650A MAGNETA TONER ORIGINAL LASERJET (CE273A", "inStock": true},
   {"id": 5072, "sku": "CE272A", "name": "HP 650A Yellow Toner Original Laserjet (CE272A)", "brand": "HP", "category": "HP Original Toners", "price": 22000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/HP-650A-Yellow-Toner-Original-Laserjet-CE272A-scaled.webp", "imageFile": "HP-650A-Yellow-Toner-Original-Laserjet-CE272A-scaled.webp", "description": "HP 650A YELLOW TONER ORIGINAL LASERJET (CE272A", "inStock": true},
   {"id": 5482, "sku": null, "name": "HP 651 Tri Color Ink Cartridge (C2P11AE)", "brand": "HP", "category": "Original Hp Ink Cartridges", "price": 3200, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/HP-651-Tri-Color-Ink-Cartridge-C2P11AE.webp", "imageFile": "HP-651-Tri-Color-Ink-Cartridge-C2P11AE.webp", "description": "HP 651 TRI COLOR INK CARTRIDGE (C2P11AE", "inStock": true},

@@ -200,7 +200,46 @@ Do I need the other cartridges too? In time yes. The set is black CF360A at 6,00
 How fast is delivery? Same day within Nairobi, next working day to most towns.
 Can I return it? Yes, sealed and unused.
 Will the printer stop if one cartridge runs out? On most of these models yes, even for a black-only job, so watch all four levels.`, "metaTitle": "HP 508A Cyan Toner CF361A - Genuine HP Kenya", "metaDescription": "Genuine HP 508A cyan toner (CF361A), 5,000 pages, for HP Color LaserJet Enterprise M552, M553 and MFP M577. Nairobi stock, countrywide delivery.", "inStock": true},
-  {"id": 5087, "sku": "CF363A", "name": "HP 508A Magneta Toner Laserjet Cartridge (CF363A)", "brand": "HP", "category": "HP Original Toners", "price": 19000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/HP-508A-Magneta-Toner-Laserjet-Cartridge-CF363A-scaled.webp", "imageFile": "HP-508A-Magneta-Toner-Laserjet-Cartridge-CF363A-scaled.webp", "description": "HP 508A MAGNETA TONER LASERJET CARTRIDGE (CF363A", "inStock": true},
+  {"id": 5087, "sku": "CF363A", "name": "HP 508A Magneta Toner Laserjet Cartridge (CF363A)", "brand": "HP", "category": "HP Original Toners", "price": 19000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/HP-508A-Magneta-Toner-Laserjet-Cartridge-CF363A-scaled.webp", "imageFile": "HP-508A-Magneta-Toner-Laserjet-Cartridge-CF363A-scaled.webp", "description": `The HP 508A magenta toner cartridge is the genuine Original HP replacement, part number CF363A, for the HP Color LaserJet Enterprise M552 and M553 series and the MFP M577. At 5,000 pages it is a departmental colour cartridge, replaced individually so you buy only what has actually run out.
+
+## Compatible printers
+HP Color LaserJet Enterprise M552dn Printer
+HP Color LaserJet Enterprise M553n Printer
+HP Color LaserJet Enterprise M553dn Printer
+HP Color LaserJet Enterprise M553dh Printer
+HP Color LaserJet Enterprise M553x Printer
+HP Color LaserJet Enterprise MFP M577dn
+HP Color LaserJet Enterprise MFP M577f
+HP Color LaserJet Enterprise Flow MFP M577c
+HP Color LaserJet Enterprise Flow MFP M577z
+If your model isn't listed, send us the number from the front of the machine and we'll confirm before you pay.
+
+## Specifications
+| Page yield | Cartridge type | Colour | Capacity | Part number | Genuine or compatible |
+|---|---|---|---|---|---|
+| 5,000 pages at 5% coverage | Laser toner cartridge | Magenta | Standard capacity | CF363A | Genuine Original HP |
+
+## Genuine or compatible?
+Genuine, Original HP in the sealed box. Not a refill and not our Royal house brand, which we always sell as Royal. Magenta is the cartridge where non-genuine toner shows up fastest, because skin tones, reds and purples all depend on it sitting correctly against the cyan and yellow. These enterprise printers also carry HP's anti-fraud technology, so a non-genuine cartridge may be rejected outright rather than merely printing badly, and they usually sit on service contracts where that matters.
+
+## Why buy from Trinatech
+Enterprise-class stock held in the Nairobi CBD rather than ordered in on request.
+Countrywide courier delivery, Nakuru, Eldoret, Kisumu and Mombasa included.
+M-Pesa or bank transfer, with proper invoicing and LPO handling for corporate accounts.
+WhatsApp us the model number, or visit The One Mall on River Road.
+
+## Getting the most from this cartridge
+Rock the cartridge gently before fitting. These are large cartridges and toner settles during shipping.
+Handle it by the ends and keep the drum away from light and fingers.
+Order before you run out. On a shared enterprise machine an empty cartridge stops a department, and nobody notices the warning until then.
+5,000 pages assumes 5% coverage of magenta specifically. Reports with colour charts and branded headers will come in under that.
+
+## Frequently asked questions
+Is there a higher-yield version? Yes. HP 508X fits the same printers and holds considerably more toner, which costs less per page on a busy machine.
+Do I need the other cartridges too? In time yes. The set is black CF360A at 6,000 pages, plus cyan CF361A and yellow CF362A at around 5,000 pages each.
+How fast is delivery? Same day within Nairobi, next working day to most towns.
+Can I return it? Yes, sealed and unused.
+Will the printer stop if one cartridge runs out? On most of these models yes, even for a black-only job, so watch all four levels.`, "metaTitle": "HP 508A Magenta Toner CF363A - Genuine HP Kenya", "metaDescription": "Genuine HP 508A magenta toner (CF363A), 5,000 pages, for HP Color LaserJet Enterprise M552, M553 and MFP M577. Nairobi stock, countrywide delivery.", "inStock": true},
   {"id": 5086, "sku": "CF362A", "name": "HP 508A Yellow Toner Laserjet Cartridge (CF362A)", "brand": "HP", "category": "HP Original Toners", "price": 19000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/HP-508A-Yellow-Toner-Laserjet-Cartridge-CF362A-scaled.webp", "imageFile": "HP-508A-Yellow-Toner-Laserjet-Cartridge-CF362A-scaled.webp", "description": `The HP 508A yellow toner cartridge is the genuine Original HP replacement, part number CF362A, for the HP Color LaserJet Enterprise M552 and M553 series and the MFP M577. At 5,000 pages it is a departmental colour cartridge, replaced individually so you buy only what has actually run out.
 
 ## Compatible printers

@@ -1310,9 +1310,117 @@ How fast is delivery? Same day within Nairobi, next working day to most towns.
 Can I return it? Yes, sealed and unused.
 Will the printer keep going if a colour is empty? Usually not, even for black-only work, so watch all four levels rather than just the black.`, "metaTitle": "HP 201A Black Toner Cartridge CF400A - Genuine HP Kenya", "metaDescription": "Genuine HP 201A black toner (CF400A), about 1,500 pages, for HP Color LaserJet Pro M252 and MFP M277 series. Nairobi stock, delivered Kenya-wide.", "inStock": true},
   {"id": 5144, "sku": "CF400A", "name": "HP 201A Black Toner Laserjet (CF400A)", "brand": "HP", "category": "HP Original Toners", "price": 7500, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/HP-201A-Black-Toner-Laserjet-CF400A-scaled.webp", "imageFile": "HP-201A-Black-Toner-Laserjet-CF400A-scaled.webp", "description": "HP 201A BLACK TONER LASERJET (CF400A", "inStock": true},
-  {"id": 5143, "sku": "CF401A", "name": "HP 201A Cyan Toner Laserjet (CF401A)", "brand": "HP", "category": "HP Original Toners", "price": 8500, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/HP-201A-Cyan-Toner-Laserjet-CF401A-scaled.webp", "imageFile": "HP-201A-Cyan-Toner-Laserjet-CF401A-scaled.webp", "description": "HP 201A CYAN TONER LASERJET (CF401A", "inStock": true},
-  {"id": 5142, "sku": "CF403A", "name": "HP 201A Magneta Toner Laserjet (CF403A)", "brand": "HP", "category": "HP Original Toners", "price": 7500, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/HP-201A-Magneta-Toner-Laserjet-CF403A-scaled.webp", "imageFile": "HP-201A-Magneta-Toner-Laserjet-CF403A-scaled.webp", "description": "HP 201A MAGNETA TONER LASERJET (CF403A", "inStock": true},
-  {"id": 5141, "sku": "CF402A", "name": "HP 201A Yellow Toner Laserjet (CF402A)", "brand": "HP", "category": "HP Original Toners", "price": 7500, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/HP-201A-Yellow-Toner-Laserjet-CF402A-scaled.webp", "imageFile": "HP-201A-Yellow-Toner-Laserjet-CF402A-scaled.webp", "description": "HP 201A YELLOW TONER LASERJET (CF402A", "inStock": true},
+  {"id": 5143, "sku": "CF401A", "name": "HP 201A Cyan Toner Laserjet (CF401A)", "brand": "HP", "category": "HP Original Toners", "price": 8500, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/HP-201A-Cyan-Toner-Laserjet-CF401A-scaled.webp", "imageFile": "HP-201A-Cyan-Toner-Laserjet-CF401A-scaled.webp", "description": `The HP 201A cyan toner cartridge is the genuine Original HP replacement, part number CF401A, for the HP Color LaserJet Pro M252 and MFP M277 series. It is one of three colour cartridges in these machines and is replaced individually, so you buy only the colour that has actually run out rather than a whole set.
+
+## Compatible printers
+HP Color LaserJet Pro M252n Printer
+HP Color LaserJet Pro M252dw Printer
+HP Color LaserJet Pro MFP M274n
+HP Color LaserJet Pro MFP M277n
+HP Color LaserJet Pro MFP M277dw
+HP Color LaserJet Pro MFP M277c6
+If your model isn't listed, send us the number from the front of the machine and we'll confirm before you pay.
+
+## Specifications
+| Page yield | Cartridge type | Colour | Capacity | Part number | Genuine or compatible |
+|---|---|---|---|---|---|
+| 1,400 pages at 5% coverage (ISO/IEC 19798) | Laser toner cartridge | Cyan | Standard capacity | CF401A | Genuine Original HP |
+
+## Genuine or compatible?
+Genuine, Original HP in the sealed box. Not a refill and not our Royal house brand, which we always sell as Royal. Colour matching is where non-genuine toner shows itself fastest on a four-cartridge machine. If one cartridge uses a slightly different pigment, greens and greys shift across every page and the cause is hard to trace back to a single cartridge. Mixing genuine and compatible cartridges in a colour laser is the most common source of colour complaints we see at the counter. These printers also carry HP's anti-fraud chip, so a non-genuine cartridge may be rejected outright rather than merely printing badly.
+
+## Why buy from Trinatech
+Held in Nairobi CBD stock, including for machines other suppliers have dropped.
+Countrywide courier delivery, Nakuru, Eldoret, Kisumu and Mombasa included.
+M-Pesa or bank transfer, with proper invoicing for business accounts.
+WhatsApp us the model number, or walk in to The One Mall on River Road.
+
+## Getting the most from this cartridge
+Rock the cartridge gently before installing and handle it by the ends so the drum stays clean.
+Store spares boxed and upright, away from heat and direct sunlight. Light degrades the drum coating on a colour laser cartridge.
+Buy singly rather than as a set. On a four-cartridge machine that is where the running cost advantage comes from, and yellow in particular often has months left when the cyan runs dry.
+1,400 pages assumes 5% coverage of cyan specifically. Presentations with shaded backgrounds and full-colour graphics will consume it considerably faster.
+
+## Frequently asked questions
+Is there a higher-yield version? Yes, HP 201X fits the same printers in all four colours and holds considerably more toner.
+Do I need the other cartridges too? In time yes. The set is black CF400A at around 1,500 pages, plus yellow CF402A and magenta CF403A at 1,400 pages each.
+How fast is delivery? Same day within Nairobi, next working day upcountry.
+Can I return it? Yes, sealed and unused.
+Will the printer stop if one cartridge runs out? On most of these models yes, even for a black-only job, so watch all four levels.`, "metaTitle": "HP 201A Cyan Toner CF401A - Genuine HP Kenya", "metaDescription": "Genuine HP 201A cyan toner (CF401A), 1,400 pages, for HP Color LaserJet Pro M252 and MFP M274, M277. Nairobi stock, delivered across Kenya.", "inStock": true},
+  {"id": 5142, "sku": "CF403A", "name": "HP 201A Magneta Toner Laserjet (CF403A)", "brand": "HP", "category": "HP Original Toners", "price": 7500, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/HP-201A-Magneta-Toner-Laserjet-CF403A-scaled.webp", "imageFile": "HP-201A-Magneta-Toner-Laserjet-CF403A-scaled.webp", "description": `The HP 201A magenta toner cartridge is the genuine Original HP replacement, part number CF403A, for the HP Color LaserJet Pro M252 and MFP M277 series. It is one of three colour cartridges in these machines and is replaced individually, so you buy only the colour that has actually run out rather than a whole set.
+
+## Compatible printers
+HP Color LaserJet Pro M252n Printer
+HP Color LaserJet Pro M252dw Printer
+HP Color LaserJet Pro MFP M274n
+HP Color LaserJet Pro MFP M277n
+HP Color LaserJet Pro MFP M277dw
+HP Color LaserJet Pro MFP M277c6
+If your model isn't listed, send us the number from the front of the machine and we'll confirm before you pay.
+
+## Specifications
+| Page yield | Cartridge type | Colour | Capacity | Part number | Genuine or compatible |
+|---|---|---|---|---|---|
+| 1,400 pages at 5% coverage (ISO/IEC 19798) | Laser toner cartridge | Magenta | Standard capacity | CF403A | Genuine Original HP |
+
+## Genuine or compatible?
+Genuine, Original HP in the sealed box. Not a refill and not our Royal house brand, which we always sell as Royal. Colour matching is where non-genuine toner shows itself fastest on a four-cartridge machine. If one cartridge uses a slightly different pigment, greens and greys shift across every page and the cause is hard to trace back to a single cartridge. Mixing genuine and compatible cartridges in a colour laser is the most common source of colour complaints we see at the counter. These printers also carry HP's anti-fraud chip, so a non-genuine cartridge may be rejected outright rather than merely printing badly.
+
+## Why buy from Trinatech
+Held in Nairobi CBD stock, including for machines other suppliers have dropped.
+Countrywide courier delivery, Nakuru, Eldoret, Kisumu and Mombasa included.
+M-Pesa or bank transfer, with proper invoicing for business accounts.
+WhatsApp us the model number, or walk in to The One Mall on River Road.
+
+## Getting the most from this cartridge
+Rock the cartridge gently before installing and handle it by the ends so the drum stays clean.
+Store spares boxed and upright, away from heat and direct sunlight. Light degrades the drum coating on a colour laser cartridge.
+Buy singly rather than as a set. On a four-cartridge machine that is where the running cost advantage comes from, and yellow in particular often has months left when the cyan runs dry.
+1,400 pages assumes 5% coverage of magenta specifically. Presentations with shaded backgrounds and full-colour graphics will consume it considerably faster.
+
+## Frequently asked questions
+Is there a higher-yield version? Yes, HP 201X fits the same printers in all four colours and holds considerably more toner.
+Do I need the other cartridges too? In time yes. The set is black CF400A at around 1,500 pages, plus cyan CF401A and yellow CF402A at 1,400 pages each.
+How fast is delivery? Same day within Nairobi, next working day upcountry.
+Can I return it? Yes, sealed and unused.
+Will the printer stop if one cartridge runs out? On most of these models yes, even for a black-only job, so watch all four levels.`, "metaTitle": "HP 201A Magenta Toner CF403A - Genuine HP Kenya", "metaDescription": "Genuine HP 201A magenta toner (CF403A), 1,400 pages, for HP Color LaserJet Pro M252 and MFP M274, M277. Nairobi stock, delivered across Kenya.", "inStock": true},
+  {"id": 5141, "sku": "CF402A", "name": "HP 201A Yellow Toner Laserjet (CF402A)", "brand": "HP", "category": "HP Original Toners", "price": 7500, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/HP-201A-Yellow-Toner-Laserjet-CF402A-scaled.webp", "imageFile": "HP-201A-Yellow-Toner-Laserjet-CF402A-scaled.webp", "description": `The HP 201A yellow toner cartridge is the genuine Original HP replacement, part number CF402A, for the HP Color LaserJet Pro M252 and MFP M277 series. It is one of three colour cartridges in these machines and is replaced individually, so you buy only the colour that has actually run out rather than a whole set.
+
+## Compatible printers
+HP Color LaserJet Pro M252n Printer
+HP Color LaserJet Pro M252dw Printer
+HP Color LaserJet Pro MFP M274n
+HP Color LaserJet Pro MFP M277n
+HP Color LaserJet Pro MFP M277dw
+HP Color LaserJet Pro MFP M277c6
+If your model isn't listed, send us the number from the front of the machine and we'll confirm before you pay.
+
+## Specifications
+| Page yield | Cartridge type | Colour | Capacity | Part number | Genuine or compatible |
+|---|---|---|---|---|---|
+| 1,400 pages at 5% coverage (ISO/IEC 19798) | Laser toner cartridge | Yellow | Standard capacity | CF402A | Genuine Original HP |
+
+## Genuine or compatible?
+Genuine, Original HP in the sealed box. Not a refill and not our Royal house brand, which we always sell as Royal. Colour matching is where non-genuine toner shows itself fastest on a four-cartridge machine. If one cartridge uses a slightly different pigment, greens and greys shift across every page and the cause is hard to trace back to a single cartridge. Mixing genuine and compatible cartridges in a colour laser is the most common source of colour complaints we see at the counter. These printers also carry HP's anti-fraud chip, so a non-genuine cartridge may be rejected outright rather than merely printing badly.
+
+## Why buy from Trinatech
+Held in Nairobi CBD stock, including for machines other suppliers have dropped.
+Countrywide courier delivery, Nakuru, Eldoret, Kisumu and Mombasa included.
+M-Pesa or bank transfer, with proper invoicing for business accounts.
+WhatsApp us the model number, or walk in to The One Mall on River Road.
+
+## Getting the most from this cartridge
+Rock the cartridge gently before installing and handle it by the ends so the drum stays clean.
+Store spares boxed and upright, away from heat and direct sunlight. Light degrades the drum coating on a colour laser cartridge.
+Buy singly rather than as a set. On a four-cartridge machine that is where the running cost advantage comes from, and yellow in particular often has months left when the cyan runs dry.
+1,400 pages assumes 5% coverage of yellow specifically. Presentations with shaded backgrounds and full-colour graphics will consume it considerably faster.
+
+## Frequently asked questions
+Is there a higher-yield version? Yes, HP 201X fits the same printers in all four colours and holds considerably more toner.
+Do I need the other cartridges too? In time yes. The set is black CF400A at around 1,500 pages, plus cyan CF401A and magenta CF403A at 1,400 pages each.
+How fast is delivery? Same day within Nairobi, next working day upcountry.
+Can I return it? Yes, sealed and unused.
+Will the printer stop if one cartridge runs out? On most of these models yes, even for a black-only job, so watch all four levels.`, "metaTitle": "HP 201A Yellow Toner CF402A - Genuine HP Kenya", "metaDescription": "Genuine HP 201A yellow toner (CF402A), 1,400 pages, for HP Color LaserJet Pro M252 and MFP M274, M277. Nairobi stock, delivered across Kenya.", "inStock": true},
   {"id": 4799, "sku": null, "name": "HP 203A Black Original Laserjet Toner Cartridge", "brand": "HP", "category": "Inks & Toner Cartridges", "price": 7500, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2025/07/HP-203A-Black-Original-Toner.png", "imageFile": "HP-203A-Black-Original-Toner.png", "description": `The HP 203A black toner cartridge is the genuine Original HP replacement, part number CF540A, for the HP Color LaserJet Pro M254 and MFP M281 series. These sit a generation on from the M252 range and are among the more common colour lasers in Kenyan offices today.
 
 ## Compatible printers
@@ -2213,10 +2321,142 @@ Do I need the colours too? Yes for colour printing. HP 312A cyan CF381A, yellow 
 How soon can I get it? Same day within Nairobi, next working day upcountry.
 Can I return it? Yes, sealed and unused.
 Will the printer stop if a colour runs out? On most of these models yes, even for a black-only job, so watch all four levels.`, "metaTitle": "HP 312A Black Toner Cartridge CF380A - Genuine HP Kenya", "metaDescription": "Genuine HP 312A black toner (CF380A), about 2,400 pages, for HP Color LaserJet Pro MFP M476dn, M476dw and M476nw. Nairobi stock, delivered Kenya-wide.", "inStock": true},
-  {"id": 5115, "sku": "CF380A", "name": "HP 312A Black Toner Original Laserjet Catridge (CF380A)", "brand": "HP", "category": "HP Original Toners", "price": 8000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/HP-312A-Black-Toner-Original-Laserjet-Catridge-CF380A-scaled.webp", "imageFile": "HP-312A-Black-Toner-Original-Laserjet-Catridge-CF380A-scaled.webp", "description": "HP 312A BLACK TONER ORIGINAL LASERJET CATRIDGE (CF380A", "inStock": true},
-  {"id": 5114, "sku": "CF381A", "name": "HP 312A Cyan Toner Original Laserjet Catridge (CF381A)", "brand": "HP", "category": "HP Original Toners", "price": 8000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/HP-312A-Cyan-Toner-Original-Laserjet-Catridge-CF381A-scaled.webp", "imageFile": "HP-312A-Cyan-Toner-Original-Laserjet-Catridge-CF381A-scaled.webp", "description": "HP 312A CYAN TONER ORIGINAL LASERJET CATRIDGE (CF381A", "inStock": true},
-  {"id": 5113, "sku": "CF383A", "name": "HP 312A Magneta Toner Original Laserjet (CF383A)", "brand": "HP", "category": "HP Original Toners", "price": 8000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/HP-312A-Magneta-Toner-Original-Laserjet-CF383A-scaled.webp", "imageFile": "HP-312A-Magneta-Toner-Original-Laserjet-CF383A-scaled.webp", "description": "HP 312A MAGNETA TONER ORIGINAL LASERJET (CF383A", "inStock": true},
-  {"id": 5112, "sku": "CF382A", "name": "HP 312A Yellow Toner Original Laserjet (CF382A)", "brand": "HP", "category": "HP Original Toners", "price": 8000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/HP-312A-Yellow-Toner-Original-Laserjet-CF382A-scaled.webp", "imageFile": "HP-312A-Yellow-Toner-Original-Laserjet-CF382A-scaled.webp", "description": "HP 312A YELLOW TONER ORIGINAL LASERJET (CF382A", "inStock": true},
+  {"id": 5115, "sku": "CF380A", "name": "HP 312A Black Toner Original Laserjet Catridge (CF380A)", "brand": "HP", "category": "HP Original Toners", "price": 8000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/HP-312A-Black-Toner-Original-Laserjet-Catridge-CF380A-scaled.webp", "imageFile": "HP-312A-Black-Toner-Original-Laserjet-Catridge-CF380A-scaled.webp", "description": `The HP 312A black toner cartridge is the genuine Original HP replacement, part number CF380A, for the HP Color LaserJet Pro MFP M476 series. These are all-in-one colour lasers built for a small office that needs scanning and copying alongside proper colour output. Because the machine also handles copying, the cartridges run down faster than the print counter alone suggests.
+
+## Compatible printers
+HP Color LaserJet Pro MFP M476dn
+HP Color LaserJet Pro MFP M476dw
+HP Color LaserJet Pro MFP M476nw
+If your model isn't listed, send us the number from the front of the machine and we'll confirm before you pay.
+
+## Specifications
+| Page yield | Cartridge type | Colour | Capacity | Part number | Genuine or compatible |
+|---|---|---|---|---|---|
+| 2,400 pages at 5% coverage | Laser toner cartridge | Black | Standard capacity | CF380A | Genuine Original HP |
+
+## Genuine or compatible?
+Genuine, Original HP in the sealed box. Not a refill and not our Royal house brand, which we sell openly under its own name. On a four-cartridge colour machine the black does most of the work and gets replaced most often, which is where the temptation to economise sits. The catch is that a black which fuses differently from the three colours beside it shows as a dull or patchy finish on any mixed page.
+
+## Why buy from Trinatech
+Held in Nairobi CBD stock, including for machines other suppliers have dropped.
+Countrywide courier delivery, Nakuru, Eldoret, Kisumu and Mombasa included.
+M-Pesa or bank transfer, with proper invoicing for business accounts.
+WhatsApp us the model number, or walk in to The One Mall on River Road.
+
+## Getting the most from this cartridge
+Rock the cartridge gently before installing and keep your fingers off the drum surface underneath.
+Store spares boxed and upright, away from heat and direct sunlight. Light degrades the drum coating on a colour laser cartridge.
+Replace only what is empty. On a four-cartridge machine that is where the running cost advantage comes from.
+2,400 pages assumes 5% coverage. Presentations with shaded backgrounds and colour headers will bring that down noticeably.
+
+## Frequently asked questions
+Is there a higher-yield version? Yes, HP 312X black holds considerably more toner and fits the same printers. The colours are sold as standard capacity only.
+Do I need the other cartridges too? In time yes. The set is cyan CF381A, yellow CF382A and magenta CF383A at around 2,700 pages each.
+How fast is delivery? Same day within Nairobi, next working day upcountry.
+Can I return it? Yes, sealed and unused.
+Will the printer stop if one cartridge runs out? On most of these models yes, even for a black-only job, so watch all four levels.`, "metaTitle": "HP 312A Black Toner CF380A - Genuine HP Kenya", "metaDescription": "Genuine HP 312A black toner (CF380A), 2,400 pages, for HP Color LaserJet Pro MFP M476dn, M476dw and M476nw. Nairobi stock, delivered across Kenya.", "inStock": true},
+  {"id": 5114, "sku": "CF381A", "name": "HP 312A Cyan Toner Original Laserjet Catridge (CF381A)", "brand": "HP", "category": "HP Original Toners", "price": 8000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/HP-312A-Cyan-Toner-Original-Laserjet-Catridge-CF381A-scaled.webp", "imageFile": "HP-312A-Cyan-Toner-Original-Laserjet-Catridge-CF381A-scaled.webp", "description": `The HP 312A cyan toner cartridge is the genuine Original HP replacement, part number CF381A, for the HP Color LaserJet Pro MFP M476 series. These are all-in-one colour lasers built for a small office that needs scanning and copying alongside proper colour output. Because the machine also handles copying, the cartridges run down faster than the print counter alone suggests.
+
+## Compatible printers
+HP Color LaserJet Pro MFP M476dn
+HP Color LaserJet Pro MFP M476dw
+HP Color LaserJet Pro MFP M476nw
+If your model isn't listed, send us the number from the front of the machine and we'll confirm before you pay.
+
+## Specifications
+| Page yield | Cartridge type | Colour | Capacity | Part number | Genuine or compatible |
+|---|---|---|---|---|---|
+| 2,700 pages at 5% coverage | Laser toner cartridge | Cyan | Standard capacity | CF381A | Genuine Original HP |
+
+## Genuine or compatible?
+Genuine, Original HP in the sealed box. Not a refill and not our Royal house brand, which we always sell as Royal. Colour matching is where non-genuine toner shows itself fastest on a four-cartridge machine. If one cartridge uses a slightly different pigment, greens and greys shift across every page and the cause is hard to trace back to a single cartridge. Mixing genuine and compatible cartridges in a colour laser is the most common source of colour complaints we see at the counter.
+
+## Why buy from Trinatech
+Held in Nairobi CBD stock, including for machines other suppliers have dropped.
+Countrywide courier delivery, Nakuru, Eldoret, Kisumu and Mombasa included.
+M-Pesa or bank transfer, with proper invoicing for business accounts.
+WhatsApp us the model number, or walk in to The One Mall on River Road.
+
+## Getting the most from this cartridge
+Rock the cartridge gently before installing and keep your fingers off the drum surface underneath.
+Store spares boxed and upright, away from heat and direct sunlight. Light degrades the drum coating on a colour laser cartridge.
+At 2,700 pages the colours outlast the black, which yields 2,400. Check all four levels before ordering rather than assuming they empty together.
+2,700 pages assumes 5% coverage. Presentations with shaded backgrounds and colour headers will bring that down noticeably.
+
+## Frequently asked questions
+Is there a higher-yield version? Yes, HP 312X black holds considerably more toner and fits the same printers. The colours are sold as standard capacity only.
+Do I need the other cartridges too? In time yes. The set is black CF380A at 2,400 pages, plus yellow CF382A and magenta CF383A at around 2,700 pages each.
+How fast is delivery? Same day within Nairobi, next working day upcountry.
+Can I return it? Yes, sealed and unused.
+Will the printer stop if one cartridge runs out? On most of these models yes, even for a black-only job, so watch all four levels.`, "metaTitle": "HP 312A Cyan Toner CF381A - Genuine HP Kenya", "metaDescription": "Genuine HP 312A cyan toner (CF381A), 2,700 pages, for HP Color LaserJet Pro MFP M476dn, M476dw and M476nw. Nairobi stock, delivered across Kenya.", "inStock": true},
+  {"id": 5113, "sku": "CF383A", "name": "HP 312A Magneta Toner Original Laserjet (CF383A)", "brand": "HP", "category": "HP Original Toners", "price": 8000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/HP-312A-Magneta-Toner-Original-Laserjet-CF383A-scaled.webp", "imageFile": "HP-312A-Magneta-Toner-Original-Laserjet-CF383A-scaled.webp", "description": `The HP 312A magenta toner cartridge is the genuine Original HP replacement, part number CF383A, for the HP Color LaserJet Pro MFP M476 series. These are all-in-one colour lasers built for a small office that needs scanning and copying alongside proper colour output. Because the machine also handles copying, the cartridges run down faster than the print counter alone suggests.
+
+## Compatible printers
+HP Color LaserJet Pro MFP M476dn
+HP Color LaserJet Pro MFP M476dw
+HP Color LaserJet Pro MFP M476nw
+If your model isn't listed, send us the number from the front of the machine and we'll confirm before you pay.
+
+## Specifications
+| Page yield | Cartridge type | Colour | Capacity | Part number | Genuine or compatible |
+|---|---|---|---|---|---|
+| 2,700 pages at 5% coverage | Laser toner cartridge | Magenta | Standard capacity | CF383A | Genuine Original HP |
+
+## Genuine or compatible?
+Genuine, Original HP in the sealed box. Not a refill and not our Royal house brand, which we always sell as Royal. Colour matching is where non-genuine toner shows itself fastest on a four-cartridge machine. If one cartridge uses a slightly different pigment, greens and greys shift across every page and the cause is hard to trace back to a single cartridge. Mixing genuine and compatible cartridges in a colour laser is the most common source of colour complaints we see at the counter.
+
+## Why buy from Trinatech
+Held in Nairobi CBD stock, including for machines other suppliers have dropped.
+Countrywide courier delivery, Nakuru, Eldoret, Kisumu and Mombasa included.
+M-Pesa or bank transfer, with proper invoicing for business accounts.
+WhatsApp us the model number, or walk in to The One Mall on River Road.
+
+## Getting the most from this cartridge
+Rock the cartridge gently before installing and keep your fingers off the drum surface underneath.
+Store spares boxed and upright, away from heat and direct sunlight. Light degrades the drum coating on a colour laser cartridge.
+At 2,700 pages the colours outlast the black, which yields 2,400. Check all four levels before ordering rather than assuming they empty together.
+2,700 pages assumes 5% coverage. Presentations with shaded backgrounds and colour headers will bring that down noticeably.
+
+## Frequently asked questions
+Is there a higher-yield version? Yes, HP 312X black holds considerably more toner and fits the same printers. The colours are sold as standard capacity only.
+Do I need the other cartridges too? In time yes. The set is black CF380A at 2,400 pages, plus cyan CF381A and yellow CF382A at around 2,700 pages each.
+How fast is delivery? Same day within Nairobi, next working day upcountry.
+Can I return it? Yes, sealed and unused.
+Will the printer stop if one cartridge runs out? On most of these models yes, even for a black-only job, so watch all four levels.`, "metaTitle": "HP 312A Magenta Toner CF383A - Genuine HP Kenya", "metaDescription": "Genuine HP 312A magenta toner (CF383A), 2,700 pages, for HP Color LaserJet Pro MFP M476dn, M476dw and M476nw. Nairobi stock, delivered across Kenya.", "inStock": true},
+  {"id": 5112, "sku": "CF382A", "name": "HP 312A Yellow Toner Original Laserjet (CF382A)", "brand": "HP", "category": "HP Original Toners", "price": 8000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/HP-312A-Yellow-Toner-Original-Laserjet-CF382A-scaled.webp", "imageFile": "HP-312A-Yellow-Toner-Original-Laserjet-CF382A-scaled.webp", "description": `The HP 312A yellow toner cartridge is the genuine Original HP replacement, part number CF382A, for the HP Color LaserJet Pro MFP M476 series. These are all-in-one colour lasers built for a small office that needs scanning and copying alongside proper colour output. Because the machine also handles copying, the cartridges run down faster than the print counter alone suggests.
+
+## Compatible printers
+HP Color LaserJet Pro MFP M476dn
+HP Color LaserJet Pro MFP M476dw
+HP Color LaserJet Pro MFP M476nw
+If your model isn't listed, send us the number from the front of the machine and we'll confirm before you pay.
+
+## Specifications
+| Page yield | Cartridge type | Colour | Capacity | Part number | Genuine or compatible |
+|---|---|---|---|---|---|
+| 2,700 pages at 5% coverage | Laser toner cartridge | Yellow | Standard capacity | CF382A | Genuine Original HP |
+
+## Genuine or compatible?
+Genuine, Original HP in the sealed box. Not a refill and not our Royal house brand, which we always sell as Royal. Colour matching is where non-genuine toner shows itself fastest on a four-cartridge machine. If one cartridge uses a slightly different pigment, greens and greys shift across every page and the cause is hard to trace back to a single cartridge. Mixing genuine and compatible cartridges in a colour laser is the most common source of colour complaints we see at the counter.
+
+## Why buy from Trinatech
+Held in Nairobi CBD stock, including for machines other suppliers have dropped.
+Countrywide courier delivery, Nakuru, Eldoret, Kisumu and Mombasa included.
+M-Pesa or bank transfer, with proper invoicing for business accounts.
+WhatsApp us the model number, or walk in to The One Mall on River Road.
+
+## Getting the most from this cartridge
+Rock the cartridge gently before installing and keep your fingers off the drum surface underneath.
+Store spares boxed and upright, away from heat and direct sunlight. Light degrades the drum coating on a colour laser cartridge.
+At 2,700 pages the colours outlast the black, which yields 2,400. Check all four levels before ordering rather than assuming they empty together.
+2,700 pages assumes 5% coverage. Presentations with shaded backgrounds and colour headers will bring that down noticeably.
+
+## Frequently asked questions
+Is there a higher-yield version? Yes, HP 312X black holds considerably more toner and fits the same printers. The colours are sold as standard capacity only.
+Do I need the other cartridges too? In time yes. The set is black CF380A at 2,400 pages, plus cyan CF381A and magenta CF383A at around 2,700 pages each.
+How fast is delivery? Same day within Nairobi, next working day upcountry.
+Can I return it? Yes, sealed and unused.
+Will the printer stop if one cartridge runs out? On most of these models yes, even for a black-only job, so watch all four levels.`, "metaTitle": "HP 312A Yellow Toner CF382A - Genuine HP Kenya", "metaDescription": "Genuine HP 312A yellow toner (CF382A), 2,700 pages, for HP Color LaserJet Pro MFP M476dn, M476dw and M476nw. Nairobi stock, delivered across Kenya.", "inStock": true},
   {"id": 5111, "sku": "CF232A", "name": "HP 32A Laserjet Imaging Drum (CF232A)", "brand": "HP", "category": "HP Original Toners", "price": 9000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/HP-32A-Laserjet-Imaging-Drum-CF232A-scaled.webp", "imageFile": "HP-32A-Laserjet-Imaging-Drum-CF232A-scaled.webp", "description": "HP 32A LASERJET IMAGING DRUM (CF232A", "inStock": true},
   {"id": 4138, "sku": null, "name": "HP 32A Original Laserjet Imaging Drum", "brand": "HP", "category": "Inks & Toner Cartridges", "price": 7500, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2025/01/HP-32A-LaserJet-Imaging-Drum.png", "imageFile": "HP-32A-LaserJet-Imaging-Drum.png", "description": "Compatible with: HP LaserJet Pro M118dw HP LaserJet Pro MFP M148dw / M148fdw HP LaserJet Pro M203dn / M203dw HP LaserJet Pro MFP M227fdn / M227fdw / M227sdn", "inStock": true},
   {"id": 4587, "sku": null, "name": "HP 35A Black Original Laserjet Toner Cartridge (CB435A)", "brand": "HP", "category": "Inks & Toner Cartridges", "price": 5500, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2025/07/HP-35A-Black-Original-LaserJet-Toner-Cartridge.png", "imageFile": "HP-35A-Black-Original-LaserJet-Toner-Cartridge.png", "description": `The HP 35A black toner cartridge is the genuine Original HP replacement, part number CB435A, for the HP LaserJet P1005 and P1006. These small mono lasers were sold in large numbers to home offices, small shops and schools, and the cartridge is the only part that ever needs buying. Laser output does not run or fade the way inkjet can, which matters for receipts and records kept in a humid office.

@@ -17,7 +17,41 @@ export const PRODUCTS_3 = [
   {"id": 5082, "sku": "CE256A", "name": "HP 56A Black Toner Original Laserjet (CE256A)", "brand": "HP", "category": "HP Original Toners", "price": 4000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/HP-56A-Black-Toner-Original-Laserjet-CE256A-scaled.webp", "imageFile": "HP-56A-Black-Toner-Original-Laserjet-CE256A-scaled.webp", "description": "HP 56A BLACK TONER ORIGINAL LASERJET (CE256A", "inStock": true},
   {"id": 3535, "sku": null, "name": "HP 59A Black Original Laserjet Toner Cartridge", "brand": "HP", "category": "Inks & Toner Cartridges", "price": 12000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2024/12/HP-59A-Toner.png", "imageFile": "HP-59A-Toner.png", "description": "Compatible with: HP LaserJet Enterprise M406 (e.g., M406dn) HP LaserJet Enterprise MFP M430f HP LaserJet Pro M304 (e.g., M304a) HP LaserJet Pro M404 (M404n, M404dn, M404dw)", "inStock": true},
   {"id": 5081, "sku": "CF259A", "name": "HP 59A Black Toner Catridge (CF259A)", "brand": "HP", "category": "HP Original Toners", "price": 11000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/HP-59A-Black-Toner-Catridge-CF259A-scaled.webp", "imageFile": "HP-59A-Black-Toner-Catridge-CF259A-scaled.webp", "description": "HP 59A BLACK TONER CATRIDGE (CF259A", "inStock": true},
-  {"id": 3926, "sku": null, "name": "HP 60 Black Original Ink Cartridge", "brand": "HP", "category": "Inks & Toner Cartridges", "price": 4500, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2024/12/HP-60-Black-Original-Ink.png", "imageFile": "HP-60-Black-Original-Ink.png", "description": "The HP 60 Black Original Ink Cartridge is engineered to provide high-quality prints with every page.", "inStock": true},
+  {"id": 3926, "sku": null, "name": "HP 60 Black Original Ink Cartridge", "brand": "HP", "category": "Inks & Toner Cartridges", "price": 4500, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2024/12/HP-60-Black-Original-Ink.png", "imageFile": "HP-60-Black-Original-Ink.png", "description": `The HP 60 black ink cartridge is the genuine Original HP replacement, part number CC640WN, for HP DeskJet, PhotoSmart and ENVY all-in-ones of that generation. If you have seen the same printer listed against HP 121, that is not a mistake: HP sells the identical cartridge under different numbers in different regions. Both fit the same machines.
+
+## Compatible printers
+DeskJet: D1660, D2530, D2545, D2560, D2660, D2680, D5560
+DeskJet All-in-One: F2430, F2440, F2480, F4210, F4235, F4240, F4280, F4435, F4440, F4480, F4580
+PhotoSmart: C4635, C4640, C4650, C4680, C4740, C4750, C4780, C4795, D110a
+ENVY: 100, 110, 111, 114, 120, 121
+If your model isn't listed, send us the number from the front of the machine and we'll confirm before you pay.
+
+## Specifications
+| Page yield | Cartridge type | Colour | Capacity | Part number | Genuine or compatible |
+|---|---|---|---|---|---|
+| ~200 pages at 5% coverage | Single-colour ink cartridge | Black | Standard capacity | CC640WN | Genuine Original HP |
+
+## Genuine or compatible?
+Genuine, Original HP. Not a refill and not our Royal house brand, which is always sold under the Royal name. One honest note on this particular cartridge: HP 60 is the number used in North America, while HP 121 is the number for this region. Both are genuine HP and both fit the same printers. If you have an HP 121 box in mind, ask us and we will supply whichever we hold, at the same fit and yield.
+
+## Why buy from Trinatech
+Stocked at our Nairobi CBD shop for immediate collection.
+Countrywide courier, from Nakuru and Eldoret to Kisumu and Mombasa.
+M-Pesa or bank transfer, with a proper invoice for office records.
+WhatsApp ordering, or walk in to The One Mall on River Road.
+
+## Getting the most from this cartridge
+Open the foil only when you are ready to fit it. Pigment black ink dries at the nozzles quickly once exposed to air.
+Remove the nozzle tape and keep fingers off the copper contacts.
+200 pages assumes 5% coverage. Dense text, tables and logo blocks will use it faster.
+Run a page through the printer weekly. Idle cartridges clog, and a clog on this design usually means the cartridge rather than the printer is finished.
+
+## Frequently asked questions
+Is there a higher-yield version? Yes, HP 60XL fits the same printers and prints substantially more.
+Do I need a colour cartridge as well? Only for colour printing, though most of these models want both cartridges fitted to print anything. The colour is HP 60 tri-colour.
+How fast is delivery? Same day within Nairobi, next working day upcountry.
+Can I return it? Yes, sealed and unused.
+Is HP 60 the same as HP 121? Effectively yes. Same cartridge, same fit, same yield, different regional part number and box.`, "metaTitle": "HP 60 Black Ink Cartridge CC640WN - Genuine HP Kenya", "metaDescription": "Genuine HP 60 black ink (CC640WN), about 200 pages, for DeskJet D2560, F4280, ENVY 100 and PhotoSmart C4680. Nairobi stock, delivered Kenya-wide.", "inStock": true},
   {"id": 5488, "sku": "CH561W", "name": "HP 61 Black Original Ink Cartridge (CH561WA)", "brand": "HP", "category": "Original Hp Ink Cartridges", "price": 4200, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/HP-61-Black-Original-Ink-Cartridge-CH561WA.webp", "imageFile": "HP-61-Black-Original-Ink-Cartridge-CH561WA.webp", "description": "HP 61 BLACK ORIGINAL INK CARTRIDGE (CH561WA", "inStock": true},
   {"id": 5487, "sku": null, "name": "HP 61 Tri Color Original Ink Cartridge", "brand": "HP", "category": "Original Hp Ink Cartridges", "price": 4300, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/HP-61-Tri-Color-Original-Ink-Cartridge.webp", "imageFile": "HP-61-Tri-Color-Original-Ink-Cartridge.webp", "description": "HP 61 TRI COLOR ORIGINAL INK CARTRIDGE", "inStock": true},
   {"id": 3932, "sku": null, "name": "HP 61 Tri-Colour Original Ink Cartridge", "brand": "HP", "category": "Inks & Toner Cartridges", "price": 4500, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2024/12/HP-61-Tri-colour-Original-Ink.png", "imageFile": "HP-61-Tri-colour-Original-Ink.png", "description": "The HP 61 Tri-colour Original Ink Cartridge is designed to deliver exceptional colour quality for all your printing needs.", "inStock": true},

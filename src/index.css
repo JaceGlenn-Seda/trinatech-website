@@ -682,7 +682,7 @@ a:focus-visible, button:focus-visible, summary:focus-visible { outline: 3px soli
 .pd-desc-md .pd-p:last-child { margin-bottom: 0; }
 .pd-desc-md .pd-ul, .pd-desc-md .pd-ol { margin: 0 0 12px; padding-left: 22px; line-height: 1.7; font-size: 15px; }
 .pd-desc-md .pd-ul:last-child, .pd-desc-md .pd-ol:last-child { margin-bottom: 0; }
-.pd-desc-md .pd-li { margin-bottom: 4px; }
+.pd-desc-md .pd-li { margin-bottom: 7px; line-height: 1.55; }
 .pd-desc-md .pd-li:last-child { margin-bottom: 0; }
 .pd-desc-md .pd-a { color: var(--navy); text-decoration: underline; text-underline-offset: 2px; }
 .pd-desc-md .pd-a:hover { color: var(--red); }

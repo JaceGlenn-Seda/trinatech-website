@@ -669,6 +669,41 @@
 /* Focus */
 a:focus-visible, button:focus-visible, summary:focus-visible { outline: 3px solid var(--navy); outline-offset: 3px; border-radius: 6px; }
 
+/* ---- Product description markdown ---- */
+.pd-desc-md { font-family: var(--font-body); color: var(--ink-soft); }
+.pd-desc-md .pd-h2 {
+  font-family: var(--font-display); font-weight: 700; color: var(--ink);
+  font-size: 1.15rem; line-height: 1.3; letter-spacing: -0.3px; margin: 22px 0 10px;
+}
+.pd-desc-md .pd-h2:first-child { margin-top: 0; }
+.pd-desc-md .pd-h3 { font-size: 1.04rem; }
+.pd-desc-md .pd-h4 { font-size: .98rem; }
+.pd-desc-md .pd-p { margin: 0 0 12px; line-height: 1.7; font-size: 15px; }
+.pd-desc-md .pd-p:last-child { margin-bottom: 0; }
+.pd-desc-md .pd-ul, .pd-desc-md .pd-ol { margin: 0 0 12px; padding-left: 22px; line-height: 1.7; font-size: 15px; }
+.pd-desc-md .pd-ul:last-child, .pd-desc-md .pd-ol:last-child { margin-bottom: 0; }
+.pd-desc-md .pd-li { margin-bottom: 4px; }
+.pd-desc-md .pd-li:last-child { margin-bottom: 0; }
+.pd-desc-md .pd-a { color: var(--navy); text-decoration: underline; text-underline-offset: 2px; }
+.pd-desc-md .pd-a:hover { color: var(--red); }
+.pd-desc-md .pd-strong { color: var(--ink); font-weight: 700; }
+.pd-desc-md .pd-code { font-family: var(--font-mono); font-size: .92em; background: var(--paper-2); padding: 1px 5px; border-radius: 5px; }
+.pd-table-wrap {
+  overflow-x: auto; -webkit-overflow-scrolling: touch;
+  margin: 14px 0 18px; border: 1px solid var(--line); border-radius: 12px;
+  box-shadow: 0 6px 18px rgba(22,26,34,0.05);
+}
+.pd-table { width: 100%; border-collapse: collapse; font-size: 14px; background: #fff; min-width: 100%; font-family: var(--font-body); }
+.pd-table th, .pd-table td { border: 1px solid var(--line); padding: 10px 14px; text-align: left; vertical-align: top; line-height: 1.5; }
+.pd-table thead th { background: var(--paper-2); color: var(--ink); font-weight: 700; font-family: var(--font-display); letter-spacing: -0.2px; white-space: nowrap; }
+.pd-table tbody tr:nth-child(even) td { background: rgba(244,242,236,0.5); }
+.pd-table tbody tr:hover td { background: rgba(27,42,107,0.05); }
+@media (max-width: 720px) {
+  .pd-desc-md .pd-p, .pd-desc-md .pd-ul, .pd-desc-md .pd-ol { font-size: 14.5px; }
+  .pd-table { font-size: 13.5px; }
+  .pd-table th, .pd-table td { padding: 8px 10px; }
+}
+
 /* ── Universal font enforcement — single source of truth ── */
 *,
 *::before,

@@ -9,6 +9,7 @@ import WhatsAppFloat from "@/components/trinatech/WhatsAppFloat";
 import SearchOverlay from "@/components/trinatech/SearchOverlay";
 import CartDrawer from "@/components/trinatech/CartDrawer";
 import CheckoutModal from "@/components/trinatech/CheckoutModal";
+import ProductMarkdown from "@/components/trinatech/ProductMarkdown";
 
 const NAVY = "#1a2c6b";
 const RED = "#d3222a";
@@ -55,13 +56,13 @@ function ProductDetailContent() {
   }, [product]);
 
   const title = product
-    ? `${product.name} | Price in Kenya | Trinatech Toners & Printers`
+    ? (product.metaTitle || `${product.name} | Price in Kenya | Trinatech Toners & Printers`)
     : "Product Not Found | Trinatech Toners & Printers";
   const metaDesc = product
-    ? `${product.name} — ${comingSoon ? "coming soon" : formatPrice(product.price) + " in Nairobi, Kenya."} ${product.description}`.slice(0, 155)
+    ? (product.metaDescription || `${product.name} — ${comingSoon ? "coming soon" : formatPrice(product.price) + " in Nairobi, Kenya."} ${product.description}`.slice(0, 155))
     : "This product could not be found.";
 
-  usePageMeta({ title, description: metaDesc });
+  usePageMeta({ title, description: metaDesc, ogDescription: product?.metaDescription });
 
   useEffect(() => {
     if (!product) return;
@@ -248,7 +249,9 @@ function ProductDetailContent() {
         <h2 className="border-b-2 pb-2 text-xl font-bold" style={{ color: NAVY, borderColor: GOLD }}>
           Description
         </h2>
-        <p className="mt-4 max-w-3xl leading-relaxed text-gray-700">{product.description}</p>
+        <div className="mt-4 max-w-3xl">
+          <ProductMarkdown>{product.description || ""}</ProductMarkdown>
+        </div>
       </section>
 
       {/* RELATED */}

@@ -837,10 +837,138 @@ Can I return it? Yes, sealed and unused.
 Can this cartridge be refilled? Physically yes, and many are. But refilling wears the drum that comes with it, so quality drops with each cycle and a worn drum leaves repeating marks down the page.`, "metaTitle": "HP 12A Black Toner Cartridge Q2612A - Genuine HP Kenya", "metaDescription": "Genuine HP 12A black toner (Q2612A), 2,000 pages, for HP LaserJet 1010, 1020, 3050 and M1005 MFP. Nairobi stock, delivered across Kenya.", "inStock": true},
   {"id": 5163, "sku": "Q2612A", "name": "HP 12A Black Toner Original Catridge (Q2612A)", "brand": "HP", "category": "HP Original Toners", "price": 6000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/HP-12A-Black-Toner-Original-Catridge-Q2612A.webp", "imageFile": "HP-12A-Black-Toner-Original-Catridge-Q2612A.webp", "description": "HP 12A BLACK TONER ORIGINAL CATRIDGE (Q2612A", "inStock": true},
   {"id": 5494, "sku": "C8767H", "name": "HP 130 Black Ink Original Cartridge (C8767HE)", "brand": "HP", "category": "Original Hp Ink Cartridges", "price": 5000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/HP-130-Black-Ink-Original-Cartridge-C8767HE.webp", "imageFile": "HP-130-Black-Ink-Original-Cartridge-C8767HE.webp", "description": "HP 130 BLACK INK ORIGINAL CARTRIDGE (C8767HE", "inStock": true},
-  {"id": 5162, "sku": "CF350A", "name": "HP 130A Black Original Toner Laserjet Catridge (CF350A)", "brand": "HP", "category": "HP Original Toners", "price": 6500, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/HP-130A-Black-Original-Toner-Laserjet-Catridge-CF350A-scaled.webp", "imageFile": "HP-130A-Black-Original-Toner-Laserjet-Catridge-CF350A-scaled.webp", "description": "HP 130A BLACK ORIGINAL TONER LASERJET CATRIDGE (CF350A", "inStock": true},
-  {"id": 5161, "sku": "CF351A", "name": "HP 130A Cyan Original Toner Laserjet (CF351A)", "brand": "HP", "category": "HP Original Toners", "price": 6500, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/HP-130A-Cyan-Original-Toner-Laserjet-CF351A-scaled.webp", "imageFile": "HP-130A-Cyan-Original-Toner-Laserjet-CF351A-scaled.webp", "description": "HP 130A CYAN ORIGINAL TONER LASERJET (CF351A", "inStock": true},
-  {"id": 5160, "sku": "CF353A", "name": "HP 130A Magneta Original Toner Laserjet (CF353A)", "brand": "HP", "category": "HP Original Toners", "price": 6500, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/08/5160_hp_hp-130a-magneta-original-toner-laserjet-cf353a.jpg.png", "imageFile": "5160_hp_hp-130a-magneta-original-toner-laserjet-cf353a.jpg.png", "description": "HP 130A MAGNETA ORIGINAL TONER LASERJET (CF353A", "inStock": true},
-  {"id": 5159, "sku": "CF352A", "name": "HP 130A Yellow Original Toner Laserjet Catridge (CF352A)", "brand": "HP", "category": "HP Original Toners", "price": 6500, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/HP-130A-Yellow-Original-Toner-Laserjet-Catridge-CF352A-scaled.webp", "imageFile": "HP-130A-Yellow-Original-Toner-Laserjet-Catridge-CF352A-scaled.webp", "description": "HP 130A YELLOW ORIGINAL TONER LASERJET CATRIDGE (CF352A", "inStock": true},
+  {"id": 5162, "sku": "CF350A", "name": "HP 130A Black Original Toner Laserjet Catridge (CF350A)", "brand": "HP", "category": "HP Original Toners", "price": 6500, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/HP-130A-Black-Original-Toner-Laserjet-Catridge-CF350A-scaled.webp", "imageFile": "HP-130A-Black-Original-Toner-Laserjet-Catridge-CF350A-scaled.webp", "description": `The HP 130A black toner cartridge is the genuine Original HP replacement, part number CF350A, for the HP Color LaserJet Pro MFP M176n and M177fw. These are compact colour all-in-ones built for a small office or reception desk that needs occasional colour alongside everyday scanning and copying. They were sold in good numbers across Kenya, and the toner is the only part that ever needs buying.
+
+## Compatible printers
+HP Color LaserJet Pro MFP M176n
+HP Color LaserJet Pro MFP M177fw
+If your model isn't listed, send us the number from the front of the machine and we'll confirm before you pay.
+
+## Specifications
+| Page yield | Cartridge type | Colour | Capacity | Part number | Genuine or compatible |
+|---|---|---|---|---|---|
+| 1,300 pages at 5% coverage | Laser toner cartridge | Black | Standard capacity | CF350A | Genuine Original HP |
+
+## Genuine or compatible?
+Genuine, Original HP in the sealed box. Not a refill and not our Royal house brand, which is always sold as Royal. On a four-cartridge colour machine the black does most of the work and gets replaced most often, which is where the temptation to economise sits. The catch is that a black which fuses differently from the three colours beside it shows as a dull or patchy finish on any mixed page.
+
+## Why buy from Trinatech
+Held in Nairobi CBD stock, including for machines other suppliers have dropped.
+Countrywide courier delivery, Nakuru, Eldoret, Kisumu and Mombasa included.
+M-Pesa or bank transfer, with proper invoicing for business accounts.
+WhatsApp us the model number, or walk in to The One Mall on River Road.
+
+## Getting the most from this cartridge
+Rock the cartridge gently before installing, then remove any protective packaging fully before it goes into the machine.
+Handle it by the ends and store spares boxed and upright, away from heat and direct sunlight. Light degrades the drum coating on a colour laser cartridge.
+At 1,300 pages these are small cartridges. On an all-in-one the cartridge also feeds the copier, so it runs down faster than the print count alone suggests.
+1,300 pages assumes 5% coverage. Documents with logos, shaded tables and colour headers will come in well under that.
+
+## Frequently asked questions
+Is there a higher-yield version? No. HP sells the 130A as a standard-capacity range only.
+Do I need the other cartridges too? In time yes. The set is cyan CF351A, yellow CF352A and magenta CF353A at around 1,000 pages each.
+How fast is delivery? Same day within Nairobi, next working day upcountry.
+Can I return it? Yes, sealed and unused.
+Will the printer stop if one cartridge runs out? On most of these models yes, even for a black-only job, so keep an eye on all four levels.`, "metaTitle": "HP 130A Black Toner CF350A - Genuine HP Kenya", "metaDescription": "Genuine HP 130A black toner (CF350A), 1,300 pages, for HP Color LaserJet Pro MFP M176n and M177fw. Nairobi stock, delivered across Kenya.", "inStock": true},
+  {"id": 5161, "sku": "CF351A", "name": "HP 130A Cyan Original Toner Laserjet (CF351A)", "brand": "HP", "category": "HP Original Toners", "price": 6500, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/HP-130A-Cyan-Original-Toner-Laserjet-CF351A-scaled.webp", "imageFile": "HP-130A-Cyan-Original-Toner-Laserjet-CF351A-scaled.webp", "description": `The HP 130A cyan toner cartridge is the genuine Original HP replacement, part number CF351A, for the HP Color LaserJet Pro MFP M176n and M177fw. These are compact colour all-in-ones built for a small office or reception desk that needs occasional colour alongside everyday scanning and copying. They were sold in good numbers across Kenya, and the toner is the only part that ever needs buying.
+
+## Compatible printers
+HP Color LaserJet Pro MFP M176n
+HP Color LaserJet Pro MFP M177fw
+If your model isn't listed, send us the number from the front of the machine and we'll confirm before you pay.
+
+## Specifications
+| Page yield | Cartridge type | Colour | Capacity | Part number | Genuine or compatible |
+|---|---|---|---|---|---|
+| 1,000 pages at 5% coverage | Laser toner cartridge | Cyan | Standard capacity | CF351A | Genuine Original HP |
+
+## Genuine or compatible?
+Genuine, Original HP, sealed box. Not a refill and not our Royal house brand, which we always sell under its own name. Colour matching is where non-genuine toner shows itself fastest. If one cartridge uses a slightly different pigment, greens and greys shift across every page and the cause is hard to trace back to a single cartridge. Mixing genuine and compatible cartridges in a colour laser is the most common source of colour complaints we see at the counter.
+
+## Why buy from Trinatech
+Held in Nairobi CBD stock, including for machines other suppliers have dropped.
+Countrywide courier delivery, Nakuru, Eldoret, Kisumu and Mombasa included.
+M-Pesa or bank transfer, with proper invoicing for business accounts.
+WhatsApp us the model number, or walk in to The One Mall on River Road.
+
+## Getting the most from this cartridge
+Rock the cartridge gently before installing, then remove any protective packaging fully before it goes into the machine.
+Handle it by the ends and store spares boxed and upright, away from heat and direct sunlight. Light degrades the drum coating on a colour laser cartridge.
+At 1,000 pages these are small cartridges. On an all-in-one the cartridge also feeds the copier, so it runs down faster than the print count alone suggests.
+1,000 pages assumes 5% coverage. Documents with logos, shaded tables and colour headers will come in well under that.
+
+## Frequently asked questions
+Is there a higher-yield version? No. HP sells the 130A as a standard-capacity range only.
+Do I need the other cartridges too? In time yes. The set is black CF350A at 1,300 pages, plus yellow CF352A and magenta CF353A at around 1,000 pages each.
+How fast is delivery? Same day within Nairobi, next working day upcountry.
+Can I return it? Yes, sealed and unused.
+Will the printer stop if one cartridge runs out? On most of these models yes, even for a black-only job, so keep an eye on all four levels.`, "metaTitle": "HP 130A Cyan Toner CF351A - Genuine HP Kenya", "metaDescription": "Genuine HP 130A cyan toner (CF351A), 1,000 pages, for HP Color LaserJet Pro MFP M176n and M177fw. Nairobi stock, delivered across Kenya.", "inStock": true},
+  {"id": 5160, "sku": "CF353A", "name": "HP 130A Magneta Original Toner Laserjet (CF353A)", "brand": "HP", "category": "HP Original Toners", "price": 6500, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/08/5160_hp_hp-130a-magneta-original-toner-laserjet-cf353a.jpg.png", "imageFile": "5160_hp_hp-130a-magneta-original-toner-laserjet-cf353a.jpg.png", "description": `The HP 130A magenta toner cartridge is the genuine Original HP replacement, part number CF353A, for the HP Color LaserJet Pro MFP M176n and M177fw. These are compact colour all-in-ones built for a small office or reception desk that needs occasional colour alongside everyday scanning and copying. They were sold in good numbers across Kenya, and the toner is the only part that ever needs buying.
+
+## Compatible printers
+HP Color LaserJet Pro MFP M176n
+HP Color LaserJet Pro MFP M177fw
+If your model isn't listed, send us the number from the front of the machine and we'll confirm before you pay.
+
+## Specifications
+| Page yield | Cartridge type | Colour | Capacity | Part number | Genuine or compatible |
+|---|---|---|---|---|---|
+| 1,000 pages at 5% coverage | Laser toner cartridge | Magenta | Standard capacity | CF353A | Genuine Original HP |
+
+## Genuine or compatible?
+Genuine, Original HP, sealed box. Not a refill and not our Royal house brand, which we always sell under its own name. Colour matching is where non-genuine toner shows itself fastest. If one cartridge uses a slightly different pigment, greens and greys shift across every page and the cause is hard to trace back to a single cartridge. Mixing genuine and compatible cartridges in a colour laser is the most common source of colour complaints we see at the counter.
+
+## Why buy from Trinatech
+Held in Nairobi CBD stock, including for machines other suppliers have dropped.
+Countrywide courier delivery, Nakuru, Eldoret, Kisumu and Mombasa included.
+M-Pesa or bank transfer, with proper invoicing for business accounts.
+WhatsApp us the model number, or walk in to The One Mall on River Road.
+
+## Getting the most from this cartridge
+Rock the cartridge gently before installing, then remove any protective packaging fully before it goes into the machine.
+Handle it by the ends and store spares boxed and upright, away from heat and direct sunlight. Light degrades the drum coating on a colour laser cartridge.
+At 1,000 pages these are small cartridges. On an all-in-one the cartridge also feeds the copier, so it runs down faster than the print count alone suggests.
+1,000 pages assumes 5% coverage. Documents with logos, shaded tables and colour headers will come in well under that.
+
+## Frequently asked questions
+Is there a higher-yield version? No. HP sells the 130A as a standard-capacity range only.
+Do I need the other cartridges too? In time yes. The set is black CF350A at 1,300 pages, plus cyan CF351A and yellow CF352A at around 1,000 pages each.
+How fast is delivery? Same day within Nairobi, next working day upcountry.
+Can I return it? Yes, sealed and unused.
+Will the printer stop if one cartridge runs out? On most of these models yes, even for a black-only job, so keep an eye on all four levels.`, "metaTitle": "HP 130A Magenta Toner CF353A - Genuine HP Kenya", "metaDescription": "Genuine HP 130A magenta toner (CF353A), 1,000 pages, for HP Color LaserJet Pro MFP M176n and M177fw. Nairobi stock, delivered across Kenya.", "inStock": true},
+  {"id": 5159, "sku": "CF352A", "name": "HP 130A Yellow Original Toner Laserjet Catridge (CF352A)", "brand": "HP", "category": "HP Original Toners", "price": 6500, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/HP-130A-Yellow-Original-Toner-Laserjet-Catridge-CF352A-scaled.webp", "imageFile": "HP-130A-Yellow-Original-Toner-Laserjet-Catridge-CF352A-scaled.webp", "description": `The HP 130A yellow toner cartridge is the genuine Original HP replacement, part number CF352A, for the HP Color LaserJet Pro MFP M176n and M177fw. These are compact colour all-in-ones built for a small office or reception desk that needs occasional colour alongside everyday scanning and copying. They were sold in good numbers across Kenya, and the toner is the only part that ever needs buying.
+
+## Compatible printers
+HP Color LaserJet Pro MFP M176n
+HP Color LaserJet Pro MFP M177fw
+If your model isn't listed, send us the number from the front of the machine and we'll confirm before you pay.
+
+## Specifications
+| Page yield | Cartridge type | Colour | Capacity | Part number | Genuine or compatible |
+|---|---|---|---|---|---|
+| 1,000 pages at 5% coverage | Laser toner cartridge | Yellow | Standard capacity | CF352A | Genuine Original HP |
+
+## Genuine or compatible?
+Genuine, Original HP, sealed box. Not a refill and not our Royal house brand, which we always sell under its own name. Colour matching is where non-genuine toner shows itself fastest. If one cartridge uses a slightly different pigment, greens and greys shift across every page and the cause is hard to trace back to a single cartridge. Mixing genuine and compatible cartridges in a colour laser is the most common source of colour complaints we see at the counter.
+
+## Why buy from Trinatech
+Held in Nairobi CBD stock, including for machines other suppliers have dropped.
+Countrywide courier delivery, Nakuru, Eldoret, Kisumu and Mombasa included.
+M-Pesa or bank transfer, with proper invoicing for business accounts.
+WhatsApp us the model number, or walk in to The One Mall on River Road.
+
+## Getting the most from this cartridge
+Rock the cartridge gently before installing, then remove any protective packaging fully before it goes into the machine.
+Handle it by the ends and store spares boxed and upright, away from heat and direct sunlight. Light degrades the drum coating on a colour laser cartridge.
+At 1,000 pages these are small cartridges. On an all-in-one the cartridge also feeds the copier, so it runs down faster than the print count alone suggests.
+1,000 pages assumes 5% coverage. Documents with logos, shaded tables and colour headers will come in well under that.
+
+## Frequently asked questions
+Is there a higher-yield version? No. HP sells the 130A as a standard-capacity range only.
+Do I need the other cartridges too? In time yes. The set is black CF350A at 1,300 pages, plus cyan CF351A and magenta CF353A at around 1,000 pages each.
+How fast is delivery? Same day within Nairobi, next working day upcountry.
+Can I return it? Yes, sealed and unused.
+Will the printer stop if one cartridge runs out? On most of these models yes, even for a black-only job, so keep an eye on all four levels.`, "metaTitle": "HP 130A Yellow Toner CF352A - Genuine HP Kenya", "metaDescription": "Genuine HP 130A yellow toner (CF352A), 1,000 pages, for HP Color LaserJet Pro MFP M176n and M177fw. Nairobi stock, delivered across Kenya.", "inStock": true},
   {"id": 4812, "sku": null, "name": "HP 131A Black Original Laserjet Toner Cartridge", "brand": "HP", "category": "Inks & Toner Cartridges", "price": 7000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2025/07/HP-131A-Black-Original-Toner.png", "imageFile": "HP-131A-Black-Original-Toner.png", "description": `The HP 131A black toner cartridge is the genuine Original HP replacement, part number CF210A, for the HP LaserJet Pro 200 colour series. These were popular mid-size colour lasers for offices that needed presentable colour without moving up to a departmental machine, and plenty are still in daily service.
 
 ## Compatible printers

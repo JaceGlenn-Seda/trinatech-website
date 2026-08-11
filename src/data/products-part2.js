@@ -1690,12 +1690,91 @@ Will the printer stop if a colour is empty? Usually yes, even for a black-only j
   {"id": 5106, "sku": "CF411A", "name": "HP 410A Cyan Toner Laserjet (CF411A)", "brand": "HP", "category": "HP Original Toners", "price": 7500, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/HP-410A-Cyan-Toner-Laserjet-CF411A-scaled.webp", "imageFile": "HP-410A-Cyan-Toner-Laserjet-CF411A-scaled.webp", "description": "HP 410A CYAN TONER LASERJET (CF411A", "inStock": true},
   {"id": 5105, "sku": "CF413A", "name": "HP 410A Magneta Toner Laserjet (CF413A)", "brand": "HP", "category": "HP Original Toners", "price": 7500, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/HP-410A-Magneta-Toner-Laserjet-CF413A-scaled.webp", "imageFile": "HP-410A-Magneta-Toner-Laserjet-CF413A-scaled.webp", "description": "HP 410A MAGNETA TONER LASERJET (CF413A", "inStock": true},
   {"id": 5104, "sku": "CF412A", "name": "HP 410A Yellow Toner Laserjet (CF412A)", "brand": "HP", "category": "HP Original Toners", "price": 7500, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/HP-410A-Yellow-Toner-Laserjet-CF412A-scaled.webp", "imageFile": "HP-410A-Yellow-Toner-Laserjet-CF412A-scaled.webp", "description": "HP 410A YELLOW TONER LASERJET (CF412A", "inStock": true},
-  {"id": 4160, "sku": null, "name": "HP 415A Black Original Laserjet Toner Cartridge", "brand": "HP", "category": "Inks & Toner Cartridges", "price": 10500, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2025/01/HP-415A-Black-Original-LaserJet-Toner.png", "imageFile": "HP-415A-Black-Original-LaserJet-Toner.png", "description": "Compatible with: HP Color LaserJet Pro M454 series Models: M454dn, M454dw, M454fw, M454nw HP Color LaserJet Pro MFP M479 series Models: M479dw, M479fdn, M479fdw, M479fnw", "inStock": true},
+  {"id": 4160, "sku": null, "name": "HP 415A Black Original Laserjet Toner Cartridge", "brand": "HP", "category": "Inks & Toner Cartridges", "price": 10500, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2025/01/HP-415A-Black-Original-LaserJet-Toner.png", "imageFile": "HP-415A-Black-Original-LaserJet-Toner.png", "description": `The HP 415A black toner cartridge is the genuine Original HP replacement, part number W2030A, for the HP Color LaserJet Pro M454 and MFP M479 series. These are current-generation colour lasers, fast and well suited to an office producing client-facing documents in colour every day.
+
+## Compatible printers
+HP Color LaserJet Enterprise M455dn Printer
+HP Color LaserJet Enterprise MFP M480f
+HP Color LaserJet Pro M454dn Printer
+HP Color LaserJet Pro M454dw Printer
+HP Color LaserJet Pro M454nw Printer
+HP Color LaserJet Pro MFP M479dw
+HP Color LaserJet Pro MFP M479fdn
+HP Color LaserJet Pro MFP M479fdw
+HP Color LaserJet Pro MFP M479fnw
+If your model isn't listed, send us the number from the front of the machine and we'll confirm before you pay.
+
+## Specifications
+| Page yield | Cartridge type | Colour | Capacity | Part number | Genuine or compatible |
+|---|---|---|---|---|---|
+| 2,400 pages at 5% coverage (ISO/IEC 19798) | Laser toner cartridge | Black | Standard capacity | W2030A | Genuine Original HP |
+
+## Genuine or compatible?
+Genuine, Original HP in the sealed box. Not a refill and not our Royal house brand, which is always sold under the Royal name. Worth knowing when you compare prices online: HP sells this same cartridge as 415A here and as 414A in North America. If you find a cheaper 414A listing abroad, it is the same cartridge in a different regional box, and 415A is the number supplied through the proper channel for this market. This range also checks the cartridge chip in firmware, so non-genuine cartridges are rejected more often than on older LaserJets.
+
+## Why buy from Trinatech
+Current-generation stock held in the Nairobi CBD, not ordered in on request.
+Courier delivery countrywide, Nakuru, Eldoret, Kisumu and Mombasa included.
+M-Pesa or bank transfer, with proper invoicing and LPO handling for corporate accounts.
+WhatsApp us the model number, or walk in to The One Mall on River Road.
+
+## Getting the most from this cartridge
+Rock the cartridge gently before fitting and handle it by the ends so the drum stays clean.
+Black empties fastest on a colour laser because text is most of what an office prints. Buying black singly rather than a set usually costs less over a year.
+If your volume is high, HP 415X black holds substantially more in the same slot and works out cheaper per page.
+2,400 pages assumes 5% coverage. Documents with colour headers and shaded tables will use noticeably more.
+
+## Frequently asked questions
+Is there a higher-yield version? Yes, HP 415X black fits the same printers and holds considerably more toner.
+Do I need the colours too? Yes for colour printing. HP 415A cyan, yellow and magenta are sold separately at around 2,100 pages each.
+How fast is delivery? Same day within Nairobi, next working day to most towns.
+Can I return it? Yes, sealed and unused.
+Is HP 414A the same cartridge? Effectively yes. Same cartridge, different regional part number; 415A is the number for this market.`, "metaTitle": "HP 415A Black Toner Cartridge W2030A - Genuine HP Kenya", "metaDescription": "Genuine HP 415A black toner (W2030A), 2,400 pages, for HP Color LaserJet Pro M454 and MFP M479. Nairobi stock, delivered across Kenya.", "inStock": true},
   {"id": 5103, "sku": "W2032A", "name": "HP 415A Black Toner Catridge (W2032A)", "brand": "HP", "category": "HP Original Toners", "price": 10500, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/HP-415A-Black-Toner-Catridge-W2032A-scaled.webp", "imageFile": "HP-415A-Black-Toner-Catridge-W2032A-scaled.webp", "description": "HP 415A BLACK TONER CATRIDGE (W2032A", "inStock": true},
   {"id": 5102, "sku": "W2031A", "name": "HP 415A Cyan Toner Laserjet (W2031A)", "brand": "HP", "category": "HP Original Toners", "price": 11000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/HP-415A-Cyan-Toner-Laserjet-W2031A-scaled.webp", "imageFile": "HP-415A-Cyan-Toner-Laserjet-W2031A-scaled.webp", "description": "HP 415A CYAN TONER LASERJET (W2031A", "inStock": true},
   {"id": 5101, "sku": "W2033A", "name": "HP 415A Magneta Toner Laserjet (W2033A)", "brand": "HP", "category": "HP Original Toners", "price": 11000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/HP-415A-Magneta-Toner-Laserjet-W2033A-scaled.webp", "imageFile": "HP-415A-Magneta-Toner-Laserjet-W2033A-scaled.webp", "description": "HP 415A MAGNETA TONER LASERJET (W2033A", "inStock": true},
   {"id": 5100, "sku": "W2030A", "name": "HP 415A Yellow Toner Laserjet (W2030A)", "brand": "HP", "category": "HP Original Toners", "price": 11000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/HP-415A-Yellow-Toner-Laserjet-W2030A-scaled.webp", "imageFile": "HP-415A-Yellow-Toner-Laserjet-W2030A-scaled.webp", "description": "HP 415A YELLOW TONER LASERJET (W2030A", "inStock": true},
-  {"id": 5099, "sku": "Q5942", "name": "HP 42A Black Toner Original Laserjet (Q5942)", "brand": "HP", "category": "HP Original Toners", "price": 13000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/HP-42A-Black-Toner-Original-Laserjet-Q5942-scaled.webp", "imageFile": "HP-42A-Black-Toner-Original-Laserjet-Q5942-scaled.webp", "description": "HP 42A BLACK TONER ORIGINAL LASERJET (Q5942", "inStock": true},
+  {"id": 5099, "sku": "Q5942", "name": "HP 42A Black Toner Original Laserjet (Q5942)", "brand": "HP", "category": "HP Original Toners", "price": 13000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/HP-42A-Black-Toner-Original-Laserjet-Q5942-scaled.webp", "imageFile": "HP-42A-Black-Toner-Original-Laserjet-Q5942-scaled.webp", "description": `The HP 42A black toner cartridge is the genuine Original HP replacement, part number Q5942A, for the HP LaserJet 4240, 4250 and 4350 series. These are heavy-duty departmental mono lasers, and at 10,000 pages the cartridge is sized for the volume those machines were built to handle.
+
+## Compatible printers
+HP LaserJet 4240 Printer
+HP LaserJet 4240n Printer
+HP LaserJet 4250 Printer
+HP LaserJet 4250n Printer
+HP LaserJet 4250tn Printer
+HP LaserJet 4250dtn Printer
+HP LaserJet 4350 Printer
+HP LaserJet 4350n Printer
+HP LaserJet 4350tn Printer
+HP LaserJet 4350dtn Printer
+If your model isn't listed, send us the number from the front of the machine and we'll confirm before you pay.
+
+## Specifications
+| Page yield | Cartridge type | Colour | Capacity | Part number | Genuine or compatible |
+|---|---|---|---|---|---|
+| 10,000 pages at 5% coverage | Laser toner cartridge | Black | Standard capacity | Q5942A | Genuine Original HP |
+
+## Genuine or compatible?
+Genuine, Original HP in the sealed box. Not a refill and not our Royal house brand, which is always sold as Royal. These machines are old but genuinely durable, and plenty are still running in Kenyan offices because they were built to a standard that outlasted their replacements. That is exactly why the toner matters: a leaking cartridge inside a machine like this means a service call, and a good 4250 is worth keeping properly supplied.
+
+## Why buy from Trinatech
+Held in Nairobi CBD stock, including for machines other suppliers have stopped carrying.
+Courier delivery countrywide, Nakuru, Eldoret, Kisumu and Mombasa included.
+M-Pesa or bank transfer, with proper invoicing and LPO handling for corporate accounts.
+WhatsApp us the model number, or walk in to The One Mall on River Road.
+
+## Getting the most from this cartridge
+Rock the cartridge gently side to side before fitting. These are large cartridges and toner settles in transit.
+Order before you run out. On a shared departmental machine an empty cartridge stops a whole floor.
+If your volume is high, HP 42X holds roughly twice as much in the same slot and works out cheaper per page. Ask us to compare on your monthly figures.
+10,000 pages assumes 5% coverage. Heavy reports and forms will come in well under that on a machine running all day.
+
+## Frequently asked questions
+Is there a higher-yield version? Yes, HP 42X fits the same printers and holds around twice as much toner.
+Do I need anything else? These take a single black cartridge, so no. Ask us about maintenance kits if the printer has high mileage.
+How fast is delivery? Same day within Nairobi, next working day to most towns.
+Can I return it? Yes, sealed and unused.
+My machine is over a decade old. Is this cartridge still made? Yes. That is a large part of why these printers remain worth running rather than replacing.`, "metaTitle": "HP 42A Black Toner Cartridge Q5942A - Genuine HP Kenya", "metaDescription": "Genuine HP 42A black toner (Q5942A), 10,000 pages, for HP LaserJet 4240, 4250 and 4350 series. Nairobi stock, delivered across Kenya.", "inStock": true},
   {"id": 5098, "sku": "Q5949A", "name": "HP 49A Black Toner Original Laserjet Catridge (Q5949A)", "brand": "HP", "category": "HP Original Toners", "price": 7500, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/HP-49A-Black-Toner-Original-Laserjet-Catridge-Q5949A-scaled.webp", "imageFile": "HP-49A-Black-Toner-Original-Laserjet-Catridge-Q5949A-scaled.webp", "description": "HP 49A BLACK TONER ORIGINAL LASERJET CATRIDGE (Q5949A", "inStock": true},
   {"id": 5097, "sku": "CE250A", "name": "HP 504A Black Toner Original Laserjet (CE250A)", "brand": "HP", "category": "HP Original Toners", "price": 15500, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/HP-504A-Black-Toner-Original-Laserjet-CE250A-scaled.webp", "imageFile": "HP-504A-Black-Toner-Original-Laserjet-CE250A-scaled.webp", "description": "HP 504A BLACK TONER ORIGINAL LASERJET (CE250A", "inStock": true},
   {"id": 5096, "sku": "CE251A", "name": "HP 504A Cyan Toner Original Laserjet (CE251A)", "brand": "HP", "category": "HP Original Toners", "price": 17000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/HP-504A-Cyan-Toner-Original-Laserjet-CE251A-scaled.webp", "imageFile": "HP-504A-Cyan-Toner-Original-Laserjet-CE251A-scaled.webp", "description": "HP 504A CYAN TONER ORIGINAL LASERJET (CE251A", "inStock": true},

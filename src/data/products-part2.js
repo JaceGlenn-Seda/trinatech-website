@@ -812,9 +812,79 @@ Is HP 204A the same cartridge? Effectively yes. Same cartridge, different region
   {"id": 5135, "sku": "CF531A", "name": "HP 205A Cyan Toner Laserjet (CF531A)", "brand": "HP", "category": "HP Original Toners", "price": 7500, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/HP-205A-Cyan-Toner-Laserjet-CF531A-scaled.webp", "imageFile": "HP-205A-Cyan-Toner-Laserjet-CF531A-scaled.webp", "description": "HP 205A CYAN TONER LASERJET (CF531A", "inStock": true},
   {"id": 5134, "sku": "CF533A", "name": "HP 205A Magneta Toner Laserjet (CF533A)", "brand": "HP", "category": "HP Original Toners", "price": 7500, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/HP-205A-Magneta-Toner-Laserjet-CF533A-scaled.webp", "imageFile": "HP-205A-Magneta-Toner-Laserjet-CF533A-scaled.webp", "description": "HP 205A MAGNETA TONER LASERJET (CF533A", "inStock": true},
   {"id": 5133, "sku": "CF532A", "name": "HP 205A Yellow Toner Laserjet (CF532A)", "brand": "HP", "category": "HP Original Toners", "price": 7500, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/HP-205A-Yellow-Toner-Laserjet-CF532A-scaled.webp", "imageFile": "HP-205A-Yellow-Toner-Laserjet-CF532A-scaled.webp", "description": "HP 205A YELLOW TONER LASERJET (CF532A", "inStock": true},
-  {"id": 4166, "sku": null, "name": "HP 207A Black Original Laserjet Toner Cartridge", "brand": "HP", "category": "Inks & Toner Cartridges", "price": 14000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2025/01/HP-207A-Black-Original-LaserJet-Toner.png", "imageFile": "HP-207A-Black-Original-LaserJet-Toner.png", "description": "Compatible with: HP Color LaserJet Pro M255dw HP Color LaserJet Pro M255nw HP Color LaserJet Pro MFP M282nw HP Color LaserJet Pro MFP M283fdn HP Color LaserJet Pro MFP M283fdw", "inStock": true},
+  {"id": 4166, "sku": null, "name": "HP 207A Black Original Laserjet Toner Cartridge", "brand": "HP", "category": "Inks & Toner Cartridges", "price": 14000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2025/01/HP-207A-Black-Original-LaserJet-Toner.png", "imageFile": "HP-207A-Black-Original-LaserJet-Toner.png", "description": `The HP 207A black toner cartridge is the genuine Original HP replacement, part number W2210A, for the HP Color LaserJet Pro M255 and MFP M283 series. These are current-generation colour lasers built for small offices that need proper colour output alongside everyday document printing.
+
+## Compatible printers
+HP Color LaserJet Pro M255dw Printer
+HP Color LaserJet Pro M255nw Printer
+HP Color LaserJet Pro MFP M282nw
+HP Color LaserJet Pro MFP M283fdn
+HP Color LaserJet Pro MFP M283fdw
+If your model isn't listed, send us the number from the front of the machine and we'll confirm before you pay.
+
+## Specifications
+| Page yield | Cartridge type | Colour | Capacity | Part number | Genuine or compatible |
+|---|---|---|---|---|---|
+| 1,350 pages at 5% coverage | Laser toner cartridge | Black | Standard capacity | W2210A | Genuine Original HP |
+
+## Genuine or compatible?
+Genuine, Original HP in the sealed box. Not a refill and not our Royal house brand, which is always sold under the Royal name. This generation carries HP's anti-fraud chip and the firmware checks it, so non-genuine cartridges on the M255 and M283 are among the more commonly rejected outright. A cartridge that will not run is not a saving. If cost is the pressure, tell us and we will lay out the real options rather than push the dearer box.
+
+## Why buy from Trinatech
+Current-generation stock held in the Nairobi CBD, not ordered in on request.
+Courier delivery countrywide, Nakuru, Eldoret, Kisumu and Mombasa included.
+M-Pesa or bank transfer, with a proper invoice for office accounts.
+WhatsApp us the model number, or walk in to The One Mall on River Road.
+
+## Getting the most from this cartridge
+Rock the cartridge gently before fitting and keep your fingers off the drum surface underneath.
+Black empties first on a colour laser because most office printing is text. Buy black on its own rather than as part of a set and you will usually spend less across a year.
+If you print heavily, HP 207X black holds substantially more toner in the same slot and works out cheaper per page.
+1,350 pages assumes 5% coverage. Presentations with shaded backgrounds and dark headers will use noticeably more.
+
+## Frequently asked questions
+Is there a higher-yield version? Yes, HP 207X black fits the same printers and holds considerably more toner.
+Do I need the colours too? Yes for colour printing. HP 207A cyan, yellow and magenta are sold separately at around 1,250 pages each.
+How fast is delivery? Same day within Nairobi, next working day to most towns.
+Can I return it? Yes, sealed and unused.
+My printer says the cartridge is not genuine. What now? Reseat it and wipe the chip contacts with a dry cloth. If it persists on a cartridge bought from us, bring it in and we will sort it out.`, "metaTitle": "HP 207A Black Toner Cartridge W2210A - Genuine HP Kenya", "metaDescription": "Genuine HP 207A black toner (W2210A), 1,350 pages, for HP Color LaserJet Pro M255 and MFP M282, M283 series. Nairobi stock, delivered Kenya-wide.", "inStock": true},
   {"id": 5132, "sku": "W2210A", "name": "HP 207A Black Toner Laserjet Catridge (W2210A)", "brand": "HP", "category": "HP Original Toners", "price": 13000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/HP-207A-Black-Toner-Laserjet-Catridge-W2210A-scaled.webp", "imageFile": "HP-207A-Black-Toner-Laserjet-Catridge-W2210A-scaled.webp", "description": "HP 207A BLACK TONER LASERJET CATRIDGE (W2210A", "inStock": true},
-  {"id": 5131, "sku": null, "name": "HP 207A Cyan, Yellow, Magneta Toners Each", "brand": "HP", "category": "HP Original Toners", "price": 11500, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/HP-207A-Cyan-Yellow-Magneta-Toners-Each-scaled.webp", "imageFile": "HP-207A-Cyan-Yellow-Magneta-Toners-Each-scaled.webp", "description": "HP 207A CYAN, YELLOW, MAGNETA TONERS EACH", "inStock": true},
+  {"id": 5131, "sku": null, "name": "HP 207A Cyan, Yellow, Magneta Toners Each", "brand": "HP", "category": "HP Original Toners", "price": 11500, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/HP-207A-Cyan-Yellow-Magneta-Toners-Each-scaled.webp", "imageFile": "HP-207A-Cyan-Yellow-Magneta-Toners-Each-scaled.webp", "description": `The HP 207A colour toner cartridges are the genuine Original HP replacements for the HP Color LaserJet Pro M255 and MFP M283 series, priced individually. Cyan is W2211A, yellow is W2212A and magenta is W2213A. Each is bought on its own, so you replace only the colour that has actually run out. Tell us which colour you need when you order.
+
+## Compatible printers
+HP Color LaserJet Pro M255dw Printer
+HP Color LaserJet Pro M255nw Printer
+HP Color LaserJet Pro MFP M282nw
+HP Color LaserJet Pro MFP M283fdn
+HP Color LaserJet Pro MFP M283fdw
+If your model isn't listed, send us the number from the front of the machine and we'll confirm before you pay.
+
+## Specifications
+| Page yield | Cartridge type | Colour | Capacity | Part number | Genuine or compatible |
+|---|---|---|---|---|---|
+| 1,250 pages at 5% coverage, each | Laser toner cartridge | Cyan, yellow or magenta, sold individually | Standard capacity | W2211A cyan, W2212A yellow, W2213A magenta | Genuine Original HP |
+
+## Genuine or compatible?
+Genuine, Original HP, sealed box. Not a refill and not our Royal house brand, which we always sell as Royal. Colour matching is where mixed cartridges cause the most trouble. If three of your four cartridges are genuine and one is not, greens, greys and skin tones shift across every page and the cause is hard to trace back to a single cartridge. This range also carries HP's anti-fraud chip, so non-genuine colours are frequently rejected outright.
+
+## Why buy from Trinatech
+Stocked in the Nairobi CBD, all three colours, ready to collect today.
+Courier delivery countrywide, from Kisumu and Nakuru through to the coast.
+M-Pesa or bank transfer, invoiced properly for business accounts.
+WhatsApp us the colour and printer model, or come to The One Mall on River Road.
+
+## Getting the most from this cartridge
+Rock the cartridge gently before installing, and handle it by the ends so the drum stays clean.
+Buy singly. That is the whole point of a four-cartridge machine and it is where the saving on this range comes from.
+Colour cartridges in a low-volume office often age before they empty. If colour work is occasional, order when you need it rather than stocking spares for years.
+1,250 pages assumes 5% coverage of that one colour, so a page with a large block of a single colour will consume far more than the figure suggests.
+
+## Frequently asked questions
+Which colour will I receive? Tell us when you order. Cyan, yellow and magenta are separate cartridges at the same price.
+Is there a higher-yield version? Yes, HP 207X is available in colour for the same printers. Ask us what we hold.
+Do I need the black too? Yes for normal documents, and these printers usually stop when any one cartridge is empty.
+How soon can I get it? Same day within Nairobi, next working day upcountry.
+Can I return it? Yes, provided it is sealed and unused.`, "metaTitle": "HP 207A Colour Toner Cartridges - Genuine HP Kenya", "metaDescription": "Genuine HP 207A colour toner, 1,250 pages each, for HP Color LaserJet Pro M255 and MFP M283. Cyan, yellow or magenta. Nairobi stock, delivered Kenya-wide.", "inStock": true},
   {"id": 5492, "sku": "C9351A", "name": "HP 21 Black Original Black Ink Cartridge (C9351AA)", "brand": "HP", "category": "Original Hp Ink Cartridges", "price": 3800, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/HP-21-Black-Original-Black-Ink-Cartridge-C9351AA.webp", "imageFile": "HP-21-Black-Original-Black-Ink-Cartridge-C9351AA.webp", "description": "HP 21 BLACK ORIGINAL BLACK INK CARTRIDGE (C9351AA", "inStock": true},
   {"id": 3908, "sku": null, "name": "HP 21 Black Original Ink Cartridge", "brand": "HP", "category": "Inks & Toner Cartridges", "price": 4000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2024/12/HP-21-Black-Original-Ink.png", "imageFile": "HP-21-Black-Original-Ink.png", "description": `The HP 21 black ink cartridge is the genuine Original HP replacement, part number C9351AE, for a long-running generation of HP DeskJet, OfficeJet, PSC and Fax machines. Plenty of these are still working in Kenyan offices and shops, and the cartridge is the only part that ever needs replacing. Pigmented black ink gives sharp text on plain paper.
 
@@ -857,10 +927,117 @@ How fast is delivery? Same day in Nairobi, next working day upcountry.
 Can I return it? Yes, sealed and unused.
 My printer is very old. Is this cartridge still made? Yes, HP still produces the 21, which is why these machines remain worth keeping rather than replacing.`, "metaTitle": "HP 21 Black Ink Cartridge C9351AE - Genuine HP Kenya", "metaDescription": "Genuine HP 21 black ink (C9351AE), about 190 pages, for DeskJet F380, F4180, PSC 1410 and OfficeJet 4315. Nairobi stock, delivery Kenya-wide.", "inStock": true},
   {"id": 5130, "sku": "W2120A", "name": "HP 212A Black Laserjet Toner Cartridge (W2120A)", "brand": "HP", "category": "HP Original Toners", "price": 24000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/HP-212A-Black-Laserjet-Toner-Cartridge-W2120A-scaled.webp", "imageFile": "HP-212A-Black-Laserjet-Toner-Cartridge-W2120A-scaled.webp", "description": "HP 212A BLACK LASERJET TONER CARTRIDGE (W2120A", "inStock": true},
-  {"id": 5129, "sku": null, "name": "HP 212A Toner Cartridges Cym Each", "brand": "HP", "category": "HP Original Toners", "price": 28000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/HP-212A-Toner-Cartridges-Cym-Each-scaled.webp", "imageFile": "HP-212A-Toner-Cartridges-Cym-Each-scaled.webp", "description": "HP 212A TONER CARTRIDGES CYM EACH", "inStock": true},
-  {"id": 4796, "sku": null, "name": "HP 216A Black Original Laserjet Toner Cartridge", "brand": "HP", "category": "Inks & Toner Cartridges", "price": 7500, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2025/07/HP-216A-Black-Original-Toner.png", "imageFile": "HP-216A-Black-Original-Toner.png", "description": "Compatible with: HP Color LaserJet Pro MFP M182n HP Color LaserJet Pro MFP M183fw", "inStock": true},
+  {"id": 5129, "sku": null, "name": "HP 212A Toner Cartridges Cym Each", "brand": "HP", "category": "HP Original Toners", "price": 28000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/HP-212A-Toner-Cartridges-Cym-Each-scaled.webp", "imageFile": "HP-212A-Toner-Cartridges-Cym-Each-scaled.webp", "description": `The HP 212A colour toner cartridges are the genuine Original HP replacements for the HP Color LaserJet Enterprise M554, M555 and MFP M578 series, priced individually. Cyan is W2121A, yellow is W2122A and magenta is W2123A. These are enterprise machines, and at 4,500 pages per colour the cartridges are sized for departmental volume rather than a single desk.
+
+## Compatible printers
+HP Color LaserJet Enterprise M554dn Printer
+HP Color LaserJet Enterprise M555dn Printer
+HP Color LaserJet Enterprise M555x Printer
+HP Color LaserJet Enterprise MFP M578dn
+HP Color LaserJet Enterprise MFP M578f
+HP Color LaserJet Enterprise Flow MFP M578c
+HP Color LaserJet Enterprise Flow MFP M578z
+If your model isn't listed, send us the number from the front of the machine and we'll confirm before you pay.
+
+## Specifications
+| Page yield | Cartridge type | Colour | Capacity | Part number | Genuine or compatible |
+|---|---|---|---|---|---|
+| 4,500 pages at 5% coverage, each | Laser toner cartridge | Cyan, yellow or magenta, sold individually | Standard capacity | W2121A cyan, W2122A yellow, W2123A magenta | Genuine Original HP |
+
+## Genuine or compatible?
+Genuine, Original HP in the sealed box. Not a refill and not our Royal house brand. On enterprise fleets this matters more than anywhere else. These machines are often on a service contract or managed print agreement, and non-genuine consumables can put that arrangement in question. HP's anti-fraud chip and firmware checks also mean a rejected cartridge takes a shared departmental printer out of service, not just one desk.
+
+## Why buy from Trinatech
+Enterprise-class stock held in the Nairobi CBD, with all three colours available.
+Courier delivery countrywide, Nakuru, Eldoret, Kisumu and Mombasa included.
+M-Pesa or bank transfer, with proper invoicing and LPO handling for corporate accounts.
+WhatsApp us the colour and model number, or visit The One Mall on River Road.
+
+## Getting the most from this cartridge
+Rock the cartridge gently before fitting. These are large cartridges and toner settles in transit.
+Order before you run out. On a shared enterprise printer an empty cartridge stops a whole department, and 4,500 pages goes faster than people expect when a floor shares one machine.
+Keep the printer's supply alerts switched on and check levels weekly rather than waiting for the panel warning.
+4,500 pages assumes 5% coverage of that colour. Reports with full-colour charts and branded headers will fall well short.
+
+## Frequently asked questions
+Which colour will I receive? Tell us when you order. Cyan, yellow and magenta are separate cartridges at the same price.
+Is there a higher-yield version? Yes, HP 212X holds roughly twice as much and fits the same printers. On a busy machine it usually costs less per page.
+Do I need the black too? Yes. HP 212A black is W2120A at around 5,500 pages, and these printers stop when any cartridge is empty.
+How fast is delivery? Same day within Nairobi, next working day to most towns.
+Can I return it? Yes, sealed and unused.`, "metaTitle": "HP 212A Colour Toner Cartridges - Genuine HP Kenya", "metaDescription": "Genuine HP 212A colour toner, 4,500 pages each, for HP Color LaserJet Enterprise M554, M555 and MFP M578. Nairobi stock, delivered across Kenya.", "inStock": true},
+  {"id": 4796, "sku": null, "name": "HP 216A Black Original Laserjet Toner Cartridge", "brand": "HP", "category": "Inks & Toner Cartridges", "price": 7500, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2025/07/HP-216A-Black-Original-Toner.png", "imageFile": "HP-216A-Black-Original-Toner.png", "description": `The HP 216A black toner cartridge is the genuine Original HP replacement, part number W2410A, for the HP Color LaserJet Pro M155 and MFP M182 series. These are the compact colour lasers HP built for small offices and reception desks that need occasional colour rather than volume.
+
+## Compatible printers
+HP Color LaserJet Pro M155a Printer
+HP Color LaserJet Pro M155nw Printer
+HP Color LaserJet Pro MFP M182n
+HP Color LaserJet Pro MFP M182nw
+HP Color LaserJet Pro MFP M183fw
+If your model isn't listed, send us the number from the front of the machine and we'll confirm before you pay.
+
+## Specifications
+| Page yield | Cartridge type | Colour | Capacity | Part number | Genuine or compatible |
+|---|---|---|---|---|---|
+| 1,050 pages at 5% coverage | Laser toner cartridge | Black | Standard capacity | W2410A | Genuine Original HP |
+
+## Genuine or compatible?
+Genuine, Original HP, sealed box. Not a refill and not our Royal house brand, which is always sold as Royal. Worth knowing before you compare prices online: this printer range is also served by HP 215A, which is a different cartridge for the same machines in some markets. Check the number on the cartridge currently in your printer rather than assuming, and we will confirm it for you before you pay. This generation also rejects non-genuine cartridges more often than older LaserJets did.
+
+## Why buy from Trinatech
+Held in Nairobi CBD stock for same-day collection or dispatch.
+Countrywide courier, Kisumu, Nakuru, Eldoret and Mombasa included.
+M-Pesa and bank transfer both accepted, invoiced for offices.
+WhatsApp the model number from the front of the printer, or walk in to The One Mall on River Road.
+
+## Getting the most from this cartridge
+Rock the cartridge gently before installing and remove any protective packaging fully before it goes in.
+At 1,050 pages this is a small cartridge. In an office printing daily it will empty inside a month, so keeping one spare black avoids a stopped machine at month end.
+Watch all four levels, not just the black. These printers generally halt when any single cartridge is empty, even for a black-only job.
+1,050 pages assumes 5% coverage. Documents with logos, shaded tables and dark headers will come in well under that.
+
+## Frequently asked questions
+Is there a higher-yield version? Ask us. HP's high-yield options for this range vary by market, so we will tell you what is actually in stock rather than promise a part number.
+Do I need the colours too? Yes for colour printing. HP 216A cyan, yellow and magenta are sold separately at around 850 pages each.
+How fast is delivery? Same day within Nairobi, next working day upcountry.
+Can I return it? Yes, sealed and unused.
+Is HP 215A the same cartridge? No. The 215A and 216A serve overlapping printers but are different cartridges, so check the number on your current one first.`, "metaTitle": "HP 216A Black Toner Cartridge W2410A - Genuine HP Kenya", "metaDescription": "Genuine HP 216A black toner (W2410A), 1,050 pages, for HP Color LaserJet Pro M155 and MFP M182, M183 series. Nairobi stock, delivered Kenya-wide.", "inStock": true},
   {"id": 5128, "sku": "W2410A", "name": "HP 216A Black Toner Cartridge (W2410A)", "brand": "HP", "category": "HP Original Toners", "price": 7500, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/HP-216A-Black-Toner-Cartridge-W2410A-scaled.webp", "imageFile": "HP-216A-Black-Toner-Cartridge-W2410A-scaled.webp", "description": "HP 216A BLACK TONER CARTRIDGE (W2410A", "inStock": true},
-  {"id": 5127, "sku": null, "name": "HP 216A Yellow, Cyan, Magneta Toners Each", "brand": "HP", "category": "HP Original Toners", "price": 7500, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/HP-216A-Yellow-Cyan-Magneta-Toners-Each-scaled.webp", "imageFile": "HP-216A-Yellow-Cyan-Magneta-Toners-Each-scaled.webp", "description": "HP 216A YELLOW, CYAN, MAGNETA TONERS EACH", "inStock": true},
+  {"id": 5127, "sku": null, "name": "HP 216A Yellow, Cyan, Magneta Toners Each", "brand": "HP", "category": "HP Original Toners", "price": 7500, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/HP-216A-Yellow-Cyan-Magneta-Toners-Each-scaled.webp", "imageFile": "HP-216A-Yellow-Cyan-Magneta-Toners-Each-scaled.webp", "description": `The HP 216A colour toner cartridges are the genuine Original HP replacements for the HP Color LaserJet Pro M155 and MFP M182 series, priced individually. Cyan is W2411A, yellow is W2412A and magenta is W2413A. Each is bought on its own, so a single empty cartridge does not mean buying a full set. Tell us which colour you need when you order.
+
+## Compatible printers
+HP Color LaserJet Pro M155a Printer
+HP Color LaserJet Pro M155nw Printer
+HP Color LaserJet Pro MFP M182n
+HP Color LaserJet Pro MFP M182nw
+HP Color LaserJet Pro MFP M183fw
+If your model isn't listed, send us the number from the front of the machine and we'll confirm before you pay.
+
+## Specifications
+| Page yield | Cartridge type | Colour | Capacity | Part number | Genuine or compatible |
+|---|---|---|---|---|---|
+| 850 pages at 5% coverage, each | Laser toner cartridge | Cyan, yellow or magenta, sold individually | Standard capacity | W2411A cyan, W2412A yellow, W2413A magenta | Genuine Original HP |
+
+## Genuine or compatible?
+Genuine, Original HP in the sealed box. Not a refill and not our Royal house brand, which we sell openly under its own name. On a compact colour laser the three colours have to sit correctly against each other, and one non-genuine cartridge with a slightly different pigment shifts every colour page. Note too that HP 215A serves overlapping printers in some markets, so check the number on the cartridge already in your machine and we will confirm before you pay.
+
+## Why buy from Trinatech
+Nairobi CBD stock, all three colours, available over the counter.
+Delivered countrywide by courier, from the lakeside towns through to Mombasa.
+M-Pesa or bank transfer, with an invoice for your records.
+Order on WhatsApp with the colour and model number, or visit The One Mall on River Road.
+
+## Getting the most from this cartridge
+Rock the cartridge gently before fitting and handle it by the ends only.
+At 850 pages these are small cartridges. If colour is a regular part of your work, budget for replacements more often than the price alone suggests.
+Buy singly rather than as a set. Yellow in particular often has months left when the cyan runs dry.
+850 pages assumes 5% coverage of that colour. A page with a large solid block of one colour can consume the equivalent of many text pages.
+
+## Frequently asked questions
+Which colour will I receive? Tell us when you order. Cyan, yellow and magenta are separate cartridges at the same price.
+Do I need the black as well? Yes for normal documents, and the printer will usually stop if any one cartridge is empty.
+Is there a higher-yield version? Ask us. Availability of the high-yield option for this range varies, so we will tell you what we actually hold.
+How soon can I get it? Same day within Nairobi, next working day upcountry.
+Can I return it? Yes, if the packaging is sealed and unopened.`, "metaTitle": "HP 216A Colour Toner Cartridges - Genuine HP Kenya", "metaDescription": "Genuine HP 216A colour toner, 850 pages each, for HP Color LaserJet Pro M155 and MFP M182, M183. Nairobi stock, delivered across Kenya.", "inStock": true},
   {"id": 5491, "sku": "C9352A", "name": "HP 22 Tri Color Ink Cartridge (C9352AE)", "brand": "HP", "category": "Original Hp Ink Cartridges", "price": 4000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/HP-22-Tri-Color-Ink-Cartridge-C9352AE.webp", "imageFile": "HP-22-Tri-Color-Ink-Cartridge-C9352AE.webp", "description": "HP 22 TRI COLOR INK CARTRIDGE (C9352AE", "inStock": true},
   {"id": 3904, "sku": null, "name": "HP 22 Tri-Colour Original Ink Cartridge", "brand": "HP", "category": "Inks & Toner Cartridges", "price": 4500, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2024/12/HP-22-Tri-colour-Original-Ink.png", "imageFile": "HP-22-Tri-colour-Original-Ink.png", "description": `The HP 22 tri-colour ink cartridge is the genuine Original HP colour cartridge, part number C9352AE, and the colour partner to the HP 21 black. Cyan, magenta and yellow sit in one unit. It suits the older DeskJet, OfficeJet and PSC all-in-ones that are still doing daily duty in plenty of Kenyan offices, shops and schools.
 
@@ -905,13 +1082,197 @@ Can just the empty colour be topped up? No. The three colours share one body and
   {"id": 3493, "sku": null, "name": "HP 250 G7 Core I3 4GB/1TB/15.6in DOS Laptop", "brand": "HP", "category": "Laptops", "price": 55000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2024/12/HP-250-G7-Laptop.png", "imageFile": "HP-250-G7-Laptop.png", "description": "The HP 250 G7 Core i3 is an affordable, reliable laptop designed to meet the needs of everyday computing.", "inStock": true},
   {"id": 3498, "sku": null, "name": "HP 250 G8 10Th Gen Core I7 1TB HDD 8GB RAM 15.6in Laptop", "brand": "HP", "category": "Laptops", "price": 95000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2024/12/HP-250-G8-laptop.png", "imageFile": "HP-250-G8-laptop.png", "description": "The HP 250 G8 is a powerful and efficient laptop designed to meet the needs of professionals, students, and casual users alike.", "inStock": true},
   {"id": 3491, "sku": null, "name": "HP 255 G8 Amd Ryzen 3 Core I5 4GB/1TB/DOS Laptop", "brand": "HP", "category": "Laptops", "price": 55000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2024/12/HP-255-G8-AMD-Ryzen-3-Laptop.png", "imageFile": "HP-255-G8-AMD-Ryzen-3-Laptop.png", "description": "The HP 255 G8 AMD Ryzen 3 Core i5 4GB/1TB/DOS Laptop is an affordable, reliable, and versatile laptop designed for students, small businesses, and home users.", "inStock": true},
-  {"id": 4145, "sku": null, "name": "HP 26A Black Original Laserjet Toner Cartridge", "brand": "HP", "category": "Inks & Toner Cartridges", "price": 8500, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2025/01/HP-26A-Black-Original-LaserJet-Toner.png", "imageFile": "HP-26A-Black-Original-LaserJet-Toner.png", "description": "Compatible with: HP LaserJet Pro M402 models: M402d, M402dn, M402dne, M402dw, M402m, M402n HP LaserJet Pro MFP M426 models: M426dw, M426fdn, M426fdw", "inStock": true},
+  {"id": 4145, "sku": null, "name": "HP 26A Black Original Laserjet Toner Cartridge", "brand": "HP", "category": "Inks & Toner Cartridges", "price": 8500, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2025/01/HP-26A-Black-Original-LaserJet-Toner.png", "imageFile": "HP-26A-Black-Original-LaserJet-Toner.png", "description": `The HP 26A black toner cartridge is the genuine Original HP replacement, part number CF226A, for the HP LaserJet Pro M402 and MFP M426 series. These are proper workgroup mono lasers, fast and built for volume, and at 3,100 pages the cartridge matches the machine rather than holding it back.
+
+## Compatible printers
+HP LaserJet Pro M402dn Printer
+HP LaserJet Pro M402dne Printer
+HP LaserJet Pro M402dw Printer
+HP LaserJet Pro M402n Printer
+HP LaserJet Pro MFP M426fdn
+HP LaserJet Pro MFP M426fdw
+If your model isn't listed, send us the number from the front of the machine and we'll confirm before you pay.
+
+## Specifications
+| Page yield | Cartridge type | Colour | Capacity | Part number | Genuine or compatible |
+|---|---|---|---|---|---|
+| 3,100 pages at 5% coverage | Laser toner cartridge | Black | Standard capacity | CF226A | Genuine Original HP |
+
+## Genuine or compatible?
+Genuine, Original HP, sealed box. Not a refill and not our Royal house brand, which is always sold as Royal. The M402 and M426 are among the more counterfeited HP cartridge ranges because the machines sold in volume to offices. A fake shows itself through grey rather than black text, poor fusing and toner that comes off on your fingers. On a shared workgroup printer that is a problem for everyone, not just the person who bought the cartridge. Ask us for an honest comparison if price is the deciding factor.
+
+## Why buy from Trinatech
+Stocked in the Nairobi CBD, in depth, because this is a high-turnover business cartridge.
+Courier countrywide, Nakuru, Eldoret, Kisumu and Mombasa included.
+M-Pesa or bank transfer, with proper invoicing and LPO handling for corporate accounts.
+WhatsApp us the model number, or walk in to The One Mall on River Road.
+
+## Getting the most from this cartridge
+Rock the cartridge gently side to side before fitting and remove the sealing tab completely.
+If your office prints more than a few thousand pages a month, HP 26X holds substantially more toner in the same slot and works out cheaper per page. Ask us to compare the two on your actual volume.
+Store spares flat and boxed, away from heat and damp. Toner clumps in humidity and clumped toner streaks.
+3,100 pages assumes 5% coverage. Forms, invoices with heavy rules and anything with a black header block will fall short.
+
+## Frequently asked questions
+Is there a higher-yield version? Yes, HP 26X black fits the same printers and prints roughly three times as many pages.
+Do I need a separate drum? No. The drum is built into the cartridge, so both are replaced together.
+How fast is delivery? Same day within Nairobi, next working day to most towns.
+Can I return it? Yes, sealed and unused.
+Can this cartridge be refilled? Physically yes, but the drum wears on the same schedule as the toner, so a refilled cartridge streaks sooner and the saving is smaller than it looks.`, "metaTitle": "HP 26A Black Toner Cartridge CF226A - Genuine HP Kenya", "metaDescription": "Genuine HP 26A black toner (CF226A), 3,100 pages, for HP LaserJet Pro M402 and MFP M426 series. Nairobi stock, delivered across Kenya.", "inStock": true},
   {"id": 5126, "sku": "CF226A", "name": "HP 26A Black Toner Laserjet (CF226A)", "brand": "HP", "category": "HP Original Toners", "price": 7800, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/HP-26A-Black-Toner-Laserjet-CF226A-scaled.webp", "imageFile": "HP-26A-Black-Toner-Laserjet-CF226A-scaled.webp", "description": "HP 26A BLACK TONER LASERJET (CF226A", "inStock": true},
   {"id": 5490, "sku": "C8727A", "name": "HP 27 Black Ink Original Cartridge (C8727AE)", "brand": "HP", "category": "Original Hp Ink Cartridges", "price": 3300, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/HP-27-Black-Ink-Original-Cartridge-C8727AE.webp", "imageFile": "HP-27-Black-Ink-Original-Cartridge-C8727AE.webp", "description": "HP 27 BLACK INK ORIGINAL CARTRIDGE (C8727AE", "inStock": true},
-  {"id": 5125, "sku": "CC530A", "name": "HP 304A Black Toner Original Laserjet (CC530A)", "brand": "HP", "category": "HP Original Toners", "price": 8000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/HP-304A-Black-Toner-Original-Laserjet-CC530A-scaled.webp", "imageFile": "HP-304A-Black-Toner-Original-Laserjet-CC530A-scaled.webp", "description": "HP 304A BLACK TONER ORIGINAL LASERJET (CC530A", "inStock": true},
-  {"id": 5124, "sku": "CC531A", "name": "HP 304A Cyan Toner Original Laserjet (CC531A)", "brand": "HP", "category": "HP Original Toners", "price": 8000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/HP-304A-Cyan-Toner-Original-Laserjet-CC531A-scaled.webp", "imageFile": "HP-304A-Cyan-Toner-Original-Laserjet-CC531A-scaled.webp", "description": "HP 304A CYAN TONER ORIGINAL LASERJET (CC531A", "inStock": true},
-  {"id": 5123, "sku": "CC533A", "name": "HP 304A Magneta Toner Original Laserjet (CC533A)", "brand": "HP", "category": "HP Original Toners", "price": 8000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/HP-304A-Magneta-Toner-Original-Laserjet-CC533A-scaled.webp", "imageFile": "HP-304A-Magneta-Toner-Original-Laserjet-CC533A-scaled.webp", "description": "HP 304A MAGNETA TONER ORIGINAL LASERJET (CC533A", "inStock": true},
-  {"id": 5122, "sku": "CC532A", "name": "HP 304A Yellow Toner Original Laserjet (CC532A)", "brand": "HP", "category": "HP Original Toners", "price": 8000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/HP-304A-Yellow-Toner-Original-Laserjet-CC532A-scaled.webp", "imageFile": "HP-304A-Yellow-Toner-Original-Laserjet-CC532A-scaled.webp", "description": "HP 304A YELLOW TONER ORIGINAL LASERJET (CC532A", "inStock": true},
+  {"id": 5125, "sku": "CC530A", "name": "HP 304A Black Toner Original Laserjet (CC530A)", "brand": "HP", "category": "HP Original Toners", "price": 8000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/HP-304A-Black-Toner-Original-Laserjet-CC530A-scaled.webp", "imageFile": "HP-304A-Black-Toner-Original-Laserjet-CC530A-scaled.webp", "description": `The HP 304A black toner cartridge is the genuine Original HP replacement, part number CC530A, for the HP Color LaserJet CP2025 and CM2320 family. At 3,500 pages the black outlasts the three colours by a wide margin, which is what you would expect in an office where most printing is text.
+
+## Compatible printers
+HP Color LaserJet CP2025 Printer
+HP Color LaserJet CP2025n Printer
+HP Color LaserJet CP2025dn Printer
+HP Color LaserJet CM2320 MFP
+HP Color LaserJet CM2320n MFP
+HP Color LaserJet CM2320nf MFP
+HP Color LaserJet CM2320fxi MFP
+If your model isn't listed, send us the number from the front of the machine and we'll confirm before you pay.
+
+## Specifications
+| Page yield | Cartridge type | Colour | Capacity | Part number | Genuine or compatible |
+|---|---|---|---|---|---|
+| 3,500 pages at 5% coverage | Laser toner cartridge | Black | Standard capacity | CC530A | Genuine Original HP |
+
+## Genuine or compatible?
+Genuine, Original HP in the sealed box. Not a refill and not our Royal house brand, which is always sold under the Royal name. These are older machines now, and older machines attract remanufactured and counterfeit toner. The signs are streaking, background shading and toner that does not fuse properly onto the page. On a colour laser with three other cartridges to match against, that becomes obvious fast. Ask us and we will price a compatible openly alongside it.
+
+## Why buy from Trinatech
+Held in Nairobi CBD stock, including for older colour lasers other suppliers have dropped.
+Countrywide courier delivery, Nakuru, Eldoret, Kisumu and Mombasa included.
+M-Pesa or bank transfer, with a proper invoice for office accounts.
+WhatsApp us the model number, or walk in to The One Mall on River Road.
+
+## Getting the most from this cartridge
+Rock the cartridge gently end to end before fitting, then pull the sealing strip out in one steady movement.
+Never touch the drum surface or leave the cartridge out in bright light while you install it.
+Black is used on almost every page, so it empties well before the colours. Buying black on its own rather than as a set is usually the cheaper approach.
+3,500 pages assumes 5% coverage. Reports with shaded tables, logos or dark headers will fall short of that.
+
+## Frequently asked questions
+Is there a higher-yield version? No. HP sells 304A as a standard-capacity cartridge for this series.
+Do I need the colours too? Yes for colour printing. HP 304A cyan CC531A, magenta CC533A and yellow CC532A are sold separately at around 2,800 pages each.
+How fast is delivery? Same day within Nairobi, next working day to most towns.
+Can I return it? Yes, sealed and unused.
+Why does black run out faster than the colours? Because black is used on text, which is most of what an office prints, while the colours are only touched on graphics.`, "metaTitle": "HP 304A Black Toner CC530A - Genuine HP Kenya", "metaDescription": "Genuine HP 304A black toner (CC530A), 3,500 pages, for HP Color LaserJet CP2025 and CM2320 MFP. Nairobi stock, delivered across Kenya.", "inStock": true},
+  {"id": 5124, "sku": "CC531A", "name": "HP 304A Cyan Toner Original Laserjet (CC531A)", "brand": "HP", "category": "HP Original Toners", "price": 8000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/HP-304A-Cyan-Toner-Original-Laserjet-CC531A-scaled.webp", "imageFile": "HP-304A-Cyan-Toner-Original-Laserjet-CC531A-scaled.webp", "description": `The HP 304A cyan toner cartridge is the genuine Original HP replacement, part number CC531A, for the HP Color LaserJet CP2025 and CM2320 family. It is one of three colour cartridges in these machines and is replaced on its own, so you buy only the colour that has actually run out.
+
+## Compatible printers
+HP Color LaserJet CP2025 Printer
+HP Color LaserJet CP2025n Printer
+HP Color LaserJet CP2025dn Printer
+HP Color LaserJet CM2320 MFP
+HP Color LaserJet CM2320n MFP
+HP Color LaserJet CM2320nf MFP
+HP Color LaserJet CM2320fxi MFP
+If your model isn't listed, send us the number from the front of the machine and we'll confirm before you pay.
+
+## Specifications
+| Page yield | Cartridge type | Colour | Capacity | Part number | Genuine or compatible |
+|---|---|---|---|---|---|
+| 2,800 pages at 5% coverage | Laser toner cartridge | Cyan | Standard capacity | CC531A | Genuine Original HP |
+
+## Genuine or compatible?
+Genuine, Original HP, sealed box. Not a refill and not our Royal house brand, which we always sell as Royal. Colour matching is where non-genuine toner shows itself. If one cartridge in the set uses a slightly different pigment, every colour page shifts and the cause is hard to trace back to a single cartridge. Mixing genuine and compatible cartridges in a colour laser is the most common source of colour complaints we see at the counter.
+
+## Why buy from Trinatech
+Held in Nairobi CBD stock, including for older colour lasers other suppliers have dropped.
+Countrywide courier delivery, Nakuru, Eldoret, Kisumu and Mombasa included.
+M-Pesa or bank transfer, with a proper invoice for office accounts.
+WhatsApp us the model number, or walk in to The One Mall on River Road.
+
+## Getting the most from this cartridge
+Rock the cartridge gently before installing and pull the sealing strip out fully.
+Handle it by the ends and keep the drum away from light and fingers.
+Colour cartridges often age out rather than run out in a low-volume office. If you print colour rarely, buy when you need it rather than stocking spares for years.
+2,800 pages assumes 5% coverage of cyan specifically, so a page with a large block of that colour can consume a great deal more than the figure suggests.
+
+## Frequently asked questions
+Is there a higher-yield version? No. HP sells 304A as a standard-capacity cartridge for this series.
+Do I need the other cartridges too? In time yes. The set is black CC530A at 3,500 pages, plus magenta CC533A and yellow CC532A at around 2,800 pages each.
+How soon can I get it? Same day within Nairobi, next working day upcountry.
+Can I return it? Yes, provided it is sealed and unused.
+Can I keep printing with an empty cyan? Usually not. These printers generally stop rather than substituting another colour, so one empty cartridge halts the machine.`, "metaTitle": "HP 304A Cyan Toner CC531A - Genuine HP Kenya", "metaDescription": "Genuine HP 304A cyan toner (CC531A), 2,800 pages, for HP Color LaserJet CP2025 and CM2320 MFP. Nairobi stock, delivered across Kenya.", "inStock": true},
+  {"id": 5123, "sku": "CC533A", "name": "HP 304A Magneta Toner Original Laserjet (CC533A)", "brand": "HP", "category": "HP Original Toners", "price": 8000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/HP-304A-Magneta-Toner-Original-Laserjet-CC533A-scaled.webp", "imageFile": "HP-304A-Magneta-Toner-Original-Laserjet-CC533A-scaled.webp", "description": `The HP 304A magenta toner cartridge is the genuine Original HP replacement, part number CC533A, for the HP Color LaserJet CP2025 and CM2320 family. It is one of three colour cartridges in these machines and is replaced on its own, so you buy only the colour that has actually run out.
+
+## Compatible printers
+HP Color LaserJet CP2025 Printer
+HP Color LaserJet CP2025n Printer
+HP Color LaserJet CP2025dn Printer
+HP Color LaserJet CM2320 MFP
+HP Color LaserJet CM2320n MFP
+HP Color LaserJet CM2320nf MFP
+HP Color LaserJet CM2320fxi MFP
+If your model isn't listed, send us the number from the front of the machine and we'll confirm before you pay.
+
+## Specifications
+| Page yield | Cartridge type | Colour | Capacity | Part number | Genuine or compatible |
+|---|---|---|---|---|---|
+| 2,800 pages at 5% coverage | Laser toner cartridge | Magenta | Standard capacity | CC533A | Genuine Original HP |
+
+## Genuine or compatible?
+Genuine, Original HP, sealed box. Not a refill and not our Royal house brand, which we always sell as Royal. Colour matching is where non-genuine toner shows itself. If one cartridge in the set uses a slightly different pigment, every colour page shifts and the cause is hard to trace back to a single cartridge. Mixing genuine and compatible cartridges in a colour laser is the most common source of colour complaints we see at the counter.
+
+## Why buy from Trinatech
+Held in Nairobi CBD stock, including for older colour lasers other suppliers have dropped.
+Countrywide courier delivery, Nakuru, Eldoret, Kisumu and Mombasa included.
+M-Pesa or bank transfer, with a proper invoice for office accounts.
+WhatsApp us the model number, or walk in to The One Mall on River Road.
+
+## Getting the most from this cartridge
+Rock the cartridge gently before installing and pull the sealing strip out fully.
+Handle it by the ends and keep the drum away from light and fingers.
+Colour cartridges often age out rather than run out in a low-volume office. If you print colour rarely, buy when you need it rather than stocking spares for years.
+2,800 pages assumes 5% coverage of magenta specifically, so a page with a large block of that colour can consume a great deal more than the figure suggests.
+
+## Frequently asked questions
+Is there a higher-yield version? No. HP sells 304A as a standard-capacity cartridge for this series.
+Do I need the other cartridges too? In time yes. The set is black CC530A at 3,500 pages, plus cyan CC531A and yellow CC532A at around 2,800 pages each.
+How soon can I get it? Same day within Nairobi, next working day upcountry.
+Can I return it? Yes, provided it is sealed and unused.
+Can I keep printing with an empty magenta? Usually not. These printers generally stop rather than substituting another colour, so one empty cartridge halts the machine.`, "metaTitle": "HP 304A Magenta Toner CC533A - Genuine HP Kenya", "metaDescription": "Genuine HP 304A magenta toner (CC533A), 2,800 pages, for HP Color LaserJet CP2025 and CM2320 MFP. Nairobi stock, delivered across Kenya.", "inStock": true},
+  {"id": 5122, "sku": "CC532A", "name": "HP 304A Yellow Toner Original Laserjet (CC532A)", "brand": "HP", "category": "HP Original Toners", "price": 8000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/HP-304A-Yellow-Toner-Original-Laserjet-CC532A-scaled.webp", "imageFile": "HP-304A-Yellow-Toner-Original-Laserjet-CC532A-scaled.webp", "description": `The HP 304A yellow toner cartridge is the genuine Original HP replacement, part number CC532A, for the HP Color LaserJet CP2025 and CM2320 family. It is one of three colour cartridges in these machines and is replaced on its own, so you buy only the colour that has actually run out.
+
+## Compatible printers
+HP Color LaserJet CP2025 Printer
+HP Color LaserJet CP2025n Printer
+HP Color LaserJet CP2025dn Printer
+HP Color LaserJet CM2320 MFP
+HP Color LaserJet CM2320n MFP
+HP Color LaserJet CM2320nf MFP
+HP Color LaserJet CM2320fxi MFP
+If your model isn't listed, send us the number from the front of the machine and we'll confirm before you pay.
+
+## Specifications
+| Page yield | Cartridge type | Colour | Capacity | Part number | Genuine or compatible |
+|---|---|---|---|---|---|
+| 2,800 pages at 5% coverage | Laser toner cartridge | Yellow | Standard capacity | CC532A | Genuine Original HP |
+
+## Genuine or compatible?
+Genuine, Original HP, sealed box. Not a refill and not our Royal house brand, which we always sell as Royal. Colour matching is where non-genuine toner shows itself. If one cartridge in the set uses a slightly different pigment, every colour page shifts and the cause is hard to trace back to a single cartridge. Mixing genuine and compatible cartridges in a colour laser is the most common source of colour complaints we see at the counter.
+
+## Why buy from Trinatech
+Held in Nairobi CBD stock, including for older colour lasers other suppliers have dropped.
+Countrywide courier delivery, Nakuru, Eldoret, Kisumu and Mombasa included.
+M-Pesa or bank transfer, with a proper invoice for office accounts.
+WhatsApp us the model number, or walk in to The One Mall on River Road.
+
+## Getting the most from this cartridge
+Rock the cartridge gently before installing and pull the sealing strip out fully.
+Handle it by the ends and keep the drum away from light and fingers.
+Colour cartridges often age out rather than run out in a low-volume office. If you print colour rarely, buy when you need it rather than stocking spares for years.
+2,800 pages assumes 5% coverage of yellow specifically, so a page with a large block of that colour can consume a great deal more than the figure suggests.
+
+## Frequently asked questions
+Is there a higher-yield version? No. HP sells 304A as a standard-capacity cartridge for this series.
+Do I need the other cartridges too? In time yes. The set is black CC530A at 3,500 pages, plus cyan CC531A and magenta CC533A at around 2,800 pages each.
+How soon can I get it? Same day within Nairobi, next working day upcountry.
+Can I return it? Yes, provided it is sealed and unused.
+Can I keep printing with an empty yellow? Usually not. These printers generally stop rather than substituting another colour, so one empty cartridge halts the machine.`, "metaTitle": "HP 304A Yellow Toner CC532A - Genuine HP Kenya", "metaDescription": "Genuine HP 304A yellow toner (CC532A), 2,800 pages, for HP Color LaserJet CP2025 and CM2320 MFP. Nairobi stock, delivered across Kenya.", "inStock": true},
   {"id": 3947, "sku": null, "name": "HP 305 Black Original Ink Cartridge", "brand": "HP", "category": "Inks & Toner Cartridges", "price": 2200, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2024/12/HP-305-Black-Original-Ink.png", "imageFile": "HP-305-Black-Original-Ink.png", "description": `The HP 305 black ink cartridge is the genuine Original HP replacement, part number 3YM61AE, for HP's current compact DeskJet and ENVY all-in-ones. These are the wireless machines most small offices and home setups have bought in the last few years. This is the cartridge they take, and it is the one to keep a spare of.
 
 ## Compatible printers

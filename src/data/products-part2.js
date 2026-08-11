@@ -11,8 +11,13 @@ export const PRODUCTS_2 = [
   {"id": 5184, "sku": null, "name": "HP 103A Black Neverstop Toner Reload Kit (1103A)", "brand": "HP", "category": "HP Original Toners", "price": 4000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/HP-103A-Black-Neverstop-Toner-Reload-Kit-1103A.webp", "imageFile": "HP-103A-Black-Neverstop-Toner-Reload-Kit-1103A.webp", "description": `The HP 103A Neverstop toner reload kit is genuine Original HP toner, part number W1103A, for HP's cartridge-free Neverstop Laser printers. It is not a toner cartridge. You load it into a port on the printer and the toner flows into a tank built into the machine, which is what makes Neverstop the cheapest laser printing HP sells.
 
 ## Compatible printers
-Neverstop Laser: 1000a, 1000n, 1000w
-Neverstop Laser MFP: 1200a, 1200n, 1200nw, 1200w
+HP Neverstop Laser 1000a Printer
+HP Neverstop Laser 1000n Printer
+HP Neverstop Laser 1000w Printer
+HP Neverstop Laser MFP 1200a Printer
+HP Neverstop Laser MFP 1200n Printer
+HP Neverstop Laser MFP 1200nw Printer
+HP Neverstop Laser MFP 1200w Printer
 If your model isn't listed, send us the number from the front of the machine and we'll confirm before you pay.
 
 ## Specifications
@@ -46,8 +51,15 @@ Is this the same as a toner cartridge? No. Neverstop printers have no cartridge.
   {"id": 4175, "sku": null, "name": "HP 107A Black Original Laserjet Toner Cartridge", "brand": "HP", "category": "Inks & Toner Cartridges", "price": 7500, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2025/01/HP-107A-Black-Original-LaserJet-Toner.png", "imageFile": "HP-107A-Black-Original-LaserJet-Toner.png", "description": `The HP 107A black toner cartridge is the genuine Original HP replacement, part number W1107A, for HP's compact Laser 100 and MFP 130 series. These are the small, affordable mono lasers that suit a shop counter, a clinic reception or a home office that needs crisp documents rather than colour. Laser output does not run or fade the way inkjet can, which matters for receipts and records kept in a humid office.
 
 ## Compatible printers
-HP Laser: 107a, 107r, 107w
-HP Laser MFP: 135a, 135r, 135w, 135wg, 137fnw, 137fwg
+HP Laser 107a Printer
+HP Laser 107r Printer
+HP Laser 107w Printer
+HP Laser MFP 135a Printer
+HP Laser MFP 135r Printer
+HP Laser MFP 135w Printer
+HP Laser MFP 135wg Printer
+HP Laser MFP 137fnw Printer
+HP Laser MFP 137fwg Printer
 If your model isn't listed, send us the number from the front of the machine and we'll confirm before you pay.
 
 ## Specifications
@@ -80,8 +92,12 @@ Is this the same as HP 105A? No. HP 105A is for a different HP Laser series. Sen
   {"id": 4793, "sku": null, "name": "HP 117A Black Original Laserjet Toner Cartridge", "brand": "HP", "category": "Inks & Toner Cartridges", "price": 7500, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2025/07/HP-117A-Black-Original-Toner.png", "imageFile": "HP-117A-Black-Original-Toner.png", "description": `The HP 117A black toner cartridge is the genuine Original HP replacement, part number W2070A, for HP's compact Color Laser 150 and MFP 178 series. These are the entry-level colour lasers that put colour documents within reach of a small office without the running costs of a larger machine. Black is the cartridge that empties first on almost every colour laser, so it is the one worth keeping a spare of.
 
 ## Compatible printers
-HP Color Laser: 150a, 150nw
-HP Color Laser MFP: 178nw, 178nwg, 179fnw, 179fwg
+HP Color Laser 150a Printer
+HP Color Laser 150nw Printer
+HP Color Laser MFP 178nw Printer
+HP Color Laser MFP 178nwg Printer
+HP Color Laser MFP 179fnw Printer
+HP Color Laser MFP 179fwg Printer
 If your model isn't listed, send us the number from the front of the machine and we'll confirm before you pay.
 
 ## Specifications
@@ -190,8 +206,14 @@ One colour ran out but the others look full. Can I refill just that colour? No. 
   {"id": 3911, "sku": null, "name": "HP 122 Black Original Ink Cartridge", "brand": "HP", "category": "Inks & Toner Cartridges", "price": 2700, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2024/12/HP-122-Black-Original-Ink.png", "imageFile": "HP-122-Black-Original-Ink.png", "description": `The HP 122 black ink cartridge is the genuine Original HP replacement, part number CH561HE, for the compact DeskJet range that HP sold widely across Kenya. If your DeskJet 1050 or 2050 has stopped mid-invoice, this is the part. It uses pigment black ink, which is the right choice for documents that get handled, filed and read years later.
 
 ## Compatible printers
-DeskJet: 1000 series (J110), 1050 All-in-One series (J410), 2000 series (J210), 2050 All-in-One series (J510), 3000 series (J310), 3050 All-in-One series (J610)
-DeskJet Ink Advantage: 2010 (K010), 2060 All-in-One (K110)
+HP Deskjet 1000 Printer series - J110
+HP Deskjet 1050 All-in-One Printer series - J410
+HP Deskjet 2000 Printer series - J210
+HP Deskjet 2050 All-in-One Printer series - J510
+HP Deskjet 3000 Printer series - J310
+HP Deskjet 3050 All-in-One Printer series - J610
+HP Deskjet Ink Advantage 2010 Printer - K010
+HP Deskjet Ink Advantage 2060 All-in-One Printer - K110
 If your model isn't listed, send us the number from the front of the machine and we'll confirm before you pay.
 
 ## Specifications
@@ -224,8 +246,14 @@ Will it fit a DeskJet 1050A, 2050A or 3050A? Very likely, but those exact varian
   {"id": 3914, "sku": null, "name": "HP 122 Tri-Colour Original Ink Cartridge", "brand": "HP", "category": "Inks & Toner Cartridges", "price": 2600, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2024/12/HP-122-Tri-colour-Original-Ink.png", "imageFile": "HP-122-Tri-colour-Original-Ink.png", "description": `The HP 122 tri-colour ink cartridge is the genuine Original HP colour cartridge, part number CH562HE, for the compact DeskJet family. Cyan, magenta and yellow sit in one unit, so a single cartridge covers everything from a coloured letterhead to a chart in a monthly report. It pairs with the HP 122 black, and most of these DeskJets want both installed before they will print.
 
 ## Compatible printers
-DeskJet: 1000 series (J110), 1050 All-in-One series (J410), 2000 series (J210), 2050 All-in-One series (J510), 3000 series (J310), 3050 All-in-One series (J610)
-DeskJet Ink Advantage: 2010 (K010), 2060 All-in-One (K110)
+HP Deskjet 1000 Printer series - J110
+HP Deskjet 1050 All-in-One Printer series - J410
+HP Deskjet 2000 Printer series - J210
+HP Deskjet 2050 All-in-One Printer series - J510
+HP Deskjet 3000 Printer series - J310
+HP Deskjet 3050 All-in-One Printer series - J610
+HP Deskjet Ink Advantage 2010 Printer - K010
+HP Deskjet Ink Advantage 2060 All-in-One Printer - K110
 If your model isn't listed, send us the number from the front of the machine and we'll confirm before you pay.
 
 ## Specifications
@@ -293,8 +321,11 @@ Why is the page yield so low? This is the standard cartridge and these compact a
   {"id": 5176, "sku": "CB540A", "name": "HP 125A Black Toner Laserjet Catridge (CB540A)", "brand": "HP", "category": "HP Original Toners", "price": 4500, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/HP-125A-Black-Toner-Laserjet-Catridge-CB540A.webp", "imageFile": "HP-125A-Black-Toner-Laserjet-Catridge-CB540A.webp", "description": `The HP 125A black toner cartridge is the genuine Original HP replacement, part number CB540A, for the HP Color LaserJet CP1215 and CM1312 family. These colour lasers have been in Kenyan offices a long time, and at 2,200 pages the black cartridge outlasts the colours by a wide margin, which is what you would expect from mostly text printing.
 
 ## Compatible printers
-Color LaserJet: CP1215, CP1515n, CP1518ni
-Color LaserJet MFP: CM1312, CM1312nfi
+HP Color LaserJet CP1215 Printer
+HP Color LaserJet CP1515n Printer
+HP Color LaserJet CP1518ni Printer
+HP Color LaserJet CM1312 MFP
+HP Color LaserJet CM1312nfi MFP
 If your model isn't listed, send us the number from the front of the machine and we'll confirm before you pay.
 
 ## Specifications
@@ -326,8 +357,11 @@ Why does black run out so much faster than the colours? Because black is used on
   {"id": 5175, "sku": "CB541A", "name": "HP 125A Cyan Toner Laserjet Catridge (CB541A)", "brand": "HP", "category": "HP Original Toners", "price": 4500, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/HP-125A-Cyan-Toner-Laserjet-Catridge-CB541A.webp", "imageFile": "HP-125A-Cyan-Toner-Laserjet-Catridge-CB541A.webp", "description": `The HP 125A cyan toner cartridge is the genuine Original HP replacement, part number CB541A, for the HP Color LaserJet CP1215 and CM1312 family. Cyan is one of three colour cartridges in these machines, and it is replaced individually rather than as a set, so you only buy the colour that has actually run out.
 
 ## Compatible printers
-Color LaserJet: CP1215, CP1515n, CP1518ni
-Color LaserJet MFP: CM1312, CM1312nfi
+HP Color LaserJet CP1215 Printer
+HP Color LaserJet CP1515n Printer
+HP Color LaserJet CP1518ni Printer
+HP Color LaserJet CM1312 MFP
+HP Color LaserJet CM1312nfi MFP
 If your model isn't listed, send us the number from the front of the machine and we'll confirm before you pay.
 
 ## Specifications
@@ -516,11 +550,27 @@ Can just the empty colour be topped up? No. The three colours share one body and
   {"id": 3947, "sku": null, "name": "HP 305 Black Original Ink Cartridge", "brand": "HP", "category": "Inks & Toner Cartridges", "price": 2200, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2024/12/HP-305-Black-Original-Ink.png", "imageFile": "HP-305-Black-Original-Ink.png", "description": `The HP 305 black ink cartridge is the genuine Original HP replacement, part number 3YM61AE, for HP's current compact DeskJet and ENVY all-in-ones. These are the wireless machines most small offices and home setups have bought in the last few years. This is the cartridge they take, and it is the one to keep a spare of.
 
 ## Compatible printers
-DeskJet: 2320, 2710, 2720, 2721, 2722, 2723, 2724
-DeskJet Plus: 4110, 4120, 4122, 4130
-ENVY: 6010, 6020, 6022, 6030, 6032
-ENVY Pro: 6420, 6422, 6430, 6432
-If your model isn't listed, send us the number from the front of the machine and we'll confirm before you pay. The e-suffix versions of these models, such as the 2710e or 6020e, take the same cartridge.
+HP DeskJet 2320 All-in-One Printer
+HP DeskJet 2710 All-in-One Printer
+HP DeskJet 2720 All-in-One Printer
+HP DeskJet 2721 All-in-One Printer
+HP DeskJet 2722 All-in-One Printer
+HP DeskJet 2723 All-in-One Printer
+HP DeskJet 2724 All-in-One Printer
+HP DeskJet Plus 4110 All-in-One Printer
+HP DeskJet Plus 4120 All-in-One Printer
+HP DeskJet Plus 4122 All-in-One Printer
+HP DeskJet Plus 4130 All-in-One Printer
+HP ENVY 6010 All-in-One Printer
+HP ENVY 6020 All-in-One Printer
+HP ENVY 6022 All-in-One Printer
+HP ENVY 6030 All-in-One Printer
+HP ENVY 6032 All-in-One Printer
+HP ENVY Pro 6420 All-in-One Printer
+HP ENVY Pro 6422 All-in-One Printer
+HP ENVY Pro 6430 All-in-One Printer
+HP ENVY Pro 6432 All-in-One Printer
+If your model isn't listed, send us the number from the front of the machine and we'll confirm before you pay.
 
 ## Specifications
 | Page yield | Cartridge type | Colour | Capacity | Part number | Genuine or compatible |
@@ -552,11 +602,27 @@ Will my printer reject a refilled cartridge? Often, yes. This generation is much
   {"id": 3950, "sku": null, "name": "HP 305 Tri-Colour Original Ink Cartridge", "brand": "HP", "category": "Inks & Toner Cartridges", "price": 2200, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2024/12/HP-305-Tri-colour-Original-Ink.png", "imageFile": "HP-305-Tri-colour-Original-Ink.png", "description": `The HP 305 tri-colour ink cartridge is the genuine Original HP colour cartridge, part number 3YM60AE, for HP's current compact DeskJet and ENVY all-in-ones. Cyan, magenta and yellow come in one unit. It pairs with the HP 305 black, and these printers will generally not run a job at all unless both cartridges are fitted and recognised.
 
 ## Compatible printers
-DeskJet: 2320, 2710, 2720, 2721, 2722, 2723, 2724
-DeskJet Plus: 4110, 4120, 4122, 4130
-ENVY: 6010, 6020, 6022, 6030, 6032
-ENVY Pro: 6420, 6422, 6430, 6432
-If your model isn't listed, send us the number from the front of the machine and we'll confirm before you pay. The e-suffix models, such as 2720e or ENVY 6030e, use the same cartridge.
+HP DeskJet 2320 All-in-One Printer
+HP DeskJet 2710 All-in-One Printer
+HP DeskJet 2720 All-in-One Printer
+HP DeskJet 2721 All-in-One Printer
+HP DeskJet 2722 All-in-One Printer
+HP DeskJet 2723 All-in-One Printer
+HP DeskJet 2724 All-in-One Printer
+HP DeskJet Plus 4110 All-in-One Printer
+HP DeskJet Plus 4120 All-in-One Printer
+HP DeskJet Plus 4122 All-in-One Printer
+HP DeskJet Plus 4130 All-in-One Printer
+HP ENVY 6010 All-in-One Printer
+HP ENVY 6020 All-in-One Printer
+HP ENVY 6022 All-in-One Printer
+HP ENVY 6030 All-in-One Printer
+HP ENVY 6032 All-in-One Printer
+HP ENVY Pro 6420 All-in-One Printer
+HP ENVY Pro 6422 All-in-One Printer
+HP ENVY Pro 6430 All-in-One Printer
+HP ENVY Pro 6432 All-in-One Printer
+If your model isn't listed, send us the number from the front of the machine and we'll confirm before you pay.
 
 ## Specifications
 | Page yield | Cartridge type | Colour | Capacity | Part number | Genuine or compatible |

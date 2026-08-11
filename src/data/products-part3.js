@@ -195,7 +195,20 @@ Do I need the tri-colour too? Only for colour work, but most of these models wan
 How fast is delivery? Same day within Nairobi, next working day to most towns.
 Can I return it? Yes, sealed and unused.
 Why is this cheaper per page than other HP cartridges? Because Ink Advantage is HP's low-running-cost line. The cartridge holds more ink for the price than the standard DeskJet cartridges do.`, "metaTitle": "HP 650 Black Ink Cartridge CZ101AE - Genuine HP Kenya", "metaDescription": "Genuine HP 650 black ink (CZ101AE), about 360 pages, for DeskJet Ink Advantage 2515, 2545, 3515 and 4645. Nairobi stock, Kenya-wide.", "inStock": true},
-  {"id": 3820, "sku": null, "name": "HP 650 Black Original Ink Cartridge", "brand": "HP", "category": "Inks & Toner Cartridges", "price": 2500, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2024/12/HP-650-Black-Ink.png", "imageFile": "HP-650-Black-Ink.png", "description": "The HP 650 Black Ink Cartridge is designed to provide high-quality, reliable, and efficient printing.", "inStock": true},
+  {"id": 3820, "sku": null, "name": "HP 650 Black Original Ink Cartridge", "brand": "HP", "category": "Inks & Toner Cartridges", "price": 2500, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2024/12/HP-650-Black-Ink.png", "imageFile": "HP-650-Black-Ink.png", "description": `The HP 650 Black Ink Cartridge is designed to provide high-quality, reliable, and efficient printing.
+
+## Compatible printers
+HP Deskjet Ink Advantage 1015 Printer
+HP Deskjet Ink Advantage 1515 All-in-One Printer
+HP Deskjet Ink Advantage 2515 All-in-One Printer
+HP Deskjet Ink Advantage 2545 All-in-One Printer
+HP Deskjet Ink Advantage 2645 All-in-One Printer
+HP Deskjet Ink Advantage 3515 e-All-in-One Printer
+HP Deskjet Ink Advantage 3545 e-All-in-One Printer
+HP Deskjet Ink Advantage 4515 e-All-in-One Printer
+HP Deskjet Ink Advantage 4645 e-All-in-One Printer
+If your model isn't listed, send us the number from the front of the machine and we'll confirm before you pay.
+`, "inStock": true},
   {"id": 5483, "sku": "CH561H", "name": "HP 650 Tri Color Ink Advantage Cartridge (CH561HE)", "brand": "HP", "category": "Original Hp Ink Cartridges", "price": 2300, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/HP-650-Tri-Color-Ink-Advantage-Cartridge-CH561HE.webp", "imageFile": "HP-650-Tri-Color-Ink-Advantage-Cartridge-CH561HE.webp", "description": `The HP 650 tri-colour ink cartridge is the genuine Original HP Ink Advantage colour cartridge, part number CZ102AE, with cyan, magenta and yellow in one unit. It is the colour half of the pairing for HP's DeskJet Ink Advantage range, and it works alongside the HP 650 black. Most of these printers will not run a job unless both cartridges are installed.
 
 ## Compatible printers
@@ -228,7 +241,20 @@ Do I need the black cartridge as well? Yes in most cases. These models generally
 How quickly can I get it? Same day in Nairobi, next working day upcountry.
 What if I ordered the wrong one? Sealed and unused cartridges can be exchanged or refunded.
 Can just the empty colour be topped up? No. The three colours share one cartridge and it is replaced as a unit.`, "metaTitle": "HP 650 Tri-Colour Ink Cartridge CZ102AE - Genuine HP", "metaDescription": "Genuine HP 650 tri-colour ink (CZ102AE), about 200 pages, for DeskJet Ink Advantage 2515, 2545, 3515 and 4645. Nairobi stock, countrywide.", "inStock": true},
-  {"id": 3825, "sku": null, "name": "HP 650 Tri-Colour Original Ink Cartridge", "brand": "HP", "category": "Inks & Toner Cartridges", "price": 2500, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2024/12/HP-650-Tri-color-Ink.png", "imageFile": "HP-650-Tri-color-Ink.png", "description": "The HP 650 Tri-colour Ink Cartridge is designed to bring your prints to life with stunning, vibrant colors.", "inStock": true},
+  {"id": 3825, "sku": null, "name": "HP 650 Tri-Colour Original Ink Cartridge", "brand": "HP", "category": "Inks & Toner Cartridges", "price": 2500, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2024/12/HP-650-Tri-color-Ink.png", "imageFile": "HP-650-Tri-color-Ink.png", "description": `The HP 650 Tri-colour Ink Cartridge is designed to bring your prints to life with stunning, vibrant colors.
+
+## Compatible printers
+HP Deskjet Ink Advantage 1015 Printer
+HP Deskjet Ink Advantage 1515 All-in-One Printer
+HP Deskjet Ink Advantage 2515 All-in-One Printer
+HP Deskjet Ink Advantage 2545 All-in-One Printer
+HP Deskjet Ink Advantage 2645 All-in-One Printer
+HP Deskjet Ink Advantage 3515 e-All-in-One Printer
+HP Deskjet Ink Advantage 3545 e-All-in-One Printer
+HP Deskjet Ink Advantage 4515 e-All-in-One Printer
+HP Deskjet Ink Advantage 4645 e-All-in-One Printer
+If your model isn't listed, send us the number from the front of the machine and we'll confirm before you pay.
+`, "inStock": true},
   {"id": 5075, "sku": "CE270A", "name": "HP 650A Black Toner Original Laserjet (CE270A)", "brand": "HP", "category": "HP Original Toners", "price": 22000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/HP-650A-Black-Toner-Original-Laserjet-CE270A-scaled.webp", "imageFile": "HP-650A-Black-Toner-Original-Laserjet-CE270A-scaled.webp", "description": "HP 650A BLACK TONER ORIGINAL LASERJET (CE270A", "inStock": true},
   {"id": 5074, "sku": "CE271A", "name": "HP 650A Cyan Toner Original Laserjet (CE271A)", "brand": "HP", "category": "HP Original Toners", "price": 22000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/HP-650A-Cyan-Toner-Original-Laserjet-CE271A-scaled.webp", "imageFile": "HP-650A-Cyan-Toner-Original-Laserjet-CE271A-scaled.webp", "description": "HP 650A CYAN TONER ORIGINAL LASERJET (CE271A", "inStock": true},
   {"id": 5073, "sku": "CE273A", "name": "HP 650A Magneta Toner Original Laserjet (CE273A)", "brand": "HP", "category": "HP Original Toners", "price": 22000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/HP-650A-Magneta-Toner-Original-Laserjet-CE273A-scaled.webp", "imageFile": "HP-650A-Magneta-Toner-Original-Laserjet-CE273A-scaled.webp", "description": "HP 650A MAGNETA TONER ORIGINAL LASERJET (CE273A", "inStock": true},
@@ -334,7 +360,16 @@ How fast is delivery? Same day within Nairobi, next working day to most towns.
 Can I return it? Yes, sealed and unused.
 Why does this cost more than HP 650 or 652? Because it holds substantially more ink, so per page it works out cheaper rather than dearer.
 How do I know my printer takes 655 rather than 650? Open the cartridge door. Four separate cartridges rather than two means it is a 655 printer.`, "metaTitle": "HP 655 Black Ink Cartridge CZ109AE - Genuine HP Kenya", "metaDescription": "Genuine HP 655 black ink (CZ109AE), about 550 pages, for DeskJet Ink Advantage 3525, 4615, 4625, 5525 and 6525. Nairobi stock, Kenya-wide.", "inStock": true},
-  {"id": 3829, "sku": null, "name": "HP 655 Black Original Ink Cartridge", "brand": "HP", "category": "Inks & Toner Cartridges", "price": 3500, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2024/12/HP-655-Black-Ink.png", "imageFile": "HP-655-Black-Ink.png", "description": "The HP 655 Black Ink Cartridge offers exceptional print quality, making it the perfect choice for home and office printing.", "inStock": true},
+  {"id": 3829, "sku": null, "name": "HP 655 Black Original Ink Cartridge", "brand": "HP", "category": "Inks & Toner Cartridges", "price": 3500, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2024/12/HP-655-Black-Ink.png", "imageFile": "HP-655-Black-Ink.png", "description": `The HP 655 Black Ink Cartridge offers exceptional print quality, making it the perfect choice for home and office printing.
+
+## Compatible printers
+HP Deskjet Ink Advantage 3525 e-All-in-One Printer
+HP Deskjet Ink Advantage 4615 e-All-in-One Printer
+HP Deskjet Ink Advantage 4625 e-All-in-One Printer
+HP Deskjet Ink Advantage 5525 e-All-in-One Printer
+HP Deskjet Ink Advantage 6525 e-All-in-One Printer
+If your model isn't listed, send us the number from the front of the machine and we'll confirm before you pay.
+`, "inStock": true},
   {"id": 5478, "sku": "CZ119A", "name": "HP 655 Cyan Ink Original Cartridge (CZ119AE)", "brand": "HP", "category": "Original Hp Ink Cartridges", "price": 2300, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/HP-655-Cyan-Ink-Original-Cartridge-CZ119AE.webp", "imageFile": "HP-655-Cyan-Ink-Original-Cartridge-CZ119AE.webp", "description": "HP 655 CYAN INK ORIGINAL CARTRIDGE (CZ119AE", "inStock": true},
   {"id": 5477, "sku": "CZ111A", "name": "HP 655 Magenta Ink Original Cartridge (CZ111AE)", "brand": "HP", "category": "Original Hp Ink Cartridges", "price": 2300, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/HP-655-Magenta-Ink-Original-Cartridge-CZ111AE.webp", "imageFile": "HP-655-Magenta-Ink-Original-Cartridge-CZ111AE.webp", "description": "HP 655 MAGENTA INK ORIGINAL CARTRIDGE (CZ111AE", "inStock": true},
   {"id": 5476, "sku": "CZ112A", "name": "HP 655 Yellow Ink Original Cartridge (CZ112AE)", "brand": "HP", "category": "Original Hp Ink Cartridges", "price": 2300, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/HP-655-Yellow-Ink-Original-Cartridge-CZ112AE.webp", "imageFile": "HP-655-Yellow-Ink-Original-Cartridge-CZ112AE.webp", "description": "HP 655 YELLOW INK ORIGINAL CARTRIDGE (CZ112AE", "inStock": true},
@@ -489,7 +524,14 @@ Why does my printer still show an error after fitting a new cartridge? Reseat it
   {"id": 3962, "sku": null, "name": "HP 932 Black Original Ink Cartridge", "brand": "HP", "category": "Inks & Toner Cartridges", "price": 2800, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2024/12/HP-932-Black-Original-Ink.png", "imageFile": "HP-932-Black-Original-Ink.png", "description": `The HP 932 black ink cartridge is the genuine Original HP replacement, part number CN057AE, for the HP OfficeJet 6100 and 7600 generation, including the wide-format 7110 and 7610 that handle A3. If your office runs one of these for quotations, plans or reports, this is the black cartridge it takes. It uses pigment-based ink, so printed text stays sharp and resists smudging on documents that get handled and filed.
 
 ## Compatible printers
-OfficeJet: 6100, 6600, 6700, 7110, 7510, 7610, 7612
+HP Officejet 6100 ePrinter
+HP Officejet 6600 e-All-in-One Printer
+HP Officejet 6600 e-All-in-One Special Edition Printer
+HP Officejet 6700 Premium e-All-in-One Printer
+HP OfficeJet 7110 Wide Format ePrinter
+HP OfficeJet 7510 Wide Format All-in-One Printer
+HP Officejet 7610 Wide Format e-All-in-One Printer
+HP OfficeJet 7612 Wide Format e-All-in-One Printer
 If your model isn't listed, send us the number from the front of the machine and we'll confirm before you pay.
 
 ## Specifications
@@ -571,9 +613,17 @@ Will HP 950 fit an OfficeJet Pro 8710 or 8720? No. Those newer models take HP 95
   {"id": 3938, "sku": null, "name": "HP 953 Black Original Ink Cartridge", "brand": "HP", "category": "Inks & Toner Cartridges", "price": 5000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2024/12/HP-953-Black-Original-Ink.png", "imageFile": "HP-953-Black-Original-Ink.png", "description": `The HP 953 black ink cartridge is the genuine Original HP replacement, part number L0S58AE, for the HP OfficeJet Pro 8210 and 8700 series. These are the workhorse machines in a lot of Kenyan offices, and at roughly 1,000 pages the black cartridge is sized for real daily volume rather than occasional use. The ink is pigment-based, which is what keeps text crisp on invoices and contracts that get filed for years.
 
 ## Compatible printers
-OfficeJet Pro: 8210, 8218
-OfficeJet Pro All-in-One: 8710, 8715, 8718, 8719, 8720, 8725, 8730, 8740
-OfficeJet Pro Wide Format: 7740
+HP OfficeJet Pro 8210 Printer
+HP OfficeJet Pro 8218 Printer
+HP OfficeJet Pro 8710 All-in-One Printer
+HP OfficeJet Pro 8715 All-in-One Printer
+HP OfficeJet Pro 8718 All-in-One Printer
+HP OfficeJet Pro 8719 All-in-One Printer
+HP OfficeJet Pro 8720 All-in-One Printer
+HP OfficeJet Pro 8725 All-in-One Printer
+HP OfficeJet Pro 8730 All-in-One Printer
+HP OfficeJet Pro 8740 All-in-One Printer
+HP OfficeJet Pro 7740 Wide Format All-in-One Printer
 If your model isn't listed, send us the number from the front of the machine and we'll confirm before you pay.
 
 ## Specifications

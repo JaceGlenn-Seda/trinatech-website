@@ -54,19 +54,180 @@ Can I return it? Yes, sealed and unused.
 Is HP 60 the same as HP 121? Effectively yes. Same cartridge, same fit, same yield, different regional part number and box.`, "metaTitle": "HP 60 Black Ink Cartridge CC640WN - Genuine HP Kenya", "metaDescription": "Genuine HP 60 black ink (CC640WN), about 200 pages, for DeskJet D2560, F4280, ENVY 100 and PhotoSmart C4680. Nairobi stock, delivered Kenya-wide.", "inStock": true},
   {"id": 5488, "sku": "CH561W", "name": "HP 61 Black Original Ink Cartridge (CH561WA)", "brand": "HP", "category": "Original Hp Ink Cartridges", "price": 4200, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/HP-61-Black-Original-Ink-Cartridge-CH561WA.webp", "imageFile": "HP-61-Black-Original-Ink-Cartridge-CH561WA.webp", "description": "HP 61 BLACK ORIGINAL INK CARTRIDGE (CH561WA", "inStock": true},
   {"id": 5487, "sku": null, "name": "HP 61 Tri Color Original Ink Cartridge", "brand": "HP", "category": "Original Hp Ink Cartridges", "price": 4300, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/HP-61-Tri-Color-Original-Ink-Cartridge.webp", "imageFile": "HP-61-Tri-Color-Original-Ink-Cartridge.webp", "description": "HP 61 TRI COLOR ORIGINAL INK CARTRIDGE", "inStock": true},
-  {"id": 3932, "sku": null, "name": "HP 61 Tri-Colour Original Ink Cartridge", "brand": "HP", "category": "Inks & Toner Cartridges", "price": 4500, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2024/12/HP-61-Tri-colour-Original-Ink.png", "imageFile": "HP-61-Tri-colour-Original-Ink.png", "description": "The HP 61 Tri-colour Original Ink Cartridge is designed to deliver exceptional colour quality for all your printing needs.", "inStock": true},
+  {"id": 3932, "sku": null, "name": "HP 61 Tri-Colour Original Ink Cartridge", "brand": "HP", "category": "Inks & Toner Cartridges", "price": 4500, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2024/12/HP-61-Tri-colour-Original-Ink.png", "imageFile": "HP-61-Tri-colour-Original-Ink.png", "description": `The HP 61 tri-colour ink cartridge is the genuine Original HP colour cartridge, part number CH562WN, holding cyan, magenta and yellow in one unit. It covers a wide spread of HP DeskJet, ENVY and OfficeJet all-in-ones that are still in daily use across Kenyan offices. It pairs with the HP 61 black, and most of these printers will not start a job unless both cartridges are seated.
+
+## Compatible printers
+DeskJet: 1000, 1010, 1050, 1051, 1055, 1056, 1510, 1512, 2050, 2510, 2512, 2514, 2540, 2541, 2542, 2543, 2544, 2546, 2547, 2548, 2549, 3000, 3050, 3050A, 3051A, 3052A, 3054, 3054A, 3056A, 3510, 3511, 3512
+ENVY: 4500, 4501, 4502, 4504, 4505, 5530, 5531, 5532, 5534, 5535
+OfficeJet: 2620, 4630, 4632, 4635
+If your model isn't listed, send us the number from the front of the machine and we'll confirm before you pay.
+
+## Specifications
+| Page yield | Cartridge type | Colour | Capacity | Part number | Genuine or compatible |
+|---|---|---|---|---|---|
+| ~165 pages at 5% coverage | Tri-colour ink cartridge | Cyan, magenta and yellow in one unit | Standard capacity | CH562WN | Genuine Original HP |
+
+## Genuine or compatible?
+Genuine, Original HP in the sealed box. Not a refill and not our Royal house brand, which we always sell under the Royal name so nobody is misled about what they are buying. One thing worth knowing before you order: HP 61 and HP 122 look almost identical and share a base part number, but they are not the same cartridge. The 61 holds more ink and covers more printers. Check which number your printer manual calls for.
+
+## Why buy from Trinatech
+Stocked at our Nairobi CBD shop, ready for same-day collection.
+Courier delivery countrywide, from Nakuru and Eldoret through to Mombasa.
+M-Pesa or bank transfer, with a proper invoice for office accounts.
+Order on WhatsApp with a photo of your printer, or walk in to The One Mall on River Road.
+
+## Getting the most from this cartridge
+Fit it straight out of the foil and pull the tape from the nozzles only, never from the copper contacts.
+All three colours share one body. When any single colour runs dry the cartridge is finished, so heavy single-colour work is the fastest way to waste it.
+165 pages assumes 5% coverage. Photographs and full-page graphics will use it far sooner.
+Run an alignment page after fitting. It takes one sheet and prevents the colour registration problems that otherwise get blamed on the cartridge.
+
+## Frequently asked questions
+Is there a high-yield version? Yes, HP 61XL fits the same printers and holds considerably more ink.
+Do I need the black cartridge too? Yes in practice, as most of these models refuse to print with only one cartridge fitted.
+How fast is delivery? Same day within Nairobi, next working day to most other towns.
+Can I return it? Yes, if it is sealed and unused.
+Can I top up only the colour that ran out? No. The three colours share one cartridge and it is replaced whole.`, "metaTitle": "HP 61 Tri-Colour Ink Cartridge CH562WN - Genuine HP", "metaDescription": "Genuine HP 61 tri-colour ink (CH562WN), about 165 pages, for DeskJet 1510, 2540, ENVY 4500 and OfficeJet 4630. Nairobi stock, Kenya-wide.", "inStock": true},
   {"id": 5486, "sku": null, "name": "HP 63 Black Ink Original Cartridge (F6U62AA)", "brand": "HP", "category": "Original Hp Ink Cartridges", "price": 4500, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/HP-63-Black-Ink-Original-Cartridge-F6U62AA.webp", "imageFile": "HP-63-Black-Ink-Original-Cartridge-F6U62AA.webp", "description": "HP 63 BLACK INK ORIGINAL CARTRIDGE (F6U62AA", "inStock": true},
-  {"id": 3832, "sku": null, "name": "HP 63 Black Original Ink Cartridge", "brand": "HP", "category": "Inks & Toner Cartridges", "price": 4500, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2024/12/HP-63-Black-Original-Ink.png", "imageFile": "HP-63-Black-Original-Ink.png", "description": "The HP 63 Black Original Ink Cartridge is designed to provide high-quality prints with sharp, clear black text.", "inStock": true},
+  {"id": 3832, "sku": null, "name": "HP 63 Black Original Ink Cartridge", "brand": "HP", "category": "Inks & Toner Cartridges", "price": 4500, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2024/12/HP-63-Black-Original-Ink.png", "imageFile": "HP-63-Black-Original-Ink.png", "description": `The HP 63 black ink cartridge is the genuine Original HP replacement, part number F6U62AE, for a broad run of HP DeskJet, ENVY and OfficeJet all-in-ones. If your machine sits in the 2130, 3630, 4520 or 3830 families, this is the black cartridge it takes. Pigment-based ink gives crisp text that survives handling and filing.
+
+## Compatible printers
+DeskJet: 1112, 2130, 2132, 3630, 3631, 3632, 3633, 3634, 3636, 3637, 3639
+ENVY: 4511, 4512, 4513, 4516, 4520, 4522, 4524
+OfficeJet: 3830, 3831, 3833, 4650, 4652, 4654, 4655, 5212, 5222, 5230, 5232, 5255, 5260, 5264
+If your model isn't listed, send us the number from the front of the machine and we'll confirm before you pay.
+
+## Specifications
+| Page yield | Cartridge type | Colour | Capacity | Part number | Genuine or compatible |
+|---|---|---|---|---|---|
+| ~190 pages at 5% coverage | Single-colour ink cartridge | Black | Standard capacity | F6U62AE | Genuine Original HP |
+
+## Genuine or compatible?
+Genuine, Original HP, sealed box. Not a refill and not our Royal house brand, which is always sold openly as Royal. Worth flagging honestly: HP sells this same cartridge platform under different numbers in different regions, and HP 123 covers some of the same printers with a smaller ink fill. If you have been buying 123 and are looking at 63, ask us and we will work out which is better value for your machine rather than simply selling you the more expensive box.
+
+## Why buy from Trinatech
+Held in Nairobi CBD stock rather than ordered in on request.
+Countrywide courier, whether the printer sits in Kisumu, Nakuru or on the coast.
+M-Pesa and bank transfer both accepted, invoice supplied when your accounts need one.
+WhatsApp us the model number, or walk in to The One Mall on River Road.
+
+## Getting the most from this cartridge
+Install it as soon as the foil is open, and remove only the nozzle tape.
+Press until it clicks. On this printer generation a cartridge that has not seated fully is the usual cause of a not-recognised message.
+190 pages assumes 5% coverage. Dense reports, forms and anything with a logo block will come in lower.
+If print quality drops, run the printer's clean and align routine twice before writing the cartridge off. Partially clogged nozzles usually recover.
+
+## Frequently asked questions
+Is there a bigger version? Yes, HP 63XL fits the same printers and prints roughly two to three times as many pages.
+Do I need the colour cartridge too? Only for colour printing, though most of these models want both fitted before they will run.
+How long is delivery? Same day in Nairobi, next working day upcountry.
+What are the returns terms? Sealed and unused cartridges can be exchanged or refunded.
+My printer already asks for ink and it is nearly new. Why? These machines ship with starter cartridges holding less ink than a retail one. A full HP 63 will last noticeably longer.`, "metaTitle": "HP 63 Black Ink Cartridge F6U62AE - Genuine HP Kenya", "metaDescription": "Genuine HP 63 black ink (F6U62AE), about 190 pages, for DeskJet 2130, 3630, ENVY 4520 and OfficeJet 3830. Nairobi stock, delivered across Kenya.", "inStock": true},
   {"id": 5485, "sku": null, "name": "HP 63 Tri Color Ink Cartridge (F6U61AA)", "brand": "HP", "category": "Original Hp Ink Cartridges", "price": 3000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/HP-63-Tri-Color-Ink-Cartridge-F6U61AA.webp", "imageFile": "HP-63-Tri-Color-Ink-Cartridge-F6U61AA.webp", "description": "HP 63 TRI COLOR INK CARTRIDGE (F6U61AA", "inStock": true},
-  {"id": 3901, "sku": null, "name": "HP 63 Tri-Colour Original Ink Cartridge", "brand": "HP", "category": "Inks & Toner Cartridges", "price": 4300, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2024/12/HP-63-Tri-colour-Original-Ink.png", "imageFile": "HP-63-Tri-colour-Original-Ink.png", "description": "The HP 63 Tri-Colour Original Ink Cartridge is the ideal choice for producing high-quality, vibrant prints with stunning colours.", "inStock": true},
+  {"id": 3901, "sku": null, "name": "HP 63 Tri-Colour Original Ink Cartridge", "brand": "HP", "category": "Inks & Toner Cartridges", "price": 4300, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2024/12/HP-63-Tri-colour-Original-Ink.png", "imageFile": "HP-63-Tri-colour-Original-Ink.png", "description": `The HP 63 tri-colour ink cartridge is the genuine Original HP colour cartridge, part number F6U61AE, carrying cyan, magenta and yellow in one unit. It serves the same wide range of DeskJet, ENVY and OfficeJet all-in-ones as the HP 63 black, and the two are normally bought together since most of these printers will not run on one cartridge alone.
+
+## Compatible printers
+DeskJet: 1112, 2130, 2132, 3630, 3631, 3632, 3633, 3634, 3636, 3637, 3639
+ENVY: 4511, 4512, 4513, 4516, 4520, 4522, 4524
+OfficeJet: 3830, 3831, 3833, 4650, 4652, 4654, 4655, 5212, 5222, 5230, 5232, 5255, 5260, 5264
+If your model isn't listed, send us the number from the front of the machine and we'll confirm before you pay.
+
+## Specifications
+| Page yield | Cartridge type | Colour | Capacity | Part number | Genuine or compatible |
+|---|---|---|---|---|---|
+| ~165 pages at 5% coverage | Tri-colour ink cartridge | Cyan, magenta and yellow in one unit | Standard capacity | F6U61AE | Genuine Original HP |
+
+## Genuine or compatible?
+Genuine, Original HP in a sealed box. Not a refill and not our Royal house brand, which we sell openly under its own name. As with the black, this printer family is served by several regional HP numbers, and HP 123 tri-colour fits part of the same range at a smaller fill and a lower price. Tell us your model and how much colour you print and we will tell you which is the better buy.
+
+## Why buy from Trinatech
+Nairobi CBD stock, available over the counter today.
+Delivered countrywide by courier, Kisumu, Nakuru, Eldoret and Mombasa included.
+M-Pesa or bank transfer, invoiced properly for business customers.
+WhatsApp ordering, or come to The One Mall on River Road.
+
+## Getting the most from this cartridge
+Fit it immediately after unwrapping and take the tape off the nozzles, not the contacts.
+Seat it firmly until it clicks, then let the printer complete its start-up routine before judging print quality.
+165 pages assumes 5% coverage. A single full-page colour graphic can consume the equivalent of many text pages.
+Print something in colour every couple of weeks. A colour cartridge left idle in a printer that only ever prints black will clog and the ink is lost.
+
+## Frequently asked questions
+Is there a high-yield option? Yes, HP 63XL tri-colour fits the same machines and lasts far longer.
+Do I need the black as well? Yes for normal document printing, and most of these models require both cartridges installed.
+How soon can I have it? Same day within Nairobi, next working day for most other towns.
+Can I return it? Yes, sealed and unused.
+Only the magenta has run out. Can it be replaced on its own? No. All three colours share a single cartridge that is replaced as one unit.`, "metaTitle": "HP 63 Tri-Colour Ink Cartridge F6U61AE - Genuine HP", "metaDescription": "Genuine HP 63 tri-colour ink (F6U61AE), about 165 pages, for DeskJet 2130, 3630, ENVY 4520 and OfficeJet 3830. Nairobi stock, countrywide.", "inStock": true},
   {"id": 5080, "sku": "CE260A", "name": "HP 647A Black Toner Laserjet Original Catridge (CE260A)", "brand": "HP", "category": "HP Original Toners", "price": 18000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/HP-647A-Black-Toner-Laserjet-Original-Catridge-CE260A-scaled.webp", "imageFile": "HP-647A-Black-Toner-Laserjet-Original-Catridge-CE260A-scaled.webp", "description": "HP 647A BLACK TONER LASERJET ORIGINAL CATRIDGE (CE260A", "inStock": true},
   {"id": 5079, "sku": "CE261A", "name": "HP 648A Cyan Toner Laserjet Original Catridge (CE261A)", "brand": "HP", "category": "HP Original Toners", "price": 18000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/HP-648A-Cyan-Toner-Laserjet-Original-Catridge-CE261A-scaled.webp", "imageFile": "HP-648A-Cyan-Toner-Laserjet-Original-Catridge-CE261A-scaled.webp", "description": "HP 648A CYAN TONER LASERJET ORIGINAL CATRIDGE (CE261A", "inStock": true},
   {"id": 5078, "sku": "CE263A", "name": "HP 648A Magneta Toner Laserjet Original (CE263A)", "brand": "HP", "category": "HP Original Toners", "price": 18000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/HP-648A-Magneta-Toner-Laserjet-Original-CE263A-scaled.webp", "imageFile": "HP-648A-Magneta-Toner-Laserjet-Original-CE263A-scaled.webp", "description": "HP 648A MAGNETA TONER LASERJET ORIGINAL (CE263A", "inStock": true},
   {"id": 5077, "sku": "CE262A", "name": "HP 648A Yellow Toner Laserjet Original Catridge (CE262A)", "brand": "HP", "category": "HP Original Toners", "price": 18000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/HP-648A-Yellow-Toner-Laserjet-Original-Catridge-CE262A-scaled.webp", "imageFile": "HP-648A-Yellow-Toner-Laserjet-Original-Catridge-CE262A-scaled.webp", "description": "HP 648A YELLOW TONER LASERJET ORIGINAL CATRIDGE (CE262A", "inStock": true},
   {"id": 5076, "sku": "CC364A", "name": "HP 64A Black Toner Original Laserjet Cartridge (CC364A)", "brand": "HP", "category": "HP Original Toners", "price": 18000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/HP-64A-Black-Toner-Original-Laserjet-Cartridge-CC364A-scaled.webp", "imageFile": "HP-64A-Black-Toner-Original-Laserjet-Cartridge-CC364A-scaled.webp", "description": "HP 64A BLACK TONER ORIGINAL LASERJET CARTRIDGE (CC364A", "inStock": true},
-  {"id": 5484, "sku": "CH561H-2", "name": "HP 650 Black Ink Advantage Cartridge (CH561HE)", "brand": "HP", "category": "Original Hp Ink Cartridges", "price": 2500, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/HP-650-Black-Ink-Advantage-Cartridge-CH561HE.webp", "imageFile": "HP-650-Black-Ink-Advantage-Cartridge-CH561HE.webp", "description": "HP 650 BLACK INK ADVANTAGE CARTRIDGE (CH561HE", "inStock": true},
+  {"id": 5484, "sku": "CH561H-2", "name": "HP 650 Black Ink Advantage Cartridge (CH561HE)", "brand": "HP", "category": "Original Hp Ink Cartridges", "price": 2500, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/HP-650-Black-Ink-Advantage-Cartridge-CH561HE.webp", "imageFile": "HP-650-Black-Ink-Advantage-Cartridge-CH561HE.webp", "description": `The HP 650 black ink cartridge is the genuine Original HP Ink Advantage cartridge, part number CZ101AE, for the DeskJet Ink Advantage range HP built for markets like ours. At roughly 360 pages it is one of the better value black cartridges in the HP inkjet line, which is exactly why these printers sell so well in Kenyan offices and shops. The ink is pigment-based, so printed text resists smudging and fading on filed documents.
+
+## Compatible printers
+DeskJet Ink Advantage: 1015, 1515, 2515, 2545, 2645, 3515, 3545, 4515, 4645
+If your model isn't listed, send us the number from the front of the machine and we'll confirm before you pay.
+
+## Specifications
+| Page yield | Cartridge type | Colour | Capacity | Part number | Genuine or compatible |
+|---|---|---|---|---|---|
+| ~360 pages at 5% coverage | Single-colour ink cartridge | Black | 6.5 ml, 336 nozzles, 13.5 pl ink drop | CZ101AE | Genuine Original HP |
+
+## Genuine or compatible?
+Genuine, Original HP, sealed box. Not a refill and not our Royal house brand, which is always sold as Royal. The Ink Advantage line was designed by HP specifically for lower running costs in emerging markets, so the genuine cartridge is already competitively priced against compatibles here. That is worth weighing before choosing a non-genuine alternative, and we will give you the honest comparison if you ask.
+
+## Why buy from Trinatech
+Kept in stock at our Nairobi CBD shop for immediate collection.
+Courier delivery countrywide, Kisumu, Nakuru, Eldoret and Mombasa included.
+M-Pesa or bank transfer, with invoicing for office accounts.
+WhatsApp us, or walk in to The One Mall on River Road.
+
+## Getting the most from this cartridge
+Fit it as soon as the foil is opened. Pigment ink dries at the nozzles quickly once exposed to air.
+Peel the tape from the nozzle plate only and keep fingers away from the contacts.
+360 pages assumes 5% coverage. Heavy text, tables and forms will bring that down, sometimes sharply.
+Ink Advantage printers are built for volume, so use them. A cartridge that sits for months in a printer nobody switches on will clog long before the ink runs out.
+
+## Frequently asked questions
+Is there a higher-yield version? Yes, HP 650XL is available for the same printers where stock allows.
+Do I need the tri-colour too? Only for colour work, but most of these models want both cartridges seated before printing.
+How fast is delivery? Same day within Nairobi, next working day to most towns.
+Can I return it? Yes, sealed and unused.
+Why is this cheaper per page than other HP cartridges? Because Ink Advantage is HP's low-running-cost line. The cartridge holds more ink for the price than the standard DeskJet cartridges do.`, "metaTitle": "HP 650 Black Ink Cartridge CZ101AE - Genuine HP Kenya", "metaDescription": "Genuine HP 650 black ink (CZ101AE), about 360 pages, for DeskJet Ink Advantage 2515, 2545, 3515 and 4645. Nairobi stock, Kenya-wide.", "inStock": true},
   {"id": 3820, "sku": null, "name": "HP 650 Black Original Ink Cartridge", "brand": "HP", "category": "Inks & Toner Cartridges", "price": 2500, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2024/12/HP-650-Black-Ink.png", "imageFile": "HP-650-Black-Ink.png", "description": "The HP 650 Black Ink Cartridge is designed to provide high-quality, reliable, and efficient printing.", "inStock": true},
-  {"id": 5483, "sku": "CH561H", "name": "HP 650 Tri Color Ink Advantage Cartridge (CH561HE)", "brand": "HP", "category": "Original Hp Ink Cartridges", "price": 2300, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/HP-650-Tri-Color-Ink-Advantage-Cartridge-CH561HE.webp", "imageFile": "HP-650-Tri-Color-Ink-Advantage-Cartridge-CH561HE.webp", "description": "HP 650 TRI COLOR INK ADVANTAGE CARTRIDGE (CH561HE", "inStock": true},
+  {"id": 5483, "sku": "CH561H", "name": "HP 650 Tri Color Ink Advantage Cartridge (CH561HE)", "brand": "HP", "category": "Original Hp Ink Cartridges", "price": 2300, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/HP-650-Tri-Color-Ink-Advantage-Cartridge-CH561HE.webp", "imageFile": "HP-650-Tri-Color-Ink-Advantage-Cartridge-CH561HE.webp", "description": `The HP 650 tri-colour ink cartridge is the genuine Original HP Ink Advantage colour cartridge, part number CZ102AE, with cyan, magenta and yellow in one unit. It is the colour half of the pairing for HP's DeskJet Ink Advantage range, and it works alongside the HP 650 black. Most of these printers will not run a job unless both cartridges are installed.
+
+## Compatible printers
+DeskJet Ink Advantage: 1015, 1515, 2515, 2545, 2645, 3515, 3545, 4515, 4645
+If your model isn't listed, send us the number from the front of the machine and we'll confirm before you pay.
+
+## Specifications
+| Page yield | Cartridge type | Colour | Capacity | Part number | Genuine or compatible |
+|---|---|---|---|---|---|
+| ~200 pages at 5% coverage | Tri-colour ink cartridge | Cyan, magenta and yellow in one unit | Standard capacity | CZ102AE | Genuine Original HP |
+
+## Genuine or compatible?
+Genuine, Original HP in the sealed box. Not a refill and not our Royal house brand, which we sell openly under the Royal name. Ink Advantage cartridges are HP's own answer to the price of compatibles in this market, so the genuine option is more competitive here than it is in the standard DeskJet range. Ask us for the comparison if cost is the deciding factor and we will give it to you straight.
+
+## Why buy from Trinatech
+Stocked in the Nairobi CBD for same-day collection or dispatch.
+Countrywide courier delivery, from the lakeside towns through to Mombasa.
+M-Pesa and bank transfer both accepted, invoice on request.
+Order over WhatsApp, or visit The One Mall on River Road.
+
+## Getting the most from this cartridge
+Install it straight from the foil, removing only the nozzle tape.
+All three colours sit in one body, so when any one runs out the cartridge is spent. Mixed colour work gets better value than long runs of a single colour.
+200 pages assumes 5% coverage. Photos and full-colour pages will consume it much faster.
+Keep printing in colour occasionally even if most of your work is black, otherwise the colour nozzles dry and the remaining ink is wasted.
+
+## Frequently asked questions
+Is there a high-yield version? Yes, HP 650XL tri-colour exists for the same printers where stock allows.
+Do I need the black cartridge as well? Yes in most cases. These models generally refuse to print with only one cartridge fitted.
+How quickly can I get it? Same day in Nairobi, next working day upcountry.
+What if I ordered the wrong one? Sealed and unused cartridges can be exchanged or refunded.
+Can just the empty colour be topped up? No. The three colours share one cartridge and it is replaced as a unit.`, "metaTitle": "HP 650 Tri-Colour Ink Cartridge CZ102AE - Genuine HP", "metaDescription": "Genuine HP 650 tri-colour ink (CZ102AE), about 200 pages, for DeskJet Ink Advantage 2515, 2545, 3515 and 4645. Nairobi stock, countrywide.", "inStock": true},
   {"id": 3825, "sku": null, "name": "HP 650 Tri-Colour Original Ink Cartridge", "brand": "HP", "category": "Inks & Toner Cartridges", "price": 2500, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2024/12/HP-650-Tri-color-Ink.png", "imageFile": "HP-650-Tri-color-Ink.png", "description": "The HP 650 Tri-colour Ink Cartridge is designed to bring your prints to life with stunning, vibrant colors.", "inStock": true},
   {"id": 5075, "sku": "CE270A", "name": "HP 650A Black Toner Original Laserjet (CE270A)", "brand": "HP", "category": "HP Original Toners", "price": 22000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/HP-650A-Black-Toner-Original-Laserjet-CE270A-scaled.webp", "imageFile": "HP-650A-Black-Toner-Original-Laserjet-CE270A-scaled.webp", "description": "HP 650A BLACK TONER ORIGINAL LASERJET (CE270A", "inStock": true},
   {"id": 5074, "sku": "CE271A", "name": "HP 650A Cyan Toner Original Laserjet (CE271A)", "brand": "HP", "category": "HP Original Toners", "price": 22000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/HP-650A-Cyan-Toner-Original-Laserjet-CE271A-scaled.webp", "imageFile": "HP-650A-Cyan-Toner-Original-Laserjet-CE271A-scaled.webp", "description": "HP 650A CYAN TONER ORIGINAL LASERJET (CE271A", "inStock": true},
@@ -75,11 +236,104 @@ Is HP 60 the same as HP 121? Effectively yes. Same cartridge, same fit, same yie
   {"id": 5482, "sku": null, "name": "HP 651 Tri Color Ink Cartridge (C2P11AE)", "brand": "HP", "category": "Original Hp Ink Cartridges", "price": 3200, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/HP-651-Tri-Color-Ink-Cartridge-C2P11AE.webp", "imageFile": "HP-651-Tri-Color-Ink-Cartridge-C2P11AE.webp", "description": "HP 651 TRI COLOR INK CARTRIDGE (C2P11AE", "inStock": true},
   {"id": 5071, "sku": "CE340A", "name": "HP 651A Black Toner Laserjet Cartridge (CE340A)", "brand": "HP", "category": "HP Original Toners", "price": 22000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/HP-651A-Black-Toner-Laserjet-Cartridge-CE340A-scaled.webp", "imageFile": "HP-651A-Black-Toner-Laserjet-Cartridge-CE340A-scaled.webp", "description": "HP 651A BLACK TONER LASERJET CARTRIDGE (CE340A", "inStock": true},
   {"id": 5070, "sku": null, "name": "HP 651A Color Toners Cym Each", "brand": "HP", "category": "HP Original Toners", "price": 27000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/HP-651A-Color-Toners-Cym-Each-scaled.webp", "imageFile": "HP-651A-Color-Toners-Cym-Each-scaled.webp", "description": "HP 651A COLOR TONERS CYM EACH", "inStock": true},
-  {"id": 5481, "sku": null, "name": "HP 652 Black Ink Cartridge (F6V25AE)", "brand": "HP", "category": "Original Hp Ink Cartridges", "price": 2500, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/HP-652-Black-Ink-Cartridge-F6V25AE.webp", "imageFile": "HP-652-Black-Ink-Cartridge-F6V25AE.webp", "description": "HP 652 BLACK INK CARTRIDGE (F6V25AE", "inStock": true},
+  {"id": 5481, "sku": null, "name": "HP 652 Black Ink Cartridge (F6V25AE)", "brand": "HP", "category": "Original Hp Ink Cartridges", "price": 2500, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/HP-652-Black-Ink-Cartridge-F6V25AE.webp", "imageFile": "HP-652-Black-Ink-Cartridge-F6V25AE.webp", "description": `The HP 652 black ink cartridge is the genuine Original HP Ink Advantage cartridge, part number F6V25AE, and the successor to the HP 650 in HP's low-running-cost line. At around 360 pages it suits a small office printing invoices, delivery notes and reports on a budget that has to be predictable.
+
+## Compatible printers
+DeskJet Ink Advantage: 3775, 3789, 3790, 3835, 4535, 5075, 5275
+If your model isn't listed, send us the number from the front of the machine and we'll confirm before you pay.
+
+## Specifications
+| Page yield | Cartridge type | Colour | Capacity | Part number | Genuine or compatible |
+|---|---|---|---|---|---|
+| ~360 pages at 5% coverage | Single-colour ink cartridge | Black | Standard capacity | F6V25AE | Genuine Original HP |
+
+## Genuine or compatible?
+Genuine, Original HP in the sealed box. Not a refill and not our Royal house brand, which is always sold under the Royal name. Because Ink Advantage is HP's own low-cost line, the gap between the genuine cartridge and a compatible is narrower here than on other HP inkjet ranges. If you want that comparison made properly before you decide, ask us and we will price both.
+
+## Why buy from Trinatech
+On the shelf in the Nairobi CBD, not on back order.
+Courier delivery countrywide, whether you are in Nakuru, Eldoret or Mombasa.
+M-Pesa or bank transfer, with a proper invoice for your accounts.
+WhatsApp the model number from the front of the printer, or walk in to The One Mall on River Road.
+
+## Getting the most from this cartridge
+Fit it as soon as you open the foil and take off the nozzle tape only.
+Press it home until it clicks, then let the printer finish its start-up cycle before assessing print quality.
+360 pages assumes 5% coverage. Invoices with heavy rules and dense tables will use more.
+If the printer stands idle for weeks at a time, print a page regularly. Clogged nozzles waste far more ink than the page you printed to prevent them.
+
+## Frequently asked questions
+Is there a higher-yield version? Yes, HP 652XL exists for the same printers, subject to stock.
+Do I need the tri-colour too? Only for colour printing, though most of these models want both cartridges present.
+How long does delivery take? Same day in Nairobi, next working day for most other towns.
+Can I return it if it is wrong? Yes, sealed and unused.
+Is HP 652 the same as HP 650? No. They are both Ink Advantage cartridges with the same 360-page black yield, but they fit different printers and are not interchangeable. To be certain which yours takes, open the cartridge door and read the number printed on the cartridge already fitted, or send us the printer model and we will check it for you before you pay.`, "metaTitle": "HP 652 Black Ink Cartridge F6V25AE - Genuine HP Kenya", "metaDescription": "Genuine HP 652 black ink (F6V25AE), about 360 pages, for DeskJet Ink Advantage 3775, 3835, 4535 and 5075. Nairobi stock, across Kenya.", "inStock": true},
   {"id": 3953, "sku": null, "name": "HP 652 Black Original Ink Cartridge", "brand": "HP", "category": "Inks & Toner Cartridges", "price": 2500, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2024/12/HP-652-Black-Original-Ink.png", "imageFile": "HP-652-Black-Original-Ink.png", "description": "Works with HP DeskJet Ink Advantage: 1115, 2135, 3635, 3775, 3785, 3787, 3788, 3835, 4675, 5075, 5275", "inStock": true},
-  {"id": 5480, "sku": null, "name": "HP 652 Tri Color Ink Cartridge (F6V24AE)", "brand": "HP", "category": "Original Hp Ink Cartridges", "price": 2400, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/HP-652-Tri-Color-Ink-Cartridge-F6V24AE.webp", "imageFile": "HP-652-Tri-Color-Ink-Cartridge-F6V24AE.webp", "description": "HP 652 TRI COLOR INK CARTRIDGE (F6V24AE", "inStock": true},
+  {"id": 5480, "sku": null, "name": "HP 652 Tri Color Ink Cartridge (F6V24AE)", "brand": "HP", "category": "Original Hp Ink Cartridges", "price": 2400, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/HP-652-Tri-Color-Ink-Cartridge-F6V24AE.webp", "imageFile": "HP-652-Tri-Color-Ink-Cartridge-F6V24AE.webp", "description": `The HP 652 tri-colour ink cartridge is the genuine Original HP Ink Advantage colour cartridge, part number F6V24AE, holding cyan, magenta and yellow in a single unit. It is the colour partner to the HP 652 black on HP's DeskJet Ink Advantage range, and these printers generally will not run unless both cartridges are fitted.
+
+## Compatible printers
+DeskJet Ink Advantage: 3775, 3789, 3790, 3835, 4535, 5075, 5275
+If your model isn't listed, send us the number from the front of the machine and we'll confirm before you pay.
+
+## Specifications
+| Page yield | Cartridge type | Colour | Capacity | Part number | Genuine or compatible |
+|---|---|---|---|---|---|
+| ~200 pages at 5% coverage | Tri-colour ink cartridge | Cyan, magenta and yellow in one unit | Standard capacity | F6V24AE | Genuine Original HP |
+
+## Genuine or compatible?
+Genuine, Original HP, sealed box. Not a refill and not our Royal house brand, which we always sell as Royal so there is no ambiguity. Ink Advantage exists precisely because HP wanted a lower cost per page in this market, which makes the genuine cartridge a stronger value proposition here than in HP's other inkjet lines. We will still price a compatible against it if you ask.
+
+## Why buy from Trinatech
+Nairobi CBD stock, ready to collect the same day.
+Delivered countrywide by courier, Kisumu and the coast included.
+M-Pesa and bank transfer accepted, invoiced for business customers.
+Order on WhatsApp, or come to The One Mall on River Road.
+
+## Getting the most from this cartridge
+Open the foil only when you are ready to install, then remove the nozzle tape and seat the cartridge firmly.
+The three colours share one body, so the cartridge is finished when any single colour empties. Long runs of one colour are the quickest way to lose value.
+200 pages assumes 5% coverage. Photographs and dense graphics will fall well short of that.
+Print in colour occasionally even in a mostly black-and-white office. Idle colour nozzles clog and the ink cannot be recovered.
+
+## Frequently asked questions
+Is there a high-yield option? Yes, HP 652XL tri-colour is made for the same printers, subject to availability.
+Do I need the black too? Yes in practice, as these models normally refuse to print with one cartridge only.
+When will it arrive? Same day within Nairobi, next working day upcountry.
+What are the return terms? Sealed and unused cartridges can be exchanged or refunded.
+Can I use HP 650 instead? No. HP 650 and HP 652 fit different printers despite both being Ink Advantage cartridges. The quickest check is to read the number on the cartridge currently in the machine, or send us the printer model and we will confirm which one you need before you pay.`, "metaTitle": "HP 652 Tri-Colour Ink Cartridge F6V24AE - Genuine HP", "metaDescription": "Genuine HP 652 tri-colour ink (F6V24AE), about 200 pages, for DeskJet Ink Advantage 3775, 3835, 4535 and 5075. Nairobi stock, countrywide.", "inStock": true},
   {"id": 3956, "sku": null, "name": "HP 652 Tri-Colour Original Ink Cartridge", "brand": "HP", "category": "Inks & Toner Cartridges", "price": 2500, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2024/12/HP-652-Tri-colour-Original-Ink.png", "imageFile": "HP-652-Tri-colour-Original-Ink.png", "description": "Works with HP DeskJet Ink Advantage: 1115, 2135, 3635, 3775, 3785, 3787, 3788, 3835, 4675, 5075, 5275.", "inStock": true},
-  {"id": 5479, "sku": "CZ109A", "name": "HP 655 Black Ink Original Cartridge (CZ109AE)", "brand": "HP", "category": "Original Hp Ink Cartridges", "price": 2400, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/HP-655-Black-Ink-Original-Cartridge-CZ109AE.webp", "imageFile": "HP-655-Black-Ink-Original-Cartridge-CZ109AE.webp", "description": "HP 655 BLACK INK ORIGINAL CARTRIDGE (CZ109AE", "inStock": true},
+  {"id": 5479, "sku": "CZ109A", "name": "HP 655 Black Ink Original Cartridge (CZ109AE)", "brand": "HP", "category": "Original Hp Ink Cartridges", "price": 2400, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/HP-655-Black-Ink-Original-Cartridge-CZ109AE.webp", "imageFile": "HP-655-Black-Ink-Original-Cartridge-CZ109AE.webp", "description": `The HP 655 black ink cartridge is the genuine Original HP Ink Advantage cartridge, part number CZ109AE, for the four-cartridge DeskJet Ink Advantage machines. At roughly 550 pages it is the highest-yielding black in this group, which makes it the sensible choice for an office printing steadily rather than occasionally. The ink is pigment-based, giving sharp text that holds up on documents meant to be kept.
+
+## Compatible printers
+DeskJet Ink Advantage: 3525, 4615, 4625, 5525, 6525
+If your model isn't listed, send us the number from the front of the machine and we'll confirm before you pay.
+
+## Specifications
+| Page yield | Cartridge type | Colour | Capacity | Part number | Genuine or compatible |
+|---|---|---|---|---|---|
+| ~550 pages at 5% coverage | Single-colour ink cartridge | Black | Standard capacity, pigment-based ink | CZ109AE | Genuine Original HP |
+
+## Genuine or compatible?
+Genuine, Original HP, sealed box. Not a refill and not our Royal house brand, which is always sold under the Royal name. Note that these printers use four separate cartridges rather than a black and a tri-colour, so you replace only the colour that actually runs out. That design already saves money, and it is worth knowing before you assume a compatible is the cheaper route. Ask us and we will compare properly.
+
+## Why buy from Trinatech
+Held in Nairobi CBD stock for immediate collection.
+Countrywide courier, Nakuru, Eldoret, Kisumu and Mombasa included.
+M-Pesa or bank transfer, invoice supplied for office accounts.
+WhatsApp us the model number, or walk in to The One Mall on River Road.
+
+## Getting the most from this cartridge
+Fit it straight from the foil and remove the nozzle tape only.
+Because this printer takes four individual cartridges, keep an eye on all four levels. Running one dry usually halts printing altogether, even for black-only jobs.
+550 pages assumes 5% coverage. Dense documents will come in under that.
+Buy the colours as a set when they are close to empty rather than one at a time. It avoids repeated interruptions mid-job.
+
+## Frequently asked questions
+Do I need the colour cartridges too? Yes. These models use separate cyan, magenta and yellow cartridges and will usually stop if any is empty.
+How fast is delivery? Same day within Nairobi, next working day to most towns.
+Can I return it? Yes, sealed and unused.
+Why does this cost more than HP 650 or 652? Because it holds substantially more ink, so per page it works out cheaper rather than dearer.
+How do I know my printer takes 655 rather than 650? Open the cartridge door. Four separate cartridges rather than two means it is a 655 printer.`, "metaTitle": "HP 655 Black Ink Cartridge CZ109AE - Genuine HP Kenya", "metaDescription": "Genuine HP 655 black ink (CZ109AE), about 550 pages, for DeskJet Ink Advantage 3525, 4615, 4625, 5525 and 6525. Nairobi stock, Kenya-wide.", "inStock": true},
   {"id": 3829, "sku": null, "name": "HP 655 Black Original Ink Cartridge", "brand": "HP", "category": "Inks & Toner Cartridges", "price": 3500, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2024/12/HP-655-Black-Ink.png", "imageFile": "HP-655-Black-Ink.png", "description": "The HP 655 Black Ink Cartridge offers exceptional print quality, making it the perfect choice for home and office printing.", "inStock": true},
   {"id": 5478, "sku": "CZ119A", "name": "HP 655 Cyan Ink Original Cartridge (CZ119AE)", "brand": "HP", "category": "Original Hp Ink Cartridges", "price": 2300, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/HP-655-Cyan-Ink-Original-Cartridge-CZ119AE.webp", "imageFile": "HP-655-Cyan-Ink-Original-Cartridge-CZ119AE.webp", "description": "HP 655 CYAN INK ORIGINAL CARTRIDGE (CZ119AE", "inStock": true},
   {"id": 5477, "sku": "CZ111A", "name": "HP 655 Magenta Ink Original Cartridge (CZ111AE)", "brand": "HP", "category": "Original Hp Ink Cartridges", "price": 2300, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/HP-655-Magenta-Ink-Original-Cartridge-CZ111AE.webp", "imageFile": "HP-655-Magenta-Ink-Original-Cartridge-CZ111AE.webp", "description": "HP 655 MAGENTA INK ORIGINAL CARTRIDGE (CZ111AE", "inStock": true},
@@ -122,9 +376,71 @@ Is HP 60 the same as HP 121? Effectively yes. Same cartridge, same fit, same yie
   {"id": 4790, "sku": null, "name": "HP 87A Black Original Laserjet Toner Cartridge", "brand": "HP", "category": "Inks & Toner Cartridges", "price": 12000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2025/07/HP-87A-Black-Original-Toner.png", "imageFile": "HP-87A-Black-Original-Toner.png", "description": "Compatible with: HP LaserJet Enterprise M506 series: M506dn, M506n, M506x HP LaserJet Pro M501 series: M501dn, M501n HP LaserJet Enterprise Flow MFP M527 series: M527dn, M527f", "inStock": true},
   {"id": 5055, "sku": "CF287A", "name": "HP 87A Black Toner Original Laserjet (CF287A)", "brand": "HP", "category": "HP Original Toners", "price": 12000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/HP-87A-Black-Toner-Original-Laserjet-CF287A-scaled.webp", "imageFile": "HP-87A-Black-Toner-Original-Laserjet-CF287A-scaled.webp", "description": "HP 87A BLACK TONER ORIGINAL LASERJET (CF287A", "inStock": true},
   {"id": 5054, "sku": "CF289A", "name": "HP 89A Black Toner Cartridge (CF289A)", "brand": "HP", "category": "HP Original Toners", "price": 11000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/HP-89A-Black-Toner-Cartridge-CF289A-scaled.webp", "imageFile": "HP-89A-Black-Toner-Cartridge-CF289A-scaled.webp", "description": "HP 89A BLACK TONER CARTRIDGE (CF289A", "inStock": true},
-  {"id": 5470, "sku": "CC653A", "name": "HP 901 Black Ink Cartridge (CC653A)", "brand": "HP", "category": "Original Hp Ink Cartridges", "price": 2800, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/HP-901-Black-Ink-Cartridge-CC653A.png", "imageFile": "HP-901-Black-Ink-Cartridge-CC653A.png", "description": "HP 901 BLACK INK CARTRIDGE (CC653A", "inStock": true},
+  {"id": 5470, "sku": "CC653A", "name": "HP 901 Black Ink Cartridge (CC653A)", "brand": "HP", "category": "Original Hp Ink Cartridges", "price": 2800, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/HP-901-Black-Ink-Cartridge-CC653A.png", "imageFile": "HP-901-Black-Ink-Cartridge-CC653A.png", "description": `The HP 901 black ink cartridge is the genuine Original HP replacement, part number CC653AE, for the HP OfficeJet 4500 and J4500 series all-in-ones. These are the fax-and-copy machines that still anchor plenty of small offices and front desks in Kenya, and the cartridge is usually the only part that ever needs buying. Keeping one on the shelf is cheaper than losing the machine for a day.
+
+## Compatible printers
+OfficeJet: 4500, J4540, J4550, J4580, J4680
+If your model isn't listed, send us the number from the front of the machine and we'll confirm before you pay.
+
+## Specifications
+| Page yield | Cartridge type | Colour | Capacity | Part number | Genuine or compatible |
+|---|---|---|---|---|---|
+| ~200 pages at 5% coverage | Single-colour ink cartridge | Black | Standard capacity | CC653AE | Genuine Original HP |
+
+## Genuine or compatible?
+Genuine, Original HP in the sealed box. Not a refill and not our Royal house brand, which we always sell openly as Royal. Machines this age attract a lot of refilled stock, and a refilled cartridge on an OfficeJet that also handles your incoming faxes is a false economy: a failed cartridge can take the whole machine out of service.
+
+## Why buy from Trinatech
+Stocked in the Nairobi CBD, including for printer generations other suppliers have dropped.
+Courier delivery countrywide, from Kisumu and Nakuru through to Mombasa.
+M-Pesa or bank transfer, invoiced properly for office accounts.
+Order on WhatsApp, or walk in to The One Mall on River Road.
+
+## Getting the most from this cartridge
+Fit it immediately after opening the foil and remove only the nozzle tape.
+The printhead is built into the cartridge on this design. That is why a fresh cartridge usually clears print quality faults outright, and why refilling so often fails.
+200 pages assumes 5% coverage. Faxes and forms with heavy black areas will use more.
+If the machine has stood idle, run one or two cleaning cycles before deciding the cartridge is at fault.
+
+## Frequently asked questions
+Is there a higher-yield version? Yes, HP 901XL black fits the same printers and prints considerably more pages.
+Do I need the colour cartridge too? For colour printing yes. The colour is HP 901 tri-colour.
+How soon can I get it? Same day within Nairobi, next working day upcountry.
+Can I return it? Yes, sealed and unused.
+My machine is used mainly for faxing. Does that change anything? Received faxes still consume black ink, so the cartridge runs down even when nobody is printing. Keeping a spare avoids missing an incoming document.`, "metaTitle": "HP 901 Black Ink Cartridge CC653AE - Genuine HP Kenya", "metaDescription": "Genuine HP 901 black ink (CC653AE), about 200 pages, for HP OfficeJet 4500, J4540, J4580 and J4680. Nairobi stock, delivered across Kenya.", "inStock": true},
   {"id": 3917, "sku": null, "name": "HP 901 Black Original Ink Cartridge", "brand": "HP", "category": "Inks & Toner Cartridges", "price": 4500, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2024/12/HP-901-Black-Original-Ink.png", "imageFile": "HP-901-Black-Original-Ink.png", "description": "The HP 901 Black Original Ink Cartridge is engineered to deliver clear, sharp black text.", "inStock": true},
-  {"id": 5469, "sku": null, "name": "HP 901 Tri Color Ink Cartridge", "brand": "HP", "category": "Original Hp Ink Cartridges", "price": 3500, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/HP-901-Tri-Color-Ink-Cartridge.webp", "imageFile": "HP-901-Tri-Color-Ink-Cartridge.webp", "description": "HP 901 TRI COLOR INK CARTRIDGE", "inStock": true},
+  {"id": 5469, "sku": null, "name": "HP 901 Tri Color Ink Cartridge", "brand": "HP", "category": "Original Hp Ink Cartridges", "price": 3500, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/HP-901-Tri-Color-Ink-Cartridge.webp", "imageFile": "HP-901-Tri-Color-Ink-Cartridge.webp", "description": `The HP 901 tri-colour ink cartridge is the genuine Original HP colour cartridge, part number CC656AE, for the HP OfficeJet 4500 and J4500 series. Cyan, magenta and yellow come in one unit, and at roughly 360 pages it outlasts the matching black cartridge by a wide margin, which surprises most people buying the pair for the first time.
+
+## Compatible printers
+OfficeJet: 4500, J4540, J4550, J4580, J4680
+If your model isn't listed, send us the number from the front of the machine and we'll confirm before you pay.
+
+## Specifications
+| Page yield | Cartridge type | Colour | Capacity | Part number | Genuine or compatible |
+|---|---|---|---|---|---|
+| ~360 pages at 5% coverage | Tri-colour ink cartridge | Cyan, magenta and yellow in one unit | Standard capacity | CC656AE | Genuine Original HP |
+
+## Genuine or compatible?
+Genuine, Original HP, sealed box. Not a refill and not our Royal house brand, which is always sold as Royal. On an OfficeJet that doubles as your fax and copier, a cartridge failure takes the whole machine down rather than just delaying a print job, which is the practical argument for the genuine box on this model.
+
+## Why buy from Trinatech
+Nairobi CBD stock, available over the counter.
+Countrywide courier delivery, Nakuru, Eldoret, Kisumu and Mombasa included.
+M-Pesa and bank transfer both accepted, with invoicing for offices.
+WhatsApp ordering, or visit us at The One Mall on River Road.
+
+## Getting the most from this cartridge
+Install it as soon as the foil is open, taking the tape from the nozzles only.
+The three colours share one body, so the cartridge is spent when any one colour empties, regardless of how much of the other two remains.
+360 pages assumes 5% coverage. Colour-heavy work will use it far quicker.
+Because the colour outlasts the black on this model, you will usually replace two blacks for every colour. Stocking accordingly saves repeat trips.
+
+## Frequently asked questions
+Do I need the black as well? Yes for normal documents. The black is HP 901.
+How long is delivery? Same day in Nairobi, next working day for most other towns.
+What are the return terms? Sealed and unused cartridges can be exchanged or refunded.
+Why does the colour last longer than the black? The tri-colour holds more ink overall and most office work is text, so the black simply gets used harder.
+Can I check the ink level? The OfficeJet reports estimated levels on its front panel, though treat that reading as a guide rather than an exact count.`, "metaTitle": "HP 901 Tri-Colour Ink Cartridge CC656AE - Genuine HP", "metaDescription": "Genuine HP 901 tri-colour ink (CC656AE), about 360 pages, for HP OfficeJet 4500, J4540, J4580 and J4680. Nairobi stock, countrywide delivery.", "inStock": true},
   {"id": 3920, "sku": null, "name": "HP 901 Tri-Colour Original Ink Cartridge", "brand": "HP", "category": "Inks & Toner Cartridges", "price": 4500, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2024/12/HP-901-Tri-colour-Original-Ink.png", "imageFile": "HP-901-Tri-colour-Original-Ink.png", "description": "The HP 901 Tri-colour Original Ink Cartridge offers an exceptional printing experience with vivid, true-to-life colours.", "inStock": true},
   {"id": 5468, "sku": null, "name": "HP 903 Black Ink High Capacity Cartridge (T6M15AE)", "brand": "HP", "category": "Original Hp Ink Cartridges", "price": 3500, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/HP-903-Black-Ink-High-Capacity-Cartridge-T6M15AE.webp", "imageFile": "HP-903-Black-Ink-High-Capacity-Cartridge-T6M15AE.webp", "description": "HP 903 BLACK INK HIGH CAPACITY CARTRIDGE (T6M15AE", "inStock": true},
   {"id": 5467, "sku": null, "name": "HP 903 Cyan Ink Original Cartridge (T6L87AE)", "brand": "HP", "category": "Original Hp Ink Cartridges", "price": 3500, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/HP-903-Cyan-Ink-Original-Cartridge-T6L87AE.webp", "imageFile": "HP-903-Cyan-Ink-Original-Cartridge-T6L87AE.webp", "description": "HP 903 CYAN INK ORIGINAL CARTRIDGE (T6L87AE", "inStock": true},

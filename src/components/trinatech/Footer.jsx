@@ -2,6 +2,7 @@ import React from "react";
 import { Link } from "react-router-dom";
 import TriBar from "./TriBar";
 import BrandLogo from "./BrandLogo";
+import FooterBrands from "./FooterBrands";
 
 const SocialLinks = [
   {
@@ -85,6 +86,7 @@ export default function Footer() {
           <Link to="/shop">Toners by Brand</Link>
           <Link to="/shop?category=Maintenance+Kits+%26+Spare+Parts">Maintenance &amp; Parts</Link>
         </div>
+        <FooterBrands />
         <div className="foot-contact">
           <h4>Contact</h4>
           <div><a href="tel:+254729589346">+254 729 589 346</a></div>

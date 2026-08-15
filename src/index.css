@@ -190,6 +190,14 @@
 .nav-links a::after { content: ""; position: absolute; left: 0; bottom: 0; width: 0; height: 2px; background: var(--red); transition: width 0.25s; }
 .nav-links a:hover::after { width: 100%; }
 
+/* Brands dropdown trigger — mirrors .nav-links a exactly */
+.nav-brand-trigger { position: relative; display: inline-flex; align-items: center; gap: 6px; padding: 6px 0; font-size: 14px; font-weight: 500; font-family: var(--font-body); color: var(--ink-soft); background: none; border: none; cursor: pointer; transition: color 0.2s; }
+.nav-brand-trigger:hover, .nav-brand-trigger.is-open, .nav-brand-trigger.is-active { color: var(--ink); }
+.nav-brand-trigger::after { content: ""; position: absolute; left: 0; bottom: 0; width: 0; height: 2px; background: var(--red); transition: width 0.25s; }
+.nav-brand-trigger:hover::after, .nav-brand-trigger.is-open::after, .nav-brand-trigger.is-active::after { width: 100%; }
+.nav-brand-trigger .nav-brand-caret { transition: transform 0.2s; }
+.nav-brand-trigger.is-open .nav-brand-caret { transform: rotate(180deg); }
+
 /* Buttons */
 .tt-btn { display: inline-flex; align-items: center; gap: 10px; border-radius: 999px; padding: 14px 28px; font-size: 15px; font-weight: 600; border: none; transition: transform 0.2s, box-shadow 0.2s; }
 .tt-btn-red { background: var(--red); color: #fff; }
@@ -458,7 +466,7 @@
 
 /* Footer */
 .tt-footer { background: var(--navy-deep); color: #b8bedb; padding: 70px 0 0; margin-top: 96px; }
-.foot-grid { display: grid; grid-template-columns: 1.4fr 1fr 1fr 1.2fr; gap: 44px; padding-bottom: 54px; }
+.foot-grid { display: grid; grid-template-columns: 1.4fr 1fr 1fr 1fr 1.2fr; gap: 44px; padding-bottom: 54px; }
 .foot-grid h4 { font-family: var(--font-body); font-size: 11.5px; letter-spacing: 2px; text-transform: uppercase; color: #8a92b8; margin-bottom: 18px; }
 .foot-grid a { display: block; padding: 5px 0; font-size: 14.5px; transition: color 0.2s; }
 .foot-grid a:hover { color: #fff; }

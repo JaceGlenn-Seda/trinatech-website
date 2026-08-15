@@ -2,6 +2,7 @@ import React, { useState } from "react";
 import { Link, useLocation } from "react-router-dom";
 import BrandLogo from "./BrandLogo";
 import { useCart } from "@/context/CartContext";
+import BrandsDropdown, { BrandsMobileSection } from "./BrandsDropdown";
 
 const links = [
   { label: "About", href: "/about", page: true },
@@ -34,9 +35,12 @@ export default function Navbar() {
             </Link>
             <nav className="nav-links nav-zone--center" aria-label="Main">
               {links.map(l => (
-                l.page
-                  ? <Link key={l.href} to={l.href}>{l.label}</Link>
-                  : <a key={l.href} href={getHref(l.href)}>{l.label}</a>
+                <React.Fragment key={l.href}>
+                  {l.label === "Supplies" && <BrandsDropdown />}
+                  {l.page
+                    ? <Link to={l.href}>{l.label}</Link>
+                    : <a href={getHref(l.href)}>{l.label}</a>}
+                </React.Fragment>
               ))}
             </nav>
           <div className="nav-actions nav-zone--right">
@@ -89,9 +93,12 @@ export default function Navbar() {
             🔍 Search products
           </button>
           {links.map(l => (
-            l.page
-              ? <Link key={l.href} to={l.href} onClick={() => setMenuOpen(false)}>{l.label}</Link>
-              : <a key={l.href} href={getHref(l.href)} onClick={() => setMenuOpen(false)}>{l.label}</a>
+            <React.Fragment key={l.href}>
+              {l.label === "Supplies" && <BrandsMobileSection onNavigate={() => setMenuOpen(false)} />}
+              {l.page
+                ? <Link to={l.href} onClick={() => setMenuOpen(false)}>{l.label}</Link>
+                : <a href={getHref(l.href)} onClick={() => setMenuOpen(false)}>{l.label}</a>}
+            </React.Fragment>
           ))}
           <button
             className="mobile-cart-row"

@@ -9,6 +9,13 @@
 
 const BANNER_HP = "https://media.base44.com/images/public/6a2af0be8cd723993cb3cb6c/8c2a45bc4_image.png";
 const BANNER_KYOCERA = "https://media.base44.com/images/public/6a2af0be8cd723993cb3cb6c/ed668a4d2_image.png";
+const BANNER_ROYAL = "https://media.base44.com/images/public/6a2af0be8cd723993cb3cb6c/f8f1f22e7_image.png";
+const BANNER_RICOH = "https://media.base44.com/images/public/6a2af0be8cd723993cb3cb6c/b6c5a24f5_image.png";
+const BANNER_CANON = "https://media.base44.com/images/public/6a2af0be8cd723993cb3cb6c/e791b9af1_image.png";
+const BANNER_EPSON = "https://media.base44.com/images/public/6a2af0be8cd723993cb3cb6c/da82eaf44_image.png";
+const BANNER_BROTHER = "https://media.base44.com/images/public/6a2af0be8cd723993cb3cb6c/f9da50884_image.png";
+const BANNER_SHARP = "https://media.base44.com/images/public/6a2af0be8cd723993cb3cb6c/558feef10_image.png";
+const BANNER_TOSHIBA = "https://media.base44.com/images/public/6a2af0be8cd723993cb3cb6c/7b541857c_image.png";
 
 export const BRANDS = [
   {
@@ -70,7 +77,7 @@ export const BRANDS = [
   {
     name: "Royal",
     slug: "royal",
-    banner: null,
+    banner: BANNER_ROYAL,
     headline: "Royal Compatible Toner Cartridges in Kenya",
     metaTitle: "Royal Compatible Toner Cartridges in Kenya | Trinatech",
     metaDescription:
@@ -98,7 +105,7 @@ export const BRANDS = [
   {
     name: "Ricoh",
     slug: "ricoh",
-    banner: null,
+    banner: BANNER_RICOH,
     headline: "Ricoh Toner Cartridges in Kenya",
     metaTitle: "Ricoh Toner Cartridges in Kenya | Trinatech",
     metaDescription:
@@ -126,7 +133,7 @@ export const BRANDS = [
   {
     name: "Canon",
     slug: "canon",
-    banner: null,
+    banner: BANNER_CANON,
     headline: "Canon Toner & Ink Cartridges in Kenya",
     metaTitle: "Canon Toner & Ink Cartridges in Kenya | Trinatech",
     metaDescription:
@@ -154,7 +161,7 @@ export const BRANDS = [
   {
     name: "Epson",
     slug: "epson",
-    banner: null,
+    banner: BANNER_EPSON,
     headline: "Epson Ink Bottles, Ribbons & Printers in Kenya",
     metaTitle: "Epson EcoTank Ink & Dot Matrix Ribbons in Kenya | Trinatech",
     metaDescription:
@@ -182,7 +189,7 @@ export const BRANDS = [
   {
     name: "Brother",
     slug: "brother",
-    banner: null,
+    banner: BANNER_BROTHER,
     headline: "Brother Toner & Ink Cartridges in Kenya",
     metaTitle: "Brother Toner & Ink Cartridges in Kenya | Trinatech",
     metaDescription:
@@ -210,7 +217,7 @@ export const BRANDS = [
   {
     name: "Sharp",
     slug: "sharp",
-    banner: null,
+    banner: BANNER_SHARP,
     headline: "Sharp Copier Toner Cartridges in Kenya",
     metaTitle: "Sharp AR & MX Copier Toner in Kenya | Trinatech",
     metaDescription:
@@ -238,7 +245,7 @@ export const BRANDS = [
   {
     name: "Toshiba",
     slug: "toshiba",
-    banner: null,
+    banner: BANNER_TOSHIBA,
     headline: "Toshiba e-STUDIO Toner Cartridges in Kenya",
     metaTitle: "Toshiba e-STUDIO Copier Toner in Kenya | Trinatech",
     metaDescription:

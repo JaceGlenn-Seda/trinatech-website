@@ -1,4 +1,5 @@
 import React, { useEffect, useMemo, useState } from "react";
+import { Link } from "react-router-dom";
 import { PRODUCTS, formatPrice, isComingSoon } from "@/data/products";
 import usePageMeta from "@/hooks/usePageMeta";
 import { useCart } from "@/context/CartContext";
@@ -10,6 +11,7 @@ import SearchOverlay from "@/components/trinatech/SearchOverlay";
 import CartDrawer from "@/components/trinatech/CartDrawer";
 import CheckoutModal from "@/components/trinatech/CheckoutModal";
 import ProductMarkdown from "@/components/trinatech/ProductMarkdown";
+import { getBrandByName } from "@/data/brands";
 
 const NAVY = "#1a2c6b";
 const RED = "#d3222a";
@@ -164,12 +166,14 @@ function ProductDetailContent() {
           </h1>
 
           <div className="mt-3 flex items-center gap-3">
-            <span
-              className="rounded px-2.5 py-1 font-sans text-xs font-semibold uppercase tracking-wider text-white"
-              style={{ background: NAVY }}
-            >
-              {product.brand}
-            </span>
+            {(() => {
+              const brandPage = getBrandByName(product.brand);
+              const cls = "rounded px-2.5 py-1 font-sans text-xs font-semibold uppercase tracking-wider text-white";
+              const style = { background: NAVY, textDecoration: "none" };
+              return brandPage
+                ? <Link to={`/brands/${brandPage.slug}`} className={cls} style={style}>{product.brand}</Link>
+                : <span className={cls} style={style}>{product.brand}</span>;
+            })()}
             {comingSoon ? (
               <span className="rounded px-2.5 py-1 font-sans text-xs font-semibold uppercase tracking-wider text-white" style={{ background: GOLD }}>
                 Coming Soon

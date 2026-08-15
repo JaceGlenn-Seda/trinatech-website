@@ -96,7 +96,6 @@ export default function Footer() {
       <div className="foot-bottom">
         <div className="tt-container">
           <div className="fb-copyright">© 2026 Trinatech Toners and Printers. All rights reserved.</div>
-          <div className="fb-payments" style={{ fontFamily: "var(--font-mono)", fontSize: 12 }}>M-Pesa · Cash · Bank transfer accepted</div>
           <div className="fb-attribution">
             <span>Built and powered by </span>
             <a className="jb-credit-link" href="https://jacedigitalstudio.framer.website/" target="_blank" rel="noopener noreferrer">

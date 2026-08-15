@@ -464,7 +464,8 @@
 .foot-grid a:hover { color: #fff; }
 .foot-brand p { font-size: 14px; max-width: 300px; margin-top: 16px; }
 .foot-brand .tt-logo .word b { color: #fff; }
-.socials { display: flex; gap: 10px; margin-top: 22px; }
+.foot-brand h4 { margin-top: 26px; margin-bottom: 8px; }
+.foot-brand .socials { display: flex; gap: 10px; margin-top: 0; }
 .socials a { width: 38px; height: 38px; border-radius: 50%; border: 1px solid rgba(255,255,255,0.18); display: grid; place-items: center; font-size: 13px; padding: 0; transition: all 0.2s; }
 .socials a:hover { background: var(--gold); color: var(--ink); border-color: var(--gold); }
 .foot-contact div { font-family: var(--font-body); font-size: 13.5px; padding: 4px 0; }

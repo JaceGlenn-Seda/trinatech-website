@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700;800&family=IBM+Plex+Mono:wght@400;500;600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700;800&family=IBM+Plex+Mono:wght@400;500;600&family=Lexend:wght@400;500;600&display=swap');
 
 @tailwind base;
 @tailwind components;
@@ -471,6 +471,15 @@
 .foot-contact div { font-family: var(--font-body); font-size: 13.5px; padding: 4px 0; }
 .foot-bottom { border-top: 1px solid rgba(255,255,255,0.1); }
 .foot-bottom .tt-container { display: flex; justify-content: space-between; align-items: center; padding-top: 22px; padding-bottom: 22px; font-size: 13px; font-family: var(--font-body); color: #8a92b8; flex-wrap: wrap; gap: 10px; }
+.fb-payments { flex: 1; text-align: center; }
+.fb-attribution { display: inline-flex; align-items: center; gap: 6px; color: #8a92b8; font-size: 13px; font-family: 'Lexend', sans-serif !important; }
+.jb-credit-link { display: inline-flex; align-items: center; gap: 6px; color: #8a92b8; transition: color 0.2s; }
+.jb-credit-link:hover { color: #c4cad8; }
+.jb-logo { height: 24px; width: auto; border-radius: 4px; object-fit: contain; display: block; flex-shrink: 0; }
+@media (max-width: 720px) {
+  .foot-bottom .tt-container { flex-direction: column; align-items: center; text-align: center; gap: 8px; }
+  .fb-payments { flex: none; }
+}
 
 /* WhatsApp float */
 .wa-float { position: fixed; right: 22px; bottom: 22px; z-index: 60; background: #25D366; color: #fff; border-radius: 999px; display: flex; align-items: center; gap: 10px; padding: 14px 22px; font-weight: 700; font-size: 14.5px; box-shadow: 0 14px 30px rgba(37,211,102,0.4); transition: transform 0.2s, opacity 0.4s ease; }

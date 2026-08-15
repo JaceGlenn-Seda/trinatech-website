@@ -95,8 +95,15 @@ export default function Footer() {
       </div>
       <div className="foot-bottom">
         <div className="tt-container">
-          <div>© 2026 Trinatech Toners and Printers. All rights reserved.</div>
-          <div style={{ fontFamily: "var(--font-mono)", fontSize: 12 }}>M-Pesa · Cash · Bank transfer accepted</div>
+          <div className="fb-copyright">© 2026 Trinatech Toners and Printers. All rights reserved.</div>
+          <div className="fb-payments" style={{ fontFamily: "var(--font-mono)", fontSize: 12 }}>M-Pesa · Cash · Bank transfer accepted</div>
+          <div className="fb-attribution">
+            <span>Built and powered by </span>
+            <a className="jb-credit-link" href="https://jacedigitalstudio.framer.website/" target="_blank" rel="noopener noreferrer">
+              <img className="jb-logo" src="https://media.base44.com/images/public/6a2af0be8cd723993cb3cb6c/e0f85c424_image.png" alt="Jace Studio" width="24" height="24" loading="lazy" />
+              <span>Jace Studio</span>
+            </a>
+          </div>
         </div>
       </div>
       <TriBar />

@@ -5,6 +5,7 @@ import { CartProvider } from "@/lib/CartContext";
 import TriBar from "../components/trinatech/TriBar";
 import Navbar from "../components/trinatech/Navbar";
 import Footer from "../components/trinatech/Footer";
+import PaymentDetails from "../components/trinatech/PaymentDetails";
 
 export default function Contact() {
   usePageMeta({
@@ -127,6 +128,8 @@ export default function Contact() {
                 </form>
               </div>
             </div>
+
+            <PaymentDetails />
           </div>
         </main>
 

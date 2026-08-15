@@ -1,4 +1,4 @@
-import React, { useEffect, useMemo } from "react";
+import React, { useEffect, useMemo, useState } from "react";
 import { PRODUCTS, formatPrice, isComingSoon } from "@/data/products";
 import usePageMeta from "@/hooks/usePageMeta";
 import { useCart } from "@/context/CartContext";
@@ -40,6 +40,7 @@ function ProductDetailContent() {
   const product = useMemo(() => PRODUCTS.find((p) => p.id === id), [id]);
   const { addToCart } = useCart();
   const comingSoon = isComingSoon(product);
+  const [mpesaOpen, setMpesaOpen] = useState(false);
 
   const related = useMemo(() => {
     if (!product) return [];
@@ -227,6 +228,35 @@ function ProductDetailContent() {
               </span>
             ))}
           </div>
+
+          {/* Expandable M-Pesa details */}
+          <button
+            type="button"
+            onClick={() => setMpesaOpen(o => !o)}
+            aria-expanded={mpesaOpen}
+            className="mt-3 inline-flex items-center gap-2 font-sans text-xs font-semibold uppercase tracking-widest"
+            style={{ color: NAVY, background: "transparent", border: "none", padding: 0, cursor: "pointer" }}
+          >
+            <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2.5" strokeLinecap="round" strokeLinejoin="round" aria-hidden="true">
+              {mpesaOpen ? <path d="M5 12h14" /> : <path d="M12 5v14M5 12h14" />}
+            </svg>
+            {mpesaOpen ? "Hide" : "View"} M-Pesa details
+          </button>
+          {mpesaOpen && (
+            <div className="mt-3 rounded-lg border p-4" style={{ borderColor: "#e5e7eb", background: "#f9fafb" }}>
+              <div className="flex flex-wrap items-baseline justify-between gap-3">
+                <div>
+                  <div className="font-sans text-[10px] font-semibold uppercase tracking-widest text-gray-500">M-Pesa Buy Goods · Till</div>
+                  <div className="font-sans font-extrabold" style={{ fontSize: "1.6rem", color: "#00A651", letterSpacing: "1.5px", lineHeight: 1.1, marginTop: 2 }}>763&nbsp;651</div>
+                </div>
+                <div className="text-right">
+                  <div className="font-sans text-[10px] font-semibold uppercase tracking-widest text-gray-500">Business name</div>
+                  <div className="font-sans text-sm font-semibold" style={{ color: NAVY, marginTop: 2 }}>Trinatech Services Ltd</div>
+                </div>
+              </div>
+              <p className="mt-3 font-sans text-xs text-gray-500">Lipa na M-Pesa → Buy Goods and Services → Till 763651</p>
+            </div>
+          )}
         </div>
       </div>
 

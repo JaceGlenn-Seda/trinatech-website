@@ -678,6 +678,24 @@
 /* Focus */
 a:focus-visible, button:focus-visible, summary:focus-visible { outline: 3px solid var(--navy); outline-offset: 3px; border-radius: 6px; }
 
+/* ---- Payment details block (Contact page) ---- */
+.pay-block { margin-top: 72px; }
+.pay-options { display: grid; grid-template-columns: 1fr 1fr; gap: 22px; margin-top: 32px; }
+.pay-option { background: #fff; border: 1px solid var(--line); border-radius: var(--tt-radius); padding: 28px 26px 26px; position: relative; overflow: hidden; }
+.pay-option::before { content: ""; position: absolute; top: 0; left: 0; right: 0; height: 4px; background: linear-gradient(90deg, var(--navy) 40%, var(--gold) 40% 60%, var(--red) 60%); }
+.pay-opt-head { display: flex; align-items: center; gap: 10px; margin-bottom: 16px; }
+.pay-opt-tag { color: #fff; font-family: var(--font-body); font-size: 11px; font-weight: 700; letter-spacing: 1.4px; padding: 5px 10px; border-radius: 6px; }
+.pay-opt-name { font-family: var(--font-display); font-size: 15px; font-weight: 600; color: var(--ink-soft); letter-spacing: -0.2px; }
+.pay-big-number { font-family: var(--font-display); font-size: clamp(36px, 6vw, 52px); font-weight: 800; letter-spacing: 2px; line-height: 1; margin-bottom: 18px; }
+.pay-opt-meta { display: flex; flex-direction: column; gap: 8px; }
+.pay-meta-row { display: flex; justify-content: space-between; align-items: baseline; font-size: 14px; gap: 12px; }
+.pay-meta-row span { color: var(--ink-soft); }
+.pay-meta-row b { font-family: var(--font-display); font-weight: 600; color: var(--ink); }
+.pay-meta-note { font-size: 13px; color: var(--ink-soft); margin-top: 4px; }
+@media (max-width: 720px) {
+  .pay-options { grid-template-columns: 1fr; }
+}
+
 /* ---- Product description markdown ---- */
 .pd-desc-md { font-family: var(--font-body); color: var(--ink-soft); }
 .pd-desc-md .pd-h2 {

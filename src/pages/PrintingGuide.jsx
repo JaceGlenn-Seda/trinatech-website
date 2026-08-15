@@ -17,14 +17,14 @@ const topics = [
   },
   {
     heading: "Choosing between inkjet and laser printing",
-    body: "Laser printers use dry toner powder fused onto paper with heat — producing sharp, fast, durable text output. Inkjet printers use liquid ink sprayed through microscopic nozzles — ideal for photo-quality colour output but slower and more expensive per page at high volumes. For most Nairobi offices printing primarily text documents, emails, invoices and reports, a monochrome laser printer is the most cost-effective choice. For businesses needing high-quality colour output such as brochures, presentations and certificates, a colour laser MFP (like the Ricoh MPC2503) offers the best combination of quality and running cost.",
+    body: "Laser printers use dry toner powder fused onto paper with heat — producing sharp, fast, durable text output. Inkjet printers use liquid ink sprayed through microscopic nozzles — ideal for photo-quality colour output but slower and more expensive per page at high volumes. For most Kenyan offices printing primarily text documents, emails, invoices and reports, a monochrome laser printer is the most cost-effective choice. For businesses needing high-quality colour output such as brochures, presentations and certificates, a colour laser MFP (like the Ricoh MPC2503) offers the best combination of quality and running cost.",
   },
   {
     heading: "Maintaining your printer in Nairobi's climate",
     body: "Nairobi's relatively dusty environment — particularly near industrial and commercial areas — accelerates the accumulation of paper dust and airborne particles inside printers. This reduces drum life and causes paper feed problems. Key maintenance habits include: running a cleaning page monthly, keeping the printer covered when not in use, using quality A4 paper (80 gsm minimum), and positioning the printer away from direct sunlight and air conditioning vents. For high-volume machines running 500+ pages per day, a quarterly professional clean by a qualified technician is recommended to prevent premature component failure.",
   },
   {
-    heading: "How to reduce printing costs for your Nairobi business",
+    heading: "How to reduce printing costs for your Kenyan business",
     body: "The biggest levers for reducing printing costs are: switching from inkjet to laser for high-volume mono printing, moving from standard-yield to high-yield cartridges, using compatible toner (Royal Superior range) for everyday documents, enabling duplex (double-sided) printing by default, and setting default print quality to 'Draft' for internal documents. Offices that track their monthly print volume and match cartridge selection to that volume typically reduce consumable spend by 30–50% without any reduction in output quality. Trinatech offers free cost-per-page analysis for businesses spending over KSh 10,000 per month on print consumables.",
   },
 ];
@@ -54,7 +54,7 @@ export default function PrintingGuide() {
               The Complete Office Printing Guide for Kenyan Businesses
             </h1>
             <p style={{ fontSize: 17.5, lineHeight: 1.75, color: "var(--ink-soft)", marginBottom: 48, maxWidth: 660, borderLeft: "4px solid var(--red)", paddingLeft: 20 }}>
-              Everything a Nairobi business needs to know about buying toner, choosing the right printer, reducing print costs, and keeping office machines running at peak performance — written by Trinatech's expert team with over 10 years of hands-on experience.
+              Everything a Kenyan business needs to know about buying toner, choosing the right printer, reducing print costs, and keeping office machines running at peak performance — written by Trinatech's expert team with over 10 years of hands-on experience.
             </p>
 
             {topics.map((t, i) => (
@@ -70,7 +70,7 @@ export default function PrintingGuide() {
             <div style={{ background: "linear-gradient(135deg, var(--navy-deep), var(--navy))", borderRadius: "var(--tt-radius-lg)", padding: "36px 40px", color: "#fff", display: "flex", justifyContent: "space-between", alignItems: "center", gap: 20, flexWrap: "wrap" }}>
               <div>
                 <div style={{ fontFamily: "var(--font-display)", fontSize: 20, fontWeight: 700, letterSpacing: "-0.4px" }}>Ready to order? Our team is standing by.</div>
-                <div style={{ fontSize: 14, color: "#9aa3c8", marginTop: 6 }}>Same-day delivery across Nairobi. Genuine products. Honest pricing.</div>
+                <div style={{ fontSize: 14, color: "#9aa3c8", marginTop: 6 }}>Same-day delivery in Nairobi, countrywide courier across Kenya. Genuine products. Honest pricing.</div>
               </div>
               <a className="tt-btn tt-btn-red" href="https://wa.me/254729589346?text=Hi%20Trinatech!%20I%20read%20your%20printing%20guide%20and%20need%20help." target="_blank" rel="noopener noreferrer">
                 WhatsApp us →

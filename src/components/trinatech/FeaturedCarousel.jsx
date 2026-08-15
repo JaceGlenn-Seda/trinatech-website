@@ -91,7 +91,7 @@ export default function FeaturedCarousel() {
             Featured — Royal, our house brand
           </p>
           <h2 className="mt-2 text-2xl font-extrabold text-white md:text-3xl">
-            Quality compatibles at the best prices in Nairobi
+            Quality compatibles at the best prices in Kenya
           </h2>
         </div>
 

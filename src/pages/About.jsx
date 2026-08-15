@@ -9,7 +9,7 @@ import Footer from "../components/trinatech/Footer";
 export default function About() {
   usePageMeta({
     title: "About Trinatech | Printer Shop River Road CBD Nairobi",
-    description: "Trinatech Toners & Printers Kenya is Nairobi's go-to store for genuine HP, Canon, Kyocera & Epson toners. Based at The One Mall, River Road CBD Nairobi.",
+    description: "Trinatech Toners & Printers Kenya is Kenya's go-to store for genuine HP, Canon, Kyocera & Epson toners. Based at The One Mall, River Road CBD Nairobi.",
   });
   return (
     <CartProvider>
@@ -28,7 +28,7 @@ export default function About() {
 
             <span className="eyebrow-label">Our Story</span>
             <h1 style={{ fontFamily: "var(--font-display)", fontSize: "clamp(32px,5vw,52px)", fontWeight: 800, letterSpacing: "-2px", lineHeight: 1.06, marginBottom: 28, marginTop: 12 }}>
-              Nairobi's trusted source for<br />printers &amp; toner cartridges
+              Kenya's trusted source for<br />printers &amp; toner cartridges
             </h1>
 
             <div style={{ display: "grid", gridTemplateColumns: "1fr 1fr", gap: 48, alignItems: "start" }}>
@@ -44,7 +44,7 @@ export default function About() {
               </div>
               <div>
                 <p style={{ fontSize: 17, lineHeight: 1.75, color: "var(--ink-soft)", marginBottom: 18 }}>
-                  <strong style={{ color: "var(--ink)" }}>Trinatech Toners and Printers</strong> was founded over a decade ago with a single goal: give Nairobi businesses access to genuine, reliable printer consumables at honest prices — without the runaround.
+                  <strong style={{ color: "var(--ink)" }}>Trinatech Toners and Printers</strong> was founded over a decade ago with a single goal: give Kenyan businesses access to genuine, reliable printer consumables at honest prices — without the runaround.
                 </p>
                 <p style={{ fontSize: 16, lineHeight: 1.75, color: "var(--ink-soft)", marginBottom: 18 }}>
                   We are based at <strong style={{ color: "var(--ink)" }}>The One Mall, Ground Floor, River Road</strong> — opposite Nagin Pattni in the heart of Nairobi's commercial district. From our shop, we serve thousands of offices, schools, hospitals, cyber cafés and print bureaus every year across Kenya.
@@ -57,7 +57,7 @@ export default function About() {
 
             <div style={{ marginTop: 48 }}>
               <h2 style={{ fontFamily: "var(--font-display)", fontSize: 26, fontWeight: 700, letterSpacing: "-0.6px", marginBottom: 20, color: "var(--navy)" }}>
-                Why businesses across Nairobi choose Trinatech
+                Why businesses across Kenya choose Trinatech
               </h2>
               <div style={{ display: "grid", gridTemplateColumns: "repeat(auto-fill, minmax(220px, 1fr))", gap: 20 }}>
                 {[
@@ -78,7 +78,7 @@ export default function About() {
             <div style={{ marginTop: 56, background: "var(--paper-2)", borderRadius: "var(--tt-radius-lg)", padding: "36px 40px", border: "1px solid var(--line)" }}>
               <h2 style={{ fontFamily: "var(--font-display)", fontSize: 22, fontWeight: 700, letterSpacing: "-0.5px", marginBottom: 12 }}>Who we serve</h2>
               <p style={{ fontSize: 15.5, lineHeight: 1.75, color: "var(--ink-soft)", marginBottom: 12 }}>
-                Our customers range from sole traders printing a few invoices a week to large corporate offices managing fleets of 20+ machines. We supply schools and universities across Nairobi with bulk toner orders, support cyber cafés with high-volume consumables, and work with print bureaus that need A3 colour toner in consistent supply.
+                Our customers range from sole traders printing a few invoices a week to large corporate offices managing fleets of 20+ machines. We supply schools and universities across Kenya with bulk toner orders, support cyber cafés with high-volume consumables, and work with print bureaus that need A3 colour toner in consistent supply.
               </p>
               <p style={{ fontSize: 15.5, lineHeight: 1.75, color: "var(--ink-soft)" }}>
                 We also serve IT managers, procurement officers and resellers who need a reliable Nairobi supplier they can call when stock runs low. If you need a quote for 10 cartridges or 100, our team responds within the hour — usually within minutes on WhatsApp.

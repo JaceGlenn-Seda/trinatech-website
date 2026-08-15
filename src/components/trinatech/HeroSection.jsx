@@ -19,13 +19,13 @@ export default function HeroSection() {
           <div className="eyebrow"><span className="dot"></span> Nairobi · The One Mall, River Road</div>
         </RevealWrap>
         <RevealWrap>
-          <h1 aria-label="Nairobi's One-Stop Shop for Toners, Ink & Printers">
-            Nairobi's One-Stop Shop for{" "}
+          <h1 aria-label="Kenya's One-Stop Shop for Toners, Ink & Printers">
+            Kenya's One-Stop Shop for{" "}
             <TypewriterWord words={["Toners", "Printers", "Cartridges", "Inks", "Photocopiers"]} />
           </h1>
         </RevealWrap>
         <RevealWrap>
-          <p>Trinatech stocks 1,000+ genuine and compatible toners, ink cartridges, printers and copiers from HP, Kyocera, Canon, Epson, Ricoh, Brother, Toshiba and Royal. Based at The One Mall, Ground Floor, River Road CBD, Nairobi. Same-day service available.</p>
+          <p>Trinatech stocks 1,000+ genuine and compatible toners, ink cartridges, printers and copiers from HP, Kyocera, Canon, Epson, Ricoh, Brother, Toshiba and Royal. Based at The One Mall, Ground Floor, River Road CBD, Nairobi. Same-day delivery in Nairobi, countrywide courier to Kisumu, Nakuru, Eldoret and Mombasa.</p>
         </RevealWrap>
         <RevealWrap>
           <div className="cta-row">

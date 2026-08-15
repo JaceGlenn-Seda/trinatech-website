@@ -263,7 +263,7 @@ function ProductDetailContent() {
       {/* TRUST ROW */}
       <div className="mt-10 grid grid-cols-1 gap-4 rounded-lg border border-gray-200 bg-gray-50 p-6 text-center sm:grid-cols-3">
         {[
-          ["🚚", "Delivery in Nairobi"],
+          ["🚚", "Delivery across Kenya"],
           ["✅", "100% Genuine Products"],
           ["🏬", "Pickup at The One Mall, River Road"],
         ].map(([icon, label]) => (

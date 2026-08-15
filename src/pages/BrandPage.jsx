@@ -150,24 +150,42 @@ function BrandPageContent() {
         </section>
       )}
 
-      <div className="tt-container" style={{ paddingTop: 24, paddingBottom: 96 }}>
-        {/* BREADCRUMB */}
-        <nav aria-label="Breadcrumb" style={{ fontFamily: "var(--font-mono)", fontSize: 12, color: "var(--ink-soft)", marginBottom: 16 }}>
-          <Link to="/" style={{ color: "var(--ink-soft)" }}>Home</Link>
-          <span style={{ margin: "0 8px", opacity: 0.4 }}>›</span>
-          <Link to="/shop" style={{ color: "var(--ink-soft)" }}>Brands</Link>
-          <span style={{ margin: "0 8px", opacity: 0.4 }}>›</span>
-          <span style={{ color: "var(--ink)" }}>{brand.name}</span>
+      {/* ================= INTRO ================= */}
+      <section className="tt-container pt-6 pb-2">
+        <nav aria-label="Breadcrumb" className="text-[13px]" style={{ color: "var(--ink-soft)" }}>
+          <Link to="/" style={{ color: "var(--red)" }}>Home</Link>
+          <span style={{ margin: "0 8px", opacity: 0.5 }}>›</span>
+          <Link to="/shop" style={{ color: "var(--red)" }}>Brands</Link>
+          <span style={{ margin: "0 8px", opacity: 0.5 }}>›</span>
+          <span style={{ color: "var(--navy)" }}>{brand.name}</span>
         </nav>
 
-        {/* H1 lives here, not in the banner image, so search engines read it */}
         <h1 className="sr-only">{brand.headline}</h1>
-        <span className="eyebrow-label">{brand.name} Store</span>
-        <p style={{ maxWidth: "62ch", marginTop: 14, fontSize: 15.5, lineHeight: 1.75, color: "var(--ink-soft)" }}>
-          {brand.intro}
-        </p>
 
-        {/* ================= SHOP ================= */}
+        <div className="mt-7 grid gap-x-14 gap-y-4 lg:grid-cols-[minmax(0,1.15fr)_minmax(0,1fr)]">
+          <p className="text-[19px] leading-[1.55] font-medium sm:text-[21px]" style={{ color: "var(--navy)" }}>
+            {brand.lead}
+          </p>
+          <p className="text-[15px] leading-[1.75] lg:pt-1" style={{ color: "var(--ink-soft)" }}>
+            {brand.body}
+          </p>
+        </div>
+
+        <div className="mt-9 grid gap-4 sm:grid-cols-3 items-stretch">
+          {brand.points.map((pt) => (
+            <div key={pt.title} className="flex flex-col rounded-2xl p-5" style={{ background: "var(--paper-2)", border: "1px solid var(--line)" }}>
+              <span className="mb-3 block h-[3px] w-8 rounded-full" style={{ background: "var(--red)" }} />
+              <h2 className="text-[15px] font-semibold" style={{ color: "var(--navy)" }}>{pt.title}</h2>
+              <p className="mt-2 text-[14px] leading-[1.65]" style={{ color: "var(--ink-soft)" }}>{pt.text}</p>
+            </div>
+          ))}
+        </div>
+
+        <div className="mt-12 h-px w-full" style={{ background: "var(--line)" }} />
+      </section>
+
+      {/* ================= SHOP ================= */}
+      <div className="tt-container" style={{ paddingTop: 0, paddingBottom: 96 }}>
         <div style={{ display: "flex", flexDirection: "column", gap: 12, marginTop: 28 }}>
           {/* search + sort */}
           <div style={{ display: "flex", gap: 12, flexWrap: "wrap", alignItems: "center" }}>

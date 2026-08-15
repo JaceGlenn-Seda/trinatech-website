@@ -146,7 +146,7 @@ export default function CheckoutModal() {
                 <div className="pay-methods">
                   {[
                     { id: "mpesa", label: "M-Pesa", icon: "📱", desc: "Till or Paybill — instant" },
-                    { id: "bank", label: "Bank Transfer", icon: "🏦", desc: "Equity / KCB / NCBA" },
+                    { id: "bank", label: "Bank Transfer", icon: "🏦", desc: "KCB Paybill — fast" },
                     { id: "cash", label: "Cash on Delivery", icon: "💵", desc: "Pay on delivery in Nairobi" },
                   ].map(m => (
                     <label key={m.id} className={`pay-method${payMethod === m.id ? " selected" : ""}`}>
@@ -165,7 +165,8 @@ export default function CheckoutModal() {
                     <div className="pdb-title">M-Pesa Instructions</div>
                     <ol className="pdb-steps">
                       <li>Go to M-Pesa → Lipa na M-Pesa → Buy Goods & Services</li>
-                      <li>Enter Till Number: <b>5678901</b></li>
+                      <li>Enter Till Number: <b>763651</b></li>
+                      <li>Business name shown: <b>TRINATECH SERVICES LTD</b></li>
                       <li>Amount: <b>KSh {fmt(total)}</b></li>
                       <li>Enter your PIN and confirm</li>
                       <li>Paste the M-Pesa confirmation code below</li>
@@ -185,9 +186,10 @@ export default function CheckoutModal() {
                   <div className="pay-details-box">
                     <div className="pdb-title">Bank Transfer Details</div>
                     <div className="bank-details">
-                      <div><span>Bank</span><b>Equity Bank</b></div>
+                      <div><span>Bank</span><b>KCB Bank</b></div>
                       <div><span>Account Name</span><b>Trinatech Services Ltd</b></div>
-                      <div><span>Account No.</span><b>0123456789012</b></div>
+                      <div><span>Paybill</span><b>522533</b></div>
+                      <div><span>Account Number</span><b>7732733</b></div>
                       <div><span>Branch</span><b>River Road, Nairobi</b></div>
                       <div><span>Amount</span><b>KSh {fmt(total)}</b></div>
                       <div><span>Reference</span><b>{orderRef}</b></div>

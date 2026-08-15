@@ -122,6 +122,146 @@ export const BRANDS = [
     ],
     match: (p) => p.brand === "Ricoh",
   },
+
+  {
+    name: "Canon",
+    slug: "canon",
+    banner: null,
+    headline: "Canon Toner & Ink Cartridges in Kenya",
+    metaTitle: "Canon Toner & Ink Cartridges in Kenya | Trinatech",
+    metaDescription:
+      "Genuine Canon PIXMA ink, i-SENSYS toner and C-EXV copier cartridges. In stock in Nairobi, delivered across Kenya.",
+
+    lead: "Canon covers two very different jobs, and we stock for both.",
+    body: "PIXMA ink cartridges for the desktop printers found in homes and small offices, and C-EXV toner for the i-SENSYS and imageRUNNER copiers that sit in larger ones.",
+    points: [
+      {
+        title: "PIXMA ink",
+        text: "PG and CL cartridges for the compact all-in-ones — the black and tri-colour pairs most Canon desktop printers take.",
+      },
+      {
+        title: "C-EXV copier toner",
+        text: "The bottles that feed i-SENSYS and imageRUNNER machines, in black and the full colour set.",
+      },
+      {
+        title: "Check before you buy",
+        text: "Canon numbering runs across several generations. Send us the model and we will confirm which cartridge it actually takes.",
+      },
+    ],
+    match: (p) => p.brand === "Canon",
+  },
+
+  {
+    name: "Epson",
+    slug: "epson",
+    banner: null,
+    headline: "Epson Ink Bottles, Ribbons & Printers in Kenya",
+    metaTitle: "Epson EcoTank Ink & Dot Matrix Ribbons in Kenya | Trinatech",
+    metaDescription:
+      "Epson EcoTank ink bottles, dot matrix ribbons and printers in stock in Nairobi. Genuine 664, 003 and 101 series ink, delivered across Kenya.",
+
+    lead: "Epson runs two ranges that matter in Kenya, and they could not be more different.",
+    body: "EcoTank ink bottles for the refillable tank printers that have taken over small offices, and ribbons for the dot matrix machines still printing multi-part invoices and delivery notes across the country.",
+    points: [
+      {
+        title: "EcoTank ink bottles",
+        text: "The 664, 003, 101 and 673 series. Cost per page on a tank printer is a fraction of a cartridge machine, which is why these sell as fast as they do.",
+      },
+      {
+        title: "Dot matrix ribbons",
+        text: "LQ and LX ribbons for the machines that print carbon-copy invoice books. Nothing else does that job, which is why these printers are still working.",
+      },
+      {
+        title: "Printers and projectors",
+        text: "EcoTank machines, thermal receipt printers, and the EB series projectors for boardrooms and training rooms.",
+      },
+    ],
+    match: (p) => p.brand === "Epson",
+  },
+
+  {
+    name: "Brother",
+    slug: "brother",
+    banner: null,
+    headline: "Brother Toner & Ink Cartridges in Kenya",
+    metaTitle: "Brother Toner & Ink Cartridges in Kenya | Trinatech",
+    metaDescription:
+      "Genuine Brother TN toner, DR drum units and LC ink cartridges. In stock in Nairobi, delivered across Kenya.",
+
+    lead: "Brother mono lasers are quietly reliable, and the running costs are low if you understand how they work.",
+    body: "We stock TN toner cartridges, DR drum units and LC ink across the DCP, HL and MFC ranges.",
+    points: [
+      {
+        title: "Toner and drum are separate",
+        text: "This catches people out. The TN cartridge is the toner; the DR unit is the drum and lasts several toners. Replacing the wrong one is a common and expensive mistake.",
+      },
+      {
+        title: "TN series toner",
+        text: "TN-2130 through TN-3437 and the colour TN-261 and TN-273 sets for the colour DCP and MFC machines.",
+      },
+      {
+        title: "LC ink cartridges",
+        text: "LC3717 and LC3719XL for the inkjet multifunction machines, in black and the full colour set.",
+      },
+    ],
+    match: (p) => p.brand === "Brother",
+  },
+
+  {
+    name: "Sharp",
+    slug: "sharp",
+    banner: null,
+    headline: "Sharp Copier Toner Cartridges in Kenya",
+    metaTitle: "Sharp AR & MX Copier Toner in Kenya | Trinatech",
+    metaDescription:
+      "Sharp AR and MX series copier toner cartridges in stock in Nairobi. Genuine and compatible, delivered across Kenya.",
+
+    lead: "Sharp copiers are built for offices that photocopy all day, and we stock the toner that keeps them running.",
+    body: "The AR and MX series cover most of the Sharp machines installed in Kenyan offices, schools and print bureaus.",
+    points: [
+      {
+        title: "AR series",
+        text: "AR-016FT, AR-021, AR-27FT, AR-310 and AR-450 — the workhorse mono copiers still in daily service.",
+      },
+      {
+        title: "MX series",
+        text: "MX-235FT through MX-561NT, including the colour sets for the MX-23FT range.",
+      },
+      {
+        title: "Genuine or compatible",
+        text: "Both are available on most Sharp numbers. Tell us your monthly volume and we will tell you which actually works out cheaper.",
+      },
+    ],
+    match: (p) => p.brand === "Sharp",
+  },
+
+  {
+    name: "Toshiba",
+    slug: "toshiba",
+    banner: null,
+    headline: "Toshiba e-STUDIO Toner Cartridges in Kenya",
+    metaTitle: "Toshiba e-STUDIO Copier Toner in Kenya | Trinatech",
+    metaDescription:
+      "Toshiba T-series toner for e-STUDIO copiers, in stock in Nairobi. Genuine and compatible options, delivered across Kenya.",
+
+    lead: "Toshiba e-STUDIO machines are heavy-duty copiers, and the T-series toner is what feeds them.",
+    body: "We stock the common T-series numbers for the e-STUDIO range, in genuine and compatible where both are available.",
+    points: [
+      {
+        title: "T-series toner",
+        text: "T-2320D, T-2507P, T-3008P and T-5070P — the numbers covering most e-STUDIO machines in service here.",
+      },
+      {
+        title: "Built for volume",
+        text: "These are high-yield cartridges for machines that copy in the thousands rather than the hundreds.",
+      },
+      {
+        title: "Not stocked? Ask.",
+        text: "The Toshiba range we hold is deliberately focused. If you need a number that is not listed, we can usually source it.",
+      },
+    ],
+    match: (p) => p.brand === "Toshiba",
+  },
 ];
 
 export const getBrand = (slug) => BRANDS.find((b) => b.slug === slug);

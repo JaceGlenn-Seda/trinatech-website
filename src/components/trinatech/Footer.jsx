@@ -60,6 +60,7 @@ export default function Footer() {
           <BrandLogo variant="footer" />
         </Link>
           <p>Your one-stop shop for all printer inks, toner cartridges, printers, copiers, parts, computers &amp; accessories in Nairobi — honest pricing, genuine products, same-day delivery. Major brands in stock: HP, Kyocera, Royal, Ricoh, Canon, Epson, Brother, Sharp &amp; Toshiba.</p>
+          <h4>Follow us</h4>
           <div className="socials">
             {SocialLinks.map(s => (
               <a key={s.label} href={s.href} aria-label={s.label} target="_blank" rel="noopener noreferrer">
@@ -78,7 +79,7 @@ export default function Footer() {
           <Link to="/#faq">FAQ</Link>
         </div>
         <div>
-          <h4>Shop</h4>
+          <h4>Shop with us</h4>
           <Link to="/shop?category=Printers+%26+Copiers">Printers &amp; Copiers</Link>
           <Link to="/shop?category=Inks+%26+Toner+Cartridges">Inks &amp; Toners</Link>
           <Link to="/shop">Toners by Brand</Link>

@@ -34,12 +34,12 @@ export default function About() {
             <div style={{ display: "grid", gridTemplateColumns: "1fr 1fr", gap: 48, alignItems: "start" }}>
               <div>
                 <img
-                  src="https://images.unsplash.com/photo-1497366216548-37526070297c?w=800&q=80"
-                  alt="Trinatech Toners and Printers office in Nairobi"
+                  src="https://media.base44.com/images/public/6a2af0be8cd723993cb3cb6c/c866e05d1_Trinatechshopimage.png"
+                  alt="Trinatech Services Ltd shopfront at The One Mall, Ground Floor, River Road, Nairobi"
                   loading="lazy"
-                  width="800"
-                  height="320"
-                  style={{ width: "100%", borderRadius: "var(--tt-radius-lg)", objectFit: "cover", height: 320 }}
+                  width="406"
+                  height="541"
+                  style={{ width: "100%", height: "auto", aspectRatio: "3 / 4", objectFit: "cover", objectPosition: "center", borderRadius: "var(--tt-radius-lg)", display: "block" }}
                 />
               </div>
               <div>

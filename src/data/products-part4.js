@@ -7,29 +7,17 @@ export const PRODUCTS_4 = [
   {"id": 3584, "sku": null, "name": "Pressure Roller For HP Laserjet 1102/1018/1020 Printers", "brand": "HP", "category": "Printer Parts", "price": 1800, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2024/12/Pressure-Roller-for-HP-LaserJet.png", "imageFile": "Pressure-Roller-for-HP-LaserJet.png", "description": `The Pressure Roller For HP Laserjet 1102/1018/1020 Printers is a high-grade replacement lower fuser roller for compact HP and Canon desktop monochrome laser printers. Built with durable silicone rubber to restore perfect toner adhesion and prevent paper curling and jamming.
 
 ## Compatible printers
-
 HP LaserJet 1010
-
 HP LaserJet 1012
-
 HP LaserJet 1015
-
 HP LaserJet 1018
-
 HP LaserJet 1020
-
 HP LaserJet 1022
-
 HP LaserJet P1102
-
 HP LaserJet P1102w
-
 Canon LBP 2900
-
 Canon LBP 3000
-
 If your model isn't listed, send us the number from the front of the machine and we'll confirm before you pay.
-
 ## Specifications
 
 | Part type | Material | Machine section | Part compatibility | Genuine or compatible |
@@ -45,17 +33,11 @@ Premium Compatible replacement part. Engineered to match OEM HP dimensions and t
 Stock held in Nairobi CBD. Delivery across Kenya including Kisumu, Nakuru, Eldoret, and Mombasa. M-Pesa and bank transfer accepted. WhatsApp ordering and walk-in options at The One Mall, River Road.
 
 ## Getting the most from this product
-
 When replacing the pressure roller, it is highly recommended to inspect and replace the Teflon fuser film sleeve at the same time to ensure complete fuser reliability.
-
 ## Frequently asked questions
-
 Will this fix accordion paper jams? Yes, a worn or spongy lower pressure roller is the leading cause of paper accordion jams at the rear of these printers.
-
 How fast is Nairobi delivery? Same-day inside 1 to 3 hours.
-
 How do I pay? Pay via M-Pesa Buy Goods/Till or bank transfer.
-
 Is warranty included? Covered against manufacturing defects.`,
   "metaTitle": "HP LaserJet P1102 / 1020 Pressure Roller - Trinatech",
   "metaDescription": "Shop lower pressure roller for HP LaserJet 1018, 1020, P1102 printers in Nairobi. Fix fuser accordion paper jams reliably. Fast shipping.",
@@ -63,23 +45,14 @@ Is warranty included? Covered against manufacturing defects.`,
   {"id": 3587, "sku": null, "name": "Pressure Roller For HP Laserjet 2050/2055/PRO 400 Printers", "brand": "HP", "category": "Printer Parts", "price": 1800, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2024/12/Pressure-Roller-for-HP-LaserJet.png", "imageFile": "Pressure-Roller-for-HP-LaserJet.png", "description": `The Pressure Roller For HP Laserjet 2050/2055/PRO 400 Printers is a heavy-duty silicone rubber lower fuser roller designed for high-speed HP workgroup printers. Restores essential nip pressure against the fuser film, ensuring toner melts permanently into the page without smudging or ghosting.
 
 ## Compatible printers
-
 HP LaserJet P2035
-
 HP LaserJet P2055
-
 HP LaserJet P2055d
-
 HP LaserJet P2055dn
-
 HP LaserJet Pro 400 M401a / M401n
-
 HP LaserJet Pro 400 M401d / M401dn
-
 HP LaserJet Pro 400 MFP M425dn
-
 If your model isn't listed, send us the number from the front of the machine and we'll confirm before you pay.
-
 ## Specifications
 
 | Part type | Material | Machine section | Part compatibility | Genuine or compatible |
@@ -95,19 +68,12 @@ High-grade Compatible replacement part. Designed to withstand the high temperatu
 Stock held in Nairobi CBD. Delivery across Kenya including Kisumu, Nakuru, Eldoret, and Mombasa. M-Pesa and bank transfer accepted. WhatsApp ordering and walk-in options at The One Mall, River Road.
 
 ## Getting the most from this product
-
 Apply high-temperature fuser grease (not included) to the internal heating element under the Teflon sleeve when rebuilding the fuser unit to ensure smooth rotation.
-
 ## Frequently asked questions
-
 Why is my paper jamming at the back door? A wrinkled or degraded pressure roller causes the paper to drag and accordion jam before exiting.
-
 Will this fix smudging toner? Yes, if the roller lacks pressure, the toner will not fuse properly.
-
 How fast is Nairobi delivery? 1 to 3 hours across Nairobi CBD.
-
 How can I pay? Pay via M-Pesa or bank wire.
-
 Is warranty provided? Covered against factory defects.`,
   "metaTitle": "HP LaserJet P2055 / Pro 400 Pressure Roller - Trinatech",
   "metaDescription": "Buy lower pressure roller for HP LaserJet P2035, P2055, Pro 400 M401, M425 in Nairobi. High-quality fuser rebuild part. Fast delivery.",
@@ -191,19 +157,12 @@ Is warranty provided? Covered against factory defects.`,
   {"id": 5250, "sku": null, "name": "Km 2560/300 Pick Up Rollers", "brand": "Other", "category": "Maintenance Kits & Spare Parts", "price": 1800, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/Km-2560-300-Pick-Up-Rollers-scaled.webp", "imageFile": "Km-2560-300-Pick-Up-Rollers-scaled.webp", "description": `The Km 2560/300 Pick Up Rollers provide essential paper feeding performance for Kyocera Mita monochrome copiers. Designed with high-friction, wear-resistant rubber to reliably pull paper from the cassette trays without slipping, eliminating frustrating misfeeds and false jam errors.
 
 ## Compatible printers
-
 Kyocera KM-2540
-
 Kyocera KM-2560
-
 Kyocera KM-3040
-
 Kyocera KM-3060
-
 Kyocera TASKalfa 300i
-
 If your model isn't listed, send us the number from the front of the machine and we'll confirm before you pay.
-
 ## Specifications
 
 | Part type | Material | Machine section | Part compatibility | Genuine or compatible |
@@ -219,19 +178,12 @@ Premium Compatible replacement rollers. Manufactured to precise Kyocera OEM dime
 Stock held in Nairobi CBD. Delivery across Kenya including Kisumu, Nakuru, Eldoret, and Mombasa. M-Pesa and bank transfer accepted. WhatsApp ordering and walk-in options at The One Mall, River Road.
 
 ## Getting the most from this product
-
 When replacing pickup rollers, it is highly recommended to clean the separation pad or replace it simultaneously to ensure single-sheet feeding.
-
 ## Frequently asked questions
-
 Will this fix paper not pulling from the tray? Yes, bald or hardened pickup rollers are the primary cause of paper failing to lift from the cassette.
-
 Are these sold as a set? Yes, typically sold as the necessary roller set for one cassette tray.
-
 How fast is Nairobi delivery? Delivered within 1 to 3 hours across Nairobi CBD.
-
 How can I pay? Pay via M-Pesa, bank wire, or cash.
-
 Is warranty provided? Covered against factory defects.`,
   "metaTitle": "Kyocera KM-2560 / 300i Pick Up Rollers Price - Trinatech",
   "metaDescription": "Buy Kyocera KM-2560 and TASKalfa 300i paper pickup rollers in Nairobi. Fix paper feed issues for KM-3060, KM-2540. Fast Kenya delivery.",
@@ -240,19 +192,12 @@ Is warranty provided? Covered against factory defects.`,
   {"id": 5248, "sku": null, "name": "Km 6525 Drum", "brand": "Other", "category": "Maintenance Kits & Spare Parts", "price": 9500, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/Km-6525-Drum-scaled.webp", "imageFile": "Km-6525-Drum-scaled.webp", "description": `The Km 6525 Drum (DK-475 compatible) is a complete replacement imaging drum unit for Kyocera ECOSYS and TASKalfa multifunction copiers. Engineered to restore factory-level print clarity, sharp black text, and clear document contrast for busy office networks in Kenya.
 
 ## Compatible printers
-
 Kyocera FS-6525MFP
-
 Kyocera FS-6530MFP
-
 Kyocera TASKalfa 255
-
 Kyocera TASKalfa 255b
-
 Kyocera TASKalfa 305
-
 If your model isn't listed, send us the number from the front of the machine and we'll confirm before you pay.
-
 ## Specifications
 
 | Page yield | Part type | Colour | Part number | Genuine or compatible |
@@ -268,19 +213,12 @@ This is a high-grade Compatible drum unit. It provides a highly economical drop-
 Stock held in Nairobi CBD. Delivery across Kenya including Kisumu, Nakuru, Eldoret, and Mombasa. M-Pesa and bank transfer accepted. WhatsApp ordering and walk-in options at The One Mall, River Road.
 
 ## Getting the most from this product
-
 Remove the protective black paper shield only when you are ready to insert the unit into the machine. Exposure to strong room light or sunlight will damage the photosensitive cylinder.
-
 ## Frequently asked questions
-
 Does it include the developer? No, this is the imaging drum unit only (DK-475); the developer unit (DV-475) is separate.
-
 How long will this drum last? Designed to yield up to 300,000 pages under standard office conditions.
-
 How fast is Nairobi shipping? Same-day inside 1 to 3 hours.
-
 How do I pay? Pay via M-Pesa Buy Goods/Till or bank wire.
-
 Is warranty included? Covered against manufacturing defects prior to installation.`,
   "metaTitle": "Kyocera FS-6525MFP Drum Unit Price - Trinatech Kenya",
   "metaDescription": "Order compatible Kyocera FS-6525MFP drum unit in Nairobi. Replaces DK-475 for FS-6525, FS-6530, TASKalfa 255 copiers. Fast delivery.",
@@ -293,17 +231,11 @@ Is warranty included? Covered against manufacturing defects prior to installatio
   {"id": 5263, "sku": "KM-1800", "name": "Opc Drum KM-1800", "brand": "Other", "category": "Maintenance Kits & Spare Parts", "price": 3000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/Opc-Drum-KM-1800-scaled.webp", "imageFile": "Opc-Drum-KM-1800-scaled.webp", "description": `The Opc Drum KM-1800 is a premium bare Organic Photo-Conductor (OPC) cylinder replacement for Kyocera TASKalfa desktop copiers. Formulated with a long-life coating to eliminate repeating black dots, streaks, and washed-out text on administrative documents.
 
 ## Compatible printers
-
 Kyocera TASKalfa 1800
-
 Kyocera TASKalfa 1801
-
 Kyocera TASKalfa 2200
-
 Kyocera TASKalfa 2201
-
 If your model isn't listed, send us the number from the front of the machine and we'll confirm before you pay.
-
 ## Specifications
 
 | Part type | Material | Machine section | Part compatibility | Genuine or compatible |
@@ -319,19 +251,12 @@ Premium Compatible replacement cylinder. Designed for technicians to affordably 
 Stock held in Nairobi CBD. Delivery across Kenya including Kisumu, Nakuru, Eldoret, and Mombasa. M-Pesa and bank transfer accepted. WhatsApp ordering and walk-in options at The One Mall, River Road.
 
 ## Getting the most from this product
-
 Dust the new cylinder lightly with setting powder or yellow toner before installation to prevent the cleaning blade from gripping and flipping on the first rotation.
-
 ## Frequently asked questions
-
 Is the cleaning blade included? No, the cleaning blade is sold separately (see Ta 1800 Cleaning Blade).
-
 Can I install this myself? Rebuilding a drum unit requires technical knowledge and disassembly.
-
 How fast is Nairobi delivery? Delivered within 1 to 3 hours across Nairobi.
-
 How can I pay? Pay via M-Pesa, bank wire, or cash.
-
 Is warranty provided? Covered against factory defect prior to installation.`,
   "metaTitle": "Kyocera TASKalfa 1800 OPC Drum Price - Trinatech Kenya",
   "metaDescription": "Buy Kyocera TASKalfa 1800 OPC drum in Nairobi. Affordable rebuild cylinder for TA-1800, TA-1801, TA-2200, TA-2201 copiers. Fast shipping.",
@@ -339,21 +264,13 @@ Is warranty provided? Covered against factory defect prior to installation.`,
   {"id": 5262, "sku": "KM-2050", "name": "Opc Drum KM-2050", "brand": "Other", "category": "Maintenance Kits & Spare Parts", "price": 2500, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/Opc-Drum-KM-2050-scaled.webp", "imageFile": "Opc-Drum-KM-2050-scaled.webp", "description": `The Opc Drum KM-2050 provides a high-durability bare OPC cylinder for Kyocera Mita KM-series monochrome copiers. Engineered to restore crisp, high-contrast printing and resolve background shading issues without the cost of a full drum assembly replacement.
 
 ## Compatible printers
-
 Kyocera KM-1620
-
 Kyocera KM-1635
-
 Kyocera KM-1650
-
 Kyocera KM-2035
-
 Kyocera KM-2050
-
 Kyocera KM-2550
-
 If your model isn't listed, send us the number from the front of the machine and we'll confirm before you pay.
-
 ## Specifications
 
 | Part type | Material | Machine section | Part compatibility | Genuine or compatible |
@@ -369,17 +286,11 @@ This is a premium Compatible OPC drum cylinder, designed specifically to rebuild
 Stock held in Nairobi CBD. Delivery across Kenya including Kisumu, Nakuru, Eldoret, and Mombasa. M-Pesa and bank transfer accepted. WhatsApp ordering and walk-in options at The One Mall, River Road.
 
 ## Getting the most from this product
-
 Keep the cylinder wrapped in its black UV-blocking paper until the exact moment of installation. UV light degrades the drum's ability to hold a static charge.
-
 ## Frequently asked questions
-
 Do I need to change anything else? Yes, it is heavily advised to replace the drum cleaning blade at the same time to prevent the old blade from scratching the new drum.
-
 How fast is Nairobi shipping? Same-day inside 1 to 3 hours.
-
 How do I pay? M-Pesa Buy Goods/Till or bank transfer.
-
 Is warranty included? Covered against physical defects upon arrival.`,
   "metaTitle": "Kyocera KM-2050 OPC Drum Cylinder Price - Trinatech",
   "metaDescription": "Order Kyocera KM-2050 OPC drum cylinder in Nairobi. Long-life replacement for KM-1620, KM-1650, KM-2050, KM-2550 copiers. Fast delivery.",
@@ -388,9 +299,7 @@ Is warranty included? Covered against physical defects upon arrival.`,
   {"id": 5242, "sku": null, "name": "Pressure Roller", "brand": "Other", "category": "Maintenance Kits & Spare Parts", "price": 2000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/Pressure-Roller-scaled.webp", "imageFile": "Pressure-Roller-scaled.webp", "description": `The Pressure Roller is a vital fuser assembly component for office laser printers and copiers. Built with high-temperature silicone rubber around a rigid metal shaft, it applies the exact nip pressure needed against the heat roller (or Teflon sleeve) to permanently bond toner to the paper.
 
 ## Compatible printers
-
 This is a general listing for a lower pressure roller. We stock pressure rollers for hundreds of HP, Canon, and Kyocera printers. Please specify your exact printer model when ordering so we can dispatch the correct dimension roller.
-
 ## Specifications
 
 | Part type | Material | Machine section | Function | Genuine or compatible |
@@ -406,17 +315,11 @@ Premium Compatible replacement roller. Offers high heat resistance and excellent
 Stock held in Nairobi CBD. Delivery across Kenya including Kisumu, Nakuru, Eldoret, and Mombasa. M-Pesa and bank transfer accepted. WhatsApp ordering and walk-in options at The One Mall, River Road.
 
 ## Getting the most from this product
-
 Ensure the fuser pressure springs are tensioned evenly during reassembly. Never use sharp tools to clear paper jams from the fuser, as this permanently damages the rubber.
-
 ## Frequently asked questions
-
 Will this fix paper getting stuck like an accordion? Yes, a wrinkled, torn, or spongy pressure roller is the primary cause of accordion paper jams in the fuser.
-
 How fast is Nairobi delivery? Delivered within 1 to 3 hours across Nairobi CBD.
-
 How can I pay? Pay via M-Pesa, bank wire, or cash.
-
 Is warranty provided? Covered against factory defects.`,
   "metaTitle": "Printer Lower Pressure Roller Price - Trinatech Kenya",
   "metaDescription": "Buy replacement lower pressure roller for laser printers in Nairobi. Fix fuser paper jams and poor toner melting. Fast delivery across Kenya.",
@@ -436,17 +339,11 @@ Is warranty provided? Covered against factory defects.`,
   {"id": 5241, "sku": null, "name": "Ta 1800 Cleaning Blade", "brand": "Other", "category": "Maintenance Kits & Spare Parts", "price": 1000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/Ta-1800-Cleaning-Blade-scaled.webp", "imageFile": "Ta-1800-Cleaning-Blade-scaled.webp", "description": `The Ta 1800 Cleaning Blade is a precise polyurethane wiper blade designed for the imaging unit of Kyocera TASKalfa desktop copiers. It seamlessly scrapes residual waste toner off the OPC drum after each rotation, ensuring clean, streak-free backgrounds on your printed documents.
 
 ## Compatible printers
-
 Kyocera TASKalfa 1800
-
 Kyocera TASKalfa 1801
-
 Kyocera TASKalfa 2200
-
 Kyocera TASKalfa 2201
-
 If your model isn't listed, send us the number from the front of the machine and we'll confirm before you pay.
-
 ## Specifications
 
 | Part type | Material | Machine section | Part compatibility | Genuine or compatible |
@@ -462,19 +359,12 @@ This is a premium Compatible cleaning blade. It provides exceptional wear resist
 Stock held in Nairobi CBD. Delivery across Kenya including Kisumu, Nakuru, Eldoret, and Mombasa. M-Pesa and bank transfer accepted. WhatsApp ordering and walk-in options at The One Mall, River Road.
 
 ## Getting the most from this product
-
 Always lubricate the edge of the new blade with setting powder or yellow toner before securing it against the drum cylinder to prevent it from flipping under high friction.
-
 ## Frequently asked questions
-
 Will this stop thin black lines on my copies? Yes, vertical black lines are the primary symptom of a worn or nicked cleaning blade.
-
 Should I replace the drum too? Yes, we recommend replacing the OPC drum (see Opc Drum KM-1800) simultaneously.
-
 How fast is Nairobi delivery? Delivered within 1 to 3 hours in Nairobi.
-
 How do I pay? Pay via M-Pesa Buy Goods/Till or bank transfer.
-
 Is warranty included? Covered against manufacturing defects.`,
   "metaTitle": "Kyocera TASKalfa 1800 Cleaning Blade Price - Trinatech",
   "metaDescription": "Order Kyocera TASKalfa 1800 drum cleaning blade in Nairobi. Fits TA-1800, TA-1801, TA-2200, TA-2201 copiers to fix print streaks. Fast shipping.",
@@ -482,17 +372,11 @@ Is warranty included? Covered against manufacturing defects.`,
   {"id": 5240, "sku": null, "name": "Ta 1800 Fuser Roller", "brand": "Other", "category": "Maintenance Kits & Spare Parts", "price": 2200, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/Ta-1800-Fuser-Roller.webp", "imageFile": "Ta-1800-Fuser-Roller.webp", "description": `The Ta 1800 Fuser Roller is a premium upper heating roller engineered for Kyocera TASKalfa monochrome copiers. Coated in high-quality non-stick Teflon, it provides the rapid thermal transfer required to melt toner perfectly onto the page without ghosting or paper sticking.
 
 ## Compatible printers
-
 Kyocera TASKalfa 1800
-
 Kyocera TASKalfa 1801
-
 Kyocera TASKalfa 2200
-
 Kyocera TASKalfa 2201
-
 If your model isn't listed, send us the number from the front of the machine and we'll confirm before you pay.
-
 ## Specifications
 
 | Part type | Material | Machine section | Part compatibility | Genuine or compatible |
@@ -508,17 +392,11 @@ This is a high-grade Compatible replacement heat roller. Designed to perfectly m
 Stock held in Nairobi CBD. Delivery across Kenya including Kisumu, Nakuru, Eldoret, and Mombasa. M-Pesa and bank transfer accepted. WhatsApp ordering and walk-in options at The One Mall, River Road.
 
 ## Getting the most from this product
-
 Check the fuser picker fingers when installing this roller. If the fingers have hardened toner stuck to them, they will immediately scratch the new Teflon coating, destroying the roller.
-
 ## Frequently asked questions
-
 Why is toner rubbing off my printed pages? A failed or scratched upper heat roller loses temperature and cannot fuse the toner into the paper fibers.
-
 How fast is Nairobi shipping? Same-day inside 1 to 3 hours across Nairobi CBD.
-
 How can I pay? Pay via M-Pesa, bank wire, or cash.
-
 Is warranty provided? Covered against factory defect prior to installation.`,
   "metaTitle": "Kyocera TASKalfa 1800 Upper Fuser Roller - Trinatech",
   "metaDescription": "Buy Kyocera TASKalfa 1800 upper fuser heat roller in Nairobi. Fix smudging and fuser errors on TA-1800, 1801, 2200, 2201. Fast delivery.",
@@ -527,9 +405,7 @@ Is warranty provided? Covered against factory defect prior to installation.`,
   {"id": 5238, "sku": null, "name": "Teflon Sleeve", "brand": "Other", "category": "Maintenance Kits & Spare Parts", "price": 800, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/Teflon-Sleeve.webp", "imageFile": "Teflon-Sleeve.webp", "description": `The Teflon Sleeve (Fuser Film Sleeve) is a critical high-temperature thermal component for HP and Canon laser printer fuser assemblies. Designed to rotate around a ceramic heating element, it ensures rapid toner melting while providing a non-stick surface to prevent paper jams and ghosting.
 
 ## Compatible printers
-
 This is a general listing for a Teflon Fuser Film Sleeve. We stock sleeves for common HP models including LaserJet 1010, 1020, P1102, 1320, P2055, and Pro 400 series. Please specify your exact printer model when ordering so we dispatch the correct diameter and length.
-
 ## Specifications
 
 | Part type | Material | Machine section | Function | Genuine or compatible |
@@ -545,19 +421,12 @@ Premium Compatible replacement sleeve. Built for high endurance and smooth rotat
 Stock held in Nairobi CBD. Delivery across Kenya including Kisumu, Nakuru, Eldoret, and Mombasa. M-Pesa and bank transfer accepted. WhatsApp ordering and walk-in options at The One Mall, River Road.
 
 ## Getting the most from this product
-
 Thoroughly clean the ceramic heating element with alcohol and apply high-quality fuser grease (typically included) before sliding the new sleeve on. Lack of grease will cause the sleeve to tear immediately.
-
 ## Frequently asked questions
-
 Will this fix the crinkling noise in my printer? Yes, a torn or shredded Teflon sleeve causes a distinct crinkling or grinding noise and leads to paper jams.
-
 Is grease included? Please confirm with our counter team, as most sleeves ship with a small syringe of required thermal grease.
-
 How fast is Nairobi delivery? 1 to 3 hours across Nairobi CBD.
-
 How do I pay? Pay via M-Pesa Buy Goods/Till or bank transfer.
-
 Is warranty included? Covered against manufacturing defects.`,
   "metaTitle": "HP LaserJet Fuser Teflon Sleeve Price - Trinatech Kenya",
   "metaDescription": "Order replacement fuser Teflon film sleeve for HP LaserJet printers in Nairobi. Fix paper jams and ghosting issues effectively. Fast delivery.",

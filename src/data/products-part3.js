@@ -1389,16 +1389,204 @@ Do I need all four colours? The DesignJet T100 to T530 series takes black CZ129A
 How fast is delivery? Same day within Nairobi, next working day upcountry.
 Can I return it? Yes, sealed and unused.
 What is the difference between the 38ml and 29ml cartridges? The 38ml is the black (CZ129A or CZ133A for the 80ml). The colours are all 29ml — cyan CZ130A and yellow CZ132A at the same size.`, "metaTitle": "HP 711 Magenta Ink Cartridge CZ131A 38ml - Genuine HP", "metaDescription": "Genuine HP 711 magenta ink cartridge (CZ131A), 29ml, for HP DesignJet T100, T120, T125, T130, T520, T525 and T530 wide-format plotters. Nairobi stock.", "inStock": true},
-  {"id": 5471, "sku": "CZ132A", "name": "HP 711 Yellow Ink Cartridge 38ML Genune (CZ132A)", "brand": "HP", "category": "Original Hp Ink Cartridges", "price": 5000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/HP-711-Yellow-Ink-Cartridge-38ML-Genune-CZ132A.webp", "imageFile": "HP-711-Yellow-Ink-Cartridge-38ML-Genune-CZ132A.webp", "description": "HP 711 YELLOW INK CARTRIDGE 38ML GENUNE (CZ132A", "inStock": true},
-  {"id": 5307, "sku": null, "name": "HP 72 130-ML Black Matte Designjet Ink Each", "brand": "HP", "category": "Master Rolls & Inks", "price": 15000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/HP-72-130-ML-Black-Matte-Designjet-Ink-Each.webp", "imageFile": "HP-72-130-ML-Black-Matte-Designjet-Ink-Each.webp", "description": "HP 72 130-ML BLACK MATTE DESIGNJET INK EACH", "inStock": true},
+  {"id": 5471, "sku": "CZ132A", "name": "HP 711 Yellow Ink Cartridge 38ML Genune (CZ132A)", "brand": "HP", "category": "Original Hp Ink Cartridges", "price": 5000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/HP-711-Yellow-Ink-Cartridge-38ML-Genune-CZ132A.webp", "imageFile": "HP-711-Yellow-Ink-Cartridge-38ML-Genune-CZ132A.webp", "description": `The HP 711 yellow ink cartridge (CZ132A) is the genuine Original HP colour cartridge for the HP DesignJet T100 to T530 wide-format plotter family. It carries dye-based yellow ink for accurate colour on technical drawings, presentations and posters. The colour cartridges are 29ml each; the black (CZ129A) is 38ml. All four are replaced individually as they run out.
+
+## Compatible printers
+HP DesignJet T100 24-in Printer
+HP DesignJet T120 24-in Printer
+HP DesignJet T120 ePrinter
+HP DesignJet T125 24-in Printer
+HP DesignJet T130 24-in Printer
+HP DesignJet T520 24-in Printer
+HP DesignJet T520 36-in Printer
+HP DesignJet T520 ePrinter
+HP DesignJet T525 24-in Printer
+HP DesignJet T525 36-in Printer
+HP DesignJet T530 24-in Printer
+HP DesignJet T530 36-in Printer
+If your model isn't listed, send us the number from the front of the machine and we'll confirm before you pay.
+
+## Specifications
+| Page yield | Cartridge type | Colour | Capacity | Part number | Genuine or compatible |
+|---|---|---|---|---|---|
+| Volume-based — no standard page count | Single-colour ink cartridge | Yellow, dye-based | 29 ml | CZ132A | Genuine Original HP |
+
+## Genuine or compatible?
+Genuine, Original HP in the sealed box. Not a refill and not our Royal house brand. DesignJet cartridges are volume-rated rather than page-rated — yield depends on media size and coverage, so HP does not publish a standard page count for this range. Ask us and we will quote a compatible option honestly if you want to compare.
+
+## Why buy from Trinatech
+We stock wide-format DesignJet consumables in the Nairobi CBD alongside standard office ink.
+Delivery across Kenya — Kisumu, Nakuru, Eldoret and Mombasa included.
+Pay by M-Pesa or bank transfer, order on WhatsApp, or walk in to The One Mall on River Road.
+
+## Getting the most from this cartridge
+Install with the printer powered on; the chip needs to register at startup — do not install with the power off.
+Store cartridges upright at room temperature; storing on their side can affect the ink-level reading on the chip.
+Run a nozzle check after installing any new cartridge, especially if the plotter has been idle.
+These are volume-rated cartridges — yield depends on coverage area and media type, not a standard page count.
+
+## Frequently asked questions
+Is there a larger version? The colour cartridges are 29ml each; HP sells them in 3-packs (e.g. CZ136A for yellow). Ask us what we hold.
+Do I need all four colours? Yes — the T120 and T520 family uses black CZ129A, cyan CZ130A, magenta CZ131A and yellow CZ132A.
+How fast is delivery? Same day within Nairobi, next working day upcountry.
+Can I return it? Yes, sealed and unused.
+What is the difference between T120 and T520? Both use the same HP 711 cartridges — the T520 is wider (up to 36 inches) and faster; the T120 tops out at 24 inches.`, "metaTitle": "HP 711 Yellow Ink Cartridge CZ132A 29ml - Genuine HP", "metaDescription": "Genuine HP 711 yellow ink cartridge (CZ132A), 29ml, for HP DesignJet T100, T120, T125, T130, T520, T525 and T530 wide-format plotters. Nairobi stock.", "inStock": true},
+  {"id": 5307, "sku": null, "name": "HP 72 130-ML Black Matte Designjet Ink Each", "brand": "HP", "category": "Master Rolls & Inks", "price": 15000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/HP-72-130-ML-Black-Matte-Designjet-Ink-Each.webp", "imageFile": "HP-72-130-ML-Black-Matte-Designjet-Ink-Each.webp", "description": `The HP 72 matte black ink cartridge (C9403A) is the genuine Original HP 130ml black cartridge for the older HP DesignJet T-series plotters. If you run a T610, T770, T1100 or T1300 for CAD drawings, architectural plans or engineering output, this is the matte black it takes. HP 72 Vivera Ink is designed for sharp, accurate line work on plain and coated technical paper.
+
+## Compatible printers
+HP DesignJet T610 Printer
+HP DesignJet T620 Printer
+HP DesignJet T770 Printer
+HP DesignJet T790 Printer
+HP DesignJet T795 Printer
+HP DesignJet T1100 Printer
+HP DesignJet T1100 MFP
+HP DesignJet T1100ps Printer
+HP DesignJet T1120 Printer
+HP DesignJet T1120ps Printer
+HP DesignJet T1200 Printer
+HP DesignJet T1300 Printer
+HP DesignJet T2300 eMFP
+If your model isn't listed, send us the number from the front of the machine and we'll confirm before you pay.
+
+## Specifications
+| Page yield | Cartridge type | Colour | Capacity | Part number | Genuine or compatible |
+|---|---|---|---|---|---|
+| Volume-based — no standard page count | Single-colour ink cartridge | Black, matte pigment | 130 ml | C9403A | Genuine Original HP |
+
+## Genuine or compatible?
+Genuine, Original HP in the sealed box. Not a refill and not our Royal house brand. HP 72 Vivera Ink is designed specifically together with HP DesignJet T-series printheads — using third-party ink in a plotter this age increases the risk of printhead clogging, which is expensive to put right. Ask us and we will quote a compatible option honestly.
+
+## Why buy from Trinatech
+We stock wide-format DesignJet consumables in the Nairobi CBD alongside standard office ink.
+Delivery across Kenya — Kisumu, Nakuru, Eldoret and Mombasa included.
+Pay by M-Pesa or bank transfer, order on WhatsApp, or walk in to The One Mall on River Road.
+
+## Getting the most from this cartridge
+Install with the printer powered on; the chip needs to register at startup — do not install with the power off.
+Store cartridges upright at room temperature; storing on their side can affect the ink-level reading on the chip.
+Run a nozzle check after installing any new cartridge, especially if the plotter has been idle.
+These are volume-rated cartridges — yield depends on coverage area and media type, not a standard page count.
+
+## Frequently asked questions
+Is there a larger version? HP 72 comes in 130ml per cartridge; this is the standard size for the T-series.
+Do I need colour cartridges too? Yes — the T-series uses photo black, cyan, magenta, yellow and grey alongside the matte black.
+How fast is delivery? Same day within Nairobi, next working day upcountry.
+Can I return it? Yes, sealed and unused.
+Is HP 72 the same as HP 711? No — HP 72 fits the older T610/T770/T1100 generation; HP 711 fits the newer T100/T120/T520 generation. They are not interchangeable.`, "metaTitle": "HP 72 Matte Black Ink Cartridge C9403A - Genuine HP", "metaDescription": "Genuine HP 72 matte black ink cartridge (C9403A), 130ml, for HP DesignJet T610, T620, T770, T790, T1100, T1200 and T1300 plotters. Nairobi stock.", "inStock": true},
   {"id": 5306, "sku": "C9383A", "name": "HP 72 Design Jet Printehead Magnta | Cyan, C9383A", "brand": "HP", "category": "Master Rolls & Inks", "price": 15000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/HP-72-Design-Jet-Printehead-Magnta-Cyan-C9383A.webp", "imageFile": "HP-72-Design-Jet-Printehead-Magnta-Cyan-C9383A.webp", "description": "HP 72 DESIGN JET PRINTEHEAD MAGNTA | CYAN, C9383A", "inStock": true},
   {"id": 5305, "sku": "C9380A", "name": "HP 72 Gray | Photo Black Designjet Printhead, C9380A", "brand": "HP", "category": "Master Rolls & Inks", "price": 15000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/HP-72-Gray-Photo-Black-Designjet-Printhead-C9380A.webp", "imageFile": "HP-72-Gray-Photo-Black-Designjet-Printhead-C9380A.webp", "description": "HP 72 GRAY | PHOTO BLACK DESIGNJET PRINTHEAD, C9380A", "inStock": true},
   {"id": 5304, "sku": "C9384A", "name": "HP 72 Matte Black | Yellow Designjet Printhead, C9384A", "brand": "HP", "category": "Master Rolls & Inks", "price": 15000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/HP-72-Matte-Black-Yellow-Designjet-Printhead-C9384A.webp", "imageFile": "HP-72-Matte-Black-Yellow-Designjet-Printhead-C9384A.webp", "description": "HP 72 MATTE BLACK | YELLOW DESIGNJET PRINTHEAD, C9384A", "inStock": true},
-  {"id": 5302, "sku": null, "name": "HP 727 Black Designjet Ink (130-ML Cartridge)", "brand": "HP", "category": "Master Rolls & Inks", "price": 18000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/HP-727-Black-Designjet-Ink-130-ML-Cartridge.webp", "imageFile": "HP-727-Black-Designjet-Ink-130-ML-Cartridge.webp", "description": "HP 727 BLACK DESIGNJET INK (130-ML CARTRIDGE", "inStock": true},
+  {"id": 5302, "sku": null, "name": "HP 727 Black Designjet Ink (130-ML Cartridge)", "brand": "HP", "category": "Master Rolls & Inks", "price": 18000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/HP-727-Black-Designjet-Ink-130-ML-Cartridge.webp", "imageFile": "HP-727-Black-Designjet-Ink-130-ML-Cartridge.webp", "description": `The HP 727 matte black ink cartridge (B3P22A) is the genuine Original HP 130ml black cartridge for the HP DesignJet T920 and T2500 generation of large-format plotters. These are high-volume production machines used for technical drawings, architectural plans, GIS output and presentations. This cartridge fits the same machines as the HP 727 130ml colour range.
+
+## Compatible printers
+HP DesignJet T920 36-in Printer
+HP DesignJet T920 36-in PostScript Printer
+HP DesignJet T930 36-in Printer
+HP DesignJet T1500 36-in Printer
+HP DesignJet T1500 36-in PostScript Printer
+HP DesignJet T1530 36-in Printer
+HP DesignJet T2500 36-in MFP
+HP DesignJet T2500 36-in PostScript MFP
+HP DesignJet T2530 36-in MFP
+If your model isn't listed, send us the number from the front of the machine and we'll confirm before you pay.
+
+## Specifications
+| Page yield | Cartridge type | Colour | Capacity | Part number | Genuine or compatible |
+|---|---|---|---|---|---|
+| Volume-based — no standard page count | Single-colour ink cartridge | Black, matte pigment | 130 ml | B3P22A | Genuine Original HP |
+
+## Genuine or compatible?
+Genuine, Original HP in the sealed box. Not a refill and not our Royal house brand. HP 727 also comes in a 300ml matte black (C1Q12A) — if you are running this plotter at production volume, the 300ml usually costs less per ml. Ask us about both sizes and we will help you choose based on your actual throughput.
+
+## Why buy from Trinatech
+We stock wide-format DesignJet consumables in the Nairobi CBD alongside standard office ink.
+Delivery across Kenya — Kisumu, Nakuru, Eldoret and Mombasa included.
+Pay by M-Pesa or bank transfer, order on WhatsApp, or walk in to The One Mall on River Road.
+
+## Getting the most from this cartridge
+Install with the printer powered on; the chip needs to register at startup — do not install with the power off.
+Store cartridges upright at room temperature; storing on their side can affect the ink-level reading on the chip.
+Run a nozzle check after installing any new cartridge, especially if the plotter has been idle.
+These are volume-rated cartridges — yield depends on coverage area and media type, not a standard page count.
+
+## Frequently asked questions
+Is there a larger version? Yes — HP 727 matte black is also available in 300ml (C1Q12A). If you print at high volume, the 300ml costs less per ml.
+Do I need colour cartridges too? Yes — the T920/T2500 series uses six ink types: matte black, photo black, cyan, magenta, yellow and grey.
+How fast is delivery? Same day within Nairobi, next working day upcountry.
+Can I return it? Yes, sealed and unused.
+What is the difference between B3P22A and C1Q12A? Both are HP 727 matte black — B3P22A is 130ml and C1Q12A is 300ml. Same ink, same printers, different volumes.`, "metaTitle": "HP 727 Matte Black Ink Cartridge B3P22A - Genuine HP", "metaDescription": "Genuine HP 727 matte black ink cartridge (B3P22A), 130ml, for HP DesignJet T920, T930, T1500, T1530, T2500 and T2530. Nairobi stock.", "inStock": true},
   {"id": 5303, "sku": null, "name": "HP 727 Cym Designjet Ink (130-ML Cartridge Each)", "brand": "HP", "category": "Master Rolls & Inks", "price": 18000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/HP-727-Cym-Designjet-Ink-130-ML-Cartridge-Each.webp", "imageFile": "HP-727-Cym-Designjet-Ink-130-ML-Cartridge-Each.webp", "description": "HP 727 CYM DESIGNJET INK (130-ML CARTRIDGE EACH", "inStock": true},
-  {"id": 5301, "sku": null, "name": "HP 728 Black 300ML Matte Designjet Ink Cartridge Each", "brand": "HP", "category": "Master Rolls & Inks", "price": 18000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/HP-728-Black-300ML-Matte-Designjet-Ink-Cartridge-Each.webp", "imageFile": "HP-728-Black-300ML-Matte-Designjet-Ink-Cartridge-Each.webp", "description": "HP 728 BLACK 300ML MATTE DESIGNJET INK CARTRIDGE EACH", "inStock": true},
+  {"id": 5301, "sku": null, "name": "HP 728 Black 300ML Matte Designjet Ink Cartridge Each", "brand": "HP", "category": "Master Rolls & Inks", "price": 18000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/HP-728-Black-300ML-Matte-Designjet-Ink-Cartridge-Each.webp", "imageFile": "HP-728-Black-300ML-Matte-Designjet-Ink-Cartridge-Each.webp", "description": `The HP 728 matte black ink cartridge (F9J68A) is the genuine Original HP 300ml black cartridge for the HP DesignJet T730 and T830. The T730 and T830 are HP's current mid-range wide-format plotters, built for offices, studios and engineering teams producing technical drawings, construction plans and presentation graphics at scale. This 300ml cartridge is well suited to production environments where downtime from cartridge changes has a real cost.
+
+## Compatible printers
+HP DesignJet T730 36-in Printer
+HP DesignJet T830 24-in MFP
+HP DesignJet T830 36-in MFP
+If your model isn't listed, send us the number from the front of the machine and we'll confirm before you pay.
+
+## Specifications
+| Page yield | Cartridge type | Colour | Capacity | Part number | Genuine or compatible |
+|---|---|---|---|---|---|
+| Volume-based — no standard page count | Single-colour ink cartridge | Black, matte dye-based | 300 ml | F9J68A | Genuine Original HP |
+
+## Genuine or compatible?
+Genuine, Original HP in the sealed box. Not a refill and not our Royal house brand. The T730 and T830 are current-generation machines with HP's cartridge authentication, so non-genuine cartridges are more likely to be rejected here than on older plotters — a stopped plotter mid-job is a real cost in any production environment. Ask us and we will quote a compatible option honestly.
+
+## Why buy from Trinatech
+We stock wide-format DesignJet consumables in the Nairobi CBD alongside standard office ink.
+Delivery across Kenya — Kisumu, Nakuru, Eldoret and Mombasa included.
+Pay by M-Pesa or bank transfer, order on WhatsApp, or walk in to The One Mall on River Road.
+
+## Getting the most from this cartridge
+Install with the printer powered on; the chip needs to register at startup — do not install with the power off.
+Store cartridges upright at room temperature; storing on their side can affect the ink-level reading on the chip.
+Run a nozzle check after installing any new cartridge, especially if the plotter has been idle.
+These are volume-rated cartridges — yield depends on coverage area and media type, not a standard page count.
+
+## Frequently asked questions
+Is there a smaller version? HP 728 is available in smaller sizes — ask us what we hold for your exact model and volume.
+Do I need colour cartridges too? Yes — the T730 and T830 use separate cyan, magenta and yellow cartridges as well.
+How fast is delivery? Same day within Nairobi, next working day upcountry.
+Can I return it? Yes, sealed and unused.
+Is HP 728 the same as HP 727? No — HP 727 fits the T920/T2500 generation; HP 728 fits the T730/T830. They are different cartridges for different machines.`, "metaTitle": "HP 728 Matte Black Ink Cartridge F9J68A - Genuine HP", "metaDescription": "Genuine HP 728 matte black ink cartridge (F9J68A), 300ml, for HP DesignJet T730 and T830 large-format plotters. Nairobi stock.", "inStock": true},
   {"id": 5300, "sku": null, "name": "HP 728 Cym High Capacity Ink 130-ML Each", "brand": "HP", "category": "Master Rolls & Inks", "price": 18000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/HP-728-Cym-High-Capacity-Ink-130-ML-Each.webp", "imageFile": "HP-728-Cym-High-Capacity-Ink-130-ML-Each.webp", "description": "HP 728 CYM HIGH CAPACITY INK 130-ML EACH", "inStock": true},
-  {"id": 5299, "sku": null, "name": "HP 730 Designjet Ink Cartridges 130-ML Each", "brand": "HP", "category": "Master Rolls & Inks", "price": 18000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/HP-730-Designjet-Ink-Cartridges-130-ML-Each.webp", "imageFile": "HP-730-Designjet-Ink-Cartridges-130-ML-Each.webp", "description": "HP 730 DESIGNJET INK CARTRIDGES 130-ML EACH", "inStock": true},
+  {"id": 5299, "sku": null, "name": "HP 730 Designjet Ink Cartridges 130-ML Each", "brand": "HP", "category": "Master Rolls & Inks", "price": 18000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/HP-730-Designjet-Ink-Cartridges-130-ML-Each.webp", "imageFile": "HP-730-Designjet-Ink-Cartridges-130-ML-Each.webp", "description": `The HP 730 DesignJet ink cartridges are the genuine Original HP 130ml ink for the HP DesignJet T1600, T1700 and T2600 generation of large-format plotters. The range includes matte black (P2V65A), cyan (P2V62A), magenta (P2V63A), yellow (P2V64A), photo black (P2V67A) and grey (P2V66A) — all at 130ml per cartridge and all replaced individually. Tell us which colour you need when you order. The HP 730 range also comes in 300ml cartridges for higher-volume sites, which cost less per ml at production throughput.
+
+## Compatible printers
+HP DesignJet T1600 36-in Printer
+HP DesignJet T1600dr 36-in Printer
+HP DesignJet T1700 44-in Printer
+HP DesignJet T1700dr 44-in Printer
+HP DesignJet T2600 36-in MFP
+HP DesignJet T2600dr 36-in MFP
+If your model isn't listed, send us the number from the front of the machine and we'll confirm before you pay.
+
+## Specifications
+| Page yield | Cartridge type | Colour | Capacity | Part number | Genuine or compatible |
+|---|---|---|---|---|---|
+| Volume-based — no standard page count | Single-colour ink cartridge | State colour on order | 130 ml | P2V62A–P2V67A range (see body) | Genuine Original HP |
+
+## Genuine or compatible?
+Genuine, Original HP in the sealed box. Not a refill and not our Royal house brand. The T1600, T1700 and T2600 are high-precision technical plotters where ink consistency matters for line accuracy and colour matching. Ask us and we will quote a compatible option honestly if you want to compare.
+
+## Why buy from Trinatech
+We stock wide-format DesignJet consumables in the Nairobi CBD alongside standard office ink.
+Delivery across Kenya — Kisumu, Nakuru, Eldoret and Mombasa included.
+Pay by M-Pesa or bank transfer, order on WhatsApp, or walk in to The One Mall on River Road.
+
+## Getting the most from this cartridge
+Install with the printer powered on; the chip needs to register at startup — do not install with the power off.
+Store cartridges upright at room temperature; storing on their side can affect the ink-level reading on the chip.
+Run a nozzle check after installing any new cartridge, especially if the plotter has been idle.
+These are volume-rated cartridges — yield depends on coverage area and media type, not a standard page count.
+
+## Frequently asked questions
+Which colour will I receive? Tell us the colour when you order — matte black, photo black, cyan, magenta, yellow or grey.
+What are the part numbers? P2V62A cyan, P2V63A magenta, P2V64A yellow, P2V65A matte black, P2V66A grey, P2V67A photo black.
+How fast is delivery? Same day within Nairobi, next working day upcountry.
+Can I return it? Yes, sealed and unused.
+Is there a 300ml version? Yes — HP 730 is also available in 300ml. Ask us what we hold for your volume.`, "metaTitle": "HP 730 DesignJet Ink Cartridges 130ml - Genuine HP Kenya", "metaDescription": "Genuine HP 730 DesignJet ink cartridges, 130ml, for HP DesignJet T1600, T1700 and T2600 plotters. State your colour when ordering. Nairobi stock.", "inStock": true},
   {"id": 5066, "sku": "CF276A", "name": "HP 76A Black Toner Laserjet Cartridge (CF276A)", "brand": "HP", "category": "HP Original Toners", "price": 17000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/HP-76A-Black-Toner-Laserjet-Cartridge-CF276A-scaled.webp", "imageFile": "HP-76A-Black-Toner-Laserjet-Cartridge-CF276A-scaled.webp", "description": `The HP 76A black toner cartridge is the genuine Original HP replacement, part number CF276A, for the HP LaserJet Pro M404 and MFP M428 series. These are among the most widely sold business mono lasers of recent years and are common in Kenyan offices.
 
 ## Compatible printers
@@ -1435,7 +1623,42 @@ Do I need a separate drum? No. The drum is built into the cartridge, so both are
 How fast is delivery? Same day within Nairobi, next working day to most towns.
 Can I return it? Yes, sealed and unused.
 My printer says the cartridge is not genuine. What now? Reseat it and wipe the chip contacts with a dry cloth. If it persists on a cartridge bought from us, bring it in and we will sort it out.`, "metaTitle": "HP 76A Black Toner CF276A - Genuine HP Kenya", "metaDescription": "Genuine HP 76A black toner (CF276A), 3,000 pages, for HP LaserJet Pro M404 and MFP M428 series. Nairobi stock, delivered across Kenya.", "inStock": true},
-  {"id": 5298, "sku": null, "name": "HP 771 Designjet 775-ML Ink Cartridge Each", "brand": "HP", "category": "Master Rolls & Inks", "price": 18000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/HP-771-Designjet-775-ML.png", "imageFile": "HP-771-Designjet-775-ML.png", "description": "HP 771 DESIGNJET 775-ML INK CARTRIDGE EACH", "inStock": true},
+  {"id": 5298, "sku": null, "name": "HP 771 Designjet 775-ML Ink Cartridge Each", "brand": "HP", "category": "Master Rolls & Inks", "price": 18000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/HP-771-Designjet-775-ML.png", "imageFile": "HP-771-Designjet-775-ML.png", "description": `The HP 771 DesignJet 775ml ink cartridges are the genuine Original HP large-volume ink for HP's professional photo-production plotters — the Z6200, Z6600, Z6800 and Z6810. These are production machines used by photo labs, print bureaus and studios producing large-format photographic output. At 775ml each, these are among the largest cartridges HP makes. Tell us which colour you need when you order. The HP 730 range also comes in 300ml cartridges for higher-volume sites, which cost less per ml at production throughput.
+
+## Compatible printers
+HP DesignJet Z6200 42-in Photo Printer
+HP DesignJet Z6200 60-in Photo Printer
+HP DesignJet Z6600 60-in Production Printer
+HP DesignJet Z6800 60-in Photo Production Printer
+HP DesignJet Z6810 42-in Production Printer
+HP DesignJet Z6810 60-in Production Printer
+If your model isn't listed, send us the number from the front of the machine and we'll confirm before you pay.
+
+## Specifications
+| Page yield | Cartridge type | Colour | Capacity | Part number | Genuine or compatible |
+|---|---|---|---|---|---|
+| Volume-based — no standard page count | Single-colour ink cartridge | State colour on order | 775 ml | B6Y15A–B6Y22A range | Genuine Original HP |
+
+## Genuine or compatible?
+Genuine, Original HP in the sealed box. Not a refill and not our Royal house brand. At this scale of production and price point, non-genuine ink carries real risk — a single batch of off-colour output wastes not just ink but media, time and client trust. Ask us about compatible options if price is the deciding factor and we will give you the honest comparison.
+
+## Why buy from Trinatech
+We stock wide-format DesignJet consumables in the Nairobi CBD alongside standard office ink.
+Delivery across Kenya — Kisumu, Nakuru, Eldoret and Mombasa included.
+Pay by M-Pesa or bank transfer, order on WhatsApp, or walk in to The One Mall on River Road.
+
+## Getting the most from this cartridge
+Install with the printer powered on; the chip needs to register at startup — do not install with the power off.
+Store cartridges upright at room temperature; storing on their side can affect the ink-level reading on the chip.
+Run a nozzle check after installing any new cartridge, especially if the plotter has been idle.
+These are volume-rated cartridges — yield depends on coverage area and media type, not a standard page count.
+
+## Frequently asked questions
+Which colour will I receive? Tell us the colour when you order — the range includes matte black, photo black, cyan, light cyan, magenta, light magenta, grey and light grey.
+What are the part numbers? The HP 771A range runs B6Y15A through B6Y22A. Ask us which specific code you need for your colour.
+How fast is delivery? Same day within Nairobi where stock is held; confirm lead time on large-format inks when ordering.
+Can I return it? Yes, sealed and unused.
+Is there a smaller version? The HP 771 range is 775ml standard; no smaller size exists for this cartridge family.`, "metaTitle": "HP 771 DesignJet 775ml Ink Cartridges - Genuine HP Kenya", "metaDescription": "Genuine HP 771 DesignJet 775ml ink cartridges for HP DesignJet Z6200, Z6600, Z6800 and Z6810 photo production plotters. State your colour on order.", "inStock": true},
   {"id": 3552, "sku": null, "name": "HP 78A Black Original Laserjet Toner Cartridge", "brand": "HP", "category": "Inks & Toner Cartridges", "price": 6000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2024/12/HP-78A-Toner.png", "imageFile": "HP-78A-Toner.png", "description": `The HP 78A black toner cartridge is the genuine Original HP replacement, part number CE278A, for the HP LaserJet Pro P1566, P1606dn and the M1536dnf all-in-one. These compact mono lasers were sold in large numbers to small offices and home businesses, and many are still in daily use. Laser output does not run or fade the way inkjet can, which matters for receipts and records kept in a humid office.
 
 ## Compatible printers
@@ -1814,10 +2037,14 @@ Do I need a separate drum? No. The drum is built into the cartridge, so both are
 How fast is delivery? Same day within Nairobi, next working day to most towns.
 Can I return it? Yes, sealed and unused.
 My printer says the cartridge is not genuine. What now? Reseat it and wipe the chip contacts with a dry cloth. If it persists on a cartridge bought from us, bring it in and we will sort it out.`, "metaTitle": "HP 89A Black Toner CF289A - Genuine HP Kenya", "metaDescription": "Genuine HP 89A black toner (CF289A), 5,000 pages, for HP LaserJet Enterprise M507 and MFP M528. Nairobi stock, countrywide delivery.", "inStock": true},
-  {"id": 5470, "sku": "CC653A", "name": "HP 901 Black Ink Cartridge (CC653A)", "brand": "HP", "category": "Original Hp Ink Cartridges", "price": 2800, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/HP-901-Black-Ink-Cartridge-CC653A.png", "imageFile": "HP-901-Black-Ink-Cartridge-CC653A.png", "description": `The HP 901 black ink cartridge is the genuine Original HP replacement, part number CC653AE, for the HP OfficeJet 4500 and J4500 series all-in-ones. These are the fax-and-copy machines that still anchor plenty of small offices and front desks in Kenya, and the cartridge is usually the only part that ever needs buying. Keeping one on the shelf is cheaper than losing the machine for a day.
+  {"id": 5470, "sku": "CC653A", "name": "HP 901 Black Ink Cartridge (CC653A)", "brand": "HP", "category": "Original Hp Ink Cartridges", "price": 2800, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/HP-901-Black-Ink-Cartridge-CC653A.png", "imageFile": "HP-901-Black-Ink-Cartridge-CC653A.png", "description": `The HP 901 black ink cartridge is the genuine Original HP replacement, part number CC653AE, for the HP OfficeJet 4500 and J4500 series all-in-ones. These are the fax-and-copy machines that anchor plenty of small offices and reception desks across Kenya. A fresh cartridge usually clears print quality faults outright on this design, because the printhead is built into the cartridge.
 
 ## Compatible printers
-OfficeJet: 4500, J4540, J4550, J4580, J4680
+HP OfficeJet 4500 All-in-One Printer
+HP OfficeJet J4540 All-in-One Printer
+HP OfficeJet J4550 All-in-One Printer
+HP OfficeJet J4580 All-in-One Printer
+HP OfficeJet J4680 All-in-One Printer
 If your model isn't listed, send us the number from the front of the machine and we'll confirm before you pay.
 
 ## Specifications
@@ -1826,59 +2053,61 @@ If your model isn't listed, send us the number from the front of the machine and
 | ~200 pages at 5% coverage | Single-colour ink cartridge | Black | Standard capacity | CC653AE | Genuine Original HP |
 
 ## Genuine or compatible?
-Genuine, Original HP in the sealed box. Not a refill and not our Royal house brand, which we always sell openly as Royal. Machines this age attract a lot of refilled stock, and a refilled cartridge on an OfficeJet that also handles your incoming faxes is a false economy: a failed cartridge can take the whole machine out of service.
+Genuine, Original HP in the sealed box. Not a refill and not our Royal house brand, which is always sold under the Royal name. Machines of this age attract a lot of refilled and counterfeit ink. A leaking cartridge in an OfficeJet that also handles your fax can take the whole machine out of service, which is worth weighing against a saving. Ask us and we will quote a compatible honestly.
 
 ## Why buy from Trinatech
-Stocked in the Nairobi CBD, including for printer generations other suppliers have dropped.
-Courier delivery countrywide, from Kisumu and Nakuru through to Mombasa.
-M-Pesa or bank transfer, invoiced properly for office accounts.
-Order on WhatsApp, or walk in to The One Mall on River Road.
+We hold stock in the Nairobi CBD so you can replace a cartridge without waiting on an import.
+Delivery across Kenya — Kisumu, Nakuru, Eldoret and Mombasa included.
+Pay by M-Pesa or bank transfer, order on WhatsApp, or walk in to The One Mall on River Road.
 
 ## Getting the most from this cartridge
-Fit it immediately after opening the foil and remove only the nozzle tape.
-The printhead is built into the cartridge on this design. That is why a fresh cartridge usually clears print quality faults outright, and why refilling so often fails.
-200 pages assumes 5% coverage. Faxes and forms with heavy black areas will use more.
-If the machine has stood idle, run one or two cleaning cycles before deciding the cartridge is at fault.
+Fit it as soon as the foil is open and remove only the nozzle tape; keep fingers off the copper contacts.
+The printhead is built into the cartridge on this design, so a fresh cartridge often clears streaks and fades outright.
+200 pages assumes 5% coverage — faxes and copies also draw on the cartridge, so it runs down faster than the print count alone suggests.
+Print at least a page a week; an idle cartridge clogs faster than one in regular use.
 
 ## Frequently asked questions
-Is there a higher-yield version? Yes, HP 901XL black fits the same printers and prints considerably more pages.
-Do I need the colour cartridge too? For colour printing yes. The colour is HP 901 tri-colour.
-How soon can I get it? Same day within Nairobi, next working day upcountry.
+Is there a higher-yield version? Yes — HP 901XL black holds considerably more ink and fits the same printers. Ask us what we hold.
+Do I need the colour cartridge too? Only for colour printing, but most of these OfficeJets want both cartridges installed to print at all. The colour is HP 901 CC656AE.
+How fast is delivery? Same day within Nairobi, next working day upcountry.
 Can I return it? Yes, sealed and unused.
-My machine is used mainly for faxing. Does that change anything? Received faxes still consume black ink, so the cartridge runs down even when nobody is printing. Keeping a spare avoids missing an incoming document.`, "metaTitle": "HP 901 Black Ink Cartridge CC653AE - Genuine HP Kenya", "metaDescription": "Genuine HP 901 black ink (CC653AE), about 200 pages, for HP OfficeJet 4500, J4540, J4580 and J4680. Nairobi stock, delivered across Kenya.", "inStock": true},
+My machine is mainly for faxing — does that change anything? Received faxes still consume black ink, so the cartridge runs down even when nobody is printing; keeping a spare avoids missing an incoming document.`, "metaTitle": "HP 901 Black Ink Cartridge CC653AE - Genuine HP Kenya", "metaDescription": "Genuine HP 901 black ink cartridge (CC653AE), ~200 pages, for HP OfficeJet 4500, J4540, J4580, J4680 and related models. Nairobi stock.", "inStock": true},
   {"id": 3917, "sku": null, "name": "HP 901 Black Original Ink Cartridge", "brand": "HP", "category": "Inks & Toner Cartridges", "price": 4500, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2024/12/HP-901-Black-Original-Ink.png", "imageFile": "HP-901-Black-Original-Ink.png", "description": "The HP 901 Black Original Ink Cartridge is engineered to deliver clear, sharp black text.", "inStock": true},
-  {"id": 5469, "sku": null, "name": "HP 901 Tri Color Ink Cartridge", "brand": "HP", "category": "Original Hp Ink Cartridges", "price": 3500, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/HP-901-Tri-Color-Ink-Cartridge.webp", "imageFile": "HP-901-Tri-Color-Ink-Cartridge.webp", "description": `The HP 901 tri-colour ink cartridge is the genuine Original HP colour cartridge, part number CC656AE, for the HP OfficeJet 4500 and J4500 series. Cyan, magenta and yellow come in one unit, and at roughly 360 pages it outlasts the matching black cartridge by a wide margin, which surprises most people buying the pair for the first time.
+  {"id": 5469, "sku": null, "name": "HP 901 Tri Color Ink Cartridge", "brand": "HP", "category": "Original Hp Ink Cartridges", "price": 3500, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/HP-901-Tri-Color-Ink-Cartridge.webp", "imageFile": "HP-901-Tri-Color-Ink-Cartridge.webp", "description": `The HP 901 tri-colour ink cartridge is the genuine Original HP colour replacement, part number CC656AE, for the HP OfficeJet 4500 and J4500 series. Cyan, magenta and yellow sit in one unit. It pairs with the HP 901 black, and these machines generally will not print with only one cartridge installed.
 
 ## Compatible printers
-OfficeJet: 4500, J4540, J4550, J4580, J4680
+HP OfficeJet 4500 All-in-One Printer
+HP OfficeJet J4540 All-in-One Printer
+HP OfficeJet J4550 All-in-One Printer
+HP OfficeJet J4580 All-in-One Printer
+HP OfficeJet J4680 All-in-One Printer
 If your model isn't listed, send us the number from the front of the machine and we'll confirm before you pay.
 
 ## Specifications
 | Page yield | Cartridge type | Colour | Capacity | Part number | Genuine or compatible |
 |---|---|---|---|---|---|
-| ~360 pages at 5% coverage | Tri-colour ink cartridge | Cyan, magenta and yellow in one unit | Standard capacity | CC656AE | Genuine Original HP |
+| ~360 pages at 5% coverage | Tri-colour ink cartridge | Cyan, magenta and yellow | Standard capacity | CC656AE | Genuine Original HP |
 
 ## Genuine or compatible?
-Genuine, Original HP, sealed box. Not a refill and not our Royal house brand, which is always sold as Royal. On an OfficeJet that doubles as your fax and copier, a cartridge failure takes the whole machine down rather than just delaying a print job, which is the practical argument for the genuine box on this model.
+Genuine, Original HP in the sealed box. Not a refill and not our Royal house brand. One thing worth knowing: the tri-colour yields considerably more than the black on this model — about 360 pages against 200. That means you will typically replace two blacks for every colour, so stocking a spare black makes more sense than stocking a spare of each.
 
 ## Why buy from Trinatech
-Nairobi CBD stock, available over the counter.
-Countrywide courier delivery, Nakuru, Eldoret, Kisumu and Mombasa included.
-M-Pesa and bank transfer both accepted, with invoicing for offices.
-WhatsApp ordering, or visit us at The One Mall on River Road.
+We hold stock in the Nairobi CBD so you can replace a cartridge without waiting on an import.
+Delivery across Kenya — Kisumu, Nakuru, Eldoret and Mombasa included.
+Pay by M-Pesa or bank transfer, order on WhatsApp, or walk in to The One Mall on River Road.
 
 ## Getting the most from this cartridge
-Install it as soon as the foil is open, taking the tape from the nozzles only.
-The three colours share one body, so the cartridge is spent when any one colour empties, regardless of how much of the other two remains.
-360 pages assumes 5% coverage. Colour-heavy work will use it far quicker.
-Because the colour outlasts the black on this model, you will usually replace two blacks for every colour. Stocking accordingly saves repeat trips.
+Fit it straight from the foil and take the tape off the nozzles, not the contacts.
+All three colours share one body; when any single colour runs out the whole cartridge is spent and must be replaced.
+Print in colour at least every two weeks — even if most of your work is black, a colour cartridge left idle in the machine will clog, and the remaining ink cannot be recovered.
+360 pages assumes 5% coverage; photographs and solid colour areas use it faster.
 
 ## Frequently asked questions
-Do I need the black as well? Yes for normal documents. The black is HP 901.
-How long is delivery? Same day in Nairobi, next working day for most other towns.
-What are the return terms? Sealed and unused cartridges can be exchanged or refunded.
-Why does the colour last longer than the black? The tri-colour holds more ink overall and most office work is text, so the black simply gets used harder.
-Can I check the ink level? The OfficeJet reports estimated levels on its front panel, though treat that reading as a guide rather than an exact count.`, "metaTitle": "HP 901 Tri-Colour Ink Cartridge CC656AE - Genuine HP", "metaDescription": "Genuine HP 901 tri-colour ink (CC656AE), about 360 pages, for HP OfficeJet 4500, J4540, J4580 and J4680. Nairobi stock, countrywide delivery.", "inStock": true},
+Is there a higher-yield version? HP 901XL is available in tri-colour for the same printers. Ask us what we hold.
+Do I need the black cartridge too? Yes — most of these models will not print with only one cartridge installed. The black is HP 901 CC653AE.
+How fast is delivery? Same day within Nairobi, next working day upcountry.
+Can I return it? Yes, sealed and unused.
+Why does the colour last longer than the black? The tri-colour holds more ink overall, and most office printing is text, so the black gets used harder.`, "metaTitle": "HP 901 Tri-Color Ink Cartridge CC656AE - Genuine HP", "metaDescription": "Genuine HP 901 tri-colour ink cartridge (CC656AE), ~360 pages, for HP OfficeJet 4500, J4540, J4580 and J4680. Nairobi stock, delivered across Kenya.", "inStock": true},
   {"id": 3920, "sku": null, "name": "HP 901 Tri-Colour Original Ink Cartridge", "brand": "HP", "category": "Inks & Toner Cartridges", "price": 4500, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2024/12/HP-901-Tri-colour-Original-Ink.png", "imageFile": "HP-901-Tri-colour-Original-Ink.png", "description": "The HP 901 Tri-colour Original Ink Cartridge offers an exceptional printing experience with vivid, true-to-life colours.", "inStock": true},
   {"id": 5468, "sku": null, "name": "HP 903 Black Ink High Capacity Cartridge (T6M15AE)", "brand": "HP", "category": "Original Hp Ink Cartridges", "price": 3500, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/HP-903-Black-Ink-High-Capacity-Cartridge-T6M15AE.webp", "imageFile": "HP-903-Black-Ink-High-Capacity-Cartridge-T6M15AE.webp", "description": "HP 903 BLACK INK HIGH CAPACITY CARTRIDGE (T6M15AE", "inStock": true},
   {"id": 5467, "sku": null, "name": "HP 903 Cyan Ink Original Cartridge (T6L87AE)", "brand": "HP", "category": "Original Hp Ink Cartridges", "price": 3500, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/HP-903-Cyan-Ink-Original-Cartridge-T6L87AE.webp", "imageFile": "HP-903-Cyan-Ink-Original-Cartridge-T6L87AE.webp", "description": "HP 903 CYAN INK ORIGINAL CARTRIDGE (T6L87AE", "inStock": true},

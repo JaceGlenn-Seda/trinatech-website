@@ -10,7 +10,7 @@ import remarkBreaks from "remark-breaks";
 // Preprocess: under these ## headings, consecutive plain lines become a bullet
 // list. Under "Compatible printers", closing-note lines (starting with the
 // prefixes below) stay as plain paragraphs.
-const LIST_SECTIONS = ["Compatible printers", "Why buy from Trinatech", "Getting the most from this cartridge"];
+const LIST_SECTIONS = ["Compatible printers", "Why buy from Trinatech", "Getting the most from this cartridge", "Getting the most from this product"];
 const NOTE_PREFIXES = ["If your model isn't listed", "and other models", "The e-suffix"];
 const FAQ_SECTION = "Frequently asked questions";
 

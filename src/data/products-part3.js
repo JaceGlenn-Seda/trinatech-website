@@ -2243,9 +2243,105 @@ Do I need the other colours to print? Yes, your machine needs cyan, magenta, yel
 What is the delivery time? Expect same-day delivery in Nairobi CBD, and next-day for the rest of the country.
 What is your warranty or returns policy? We support standard manufacturer warranties on all sealed genuine cartridges.
 How do I know when the yellow is empty? The printer software will alert you, and your prints may start looking overly blue or pink.`, "metaTitle": "HP 903 Yellow Original Ink Cartridge (T6L95AE)", "metaDescription": "Genuine HP 903 yellow ink (T6L95AE), approx 315 pages, for OfficeJet 6950 and Pro 6960/6970. Genuine Kenya stock at Trinatech.", "inStock": true},
-  {"id": 5464, "sku": null, "name": "HP 903XL Cyan High Capacity Cartridge", "brand": "HP", "category": "Original Hp Ink Cartridges", "price": 3500, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/HP-903XL-Cyan-High-Capacity-Cartridge.webp", "imageFile": "HP-903XL-Cyan-High-Capacity-Cartridge.webp", "description": "HP 903XL CYAN HIGH CAPACITY CARTRIDGE", "inStock": true},
-  {"id": 5463, "sku": null, "name": "HP 903XL Magenta Ink High Capacity Cartridge (T6M07AE)", "brand": "HP", "category": "Original Hp Ink Cartridges", "price": 3500, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/HP-903XL-Magenta-Ink-High-Capacity-Cartridge-T6M07AE.webp", "imageFile": "HP-903XL-Magenta-Ink-High-Capacity-Cartridge-T6M07AE.webp", "description": "HP 903XL MAGENTA INK HIGH CAPACITY CARTRIDGE (T6M07AE", "inStock": true},
-  {"id": 5462, "sku": null, "name": "HP 903XL Yellow Ink High Capacity Cartridge (T6M11AE)", "brand": "HP", "category": "Original Hp Ink Cartridges", "price": 3500, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/HP-903XL-Yellow-Ink-High-Capacity-Cartridge-T6M11AE.webp", "imageFile": "HP-903XL-Yellow-Ink-High-Capacity-Cartridge-T6M11AE.webp", "description": "HP 903XL YELLOW INK HIGH CAPACITY CARTRIDGE (T6M11AE", "inStock": true},
+  {"id": 5464, "sku": null, "name": "HP 903XL Cyan High Capacity Cartridge", "brand": "HP", "category": "Original Hp Ink Cartridges", "price": 3500, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/HP-903XL-Cyan-High-Capacity-Cartridge.webp", "imageFile": "HP-903XL-Cyan-High-Capacity-Cartridge.webp", "description": `The HP 903XL Cyan High Capacity Cartridge is built for busy offices that rely on vibrant, professional colour output without constant interruptions. Delivering more than double the pages of the standard cartridge, this genuine high-yield supply ensures your business presentations and marketing materials look sharp and consistent. It is the smartest choice for users of the HP OfficeJet 6900 series looking to lower their overall cost per page.
+
+## Compatible printers
+HP OfficeJet 6950 All-in-One Printer
+HP OfficeJet Pro 6960 All-in-One Printer
+HP OfficeJet Pro 6970 All-in-One Printer
+If your model isn't listed, send us the number from the front of the machine and we'll confirm before you pay.
+
+## Specifications
+| Page yield | Cartridge type | Colour | Capacity | Part number | Genuine or compatible |
+|---|---|---|---|---|---|
+| ~825 pages | Inkjet | Cyan | High Yield (XL) | T6M03AE | Genuine |
+
+## Genuine or compatible?
+Genuine, Original HP, in a factory-sealed box. This ensures superior reliability and absolute hardware compatibility. For businesses that print heavily and want to cut costs significantly, ask us about the Royal compatible version, which provides excellent high-yield value and fits the exact same range of printers perfectly.
+
+## Why buy from Trinatech
+Stock held right here in Nairobi CBD.
+Delivery across Kenya including Kisumu, Nakuru, Eldoret and Mombasa.
+M-Pesa and bank transfer accepted.
+WhatsApp ordering, walk-in at The One Mall River Road.
+
+## Getting the most from this cartridge
+Store the cartridge in a cool environment and only unseal it when your printer demands a replacement.
+To stretch your page yield further, set your printer to "Draft" mode for everyday internal documents, saving this premium ink for final client presentations.
+Always replace depleted cartridges quickly to avoid printhead damage.
+
+## Frequently asked questions
+Is there an XL or high-yield alternative? This product is already the high-yield (XL) version.
+Do I need the other colours to print? Yes, inkjet printers require all colours to function and prevent hardware damage.
+What is the delivery time? Same-day delivery within Nairobi CBD and next-day for the rest of Kenya.
+What is your warranty or returns policy? Genuine HP cartridges come with a standard manufacturer defect warranty.
+Why did my ink run out faster than 825 pages? Yields are based on 5% coverage; printing full-page photos drains ink faster.`, "metaTitle": "HP 903XL Cyan High Yield Cartridge T6M03AE | Nairobi", "metaDescription": "Genuine HP 903XL cyan high yield ink cartridge (T6M03AE), ~825 pages, for OfficeJet 6950 and Pro 6960/6970. Nairobi CBD. Call 0729 589 346.", "inStock": true},
+  {"id": 5463, "sku": null, "name": "HP 903XL Magenta Ink High Capacity Cartridge (T6M07AE)", "brand": "HP", "category": "Original Hp Ink Cartridges", "price": 3500, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/HP-903XL-Magenta-Ink-High-Capacity-Cartridge-T6M07AE.webp", "imageFile": "HP-903XL-Magenta-Ink-High-Capacity-Cartridge-T6M07AE.webp", "description": `The HP 903XL Magenta Ink High Capacity Cartridge (T6M07AE) guarantees stunning, rich reds and pinks for all your professional documents and graphics. This XL cartridge contains significantly more ink than the standard version, saving you time and reducing your cost per page. If your business depends on your HP OfficeJet Pro to produce high-quality brochures and reports, this genuine supply is essential.
+
+## Compatible printers
+HP OfficeJet 6950 All-in-One Printer
+HP OfficeJet Pro 6960 All-in-One Printer
+HP OfficeJet Pro 6970 All-in-One Printer
+If your model isn't listed, send us the number from the front of the machine and we'll confirm before you pay.
+
+## Specifications
+| Page yield | Cartridge type | Colour | Capacity | Part number | Genuine or compatible |
+|---|---|---|---|---|---|
+| ~825 pages | Inkjet | Magenta | High Yield (XL) | T6M07AE | Genuine |
+
+## Genuine or compatible?
+This is a genuine, Original HP cartridge. It provides the exact ink formulation designed for your specific machine to avoid clogs. While it offers superior print longevity, our Royal compatible equivalent is also available in this high-yield capacity, giving you the same perfect fit at a noticeably lower price point.
+
+## Why buy from Trinatech
+Reliable stock held in Nairobi CBD.
+Delivery across Kenya including Kisumu, Nakuru, Eldoret and Mombasa.
+M-Pesa and bank transfer accepted.
+Easy WhatsApp ordering or walk-in at The One Mall River Road.
+
+## Getting the most from this cartridge
+Keep the cartridge upright in its sealed foil until installation.
+Page yield is heavily affected by how dense your graphics are; printing lots of red charts will deplete the magenta quicker than text documents.
+We recommend leaving the printer plugged in so it can run its automated maintenance cycles to keep the ink flowing.
+
+## Frequently asked questions
+Is there an XL or high-yield alternative? This T6M07AE cartridge is already the high-yield (XL) version.
+Do I need the other colours to print? Yes, your printer will likely refuse to print if any single colour cartridge is empty.
+What is the delivery time? Same-day delivery for Nairobi CBD, and 24 hours for the rest of Kenya.
+What is your warranty or returns policy? Genuine sealed cartridges are backed by the manufacturer's warranty against defects.
+How do I install this cartridge? Open the access door, press the old cartridge to release it, and click the new one in.`, "metaTitle": "HP 903XL Magenta High Yield Ink T6M07AE | Nairobi", "metaDescription": "Genuine HP 903XL magenta high yield ink cartridge (T6M07AE), ~825 pages, for OfficeJet 6950 and Pro 6960/6970. Nairobi CBD. Call 0729 589 346.", "inStock": true},
+  {"id": 5462, "sku": null, "name": "HP 903XL Yellow Ink High Capacity Cartridge (T6M11AE)", "brand": "HP", "category": "Original Hp Ink Cartridges", "price": 3500, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/HP-903XL-Yellow-Ink-High-Capacity-Cartridge-T6M11AE.webp", "imageFile": "HP-903XL-Yellow-Ink-High-Capacity-Cartridge-T6M11AE.webp", "description": `The HP 903XL Yellow Ink High Capacity Cartridge (T6M11AE) completes your high-efficiency printing setup, offering brilliant yellow hues that make graphics pop. By choosing this high-yield genuine cartridge, you dramatically extend the time between replacements while lowering your overall running costs. It is highly recommended for businesses running the HP OfficeJet 6900 series that demand both reliability and value.
+
+## Compatible printers
+HP OfficeJet 6950 All-in-One Printer
+HP OfficeJet Pro 6960 All-in-One Printer
+HP OfficeJet Pro 6970 All-in-One Printer
+If your model isn't listed, send us the number from the front of the machine and we'll confirm before you pay.
+
+## Specifications
+| Page yield | Cartridge type | Colour | Capacity | Part number | Genuine or compatible |
+|---|---|---|---|---|---|
+| ~825 pages | Inkjet | Yellow | High Yield (XL) | T6M11AE | Genuine |
+
+## Genuine or compatible?
+This is a 100% genuine, Original HP cartridge supplied in a sealed box. It is designed to work harmoniously with your HP printer's hardware. If you are on a strict budget, mention our Royal compatible brand when you order—it offers the same high yield and fits the exact same printers at a significantly lower price point.
+
+## Why buy from Trinatech
+Stock held in Nairobi CBD for fast processing.
+Delivery across Kenya including Kisumu, Nakuru, Eldoret and Mombasa.
+Secure payments via M-Pesa and bank transfer accepted.
+WhatsApp ordering, walk-in at The One Mall River Road.
+
+## Getting the most from this cartridge
+Avoid storing ink cartridges in environments with extreme temperature fluctuations.
+Installation is a simple click-in process; just ensure it seats securely into the yellow-coded slot.
+Page yields are based on standard 5% coverage, so printing large, colour-heavy images will consume the ink much faster than stated.
+
+## Frequently asked questions
+Is there an XL or high-yield alternative? This is already the high-yield (XL) version for maximum efficiency.
+Do I need the other colours to print? Yes, HP inkjet printers require all cartridges to have ink to operate safely.
+What is the delivery time? Delivery is completed within the same day in Nairobi, and by the next day countrywide.
+What is your warranty or returns policy? We honour standard HP warranties for factory-sealed, genuine items.
+Why is the yellow fading on my prints? You may need to run a quick printhead cleaning cycle from the printer's menu.`, "metaTitle": "HP 903XL Yellow High Yield Ink T6M11AE | Nairobi", "metaDescription": "Genuine HP 903XL yellow high yield ink cartridge (T6M11AE), ~825 pages, for OfficeJet 6950 and Pro 6960/6970. Nairobi CBD. Call 0729 589 346.", "inStock": true},
   {"id": 4787, "sku": null, "name": "HP 90A Black Original Laserjet Toner Cartridge", "brand": "HP", "category": "Inks & Toner Cartridges", "price": 11000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2025/07/HP-90A-Black-Original-Toner.png", "imageFile": "HP-90A-Black-Original-Toner.png", "description": `The HP 90A black toner cartridge is the genuine Original HP replacement, part number CE390A, for the HP LaserJet Enterprise 600 series and the M4555 MFP. At 10,000 pages this is a departmental cartridge for machines built to run all day, every day.
 
 ## Compatible printers
@@ -2319,8 +2415,75 @@ Do I need the colour cartridges too? These printers use separate cyan, magenta a
 How fast is delivery? Same day within Nairobi, next working day to most towns.
 Can I return it? Yes, sealed and unused.
 Why does my printer still show an error after fitting a new cartridge? Reseat it and clean the contacts with a dry cloth. If the message persists it is more likely the printhead than the ink.`, "metaTitle": "HP 920 Black Ink Cartridge CD971AE - Genuine HP Kenya", "metaDescription": "Genuine HP 920 black ink (CD971AE), about 420 pages, for HP OfficeJet 6000, 6500, 7000 and 7500A. Nairobi stock, delivered across Kenya.", "inStock": true},
-  {"id": 5461, "sku": "CD975A", "name": "HP 920XL Black Cartridge High Yield Original Ink (CD975AA)", "brand": "HP", "category": "Original Hp Ink Cartridges", "price": 7000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/HP-920XL-Black-Cartridge-High-Yield-Original-Ink-CD975AA.webp", "imageFile": "HP-920XL-Black-Cartridge-High-Yield-Original-Ink-CD975AA.webp", "description": "HP 920XL BLACK CARTRIDGE HIGH YIELD ORIGINAL INK (CD975AA", "inStock": true},
-  {"id": 5460, "sku": null, "name": "HP 920XL High Yield Ink Cartridge Cmy Each", "brand": "HP", "category": "Original Hp Ink Cartridges", "price": 3600, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/HP-920XL-High-Yield-Ink-Cartridge-Cmy-Each.webp", "imageFile": "HP-920XL-High-Yield-Ink-Cartridge-Cmy-Each.webp", "description": "HP 920XL HIGH YIELD INK CARTRIDGE CMY EACH", "inStock": true},
+  {"id": 5461, "sku": "CD975A", "name": "HP 920XL Black Cartridge High Yield Original Ink (CD975AA)", "brand": "HP", "category": "Original Hp Ink Cartridges", "price": 7000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/HP-920XL-Black-Cartridge-High-Yield-Original-Ink-CD975AA.webp", "imageFile": "HP-920XL-Black-Cartridge-High-Yield-Original-Ink-CD975AA.webp", "description": `The HP 920XL Black Cartridge High Yield Original Ink (CD975AA) is a robust workhorse for older generation HP OfficeJet machines, delivering exceptional laser-quality black text. Built for heavy use, this high-yield cartridge produces a massive volume of professional documents that resist water and fading. If your business is still relying on these incredibly durable legacy printers, this genuine cartridge will keep them running perfectly.
+
+## Compatible printers
+HP OfficeJet 6000 Printer
+HP OfficeJet 6500 All-in-One Printer
+HP OfficeJet 6500A e-All-in-One Printer
+HP OfficeJet 7000 Wide Format Printer
+HP OfficeJet 7500A Wide Format e-All-in-One
+If your model isn't listed, send us the number from the front of the machine and we'll confirm before you pay.
+
+## Specifications
+| Page yield | Cartridge type | Colour | Capacity | Part number | Genuine or compatible |
+|---|---|---|---|---|---|
+| ~1,200 pages | Inkjet | Black | High Yield (XL) | CD975AA | Genuine |
+
+## Genuine or compatible?
+Genuine, Original HP ink. It guarantees precise compatibility and protects your legacy printer's printhead. If you are looking to lower printing costs, we also stock a Royal compatible cartridge for this model. The Royal version fits exactly the same and is highly cost-effective for daily, non-archival printing.
+
+## Why buy from Trinatech
+Secure stock held in Nairobi CBD.
+Delivery across Kenya including Kisumu, Nakuru, Eldoret and Mombasa.
+M-Pesa and bank transfer accepted.
+WhatsApp ordering, walk-in at The One Mall River Road.
+
+## Getting the most from this cartridge
+Keep the cartridge sealed until the exact moment you intend to install it.
+Ensure your printer is turned off using its own power button rather than a wall switch, as this allows the printhead to park properly and seals the ink from drying out.
+Use your printer's draft mode for internal documents to stretch the 1,200-page yield even further.
+
+## Frequently asked questions
+Is there an XL or high-yield alternative? This CD975AA cartridge is already the highest yield available for this model.
+Do I need the other colours to print? Yes, HP requires all cartridges to be present and have ink.
+What is the delivery time? Same-day within Nairobi CBD; overnight delivery for the rest of Kenya.
+What is your warranty or returns policy? Standard HP warranties apply to all genuine, factory-sealed cartridges.
+Is the ink water-resistant? Genuine HP 920XL black pigment ink is highly resistant to water and highlighter smears.`, "metaTitle": "HP 920XL Black High Yield Ink CD975AA | Nairobi Kenya", "metaDescription": "Genuine HP 920XL black high yield ink cartridge (CD975AA), ~1,200 pages, for OfficeJet 6000, 6500, 7000 and 7500A. Nairobi CBD. Call 0729 589 346.", "inStock": true},
+  {"id": 5460, "sku": null, "name": "HP 920XL High Yield Ink Cartridge Cmy Each", "brand": "HP", "category": "Original Hp Ink Cartridges", "price": 3600, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/HP-920XL-High-Yield-Ink-Cartridge-Cmy-Each.webp", "imageFile": "HP-920XL-High-Yield-Ink-Cartridge-Cmy-Each.webp", "description": `The HP 920XL High Yield Colour Ink Cartridges are the perfect high-capacity replacements to keep your legacy HP OfficeJet producing brilliant, professional colour. Sold individually (choose from Cyan, Magenta, or Yellow), these XL cartridges allow you to replace only the colour you have depleted, saving you money. They are formulated to produce sharp, fade-resistant graphics that make a lasting impression.
+
+## Compatible printers
+HP OfficeJet 6000 Printer
+HP OfficeJet 6500 All-in-One Printer
+HP OfficeJet 6500A e-All-in-One Printer
+HP OfficeJet 7000 Wide Format Printer
+HP OfficeJet 7500A Wide Format e-All-in-One
+If your model isn't listed, send us the number from the front of the machine and we'll confirm before you pay.
+
+## Specifications
+| Page yield | Cartridge type | Colour | Capacity | Part number | Genuine or compatible |
+|---|---|---|---|---|---|
+| ~700 pages | Inkjet | Cyan, Magenta OR Yellow | High Yield (XL) | Varies | Genuine |
+
+## Genuine or compatible?
+These are genuine, Original HP cartridges, sold individually per colour. They provide the best possible colour gamut and printhead longevity for older HP machines. However, if cost savings are your primary concern, our Royal compatible brand is available. Royal cartridges fit the exact same printers at a lower cost, trading maximum archival life for exceptional everyday value.
+
+## Why buy from Trinatech
+Stock held in Nairobi CBD for rapid deployment.
+Delivery across Kenya including Kisumu, Nakuru, Eldoret and Mombasa.
+M-Pesa and bank transfer accepted.
+WhatsApp ordering, walk-in at The One Mall River Road.
+
+## Getting the most from this cartridge
+To get the full 700-page yield per colour, avoid letting your printer sit unused for months, which can cause the microscopic nozzles to clog.
+Always leave empty cartridges inside the printer until you have the replacement ready to install; exposing the printhead to air for too long can cause permanent damage.
+
+## Frequently asked questions
+Is there an XL or high-yield alternative? These are already the high-yield (XL) versions for maximum efficiency.
+Do I need the other colours to print? Yes, all cartridges (including black) must have ink for the printer to operate.
+What is the delivery time? We offer same-day delivery in Nairobi, and next-day dispatch countrywide.
+What is your warranty or returns policy? Sealed genuine HP inks come with a standard manufacturer warranty.
+Does this price include all three colours? No, the listed price is for one single colour cartridge of your choice.`, "metaTitle": "HP 920XL High Yield Colour Ink Cartridge CMY | Nairobi", "metaDescription": "Genuine HP 920XL high yield colour ink cartridges (cyan, magenta or yellow), ~700 pages each, for OfficeJet 6000, 6500 and 7000 series. Nairobi CBD.", "inStock": true},
   {"id": 5459, "sku": "CN0557A", "name": "HP 932 Black Ink Original Cartridge (CN0557AE)", "brand": "HP", "category": "Original Hp Ink Cartridges", "price": 3600, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/HP-932-Black-Ink-Original-Cartridge-CN0557AE.webp", "imageFile": "HP-932-Black-Ink-Original-Cartridge-CN0557AE.webp", "description": `The HP 932 Black Ink Original Cartridge is a reliable standard-capacity replacement for your HP OfficeJet machine, delivering crisp, laser-quality text. This genuine ink is designed to resist fading and smearing, making it ideal for important business documents and daily admin tasks. It is the perfect everyday cartridge for small businesses operating the robust HP OfficeJet wide-format and standard series.
 
 ## Compatible printers
@@ -2398,7 +2561,43 @@ Do I need the colour cartridges too? Yes if you print in colour. The matching co
 How long is delivery? Same day in Nairobi, next working day upcountry.
 What are the return terms? Sealed and unused cartridges can be exchanged or refunded.
 Can I use HP 950 or 953 instead? No. Those are for different OfficeJet Pro families and will not fit these printers.`, "metaTitle": "HP 932 Black Ink Cartridge CN057AE - Genuine HP Kenya", "metaDescription": "Genuine HP 932 black ink (CN057AE), about 400 pages, for HP OfficeJet 6100, 6600, 6700, 7110, 7610. Nairobi stock, delivered Kenya-wide.", "inStock": true},
-  {"id": 5458, "sku": "CN049A-2", "name": "HP 932XL Black Ink High Yield Cartridge (CN049AE)", "brand": "HP", "category": "Original Hp Ink Cartridges", "price": 6500, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/HP-932XL-Black-Ink-High-Yield-Cartridge-CN049AE.webp", "imageFile": "HP-932XL-Black-Ink-High-Yield-Cartridge-CN049AE.webp", "description": "HP 932XL BLACK INK HIGH YIELD CARTRIDGE (CN049AE", "inStock": true},
+  {"id": 5458, "sku": "CN049A-2", "name": "HP 932XL Black Ink High Yield Cartridge (CN049AE)", "brand": "HP", "category": "Original Hp Ink Cartridges", "price": 6500, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/HP-932XL-Black-Ink-High-Yield-Cartridge-CN049AE.webp", "imageFile": "HP-932XL-Black-Ink-High-Yield-Cartridge-CN049AE.webp", "description": `The HP 932XL Black Ink High Yield Cartridge (CN049AE) is an ultra-reliable, high-capacity supply that ensures your wide-format and standard OfficeJet printers keep working hard for your business. Capable of printing over a thousand pages of incredibly sharp, laser-quality text, this genuine HP cartridge significantly reduces downtime. It is perfect for offices that print large volumes of contracts, invoices, and reports.
+
+## Compatible printers
+HP OfficeJet 6100 ePrinter
+HP OfficeJet 6600 e-All-in-One Printer
+HP OfficeJet 6700 Premium e-All-in-One Printer
+HP OfficeJet 7110 Wide Format ePrinter
+HP OfficeJet 7510 Wide Format All-in-One Printer
+HP OfficeJet 7610 Wide Format e-All-in-One Printer
+HP OfficeJet 7612 Wide Format e-All-in-One Printer
+If your model isn't listed, send us the number from the front of the machine and we'll confirm before you pay.
+
+## Specifications
+| Page yield | Cartridge type | Colour | Capacity | Part number | Genuine or compatible |
+|---|---|---|---|---|---|
+| ~1,000 pages | Inkjet | Black | High Yield (XL) | CN049AE | Genuine |
+
+## Genuine or compatible?
+Genuine, Original HP, in a factory-sealed box. This guarantees the highest print quality and prevents the firmware rejection issues often seen with cheap refills. If you print heavy volumes and want to save money, ask us about the Royal compatible version, which provides excellent value and fits the exact same range of printers flawlessly.
+
+## Why buy from Trinatech
+Stock held in Nairobi CBD.
+Delivery across Kenya including Kisumu, Nakuru, Eldoret and Mombasa.
+M-Pesa and bank transfer accepted.
+WhatsApp ordering, walk-in at The One Mall River Road.
+
+## Getting the most from this cartridge
+Store the cartridge upright at room temperature.
+Because this cartridge holds a large volume of ink, it is highly recommended to print at least one page a week to keep the printhead completely clear and functioning perfectly.
+To maximize yield, use the "Draft" setting for internal documents that do not require presentation quality.
+
+## Frequently asked questions
+Is there an XL or high-yield alternative? This is the XL high-yield version, offering the maximum capacity available.
+Do I need the other colours to print? Yes, even when printing in black and white, the printer needs colour cartridges installed.
+What is the delivery time? Same-day within Nairobi CBD; next-day for the rest of Kenya.
+What is your warranty or returns policy? Genuine cartridges carry a manufacturer warranty against manufacturing faults.
+Is this pigment or dye ink? HP 932XL black uses a pigment-based ink for exceptional water and highlighter resistance.`, "metaTitle": "HP 932XL Black High Yield Ink Cartridge CN049AE | Nairobi", "metaDescription": "Genuine HP 932XL black high yield ink (CN049AE), ~1,000 pages, for OfficeJet 6100, 6600, 6700, 7110 and 7610. Nairobi CBD. Call 0729 589 346.", "inStock": true},
   {"id": 5457, "sku": null, "name": "HP 933 Color Ink High Yield Cartridge Each", "brand": "HP", "category": "Original Hp Ink Cartridges", "price": 3000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/HP-933XL-Color-Ink-High-Yield-Cartridge-Cmy-Each.webp", "imageFile": "HP-933XL-Color-Ink-High-Yield-Cartridge-Cmy-Each.webp", "description": `The HP 933 Color Ink High Yield Cartridges provide exceptional value and striking colour quality for your HP OfficeJet machine. These XL cartridges are designed to print up to two and a half times more pages than the standard versions, making them perfect for busy environments. Whether you need cyan, magenta, or yellow, these high-yield supplies ensure you spend less time changing inks and more time getting work done.
 
 ## Compatible printers
@@ -3137,9 +3336,126 @@ Are magenta and yellow the same number? Yes, GT52 magenta is M0H55AE and yellow 
 Does GT52 fit Smart Tank printers? Yes for the colours; Smart Tank black uses GT53 rather than GT51.
 Is there a chip in the bottle? No, tank printers use plain unchipped bottles.
 Do you deliver outside Nairobi? Yes, countrywide by courier.`, "metaTitle": "HP GT52 Cyan Ink Bottle M0H54AE | Nairobi Kenya", "metaDescription": "Genuine HP GT52 cyan ink bottle (M0H54AE), 70ml, up to 8,000 pages. For DeskJet GT, Ink Tank and Smart Tank printers. Call 0729 589 346.", "inStock": true},
-  {"id": 5292, "sku": "MOH55AA", "name": "HP GT52 Magenta Ink Bottle (MOH55AA)", "brand": "HP", "category": "Master Rolls & Inks", "price": 1700, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/HP-GT52-Magenta-Ink-Bottle-MOH55AA.webp", "imageFile": "HP-GT52-Magenta-Ink-Bottle-MOH55AA.webp", "description": "HP GT52 MAGENTA INK BOTTLE (MOH55AA)", "inStock": true},
-  {"id": 5291, "sku": "MOH56AA", "name": "HP GT52 Yellow Ink Bottle (MOH56AA)", "brand": "HP", "category": "Master Rolls & Inks", "price": 1700, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/HP-GT52-Yellow-Ink-Bottle-MOH56AA.webp", "imageFile": "HP-GT52-Yellow-Ink-Bottle-MOH56AA.webp", "description": "HP GT52 YELLOW INK BOTTLE (MOH56AA)", "inStock": true},
-  {"id": 5290, "sku": null, "name": "HP GT53-90-ML Black Original Ink Bottle", "brand": "HP", "category": "Master Rolls & Inks", "price": 1700, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/HP-GT53-90-ML-Black-Original-Ink-Bottle.webp", "imageFile": "HP-GT53-90-ML-Black-Original-Ink-Bottle.webp", "description": "HP GT53-90-ML BLACK ORIGINAL INK BOTTLE", "inStock": true},
+  {"id": 5292, "sku": "MOH55AA", "name": "HP GT52 Magenta Ink Bottle (MOH55AA)", "brand": "HP", "category": "Master Rolls & Inks", "price": 1700, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/HP-GT52-Magenta-Ink-Bottle-MOH55AA.webp", "imageFile": "HP-GT52-Magenta-Ink-Bottle-MOH55AA.webp", "description": `The HP GT52 Magenta Ink Bottle (MOH55AA) is the genuine HP refill solution for your continuous ink tank printer. Designed to deliver high-volume, premium quality printing at an exceptionally low cost per page, this magenta dye-based ink produces vibrant photos and marketing materials. It features a spill-free refill system that makes topping up your printer's tanks completely mess-free.
+
+## Compatible printers
+HP DeskJet GT 5810 All-in-One Printer
+HP DeskJet GT 5820 All-in-One Printer
+HP Ink Tank Wireless 415
+HP Ink Tank Wireless 419
+HP Ink Tank 315
+HP Ink Tank 319
+HP Smart Tank 500 All-in-One
+HP Smart Tank 515 Wireless All-in-One
+HP Smart Tank 530 Wireless All-in-One
+HP Smart Tank 615 Wireless All-in-One
+If your model isn't listed, send us the number from the front of the machine and we'll confirm before you pay.
+
+## Specifications
+| Page yield | Cartridge type | Colour | Capacity | Part number | Genuine or compatible |
+|---|---|---|---|---|---|
+| ~8,000 pages | Ink Bottle | Magenta | High Yield | MOH55AA | Genuine |
+
+## Genuine or compatible?
+This is a genuine, Original HP ink bottle. Using authentic HP ink in your continuous tank printer protects the delicate printheads from clogging and ensures the best colour reproduction. While our Royal compatible brand offers equivalent ink bottles at a lower cost, genuine HP ink is highly recommended to maintain the manufacturer's warranty on your tank system.
+
+## Why buy from Trinatech
+Stock held in Nairobi CBD.
+Delivery across Kenya including Kisumu, Nakuru, Eldoret and Mombasa.
+M-Pesa and bank transfer accepted.
+WhatsApp ordering, walk-in at The One Mall River Road.
+
+## Getting the most from this cartridge
+Keep the bottle tightly capped and store it upright in a cool, dry place away from direct sunlight until you are ready to refill.
+When refilling, simply plug the bottle into the designated tank port and let it drain; do not squeeze the bottle.
+Ensure you refill the tank before the ink level drops below the minimum fill line to prevent air from entering the tubes.
+
+## Frequently asked questions
+Is there an XL or high-yield alternative? This is a high-volume tank refill bottle, which inherently provides XL yields.
+Do I need the other colours to print? Yes, HP ink tank systems require all colours to have ink to operate and prevent printhead damage.
+What is the delivery time? Same-day delivery for Nairobi CBD, and next-day for the rest of Kenya.
+What is your warranty or returns policy? Genuine sealed bottles are covered by the manufacturer's warranty against defects.
+How do I avoid spilling the ink? The bottle features a unique spill-free nozzle that only releases ink when inserted into the printer tank.`, "metaTitle": "HP GT52 Magenta Ink Bottle MOH55AA | Nairobi Kenya", "metaDescription": "Genuine HP GT52 magenta ink bottle (MOH55AA), up to 8,000 pages, for HP DeskJet GT, Ink Tank and Smart Tank printers. Nairobi CBD. Call 0729 589 346.", "inStock": true},
+  {"id": 5291, "sku": "MOH56AA", "name": "HP GT52 Yellow Ink Bottle (MOH56AA)", "brand": "HP", "category": "Master Rolls & Inks", "price": 1700, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/HP-GT52-Yellow-Ink-Bottle-MOH56AA.webp", "imageFile": "HP-GT52-Yellow-Ink-Bottle-MOH56AA.webp", "description": `The HP GT52 Yellow Ink Bottle (MOH56AA) provides the bright, consistent yellow ink your high-volume continuous tank printer needs. Formulated specifically by HP, this genuine dye-based ink ensures your documents and photos are printed with striking clarity without fading quickly. It is an essential supply for busy offices and homes that print heavily and want to maintain ultra-low running costs.
+
+## Compatible printers
+HP DeskJet GT 5810 All-in-One Printer
+HP DeskJet GT 5820 All-in-One Printer
+HP Ink Tank Wireless 415
+HP Ink Tank Wireless 419
+HP Ink Tank 315
+HP Ink Tank 319
+HP Smart Tank 500 All-in-One
+HP Smart Tank 515 Wireless All-in-One
+HP Smart Tank 530 Wireless All-in-One
+HP Smart Tank 615 Wireless All-in-One
+If your model isn't listed, send us the number from the front of the machine and we'll confirm before you pay.
+
+## Specifications
+| Page yield | Cartridge type | Colour | Capacity | Part number | Genuine or compatible |
+|---|---|---|---|---|---|
+| ~8,000 pages | Ink Bottle | Yellow | High Yield | MOH56AA | Genuine |
+
+## Genuine or compatible?
+Genuine, Original HP ink bottle. It is precisely formulated to work with HP's continuous ink delivery system. If you are extremely budget-conscious, a Royal compatible alternative is available at a lower cost, though we strongly recommend genuine HP for the best photo vibrancy and printhead longevity.
+
+## Why buy from Trinatech
+Stock held in Nairobi CBD for rapid deployment.
+Delivery across Kenya including Kisumu, Nakuru, Eldoret and Mombasa.
+M-Pesa and bank transfer accepted.
+WhatsApp ordering, walk-in at The One Mall River Road.
+
+## Getting the most from this cartridge
+Store the ink bottle away from extreme heat or cold.
+The spill-free design means you simply dock the bottle onto the printer's yellow tank and allow gravity to do the work.
+Remember that printing high-resolution, full-page photos will consume the yellow ink faster than the quoted 8,000-page standard yield, which is based on 5% page coverage.
+
+## Frequently asked questions
+Is there an XL or high-yield alternative? This bottle is designed for continuous tank systems and already offers maximum yield.
+Do I need the other colours to print? Yes, the printer will not function if any of the colour tanks are completely empty.
+What is the delivery time? Same-day delivery within Nairobi CBD and next-day dispatch countrywide.
+What is your warranty or returns policy? Sealed genuine HP bottles come with a standard manufacturer defect warranty.
+Can I mix this with other ink brands? No, mixing ink formulas can cause severe clogs and permanent printhead damage.`, "metaTitle": "HP GT52 Yellow Ink Bottle MOH56AA | Nairobi Kenya", "metaDescription": "Genuine HP GT52 yellow ink bottle (MOH56AA), up to 8,000 pages, for HP DeskJet GT, Ink Tank and Smart Tank printers. Nairobi CBD. Call 0729 589 346.", "inStock": true},
+  {"id": 5290, "sku": null, "name": "HP GT53-90-ML Black Original Ink Bottle", "brand": "HP", "category": "Master Rolls & Inks", "price": 1700, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/HP-GT53-90-ML-Black-Original-Ink-Bottle.webp", "imageFile": "HP-GT53-90-ML-Black-Original-Ink-Bottle.webp", "description": `The HP GT53 90ml Black Original Ink Bottle is the cornerstone of your HP continuous ink tank system, providing thousands of pages of crisp, laser-quality text. Unlike the colour bottles, this genuine HP black ink is pigment-based, ensuring your important documents are sharp, water-resistant, and highly resistant to smudging. It is the perfect cost-effective solution for high-volume document printing.
+
+## Compatible printers
+HP DeskJet GT 5810 All-in-One Printer
+HP DeskJet GT 5820 All-in-One Printer
+HP Ink Tank Wireless 415
+HP Ink Tank Wireless 419
+HP Ink Tank 315
+HP Ink Tank 319
+HP Smart Tank 500 All-in-One
+HP Smart Tank 515 Wireless All-in-One
+HP Smart Tank 530 Wireless All-in-One
+HP Smart Tank 615 Wireless All-in-One
+If your model isn't listed, send us the number from the front of the machine and we'll confirm before you pay.
+
+## Specifications
+| Page yield | Cartridge type | Colour | Capacity | Part number | Genuine or compatible |
+|---|---|---|---|---|---|
+| ~4,000 pages | Ink Bottle | Black | 90ml Standard | 1VV22AE | Genuine |
+
+## Genuine or compatible?
+This is a genuine, Original HP ink bottle in factory-sealed packaging. Genuine HP pigment ink provides unmatched text sharpness and durability. For users printing high volumes of draft documents, a Royal compatible black ink bottle is available at a lower cost, which serves perfectly for everyday, non-archival printing needs.
+
+## Why buy from Trinatech
+Secure stock held in Nairobi CBD.
+Delivery across Kenya including Kisumu, Nakuru, Eldoret and Mombasa.
+M-Pesa and bank transfer accepted.
+WhatsApp ordering, walk-in at The One Mall River Road.
+
+## Getting the most from this cartridge
+Only open the bottle when the black tank on your printer needs a top-up.
+The 90ml volume is designed to perfectly fill an empty reservoir.
+Never let your printer's ink tank drop below the lower threshold line, as printing with dry tubes will quickly destroy the machine's printheads.
+
+## Frequently asked questions
+Is there an XL or high-yield alternative? Yes, an HP GT53XL 135ml bottle is available for even higher volume printing.
+Do I need the other colours to print? Yes, HP requires all ink tanks to be sufficiently filled to maintain printer health.
+What is the delivery time? Same-day within Nairobi CBD; overnight delivery for the rest of Kenya.
+What is your warranty or returns policy? We support standard manufacturer warranties on all sealed genuine bottles.
+Will this ink smear if highlighted? Genuine HP GT53 black pigment ink is highly resistant to highlighter smears.`, "metaTitle": "HP GT53 90ml Black Ink Bottle 1VV22AE | Nairobi Kenya", "metaDescription": "Genuine HP GT53 90ml black ink bottle (1VV22AE), ~4,000 pages, for HP DeskJet GT, Ink Tank and Smart Tank printers. Nairobi CBD. Call 0729 589 346.", "inStock": true},
   {"id": 4525, "sku": null, "name": "HP GT53XL Original Ink", "brand": "HP", "category": "Inks & Toner Cartridges", "price": 2500, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2025/01/HP-GT53XL-ORIGINAL-INK.png", "imageFile": "HP-GT53XL-ORIGINAL-INK.png", "description": `The HP GT53XL black ink bottle is genuine Original HP refill ink, part number 1VV21AE, for HP's refillable tank printers. This is a 135 ml bottle rather than a cartridge, and it pours directly into the printer's built-in tank. At roughly 6,000 pages it is the cheapest way HP sells black ink, which is exactly the point of a tank printer.
 
 ## Compatible printers

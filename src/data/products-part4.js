@@ -3,7 +3,43 @@
 
 export const PRODUCTS_4 = [
   {"id": 3504, "sku": null, "name": "HP V24I G5 Fhd Monitor", "brand": "HP", "category": "Monitors", "price": 29000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2024/12/HP-V24i-G5-Monitor.png", "imageFile": "HP-V24i-G5-Monitor.png", "description": "The HP V24i G5 FHD Monitor offers exceptional visual quality with its 24-inch Full HD (1080p) display , providing crisp, clear images for a wide range of activities.", "inStock": true},
-  {"id": 5287, "sku": null, "name": "HP X4E75A Black Inktank Printhead", "brand": "HP", "category": "Master Rolls & Inks", "price": 16000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/HP-X4E75A-Black-Inktank-Printhead.webp", "imageFile": "HP-X4E75A-Black-Inktank-Printhead.webp", "description": "HP X4E75A BLACK INKTANK PRINTHEAD", "inStock": true},
+  {"id": 5287, "sku": null, "name": "HP X4E75A Black Inktank Printhead", "brand": "HP", "category": "Master Rolls & Inks", "price": 16000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/HP-X4E75A-Black-Inktank-Printhead.webp", "imageFile": "HP-X4E75A-Black-Inktank-Printhead.webp", "description": `The HP X4E75A Black Inktank Printhead is a vital replacement part designed to restore your HP Smart Tank printer to factory-fresh printing condition. Over years of heavy use, printheads can eventually wear out or become permanently clogged; this genuine replacement snaps easily into place to solve streaking, banding, or missing black text. It is an essential purchase if your machine is refusing to print black despite having a full tank of ink.
+
+## Compatible printers
+HP Smart Tank 500 All-in-One
+HP Smart Tank 515 Wireless All-in-One
+HP Smart Tank 516 Wireless All-in-One
+HP Smart Tank 530 Wireless All-in-One
+HP Smart Tank 615 Wireless All-in-One
+HP Smart Tank 750 Wireless All-in-One
+HP Smart Tank 790 Wireless All-in-One
+If your model isn't listed, send us the number from the front of the machine and we'll confirm before you pay.
+
+## Specifications
+| Page yield | Cartridge type | Colour | Capacity | Part number | Genuine or compatible |
+|---|---|---|---|---|---|
+| N/A | Printhead | Black | Standard | X4E75A | Genuine |
+
+## Genuine or compatible?
+This is a 100% genuine, Original HP printhead. Because the printhead is a highly precise piece of hardware that interfaces directly with the printer's electronics, we do not recommend or sell compatible versions of this part. Stick with the genuine HP product to ensure your printer works safely and correctly.
+
+## Why buy from Trinatech
+Locally held stock in Nairobi CBD.
+Delivery across Kenya including Kisumu, Nakuru, Eldoret and Mombasa.
+M-Pesa and bank transfer accepted securely.
+WhatsApp ordering available, walk-in at The One Mall River Road.
+
+## Getting the most from this cartridge
+To maximize the lifespan of your new printhead, always ensure your printer's ink tanks never run dry.
+Turn the printer off using its own power button rather than a wall switch, so the printhead has time to park and seal itself against drying out.
+Run a printhead alignment from your printer's menu immediately after installation.
+
+## Frequently asked questions
+Is there an XL or high-yield alternative? No, this is a hardware replacement part, not a consumable ink cartridge.
+Do I need the other colours to print? You will need a functioning tricolour printhead alongside this black one for the machine to operate.
+What is the delivery time? Same-day for Nairobi CBD; expect next-day delivery for other regions in Kenya.
+What is your warranty or returns policy? Genuine HP printheads carry a manufacturer warranty against electronic failure.
+Is it easy to install? Yes, it snaps into the carriage exactly like a standard ink cartridge.`, "metaTitle": "HP X4E75A Black Inktank Printhead | Nairobi Kenya", "metaDescription": "Genuine HP X4E75A black inktank printhead for HP Smart Tank 500, 515, 516, 530, 615, 750 and 790. Restores streaking or missing black. Nairobi CBD.", "inStock": true},
   {"id": 3584, "sku": null, "name": "Pressure Roller For HP Laserjet 1102/1018/1020 Printers", "brand": "HP", "category": "Printer Parts", "price": 1800, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2024/12/Pressure-Roller-for-HP-LaserJet.png", "imageFile": "Pressure-Roller-for-HP-LaserJet.png", "description": `The Pressure Roller For HP Laserjet 1102/1018/1020 Printers is a high-grade replacement lower fuser roller for compact HP and Canon desktop monochrome laser printers. Built with durable silicone rubber to restore perfect toner adhesion and prevent paper curling and jamming.
 
 ## Compatible printers

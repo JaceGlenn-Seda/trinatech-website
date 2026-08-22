@@ -2568,7 +2568,55 @@ Why is my low ink warning still showing? Make sure the cartridge is seated corre
   {"id": 5450, "sku": null, "name": "HP 935XL Cyan Ink High Yield Cartridge", "brand": "HP", "category": "Original Hp Ink Cartridges", "price": 4500, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/HP-935XL-Cyan-Ink-High-Yield-Cartridge.webp", "imageFile": "HP-935XL-Cyan-Ink-High-Yield-Cartridge.webp", "description": "HP 935XL CYAN INK HIGH YIELD CARTRIDGE", "inStock": true},
   {"id": 5449, "sku": null, "name": "HP 935XL Magenta Ink High Yield Cartridge (C2P25AE)", "brand": "HP", "category": "Original Hp Ink Cartridges", "price": 4500, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/HP-935XL-Magenta-Ink-High-Yield-Cartridge-C2P25AE.webp", "imageFile": "HP-935XL-Magenta-Ink-High-Yield-Cartridge-C2P25AE.webp", "description": "HP 935XL MAGENTA INK HIGH YIELD CARTRIDGE (C2P25AE", "inStock": true},
   {"id": 5448, "sku": null, "name": "HP 935XL Yellow Ink High Yield Cartridge", "brand": "HP", "category": "Original Hp Ink Cartridges", "price": 4500, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/HP-935XL-Yellow-Ink-High-Yield-Cartridge.webp", "imageFile": "HP-935XL-Yellow-Ink-High-Yield-Cartridge.webp", "description": "HP 935XL YELLOW INK HIGH YIELD CARTRIDGE", "inStock": true},
-  {"id": 5447, "sku": "CN049A", "name": "HP 950 Black Ink Original Cartridge (CN049AE)", "brand": "HP", "category": "Original Hp Ink Cartridges", "price": 5000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/HP-950-Black-Ink-Original-Cartridge-CN049AE.webp", "imageFile": "HP-950-Black-Ink-Original-Cartridge-CN049AE.webp", "description": "HP 950 BLACK INK ORIGINAL CARTRIDGE (CN049AE", "inStock": true},
+  {"id": 5447, "sku": "CN049A", "name": "HP 950 Black Ink Original Cartridge (CN049AE)", "brand": "HP", "category": "Original Hp Ink Cartridges", "price": 5000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/HP-950-Black-Ink-Original-Cartridge-CN049AE.webp", "imageFile": "HP-950-Black-Ink-Original-Cartridge-CN049AE.webp", "description": `The HP 950 Black Original Ink Cartridge (CN049AE) is the standard-capacity black ink built for HP's OfficeJet Pro 8100 and 8600 business machines. It carries HP's pigment-based ink, which dries on contact and resists water and smudging, so invoices and delivery notes still read cleanly after being handled and filed. Rated at roughly 1,000 pages.
+
+## Compatible printers
+HP OfficeJet Pro 8100 ePrinter
+HP OfficeJet Pro 8600 e-All-in-One Printer
+HP OfficeJet Pro 8600 Plus e-All-in-One Printer
+HP OfficeJet Pro 8600 Premium e-All-in-One Printer
+HP OfficeJet Pro 8610 e-All-in-One Printer
+HP OfficeJet Pro 8615 e-All-in-One Printer
+HP OfficeJet Pro 8616 e-All-in-One Printer
+HP OfficeJet Pro 8620 e-All-in-One Printer
+HP OfficeJet Pro 8625 e-All-in-One Printer
+HP OfficeJet Pro 8630 e-All-in-One Printer
+HP OfficeJet Pro 8640 e-All-in-One Printer
+HP OfficeJet Pro 8660 e-All-in-One Printer
+HP OfficeJet Pro 251dw Printer
+HP OfficeJet Pro 276dw Multifunction Printer
+If your model isn't listed, send us the number from the front of the machine and we'll confirm before you pay.
+
+## Specifications
+Part number: CN049AE
+Colour: Black
+Page yield: Approximately 1,000 pages at 5% coverage (ISO/IEC 24711)
+Ink type: Pigment-based
+Cartridge volume: 25.5 ml
+Print technology: HP Thermal Inkjet
+Box contents: 1 cartridge
+
+## Genuine or compatible?
+This listing is the Original HP cartridge. It carries HP's own chip, so the printer reports ink levels accurately and no firmware warning appears. Trinatech also stocks compatible alternatives for this printer family, including cartridges under our own Royal house brand. Royal is a separate product line manufactured to work in the same machine, not a rebadged HP cartridge, and it is priced and warranted on its own terms. Tell us which you want and we will quote both so you can compare cost per page honestly.
+
+## Why buy from Trinatech
+We are a walk-in shop at The One Mall on River Road in Nairobi CBD, not a drop-shipper.
+Stock is on the shelf, you can inspect the box and the security seal before you pay, and we deliver the same day across Nairobi and countrywide by courier.
+Schools, cyber cafés, SACCOs and corporate offices buy from us in bulk at negotiated rates.
+Order on WhatsApp or call 0729 589 346 with your printer model and we will confirm the correct cartridge before you send money.
+
+## Getting the most from this cartridge
+Leave the cartridge sealed until the moment you install it, because pigment ink dries fast once exposed to air.
+Keep fingers off the copper contacts and the ink port.
+If the printer sits idle, print a page of black text weekly to keep the printhead clear, and run the cleaning cycle before assuming a cartridge is faulty.
+Store spares upright, cool and out of direct sunlight.
+
+## Frequently asked questions
+Does this fit the OfficeJet Pro 8710 or 8720? No. Those newer machines use HP 953, 955 or 952 depending on region, and the cartridge shape and chip are different.
+What is the difference between HP 950 and HP 950XL? Same printers, more ink. The 950XL is rated at about 2,300 pages against 1,000 for this standard cartridge.
+Can I use this alone if the colour cartridges are empty? No. OfficeJet Pro machines require all four cartridges installed to print at all, including for black-only jobs.
+Do you deliver outside Nairobi? Yes, countrywide by courier, with payment on order confirmation.
+Is there a warranty? Yes, genuine HP cartridges carry HP's manufacturer warranty against defects.`, "metaTitle": "HP 950 Black Ink Cartridge CN049AE | Nairobi Kenya", "metaDescription": "Genuine HP 950 Black ink cartridge (CN049AE) for OfficeJet Pro 8100 and 8600 series. 1,000 pages. In stock in Nairobi CBD. Call 0729 589 346.", "inStock": true},
   {"id": 3959, "sku": null, "name": "HP 950 Black Original Ink Cartridge", "brand": "HP", "category": "Inks & Toner Cartridges", "price": 5000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2024/12/HP-950-Black-Original-Ink.png", "imageFile": "HP-950-Black-Original-Ink.png", "description": `The HP 950 black ink cartridge is the genuine Original HP replacement, part number CN049AE, for the HP OfficeJet Pro 8100 and 8600 family. At roughly 1,000 pages it is built for a working office rather than occasional printing, which is why these machines earned their place at reception desks and in accounts departments.
 
 ## Compatible printers
@@ -2604,9 +2652,146 @@ Can I return it? Yes, sealed and unused.
 Will HP 950 fit an OfficeJet Pro 8710 or 8720? No. Those newer models take HP 953, which is a different cartridge shape and chip.`, "metaTitle": "HP 950 Black Ink Cartridge CN049AE - Genuine HP Kenya", "metaDescription": "Genuine HP 950 black ink (CN049AE), about 1,000 pages, for HP OfficeJet Pro 8100, 8600, 8610 and 8620. Nairobi stock, delivered across Kenya.", "inStock": true},
   {"id": 5446, "sku": null, "name": "HP 950XL Black Ink High Yield Cartridge", "brand": "HP", "category": "Original Hp Ink Cartridges", "price": 7500, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/HP-950XL-Black-Ink-High-Yield-Cartridge.webp", "imageFile": "HP-950XL-Black-Ink-High-Yield-Cartridge.webp", "description": "HP 950XL BLACK INK HIGH YIELD CARTRIDGE", "inStock": true},
   {"id": 5445, "sku": null, "name": "HP 951XL Color Ink High Yieldcartridge Each", "brand": "HP", "category": "Original Hp Ink Cartridges", "price": 5500, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/HP-951XL-Color-Ink-High-Yieldcartridge-Each.webp", "imageFile": "HP-951XL-Color-Ink-High-Yieldcartridge-Each.webp", "description": "HP 951XL COLOR INK HIGH YIELDCARTRIDGE EACH", "inStock": true},
-  {"id": 5444, "sku": null, "name": "HP 952 Black Ink Cartridge", "brand": "HP", "category": "Original Hp Ink Cartridges", "price": 5500, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/HP-952-Black-Ink-Cartridge.webp", "imageFile": "HP-952-Black-Ink-Cartridge.webp", "description": "HP 952 BLACK INK CARTRIDGE", "inStock": true},
-  {"id": 5443, "sku": null, "name": "HP 952 Cym Ink Cartridge Cartridge Each", "brand": "HP", "category": "Original Hp Ink Cartridges", "price": 4500, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/HP-952-Cym-Ink-Cartridge-Cartridge-Each.webp", "imageFile": "HP-952-Cym-Ink-Cartridge-Cartridge-Each.webp", "description": "HP 952 CYM INK CARTRIDGE CARTRIDGE EACH", "inStock": true},
-  {"id": 5442, "sku": null, "name": "HP 953 Black Cartridge High Yield Ink", "brand": "HP", "category": "Original Hp Ink Cartridges", "price": 4700, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/HP-953-Black-Cartridge-High-Yield-Ink.webp", "imageFile": "HP-953-Black-Cartridge-High-Yield-Ink.webp", "description": "HP 953 BLACK CARTRIDGE HIGH YIELD INK", "inStock": true},
+  {"id": 5444, "sku": null, "name": "HP 952 Black Ink Cartridge", "brand": "HP", "category": "Original Hp Ink Cartridges", "price": 5500, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/HP-952-Black-Ink-Cartridge.webp", "imageFile": "HP-952-Black-Ink-Cartridge.webp", "description": `The HP 952 Black Ink Cartridge is the standard-capacity black ink for HP's OfficeJet Pro 7700 and 8200 to 8700 series all-in-ones. It uses pigment-based ink for sharp, water-resistant black text on plain paper, which is what documents that get signed, scanned and filed need. Rated at approximately 1,000 pages.
+
+## Compatible printers
+HP OfficeJet 8702 All-in-One Printer
+HP OfficeJet Pro 7720 Wide Format All-in-One Printer
+HP OfficeJet Pro 7730 Wide Format All-in-One Printer
+HP OfficeJet Pro 7740 Wide Format All-in-One Printer
+HP OfficeJet Pro 8210 Printer
+HP OfficeJet Pro 8216 Printer
+HP OfficeJet Pro 8710 All-in-One Printer
+HP OfficeJet Pro 8715 All-in-One Printer
+HP OfficeJet Pro 8720 All-in-One Printer
+HP OfficeJet Pro 8725 All-in-One Printer
+HP OfficeJet Pro 8730 All-in-One Printer
+HP OfficeJet Pro 8740 All-in-One Printer
+If your model isn't listed, send us the number from the front of the machine and we'll confirm before you pay.
+
+## Specifications
+Part number: F6U15AN
+Colour: Black
+Page yield: Approximately 1,000 pages at 5% coverage (ISO/IEC 24711)
+Ink type: Pigment-based
+Print technology: HP Thermal Inkjet
+Box contents: 1 cartridge
+
+## Genuine or compatible?
+HP sells the same physical cartridge under different numbers depending on the region it was packaged for. HP 952 is the North American number, HP 953 is the European and African number, and HP 955 is the Asia-Pacific number. They fit the same printers. What matters when you buy is that the number printed on the box matches the number your printer asks for, because a mismatched region code can trigger a cartridge-not-recognised message on some firmware versions. Bring us your printer model or send a photo of the empty cartridge and we will supply the version your machine expects. Compatible alternatives, including our own Royal house brand, are also available at a lower price point.
+
+## Why buy from Trinatech
+Region confusion is exactly the sort of thing that turns an online order into a returned parcel.
+At our counter at The One Mall on River Road you can check the box against your old cartridge before paying.
+We hold stock rather than ordering it in, we deliver the same day across Nairobi and countrywide by courier, and we quote bulk rates for schools, cyber cafés and corporate accounts.
+Call or WhatsApp 0729 589 346.
+
+## Getting the most from this cartridge
+Install it as soon as you open the foil pouch.
+Handle it by the plastic body only, keeping fingers off the copper contacts and the ink outlet.
+If print quality drops off, run the printer's own printhead cleaning routine before replacing anything, since on this series the printhead is separate from the cartridge and is usually the real culprit.
+Printing a little every week keeps the ink channels from drying out during quiet periods.
+
+## Frequently asked questions
+Is HP 952 the same as HP 953? Physically yes, and they fit the same printers, but the box numbers differ by region and some firmware is fussy about it.
+What is the yield of the XL version? HP 952XL black is rated at about 2,000 pages against 1,000 for this standard cartridge.
+Will my printer work with only black installed? No. All four cartridges must be present for the printer to run any job.
+Does this fit the OfficeJet Pro 9010 or 9020? No, those use HP 963 or HP 962.
+Can you deliver upcountry? Yes, we ship countrywide by courier.`, "metaTitle": "HP 952 Black Ink Cartridge | Nairobi Kenya | Trinatech", "metaDescription": "HP 952 Black ink cartridge for OfficeJet Pro 7720, 8210, 8710 and 8740 series. 1,000 pages. Available in Nairobi CBD. Call 0729 589 346.", "inStock": true},
+  {"id": 5443, "sku": null, "name": "HP 952 Cym Ink Cartridge Cartridge Each", "brand": "HP", "category": "Original Hp Ink Cartridges", "price": 4500, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/HP-952-Cym-Ink-Cartridge-Cartridge-Each.webp", "imageFile": "HP-952-Cym-Ink-Cartridge-Cartridge-Each.webp", "description": `The HP 952 colour ink cartridges cover cyan, magenta and yellow for HP's OfficeJet Pro 7700 and 8200 to 8700 series. They are priced individually, so when one colour runs out you replace only that colour instead of discarding usable ink in the other two. Each is rated at approximately 700 pages, and together with the HP 952 black they make up the four-cartridge set these machines need before they will print at all.
+
+## Compatible printers
+HP OfficeJet 8702 All-in-One Printer
+HP OfficeJet Pro 7720 Wide Format All-in-One Printer
+HP OfficeJet Pro 7730 Wide Format All-in-One Printer
+HP OfficeJet Pro 7740 Wide Format All-in-One Printer
+HP OfficeJet Pro 8210 Printer
+HP OfficeJet Pro 8216 Printer
+HP OfficeJet Pro 8710 All-in-One Printer
+HP OfficeJet Pro 8715 All-in-One Printer
+HP OfficeJet Pro 8720 All-in-One Printer
+HP OfficeJet Pro 8725 All-in-One Printer
+HP OfficeJet Pro 8730 All-in-One Printer
+HP OfficeJet Pro 8740 All-in-One Printer
+If your model isn't listed, send us the number from the front of the machine and we'll confirm before you pay.
+
+## Specifications
+Part numbers: F6U12AN cyan, F6U13AN magenta, F6U14AN yellow
+Colours: Cyan, magenta or yellow, sold singly
+Page yield: Approximately 700 pages per cartridge at 5% coverage (ISO/IEC 24711)
+Ink type: Pigment-based
+Print technology: HP Thermal Inkjet
+Box contents: 1 cartridge of the colour ordered
+
+## Genuine or compatible?
+These are Original HP cartridges with HP chips, so ink-level reporting stays accurate. As with the black, HP packages this cartridge under three regional numbers: 952 for North America, 953 for Europe and Africa, 955 for Asia-Pacific. The cartridges are interchangeable in the printer, but the number on your machine's supply-status screen is the one to buy against. Send us a photo of your empty cartridge if you are unsure. Compatible colour cartridges, including our Royal house brand, are stocked as a lower-cost alternative and are quoted separately.
+
+## Why buy from Trinatech
+Colour cartridges are where online listings do the most damage, because a wrong colour or region code is only discovered once the printer rejects it.
+We are a physical shop at The One Mall on River Road in Nairobi CBD.
+Confirm the cartridge at the counter, or send your model on WhatsApp and we will check before you pay.
+Same-day delivery across Nairobi, countrywide courier, and bulk pricing for schools and offices.
+Call 0729 589 346.
+
+## Getting the most from this cartridge
+Buy the colour you actually need rather than a full set out of habit, and keep one spare of the colour you burn fastest, usually cyan on documents with letterheads and charts.
+Open the foil only at installation.
+Avoid touching the contacts.
+If a colour prints with banding or gaps, run the printhead cleaning cycle from the printer menu twice before concluding the cartridge is at fault, and print a nozzle-check page to confirm the result.
+
+## Frequently asked questions
+Are the three colours sold separately? Yes, this listing is priced per single cartridge, so specify cyan, magenta or yellow when ordering.
+Can I print in black only when a colour is empty? No. These printers require all four cartridges installed and non-empty to run any job.
+What yield does the XL version give? HP 952XL colours are rated at about 1,600 pages each against 700 here.
+Do these fit the OfficeJet Pro 9020? No, that series uses HP 963 or HP 962.
+Is bulk pricing available? Yes, for schools, cyber cafés and corporate accounts.`, "metaTitle": "HP 952 Colour Ink Cartridge CMY | Nairobi | Trinatech", "metaDescription": "HP 952 cyan, magenta or yellow ink cartridge for OfficeJet Pro 7720, 8210, 8710 and 8740. 700 pages each. Nairobi CBD. Call 0729 589 346.", "inStock": true},
+  {"id": 5442, "sku": null, "name": "HP 953 Black Cartridge High Yield Ink", "brand": "HP", "category": "Original Hp Ink Cartridges", "price": 4700, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/HP-953-Black-Cartridge-High-Yield-Ink.webp", "imageFile": "HP-953-Black-Cartridge-High-Yield-Ink.webp", "description": `The HP 953XL High Yield Black Ink Cartridge (L0S70AE) is the large-capacity black ink for HP's OfficeJet Pro 7700 and 8200 to 8700 series. At roughly 2,000 pages it prints more than twice what the standard HP 953 black manages, which brings the cost per page down and cuts the number of times somebody has to stop work and change a cartridge. It uses pigment ink, so black text stays sharp and resists water and highlighter smudging.
+
+## Compatible printers
+HP OfficeJet Pro 7720 Wide Format All-in-One Printer
+HP OfficeJet Pro 7730 Wide Format All-in-One Printer
+HP OfficeJet Pro 7740 Wide Format All-in-One Printer
+HP OfficeJet Pro 8210 Printer
+HP OfficeJet Pro 8218 Printer
+HP OfficeJet Pro 8710 All-in-One Printer
+HP OfficeJet Pro 8715 All-in-One Printer
+HP OfficeJet Pro 8718 All-in-One Printer
+HP OfficeJet Pro 8719 All-in-One Printer
+HP OfficeJet Pro 8720 All-in-One Printer
+HP OfficeJet Pro 8725 All-in-One Printer
+HP OfficeJet Pro 8730 All-in-One Printer
+HP OfficeJet Pro 8740 All-in-One Printer
+If your model isn't listed, send us the number from the front of the machine and we'll confirm before you pay.
+
+## Specifications
+Part number: L0S70AE
+Colour: Black
+Page yield: Approximately 2,000 pages at 5% coverage (ISO/IEC 24711)
+Ink type: Pigment-based
+Cartridge volume: 42.5 ml
+Print technology: HP Thermal Inkjet
+Box contents: 1 cartridge
+
+## Genuine or compatible?
+This is the Original HP high-yield cartridge. The XL and the standard HP 953 black are the same size and shape and fit the same printers; the XL simply holds more ink. If your printer currently has a standard 953 in it, the XL will drop straight in. HP also numbers this cartridge family 952 for North America and 955 for Asia-Pacific, so the box in front of you may carry a different number for the same part. Compatible high-yield alternatives, including our Royal house brand, are stocked separately and quoted on request.
+
+## Why buy from Trinatech
+High-yield cartridges are the ones most often faked, because the price difference makes counterfeiting worthwhile.
+At our shop at The One Mall on River Road in Nairobi CBD you can check the HP security label and seal before you pay.
+We hold real stock, deliver the same day across Nairobi and countrywide by courier, and price bulk orders for schools, cyber cafés and corporate accounts.
+Call or WhatsApp 0729 589 346 with your printer model.
+
+## Getting the most from this cartridge
+If you print more than about 400 pages a month, the XL pays for itself against the standard cartridge on cost per page alone; work that out on your own volumes before deciding.
+Install straight from the foil, keep fingers off the contacts, and let the printer finish its alignment routine rather than cancelling it.
+Where print quality falls off, clean the printhead from the printer menu first, since the printhead on this series is a separate serviceable part.
+
+## Frequently asked questions
+Is HP 953XL the same size as HP 953? Yes, identical fit, just more ink inside.
+How many pages does the standard 953 black give? About 900 pages against roughly 2,000 for this XL.
+Will it work in the OfficeJet Pro 8600? No, that older series uses HP 950 and 951.
+Can the printer run on black alone? No, all four cartridges must be installed.
+Do you supply the matching XL colours? Yes, HP 953XL cyan, magenta and yellow are stocked separately.`, "metaTitle": "HP 953XL Black High Yield Ink L0S70AE | Nairobi Kenya", "metaDescription": "HP 953XL high yield black ink cartridge (L0S70AE) for OfficeJet Pro 7740, 8210, 8720 and 8730. 2,000 pages. Nairobi CBD. Call 0729 589 346.", "inStock": true},
   {"id": 3938, "sku": null, "name": "HP 953 Black Original Ink Cartridge", "brand": "HP", "category": "Inks & Toner Cartridges", "price": 5000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2024/12/HP-953-Black-Original-Ink.png", "imageFile": "HP-953-Black-Original-Ink.png", "description": `The HP 953 black ink cartridge is the genuine Original HP replacement, part number L0S58AE, for the HP OfficeJet Pro 8210 and 8700 series. These are the workhorse machines in a lot of Kenyan offices, and at roughly 1,000 pages the black cartridge is sized for real daily volume rather than occasional use. The ink is pigment-based, which is what keeps text crisp on invoices and contracts that get filed for years.
 
 ## Compatible printers
@@ -2649,12 +2834,193 @@ Do I need the colours too? Yes for colour work. HP 953 cyan, magenta and yellow 
 How fast is delivery? Same day in Nairobi, next working day to most other towns.
 What are the return terms? Sealed and unused cartridges can be exchanged or refunded.
 My printer is an OfficeJet Pro 8600. Will this fit? No. The 8600 family takes HP 950, which is a different cartridge. Send us your model and we will match it.`, "metaTitle": "HP 953 Black Ink Cartridge L0S58AE - Genuine HP Kenya", "metaDescription": "Genuine HP 953 black ink (L0S58AE), about 1,000 pages, for HP OfficeJet Pro 8210, 8710, 8720 and 8740. Nairobi stock, delivered Kenya-wide.", "inStock": true},
-  {"id": 5441, "sku": null, "name": "HP 953 Color Cartridge High Yield Ink Each", "brand": "HP", "category": "Original Hp Ink Cartridges", "price": 3700, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/HP-953XL-Color-Cartridge-High-Yield-Ink-Each-2.webp", "imageFile": "HP-953XL-Color-Cartridge-High-Yield-Ink-Each-2.webp", "description": "HP 953 COLOR CARTRIDGE HIGH YIELD INK EACH", "inStock": true},
+  {"id": 5441, "sku": null, "name": "HP 953 Color Cartridge High Yield Ink Each", "brand": "HP", "category": "Original Hp Ink Cartridges", "price": 3700, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/HP-953XL-Color-Cartridge-High-Yield-Ink-Each-2.webp", "imageFile": "HP-953XL-Color-Cartridge-High-Yield-Ink-Each-2.webp", "description": `The HP 953XL high-yield colour cartridges cover cyan, magenta and yellow for HP's OfficeJet Pro 7700 and 8200 to 8700 series. Each is rated at approximately 1,600 pages, well over double the roughly 700 pages of the standard HP 953 colour. They are sold individually, so you replace the one colour that has run down instead of throwing away ink you have already paid for in the other two. Pigment-based ink keeps charts, letterheads and logos looking solid rather than washed out.
+
+## Compatible printers
+HP OfficeJet Pro 7720 Wide Format All-in-One Printer
+HP OfficeJet Pro 7730 Wide Format All-in-One Printer
+HP OfficeJet Pro 7740 Wide Format All-in-One Printer
+HP OfficeJet Pro 8210 Printer
+HP OfficeJet Pro 8218 Printer
+HP OfficeJet Pro 8710 All-in-One Printer
+HP OfficeJet Pro 8715 All-in-One Printer
+HP OfficeJet Pro 8718 All-in-One Printer
+HP OfficeJet Pro 8719 All-in-One Printer
+HP OfficeJet Pro 8720 All-in-One Printer
+HP OfficeJet Pro 8725 All-in-One Printer
+HP OfficeJet Pro 8730 All-in-One Printer
+HP OfficeJet Pro 8740 All-in-One Printer
+If your model isn't listed, send us the number from the front of the machine and we'll confirm before you pay.
+
+## Specifications
+Part numbers: F6U16AE cyan, F6U17AE magenta, F6U18AE yellow
+Colours: Cyan, magenta or yellow, sold singly
+Page yield: Approximately 1,600 pages per cartridge at 5% coverage (ISO/IEC 24711)
+Ink type: Pigment-based
+Cartridge volume: Approximately 18 to 20 ml per cartridge
+Box contents: 1 cartridge of the colour ordered
+
+## Genuine or compatible?
+These are Original HP high-yield cartridges. They share the fit of the standard HP 953 colours and hold considerably more ink. Note that HP numbers this same cartridge family 952XL in North America and 955XL in Asia-Pacific, so a box carrying a different number may still be the correct part for your machine. If in doubt, match against the number your printer's supply-status screen reports. Compatible colour cartridges, including our Royal house brand, are available at a lower price and quoted separately on request.
+
+## Why buy from Trinatech
+Buying colour cartridges one at a time only works if the shop actually has all three colours on the shelf, which is where most suppliers fall down.
+We stock cyan, magenta and yellow individually at The One Mall on River Road in Nairobi CBD, deliver the same day across Nairobi, ship countrywide by courier, and quote bulk rates for schools, cyber cafés and corporate accounts.
+Send your printer model to 0729 589 346 on WhatsApp and we will confirm the part before you pay.
+
+## Getting the most from this cartridge
+Track which colour empties first over a couple of cycles and keep that one as your standing spare, rather than buying full sets.
+Open the foil only at the moment of installation and handle the cartridge by its body.
+If colour output looks banded or a shade is missing, run the printer's printhead cleaning cycle and print a nozzle-check page before replacing anything, because on this series the printhead is separate from the cartridge.
+
+## Frequently asked questions
+How much more do the XL colours give? About 1,600 pages each against roughly 700 for the standard HP 953 colours.
+Are the colours sold separately? Yes, specify cyan, magenta or yellow when you order.
+Can I mix XL colours with a standard black? Yes, any combination of standard and XL fits and works.
+Will these fit the OfficeJet Pro 8600? No, that series uses HP 951 colours.
+Do you deliver outside Nairobi? Yes, countrywide by courier.`, "metaTitle": "HP 953XL Colour Ink High Yield CMY | Nairobi Kenya", "metaDescription": "HP 953XL high yield cyan, magenta or yellow ink for OfficeJet Pro 7740, 8210, 8720, 8730. 1,600 pages each. Nairobi. Call 0729 589 346.", "inStock": true},
   {"id": 5440, "sku": null, "name": "HP 953XL Black Ink High Yield Caetridge", "brand": "HP", "category": "Original Hp Ink Cartridges", "price": 7500, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/HP-953XL-Black-Ink-High-Yield-Caetridge.webp", "imageFile": "HP-953XL-Black-Ink-High-Yield-Caetridge.webp", "description": "HP 953XL BLACK INK HIGH YIELD CAETRIDGE", "inStock": true},
   {"id": 5439, "sku": null, "name": "HP 953XL Color Cartridge High Yield Ink Each", "brand": "HP", "category": "Original Hp Ink Cartridges", "price": 5500, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/HP-953XL-Color-Cartridge-High-Yield-Ink-Each-1.webp", "imageFile": "HP-953XL-Color-Cartridge-High-Yield-Ink-Each-1.webp", "description": "HP 953XL COLOR CARTRIDGE HIGH YIELD INK EACH", "inStock": true},
-  {"id": 5438, "sku": null, "name": "HP 955 Black Ink Cartridge (L0S60AA)", "brand": "HP", "category": "Original Hp Ink Cartridges", "price": 6000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/HP-955-Black-Ink-Cartridge-L0S60AA.webp", "imageFile": "HP-955-Black-Ink-Cartridge-L0S60AA.webp", "description": "HP 955 BLACK INK CARTRIDGE (L0S60AA", "inStock": true},
-  {"id": 5437, "sku": null, "name": "HP 963 Black Ink Cartridge", "brand": "HP", "category": "Original Hp Ink Cartridges", "price": 4500, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/HP-963-Black-Ink-Cartridge.webp", "imageFile": "HP-963-Black-Ink-Cartridge.webp", "description": "HP 963 BLACK INK CARTRIDGE", "inStock": true},
-  {"id": 5436, "sku": null, "name": "HP 9633 Color Ink Cartridge Cym Each", "brand": "HP", "category": "Original Hp Ink Cartridges", "price": 3400, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/HP-963.png", "imageFile": "HP-963.png", "description": "HP 9633 COLOR INK CARTRIDGE CYM EACH", "inStock": true},
+  {"id": 5438, "sku": null, "name": "HP 955 Black Ink Cartridge (L0S60AA)", "brand": "HP", "category": "Original Hp Ink Cartridges", "price": 6000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/HP-955-Black-Ink-Cartridge-L0S60AA.webp", "imageFile": "HP-955-Black-Ink-Cartridge-L0S60AA.webp", "description": `The HP 955 Black Ink Cartridge (L0S60AA) is the standard-capacity black ink for HP's OfficeJet Pro 7700 and 8200 to 8700 series all-in-ones. HP 955 is the number HP uses for this cartridge in Asia-Pacific and several other markets; the same physical part appears as HP 953 in Europe and Africa and HP 952 in North America. Rated at approximately 1,000 pages of pigment-based black, it handles the everyday load of invoices, letters and reports in a working office.
+
+## Compatible printers
+HP OfficeJet Pro 7720 Wide Format All-in-One Printer
+HP OfficeJet Pro 7730 Wide Format All-in-One Printer
+HP OfficeJet Pro 7740 Wide Format All-in-One Printer
+HP OfficeJet Pro 8210 Printer
+HP OfficeJet Pro 8216 Printer
+HP OfficeJet Pro 8710 All-in-One Printer
+HP OfficeJet Pro 8715 All-in-One Printer
+HP OfficeJet Pro 8720 All-in-One Printer
+HP OfficeJet Pro 8725 All-in-One Printer
+HP OfficeJet Pro 8730 All-in-One Printer
+HP OfficeJet Pro 8740 All-in-One Printer
+HP OfficeJet Pro 8745 All-in-One Printer
+If your model isn't listed, send us the number from the front of the machine and we'll confirm before you pay.
+
+## Specifications
+Part number: L0S60AA
+Colour: Black
+Page yield: Approximately 1,000 pages at 5% coverage (ISO/IEC 24711)
+Ink type: Pigment-based
+Cartridge volume: 23.5 ml
+Ink drop size: 10.5 pl
+Print technology: HP Thermal Inkjet
+Box contents: 1 cartridge
+
+## Genuine or compatible?
+This is the Original HP cartridge with HP's own chip, so the printer's ink-level gauge stays accurate and no non-genuine warning appears. Because HP numbers this part differently by region, do not be alarmed if your printer's screen asks for 953 or 952 instead of 955; the cartridge is the same and it will fit. What we would rather you do is check with us first, since a small number of firmware versions are strict about the region code. Compatible alternatives, including cartridges under our own Royal house brand, are stocked separately and priced on request.
+
+## Why buy from Trinatech
+We sell from a counter, not a catalogue.
+Come to The One Mall on River Road in Nairobi CBD, compare the box against your empty cartridge, and check the HP seal before you pay.
+We deliver the same day across Nairobi and ship countrywide by courier, and we hold negotiated bulk pricing for schools, cyber cafés, SACCOs and corporate accounts.
+Call or WhatsApp 0729 589 346 with your printer model and we will confirm the right part first.
+
+## Getting the most from this cartridge
+Keep the cartridge sealed until installation, since pigment ink dries quickly at the outlet once exposed.
+Handle it by the plastic body only.
+If output starts streaking, run the printer's own printhead cleaning routine before replacing anything, because on this series the printhead is a separate part and is the usual cause.
+Regular light use, even a page a week, keeps the ink path from clogging during quiet spells.
+
+## Frequently asked questions
+Is HP 955 the same cartridge as HP 953? Yes, the same physical part under a different regional number, and it fits the same printers.
+What does the XL version give? HP 955XL black is rated at about 2,000 pages against 1,000 here.
+Can the printer run with only the black cartridge fitted? No, all four cartridges must be installed.
+Does it fit the OfficeJet Pro 9010 series? No, that series uses HP 963 or HP 962.
+Do you supply matching colours? Yes, HP 955 cyan, magenta and yellow are available on request.`, "metaTitle": "HP 955 Black Ink Cartridge L0S60AA | Nairobi Kenya", "metaDescription": "Genuine HP 955 Black ink cartridge (L0S60AA) for OfficeJet Pro 7720, 8210, 8710, 8720 and 8740. 1,000 pages. Nairobi. Call 0729 589 346.", "inStock": true},
+  {"id": 5437, "sku": null, "name": "HP 963 Black Ink Cartridge", "brand": "HP", "category": "Original Hp Ink Cartridges", "price": 4500, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/HP-963-Black-Ink-Cartridge.webp", "imageFile": "HP-963-Black-Ink-Cartridge.webp", "description": `The HP 963 Black Ink Cartridge (3JA26AE) is the standard-capacity black ink for HP's OfficeJet Pro 9000 series all-in-ones. These are the machines HP built for small offices that print, scan and fax all day, and the 963 black is the cartridge that carries most of that load. Pigment-based ink gives crisp, water-resistant black text on plain paper, rated at approximately 1,000 pages, which is a comfortable month for a small office printing correspondence and invoices.
+
+## Compatible printers
+HP OfficeJet Pro 9010 All-in-One Printer
+HP OfficeJet Pro 9012 All-in-One Printer
+HP OfficeJet Pro 9013 All-in-One Printer
+HP OfficeJet Pro 9014 All-in-One Printer
+HP OfficeJet Pro 9015 All-in-One Printer
+HP OfficeJet Pro 9016 All-in-One Printer
+HP OfficeJet Pro 9018 All-in-One Printer
+HP OfficeJet Pro 9019 All-in-One Printer
+HP OfficeJet Pro 9020 All-in-One Printer
+HP OfficeJet Pro 9022 All-in-One Printer
+HP OfficeJet Pro 9023 All-in-One Printer
+HP OfficeJet Pro 9025 All-in-One Printer
+If your model isn't listed, send us the number from the front of the machine and we'll confirm before you pay.
+
+## Specifications
+Part number: 3JA26AE
+Colour: Black
+Page yield: Approximately 1,000 pages at 5% coverage (ISO/IEC 24711)
+Ink type: Pigment-based
+Print technology: HP Thermal Inkjet
+Box contents: 1 cartridge
+
+## Genuine or compatible?
+This is the Original HP cartridge. One point worth knowing on the OfficeJet Pro 9000 series: HP numbers this cartridge 963 in Europe, the Middle East and Africa, and 962 in North America. They serve the same printers but are packaged and chipped for their own regions, and this series is less forgiving about mismatches than the older 8700 machines were. Buy against the number your printer's supply screen displays. Compatible alternatives, including our Royal house brand, are stocked and quoted separately.
+
+## Why buy from Trinatech
+The 9000 series is common in Nairobi offices and so are counterfeit cartridges for it.
+At The One Mall on River Road in Nairobi CBD you can inspect the box, the seal and the HP security label at the counter before any money changes hands.
+We hold genuine stock, deliver the same day across Nairobi, ship countrywide by courier, and quote bulk rates for schools, cyber cafés and corporate accounts.
+Call or WhatsApp 0729 589 346.
+
+## Getting the most from this cartridge
+Install it straight from the foil pouch and keep your fingers off the copper contacts and the ink outlet.
+Let the printer complete its alignment page instead of cancelling it, since the 9000 series uses that page to calibrate.
+If black output looks faint or striped, run the printhead cleaning cycle from the printer's own menu before swapping the cartridge.
+Store spares upright, cool and out of direct sunlight.
+
+## Frequently asked questions
+Is HP 963 the same as HP 962? They fit the same printers but are region-specific numbers, so buy the one your printer's screen asks for.
+What yield does HP 963XL give? About 2,000 pages for black, against roughly 1,000 for this standard cartridge.
+Will the printer work with only the black fitted? No, the OfficeJet Pro 9000 series needs all four cartridges installed.
+Does this fit the OfficeJet Pro 8710? No, that machine uses HP 953, 955 or 952 depending on region.
+Do you stock the matching colours? Yes, HP 963 cyan, magenta and yellow are sold individually.`, "metaTitle": "HP 963 Black Ink Cartridge 3JA26AE | Nairobi Kenya", "metaDescription": "Genuine HP 963 Black ink cartridge (3JA26AE) for OfficeJet Pro 9010, 9013, 9020 and 9023 series. 1,000 pages. Nairobi CBD. Call 0729 589 346.", "inStock": true},
+  {"id": 5436, "sku": null, "name": "HP 9633 Color Ink Cartridge Cym Each", "brand": "HP", "category": "Original Hp Ink Cartridges", "price": 3400, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/HP-963.png", "imageFile": "HP-963.png", "description": `The HP 963 colour ink cartridges cover cyan, magenta and yellow for HP's OfficeJet Pro 9000 series all-in-ones. Each is sold individually and rated at approximately 700 pages, so you replace only the colour that has run out rather than buying a set and discarding ink you have already paid for. Together with the HP 963 black they complete the four-cartridge set these printers need before they will run any job, colour or otherwise.
+
+## Compatible printers
+HP OfficeJet Pro 9010 All-in-One Printer
+HP OfficeJet Pro 9012 All-in-One Printer
+HP OfficeJet Pro 9013 All-in-One Printer
+HP OfficeJet Pro 9014 All-in-One Printer
+HP OfficeJet Pro 9015 All-in-One Printer
+HP OfficeJet Pro 9016 All-in-One Printer
+HP OfficeJet Pro 9018 All-in-One Printer
+HP OfficeJet Pro 9019 All-in-One Printer
+HP OfficeJet Pro 9020 All-in-One Printer
+HP OfficeJet Pro 9022 All-in-One Printer
+HP OfficeJet Pro 9023 All-in-One Printer
+HP OfficeJet Pro 9025 All-in-One Printer
+If your model isn't listed, send us the number from the front of the machine and we'll confirm before you pay.
+
+## Specifications
+Part numbers: 3JA23AE cyan, 3JA24AE magenta, 3JA25AE yellow
+Colours: Cyan, magenta or yellow, sold singly
+Page yield: Approximately 700 pages per cartridge at 5% coverage (ISO/IEC 24711)
+Cartridge volume: Approximately 10.7 ml
+Print technology: HP Thermal Inkjet
+Box contents: 1 cartridge of the colour ordered
+
+## Genuine or compatible?
+These are Original HP cartridges with HP chips, so ink levels report accurately. As with the black, HP uses 963 for Europe, the Middle East and Africa and 962 for North America on the same printers, and the OfficeJet Pro 9000 series is stricter about region codes than older models. Match the number shown on your printer's supply-status screen. Compatible colour cartridges, including our own Royal house brand, are stocked as a lower-cost option and quoted separately.
+
+## Why buy from Trinatech
+Selling colours individually only helps if all three are genuinely in stock, which is where most suppliers disappoint.
+We keep cyan, magenta and yellow on the shelf at The One Mall on River Road in Nairobi CBD.
+Confirm the cartridge against your printer at the counter, or send your model to 0729 589 346 on WhatsApp and we will check before you pay.
+Same-day Nairobi delivery, countrywide courier, and bulk pricing for schools, cyber cafés and corporate accounts.
+
+## Getting the most from this cartridge
+Watch which colour drains fastest over a few cycles, usually cyan where documents carry letterheads and charts, and keep that one as your standing spare.
+Open the foil at the moment of installation, not before.
+Handle by the body, never the contacts.
+If a colour prints patchy, run the printer's printhead cleaning routine and print a nozzle-check page before replacing the cartridge.
+
+## Frequently asked questions
+Are the three colours sold separately? Yes, this listing is per single cartridge, so specify cyan, magenta or yellow when ordering.
+Can I print black-only documents when a colour is empty? No, the OfficeJet Pro 9000 series requires all four cartridges installed and not empty.
+What yield does HP 963XL give? Around 1,600 pages per colour against 700 here.
+Is HP 963 interchangeable with HP 962? They serve the same printers but are region-specific, so buy the number your printer asks for.
+Do you deliver upcountry? Yes, countrywide by courier.`, "metaTitle": "HP 963 Colour Ink Cartridge CMY | Nairobi | Trinatech", "metaDescription": "HP 963 cyan, magenta or yellow ink cartridge for OfficeJet Pro 9010, 9013, 9020, 9023. 700 pages each. Nairobi CBD. Call 0729 589 346.", "inStock": true},
   {"id": 5435, "sku": null, "name": "HP 963XL Black Ink High Yirld Cartridge", "brand": "HP", "category": "Original Hp Ink Cartridges", "price": 6500, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/HP-963XL-Black-Ink-High-Yirld-Cartridge.webp", "imageFile": "HP-963XL-Black-Ink-High-Yirld-Cartridge.webp", "description": "HP 963XL BLACK INK HIGH YIRLD CARTRIDGE", "inStock": true},
   {"id": 5434, "sku": null, "name": "HP 963XL Color Ink Cartridge Cmy Each", "brand": "HP", "category": "Original Hp Ink Cartridges", "price": 5200, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/HP-963XL-Color-Ink-Cartridge-Cmy-Each.webp", "imageFile": "HP-963XL-Color-Ink-Cartridge-Cmy-Each.webp", "description": "HP 963XL COLOR INK CARTRIDGE CMY EACH", "inStock": true},
   {"id": 5297, "sku": null, "name": "HP 973X Black High Yield Pagewide Cartridge", "brand": "HP", "category": "Master Rolls & Inks", "price": 18000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/HP-973X-Black-High-Yield-Pagewide-Cartridge.webp", "imageFile": "HP-973X-Black-High-Yield-Pagewide-Cartridge.webp", "description": "HP 973X BLACK HIGH YIELD PAGEWIDE CARTRIDGE", "inStock": true},
@@ -2666,8 +3032,111 @@ My printer is an OfficeJet Pro 8600. Will this fit? No. The 8600 family takes HP
   {"id": 4483, "sku": null, "name": "HP Color Laserjet Pro Mfp M283FDN Printer", "brand": "HP", "category": "Printers & Copiers", "price": 95000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2025/01/HP-MFP-M283fdn.png", "imageFile": "HP-MFP-M283fdn.png", "description": "The HP Color LaserJet Pro MFP M283fdn Printer is a powerful and versatile all-in-one printer designed to meet the demands of modern businesses.", "inStock": true},
   {"id": 4486, "sku": null, "name": "HP Color Laserjet Pro Mfp M479DW Printer", "brand": "HP", "category": "Printers & Copiers", "price": 120000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2025/01/HP-MFP-M479dw.png", "imageFile": "HP-MFP-M479dw.png", "description": "The HP Color LaserJet Pro MFP M479dw Printer is an all-in-one, high-performance solution for businesses requiring fast, reliable, and high-quality printing.", "inStock": true},
   {"id": 4490, "sku": null, "name": "HP Deskjet 2710 All-In-One Printer", "brand": "HP", "category": "Printers & Copiers", "price": 11500, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2025/01/HP-DeskJet-2710.png", "imageFile": "HP-DeskJet-2710.png", "description": "The HP DeskJet 2710 All-in-One Printer is an affordable, reliable, and compact solution for everyday printing, scanning, and copying needs.", "inStock": true},
-  {"id": 5294, "sku": "MOH57AE", "name": "HP GT51 Black Ink Bottle (MOH57AE)", "brand": "HP", "category": "Master Rolls & Inks", "price": 2300, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/HP-GT51-Black-Ink-Bottle-MOH57AE.webp", "imageFile": "HP-GT51-Black-Ink-Bottle-MOH57AE.webp", "description": "HP GT51 BLACK INK BOTTLE (MOH57AE)", "inStock": true},
-  {"id": 5293, "sku": "MOH54AE", "name": "HP GT52 Cyan Ink Bottle (MOH54AE)", "brand": "HP", "category": "Master Rolls & Inks", "price": 1700, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/HP-GT52-Cyan-Ink-Bottle-MOH54AE.webp", "imageFile": "HP-GT52-Cyan-Ink-Bottle-MOH54AE.webp", "description": "HP GT52 CYAN INK BOTTLE (MOH54AE)", "inStock": true},
+  {"id": 5294, "sku": "MOH57AE", "name": "HP GT51 Black Ink Bottle (MOH57AE)", "brand": "HP", "category": "Master Rolls & Inks", "price": 2300, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/HP-GT51-Black-Ink-Bottle-MOH57AE.webp", "imageFile": "HP-GT51-Black-Ink-Bottle-MOH57AE.webp", "description": `The HP GT51 Black Ink Bottle (M0H57AE) is the refill bottle for HP's tank-based printers, the range built for people who print a lot and refuse to keep buying cartridges. There is no chip and no cartridge shell. You pour 90 ml of pigment black ink straight into the printer's built-in tank, and one bottle covers roughly 5,000 pages. On cost per page that is a different category of printing altogether from cartridge machines.
+
+## Compatible printers
+HP DeskJet GT 5810 All-in-One Printer
+HP DeskJet GT 5811 All-in-One Printer
+HP DeskJet GT 5820 All-in-One Printer
+HP DeskJet GT 5821 All-in-One Printer
+HP DeskJet GT 5822 All-in-One Printer
+HP Ink Tank 115 Printer
+HP Ink Tank 116 Printer
+HP Ink Tank 118 Printer
+HP Ink Tank 119 Printer
+HP Ink Tank 310 Printer
+HP Ink Tank 315 All-in-One Printer
+HP Ink Tank 318 All-in-One Printer
+HP Ink Tank 319 All-in-One Printer
+HP Ink Tank Wireless 410 All-in-One Printer
+HP Ink Tank Wireless 415 All-in-One Printer
+HP Ink Tank Wireless 418 All-in-One Printer
+HP Ink Tank Wireless 419 All-in-One Printer
+If your model isn't listed, send us the number from the front of the machine and we'll confirm before you pay.
+
+## Specifications
+Part number: M0H57AE
+Colour: Black
+Bottle volume: 90 ml
+Page yield: Up to approximately 5,000 pages at 5% coverage (ISO/IEC 24711)
+Ink type: Pigment-based
+Supply type: Refill bottle, no chip
+Box contents: 1 ink bottle
+
+## Genuine or compatible?
+This is the Original HP bottle. Tank printers are unusually sensitive to what goes into them, because the ink sits in an open reservoir feeding a printhead you cannot cheaply replace. Cheap unbranded refill ink is the most common cause of a clogged GT printhead, and a clogged printhead usually costs more than the ink ever saved. We stock compatible bottles, including our own Royal house brand, and we will sell them to you, but on tank machines we recommend the genuine bottle and say so plainly.
+
+## Why buy from Trinatech
+Tank printers are a large share of what we sell and service at The One Mall on River Road in Nairobi CBD, so we know these machines beyond the box.
+Buy over the counter, or send your model to 0729 589 346 on WhatsApp and we will confirm whether your printer takes GT51 or GT53 black.
+Same-day Nairobi delivery, countrywide courier, bulk pricing for schools and cyber cafés.
+
+## Getting the most from this cartridge
+Refill before the tank runs dry, not after, since running a tank printer empty is what pulls air into the printhead.
+Match the bottle to the correct tank by cap colour and fill slowly to the marked line without overfilling.
+Keep the printer on a level surface and use it regularly.
+If the black tank is full but pages come out blank, run the printhead cleaning routine from the printer menu rather than refilling again.
+
+## Frequently asked questions
+Is GT51 the same as GT53? Not quite. GT53 is HP's newer black bottle for the Smart Tank range; the two are closely related, so check the label on your printer's tank before ordering.
+How many pages does one bottle give? Up to about 5,000 at 5% coverage.
+What is GT51XL? A 135 ml bottle rated at roughly 6,000 pages.
+Does this bottle contain a chip? No, tank printers use plain bottles with no chip.
+Do you stock the colour bottles? Yes, HP GT52 cyan, magenta and yellow are sold separately.`, "metaTitle": "HP GT51 Black Ink Bottle M0H57AE | Nairobi Kenya", "metaDescription": "Genuine HP GT51 black ink bottle (M0H57AE), 90ml, up to 5,000 pages. For DeskJet GT 5810, 5820 and Ink Tank printers. Call 0729 589 346.", "inStock": true},
+  {"id": 5293, "sku": "MOH54AE", "name": "HP GT52 Cyan Ink Bottle (MOH54AE)", "brand": "HP", "category": "Master Rolls & Inks", "price": 1700, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/HP-GT52-Cyan-Ink-Bottle-MOH54AE.webp", "imageFile": "HP-GT52-Cyan-Ink-Bottle-MOH54AE.webp", "description": `The HP GT52 Cyan Ink Bottle (M0H54AE) is the cyan refill for HP's tank printers. It holds 70 ml of dye-based cyan and is rated at up to 8,000 pages, which is why tank machines cost so little to run. There is no chip and no cartridge to discard: you pour the ink straight into the printer's built-in cyan reservoir. Magenta and yellow are sold separately under the same GT52 number.
+
+## Compatible printers
+HP DeskJet GT 5810 All-in-One Printer
+HP DeskJet GT 5811 All-in-One Printer
+HP DeskJet GT 5820 All-in-One Printer
+HP DeskJet GT 5821 All-in-One Printer
+HP DeskJet GT 5822 All-in-One Printer
+HP Ink Tank 115 Printer
+HP Ink Tank 116 Printer
+HP Ink Tank 310 Printer
+HP Ink Tank 315 All-in-One Printer
+HP Ink Tank 318 All-in-One Printer
+HP Ink Tank 319 All-in-One Printer
+HP Ink Tank Wireless 410 All-in-One Printer
+HP Ink Tank Wireless 415 All-in-One Printer
+HP Ink Tank Wireless 418 All-in-One Printer
+HP Ink Tank Wireless 419 All-in-One Printer
+HP Smart Tank 500 All-in-One Printer
+HP Smart Tank 515 Wireless All-in-One Printer
+HP Smart Tank 519 Wireless All-in-One Printer
+HP Smart Tank 530 Wireless All-in-One Printer
+HP Smart Tank 615 Wireless All-in-One Printer
+If your model isn't listed, send us the number from the front of the machine and we'll confirm before you pay.
+
+## Specifications
+Part number: M0H54AE
+Colour: Cyan
+Bottle volume: 70 ml
+Page yield: Up to approximately 8,000 pages at 5% coverage (ISO/IEC 24711)
+Ink type: Dye-based
+Supply type: Refill bottle, no chip
+Box contents: 1 ink bottle
+
+## Genuine or compatible?
+This is the Original HP bottle. GT52 colour is used across the DeskJet GT, Ink Tank and Smart Tank ranges, which is worth knowing because the black bottle is not: DeskJet GT and Ink Tank models take GT51 black while the Smart Tank range takes GT53. The colours stayed the same across both generations. On tank printers we lean towards genuine ink, since unbranded refill ink is the usual cause of a clogged printhead. Compatible bottles, including our Royal house brand, are stocked and quoted on request.
+
+## Why buy from Trinatech
+We sell and service tank printers daily at The One Mall on River Road in Nairobi CBD, so we can tell you which black bottle your machine takes as well as the colour.
+Buy over the counter, or send your model to 0729 589 346 on WhatsApp and we will confirm before you pay.
+Same-day delivery across Nairobi, countrywide courier, and bulk pricing for schools, cyber cafés and corporate accounts.
+
+## Getting the most from this cartridge
+Top up before the tank empties rather than after, because running dry is what draws air into the printhead.
+Fill slowly to the marked line, matching bottle to tank by cap colour so you never cross cyan with magenta.
+Keep the printer level.
+If cyan prints weak while the tank is full, run the printhead cleaning routine and print a nozzle-check page before adding more ink.
+
+## Frequently asked questions
+How many pages does one bottle give? Up to about 8,000 at 5% coverage.
+Are magenta and yellow the same number? Yes, GT52 magenta is M0H55AE and yellow is M0H56AE, sold separately.
+Does GT52 fit Smart Tank printers? Yes for the colours; Smart Tank black uses GT53 rather than GT51.
+Is there a chip in the bottle? No, tank printers use plain unchipped bottles.
+Do you deliver outside Nairobi? Yes, countrywide by courier.`, "metaTitle": "HP GT52 Cyan Ink Bottle M0H54AE | Nairobi Kenya", "metaDescription": "Genuine HP GT52 cyan ink bottle (M0H54AE), 70ml, up to 8,000 pages. For DeskJet GT, Ink Tank and Smart Tank printers. Call 0729 589 346.", "inStock": true},
   {"id": 5292, "sku": "MOH55AA", "name": "HP GT52 Magenta Ink Bottle (MOH55AA)", "brand": "HP", "category": "Master Rolls & Inks", "price": 1700, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/HP-GT52-Magenta-Ink-Bottle-MOH55AA.webp", "imageFile": "HP-GT52-Magenta-Ink-Bottle-MOH55AA.webp", "description": "HP GT52 MAGENTA INK BOTTLE (MOH55AA)", "inStock": true},
   {"id": 5291, "sku": "MOH56AA", "name": "HP GT52 Yellow Ink Bottle (MOH56AA)", "brand": "HP", "category": "Master Rolls & Inks", "price": 1700, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/HP-GT52-Yellow-Ink-Bottle-MOH56AA.webp", "imageFile": "HP-GT52-Yellow-Ink-Bottle-MOH56AA.webp", "description": "HP GT52 YELLOW INK BOTTLE (MOH56AA)", "inStock": true},
   {"id": 5290, "sku": null, "name": "HP GT53-90-ML Black Original Ink Bottle", "brand": "HP", "category": "Master Rolls & Inks", "price": 1700, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/HP-GT53-90-ML-Black-Original-Ink-Bottle.webp", "imageFile": "HP-GT53-90-ML-Black-Original-Ink-Bottle.webp", "description": "HP GT53-90-ML BLACK ORIGINAL INK BOTTLE", "inStock": true},

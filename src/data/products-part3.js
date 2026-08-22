@@ -2109,10 +2109,140 @@ How fast is delivery? Same day within Nairobi, next working day upcountry.
 Can I return it? Yes, sealed and unused.
 Why does the colour last longer than the black? The tri-colour holds more ink overall, and most office printing is text, so the black gets used harder.`, "metaTitle": "HP 901 Tri-Color Ink Cartridge CC656AE - Genuine HP", "metaDescription": "Genuine HP 901 tri-colour ink cartridge (CC656AE), ~360 pages, for HP OfficeJet 4500, J4540, J4580 and J4680. Nairobi stock, delivered across Kenya.", "inStock": true},
   {"id": 3920, "sku": null, "name": "HP 901 Tri-Colour Original Ink Cartridge", "brand": "HP", "category": "Inks & Toner Cartridges", "price": 4500, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2024/12/HP-901-Tri-colour-Original-Ink.png", "imageFile": "HP-901-Tri-colour-Original-Ink.png", "description": "The HP 901 Tri-colour Original Ink Cartridge offers an exceptional printing experience with vivid, true-to-life colours.", "inStock": true},
-  {"id": 5468, "sku": null, "name": "HP 903 Black Ink High Capacity Cartridge (T6M15AE)", "brand": "HP", "category": "Original Hp Ink Cartridges", "price": 3500, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/HP-903-Black-Ink-High-Capacity-Cartridge-T6M15AE.webp", "imageFile": "HP-903-Black-Ink-High-Capacity-Cartridge-T6M15AE.webp", "description": "HP 903 BLACK INK HIGH CAPACITY CARTRIDGE (T6M15AE", "inStock": true},
-  {"id": 5467, "sku": null, "name": "HP 903 Cyan Ink Original Cartridge (T6L87AE)", "brand": "HP", "category": "Original Hp Ink Cartridges", "price": 3500, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/HP-903-Cyan-Ink-Original-Cartridge-T6L87AE.webp", "imageFile": "HP-903-Cyan-Ink-Original-Cartridge-T6L87AE.webp", "description": "HP 903 CYAN INK ORIGINAL CARTRIDGE (T6L87AE", "inStock": true},
-  {"id": 5466, "sku": null, "name": "HP 903 Magenta Ink Original Cartridge (T6L91AE)", "brand": "HP", "category": "Original Hp Ink Cartridges", "price": 3500, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/HP-903-Magenta-Ink-Original-Cartridge-T6L91AE.webp", "imageFile": "HP-903-Magenta-Ink-Original-Cartridge-T6L91AE.webp", "description": "HP 903 MAGENTA INK ORIGINAL CARTRIDGE (T6L91AE", "inStock": true},
-  {"id": 5465, "sku": null, "name": "HP 903 Yellow Ink Original Cartridge (T6L95AE)", "brand": "HP", "category": "Original Hp Ink Cartridges", "price": 3500, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/HP-903-Yellow-Ink-Original-Cartridge-T6L95AE.webp", "imageFile": "HP-903-Yellow-Ink-Original-Cartridge-T6L95AE.webp", "description": "HP 903 YELLOW INK ORIGINAL CARTRIDGE (T6L95AE", "inStock": true},
+  {"id": 5468, "sku": null, "name": "HP 903 Black Ink High Capacity Cartridge (T6M15AE)", "brand": "HP", "category": "Original Hp Ink Cartridges", "price": 3500, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/HP-903-Black-Ink-High-Capacity-Cartridge-T6M15AE.webp", "imageFile": "HP-903-Black-Ink-High-Capacity-Cartridge-T6M15AE.webp", "description": `The HP 903 Black Ink High Capacity Cartridge (T6M15AE) is the genuine Original HP replacement for your office's inkjet printer, designed to handle heavy print volumes with ease. This high-capacity cartridge ensures you get professional-quality black text while maximizing your time between replacements. It is the perfect choice for busy small businesses and home offices relying on the HP OfficeJet 6900 series.
+
+## Compatible printers
+HP OfficeJet 6950 All-in-One Printer
+HP OfficeJet Pro 6960 All-in-One Printer
+HP OfficeJet Pro 6970 All-in-One Printer
+If your model isn't listed, send us the number from the front of the machine and we'll confirm before you pay.
+
+## Specifications
+| Page yield | Cartridge type | Colour | Capacity | Part number | Genuine or compatible |
+|---|---|---|---|---|---|
+| ~825 pages | Inkjet | Black | High Yield (XL) | T6M15AE | Genuine |
+
+## Genuine or compatible?
+This is a genuine, Original HP cartridge in a sealed box. Using genuine HP ink ensures your printer's printhead is protected and your device operates flawlessly. If you are looking to reduce your cost per page even further, a Royal compatible alternative may be available at a lower cost—ask our team for details.
+
+## Why buy from Trinatech
+Stock held in Nairobi CBD, ready for immediate dispatch.
+Delivery across Kenya including Kisumu, Nakuru, Eldoret and Mombasa.
+M-Pesa and bank transfer accepted.
+WhatsApp ordering available, or walk-in at The One Mall River Road.
+
+## Getting the most from this cartridge
+Store the cartridge in its sealed packaging at room temperature until you are ready to install it.
+Page yield is heavily affected by the density of the documents you print; text-heavy documents will use more ink.
+We recommend printing a test page at least once every two weeks to keep the printhead nozzles clear.
+Replace the cartridge as soon as your printer indicates low ink to prevent streaking.
+
+## Frequently asked questions
+Is there an XL or high-yield alternative? This T6M15AE cartridge is already the high-yield (XL) version.
+Do I need the other colours to print? Most HP printers require all colour cartridges to have some ink in order to function properly.
+What is the delivery time? We offer same-day delivery within Nairobi CBD and next-day delivery to most other parts of Kenya.
+What is your warranty or returns policy? We provide the standard manufacturer warranty on all genuine, factory-sealed cartridges.
+Will this cartridge dry out if left unused? It can dry out over long periods of inactivity, so print a small document every few weeks to keep it fresh.`, "metaTitle": "HP 903 High Capacity Black Ink Cartridge", "metaDescription": "Genuine HP 903 XL black ink (T6M15AE), approx 825 pages, for OfficeJet 6950 and Pro 6960/6970. Stocked in Nairobi, delivered across Kenya.", "inStock": true},
+  {"id": 5467, "sku": null, "name": "HP 903 Cyan Ink Original Cartridge (T6L87AE)", "brand": "HP", "category": "Original Hp Ink Cartridges", "price": 3500, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/HP-903-Cyan-Ink-Original-Cartridge-T6L87AE.webp", "imageFile": "HP-903-Cyan-Ink-Original-Cartridge-T6L87AE.webp", "description": `The HP 903 Cyan Ink Original Cartridge (T6L87AE) delivers vibrant, professional-quality colour for your everyday business and personal printing needs. This standard capacity cartridge is formulated by HP to produce striking graphics and charts without compromising your printer's internal mechanisms. If you are regularly printing marketing materials or school projects, this genuine ink ensures consistency from the first page to the last.
+
+## Compatible printers
+HP OfficeJet 6950 All-in-One Printer
+HP OfficeJet Pro 6960 All-in-One Printer
+HP OfficeJet Pro 6970 All-in-One Printer
+If your model isn't listed, send us the number from the front of the machine and we'll confirm before you pay.
+
+## Specifications
+| Page yield | Cartridge type | Colour | Capacity | Part number | Genuine or compatible |
+|---|---|---|---|---|---|
+| ~315 pages | Inkjet | Cyan | Standard | T6L87AE | Genuine |
+
+## Genuine or compatible?
+This is a genuine, Original HP cartridge. It provides the exact ink formulation designed for your specific HP machine. While it offers superior reliability, our Royal compatible equivalent is also available for this model, giving you the same fit for your printer at a lower cost.
+
+## Why buy from Trinatech
+Stock held in Nairobi CBD.
+Delivery across Kenya including Kisumu, Nakuru, Eldoret and Mombasa.
+M-Pesa and bank transfer accepted.
+WhatsApp ordering, or visit us for a walk-in at The One Mall River Road.
+
+## Getting the most from this cartridge
+Always keep the cartridge in its original packaging until the moment of installation to prevent the ink from drying out.
+Your actual page yield will vary depending on how much colour coverage your typical print jobs require.
+Ensure you regularly run the printer's automated cleaning cycle if you notice any faint lines in your colour prints.
+
+## Frequently asked questions
+Is there an XL or high-yield alternative? Yes, the HP 903XL cyan offers a higher page yield if you print in colour frequently.
+Do I need the other colours to print? Yes, your printer will likely refuse to print if any single colour cartridge is completely depleted.
+What is the delivery time? Same-day delivery for Nairobi CBD, and 24 hours for the rest of Kenya.
+What is your warranty or returns policy? Genuine sealed cartridges are backed by the manufacturer's warranty against defects.
+How do I install this cartridge? Simply open the printer's access door, wait for the carriage to center, click out the old cartridge, and click the new one in.`, "metaTitle": "HP 903 Cyan Original Ink Cartridge (T6L87AE)", "metaDescription": "Genuine HP 903 cyan ink (T6L87AE), approx 315 pages, for OfficeJet 6950 and Pro 6960/6970. Same-day Nairobi CBD delivery available.", "inStock": true},
+  {"id": 5466, "sku": null, "name": "HP 903 Magenta Ink Original Cartridge (T6L91AE)", "brand": "HP", "category": "Original Hp Ink Cartridges", "price": 3500, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/HP-903-Magenta-Ink-Original-Cartridge-T6L91AE.webp", "imageFile": "HP-903-Magenta-Ink-Original-Cartridge-T6L91AE.webp", "description": `The HP 903 Magenta Ink Original Cartridge (T6L91AE) is essential for producing the vivid, rich reds and pinks required in high-quality document printing. This genuine HP supply guarantees that your OfficeJet printer continues to operate at peak efficiency, avoiding the clogs and smudges often associated with inferior inks. For businesses that rely on accurate colour reproduction, this standard yield cartridge is a perfect fit.
+
+## Compatible printers
+HP OfficeJet 6950 All-in-One Printer
+HP OfficeJet Pro 6960 All-in-One Printer
+HP OfficeJet Pro 6970 All-in-One Printer
+If your model isn't listed, send us the number from the front of the machine and we'll confirm before you pay.
+
+## Specifications
+| Page yield | Cartridge type | Colour | Capacity | Part number | Genuine or compatible |
+|---|---|---|---|---|---|
+| ~315 pages | Inkjet | Magenta | Standard | T6L91AE | Genuine |
+
+## Genuine or compatible?
+This is a 100% genuine, Original HP cartridge supplied in a sealed box. It is designed to work harmoniously with your HP printer's hardware. If you are on a strict budget, mention our Royal compatible brand when you order—it fits the exact same printers at a significantly lower price point, though genuine HP offers the best archival longevity.
+
+## Why buy from Trinatech
+Stock held in Nairobi CBD for fast processing.
+Delivery across Kenya including Kisumu, Nakuru, Eldoret and Mombasa.
+Secure payments via M-Pesa and bank transfer accepted.
+WhatsApp ordering, walk-in at The One Mall River Road.
+
+## Getting the most from this cartridge
+Avoid storing ink cartridges in direct sunlight or environments with extreme temperature fluctuations.
+Installation is a simple click-in process; just be sure to remove the orange pull-tab before inserting.
+Page yields are based on 5% page coverage, so printing full-page photos will consume the ink much faster.
+
+## Frequently asked questions
+Is there an XL or high-yield alternative? Yes, an XL version of the magenta cartridge is available for higher volume users.
+Do I need the other colours to print? Yes, HP inkjet printers require all cartridges to have ink to operate safely without damaging the printhead.
+What is the delivery time? Delivery is completed within the same day in Nairobi, and by the next day countrywide.
+What is your warranty or returns policy? We honour standard HP warranties for factory-sealed, genuine items.
+Are magenta and red the same thing for this printer? Magenta is the specific primary colour HP uses to mix and create various shades of red and other colours.`, "metaTitle": "HP 903 Magenta Original Ink Cartridge T6L91AE", "metaDescription": "Genuine HP 903 magenta ink (T6L91AE), approx 315 pages, for OfficeJet 6950 and Pro 6960/6970. Order via WhatsApp for delivery in Kenya.", "inStock": true},
+  {"id": 5465, "sku": null, "name": "HP 903 Yellow Ink Original Cartridge (T6L95AE)", "brand": "HP", "category": "Original Hp Ink Cartridges", "price": 3500, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/HP-903-Yellow-Ink-Original-Cartridge-T6L95AE.webp", "imageFile": "HP-903-Yellow-Ink-Original-Cartridge-T6L95AE.webp", "description": `The HP 903 Yellow Ink Original Cartridge (T6L95AE) completes your printer's colour palette, ensuring bright and accurate hues for all your professional documents. Using this genuine cartridge means your HP printer will consistently output crisp graphics and vibrant photos without interruption. Whether you are printing home office reports or school presentations, this reliable standard-yield cartridge delivers exceptional quality.
+
+## Compatible printers
+HP OfficeJet 6950 All-in-One Printer
+HP OfficeJet Pro 6960 All-in-One Printer
+HP OfficeJet Pro 6970 All-in-One Printer
+If your model isn't listed, send us the number from the front of the machine and we'll confirm before you pay.
+
+## Specifications
+| Page yield | Cartridge type | Colour | Capacity | Part number | Genuine or compatible |
+|---|---|---|---|---|---|
+| ~315 pages | Inkjet | Yellow | Standard | T6L95AE | Genuine |
+
+## Genuine or compatible?
+This is a genuine, Original HP yellow cartridge. Genuine HP inks are formulated specifically to prevent printhead clogging. For customers doing draft-quality or high-volume everyday printing, our Royal compatible equivalent is available at a lower cost, fitting the same machines seamlessly.
+
+## Why buy from Trinatech
+Reliable stock held in Nairobi CBD.
+Delivery across Kenya including Kisumu, Nakuru, Eldoret and Mombasa.
+M-Pesa and bank transfer accepted.
+Easy WhatsApp ordering or walk-in at The One Mall River Road.
+
+## Getting the most from this cartridge
+Store the cartridge flat in a cool, dry place until needed.
+When installing, snap it firmly into the colour-coded slot to ensure the printer recognizes it.
+Remember that borderless printing or high-resolution images will drain the yellow ink much faster than standard text documents.
+Replace the cartridge promptly when prompted to avoid air entering the printhead.
+
+## Frequently asked questions
+Is there an XL or high-yield alternative? Yes, you can upgrade to the 903XL yellow for more than double the page yield.
+Do I need the other colours to print? Yes, your machine needs cyan, magenta, yellow, and black to function.
+What is the delivery time? Expect same-day delivery in Nairobi CBD, and next-day for the rest of the country.
+What is your warranty or returns policy? We support standard manufacturer warranties on all sealed genuine cartridges.
+How do I know when the yellow is empty? The printer software will alert you, and your prints may start looking overly blue or pink.`, "metaTitle": "HP 903 Yellow Original Ink Cartridge (T6L95AE)", "metaDescription": "Genuine HP 903 yellow ink (T6L95AE), approx 315 pages, for OfficeJet 6950 and Pro 6960/6970. Genuine Kenya stock at Trinatech.", "inStock": true},
   {"id": 5464, "sku": null, "name": "HP 903XL Cyan High Capacity Cartridge", "brand": "HP", "category": "Original Hp Ink Cartridges", "price": 3500, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/HP-903XL-Cyan-High-Capacity-Cartridge.webp", "imageFile": "HP-903XL-Cyan-High-Capacity-Cartridge.webp", "description": "HP 903XL CYAN HIGH CAPACITY CARTRIDGE", "inStock": true},
   {"id": 5463, "sku": null, "name": "HP 903XL Magenta Ink High Capacity Cartridge (T6M07AE)", "brand": "HP", "category": "Original Hp Ink Cartridges", "price": 3500, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/HP-903XL-Magenta-Ink-High-Capacity-Cartridge-T6M07AE.webp", "imageFile": "HP-903XL-Magenta-Ink-High-Capacity-Cartridge-T6M07AE.webp", "description": "HP 903XL MAGENTA INK HIGH CAPACITY CARTRIDGE (T6M07AE", "inStock": true},
   {"id": 5462, "sku": null, "name": "HP 903XL Yellow Ink High Capacity Cartridge (T6M11AE)", "brand": "HP", "category": "Original Hp Ink Cartridges", "price": 3500, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/HP-903XL-Yellow-Ink-High-Capacity-Cartridge-T6M11AE.webp", "imageFile": "HP-903XL-Yellow-Ink-High-Capacity-Cartridge-T6M11AE.webp", "description": "HP 903XL YELLOW INK HIGH CAPACITY CARTRIDGE (T6M11AE", "inStock": true},
@@ -2191,7 +2321,44 @@ Can I return it? Yes, sealed and unused.
 Why does my printer still show an error after fitting a new cartridge? Reseat it and clean the contacts with a dry cloth. If the message persists it is more likely the printhead than the ink.`, "metaTitle": "HP 920 Black Ink Cartridge CD971AE - Genuine HP Kenya", "metaDescription": "Genuine HP 920 black ink (CD971AE), about 420 pages, for HP OfficeJet 6000, 6500, 7000 and 7500A. Nairobi stock, delivered across Kenya.", "inStock": true},
   {"id": 5461, "sku": "CD975A", "name": "HP 920XL Black Cartridge High Yield Original Ink (CD975AA)", "brand": "HP", "category": "Original Hp Ink Cartridges", "price": 7000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/HP-920XL-Black-Cartridge-High-Yield-Original-Ink-CD975AA.webp", "imageFile": "HP-920XL-Black-Cartridge-High-Yield-Original-Ink-CD975AA.webp", "description": "HP 920XL BLACK CARTRIDGE HIGH YIELD ORIGINAL INK (CD975AA", "inStock": true},
   {"id": 5460, "sku": null, "name": "HP 920XL High Yield Ink Cartridge Cmy Each", "brand": "HP", "category": "Original Hp Ink Cartridges", "price": 3600, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/HP-920XL-High-Yield-Ink-Cartridge-Cmy-Each.webp", "imageFile": "HP-920XL-High-Yield-Ink-Cartridge-Cmy-Each.webp", "description": "HP 920XL HIGH YIELD INK CARTRIDGE CMY EACH", "inStock": true},
-  {"id": 5459, "sku": "CN0557A", "name": "HP 932 Black Ink Original Cartridge (CN0557AE)", "brand": "HP", "category": "Original Hp Ink Cartridges", "price": 3600, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/HP-932-Black-Ink-Original-Cartridge-CN0557AE.webp", "imageFile": "HP-932-Black-Ink-Original-Cartridge-CN0557AE.webp", "description": "HP 932 BLACK INK ORIGINAL CARTRIDGE (CN0557AE", "inStock": true},
+  {"id": 5459, "sku": "CN0557A", "name": "HP 932 Black Ink Original Cartridge (CN0557AE)", "brand": "HP", "category": "Original Hp Ink Cartridges", "price": 3600, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/HP-932-Black-Ink-Original-Cartridge-CN0557AE.webp", "imageFile": "HP-932-Black-Ink-Original-Cartridge-CN0557AE.webp", "description": `The HP 932 Black Ink Original Cartridge is a reliable standard-capacity replacement for your HP OfficeJet machine, delivering crisp, laser-quality text. This genuine ink is designed to resist fading and smearing, making it ideal for important business documents and daily admin tasks. It is the perfect everyday cartridge for small businesses operating the robust HP OfficeJet wide-format and standard series.
+
+## Compatible printers
+HP OfficeJet 6100 ePrinter
+HP OfficeJet 6600 e-All-in-One Printer
+HP OfficeJet 6700 Premium e-All-in-One Printer
+HP OfficeJet 7110 Wide Format ePrinter
+HP OfficeJet 7510 Wide Format All-in-One Printer
+HP OfficeJet 7610 Wide Format e-All-in-One Printer
+HP OfficeJet 7612 Wide Format e-All-in-One Printer
+If your model isn't listed, send us the number from the front of the machine and we'll confirm before you pay.
+
+## Specifications
+| Page yield | Cartridge type | Colour | Capacity | Part number | Genuine or compatible |
+|---|---|---|---|---|---|
+| ~400 pages | Inkjet | Black | Standard | CN057AE | Genuine |
+(Note: The supplied part number CN0557AE appears to contain a typo for the standard CN057AE).
+
+## Genuine or compatible?
+Genuine, Original HP, in a factory-sealed box. This guarantees the highest print quality and hardware protection. If you print heavy volumes and want to save money, ask us about the Royal compatible version, which provides excellent value and fits the exact same range of printers.
+
+## Why buy from Trinatech
+Stock held in Nairobi CBD.
+Delivery across Kenya including Kisumu, Nakuru, Eldoret and Mombasa.
+M-Pesa and bank transfer accepted.
+WhatsApp ordering, walk-in at The One Mall River Road.
+
+## Getting the most from this cartridge
+Store the cartridge upright at room temperature.
+Ensure your printer is turned off using its own power button rather than a wall switch, as this allows the printhead to park properly and seals the ink from drying out.
+To maximize yield, use the "Draft" setting for internal documents that do not require presentation quality.
+
+## Frequently asked questions
+Is there an XL or high-yield alternative? Yes, the HP 932XL is available and offers up to 1,000 pages.
+Do I need the other colours to print? Yes, even when printing in black and white, the printer needs colour cartridges installed.
+What is the delivery time? Same-day within Nairobi CBD; next-day for the rest of Kenya.
+What is your warranty or returns policy? Genuine cartridges carry a manufacturer warranty against manufacturing faults.
+Is this pigment or dye ink? HP 932 black uses a pigment-based ink for better water and highlighter resistance.`, "metaTitle": "HP 932 Black Original Ink Cartridge - Genuine", "metaDescription": "Genuine HP 932 black ink, for OfficeJet 6100, 6600, 6700, 7110, 7510, 7610, 7612. Nairobi stock, delivered nationwide.", "inStock": true},
   {"id": 3962, "sku": null, "name": "HP 932 Black Original Ink Cartridge", "brand": "HP", "category": "Inks & Toner Cartridges", "price": 2800, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2024/12/HP-932-Black-Original-Ink.png", "imageFile": "HP-932-Black-Original-Ink.png", "description": `The HP 932 black ink cartridge is the genuine Original HP replacement, part number CN057AE, for the HP OfficeJet 6100 and 7600 generation, including the wide-format 7110 and 7610 that handle A3. If your office runs one of these for quotations, plans or reports, this is the black cartridge it takes. It uses pigment-based ink, so printed text stays sharp and resists smudging on documents that get handled and filed.
 
 ## Compatible printers
@@ -2232,13 +2399,172 @@ How long is delivery? Same day in Nairobi, next working day upcountry.
 What are the return terms? Sealed and unused cartridges can be exchanged or refunded.
 Can I use HP 950 or 953 instead? No. Those are for different OfficeJet Pro families and will not fit these printers.`, "metaTitle": "HP 932 Black Ink Cartridge CN057AE - Genuine HP Kenya", "metaDescription": "Genuine HP 932 black ink (CN057AE), about 400 pages, for HP OfficeJet 6100, 6600, 6700, 7110, 7610. Nairobi stock, delivered Kenya-wide.", "inStock": true},
   {"id": 5458, "sku": "CN049A-2", "name": "HP 932XL Black Ink High Yield Cartridge (CN049AE)", "brand": "HP", "category": "Original Hp Ink Cartridges", "price": 6500, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/HP-932XL-Black-Ink-High-Yield-Cartridge-CN049AE.webp", "imageFile": "HP-932XL-Black-Ink-High-Yield-Cartridge-CN049AE.webp", "description": "HP 932XL BLACK INK HIGH YIELD CARTRIDGE (CN049AE", "inStock": true},
-  {"id": 5457, "sku": null, "name": "HP 933 Color Ink High Yield Cartridge Each", "brand": "HP", "category": "Original Hp Ink Cartridges", "price": 3000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/HP-933XL-Color-Ink-High-Yield-Cartridge-Cmy-Each.webp", "imageFile": "HP-933XL-Color-Ink-High-Yield-Cartridge-Cmy-Each.webp", "description": "HP 933 COLOR INK HIGH YIELD CARTRIDGE EACH", "inStock": true},
+  {"id": 5457, "sku": null, "name": "HP 933 Color Ink High Yield Cartridge Each", "brand": "HP", "category": "Original Hp Ink Cartridges", "price": 3000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/HP-933XL-Color-Ink-High-Yield-Cartridge-Cmy-Each.webp", "imageFile": "HP-933XL-Color-Ink-High-Yield-Cartridge-Cmy-Each.webp", "description": `The HP 933 Color Ink High Yield Cartridges provide exceptional value and striking colour quality for your HP OfficeJet machine. These XL cartridges are designed to print up to two and a half times more pages than the standard versions, making them perfect for busy environments. Whether you need cyan, magenta, or yellow, these high-yield supplies ensure you spend less time changing inks and more time getting work done.
+
+## Compatible printers
+HP OfficeJet 6100 ePrinter
+HP OfficeJet 6600 e-All-in-One Printer
+HP OfficeJet 6700 Premium e-All-in-One Printer
+HP OfficeJet 7110 Wide Format ePrinter
+HP OfficeJet 7510 Wide Format All-in-One Printer
+HP OfficeJet 7610 Wide Format e-All-in-One Printer
+HP OfficeJet 7612 Wide Format e-All-in-One Printer
+If your model isn't listed, send us the number from the front of the machine and we'll confirm before you pay.
+
+## Specifications
+| Page yield | Cartridge type | Colour | Capacity | Part number | Genuine or compatible |
+|---|---|---|---|---|---|
+| ~825 pages | Inkjet | Colour (C/M/Y) | High Yield (XL) | Varies | Genuine |
+
+## Genuine or compatible?
+These are genuine, Original HP cartridges. They provide fade-resistant, lab-quality colour. The Royal compatible alternative is also an option for these models; the Royal version fits the same printers and offers similar high yields at a more budget-friendly price, making it a great trade-off for everyday internal printing.
+
+## Why buy from Trinatech
+Stock held in Nairobi CBD for rapid deployment.
+Delivery across Kenya including Kisumu, Nakuru, Eldoret and Mombasa.
+M-Pesa and bank transfer accepted.
+WhatsApp ordering, walk-in at The One Mall River Road.
+
+## Getting the most from this cartridge
+To get the full 825-page yield, avoid letting your printer sit unused for months.
+Regular printing keeps the microscopic nozzles flowing smoothly.
+Always leave empty cartridges inside the printer until you have the replacement ready to install; exposing the printhead to air for too long can cause permanent damage.
+
+## Frequently asked questions
+Is there an XL or high-yield alternative? This is already the high-yield (XL) version for maximum efficiency.
+Do I need the other colours to print? Yes, all cartridges (including black) must have ink for the printer to operate.
+What is the delivery time? We offer same-day delivery in Nairobi, and next-day dispatch countrywide.
+What is your warranty or returns policy? Sealed genuine HP inks come with a standard manufacturer warranty.
+Can I buy the colours separately? Yes, these are individual ink cartridges, so you only replace the colour that runs out.`, "metaTitle": "HP 933 Color High Yield Ink Cartridge - Genuine", "metaDescription": "Genuine HP 933 XL color ink cartridges for OfficeJet 6100, 6600, 6700 series. High yield capacity. Stocked at The One Mall River Road.", "inStock": true},
   {"id": 5456, "sku": null, "name": "HP 933XL Color Ink High Yield Cartridge Cmy Each", "brand": "HP", "category": "Original Hp Ink Cartridges", "price": 3500, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/HP-933XL-Color-Ink-High-Yield-Cartridge-Cmy-Each-1.webp", "imageFile": "HP-933XL-Color-Ink-High-Yield-Cartridge-Cmy-Each-1.webp", "description": "HP 933XL COLOR INK HIGH YIELD CARTRIDGE CMY EACH", "inStock": true},
-  {"id": 5455, "sku": null, "name": "HP 934 Black Ink Original Cartridge (C2P19AE)", "brand": "HP", "category": "Original Hp Ink Cartridges", "price": 3500, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/HP-934-Black-Ink-Original-Cartridge-C2P19AE.webp", "imageFile": "HP-934-Black-Ink-Original-Cartridge-C2P19AE.webp", "description": "HP 934 BLACK INK ORIGINAL CARTRIDGE (C2P19AE", "inStock": true},
+  {"id": 5455, "sku": null, "name": "HP 934 Black Ink Original Cartridge (C2P19AE)", "brand": "HP", "category": "Original Hp Ink Cartridges", "price": 3500, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/HP-934-Black-Ink-Original-Cartridge-C2P19AE.webp", "imageFile": "HP-934-Black-Ink-Original-Cartridge-C2P19AE.webp", "description": `The HP 934 Black Ink Original Cartridge (C2P19AE) delivers consistent, sharp black text that gives your business documents a professional edge. Designed to work flawlessly with your HP OfficeJet Pro, this standard-capacity cartridge ensures your machine runs smoothly without frustrating reprints. It is an excellent choice for home users and small offices that print in moderate volumes.
+
+## Compatible printers
+HP OfficeJet Pro 6230 ePrinter
+HP OfficeJet Pro 6830 e-All-in-One Printer
+If your model isn't listed, send us the number from the front of the machine and we'll confirm before you pay.
+
+## Specifications
+| Page yield | Cartridge type | Colour | Capacity | Part number | Genuine or compatible |
+|---|---|---|---|---|---|
+| ~400 pages | Inkjet | Black | Standard | C2P19AE | Genuine |
+
+## Genuine or compatible?
+Genuine, Original HP ink. It guarantees precise compatibility and protects your printer from the wear and tear caused by counterfeit inks. If you are looking to lower printing costs, we also stock a Royal compatible cartridge for this model. The Royal version fits exactly the same and is highly cost-effective for daily, non-archival printing.
+
+## Why buy from Trinatech
+Secure stock held in Nairobi CBD.
+Delivery across Kenya including Kisumu, Nakuru, Eldoret and Mombasa.
+M-Pesa and bank transfer accepted.
+WhatsApp ordering, walk-in at The One Mall River Road.
+
+## Getting the most from this cartridge
+Keep the cartridge sealed until the exact moment you intend to install it.
+The quoted 400-page yield is an industry standard based on 5% ink coverage per page; printing bold headers and dark graphics will reduce this number.
+Use your printer's draft mode for internal documents to extend the life of the cartridge.
+
+## Frequently asked questions
+Is there an XL or high-yield alternative? Yes, the HP 934XL offers a significantly higher page yield.
+Do I need the other colours to print? Yes, HP requires all cartridges to be present and have ink.
+What is the delivery time? Same-day within Nairobi CBD; overnight delivery for the rest of Kenya.
+What is your warranty or returns policy? Standard HP warranties apply to all genuine, factory-sealed cartridges.
+Is the ink water-resistant? Genuine HP 934 black pigment ink is highly resistant to water and highlighter smears.`, "metaTitle": "HP 934 Black Original Ink Cartridge (C2P19AE)", "metaDescription": "Genuine HP 934 black ink (C2P19AE), approx 400 pages, for OfficeJet Pro 6230, 6830. Delivered anywhere in Kenya via Trinatech.", "inStock": true},
   {"id": 5454, "sku": null, "name": "HP 934XL Black Ink High Yield Cartridge (C2P23AN)", "brand": "HP", "category": "Original Hp Ink Cartridges", "price": 6500, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/HP-934XL-Black-Ink-High-Yield-Cartridge-C2P23AN.webp", "imageFile": "HP-934XL-Black-Ink-High-Yield-Cartridge-C2P23AN.webp", "description": "HP 934XL BLACK INK HIGH YIELD CARTRIDGE (C2P23AN", "inStock": true},
-  {"id": 5453, "sku": null, "name": "HP 935 Cyan Ink Original Cartridge (C2P20AE)", "brand": "HP", "category": "Original Hp Ink Cartridges", "price": 3000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/HP-935-Cyan-Ink-Original-Cartridge-C2P20AE.png", "imageFile": "HP-935-Cyan-Ink-Original-Cartridge-C2P20AE.png", "description": "HP 935 CYAN INK ORIGINAL CARTRIDGE (C2P20AE", "inStock": true},
-  {"id": 5452, "sku": null, "name": "HP 935 Magenta Ink Original Cartridge (C2P21AE)", "brand": "HP", "category": "Original Hp Ink Cartridges", "price": 3000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/HP-935-Magenta-Ink-Original-Cartridge-C2P21AE.webp", "imageFile": "HP-935-Magenta-Ink-Original-Cartridge-C2P21AE.webp", "description": "HP 935 MAGENTA INK ORIGINAL CARTRIDGE (C2P21AE", "inStock": true},
-  {"id": 5451, "sku": null, "name": "HP 935 Yellow Ink Original Cartridge (C2P22AE)", "brand": "HP", "category": "Original Hp Ink Cartridges", "price": 3000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/HP-935-Yellow-Ink-Original-Cartridge-C2P22AE.png", "imageFile": "HP-935-Yellow-Ink-Original-Cartridge-C2P22AE.png", "description": "HP 935 YELLOW INK ORIGINAL CARTRIDGE (C2P22AE", "inStock": true},
+  {"id": 5453, "sku": null, "name": "HP 935 Cyan Ink Original Cartridge (C2P20AE)", "brand": "HP", "category": "Original Hp Ink Cartridges", "price": 3000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/HP-935-Cyan-Ink-Original-Cartridge-C2P20AE.png", "imageFile": "HP-935-Cyan-Ink-Original-Cartridge-C2P20AE.png", "description": `The HP 935 Cyan Ink Original Cartridge (C2P20AE) provides the rich, bright blues needed to make your business graphics and marketing materials stand out. As a genuine HP product, it is rigorously tested to ensure flawless integration with your OfficeJet Pro printer. For consistent, reliable colour output on every page, this standard-yield cyan cartridge is a dependable choice.
+
+## Compatible printers
+HP OfficeJet Pro 6230 ePrinter
+HP OfficeJet Pro 6830 e-All-in-One Printer
+If your model isn't listed, send us the number from the front of the machine and we'll confirm before you pay.
+
+## Specifications
+| Page yield | Cartridge type | Colour | Capacity | Part number | Genuine or compatible |
+|---|---|---|---|---|---|
+| ~400 pages | Inkjet | Cyan | Standard | C2P20AE | Genuine |
+
+## Genuine or compatible?
+This is a genuine, Original HP cartridge, completely factory sealed. It provides the best possible colour gamut and printhead longevity. However, if cost savings are your primary concern, our Royal compatible brand is available. Royal cartridges fit the exact same printers at a lower cost, trading maximum archival life for exceptional everyday value.
+
+## Why buy from Trinatech
+Stock held in Nairobi CBD for quick dispatch.
+Delivery across Kenya including Kisimu, Nakuru, Eldoret and Mombasa.
+M-Pesa and bank transfer accepted.
+WhatsApp ordering, walk-in at The One Mall River Road.
+
+## Getting the most from this cartridge
+Always store cartridges away from direct sunlight.
+To install, ensure you pull the orange tab completely off to vent the cartridge before clicking it into the carriage.
+Page yields will drop quickly if you frequently print full-colour brochures or photographs, so keep a spare cartridge on hand if you have a big print job coming up.
+
+## Frequently asked questions
+Is there an XL or high-yield alternative? Yes, you can upgrade to the HP 935XL cyan cartridge.
+Do I need the other colours to print? Yes, your printer requires all four cartridges to function safely.
+What is the delivery time? We offer same-day delivery in Nairobi CBD, and next-day delivery nationwide.
+What is your warranty or returns policy? We provide the manufacturer's warranty on all genuine sealed products.
+Why is my printer rejecting the new cartridge? Ensure the orange pull tab is fully removed and the gold contacts are clean.`, "metaTitle": "HP 935 Cyan Original Ink Cartridge (C2P20AE)", "metaDescription": "Genuine HP 935 cyan ink (C2P20AE), approx 400 pages, for OfficeJet Pro 6230, 6830. Reliable nationwide delivery from Nairobi CBD.", "inStock": true},
+  {"id": 5452, "sku": null, "name": "HP 935 Magenta Ink Original Cartridge (C2P21AE)", "brand": "HP", "category": "Original Hp Ink Cartridges", "price": 3000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/HP-935-Magenta-Ink-Original-Cartridge-C2P21AE.webp", "imageFile": "HP-935-Magenta-Ink-Original-Cartridge-C2P21AE.webp", "description": `The HP 935 Magenta Ink Original Cartridge (C2P21AE) is the genuine HP solution for printing vibrant, professional-quality reds and pinks. Designed specifically for your HP OfficeJet Pro, this standard-capacity cartridge ensures that your charts, graphs, and photos look their absolute best. It is a highly reliable supply that prevents the messy leaks and poor performance associated with counterfeit products.
+
+## Compatible printers
+HP OfficeJet Pro 6230 ePrinter
+HP OfficeJet Pro 6830 e-All-in-One Printer
+If your model isn't listed, send us the number from the front of the machine and we'll confirm before you pay.
+
+## Specifications
+| Page yield | Cartridge type | Colour | Capacity | Part number | Genuine or compatible |
+|---|---|---|---|---|---|
+| ~400 pages | Inkjet | Magenta | Standard | C2P21AE | Genuine |
+
+## Genuine or compatible?
+This is a 100% genuine, Original HP cartridge. It is the best option for users wanting guaranteed OEM quality. We also carry the Royal compatible version for this model, which is an excellent money-saving alternative that fits the same printers perfectly, though we recommend genuine HP for photo-quality output.
+
+## Why buy from Trinatech
+Locally held stock in Nairobi CBD.
+Delivery across Kenya including Kisumu, Nakuru, Eldoret and Mombasa.
+M-Pesa and bank transfer accepted securely.
+WhatsApp ordering available, walk-in at The One Mall River Road.
+
+## Getting the most from this cartridge
+To preserve the life of the ink, keep your printer plugged in and turn it off using the device's power button, allowing the printhead to seal properly.
+Because actual page yield depends heavily on your printing habits, consider using software tools to lower your document's colour saturation if you want the cartridge to last longer during heavy draft printing.
+
+## Frequently asked questions
+Is there an XL or high-yield alternative? Yes, the HP 935XL magenta is available for heavy users.
+Do I need the other colours to print? Yes, HP printers will not print if the magenta (or any other colour) is empty.
+What is the delivery time? Same-day for Nairobi CBD; expect next-day delivery for other regions in Kenya.
+What is your warranty or returns policy? We honour standard HP warranties for all genuine, unopened items.
+Will this fit older OfficeJet models? No, it is specifically designed for the Pro 6230 and 6830 series.`, "metaTitle": "HP 935 Magenta Original Ink Cartridge (C2P21AE)", "metaDescription": "Genuine HP 935 magenta ink (C2P21AE), approx 400 pages, for OfficeJet Pro 6230, 6830. Fast delivery, WhatsApp ordering accepted.", "inStock": true},
+  {"id": 5451, "sku": null, "name": "HP 935 Yellow Ink Original Cartridge (C2P22AE)", "brand": "HP", "category": "Original Hp Ink Cartridges", "price": 3000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/HP-935-Yellow-Ink-Original-Cartridge-C2P22AE.png", "imageFile": "HP-935-Yellow-Ink-Original-Cartridge-C2P22AE.png", "description": `The HP 935 Yellow Ink Original Cartridge (C2P22AE) completes your printer's CMYK setup, delivering the bright, striking yellows required for true-to-life colour printing. Because it is a genuine HP product, it works seamlessly with your machine's printhead to deliver high-quality, fast-drying results. This standard-yield cartridge is perfect for keeping your office running efficiently without compromising on document quality.
+
+## Compatible printers
+HP OfficeJet Pro 6230 ePrinter
+HP OfficeJet Pro 6830 e-All-in-One Printer
+If your model isn't listed, send us the number from the front of the machine and we'll confirm before you pay.
+
+## Specifications
+| Page yield | Cartridge type | Colour | Capacity | Part number | Genuine or compatible |
+|---|---|---|---|---|---|
+| ~400 pages | Inkjet | Yellow | Standard | C2P22AE | Genuine |
+
+## Genuine or compatible?
+Genuine, Original HP cartridge in factory packaging. This ensures you avoid firmware rejection issues common with counterfeits. For customers looking to optimize their printing budget, mention our Royal compatible alternative—it fits the very same machines at a lower price point, offering a practical trade-off for day-to-day office use.
+
+## Why buy from Trinatech
+Stock held right here in Nairobi CBD.
+Delivery across Kenya including Kisumu, Nakuru, Eldoret and Mombasa.
+M-Pesa and bank transfer accepted.
+WhatsApp ordering, walk-in at The One Mall River Road.
+
+## Getting the most from this cartridge
+Store the cartridge in a cool environment and only unseal it when your printer demands a replacement.
+Never force a cartridge into the slot; it should click in easily.
+If you experience missing colours on your page, run the printer's automated cleaning cycle to clear any microscopic blockages in the printhead before assuming the cartridge is empty.
+
+## Frequently asked questions
+Is there an XL or high-yield alternative? Yes, an XL version of this yellow cartridge provides a higher page yield.
+Do I need the other colours to print? Yes, inkjet printers require all colours to function and prevent printhead damage.
+What is the delivery time? Same-day delivery within Nairobi CBD and next-day for the rest of Kenya.
+What is your warranty or returns policy? Genuine HP cartridges come with a standard manufacturer defect warranty.
+Why is my low ink warning still showing? Make sure the cartridge is seated correctly and the gold contacts are clean of dust.`, "metaTitle": "HP 935 Yellow Original Ink Cartridge (C2P22AE)", "metaDescription": "Genuine HP 935 yellow ink (C2P22AE), approx 400 pages, for OfficeJet Pro 6230, 6830. Buy genuine HP supplies at Trinatech Nairobi.", "inStock": true},
   {"id": 5450, "sku": null, "name": "HP 935XL Cyan Ink High Yield Cartridge", "brand": "HP", "category": "Original Hp Ink Cartridges", "price": 4500, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/HP-935XL-Cyan-Ink-High-Yield-Cartridge.webp", "imageFile": "HP-935XL-Cyan-Ink-High-Yield-Cartridge.webp", "description": "HP 935XL CYAN INK HIGH YIELD CARTRIDGE", "inStock": true},
   {"id": 5449, "sku": null, "name": "HP 935XL Magenta Ink High Yield Cartridge (C2P25AE)", "brand": "HP", "category": "Original Hp Ink Cartridges", "price": 4500, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/HP-935XL-Magenta-Ink-High-Yield-Cartridge-C2P25AE.webp", "imageFile": "HP-935XL-Magenta-Ink-High-Yield-Cartridge-C2P25AE.webp", "description": "HP 935XL MAGENTA INK HIGH YIELD CARTRIDGE (C2P25AE", "inStock": true},
   {"id": 5448, "sku": null, "name": "HP 935XL Yellow Ink High Yield Cartridge", "brand": "HP", "category": "Original Hp Ink Cartridges", "price": 4500, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/HP-935XL-Yellow-Ink-High-Yield-Cartridge.webp", "imageFile": "HP-935XL-Yellow-Ink-High-Yield-Cartridge.webp", "description": "HP 935XL YELLOW INK HIGH YIELD CARTRIDGE", "inStock": true},

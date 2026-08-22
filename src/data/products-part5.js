@@ -2,9 +2,113 @@
 // Combined by src/data/products.js — do not edit by hand.
 
 export const PRODUCTS_5 = [
-  {"id": 4381, "sku": null, "name": "Ricoh Toner Mp 2220D", "brand": "Ricoh", "category": "Inks & Toner Cartridges", "price": 1200, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2025/01/Ricoh-Toner-2220D.png", "imageFile": "Ricoh-Toner-2220D.png", "description": "The Ricoh Toner MP 2220D is a high-performance toner cartridge designed to provide exceptional print quality for Ricoh printers.", "inStock": true},
-  {"id": 5207, "sku": null, "name": "Ricoh Type 1220D Black Toner Cartridge", "brand": "Ricoh", "category": "Ricoh Toners", "price": 1400, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/Ricoh-Type-1220D-Black-Toner-Cartridge.webp", "imageFile": "Ricoh-Type-1220D-Black-Toner-Cartridge.webp", "description": "RICOH TYPE 1220D BLACK TONER CARTRIDGE", "inStock": true},
-  {"id": 5206, "sku": null, "name": "Ricoh Type 1230D Black Toner Cartridge", "brand": "Ricoh", "category": "Ricoh Toners", "price": 1200, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/Ricoh-Type-1230D-Black-Toner-Cartridge.webp", "imageFile": "Ricoh-Type-1230D-Black-Toner-Cartridge.webp", "description": "RICOH TYPE 1230D BLACK TONER CARTRIDGE", "inStock": true},
+  {"id": 4381, "sku": null, "name": "Ricoh Toner Mp 2220D", "brand": "Ricoh", "category": "Inks & Toner Cartridges", "price": 1200, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2025/01/Ricoh-Toner-2220D.png", "imageFile": "Ricoh-Toner-2220D.png", "description": `The Ricoh MP 3554 Compatible Black Toner is the ultimate cost-saving solution for offices that produce massive volumes of everyday documents. Designed as a direct drop-in replacement for the original part, this high-quality compatible toner matches the incredible 24,000-page yield of the original at a fraction of the cost. It delivers deep, reliable black text, making it ideal for internal paperwork, heavy invoice runs, and school environments.
+
+## Compatible printers
+Ricoh MP 2554
+Ricoh MP 3054
+Ricoh MP 3554
+Ricoh MP 2555
+Ricoh MP 3055
+Ricoh MP 3555
+If your model isn't listed, send us the number from the front of the machine and we'll confirm before you pay.
+
+## Specifications
+| Page yield | Cartridge type | Colour | Capacity | Part number | Genuine or compatible |
+|---|---|---|---|---|---|
+| ~24,000 pages | Laser Toner | Black | High Yield | 841993 (Comp) | Compatible |
+
+## Genuine or compatible?
+This is a compatible toner cartridge. It is entirely brand new and manufactured to meet standard OEM page yields without the premium price tag. It is not an original Ricoh product. We recommend this compatible version for businesses looking to aggressively cut their printing overheads on heavy-duty text documents without sacrificing page capacity.
+
+## Why buy from Trinatech
+Stock held locally in Nairobi CBD.
+Delivery across Kenya including Kisumu, Nakuru, Eldoret and Mombasa.
+M-Pesa and bank transfer accepted securely.
+WhatsApp ordering available, walk-in at The One Mall River Road.
+
+## Getting the most from this cartridge
+Before inserting the new bottle into your Ricoh machine, hold it horizontally and rock it back and forth several times to loosen the toner powder.
+If you notice any light streaks on your copies after several thousand pages, you can often remove the bottle, shake it again, and reinstall it to ensure the powder is feeding evenly.
+
+## Frequently asked questions
+Is there an XL or high-yield alternative? This is a high-capacity compatible matching the 24,000-page OEM yield.
+Do I need other colours to print? No, these Ricoh models are monochrome machines requiring only black toner.
+What is the delivery time? Same-day for Nairobi CBD; expect next-day delivery for other regions in Kenya.
+What is your warranty or returns policy? We offer a replacement guarantee on compatible toners that fail out of the box.
+Will using a compatible toner break my machine? High-quality compatibles like this one are perfectly safe for daily document printing.`, "metaTitle": "Ricoh MP 3554 Compatible Black Toner", "metaDescription": "Compatible Ricoh MP 3554 black toner, approx 24,000 pages, for Ricoh MP 2554, 3054, 3554. High quality compatible stock delivered in Kenya.", "inStock": true},
+  {"id": 5207, "sku": null, "name": "Ricoh Type 1220D Black Toner Cartridge", "brand": "Ricoh", "category": "Ricoh Toners", "price": 1400, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/Ricoh-Type-1220D-Black-Toner-Cartridge.webp", "imageFile": "Ricoh-Type-1220D-Black-Toner-Cartridge.webp", "description": `The Ricoh Type 1220D Black Toner Cartridge is a highly reliable supply built to keep your classic Ricoh Aficio copiers running smoothly day in and day out. Formulated specifically to match your machine's fusing temperature, this genuine toner produces sharp black text that won't easily smudge or rub off the page. It is an essential restock item for businesses that need dependable, cost-effective monochrome document production.
+
+## Compatible printers
+Ricoh Aficio 1015
+Ricoh Aficio 1018
+Ricoh Aficio 1018D
+Ricoh Aficio 1113
+If your model isn't listed, send us the number from the front of the machine and we'll confirm before you pay.
+
+## Specifications
+| Page yield | Cartridge type | Colour | Capacity | Part number | Genuine or compatible |
+|---|---|---|---|---|---|
+| ~9,000 pages | Laser Toner | Black | Standard | Type 1220D | Genuine |
+
+## Genuine or compatible?
+This is a genuine, Original Ricoh toner cartridge. Genuine toner is specifically engineered to protect the lifespan of your drum and developer. However, if cost savings are your primary concern, our Royal compatible equivalent is available for these models, giving you the same perfect fit at a significantly lower cost for high-volume everyday printing.
+
+## Why buy from Trinatech
+Stock held right here in Nairobi CBD.
+Delivery across Kenya including Kisumu, Nakuru, Eldoret and Mombasa.
+M-Pesa and bank transfer accepted securely.
+Easy WhatsApp ordering, or walk-in at The One Mall River Road.
+
+## Getting the most from this cartridge
+Store spare toner bottles horizontally in a cool, dry place away from direct sunlight.
+When your copier alerts you of low toner, do not immediately discard the old bottle; you can often gently tap or shake it to get another fifty pages before the new one is completely required.
+Keep the internal cavity of the copier clean of spilled powder when changing bottles.
+
+## Frequently asked questions
+Is there an XL or high-yield alternative? No, the Type 1220D is the single standard capacity available for these copiers.
+Do I need other colours to print? No, the compatible Aficio machines are strictly black and white.
+What is the delivery time? We offer same-day delivery in Nairobi CBD, and next-day dispatch countrywide.
+What is your warranty or returns policy? We honour the standard Ricoh warranty for factory-sealed, genuine items.
+Is the toner difficult to install? Not at all; the front door opens, the old bottle slides out, and the new one clicks into the cradle.`, "metaTitle": "Ricoh Type 1220D Black Toner Cartridge", "metaDescription": "Genuine Ricoh Type 1220D black toner, approx 9,000 pages, for Aficio 1015, 1018, 1113. Reliable Nairobi CBD stock, fast nationwide delivery.", "inStock": true},
+  {"id": 5206, "sku": null, "name": "Ricoh Type 1230D Black Toner Cartridge", "brand": "Ricoh", "category": "Ricoh Toners", "price": 1200, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/Ricoh-Type-1230D-Black-Toner-Cartridge.webp", "imageFile": "Ricoh-Type-1230D-Black-Toner-Cartridge.webp", "description": `The Ricoh Type 1230D Black Toner Cartridge delivers exceptional reliability and laser-sharp text for a wide range of popular Ricoh Aficio MP series copiers. Designed to handle high-volume workloads seamlessly, this genuine toner prevents the background shadowing and poor adhesion often caused by counterfeit products. It ensures your business documents always look professional, from internal memos to client-facing contracts.
+
+## Compatible printers
+Ricoh Aficio 2015
+Ricoh Aficio 2016
+Ricoh Aficio 2018
+Ricoh Aficio 2018D
+Ricoh Aficio 2020
+Ricoh Aficio 2020D
+Ricoh Aficio MP 1500
+Ricoh Aficio MP 1600
+Ricoh Aficio MP 2000
+If your model isn't listed, send us the number from the front of the machine and we'll confirm before you pay.
+
+## Specifications
+| Page yield | Cartridge type | Colour | Capacity | Part number | Genuine or compatible |
+|---|---|---|---|---|---|
+| ~9,000 pages | Laser Toner | Black | Standard | Type 1230D | Genuine |
+
+## Genuine or compatible?
+This is a 100% genuine, Original Ricoh toner. Genuine supplies are critical for maintaining the health of your copier's fuser rollers. For customers doing massive volumes of draft-quality printing, our Royal compatible equivalent is available—it fits seamlessly into the same machines at a much lower price, offering a highly practical trade-off for busy offices.
+
+## Why buy from Trinatech
+Reliable stock held in Nairobi CBD.
+Delivery across Kenya including Kisumu, Nakuru, Eldoret and Mombasa.
+M-Pesa and bank transfer accepted.
+WhatsApp ordering, walk-in at The One Mall River Road.
+
+## Getting the most from this cartridge
+Always shake the toner bottle vigorously from side to side before inserting it into the copier to ensure the powder feeds correctly from the very first page.
+The 9,000-page yield is based on 5% page coverage; printing pages with heavy black graphics or solid borders will drain the toner considerably faster.
+
+## Frequently asked questions
+Is there an XL or high-yield alternative? This Type 1230D is the standard and maximum capacity for these machines.
+Do I need other colours to print? No, these copiers are monochrome only and only require black toner.
+What is the delivery time? Same-day delivery within Nairobi CBD and next-day for the rest of Kenya.
+What is your warranty or returns policy? Genuine Ricoh toners come with a standard manufacturer defect warranty.
+Can I refill this bottle manually? We strongly advise against manual refills, as incorrect toner powder will instantly destroy the developer unit.`, "metaTitle": "Ricoh Type 1230D Black Toner Cartridge", "metaDescription": "Genuine Ricoh Type 1230D black toner, approx 9,000 pages, for Aficio 2015, 2018, MP 1600, MP 2000. Delivered anywhere in Kenya from Nairobi.", "inStock": true},
   {"id": 4375, "sku": null, "name": "Cz/Cv Riso Compatible Ink", "brand": "Riso", "category": "Inks & Toner Cartridges", "price": 5000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2025/01/CZCV-Ink.png", "imageFile": "CZCV-Ink.png", "description": "The CZ/CV Riso Compatible Ink is a high-performance ink solution designed to provide exceptional print quality for CZ and CV Riso printers.", "inStock": true},
   {"id": 5347, "sku": "CZ100-2", "name": "Riso CZ100 (S-7608 A4 Master Roll Compatible For CZ100)", "brand": "Riso", "category": "Riso Master Rolls & Inks", "price": 5000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/Riso-CZ100-S-7608-A4-Master-Roll-Compatible-For-CZ100.webp", "imageFile": "Riso-CZ100-S-7608-A4-Master-Roll-Compatible-For-CZ100.webp", "description": "RISO CZ100 (S-7608 A4 MASTER ROLL COMPATIBLE FOR CZ100", "inStock": true},
   {"id": 5348, "sku": "S-4877", "name": "Riso Cz 100 Black Ink S-4877", "brand": "Riso", "category": "Riso Master Rolls & Inks", "price": 5500, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/Riso-Cz-100-Black-Ink-S-4877.webp", "imageFile": "Riso-Cz-100-Black-Ink-S-4877.webp", "description": "RISO CZ 100 BLACK INK S-4877", "inStock": true},

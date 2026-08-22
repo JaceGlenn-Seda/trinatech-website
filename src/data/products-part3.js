@@ -2487,7 +2487,7 @@ This is a genuine, Original HP cartridge, completely factory sealed. It provides
 
 ## Why buy from Trinatech
 Stock held in Nairobi CBD for quick dispatch.
-Delivery across Kenya including Kisimu, Nakuru, Eldoret and Mombasa.
+Delivery across Kenya including Kisumu, Nakuru, Eldoret and Mombasa.
 M-Pesa and bank transfer accepted.
 WhatsApp ordering, walk-in at The One Mall River Road.
 

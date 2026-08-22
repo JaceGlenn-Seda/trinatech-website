@@ -470,9 +470,74 @@ Is warranty included? Covered against manufacturing defects.`,
   {"id": 4543, "sku": null, "name": "Copyprinter Masters Dx 2330 A4", "brand": "Ricoh", "category": "Master Roll", "price": 1100, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2025/03/COPY-PRINTER-MASTERS-DX2330-A4.png", "imageFile": "COPY-PRINTER-MASTERS-DX2330-A4.png", "description": "The CopyPrinter Masters DX 2330 A4 paper is a versatile and high-quality choice for both home and office printing needs.", "inStock": true},
   {"id": 5220, "sku": "MP2000", "name": "Ricoh Aficio MP2000 Black Toner Cartridge", "brand": "Ricoh", "category": "Ricoh Toners", "price": 1000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/Ricoh-Aficio-MP2000-Black-Toner-Cartridge-1.webp", "imageFile": "Ricoh-Aficio-MP2000-Black-Toner-Cartridge-1.webp", "description": "RICOH AFICIO MP2000 BLACK TONER CARTRIDGE", "inStock": true},
   {"id": 4452, "sku": null, "name": "Ricoh Aficio MP2000 Cleaning Blade", "brand": "Ricoh", "category": "Printer Parts", "price": 1000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2025/01/MP2000-Cleaning-Blade.png", "imageFile": "MP2000-Cleaning-Blade.png", "description": "The Ricoh Aficio MP2000 Cleaning Blade is a vital component for maintaining the performance of your Ricoh Aficio MP2000 copier.", "inStock": true},
-  {"id": 5219, "sku": "MP201S", "name": "Ricoh Aficio MP201SPF Black Genuine Toner Cartridge", "brand": "Ricoh", "category": "Ricoh Toners", "price": 1200, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/08/5219_ricoh_ricoh-aficio-mp201spf-black-genuine-toner-cartri.jpg.png", "imageFile": "5219_ricoh_ricoh-aficio-mp201spf-black-genuine-toner-cartri.jpg.png", "description": "RICOH AFICIO MP201SPF BLACK GENUINE TONER CARTRIDGE", "inStock": true},
+  {"id": 5219, "sku": "MP201S", "name": "Ricoh Aficio MP201SPF Black Genuine Toner Cartridge", "brand": "Ricoh", "category": "Ricoh Toners", "price": 1200, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/08/5219_ricoh_ricoh-aficio-mp201spf-black-genuine-toner-cartri.jpg.png", "imageFile": "5219_ricoh_ricoh-aficio-mp201spf-black-genuine-toner-cartri.jpg.png", "description": `The Ricoh Aficio MP201SPF Black Genuine Toner Cartridge is an original Ricoh consumable designed for high-volume monochrome printing in office environments. Ideal for businesses in Nairobi looking for reliable text clarity and consistent performance across heavy daily print cycles.
+
+## Compatible printers
+Ricoh Aficio MP 171
+Ricoh Aficio MP 171F
+Ricoh Aficio MP 171SPF
+Ricoh Aficio MP 201F
+Ricoh Aficio MP 201SPF
+If your model isn't listed, send us the number from the front of the machine and we'll confirm before you pay.
+
+## Specifications
+| Page yield | Cartridge type | Colour | Capacity | Part number | Genuine or compatible |
+|---|---|---|---|---|---|
+| ~7,000 pages | Toner Cartridge | Black | Standard | 841080 / 888261 | Genuine |
+
+## Genuine or compatible?
+This is a Genuine, Original Ricoh toner cartridge in sealed packaging. A Royal compatible equivalent is available at a lower cost if you want to reduce your cost per page.
+
+## Why buy from Trinatech
+Stock held in Nairobi CBD.
+Delivery across Kenya including Kisumu, Nakuru, Eldoret, and Mombasa.
+M-Pesa and bank transfer accepted.
+WhatsApp ordering and walk-in options at The One Mall, River Road.
+
+## Getting the most from this cartridge
+Store in a cool, dry place out of direct sunlight until ready to install.
+Gently shake horizontally side-to-side before inserting into the machine to distribute the toner evenly.
+Replace when print intensity fades uniformly across the page.
+
+## Frequently asked questions
+Is a high-yield XL version available? Yes, high-capacity options exist depending on the specific machine configuration.
+Do I need other colors for this printer? No, the MP201SPF is a monochrome printer that takes black toner only.
+How fast is delivery in Kenya? Same-day within Nairobi CBD and next-day for major towns like Mombasa or Nakuru.
+What is your return policy? Returns accepted for unopened, defective units within our standard warranty period.
+Does this come with a chip? Yes, it comes with an integrated OEM chip pre-installed for accurate toner tracking.`, "metaTitle": "Ricoh MP201SPF Toner Cartridge Price in Kenya - Trinatech", "metaDescription": "Buy genuine Ricoh Aficio MP201SPF black toner cartridge in Nairobi, Kenya. High yield printing, fast CBD delivery, and M-Pesa payment accepted.", "inStock": true},
   {"id": 5218, "sku": "MP2500", "name": "Ricoh Aficio MP2500 Black Toner Cartridge", "brand": "Ricoh", "category": "Ricoh Toners", "price": 1500, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/Ricoh-Aficio-MP2500-Black-Toner-Cartridge.webp", "imageFile": "Ricoh-Aficio-MP2500-Black-Toner-Cartridge.webp", "description": "RICOH AFICIO MP2500 BLACK TONER CARTRIDGE", "inStock": true},
-  {"id": 5217, "sku": "MP301S", "name": "Ricoh Aficio MP301SPF Black Toner Cartridge", "brand": "Ricoh", "category": "Ricoh Toners", "price": 1200, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/Ricoh-Aficio-MP301SPF-Black-Toner-Cartridge.webp", "imageFile": "Ricoh-Aficio-MP301SPF-Black-Toner-Cartridge.webp", "description": "RICOH AFICIO MP301SPF BLACK TONER CARTRIDGE", "inStock": true},
+  {"id": 5217, "sku": "MP301S", "name": "Ricoh Aficio MP301SPF Black Toner Cartridge", "brand": "Ricoh", "category": "Ricoh Toners", "price": 1200, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/Ricoh-Aficio-MP301SPF-Black-Toner-Cartridge.webp", "imageFile": "Ricoh-Aficio-MP301SPF-Black-Toner-Cartridge.webp", "description": `The Ricoh Aficio MP301SPF Black Toner Cartridge provides sharp, professional monochrome output for office multifunction copiers. Engineered to keep daily administrative printing running smoothly without smudging or fading.
+
+## Compatible printers
+Ricoh Aficio MP 301SP
+Ricoh Aficio MP 301SPF
+If your model isn't listed, send us the number from the front of the machine and we'll confirm before you pay.
+
+## Specifications
+| Page yield | Cartridge type | Colour | Capacity | Part number | Genuine or compatible |
+|---|---|---|---|---|---|
+| ~8,000 pages | Toner Cartridge | Black | Standard | 841714 / MP301E | Genuine / Compatible |
+
+## Genuine or compatible?
+This product entry covers genuine Ricoh MP301 cartridges; Royal compatible alternatives fit the same printers at lower prices with minimal variance in print density.
+
+## Why buy from Trinatech
+Stock held in Nairobi CBD.
+Delivery across Kenya including Kisumu, Nakuru, Eldoret, and Mombasa.
+M-Pesa and bank transfer accepted.
+WhatsApp ordering and walk-in options at The One Mall, River Road.
+
+## Getting the most from this cartridge
+Keep in sealed protective packaging until installation to avoid humidity damage.
+Ensure the copier mechanism is clear of dust before seating the new unit.
+Clean the optical glass periodically to avoid streak lines.
+
+## Frequently asked questions
+Is there an XL yield option? Standard yield is ~8,000 pages, which meets most high-volume office requirements.
+Are other colors required? No, this printer series operates exclusively on single black cartridges.
+How long does delivery take? Same-day in Nairobi and 24 to 48 hours for courier deliveries upcountry.
+What payment methods do you accept? M-Pesa, bank transfer, and cash payments at our River Road shop.
+Does it cause maintenance errors? Original and certified compatible cartridges work seamlessly without triggering machine errors.`, "metaTitle": "Ricoh MP301SPF Black Toner Cartridge Price - Trinatech Kenya", "metaDescription": "Order Ricoh Aficio MP301SPF black toner in Nairobi. Fast delivery across Kenya. Genuine & compatible options available at River Road CBD shop.", "inStock": true},
   {"id": 5216, "sku": "MP3350", "name": "Ricoh Aficio MP3350 Black Toner Cartridge", "brand": "Ricoh", "category": "Ricoh Toners", "price": 3000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/Ricoh-Aficio-MP3350-Black-Toner-Cartridge.webp", "imageFile": "Ricoh-Aficio-MP3350-Black-Toner-Cartridge.webp", "description": "RICOH AFICIO MP3350 BLACK TONER CARTRIDGE", "inStock": true},
   {"id": 5222, "sku": null, "name": "Ricoh Aficio Mp 3554 Black Toner", "brand": "Ricoh", "category": "Ricoh Toners", "price": 3000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/Ricoh-Aficio-Mp-3554-Black-Toner.webp", "imageFile": "Ricoh-Aficio-Mp-3554-Black-Toner.webp", "description": "RICOH AFICIO MP 3554 BLACK TONER", "inStock": true},
   {"id": 5221, "sku": null, "name": "Ricoh Aficio Mp 4002/4002SP/5002/5002SP Black Compatible", "brand": "Ricoh", "category": "Ricoh Toners", "price": 1700, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/Ricoh-Aficio-Mp-4002-4002SP-5002-5002SP-Black-Compatible.webp", "imageFile": "Ricoh-Aficio-Mp-4002-4002SP-5002-5002SP-Black-Compatible.webp", "description": "RICOH AFICIO MP 4002/4002SP/5002/5002SP BLACK COMPATIBLE", "inStock": true},
@@ -486,27 +551,309 @@ Is warranty included? Covered against manufacturing defects.`,
   {"id": 5230, "sku": "C4500", "name": "Ricoh Aficio Mp C4500 B/C/Y/M Toners Each", "brand": "Ricoh", "category": "Ricoh Toners", "price": 4000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/Ricoh-Aficio-Mp-C4500-B-C-Y-M-Toners-Each.webp", "imageFile": "Ricoh-Aficio-Mp-C4500-B-C-Y-M-Toners-Each.webp", "description": "RICOH AFICIO MP C4500 B/C/Y/M TONERS EACH", "inStock": true},
   {"id": 5229, "sku": "C5000", "name": "Ricoh Aficio Mp C5000 Toner Cartridge Each", "brand": "Ricoh", "category": "Ricoh Toners", "price": 4000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/Ricoh-Aficio-Mp-C5000-Toner-Cartridge-Each.webp", "imageFile": "Ricoh-Aficio-Mp-C5000-Toner-Cartridge-Each.webp", "description": "RICOH AFICIO MP C5000 TONER CARTRIDGE EACH", "inStock": true},
   {"id": 5228, "sku": "C6003", "name": "Ricoh Aficio Mp C6003 Toner Cartridges Each", "brand": "Ricoh", "category": "Ricoh Toners", "price": 4000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/Ricoh-Aficio-Mp-C6003-Toner-Cartridges-Each.webp", "imageFile": "Ricoh-Aficio-Mp-C6003-Toner-Cartridges-Each.webp", "description": "RICOH AFICIO MP C6003 TONER CARTRIDGES EACH", "inStock": true},
-  {"id": 5215, "sku": null, "name": "Ricoh Aficio Sp 5200S Black Toner Cartridge", "brand": "Ricoh", "category": "Ricoh Toners", "price": 5000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/Ricoh-Aficio-Sp-5200S-Black-Toner-Cartridge.webp", "imageFile": "Ricoh-Aficio-Sp-5200S-Black-Toner-Cartridge.webp", "description": "RICOH AFICIO SP 5200S BLACK TONER CARTRIDGE", "inStock": true},
-  {"id": 5214, "sku": null, "name": "Ricoh Aficio Type 2220D Black Toner Cartridge", "brand": "Ricoh", "category": "Ricoh Toners", "price": 1500, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/Ricoh-Aficio-Type-2220D-Black-Toner-Cartridge.webp", "imageFile": "Ricoh-Aficio-Type-2220D-Black-Toner-Cartridge.webp", "description": "RICOH AFICIO TYPE 2220D BLACK TONER CARTRIDGE", "inStock": true},
+  {"id": 5215, "sku": null, "name": "Ricoh Aficio Sp 5200S Black Toner Cartridge", "brand": "Ricoh", "category": "Ricoh Toners", "price": 5000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/Ricoh-Aficio-Sp-5200S-Black-Toner-Cartridge.webp", "imageFile": "Ricoh-Aficio-Sp-5200S-Black-Toner-Cartridge.webp", "description": `The Ricoh Aficio SP 5200S Black Toner Cartridge is a heavy-duty, high-capacity toner unit designed for demanding enterprise print systems. Built for fast throughput and deep black text graphics in busy corporate environments across Kenya.
+
+## Compatible printers
+Ricoh Aficio SP 5200DN
+Ricoh Aficio SP 5200S
+Ricoh Aficio SP 5210DN
+Ricoh Aficio SP 5210SF
+Ricoh Aficio SP 5210SR
+If your model isn't listed, send us the number from the front of the machine and we'll confirm before you pay.
+
+## Specifications
+| Page yield | Cartridge type | Colour | Capacity | Part number | Genuine or compatible |
+|---|---|---|---|---|---|
+| ~25,000 pages | Toner Cartridge | Black | High Capacity | 406685 / SP5200HA | Genuine |
+
+## Genuine or compatible?
+Genuine Original Ricoh toner cartridge. Royal compatible alternatives are available upon request to reduce print costs for large batch printing.
+
+## Why buy from Trinatech
+Stock held in Nairobi CBD.
+Delivery across Kenya including Kisumu, Nakuru, Eldoret, and Mombasa.
+M-Pesa and bank transfer accepted.
+WhatsApp ordering and walk-in options at The One Mall, River Road.
+
+## Getting the most from this cartridge
+Rock the unit gently end-to-end five times prior to unsealing to loosen settled toner powder.
+Store flat in horizontal orientation.
+Promptly remove protective pull tabs completely before sliding into the drive bay.
+
+## Frequently asked questions
+Is there an XL alternative? This is already the high-yield capacity variant (~25,000 pages).
+Does this printer use color cartridges? No, the SP 5200 series is monochrome only.
+What are the delivery times? Dispatch occurs same-day in Nairobi; upcountry delivery takes 1 business day.
+Can I return it if unneeded? Returns are valid for unopened packages within our return policy window.
+Is warranty included? Standard manufacturer and shop defect warranty applies.`, "metaTitle": "Ricoh Aficio SP 5200S Black Toner Price - Trinatech Nairobi", "metaDescription": "Buy Ricoh Aficio SP 5200S black toner cartridge in Kenya. ~25,000 pages yield. Delivery to Nakuru, Eldoret, Mombasa. Shop at River Road.", "inStock": true},
+  {"id": 5214, "sku": null, "name": "Ricoh Aficio Type 2220D Black Toner Cartridge", "brand": "Ricoh", "category": "Ricoh Toners", "price": 1500, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/Ricoh-Aficio-Type-2220D-Black-Toner-Cartridge.webp", "imageFile": "Ricoh-Aficio-Type-2220D-Black-Toner-Cartridge.webp", "description": `The Ricoh Aficio Type 2220D Black Toner Cartridge is engineered for older medium-to-large workgroup copier units requiring steady output stability. Provides crisp text and sharp line art for commercial office documents.
+
+## Compatible printers
+Ricoh Aficio 2022
+Ricoh Aficio 2027
+Ricoh Aficio 2032
+Ricoh Aficio 3025
+Ricoh Aficio 3030
+Ricoh Aficio MP 2510
+Ricoh Aficio MP 3010
+Ricoh Aficio MP 2851
+Ricoh Aficio MP 3351
+If your model isn't listed, send us the number from the front of the machine and we'll confirm before you pay.
+
+## Specifications
+| Page yield | Cartridge type | Colour | Capacity | Part number | Genuine or compatible |
+|---|---|---|---|---|---|
+| ~11,000 pages | Toner Cartridge | Black | Standard | 888169 / 841337 | Genuine |
+
+## Genuine or compatible?
+Genuine Ricoh original unit. A Royal compatible equivalent cartridge is sold separately at a significantly reduced price for cost-conscious operations.
+
+## Why buy from Trinatech
+Stock held in Nairobi CBD.
+Delivery across Kenya including Kisumu, Nakuru, Eldoret, and Mombasa.
+M-Pesa and bank transfer accepted.
+WhatsApp ordering and walk-in options at The One Mall, River Road.
+
+## Getting the most from this cartridge
+Avoid touching the bottle seal mechanism directly during installation.
+Keep stored cartridges away from ambient heat sources above 35°C to avoid toner caking.
+Run a clean print cycle after replacement.
+
+## Frequently asked questions
+Is an XL version available? Standard yield provides ~11,000 prints, which is typical for this frame size.
+Does it need color cartridges? No, this series is strictly monochrome.
+How long does Nairobi delivery take? Delivered within a few hours across Nairobi CBD and suburbs.
+What are payment terms? Pay via M-Pesa or direct bank transfer on order placement or walk-in.
+Will this fit MP 2550? Yes, it fits MP 2510, MP 3010, and related model frames.`, "metaTitle": "Ricoh Type 2220D Black Toner Cartridge - Trinatech Kenya", "metaDescription": "Shop Ricoh Aficio Type 2220D black toner cartridge in Nairobi. Genuine high yield copier toner. Fast Kenya-wide shipping & M-Pesa accepted.", "inStock": true},
   {"id": 4359, "sku": null, "name": "Ricoh DX-2330 Master Roll For Ricoh Copy Printer", "brand": "Ricoh", "category": "Inks & Toner Cartridges", "price": 1000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2025/01/Ricoh-DX-2330-Master-Roll.png", "imageFile": "Ricoh-DX-2330-Master-Roll.png", "description": "The Ricoh DX-2330 Master Roll is a high-performance consumable designed to deliver exceptional print quality and reliability for RICOH copy printers.", "inStock": true},
   {"id": 5280, "sku": "DX-2330", "name": "Ricoh DX-2330 Master Roll Ricoh Copy Printer", "brand": "Ricoh", "category": "Master Rolls & Inks", "price": 900, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/Ricoh-DX-2330-Master-Roll-Ricoh-Copy-Printer.webp", "imageFile": "Ricoh-DX-2330-Master-Roll-Ricoh-Copy-Printer.webp", "description": "RICOH DX-2330 MASTER ROLL RICOH COPY PRINTER", "inStock": true},
   {"id": 5279, "sku": "DX-2430", "name": "Ricoh DX-2430 Master Roll Copy Printer", "brand": "Ricoh", "category": "Master Rolls & Inks", "price": 900, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/Ricoh-DX-2430-Master-Roll-Copy-Printer.webp", "imageFile": "Ricoh-DX-2430-Master-Roll-Copy-Printer.webp", "description": "RICOH DX-2430 MASTER ROLL COPY PRINTER", "inStock": true},
   {"id": 4362, "sku": null, "name": "Ricoh DX-2430 Master Roll For Ricoh Copy Printer", "brand": "Ricoh", "category": "Inks & Toner Cartridges", "price": 900, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2025/01/Ricoh-DX-2430-Master-Roll.png", "imageFile": "Ricoh-DX-2430-Master-Roll.png", "description": "The Ricoh DX-2430 Master Roll is a premium-quality consumable designed for optimal performance with RICOH DX-2430 copy printers.", "inStock": true},
-  {"id": 5213, "sku": null, "name": "Ricoh Im 3000/3500/4000 Cymk Toner Cartridges Each", "brand": "Ricoh", "category": "Ricoh Toners", "price": 1700, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/Ricoh-Im-3000-3500-4000-Cymk-Toner-Cartridges-Each.webp", "imageFile": "Ricoh-Im-3000-3500-4000-Cymk-Toner-Cartridges-Each.webp", "description": "RICOH IM 3000/3500/4000 CYMK TONER CARTRIDGES EACH", "inStock": true},
+  {"id": 5213, "sku": null, "name": "Ricoh Im 3000/3500/4000 Cymk Toner Cartridges Each", "brand": "Ricoh", "category": "Ricoh Toners", "price": 1700, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/Ricoh-Im-3000-3500-4000-Cymk-Toner-Cartridges-Each.webp", "imageFile": "Ricoh-Im-3000-3500-4000-Cymk-Toner-Cartridges-Each.webp", "description": `The Ricoh IM 3000/3500/4000 Black Toner Cartridge powers Ricoh's modern intelligent monochrome multifunction printers. Designed to support high-speed scanning, copy workflows, and dense document output with sharp dark text.
+
+## Compatible printers
+Ricoh IM 2500
+Ricoh IM 3000
+Ricoh IM 3500
+Ricoh IM 4000
+Ricoh IM 5000
+Ricoh IM 6000
+If your model isn't listed, send us the number from the front of the machine and we'll confirm before you pay.
+
+## Specifications
+| Page yield | Cartridge type | Colour | Capacity | Part number | Genuine or compatible |
+|---|---|---|---|---|---|
+| ~24,000 pages | Toner Cartridge | Black | High Capacity | 842251 / IM4000 | Genuine |
+
+## Genuine or compatible?
+Original genuine Ricoh supply unit. Royal compatible options are available for selected IM series setups; check with our store team for exact availability.
+
+## Why buy from Trinatech
+Stock held in Nairobi CBD.
+Delivery across Kenya including Kisumu, Nakuru, Eldoret, and Mombasa.
+M-Pesa and bank transfer accepted.
+WhatsApp ordering and walk-in options at The One Mall, River Road.
+
+## Getting the most from this cartridge
+Store in upright or flat positions as instructed on outer carton box.
+Do not expose open units to direct light for extended periods.
+Follow automated screen prompts on the copier screen during unit swap.
+
+## Frequently asked questions
+Is an XL yield available? The standard bottle offers a generous ~24,000-page yield.
+Why does the title mention CYMK when IM 3000 is mono? Note: IM 3000/3500/4000 machines are monochrome; this listing is for the Black toner bottle.
+What is the delivery timeframe? Same-day inside Nairobi; overnight courier shipping to major towns like Kisumu or Mombasa.
+How do I pay? Pay seamlessly via M-Pesa Buy Goods or Till numbers.
+Is there warranty coverage? Yes, covered against structural and print defects.`, "metaTitle": "Ricoh IM 3000 IM 3500 IM 4000 Toner Price - Trinatech Kenya", "metaDescription": "Buy Ricoh IM 3000 / IM 3500 / IM 4000 black toner cartridges in Nairobi. High capacity output, M-Pesa payment, and delivery across Kenya.", "inStock": true},
   {"id": 4386, "sku": null, "name": "Ricoh MP2500 Black Toner Cartridge", "brand": "Ricoh", "category": "Inks & Toner Cartridges", "price": 1300, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2025/01/Ricoh-MP2500-Toner.png", "imageFile": "Ricoh-MP2500-Toner.png", "description": "The Ricoh MP2500 Black Toner Cartridge is engineered to deliver outstanding print quality for your Ricoh MP2500 series printer.", "inStock": true},
   {"id": 5210, "sku": "MP4500E", "name": "Ricoh MP4500E For MP4000, MP4001, MP4002, MP5001, MP5001", "brand": "Ricoh", "category": "Ricoh Toners", "price": 1800, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/Ricoh-MP4500E-For-MP4000-MP4001-MP4002-MP5001-MP5001.webp", "imageFile": "Ricoh-MP4500E-For-MP4000-MP4001-MP4002-MP5001-MP5001.webp", "description": "RICOH MP4500E FOR MP4000, MP4001, MP4002, MP5001, MP5001", "inStock": true},
   {"id": 4392, "sku": null, "name": "Ricoh MPC2503 Toner Cartridge", "brand": "Ricoh", "category": "Inks & Toner Cartridges", "price": 3300, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2025/01/Ricoh-MPC2503-Toner.png", "imageFile": "Ricoh-MPC2503-Toner.png", "description": "The Ricoh MPC2503 Toner Cartridge is engineered to deliver exceptional print quality for the Ricoh MPC2503 multifunction printer.", "inStock": true},
-  {"id": 5212, "sku": null, "name": "Ricoh Mp 2501E Black Toner Cartridge", "brand": "Ricoh", "category": "Ricoh Toners", "price": 1400, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/Ricoh-Mp-2501E-Black-Toner-Cartridge.webp", "imageFile": "Ricoh-Mp-2501E-Black-Toner-Cartridge.webp", "description": "RICOH MP 2501E BLACK TONER CARTRIDGE", "inStock": true},
+  {"id": 5212, "sku": null, "name": "Ricoh Mp 2501E Black Toner Cartridge", "brand": "Ricoh", "category": "Ricoh Toners", "price": 1400, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/Ricoh-Mp-2501E-Black-Toner-Cartridge.webp", "imageFile": "Ricoh-Mp-2501E-Black-Toner-Cartridge.webp", "description": `The Ricoh MP 2501E Black Toner Cartridge is the standard consumable for Ricoh Aficio MP 2001 and MP 2501 series desktop copiers. Ideal for medium offices needing uninterrupted, clear daily document production.
+
+## Compatible printers
+Ricoh Aficio MP 2001
+Ricoh Aficio MP 2001L
+Ricoh Aficio MP 2001SP
+Ricoh Aficio MP 2501L
+Ricoh Aficio MP 2501SP
+If your model isn't listed, send us the number from the front of the machine and we'll confirm before you pay.
+
+## Specifications
+| Page yield | Cartridge type | Colour | Capacity | Part number | Genuine or compatible |
+|---|---|---|---|---|---|
+| ~9,000 pages | Toner Cartridge | Black | Standard | 841768 / MP2501E | Genuine |
+
+## Genuine or compatible?
+Genuine Original Ricoh brand toner cartridge. A Royal compatible brand equivalent fits the same equipment at lower cost for budget-focused operations.
+
+## Why buy from Trinatech
+Stock held in Nairobi CBD.
+Delivery across Kenya including Kisumu, Nakuru, Eldoret, and Mombasa.
+M-Pesa and bank transfer accepted.
+WhatsApp ordering and walk-in options at The One Mall, River Road.
+
+## Getting the most from this cartridge
+Distribute toner by tipping bottle back and forth before insertion.
+Keep spare cartridges stored in dry environments away from humidity.
+Replace promptly when low-toner indicator appears.
+
+## Frequently asked questions
+Is there an XL alternative? No, MP 2501E is the standardized single size for these copiers.
+Are color toners required? No, this printer platform uses single black toner only.
+How fast can it be delivered? 2-4 hours within Nairobi; next day for upcountry regions.
+Can I order via WhatsApp? Yes, place orders directly via our WhatsApp line.
+Is return accepted? Unopened units are returnable if incompatible.`, "metaTitle": "Ricoh MP 2501E Black Toner Cartridge Price - Trinatech Kenya", "metaDescription": "Original Ricoh MP 2501E black toner in Nairobi. Yields ~9,000 pages. Fast shipping to Eldoret, Nakuru, Kisumu. Order at River Road CBD.", "inStock": true},
   {"id": 5211, "sku": null, "name": "Ricoh Mp 3554 Aficio Compatible Black Toner", "brand": "Ricoh", "category": "Ricoh Toners", "price": 3000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/Ricoh-Mp-3554-Aficio-Compatible-Black-Toner.webp", "imageFile": "Ricoh-Mp-3554-Aficio-Compatible-Black-Toner.webp", "description": "RICOH MP 3554 AFICIO COMPATIBLE BLACK TONER", "inStock": true},
   {"id": 5227, "sku": "C2503", "name": "Ricoh Mp C2503 Toner For MPC2003/2503", "brand": "Ricoh", "category": "Ricoh Toners", "price": 3000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/Ricoh-Mp-C2503-Toner-For-MPC2003-2503.webp", "imageFile": "Ricoh-Mp-C2503-Toner-For-MPC2003-2503.webp", "description": "RICOH MP C2503 TONER FOR MPC2003/2503", "inStock": true},
   {"id": 5226, "sku": "C300", "name": "Ricoh Mp C300/400/401 Aficio Compatible Toner Cartridges Each", "brand": "Ricoh", "category": "Ricoh Toners", "price": 2700, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/Ricoh-Mp-C300-400-401-Aficio-Compatible-Toner-Cartridges-Each.webp", "imageFile": "Ricoh-Mp-C300-400-401-Aficio-Compatible-Toner-Cartridges-Each.webp", "description": "RICOH MP C300/400/401 AFICIO COMPATIBLE TONER CARTRIDGES EACH", "inStock": true},
   {"id": 5225, "sku": "C3000", "name": "Ricoh Mp C3000 Aficio Toners Each", "brand": "Ricoh", "category": "Ricoh Toners", "price": 4000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/Ricoh-Mp-C3000-Aficio-Toners-Each.webp", "imageFile": "Ricoh-Mp-C3000-Aficio-Toners-Each.webp", "description": "RICOH MP C3000 AFICIO TONERS EACH", "inStock": true},
-  {"id": 4389, "sku": null, "name": "Ricoh Mpc 3001/3501 Toner", "brand": "Ricoh", "category": "Inks & Toner Cartridges", "price": 3000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2025/01/Ricoh-MPC-300-13501-Toner.png", "imageFile": "Ricoh-MPC-300-13501-Toner.png", "description": "The Ricoh MPC 3001/3501 Toner is designed to provide outstanding print quality for Ricoh MPC 3001 and MPC 3501 multifunction printers.", "inStock": true},
+  {"id": 4389, "sku": null, "name": "Ricoh Mpc 3001/3501 Toner", "brand": "Ricoh", "category": "Inks & Toner Cartridges", "price": 3000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2025/01/Ricoh-MPC-300-13501-Toner.png", "imageFile": "Ricoh-MPC-300-13501-Toner.png", "description": `The Ricoh MPC 3001/3501 Toner Cartridge series supplies high-definition color toner for Ricoh Aficio MP C3001 and C3501 color multifunction copiers. Delivers vibrant color graphics and sharp dark text for professional documents.
+
+## Compatible printers
+Ricoh Aficio MP C3001
+Ricoh Aficio MP C3001G
+Ricoh Aficio MP C3501
+Ricoh Aficio MP C3501G
+If your model isn't listed, send us the number from the front of the machine and we'll confirm before you pay.
+
+## Specifications
+| Page yield | Cartridge type | Colour | Capacity | Part number | Genuine or compatible |
+|---|---|---|---|---|---|
+| ~22,500 BK / 15,000 CMY | Toner Cartridge | Black, Cyan, Magenta, Yellow | High Capacity | 841578 / 841579 / 841580 / 841581 | Genuine |
+
+## Genuine or compatible?
+Original Ricoh brand unit listed here. Royal compatible versions exist for each color to help cut printing expenses without degrading text quality.
+
+## Why buy from Trinatech
+Stock held in Nairobi CBD.
+Delivery across Kenya including Kisumu, Nakuru, Eldoret, and Mombasa.
+M-Pesa and bank transfer accepted.
+WhatsApp ordering and walk-in options at The One Mall, River Road.
+
+## Getting the most from this cartridge
+Store color cartridges horizontally to prevent powder pooling on one side.
+Make sure color slots match correct toner color keys during replacement.
+Keep away from direct light exposure.
+
+## Frequently asked questions
+Are high-yield alternatives available? These cartridges already carry high yield ratings (~22.5k Black, ~15k Color).
+Do I need all four colors to print? Yes, color copiers require all slots populated to function properly.
+What is the delivery lead time? Same-day inside Nairobi city; 24 hours to major upcountry centers.
+How do I pay? Payments are accepted via M-Pesa, bank transfer, or cash in-store.
+Are all colors sold separately? Yes, each color unit is sold individual per piece.`, "metaTitle": "Ricoh MPC 3001 / 3501 Toner Cartridges - Trinatech Kenya", "metaDescription": "Buy Ricoh MP C3001 and MP C3501 color toner cartridges in Nairobi, Kenya. Full set available (BK/C/M/Y). Fast delivery nationwide.", "inStock": true},
   {"id": 5349, "sku": "DX-3442C", "name": "Ricoh Priport DX-3442C Ink", "brand": "Ricoh", "category": "Riso Master Rolls & Inks", "price": 5000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/Ricoh-Priport-DX-3442C-Ink.webp", "imageFile": "Ricoh-Priport-DX-3442C-Ink.webp", "description": "RICOH PRIPORT DX-3442C INK", "inStock": true},
-  {"id": 4368, "sku": null, "name": "Ricoh Priport Ink Dx 2430", "brand": "Ricoh", "category": "Inks & Toner Cartridges", "price": 500, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2025/01/Ricoh-Ink-DX-2430.png", "imageFile": "Ricoh-Ink-DX-2430.png", "description": "The Ricoh Priport Ink DX 2430 is specifically formulated to deliver exceptional print quality for the RICOH Priport DX 2430 printer.", "inStock": true},
-  {"id": 4378, "sku": null, "name": "Ricoh Priport Ink JP-12", "brand": "Ricoh", "category": "Inks & Toner Cartridges", "price": 500, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2025/01/Ricoh-Ink-JP-12.png", "imageFile": "Ricoh-Ink-JP-12.png", "description": "The Ricoh Priport Ink JP-12 is a premium ink designed to deliver outstanding print quality for the Ricoh Priport JP-12 printer.", "inStock": true},
+  {"id": 4368, "sku": null, "name": "Ricoh Priport Ink Dx 2430", "brand": "Ricoh", "category": "Inks & Toner Cartridges", "price": 500, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2025/01/Ricoh-Ink-DX-2430.png", "imageFile": "Ricoh-Ink-DX-2430.png", "description": `Ricoh Priport Ink DX 2430 is a high-volume liquid duplicator ink engineered for Ricoh Priport copy printers. Ideal for schools, churches, and print shops running high-speed bulk duplication runs across Kenya.
+
+## Compatible printers
+Ricoh Priport DX 2430
+Ricoh Priport DX 2430C
+Gestetner DX 2430
+Rex Rotary DX 2430
+If your model isn't listed, send us the number from the front of the machine and we'll confirm before you pay.
+
+## Specifications
+| Page yield | Cartridge type | Colour | Capacity | Part number | Genuine or compatible |
+|---|---|---|---|---|---|
+| ~10,000 pages | Duplicator Ink Tube | Black | 600ml | 817102 / 515288 | Genuine |
+
+## Genuine or compatible?
+Genuine Ricoh Priport ink tube. Compatible alternative brands fit the same drum system and are available for high-volume budgetary savings.
+
+## Why buy from Trinatech
+Stock held in Nairobi CBD.
+Delivery across Kenya including Kisumu, Nakuru, Eldoret, and Mombasa.
+M-Pesa and bank transfer accepted.
+WhatsApp ordering and walk-in options at The One Mall, River Road.
+
+## Getting the most from this cartridge
+Store ink tubes in a cool, dark cabinet.
+Ensure tube seal cap is intact before loading into press cylinder.
+Avoid excessive pressure on tube sides during installation.
+
+## Frequently asked questions
+Is an XL size available? DX 2430 ink comes standard in 600ml single-use tube configurations.
+Are color inks required? Black is standard; specialized color drums are sold separately.
+How long does shipping take? Delivered within hours in Nairobi; 24 hours nationwide via courier.
+What payment options exist? M-Pesa Paybill/Till, Bank Wire, and counter payments.
+Is this a toner or liquid ink? This is specialized liquid ink for duplicator presses, not laser toner.`, "metaTitle": "Ricoh Priport Ink DX 2430 Price in Nairobi - Trinatech", "metaDescription": "Shop genuine Ricoh Priport Ink DX 2430 in Nairobi, Kenya. Reliable black duplicator ink for digital duplicators. Fast delivery across Kenya.", "inStock": true},
+  {"id": 4378, "sku": null, "name": "Ricoh Priport Ink JP-12", "brand": "Ricoh", "category": "Inks & Toner Cartridges", "price": 500, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2025/01/Ricoh-Ink-JP-12.png", "imageFile": "Ricoh-Ink-JP-12.png", "description": `Ricoh Priport Ink JP-12 is a specialized black duplicator ink tube formulated for Ricoh JP series digital duplicators. Delivers fast-drying, dark monochrome impressions on low-cost paper stocks during large print jobs.
+
+## Compatible printers
+Ricoh Priport JP 1210
+Ricoh Priport JP 1230
+Ricoh Priport JP 1235
+Ricoh Priport JP 1250
+Ricoh Priport JP 1255
+Ricoh Priport JP 1260
+If your model isn't listed, send us the number from the front of the machine and we'll confirm before you pay.
+
+## Specifications
+| Page yield | Cartridge type | Colour | Capacity | Part number | Genuine or compatible |
+|---|---|---|---|---|---|
+| ~10,000 pages | Duplicator Ink Tube | Black | 600ml | 817105 / JP-12 | Genuine |
+
+## Genuine or compatible?
+Genuine Original Ricoh product. Compatible equivalent ink tubes can be supplied at lower costs for bulk educational and organizational printing.
+
+## Why buy from Trinatech
+Stock held in Nairobi CBD.
+Delivery across Kenya including Kisumu, Nakuru, Eldoret, and Mombasa.
+M-Pesa and bank transfer accepted.
+WhatsApp ordering and walk-in options at The One Mall, River Road.
+
+## Getting the most from this cartridge
+Keep ink stored between 15°C and 25°C for optimal flow viscosity.
+Do not puncture or expose ink tubes to direct sunlight.
+Ensure duplicator drum nozzle is clean before insertion.
+
+## Frequently asked questions
+Is a larger volume tube available? Standard capacity is 600ml tube per package.
+Are other colors available? Black is primary; primary spot color inks exist for specialized drums.
+How long is delivery to Kisumu? Upcountry shipments arrive within 24 hours.
+Can I pay on delivery? Payment via M-Pesa or bank transfer is confirmed prior to dispatch outside CBD.
+Is this for laser printers? No, this is exclusively for Ricoh digital duplicator presses.`, "metaTitle": "Ricoh Priport Ink JP-12 Price in Kenya - Trinatech CBD", "metaDescription": "Buy Ricoh Priport Ink JP-12 in Nairobi, Kenya. Premium duplicator ink tube for JP series machines. Same-day delivery & M-Pesa accepted.", "inStock": true},
   {"id": 4677, "sku": null, "name": "Ricoh SP5200 Black Toner Cartridge", "brand": "Ricoh", "category": "Inks & Toner Cartridges", "price": 5000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2025/07/Ricoh-SP5200-Black-Cartridge.png", "imageFile": "Ricoh-SP5200-Black-Cartridge.png", "description": "Compatible with: Ricoh Aficio SP 5200DN, SP 5200S Ricoh Aficio SP 5210DN, SP 5210SF, SP 5210SR", "inStock": true},
   {"id": 4680, "sku": null, "name": "Ricoh Sp 230 Black Toner Cartridge", "brand": "Ricoh", "category": "Inks & Toner Cartridges", "price": 2500, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2025/07/Ricoh-SP-230-Black-Toner.png", "imageFile": "Ricoh-SP-230-Black-Toner.png", "description": "Compatible with: Ricoh SP 230DNw Ricoh SP 230FNw / SP 230SFNw", "inStock": true},
-  {"id": 5209, "sku": null, "name": "Ricoh Toner 1270D Black Toner Cartridge", "brand": "Ricoh", "category": "Ricoh Toners", "price": 1300, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/Ricoh-Toner-1270D-Black-Toner-Cartridge.webp", "imageFile": "Ricoh-Toner-1270D-Black-Toner-Cartridge.webp", "description": "RICOH TONER 1270D BLACK TONER CARTRIDGE", "inStock": true},
+  {"id": 5209, "sku": null, "name": "Ricoh Toner 1270D Black Toner Cartridge", "brand": "Ricoh", "category": "Ricoh Toners", "price": 1300, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/Ricoh-Toner-1270D-Black-Toner-Cartridge.webp", "imageFile": "Ricoh-Toner-1270D-Black-Toner-Cartridge.webp", "description": `The Ricoh Toner 1270D Black Toner Cartridge is a dependable consumable for compact Ricoh office copiers and multifunction printers. Perfect for small offices across Nairobi requiring sharp text, clear contract printing, and steady performance.
+
+## Compatible printers
+Ricoh Aficio 1515
+Ricoh Aficio 1515F
+Ricoh Aficio 1515MF
+Ricoh Aficio MP 161
+Ricoh Aficio MP 161F
+Ricoh Aficio MP 161SPF
+Ricoh Aficio MP 171
+Ricoh Aficio MP 171F
+Ricoh Aficio MP 171SPF
+Ricoh Aficio MP 201F
+Ricoh Aficio MP 201SPF
+If your model isn't listed, send us the number from the front of the machine and we'll confirm before you pay.
+
+## Specifications
+| Page yield | Cartridge type | Colour | Capacity | Part number | Genuine or compatible |
+|---|---|---|---|---|---|
+| ~7,000 pages | Toner Cartridge | Black | Standard | 888261 / 841080 / 1270D | Genuine |
+
+## Genuine or compatible?
+Genuine Original Ricoh toner bottle cartridge. A Royal compatible equivalent cartridge is offered for budget-conscious buyers seeking lower running costs.
+
+## Why buy from Trinatech
+Stock held in Nairobi CBD.
+Delivery across Kenya including Kisumu, Nakuru, Eldoret, and Mombasa.
+M-Pesa and bank transfer accepted.
+WhatsApp ordering and walk-in options at The One Mall, River Road.
+
+## Getting the most from this cartridge
+Rotate bottle five times before uncapping and inserting to break up compacted powder.
+Ensure sealing tape is fully removed.
+Keep spare stock stored horizontally in room temperature.
+
+## Frequently asked questions
+Is an XL yield version available? Yield is standard at ~7,000 pages based on 5% coverage.
+Are color cartridges needed? No, these machines use single black toner units.
+What are delivery turnaround times? 1 to 3 hours within Nairobi; 24 hours upcountry via parcel services.
+How can I purchase? Order via WhatsApp or visit our River Road shop at The One Mall.
+Does this fit MP 201SPF? Yes, 1270D is fully compatible with MP 201SPF.`, "metaTitle": "Ricoh 1270D Black Toner Cartridge Price - Trinatech Kenya", "metaDescription": "Order Ricoh 1270D black toner cartridge in Nairobi. Fits Aficio 1515, MP 161, MP 171, MP 201 copiers. Fast delivery across Kenya CBD shop.", "inStock": true},
   {"id": 5208, "sku": null, "name": "Ricoh Toner Mp 2014 Black Toner Cartridge", "brand": "Ricoh", "category": "Ricoh Toners", "price": 1400, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/Ricoh-Toner-Mp-2014-Black-Toner-Cartridge.webp", "imageFile": "Ricoh-Toner-Mp-2014-Black-Toner-Cartridge.webp", "description": "RICOH TONER MP 2014 BLACK TONER CARTRIDGE", "inStock": true},
 ];

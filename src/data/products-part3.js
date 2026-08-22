@@ -3587,10 +3587,84 @@ Do I need the other colours to print? Yes, HP requires all cartridges to be pres
 What is the delivery time? Same-day within Nairobi CBD; overnight delivery for the rest of Kenya.
 What is your warranty or returns policy? Standard HP warranties apply to all genuine, factory-sealed cartridges.
 Is the ink water-resistant? Genuine HP 963XL black pigment ink is highly resistant to water and highlighter smears.`, "metaTitle": "HP 963XL Black High Yield Ink Cartridge (3JA30AE)", "metaDescription": "Genuine HP 963XL black ink (3JA30AE), approx 2,000 pages, for HP OfficeJet Pro 9010 and 9020 series. Fast nationwide delivery from Trinatech.", "inStock": true},
-  {"id": 5434, "sku": null, "name": "HP 963XL Color Ink Cartridge Cmy Each", "brand": "HP", "category": "Original Hp Ink Cartridges", "price": 5200, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/HP-963XL-Color-Ink-Cartridge-Cmy-Each.webp", "imageFile": "HP-963XL-Color-Ink-Cartridge-Cmy-Each.webp", "description": "HP 963XL COLOR INK CARTRIDGE CMY EACH", "inStock": true},
+  {"id": 5434, "sku": null, "name": "HP 963XL Color Ink Cartridge Cmy Each", "brand": "HP", "category": "Original Hp Ink Cartridges", "price": 5200, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/HP-963XL-Color-Ink-Cartridge-Cmy-Each.webp", "imageFile": "HP-963XL-Color-Ink-Cartridge-Cmy-Each.webp", "description": `The HP 963XL Color Ink Cartridges are engineered to deliver vivid, long-lasting colours for your business graphics and promotional materials on the latest generation of HP OfficeJet Pro machines. Sold individually (choose from Cyan, Magenta, or Yellow), these high-capacity (XL) inks provide up to 1,600 pages, making them an excellent choice for busy offices looking to reduce replacement frequency. By replacing only the specific colour you have depleted, you can minimize waste and control your printing overheads.
+
+## Compatible printers
+HP OfficeJet Pro 9010 All-in-One Printer
+HP OfficeJet Pro 9012 All-in-One Printer
+HP OfficeJet Pro 9013 All-in-One Printer
+HP OfficeJet Pro 9014 All-in-One Printer
+HP OfficeJet Pro 9015 All-in-One Printer
+HP OfficeJet Pro 9016 All-in-One Printer
+HP OfficeJet Pro 9019 All-in-One Printer
+HP OfficeJet Pro 9020 All-in-One Printer
+HP OfficeJet Pro 9022 All-in-One Printer
+HP OfficeJet Pro 9025 All-in-One Printer
+If your model isn't listed, send us the number from the front of the machine and we'll confirm before you pay.
+
+## Specifications
+| Page yield | Cartridge type | Colour | Capacity | Part number | Genuine or compatible |
+|---|---|---|---|---|---|
+| ~1,600 pages | Inkjet | Cyan, Magenta OR Yellow | High Yield (XL) | Varies | Genuine |
+
+## Genuine or compatible?
+These are genuine, Original HP cartridges. They provide fade-resistant colour that stands up to highlighters and handling, ensuring your business documents look professional for years. If you print in high volumes and are looking to save money, our Royal compatible brand is also available for these models. The Royal cartridges fit the exact same printers and offer similar high yields at a more budget-friendly price.
+
+## Why buy from Trinatech
+Stock held in Nairobi CBD for rapid dispatch.
+Delivery across Kenya including Kisumu, Nakuru, Eldoret and Mombasa.
+M-Pesa and bank transfer accepted securely.
+WhatsApp ordering, walk-in at The One Mall River Road.
+
+## Getting the most from this cartridge
+Always leave empty cartridges inside the printer until you are ready to insert the replacements, as exposing the printhead to air for too long can cause permanent clogging.
+To get the most out of your 1,600-page yield, avoid letting your printer sit unused for months.
+Regular printing keeps the microscopic ink nozzles clear and flowing smoothly.
+
+## Frequently asked questions
+Is there an XL or high-yield alternative? These are already the high-yield (XL) versions for maximum efficiency.
+Do I need the other colours to print? Yes, all cartridges (including black) must have some ink for the printer to operate.
+What is the delivery time? We offer same-day delivery in Nairobi CBD, and next-day dispatch countrywide.
+What is your warranty or returns policy? Sealed genuine HP inks come with a standard manufacturer warranty against defects.
+Does this price include all three colours? No, the listed price is for one single colour cartridge of your choice.`, "metaTitle": "HP 963XL Colour High Yield Ink Cartridge", "metaDescription": "Genuine HP 963XL colour ink (Cyan, Magenta or Yellow) for OfficeJet Pro 9010 and 9020 series. Fast delivery anywhere in Kenya from Nairobi.", "inStock": true},
   {"id": 5297, "sku": null, "name": "HP 973X Black High Yield Pagewide Cartridge", "brand": "HP", "category": "Master Rolls & Inks", "price": 18000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/HP-973X-Black-High-Yield-Pagewide-Cartridge.webp", "imageFile": "HP-973X-Black-High-Yield-Pagewide-Cartridge.webp", "description": "HP 973X BLACK HIGH YIELD PAGEWIDE CARTRIDGE", "inStock": true},
   {"id": 5296, "sku": null, "name": "HP 973X Cmy High Yield Pagewide Cartridge Each", "brand": "HP", "category": "Master Rolls & Inks", "price": 18000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/HP-973X-Cmy-High-Yield-Pagewide-Cartridge-Each.webp", "imageFile": "HP-973X-Cmy-High-Yield-Pagewide-Cartridge-Each.webp", "description": "HP 973X CMY HIGH YIELD PAGEWIDE CARTRIDGE EACH", "inStock": true},
-  {"id": 5295, "sku": null, "name": "HP Black 970XL/971XL Ink Original Cartridges", "brand": "HP", "category": "Master Rolls & Inks", "price": 18000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/HP-Black-970XL-971XL-Ink-Original-Cartridges.webp", "imageFile": "HP-Black-970XL-971XL-Ink-Original-Cartridges.webp", "description": "HP BLACK 970XL/971XL INK ORIGINAL CARTRIDGES", "inStock": true},
+  {"id": 5295, "sku": null, "name": "HP Black 970XL/971XL Ink Original Cartridges", "brand": "HP", "category": "Master Rolls & Inks", "price": 18000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/HP-Black-970XL-971XL-Ink-Original-Cartridges.webp", "imageFile": "HP-Black-970XL-971XL-Ink-Original-Cartridges.webp", "description": `The HP 970XL Black Original Ink Cartridge delivers unprecedented page yields and laser-like text for the revolutionary HP OfficeJet Pro X series printers. Utilizing HP's advanced PageWide technology, this ultra-high-capacity cartridge is capable of printing a massive 9,200 pages, making it ideal for high-volume enterprise and heavy-duty office environments. When paired with the 971XL colour series, this genuine pigment ink guarantees highly durable, water-resistant documents at incredibly fast print speeds.
+
+## Compatible printers
+HP OfficeJet Pro X451dn Printer
+HP OfficeJet Pro X451dw Printer
+HP OfficeJet Pro X476dn Multifunction Printer
+HP OfficeJet Pro X476dw Multifunction Printer
+HP OfficeJet Pro X551dw Printer
+HP OfficeJet Pro X576dw Multifunction Printer
+If your model isn't listed, send us the number from the front of the machine and we'll confirm before you pay.
+
+## Specifications
+| Page yield | Cartridge type | Colour | Capacity | Part number | Genuine or compatible |
+|---|---|---|---|---|---|
+| ~9,200 pages | Inkjet (PageWide) | Black | High Yield (XL) | CN628AE | Genuine |
+
+## Genuine or compatible?
+This is a 100% genuine, Original HP cartridge in a sealed box. Genuine HP pigment inks are uniquely formulated to flow through the stationary PageWide printhead without causing blockages. If you are printing massive volumes of internal draft documents and want to significantly lower your cost per page, ask about our Royal compatible version, which provides exceptional value and fits the exact same machines perfectly.
+
+## Why buy from Trinatech
+Reliable stock held locally in Nairobi CBD.
+Delivery across Kenya including Kisumu, Nakuru, Eldoret and Mombasa.
+M-Pesa and bank transfer accepted.
+Easy WhatsApp ordering, or walk-in at The One Mall River Road.
+
+## Getting the most from this cartridge
+Because the OfficeJet Pro X series uses a full-width stationary printbar instead of a moving carriage, it is absolutely critical that you never unplug the printer directly from the wall.
+Always turn the printer off using its own power button so the printhead has time to properly cap and seal the ink to prevent it from drying out.
+Store your spare cartridges flat in a cool, dry place until needed.
+
+## Frequently asked questions
+Is there an XL or high-yield alternative? This 970XL is the highest yield black cartridge available for this printer series.
+What is the difference between 970XL and 971XL? The 970XL is the black cartridge, while the 971XL refers to the companion cyan, magenta, and yellow colour cartridges.
+What is the delivery time? Same-day delivery for Nairobi CBD, and next-day for the rest of Kenya.
+What is your warranty or returns policy? Genuine HP cartridges carry a standard manufacturer warranty against defects.
+Is this ink waterproof? The pigment-based ink is highly resistant to water, smearing, and highlighter pens once dry.`, "metaTitle": "HP 970XL Black Original Ink Cartridge", "metaDescription": "Genuine HP 970XL high yield black ink, approx 9,200 pages, for HP OfficeJet Pro X451, X476, X551, X576. Genuine stock delivered across Kenya.", "inStock": true},
   {"id": 4474, "sku": null, "name": "HP Color Laser Mfp 179FNW Printer", "brand": "HP", "category": "Printers & Copiers", "price": 65000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2025/01/HP-MFP-179fnw.png", "imageFile": "HP-MFP-179fnw.png", "description": "The HP Color Laser MFP 179fnw Printer is a versatile and compact all-in-one printer that combines print, scan, copy, and fax functionality.", "inStock": true},
   {"id": 4477, "sku": null, "name": "HP Color Laserjet Pro Mfp M182N Printer", "brand": "HP", "category": "Printers & Copiers", "price": 68000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2025/01/HP-MFP-M182n.png", "imageFile": "HP-MFP-M182n.png", "description": "The HP Color LaserJet Pro MFP M182n Printer is a feature-packed all-in-one solution designed to meet the needs of small offices and home businesses.", "inStock": true},
   {"id": 4480, "sku": null, "name": "HP Color Laserjet Pro Mfp M183FW Printer", "brand": "HP", "category": "Printers & Copiers", "price": 72000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2025/01/HP-MFP-M183fw.png", "imageFile": "HP-MFP-M183fw.png", "description": "The HP Color LaserJet Pro MFP M183fw Printer is an all-in-one solution that combines printing, scanning, copying, and faxing.", "inStock": true},

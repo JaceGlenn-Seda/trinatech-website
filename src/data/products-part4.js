@@ -857,16 +857,341 @@ Do I need other colours to print? Yes, these colour printers require all toners 
 What is the delivery time? Same-day within Nairobi CBD; overnight delivery for the rest of Kenya.
 What is your warranty or returns policy? Standard Kyocera warranties apply to all genuine, factory-sealed cartridges.
 Are these sold as a set? No, they are priced individually so you only buy the exact colour you need.`, "metaTitle": "Kyocera TK-5280 Original Toner Cartridges", "metaDescription": "Genuine Kyocera TK-5280 toner cartridges for ECOSYS M6235cidn, M6635cidn, P6235cdn. Order via WhatsApp for delivery anywhere in Kenya.", "inStock": true},
-  {"id": 4301, "sku": null, "name": "Kyocera TK-590 Toner Cartridge", "brand": "Kyocera", "category": "Inks & Toner Cartridges", "price": 9000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2025/01/Kyocera-TK-590-Toner.png", "imageFile": "Kyocera-TK-590-Toner.png", "description": "Compatible with: ECOSYS M6026cdn / M6026cidn ECOSYS M6526cdn / M6526cidn ECOSYS P6026cdn FS-C2026MFP / FS-C2026MFP Plus FS-C2126MFP / FS-C2126MFP+", "inStock": true},
-  {"id": 4229, "sku": null, "name": "Kyocera TK-6115 Toner Cartridge", "brand": "Kyocera", "category": "Inks & Toner Cartridges", "price": 9000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2025/01/Kyocera-TK-6115-Toner.png", "imageFile": "Kyocera-TK-6115-Toner.png", "description": "Compatible with: ECOSYS M4125idn ECOSYS M4132idn", "inStock": true},
-  {"id": 4729, "sku": null, "name": "Kyocera TK-6325 Toner Cartridge", "brand": "Kyocera", "category": "Inks & Toner Cartridges", "price": 4000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2025/07/Kyocera-TK-6325-Toner.png", "imageFile": "Kyocera-TK-6325-Toner.png", "description": "Compatible with: Kyocera TASKalfa 4002i TASKalfa 4003i TASKalfa 5002i TASKalfa 5003i TASKalfa 6002i TASKalfa 6003i", "inStock": true},
-  {"id": 4226, "sku": null, "name": "Kyocera TK-675 Toner Cartridge", "brand": "Kyocera", "category": "Inks & Toner Cartridges", "price": 10000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2025/01/Kyocera-TK-675-Toner.png", "imageFile": "Kyocera-TK-675-Toner.png", "description": "Compatible with: Kyocera KM-2540 Kyocera KM-2560 Kyocera KM-3040 Kyocera KM-3060", "inStock": true},
-  {"id": 4259, "sku": null, "name": "Kyocera TK-7105 Toner Cartridge", "brand": "Kyocera", "category": "Inks & Toner Cartridges", "price": 4500, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2025/01/Kyocera-TK-7105-Toner.png", "imageFile": "Kyocera-TK-7105-Toner.png", "description": "The Kyocera TK-7105 Toner Cartridge is the ideal choice for businesses and offices that require reliable, high-volume printing.", "inStock": true},
-  {"id": 4271, "sku": null, "name": "Kyocera TK-7125 Toner Cartridge", "brand": "Kyocera", "category": "Inks & Toner Cartridges", "price": 4000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2025/01/Kyocera-TK-7125-Toner.png", "imageFile": "Kyocera-TK-7125-Toner.png", "description": "Compatible with: Kyocera TASKalfa 3212i", "inStock": true},
-  {"id": 4253, "sku": null, "name": "Kyocera TK-715 Toner Cartridge", "brand": "Kyocera", "category": "Inks & Toner Cartridges", "price": 5000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2025/01/Kyocera-TK-715-Toner.png", "imageFile": "Kyocera-TK-715-Toner.png", "description": "The Kyocera TK-715 Toner Cartridge is a reliable and high-performance toner solution for businesses or offices.", "inStock": true},
-  {"id": 4841, "sku": null, "name": "Kyocera TK-7205 Toner Cartridge", "brand": "Kyocera", "category": "Inks & Toner Cartridges", "price": 16000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2025/07/Kyocera-TK-7205-Toner.png", "imageFile": "Kyocera-TK-7205-Toner.png", "description": "Compatible with: Kyocera TASKalfa 3510i / 3511i series (also Copystar CS3510i / CS3511i)", "inStock": true},
-  {"id": 4274, "sku": null, "name": "Kyocera TK-7225 Toner Cartridge", "brand": "Kyocera", "category": "Inks & Toner Cartridges", "price": 4500, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2025/01/Kyocera-TK-7225-Toner.png", "imageFile": "Kyocera-TK-7225-Toner.png", "description": "Compatible with: TASKalfa 4012i Copystar CS4012i", "inStock": true},
-  {"id": 4250, "sku": null, "name": "Kyocera TK-725 Toner Cartridge", "brand": "Kyocera", "category": "Inks & Toner Cartridges", "price": 5000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2025/01/Kyocera-TK-725-Toner.png", "imageFile": "Kyocera-TK-725-Toner.png", "description": "The Kyocera TK-725 Toner Cartridge is designed to meet the needs of high-volume printing environments.", "inStock": true},
+  {"id": 4301, "sku": null, "name": "Kyocera TK-590 Toner Cartridge", "brand": "Kyocera", "category": "Inks & Toner Cartridges", "price": 9000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2025/01/Kyocera-TK-590-Toner.png", "imageFile": "Kyocera-TK-590-Toner.png", "description": `The Kyocera TK-590 Toner Cartridge is a high-capacity black toner unit engineered for Kyocera ECOSYS desktop color laser printers. Formulated to deliver crisp monochrome text documents and clear graphic contrast for busy office workgroups across Kenya.
+
+## Compatible printers
+Kyocera ECOSYS M6026cdn
+Kyocera ECOSYS M6026cidn
+Kyocera ECOSYS M6526cdn
+Kyocera ECOSYS M6526cidn
+Kyocera ECOSYS P6026cdn
+Kyocera FS-C2026MFP
+Kyocera FS-C2026MFP+
+Kyocera FS-C2126MFP
+Kyocera FS-C2126MFP+
+Kyocera FS-C2526MFP
+Kyocera FS-C2626MFP
+Kyocera FS-C5250DN
+If your model isn't listed, send us the number from the front of the machine and we'll confirm before you pay.
+
+## Specifications
+| Page yield | Cartridge type | Colour | Capacity | Part number | Genuine or compatible |
+|---|---|---|---|---|---|
+| ~7,000 pages | Toner Cartridge | Black | High Capacity | 1T02KV0NL0 / TK-590K | Genuine |
+
+## Genuine or compatible?
+Genuine Original Kyocera toner cartridge. Royal compatible brand alternatives are available to lower cost per page while matching print performance.
+
+## Why buy from Trinatech
+Stock held in Nairobi CBD.
+Delivery across Kenya including Kisumu, Nakuru, Eldoret, and Mombasa.
+M-Pesa and bank transfer accepted.
+WhatsApp ordering and walk-in options at The One Mall, River Road.
+
+## Getting the most from this cartridge
+Rock the unit horizontally side-to-side before unsealing to distribute settled toner.
+Store in cool, ambient conditions away from direct sunlight.
+Ensure color key tabs line up smoothly upon installation.
+
+## Frequently asked questions
+Is an XL version available? The TK-590 black cartridge is already the standard high-capacity yield version (~7,000 pages).
+Are color cartridges required? Yes, this printer series requires all four color slots (K, C, M, Y) populated to run.
+How fast is delivery in Nairobi? Delivered within 1 to 3 hours across Nairobi CBD and surrounding areas.
+How can I pay? Pay via M-Pesa Buy Goods/Till, bank transfer, or cash at counter.
+Does it include a chip? Yes, comes with an integrated OEM status chip.`, "metaTitle": "Kyocera TK-590 Black Toner Cartridge Price - Trinatech Kenya", "metaDescription": "Buy Kyocera TK-590 black toner cartridge in Nairobi. Yields ~7,000 pages for ECOSYS P6026 and M6526. CBD stock, fast Kenya delivery.", "inStock": true},
+  {"id": 4229, "sku": null, "name": "Kyocera TK-6115 Toner Cartridge", "brand": "Kyocera", "category": "Inks & Toner Cartridges", "price": 9000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2025/01/Kyocera-TK-6115-Toner.png", "imageFile": "Kyocera-TK-6115-Toner.png", "description": `The Kyocera TK-6115 Toner Cartridge is a high-volume monochrome consumable designed for Kyocera A3 MFP systems. Built for clear document production, sharp lines, and low operational costs for offices in Nairobi.
+
+## Compatible printers
+Kyocera ECOSYS M4125idn
+Kyocera ECOSYS M4132idn
+Kyocera ECOSYS M4132idx
+If your model isn't listed, send us the number from the front of the machine and we'll confirm before you pay.
+
+## Specifications
+| Page yield | Cartridge type | Colour | Capacity | Part number | Genuine or compatible |
+|---|---|---|---|---|---|
+| ~15,000 pages | Toner Cartridge | Black | High Capacity | 1T02RV0NL0 / TK-6115 | Genuine |
+
+## Genuine or compatible?
+Original Genuine Kyocera product. A Royal compatible equivalent cartridge is sold separately at lower cost for budget-focused operations.
+
+## Why buy from Trinatech
+Stock held in Nairobi CBD.
+Delivery across Kenya including Kisumu, Nakuru, Eldoret, and Mombasa.
+M-Pesa and bank transfer accepted.
+WhatsApp ordering and walk-in options at The One Mall, River Road.
+
+## Getting the most from this cartridge
+Gently tilt cartridge side-to-side before installation to un-compact powder.
+Keep stored flat in dry room conditions.
+Follow screen prompts on the copier console during cartridge swaps.
+
+## Frequently asked questions
+Is a higher yield XL option available? TK-6115 provides a substantial ~15,000-page capacity.
+Does this printer use color toners? No, these models are monochrome multifunction copiers.
+What are upcountry shipping times? Delivered within 24 hours to major hubs like Mombasa, Kisumu, and Eldoret.
+What payment methods exist? M-Pesa, direct bank wire transfer, and cash at shop.
+Is warranty included? Standard return policy covers factory defects.`, "metaTitle": "Kyocera TK-6115 Black Toner Cartridge - Trinatech Kenya", "metaDescription": "Order Kyocera TK-6115 black toner cartridge in Nairobi. Yields ~15,000 pages for ECOSYS M4125idn and M4132idn. Fast Kenya shipping.", "inStock": true},
+  {"id": 4729, "sku": null, "name": "Kyocera TK-6325 Toner Cartridge", "brand": "Kyocera", "category": "Inks & Toner Cartridges", "price": 4000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2025/07/Kyocera-TK-6325-Toner.png", "imageFile": "Kyocera-TK-6325-Toner.png", "description": `The Kyocera TK-6325 Toner Cartridge powers heavy-duty Kyocera TASKalfa monochrome multifunction copiers. Formulated for continuous, ultra-high-volume office printing, delivering sharp text and uniform dark coverage.
+
+## Compatible printers
+Kyocera TASKalfa 4002i
+Kyocera TASKalfa 5002i
+Kyocera TASKalfa 6002i
+Kyocera TASKalfa 6003i
+If your model isn't listed, send us the number from the front of the machine and we'll confirm before you pay.
+
+## Specifications
+| Page yield | Cartridge type | Colour | Capacity | Part number | Genuine or compatible |
+|---|---|---|---|---|---|
+| ~35,000 pages | Toner Cartridge | Black | High Capacity | 1T02NK0NL0 / TK-6325 | Genuine |
+
+## Genuine or compatible?
+Genuine Original Kyocera toner cartridge. Royal compatible brand alternatives fit the same machines at lower cost for heavy volume print jobs.
+
+## Why buy from Trinatech
+Stock held in Nairobi CBD.
+Delivery across Kenya including Kisumu, Nakuru, Eldoret, and Mombasa.
+M-Pesa and bank transfer accepted.
+WhatsApp ordering and walk-in options at The One Mall, River Road.
+
+## Getting the most from this cartridge
+Rotate bottle horizontally 5 times before uncapping to loosen powder.
+Avoid direct light exposure during installation.
+Ensure guide levers latch securely.
+
+## Frequently asked questions
+Is an XL alternative available? The TK-6325 is already an ultra-high yield version (~35,000 pages).
+Are color cartridges required? No, all compatible models listed are monochrome copiers.
+How fast is Nairobi delivery? Same-day dispatch within 1 to 3 hours in Nairobi.
+How do I pay? Pay via M-Pesa Buy Goods/Till or bank transfer.
+Does it come pre-chipped? Yes, pre-installed with OEM status chip.`, "metaTitle": "Kyocera TK-6325 Toner Cartridge Price - Trinatech Kenya", "metaDescription": "Shop Kyocera TK-6325 black toner cartridge in Nairobi. Yields ~35,000 pages for TASKalfa 4002i, 5002i, 6002i. Fast delivery CBD shop.", "inStock": true},
+  {"id": 4226, "sku": null, "name": "Kyocera TK-675 Toner Cartridge", "brand": "Kyocera", "category": "Inks & Toner Cartridges", "price": 10000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2025/01/Kyocera-TK-675-Toner.png", "imageFile": "Kyocera-TK-675-Toner.png", "description": `The Kyocera TK-675 Toner Cartridge is a heavy-duty monochrome consumable designed for enterprise workgroup copiers. Delivers dense black text and reliable paper throughput for daily office operations across Kenya.
+
+## Compatible printers
+Kyocera KM-2540
+Kyocera KM-2560
+Kyocera KM-3040
+Kyocera KM-3060
+Kyocera TASKalfa 300i
+If your model isn't listed, send us the number from the front of the machine and we'll confirm before you pay.
+
+## Specifications
+| Page yield | Cartridge type | Colour | Capacity | Part number | Genuine or compatible |
+|---|---|---|---|---|---|
+| ~20,000 pages | Toner Cartridge | Black | High Capacity | 1T02H00US0 / TK-675 | Genuine |
+
+## Genuine or compatible?
+Genuine Original Kyocera product. A Royal compatible house brand alternative fits the same copiers at a lower price point for budget savings.
+
+## Why buy from Trinatech
+Stock held in Nairobi CBD.
+Delivery across Kenya including Kisumu, Nakuru, Eldoret, and Mombasa.
+M-Pesa and bank transfer accepted.
+WhatsApp ordering and walk-in options at The One Mall, River Road.
+
+## Getting the most from this cartridge
+Rock horizontally before opening to ensure uniform toner distribution.
+Store flat in cool environment.
+Clean internal roller bays when replacing cartridges.
+
+## Frequently asked questions
+Is an XL version available? Standard high yield provides ~20,000 pages.
+Does it require color toners? No, these copiers are monochrome laser units.
+How long is delivery to Nakuru? Delivered overnight within 24 hours.
+How can I pay? Pay via M-Pesa, bank wire, or cash at counter.
+Is warranty included? Standard shop defect warranty covers unopened units.`, "metaTitle": "Kyocera TK-675 Black Toner Cartridge - Trinatech Kenya", "metaDescription": "Buy Kyocera TK-675 black toner cartridge in Nairobi. Yields ~20,000 pages for KM-2540, KM-2560, KM-3060 copiers. Fast Kenya shipping.", "inStock": true},
+  {"id": 4259, "sku": null, "name": "Kyocera TK-7105 Toner Cartridge", "brand": "Kyocera", "category": "Inks & Toner Cartridges", "price": 4500, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2025/01/Kyocera-TK-7105-Toner.png", "imageFile": "Kyocera-TK-7105-Toner.png", "description": `The Kyocera TK-7105 Toner Cartridge is engineered for high-productivity TASKalfa monochrome copiers. Provides dark black text and sharp graphics with consistent print density across long document runs.
+
+## Compatible printers
+Kyocera TASKalfa 3010i
+Kyocera TASKalfa 3011i
+If your model isn't listed, send us the number from the front of the machine and we'll confirm before you pay.
+
+## Specifications
+| Page yield | Cartridge type | Colour | Capacity | Part number | Genuine or compatible |
+|---|---|---|---|---|---|
+| ~20,000 pages | Toner Cartridge | Black | High Capacity | 1T02P80NL0 / TK-7105 | Genuine |
+
+## Genuine or compatible?
+Original Genuine Kyocera toner cartridge. Royal compatible brand alternatives fit the same printers at lower costs for budget-conscious printing.
+
+## Why buy from Trinatech
+Stock held in Nairobi CBD.
+Delivery across Kenya including Kisumu, Nakuru, Eldoret, and Mombasa.
+M-Pesa and bank transfer accepted.
+WhatsApp ordering and walk-in options at The One Mall, River Road.
+
+## Getting the most from this cartridge
+Keep sealed in protective carton until ready for installation.
+Rotate horizontally 5 times before sliding into drive bay.
+Clear internal dust periodically.
+
+## Frequently asked questions
+Is a higher yield XL option available? Yield is standard high-capacity at ~20,000 pages.
+Does this machine need color cartridges? No, TASKalfa 3010i/3011i are monochrome copiers.
+What is Nairobi delivery turnaround? Delivered in 1 to 3 hours across Nairobi.
+How do I order via WhatsApp? Contact our store line with your order details.
+Is chip included? Yes, pre-installed with OEM status chip.`, "metaTitle": "Kyocera TK-7105 Toner Cartridge Price - Trinatech Kenya", "metaDescription": "Order Kyocera TK-7105 black toner cartridge in Nairobi. Yields ~20,000 pages for TASKalfa 3010i and 3011i. CBD stock, fast shipping.", "inStock": true},
+  {"id": 4271, "sku": null, "name": "Kyocera TK-7125 Toner Cartridge", "brand": "Kyocera", "category": "Inks & Toner Cartridges", "price": 4000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2025/01/Kyocera-TK-7125-Toner.png", "imageFile": "Kyocera-TK-7125-Toner.png", "description": `The Kyocera TK-7125 Toner Cartridge is a reliable monochrome supply unit for mid-to-large office workgroups. Designed to deliver clear black text documents, clean contract copies, and smooth operation.
+
+## Compatible printers
+Kyocera TASKalfa 3212i
+If your model isn't listed, send us the number from the front of the machine and we'll confirm before you pay.
+
+## Specifications
+| Page yield | Cartridge type | Colour | Capacity | Part number | Genuine or compatible |
+|---|---|---|---|---|---|
+| ~20,000 pages | Toner Cartridge | Black | High Capacity | 1T02V70NL0 / TK-7125 | Genuine |
+
+## Genuine or compatible?
+Genuine Original Kyocera product. Royal compatible equivalent cartridges are available to reduce cost per page for high-volume users.
+
+## Why buy from Trinatech
+Stock held in Nairobi CBD.
+Delivery across Kenya including Kisumu, Nakuru, Eldoret, and Mombasa.
+M-Pesa and bank transfer accepted.
+WhatsApp ordering and walk-in options at The One Mall, River Road.
+
+## Getting the most from this cartridge
+Distribute toner powder by tilting cartridge gently side-to-side before installation.
+Keep stored flat in dry room conditions.
+Replace when prompt displays.
+
+## Frequently asked questions
+Is an XL alternative available? The TK-7125 yields up to ~20,000 pages based on standard coverage.
+Are color toners required? No, the TASKalfa 3212i is a monochrome copier.
+How fast is upcountry shipping? Delivered within 24 hours to major towns across Kenya.
+What payment methods are supported? M-Pesa Buy Goods/Till, bank transfer, and cash.
+Is warranty provided? Yes, standard shop defect warranty applies.`, "metaTitle": "Kyocera TK-7125 Black Toner Cartridge - Trinatech Kenya", "metaDescription": "Buy Kyocera TK-7125 black toner cartridge in Nairobi. Yields ~20,000 pages for TASKalfa 3212i. Fast delivery nationwide & M-Pesa.", "inStock": true},
+  {"id": 4253, "sku": null, "name": "Kyocera TK-715 Toner Cartridge", "brand": "Kyocera", "category": "Inks & Toner Cartridges", "price": 5000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2025/01/Kyocera-TK-715-Toner.png", "imageFile": "Kyocera-TK-715-Toner.png", "description": `The Kyocera TK-715 Toner Cartridge is a high-volume monochrome consumable engineered for busy office copiers. Formulated for consistent dark text, clean graphics, and extended print runs across Kenya.
+
+## Compatible printers
+Kyocera KM-3050
+Kyocera KM-4050
+Kyocera KM-5050
+If your model isn't listed, send us the number from the front of the machine and we'll confirm before you pay.
+
+## Specifications
+| Page yield | Cartridge type | Colour | Capacity | Part number | Genuine or compatible |
+|---|---|---|---|---|---|
+| ~34,000 pages | Toner Cartridge | Black | High Capacity | 1T02GR0EU0 / TK-715 | Genuine |
+
+## Genuine or compatible?
+Original Genuine Kyocera toner cartridge. Royal compatible brand alternatives fit the same copiers at a reduced price for cost-conscious buyers.
+
+## Why buy from Trinatech
+Stock held in Nairobi CBD.
+Delivery across Kenya including Kisumu, Nakuru, Eldoret, and Mombasa.
+M-Pesa and bank transfer accepted.
+WhatsApp ordering and walk-in options at The One Mall, River Road.
+
+## Getting the most from this cartridge
+Rock the unit horizontally back and forth to break up settled powder prior to installation.
+Store flat in cool environment.
+Ensure guide rails align during seating.
+
+## Frequently asked questions
+Is an XL yield version available? Yield is already exceptionally high at ~34,000 pages.
+Does this printer use color cartridges? No, KM series models listed are monochrome systems.
+What is delivery time for upcountry? Delivered within 24 hours via reliable courier.
+How do I place an order? Contact us on WhatsApp or visit our shop at The One Mall.
+Is chip included? Yes, factory status chip comes pre-installed.`, "metaTitle": "Kyocera TK-715 Black Toner Cartridge Price - Trinatech", "metaDescription": "Shop Kyocera TK-715 black toner cartridge in Nairobi. Yields ~34,000 pages for KM-3050, KM-4050, KM-5050. Fast shipping across Kenya.", "inStock": true},
+  {"id": 4841, "sku": null, "name": "Kyocera TK-7205 Toner Cartridge", "brand": "Kyocera", "category": "Inks & Toner Cartridges", "price": 16000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2025/07/Kyocera-TK-7205-Toner.png", "imageFile": "Kyocera-TK-7205-Toner.png", "description": `The Kyocera TK-7205 Toner Cartridge is an ultra-high-capacity monochrome supply unit built for heavy-duty office copiers. Formulated to produce rich black text and clean graphics during intensive daily workloads.
+
+## Compatible printers
+Kyocera TASKalfa 3510i
+Kyocera TASKalfa 3511i
+If your model isn't listed, send us the number from the front of the machine and we'll confirm before you pay.
+
+## Specifications
+| Page yield | Cartridge type | Colour | Capacity | Part number | Genuine or compatible |
+|---|---|---|---|---|---|
+| ~35,000 pages | Toner Cartridge | Black | High Capacity | 1T02NL0NL0 / TK-7205 | Genuine |
+
+## Genuine or compatible?
+Genuine Original Kyocera toner cartridge. Royal compatible house brand cartridges fit the same machines at a significantly lower price point.
+
+## Why buy from Trinatech
+Stock held in Nairobi CBD.
+Delivery across Kenya including Kisumu, Nakuru, Eldoret, and Mombasa.
+M-Pesa and bank transfer accepted.
+WhatsApp ordering and walk-in options at The One Mall, River Road.
+
+## Getting the most from this cartridge
+Store horizontally in ambient conditions.
+Rotate side-to-side prior to sliding into machine bay.
+Check waste toner container status during cartridge swaps.
+
+## Frequently asked questions
+Is a larger XL version available? TK-7205 provides a massive ~35,000-page yield.
+Are color toners required? No, supported TASKalfa models are monochrome copiers.
+How fast can I receive it in Nairobi? 1 to 3 hours within Nairobi CBD and suburbs.
+How do I pay? Pay via M-Pesa or bank wire transfer.
+Are compatible versions safe? Yes, certified compatibles run safely without damaging drum units.`, "metaTitle": "Kyocera TK-7205 Black Toner Cartridge - Trinatech Kenya", "metaDescription": "Order Kyocera TK-7205 black toner cartridge in Nairobi. Yields ~35,000 pages for TASKalfa 3510i and 3511i. CBD stock, fast delivery.", "inStock": true},
+  {"id": 4274, "sku": null, "name": "Kyocera TK-7225 Toner Cartridge", "brand": "Kyocera", "category": "Inks & Toner Cartridges", "price": 4500, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2025/01/Kyocera-TK-7225-Toner.png", "imageFile": "Kyocera-TK-7225-Toner.png", "description": `The Kyocera TK-7225 Toner Cartridge powers high-performance TASKalfa monochrome copiers. Engineered for high-volume enterprise printing, offering crisp text contrast and dependable paper handling.
+
+## Compatible printers
+Kyocera TASKalfa 4012i
+If your model isn't listed, send us the number from the front of the machine and we'll confirm before you pay.
+
+## Specifications
+| Page yield | Cartridge type | Colour | Capacity | Part number | Genuine or compatible |
+|---|---|---|---|---|---|
+| ~35,000 pages | Toner Cartridge | Black | High Capacity | 1T02V60NL0 / TK-7225 | Genuine |
+
+## Genuine or compatible?
+Genuine Original Kyocera cartridge. Royal compatible equivalent cartridges fit the same model at lower costs for budget-conscious enterprises.
+
+## Why buy from Trinatech
+Stock held in Nairobi CBD.
+Delivery across Kenya including Kisumu, Nakuru, Eldoret, and Mombasa.
+M-Pesa and bank transfer accepted.
+WhatsApp ordering and walk-in options at The One Mall, River Road.
+
+## Getting the most from this cartridge
+Tilt cartridge side-to-side before installation to loosen powder.
+Store flat in cool, dry conditions.
+Follow on-screen printer steps during replacement.
+
+## Frequently asked questions
+Is a higher yield XL option available? TK-7225 is the high-yield version (~35,000 pages) for this printer.
+Are color cartridges needed? No, TASKalfa 4012i prints strictly in black and white.
+How fast is Nairobi delivery? Same-day within 1 to 3 hours in Nairobi.
+How do I pay? Pay via M-Pesa Buy Goods/Till or bank transfer.
+Does it come pre-chipped? Yes, pre-installed with OEM status chip.`, "metaTitle": "Kyocera TK-7225 Toner Cartridge Price - Trinatech Kenya", "metaDescription": "Buy Kyocera TK-7225 black toner cartridge in Nairobi. High yield ~35,000 pages for TASKalfa 4012i. Fast Kenya delivery & M-Pesa.", "inStock": true},
+  {"id": 4250, "sku": null, "name": "Kyocera TK-725 Toner Cartridge", "brand": "Kyocera", "category": "Inks & Toner Cartridges", "price": 5000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2025/01/Kyocera-TK-725-Toner.png", "imageFile": "Kyocera-TK-725-Toner.png", "description": `The Kyocera TK-725 Toner Cartridge is a high-yield consumable designed for high-speed monochrome production copiers. Delivers deep black text, sharp lines, and reliable long-run output for commercial print centers.
+
+## Compatible printers
+Kyocera TASKalfa 420i
+Kyocera TASKalfa 520i
+If your model isn't listed, send us the number from the front of the machine and we'll confirm before you pay.
+
+## Specifications
+| Page yield | Cartridge type | Colour | Capacity | Part number | Genuine or compatible |
+|---|---|---|---|---|---|
+| ~34,000 pages | Toner Cartridge | Black | High Capacity | 1T02GR0US0 / TK-725 | Genuine |
+
+## Genuine or compatible?
+Original Genuine Kyocera toner cartridge. Royal compatible house brand alternatives are available to reduce per-page costs on high-volume print runs.
+
+## Why buy from Trinatech
+Stock held in Nairobi CBD.
+Delivery across Kenya including Kisumu, Nakuru, Eldoret, and Mombasa.
+M-Pesa and bank transfer accepted.
+WhatsApp ordering and walk-in options at The One Mall, River Road.
+
+## Getting the most from this cartridge
+Store horizontally in ambient room temperature.
+Shake side-to-side before unsealing to distribute powder.
+Replace promptly when low-toner alert displays.
+
+## Frequently asked questions
+Is an XL version available? This cartridge already features a high-capacity yield of ~34,000 pages.
+Are color toners required? No, TASKalfa 420i/520i are monochrome copiers.
+How fast is delivery to Mombasa? 24 hours via parcel delivery services.
+How do I pay? Pay via M-Pesa or direct bank wire transfer.
+Is warranty provided? Covered against technical and manufacturing defects.`, "metaTitle": "Kyocera TK-725 Black Toner Cartridge - Trinatech Kenya", "metaDescription": "Order Kyocera TK-725 black toner cartridge in Nairobi. Yields ~34,000 pages for TASKalfa 420i and 520i. Fast shipping across Kenya.", "inStock": true},
   {"id": 4283, "sku": null, "name": "Kyocera TK-8325 Toner Cartridge", "brand": "Kyocera", "category": "Inks & Toner Cartridges", "price": 4000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2025/01/Kyocera-TK-8325-Toner.png", "imageFile": "Kyocera-TK-8325-Toner.png", "description": "Compatible with: Kyocera TASKalfa 2551ci (and equivalents like TASKalfa 2510i, 3010i, 3510i, 4510i, 5510i)", "inStock": true},
   {"id": 4280, "sku": null, "name": "Kyocera TK-8335 Toner Cartridge", "brand": "Kyocera", "category": "Inks & Toner Cartridges", "price": 5000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2025/01/Kyocera-TK-8335-Toner.png", "imageFile": "Kyocera-TK-8335-Toner.png", "description": "The Kyocera TK-8335 Toner Cartridge is designed to meet the needs of businesses with high-volume printing demands.", "inStock": true},
   {"id": 4773, "sku": null, "name": "Kyocera TK-8365 Toner Cartridge", "brand": "Kyocera", "category": "Inks & Toner Cartridges", "price": 4500, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2025/07/Kyocera-TK-8365-Toner.png", "imageFile": "Kyocera-TK-8365-Toner.png", "description": "Compatible with: Kyocera TASKalfa 2554ci (aka Taskalfa 2554 CI)", "inStock": true},

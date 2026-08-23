@@ -760,7 +760,10 @@ Ricoh Aficio MP C2503
 Ricoh Aficio MP C2503SP
 If your model isn't listed, send us the number from the front of the machine and we'll confirm before you pay.
 
-# Compatible Toner |
+## Specifications
+| Page yield | Cartridge type | Colour | Capacity | Part number | Genuine or compatible |
+|---|---|---|---|---|---|
+| ~15,000 BK / 9,500 CMY | Toner Cartridge | Black, Cyan, Magenta, Yellow | Standard | MP C2503 Compatible | Compatible |
 
 ## Genuine or compatible?
 This is a Compatible toner cartridge (including our Royal compatible house brand). It is designed to fit the same printers as original Ricoh cartridges at a significantly reduced cost. Original cartridges are available upon request.

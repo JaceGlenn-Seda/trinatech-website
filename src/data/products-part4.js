@@ -181,7 +181,7 @@ This is a 100% genuine, Original Kyocera toner cartridge. Genuine Kyocera toner 
 Stock held locally in Nairobi CBD.
 Delivery across Kenya including Kisumu, Nakuru, Eldoret and Mombasa.
 M-Pesa and bank transfer accepted securely.
-WhatsApp ordering, walk-in at The One Mill River Road.
+WhatsApp ordering, walk-in at The One Mall River Road.
 
 ## Getting the most from this cartridge
 Keep the toner safely stored in its original box until your machine physically prompts for a replacement.

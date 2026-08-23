@@ -678,13 +678,251 @@ Do I need other colours to print? No, the MP 3554 and its sister models are stri
 What is the delivery time? We offer same-day delivery in Nairobi CBD, and next-day delivery nationwide.
 What is your warranty or returns policy? We provide the manufacturer's warranty on all genuine sealed products.
 Will the machine stop when toner is low? It will warn you first, allowing you to print a few more pages before it halts entirely.`, "metaTitle": "Ricoh Aficio MP 3554 Black Toner Cartridge", "metaDescription": "Genuine Ricoh MP 3554 black toner, approx 24,000 pages, for Ricoh MP 2554, 3054, 3554. Buy genuine supplies at Trinatech Nairobi.", "inStock": true},
-  {"id": 5221, "sku": null, "name": "Ricoh Aficio Mp 4002/4002SP/5002/5002SP Black Compatible", "brand": "Ricoh", "category": "Ricoh Toners", "price": 1700, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/Ricoh-Aficio-Mp-4002-4002SP-5002-5002SP-Black-Compatible.webp", "imageFile": "Ricoh-Aficio-Mp-4002-4002SP-5002-5002SP-Black-Compatible.webp", "description": "RICOH AFICIO MP 4002/4002SP/5002/5002SP BLACK COMPATIBLE", "inStock": true},
-  {"id": 5237, "sku": "C2003", "name": "Ricoh Aficio Mp C2003/3003/6003 Toners Each", "brand": "Ricoh", "category": "Ricoh Toners", "price": 4000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/Ricoh-Aficio-Mp-C2003-3003-6003-Toners-Each.jpg", "imageFile": "Ricoh-Aficio-Mp-C2003-3003-6003-Toners-Each.jpg", "description": "RICOH AFICIO MP C2003/3003/6003 TONERS EACH", "inStock": true},
-  {"id": 5236, "sku": "C2011", "name": "Ricoh Aficio Mp C2011/2003/2503 Compatible Toners Each", "brand": "Ricoh", "category": "Ricoh Toners", "price": 3000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/Ricoh-Aficio-Mp-C2011-2003-2503-Compatible-Toners-Each.webp", "imageFile": "Ricoh-Aficio-Mp-C2011-2003-2503-Compatible-Toners-Each.webp", "description": "RICOH AFICIO MP C2011/2003/2503 COMPATIBLE TONERS EACH", "inStock": true},
-  {"id": 5235, "sku": "C2050", "name": "Ricoh Aficio Mp C2050/C2550/C2030 Compatible Toners Each", "brand": "Ricoh", "category": "Ricoh Toners", "price": 2500, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/Ricoh-Aficio-Mp-C2050-C2550-C2030-Compatible-Toners-Each.webp", "imageFile": "Ricoh-Aficio-Mp-C2050-C2550-C2030-Compatible-Toners-Each.webp", "description": "RICOH AFICIO MP C2050/C2550/C2030 COMPATIBLE TONERS EACH", "inStock": true},
-  {"id": 5234, "sku": "C2051", "name": "Ricoh Aficio Mp C2051 High Yield Toners Each", "brand": "Ricoh", "category": "Ricoh Toners", "price": 2500, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/Ricoh-Aficio-Mp-C2051-High-Yield-Toners-Each.webp", "imageFile": "Ricoh-Aficio-Mp-C2051-High-Yield-Toners-Each.webp", "description": "RICOH AFICIO MP C2051 HIGH YIELD TONERS EACH", "inStock": true},
-  {"id": 5233, "sku": "C2500", "name": "Ricoh Aficio Mp C2500 Compatible Toners Each", "brand": "Ricoh", "category": "Ricoh Toners", "price": 4000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/Ricoh-Aficio-Mp-C2500-Compatible-Toners-Each.webp", "imageFile": "Ricoh-Aficio-Mp-C2500-Compatible-Toners-Each.webp", "description": "RICOH AFICIO MP C2500 COMPATIBLE TONERS EACH", "inStock": true},
-  {"id": 5232, "sku": "C300-2", "name": "Ricoh Aficio Mp C300/400/401 Cymk Toners Cartridge Each", "brand": "Ricoh", "category": "Ricoh Toners", "price": 2700, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/Ricoh-Aficio-Mp-C300-400-401-Cymk-Toners-Cartridge-Each.webp", "imageFile": "Ricoh-Aficio-Mp-C300-400-401-Cymk-Toners-Cartridge-Each.webp", "description": "RICOH AFICIO MP C300/400/401 CYMK TONERS CARTRIDGE EACH", "inStock": true},
+  {"id": 5221, "sku": null, "name": "Ricoh Aficio Mp 4002/4002SP/5002/5002SP Black Compatible", "brand": "Ricoh", "category": "Ricoh Toners", "price": 1700, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/Ricoh-Aficio-Mp-4002-4002SP-5002-5002SP-Black-Compatible.webp", "imageFile": "Ricoh-Aficio-Mp-4002-4002SP-5002-5002SP-Black-Compatible.webp", "description": `The Ricoh Aficio MP 4002/4002SP/5002/5002SP Black Compatible Toner Cartridge provides reliable high-volume monochrome printing for enterprise workgroups. It offers consistent text sharpness and contrast while reducing per-page running costs for businesses operating in Kenya.
+
+## Compatible printers
+Ricoh Aficio MP 4002
+Ricoh Aficio MP 4002SP
+Ricoh Aficio MP 5002
+Ricoh Aficio MP 5002SP
+If your model isn't listed, send us the number from the front of the machine and we'll confirm before you pay.
+
+## Specifications
+| Page yield | Cartridge type | Colour | Capacity | Part number | Genuine or compatible |
+|---|---|---|---|---|---|
+| ~30,000 pages | Toner Cartridge | Black | High Capacity | 841452 / MP4002 | Compatible |
+
+## Genuine or compatible?
+This is a Compatible toner cartridge (including our Royal house brand alternative). It is engineered to match OEM specifications and print on the same machine series at a lower price. Genuine OEM cartridges are also stocked if requested.
+
+## Why buy from Trinatech
+Stock held in Nairobi CBD.
+Delivery across Kenya including Kisumu, Nakuru, Eldoret, and Mombasa.
+M-Pesa and bank transfer accepted.
+WhatsApp ordering and walk-in options at The One Mall, River Road.
+
+## Getting the most from this cartridge
+Gently tilt the cartridge side-to-side before installation to distribute toner powder evenly.
+Store in a dry area free from extreme temperature swings.
+Replace promptly when the copier dashboard displays a low toner prompt.
+
+## Frequently asked questions
+Is an XL alternative available? This high-yield format provides up to 30,000 pages at 5% coverage.
+Are color cartridges required? No, the MP 4002 and MP 5002 series are monochrome copiers.
+How long does Nairobi delivery take? Delivery typically takes 1 to 3 hours within Nairobi CBD and surrounding areas.
+What are the payment options? You can pay via M-Pesa, bank transfer, or cash at our River Road store.
+Will compatible toner void my machine warranty? No, high-grade compatibles are manufactured to run safely without harming copier components.`, "metaTitle": "Ricoh MP 4002 5002 Compatible Black Toner - Trinatech Kenya", "metaDescription": "Shop compatible Ricoh MP 4002 / 5002 black toner in Nairobi. High yield ~30,000 pages for office copiers. CBD stock, fast Kenya delivery.", "inStock": true},
+  {"id": 5237, "sku": "C2003", "name": "Ricoh Aficio Mp C2003/3003/6003 Toners Each", "brand": "Ricoh", "category": "Ricoh Toners", "price": 4000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/Ricoh-Aficio-Mp-C2003-3003-6003-Toners-Each.jpg", "imageFile": "Ricoh-Aficio-Mp-C2003-3003-6003-Toners-Each.jpg", "description": `The Ricoh Aficio MP C2003/3003/6003 Color Toner Cartridge series powers Ricoh's color multifunction copiers. Designed to deliver vibrant color graphics, crisp black text, and reliable toner fusing across diverse print jobs in Kenya.
+
+## Compatible printers
+Ricoh Aficio MP C2003
+Ricoh Aficio MP C2003SP
+Ricoh Aficio MP C2503
+Ricoh Aficio MP C3003
+Ricoh Aficio MP C3503
+Ricoh Aficio MP C4503
+Ricoh Aficio MP C5503
+Ricoh Aficio MP C6003
+If your model isn't listed, send us the number from the front of the machine and we'll confirm before you pay.
+
+## Specifications
+| Page yield | Cartridge type | Colour | Capacity | Part number | Genuine or compatible |
+|---|---|---|---|---|---|
+| ~15,000 BK / 9,500 CMY | Toner Cartridge | Black, Cyan, Magenta, Yellow | Standard | 841918 / 841919 / 841920 / 841921 | Genuine |
+
+## Genuine or compatible?
+This product entry is for Genuine Original Ricoh toners. Royal compatible equivalents are also available per color channel for budget-focused operations looking to save on running expenses.
+
+## Why buy from Trinatech
+Stock held in Nairobi CBD.
+Delivery across Kenya including Kisumu, Nakuru, Eldoret, and Mombasa.
+M-Pesa and bank transfer accepted.
+WhatsApp ordering and walk-in options at The One Mall, River Road.
+
+## Getting the most from this cartridge
+Store color cartridges flat in their original protective packaging.
+Match the color label on the bottle with the correct copier slot during replacement.
+Avoid touching the toner dispensing valve.
+
+## Frequently asked questions
+Are higher yield options available? Yields are standard at ~15,000 pages for Black and ~9,500 pages for Color.
+Do I need all four colors to print? Yes, Ricoh color copiers require active cartridges in all four slots (K, C, M, Y).
+How fast is delivery to upcountry towns? Next-day courier delivery to Kisumu, Eldoret, Nakuru, and Mombasa.
+What payment methods are accepted? M-Pesa, bank wire, and cash payments in-store.
+Are colors sold individually? Yes, each color unit is sold separately per piece.`, "metaTitle": "Ricoh MP C2003 C3003 C6003 Toner Cartridges - Trinatech", "metaDescription": "Order Ricoh Aficio MP C2003, C3003, C6003 color toner in Nairobi. Black & CMY available. Delivery across Kenya from River Road CBD.", "inStock": true},
+  {"id": 5236, "sku": "C2011", "name": "Ricoh Aficio Mp C2011/2003/2503 Compatible Toners Each", "brand": "Ricoh", "category": "Ricoh Toners", "price": 3000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/Ricoh-Aficio-Mp-C2011-2003-2503-Compatible-Toners-Each.webp", "imageFile": "Ricoh-Aficio-Mp-C2011-2003-2503-Compatible-Toners-Each.webp", "description": `The Ricoh Aficio MP C2011/2003/2503 Compatible Toner Cartridge provides high-quality color and black output at a fraction of OEM prices. Ideal for administrative offices, educational institutions, and agencies printing full-color reports in Nairobi.
+
+## Compatible printers
+Ricoh Aficio MP C2003
+Ricoh Aficio MP C2003SP
+Ricoh Aficio MP C2011SP
+Ricoh Aficio MP C2503
+Ricoh Aficio MP C2503SP
+If your model isn't listed, send us the number from the front of the machine and we'll confirm before you pay.
+
+# Compatible Toner |
+
+## Genuine or compatible?
+This is a Compatible toner cartridge (including our Royal compatible house brand). It is designed to fit the same printers as original Ricoh cartridges at a significantly reduced cost. Original cartridges are available upon request.
+
+## Why buy from Trinatech
+Stock held in Nairobi CBD.
+Delivery across Kenya including Kisumu, Nakuru, Eldoret, and Mombasa.
+M-Pesa and bank transfer accepted.
+WhatsApp ordering and walk-in options at The One Mall, River Road.
+
+## Getting the most from this cartridge
+Distribute toner by gently shaking the bottle horizontally before loading.
+Ensure the copier's optical glass and transfer belt area are clean.
+Store unused cartridges in a dark, dry cabinet.
+
+## Frequently asked questions
+Is an XL alternative available? Yields run up to ~15,000 pages for black and ~9,500 pages for color.
+Do I need to buy a full set? No, cartridges are sold individually so you can replace only the color that is low.
+How fast is Nairobi delivery? Same-day delivery within 1 to 3 hours across Nairobi.
+How do I order via WhatsApp? Send your product name and delivery location to our WhatsApp contact.
+Will color quality match the original? High-grade compatible toners deliver vibrant color density suitable for standard office documents.`, "metaTitle": "Ricoh MP C2011 C2003 C2503 Compatible Toner - Trinatech", "metaDescription": "Buy compatible Ricoh MP C2011 / C2003 / C2503 color toner cartridges in Nairobi. Affordable quality, fast delivery across Kenya.", "inStock": true},
+  {"id": 5235, "sku": "C2050", "name": "Ricoh Aficio Mp C2050/C2550/C2030 Compatible Toners Each", "brand": "Ricoh", "category": "Ricoh Toners", "price": 2500, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/Ricoh-Aficio-Mp-C2050-C2550-C2030-Compatible-Toners-Each.webp", "imageFile": "Ricoh-Aficio-Mp-C2050-C2550-C2030-Compatible-Toners-Each.webp", "description": `The Ricoh Aficio MP C2050/C2550/C2030 Compatible Toner Cartridge offers budget-conscious printing for desktop color copiers. Delivers reliable text legibility and rich color coverage for small workgroups across Kenya.
+
+## Compatible printers
+Ricoh Aficio MP C2030
+Ricoh Aficio MP C2050
+Ricoh Aficio MP C2050SPF
+Ricoh Aficio MP C2550
+Ricoh Aficio MP C2550SPF
+If your model isn't listed, send us the number from the front of the machine and we'll confirm before you pay.
+
+## Specifications
+| Page yield | Cartridge type | Colour | Capacity | Part number | Genuine or compatible |
+|---|---|---|---|---|---|
+| ~10,000 BK / 5,500 CMY | Toner Cartridge | Black, Cyan, Magenta, Yellow | Standard | 841280 / 841281 / 841282 / 841283 | Compatible |
+
+## Genuine or compatible?
+This is a Compatible toner cartridge (including Royal compatible versions). It fits the same copiers as original Ricoh units at lower cost. Original OEM toners are also stocked if preferred.
+
+## Why buy from Trinatech
+Stock held in Nairobi CBD.
+Delivery across Kenya including Kisumu, Nakuru, Eldoret, and Mombasa.
+M-Pesa and bank transfer accepted.
+WhatsApp ordering and walk-in options at The One Mall, River Road.
+
+## Getting the most from this cartridge
+Keep in sealed protective wrap until ready to install to prevent moisture absorption.
+Rotate horizontally before insertion to ensure smooth toner flow.
+Keep storage temperatures under 30°C.
+
+## Frequently asked questions
+Is a high-yield XL option available? Standard capacity yields up to ~10,000 pages for black and ~5,500 for color.
+Are all four colors required? Yes, the copier requires all four slots (K, C, M, Y) populated to operate.
+What is the delivery time frame? Same-day inside Nairobi; overnight courier shipping for upcountry locations.
+What payment options are supported? M-Pesa Buy Goods, direct bank transfer, and cash at shop.
+Are toners sold individually? Yes, sold per color unit as needed.`, "metaTitle": "Ricoh MP C2050 C2550 C2030 Compatible Toner - Trinatech", "metaDescription": "Shop compatible Ricoh MP C2050, C2550, C2030 toner in Nairobi, Kenya. Full set available (BK/C/M/Y). Fast delivery across Kenya.", "inStock": true},
+  {"id": 5234, "sku": "C2051", "name": "Ricoh Aficio Mp C2051 High Yield Toners Each", "brand": "Ricoh", "category": "Ricoh Toners", "price": 2500, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/Ricoh-Aficio-Mp-C2051-High-Yield-Toners-Each.webp", "imageFile": "Ricoh-Aficio-Mp-C2051-High-Yield-Toners-Each.webp", "description": `The Ricoh Aficio MP C2051 High Yield Toner Cartridge provides high-capacity color printing for compact office multifunction machines. Engineered for sharp monochrome document rendering and consistent color output.
+
+## Compatible printers
+Ricoh Aficio MP C2030
+Ricoh Aficio MP C2050
+Ricoh Aficio MP C2051
+Ricoh Aficio MP C2550
+Ricoh Aficio MP C2551
+If your model isn't listed, send us the number from the front of the machine and we'll confirm before you pay.
+
+## Specifications
+| Page yield | Cartridge type | Colour | Capacity | Part number | Genuine or compatible |
+|---|---|---|---|---|---|
+| ~10,000 BK / 9,500 CMY | Toner Cartridge | Black, Cyan, Magenta, Yellow | High Capacity | 841500 / 841501 / 841502 / 841503 | Genuine / Compatible |
+
+## Genuine or compatible?
+Available in both Genuine OEM and Royal compatible options. Royal compatible cartridges provide high-yield performance at a reduced price point.
+
+## Why buy from Trinatech
+Stock held in Nairobi CBD.
+Delivery across Kenya including Kisumu, Nakuru, Eldoret, and Mombasa.
+M-Pesa and bank transfer accepted.
+WhatsApp ordering and walk-in options at The One Mall, River Road.
+
+## Getting the most from this cartridge
+Store horizontally in a dark location.
+Gently rock the cartridge prior to installation to un-compact toner powder.
+Check that the cartridge guides align smoothly with the machine drum bay.
+
+## Frequently asked questions
+Is an XL yield version available? This high-yield variant provides up to ~10,000 black pages and ~9,500 color pages.
+Do I need all four colors? Yes, full set presence is mandatory for color Ricoh copiers.
+How fast can I get it in Nairobi? Delivered within 1 to 3 hours in Nairobi CBD.
+How can I pay? M-Pesa, bank wire, or cash at our shop.
+Are cartridges sold per color? Yes, each color is sold individually per piece.`, "metaTitle": "Ricoh MP C2051 High Yield Toner Cartridge - Trinatech Kenya", "metaDescription": "Order Ricoh MP C2051 high yield color toner cartridges in Nairobi. Black, Cyan, Magenta, Yellow available. Fast shipping across Kenya.", "inStock": true},
+  {"id": 5233, "sku": "C2500", "name": "Ricoh Aficio Mp C2500 Compatible Toners Each", "brand": "Ricoh", "category": "Ricoh Toners", "price": 4000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/Ricoh-Aficio-Mp-C2500-Compatible-Toners-Each.webp", "imageFile": "Ricoh-Aficio-Mp-C2500-Compatible-Toners-Each.webp", "description": `The Ricoh Aficio MP C2500 Compatible Toner Cartridge offers a budget-friendly solution for medium-to-large color copiers. Designed to deliver consistent black text and clear color graphics for daily business operations across Kenya.
+
+## Compatible printers
+Ricoh Aficio MP C2000
+Ricoh Aficio MP C2500
+Ricoh Aficio MP C2500SPF
+Ricoh Aficio MP C3000
+Ricoh Aficio MP C3000SPF
+If your model isn't listed, send us the number from the front of the machine and we'll confirm before you pay.
+
+## Specifications
+| Page yield | Cartridge type | Colour | Capacity | Part number | Genuine or compatible |
+|---|---|---|---|---|---|
+| ~20,000 BK / 15,000 CMY | Toner Cartridge | Black, Cyan, Magenta, Yellow | Standard | 888636 / 888637 / 888638 / 888639 | Compatible |
+
+## Genuine or compatible?
+This product entry is for a Compatible toner cartridge (including Royal compatible versions). It provides comparable page output and print density to OEM cartridges at a lower cost.
+
+## Why buy from Trinatech
+Stock held in Nairobi CBD.
+Delivery across Kenya including Kisumu, Nakuru, Eldoret, and Mombasa.
+M-Pesa and bank transfer accepted.
+WhatsApp ordering and walk-in options at The One Mall, River Road.
+
+## Getting the most from this cartridge
+Avoid storing toner in high-humidity or high-temperature environments.
+Shake gently from end to end prior to loading into the machine.
+Promptly replace when print intensity drops.
+
+## Frequently asked questions
+Is a higher yield XL option available? Yields are already substantial at ~20,000 pages for black and ~15,000 for color.
+Do I need all colors for printing? Yes, all four color slots must contain active cartridges.
+What is the delivery turnaround time? Same-day within Nairobi; 24 hours to major upcountry centers.
+How do I place an order? Order via WhatsApp or visit our shop at The One Mall, River Road.
+Are color units sold individually? Yes, each color cartridge is priced separately.`, "metaTitle": "Ricoh MP C2500 Compatible Toner Price - Trinatech Kenya", "metaDescription": "Buy compatible Ricoh Aficio MP C2500 color toner cartridges in Nairobi. High yield, affordable printing. Fast delivery across Kenya.", "inStock": true},
+  {"id": 5232, "sku": "C300-2", "name": "Ricoh Aficio Mp C300/400/401 Cymk Toners Cartridge Each", "brand": "Ricoh", "category": "Ricoh Toners", "price": 2700, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/Ricoh-Aficio-Mp-C300-400-401-Cymk-Toners-Cartridge-Each.webp", "imageFile": "Ricoh-Aficio-Mp-C300-400-401-Cymk-Toners-Cartridge-Each.webp", "description": `The Ricoh Aficio Mp C300/400/401 Color Toner Cartridge supplies high-quality toner for Ricoh compact color A4 copiers. Produces crisp text and vibrant color graphics for business documents across Kenya.
+
+## Compatible printers
+Ricoh Aficio MP C300
+Ricoh Aficio MP C300SR
+Ricoh Aficio MP C400
+Ricoh Aficio MP C400SR
+Ricoh Aficio MP C401
+Ricoh Aficio MP C401SR
+If your model isn't listed, send us the number from the front of the machine and we'll confirm before you pay.
+
+## Specifications
+| Page yield | Cartridge type | Colour | Capacity | Part number | Genuine or compatible |
+|---|---|---|---|---|---|
+| ~8,300 BK / 10,000 CMY | Toner Cartridge | Black, Cyan, Magenta, Yellow | High Capacity | 841724 / 841725 / 841726 / 841727 | Genuine |
+
+## Genuine or compatible?
+Original Genuine Ricoh supply unit. Royal compatible alternatives are also available per color to reduce operating costs without sacrificing print clarity.
+
+## Why buy from Trinatech
+Stock held in Nairobi CBD.
+Delivery across Kenya including Kisumu, Nakuru, Eldoret, and Mombasa.
+M-Pesa and bank transfer accepted.
+WhatsApp ordering and walk-in options at The One Mall, River Road.
+
+## Getting the most from this cartridge
+Store horizontally in a cool, dry room.
+Gently shake the bottle before insertion to loosen toner powder.
+Clean the optical glass routinely to ensure uniform color output.
+
+## Frequently asked questions
+Is an XL version available? Standard capacity yields ~8,300 black pages and ~10,000 color pages.
+Are all colors required? Yes, the copier requires all four cartridges installed to print.
+How fast is delivery in Nairobi? Same-day delivery within a few hours across Nairobi.
+How can I pay? Pay via M-Pesa Buy Goods, bank transfer, or cash at shop.
+Are cartridges sold separately? Yes, each color is sold individually per piece.`, "metaTitle": "Ricoh MP C300 C400 C401 Toner Cartridge - Trinatech Kenya", "metaDescription": "Shop Ricoh MP C300, C400, C401 color toner cartridges in Nairobi. Black (~8,300 pages) & CMY (~10,000 pages). Fast shipping across Kenya.", "inStock": true},
   {"id": 5231, "sku": "C3000-2", "name": "Ricoh Aficio Mp C3000 Compatible Toners Each", "brand": "Ricoh", "category": "Ricoh Toners", "price": 4000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/Ricoh-Aficio-Mp-C3000-Compatible-Toners-Each.webp", "imageFile": "Ricoh-Aficio-Mp-C3000-Compatible-Toners-Each.webp", "description": "RICOH AFICIO MP C3000 COMPATIBLE TONERS EACH", "inStock": true},
   {"id": 5230, "sku": "C4500", "name": "Ricoh Aficio Mp C4500 B/C/Y/M Toners Each", "brand": "Ricoh", "category": "Ricoh Toners", "price": 4000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/Ricoh-Aficio-Mp-C4500-B-C-Y-M-Toners-Each.webp", "imageFile": "Ricoh-Aficio-Mp-C4500-B-C-Y-M-Toners-Each.webp", "description": "RICOH AFICIO MP C4500 B/C/Y/M TONERS EACH", "inStock": true},
   {"id": 5229, "sku": "C5000", "name": "Ricoh Aficio Mp C5000 Toner Cartridge Each", "brand": "Ricoh", "category": "Ricoh Toners", "price": 4000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/Ricoh-Aficio-Mp-C5000-Toner-Cartridge-Each.webp", "imageFile": "Ricoh-Aficio-Mp-C5000-Toner-Cartridge-Each.webp", "description": "RICOH AFICIO MP C5000 TONER CARTRIDGE EACH", "inStock": true},
@@ -834,8 +1072,81 @@ Do I need other colours to print? No, this copier only requires a single black t
 What is the delivery time? Same-day within Nairobi CBD; overnight delivery for the rest of Kenya.
 What is your warranty or returns policy? Standard Ricoh warranties apply to all genuine, factory-sealed cartridges.
 How do I know the toner is empty? The copier's screen will display an "Add Toner" message and prevent further copying.`, "metaTitle": "Ricoh MP 2500 Black Toner Cartridge", "metaDescription": "Genuine Ricoh MP 2500 black toner, approx 10,500 pages, for Ricoh Aficio MP 2500 copiers. Delivered safely across Kenya including Kisumu.", "inStock": true},
-  {"id": 5210, "sku": "MP4500E", "name": "Ricoh MP4500E For MP4000, MP4001, MP4002, MP5001, MP5001", "brand": "Ricoh", "category": "Ricoh Toners", "price": 1800, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/Ricoh-MP4500E-For-MP4000-MP4001-MP4002-MP5001-MP5001.webp", "imageFile": "Ricoh-MP4500E-For-MP4000-MP4001-MP4002-MP5001-MP5001.webp", "description": "RICOH MP4500E FOR MP4000, MP4001, MP4002, MP5001, MP5001", "inStock": true},
-  {"id": 4392, "sku": null, "name": "Ricoh MPC2503 Toner Cartridge", "brand": "Ricoh", "category": "Inks & Toner Cartridges", "price": 3300, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2025/01/Ricoh-MPC2503-Toner.png", "imageFile": "Ricoh-MPC2503-Toner.png", "description": "The Ricoh MPC2503 Toner Cartridge is engineered to deliver exceptional print quality for the Ricoh MPC2503 multifunction printer.", "inStock": true},
+  {"id": 5210, "sku": "MP4500E", "name": "Ricoh MP4500E For MP4000, MP4001, MP4002, MP5001, MP5001", "brand": "Ricoh", "category": "Ricoh Toners", "price": 1800, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/Ricoh-MP4500E-For-MP4000-MP4001-MP4002-MP5001-MP5001.webp", "imageFile": "Ricoh-MP4500E-For-MP4000-MP4001-MP4002-MP5001-MP5001.webp", "description": `The Ricoh MP4500E Black Toner Cartridge is a heavy-duty, high-capacity consumable designed for busy office multifunction copiers. Perfect for organizations across Nairobi requiring high-volume print runs, crisp text clarity, and minimal machine downtime.
+
+## Compatible printers
+Ricoh Aficio MP 3500
+Ricoh Aficio MP 4000
+Ricoh Aficio MP 4000B
+Ricoh Aficio MP 4001
+Ricoh Aficio MP 4002
+Ricoh Aficio MP 4500
+Ricoh Aficio MP 5000
+Ricoh Aficio MP 5001
+Ricoh Aficio MP 5002
+If your model isn't listed, send us the number from the front of the machine and we'll confirm before you pay.
+
+## Specifications
+| Page yield | Cartridge type | Colour | Capacity | Part number | Genuine or compatible |
+|---|---|---|---|---|---|
+| ~30,000 pages | Toner Cartridge | Black | High Capacity | 840041 / MP4500E | Genuine |
+
+## Genuine or compatible?
+This product entry is for an Original Genuine Ricoh toner cartridge. A Royal compatible brand equivalent fits the same copiers at a lower price, offering significant per-page cost savings for bulk printing.
+
+## Why buy from Trinatech
+Stock held in Nairobi CBD.
+Delivery across Kenya including Kisumu, Nakuru, Eldoret, and Mombasa.
+M-Pesa and bank transfer accepted.
+WhatsApp ordering and walk-in options at The One Mall, River Road.
+
+## Getting the most from this cartridge
+Rock the cartridge horizontally 5 to 6 times before installation to loosen settled toner powder.
+Store spare cartridges flat in a cool, dry room away from direct light.
+Ensure sealing tabs are fully removed before seating.
+
+## Frequently asked questions
+Is an XL high-yield version available? The MP4500E is already a high-capacity cartridge yielding approximately 30,000 pages.
+Do I need color toners for these printers? No, all compatible models listed are monochrome laser copiers.
+How fast is delivery across Kenya? Same-day within Nairobi CBD and 24 hours for major towns like Mombasa, Nakuru, or Kisumu.
+What payment methods are supported? We accept M-Pesa Buy Goods/Till, bank transfer, and cash at our shop.
+Does it come with a chip? Yes, it includes the standard factory chip required for automated toner tracking.`, "metaTitle": "Ricoh MP4500E Black Toner Cartridge", "metaDescription": "Buy Ricoh MP4500E black toner cartridge in Nairobi, Kenya. Yields ~30,000 pages for MP4000 and MP5000 copiers. CBD stock, fast shipping.", "inStock": true},
+  {"id": 4392, "sku": null, "name": "Ricoh MPC2503 Toner Cartridge", "brand": "Ricoh", "category": "Inks & Toner Cartridges", "price": 3300, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2025/01/Ricoh-MPC2503-Toner.png", "imageFile": "Ricoh-MPC2503-Toner.png", "description": `The Ricoh MPC2503 Toner Cartridge supplies high-definition toner for Ricoh's desktop color copiers. Built for clear monochrome documentation and vibrant color graphics in active workgroups across Nairobi.
+
+## Compatible printers
+Ricoh Aficio MP C2003
+Ricoh Aficio MP C2003SP
+Ricoh Aficio MP C2004
+Ricoh Aficio MP C2503
+Ricoh Aficio MP C2503SP
+Ricoh Aficio MP C2504
+If your model isn't listed, send us the number from the front of the machine and we'll confirm before you pay.
+
+## Specifications
+| Page yield | Cartridge type | Colour | Capacity | Part number | Genuine or compatible |
+|---|---|---|---|---|---|
+| ~15,000 pages | Toner Cartridge | Black | Standard | 841918 / 841925 | Genuine |
+
+## Genuine or compatible?
+Original Genuine Ricoh brand toner. Royal compatible options are also available to lower cost per page on routine printing.
+
+## Why buy from Trinatech
+Stock held in Nairobi CBD.
+Delivery across Kenya including Kisumu, Nakuru, Eldoret, and Mombasa.
+M-Pesa and bank transfer accepted.
+WhatsApp ordering and walk-in options at The One Mall, River Road.
+
+## Getting the most from this cartridge
+Keep spare units stored flat in dry environments.
+Rock horizontally before unsealing to distribute toner.
+Avoid touching the developer roller or contact points during installation.
+
+## Frequently asked questions
+Is an XL version available? Standard yield is ~15,000 pages for black, which satisfies most office workloads.
+Are color toners available too? Yes, Cyan, Magenta, and Yellow cartridges are available separately.
+How fast is delivery in Kenya? Same-day inside Nairobi; overnight courier dispatch for upcountry locations.
+What payment methods do you take? M-Pesa, bank wire, and cash at counter.
+Does it come sealed? Yes, delivered in original factory packaging.`, "metaTitle": "Ricoh MP C2503 Black Toner Cartridge - Trinatech Kenya", "metaDescription": "Order Ricoh MP C2503 toner cartridge in Nairobi. Yields ~15,000 pages for MP C2003 and MP C2503 copiers. Fast Kenya-wide delivery.", "inStock": true},
   {"id": 5212, "sku": null, "name": "Ricoh Mp 2501E Black Toner Cartridge", "brand": "Ricoh", "category": "Ricoh Toners", "price": 1400, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/Ricoh-Mp-2501E-Black-Toner-Cartridge.webp", "imageFile": "Ricoh-Mp-2501E-Black-Toner-Cartridge.webp", "description": `The Ricoh MP 2501E Black Toner Cartridge is the standard consumable for Ricoh Aficio MP 2001 and MP 2501 series desktop copiers. Ideal for medium offices needing uninterrupted, clear daily document production.
 
 ## Compatible printers
@@ -906,7 +1217,42 @@ Do I need other colours to print? No, these Ricoh models are monochrome machines
 What is the delivery time? Same-day for Nairobi CBD; expect next-day delivery for other regions in Kenya.
 What is your warranty or returns policy? We offer a replacement guarantee on compatible toners that fail out of the box.
 Will using a compatible toner break my machine? High-quality compatibles like this one are perfectly safe for daily document printing.`, "metaTitle": "Ricoh MP 3554 Compatible Black Toner", "metaDescription": "Compatible Ricoh MP 3554 black toner, approx 24,000 pages, for Ricoh MP 2554, 3054, 3554. High quality compatible stock delivered in Kenya.", "inStock": true},
-  {"id": 5227, "sku": "C2503", "name": "Ricoh Mp C2503 Toner For MPC2003/2503", "brand": "Ricoh", "category": "Ricoh Toners", "price": 3000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/Ricoh-Mp-C2503-Toner-For-MPC2003-2503.webp", "imageFile": "Ricoh-Mp-C2503-Toner-For-MPC2003-2503.webp", "description": "RICOH MP C2503 TONER FOR MPC2003/2503", "inStock": true},
+  {"id": 5227, "sku": "C2503", "name": "Ricoh Mp C2503 Toner For MPC2003/2503", "brand": "Ricoh", "category": "Ricoh Toners", "price": 3000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/Ricoh-Mp-C2503-Toner-For-MPC2003-2503.webp", "imageFile": "Ricoh-Mp-C2503-Toner-For-MPC2003-2503.webp", "description": `The Ricoh Mp C2503 Toner For MPC2003/2503 is designed for Ricoh's compact color multifunction copiers. Delivers consistent dark text, clean lines, and dependable performance for office printing across Kenya.
+
+## Compatible printers
+Ricoh Aficio MP C2003
+Ricoh Aficio MP C2003SP
+Ricoh Aficio MP C2004
+Ricoh Aficio MP C2503
+Ricoh Aficio MP C2503SP
+Ricoh Aficio MP C2504
+If your model isn't listed, send us the number from the front of the machine and we'll confirm before you pay.
+
+## Specifications
+| Page yield | Cartridge type | Colour | Capacity | Part number | Genuine or compatible |
+|---|---|---|---|---|---|
+| ~15,000 pages | Toner Cartridge | Black | Standard | 841918 / 841925 | Genuine / Compatible |
+
+## Genuine or compatible?
+Covers both OEM genuine and Royal compatible units. Royal compatible alternatives fit the same printers at lower cost.
+
+## Why buy from Trinatech
+Stock held in Nairobi CBD.
+Delivery across Kenya including Kisumu, Nakuru, Eldoret, and Mombasa.
+M-Pesa and bank transfer accepted.
+WhatsApp ordering and walk-in options at The One Mall, River Road.
+
+## Getting the most from this cartridge
+Store in cool ambient conditions away from direct sunlight.
+Rotate bottle end-to-end 5 times prior to unsealing to break up compacted powder.
+Follow display instructions when replacing.
+
+## Frequently asked questions
+Is an XL alternative available? The standard yield of ~15,000 pages provides long-lasting operation.
+Do I need color cartridges as well? Yes, if printing in full color; monochrome printing uses black only.
+What are delivery times? 1 to 3 hours in Nairobi CBD; 24 hours for upcountry shipping.
+How do I pay? Pay via M-Pesa or bank transfer on order.
+Is it easy to install? Yes, it uses a simple slide-and-lock mechanism.`, "metaTitle": "Ricoh MP C2503 Toner Price in Nairobi - Trinatech CBD", "metaDescription": "Buy Ricoh MP C2503 toner for MP C2003 & C2503 copiers in Nairobi. ~15,000 page yield. Genuine & compatible available with fast shipping.", "inStock": true},
   {"id": 5226, "sku": "C300", "name": "Ricoh Mp C300/400/401 Aficio Compatible Toner Cartridges Each", "brand": "Ricoh", "category": "Ricoh Toners", "price": 2700, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/Ricoh-Mp-C300-400-401-Aficio-Compatible-Toner-Cartridges-Each.webp", "imageFile": "Ricoh-Mp-C300-400-401-Aficio-Compatible-Toner-Cartridges-Each.webp", "description": "RICOH MP C300/400/401 AFICIO COMPATIBLE TONER CARTRIDGES EACH", "inStock": true},
   {"id": 5225, "sku": "C3000", "name": "Ricoh Mp C3000 Aficio Toners Each", "brand": "Ricoh", "category": "Ricoh Toners", "price": 4000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/Ricoh-Mp-C3000-Aficio-Toners-Each.webp", "imageFile": "Ricoh-Mp-C3000-Aficio-Toners-Each.webp", "description": "RICOH MP C3000 AFICIO TONERS EACH", "inStock": true},
   {"id": 4389, "sku": null, "name": "Ricoh Mpc 3001/3501 Toner", "brand": "Ricoh", "category": "Inks & Toner Cartridges", "price": 3000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2025/01/Ricoh-MPC-300-13501-Toner.png", "imageFile": "Ricoh-MPC-300-13501-Toner.png", "description": `The Ricoh MPC 3001/3501 Toner Cartridge series supplies high-definition color toner for Ricoh Aficio MP C3001 and C3501 color multifunction copiers. Delivers vibrant color graphics and sharp dark text for professional documents.

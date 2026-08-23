@@ -528,16 +528,335 @@ Are color cartridges needed? No, these models print strictly in black and white.
 How fast is Nairobi delivery? Same-day within 1 to 3 hours in Nairobi.
 How do I pay? Pay via M-Pesa Buy Goods/Till or bank transfer.
 Does it come pre-chipped? Yes, pre-installed with OEM status chip.`, "metaTitle": "Kyocera TK-3190 Toner Cartridge Price - Trinatech Kenya", "metaDescription": "Order Kyocera TK-3190 black toner cartridge in Nairobi. High yield ~25,000 pages for P3055dn and P3060dn. Fast Kenya delivery.", "inStock": true},
-  {"id": 4262, "sku": null, "name": "Kyocera TK-340 Toner Cartridge", "brand": "Kyocera", "category": "Inks & Toner Cartridges", "price": 2500, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2025/01/Kyocera-TK-340-Toner.png", "imageFile": "Kyocera-TK-340-Toner.png", "description": "The Kyocera TK-340 Toner Cartridge is engineered to meet the demands of businesses and offices that require reliable, high-quality printing.", "inStock": true},
-  {"id": 4238, "sku": null, "name": "Kyocera TK-350 Toner Cartridge", "brand": "Kyocera", "category": "Inks & Toner Cartridges", "price": 2500, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2025/01/Kyocera-TK-350-Toner.png", "imageFile": "Kyocera-TK-350-Toner.png", "description": "Compatible with: ECOSYS FS-3920DN ECOSYS FS-3040MFP / FS-3040MFP+ ECOSYS FS-3140MFP / FS-3140MFP+ ECOSYS FS-3540MFP ECOSYS FS-3640MFP", "inStock": true},
-  {"id": 4277, "sku": null, "name": "Kyocera TK-360 Toner Cartridge", "brand": "Kyocera", "category": "Inks & Toner Cartridges", "price": 2800, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2025/01/Kyocera-TK-360-Toner.png", "imageFile": "Kyocera-TK-360-Toner.png", "description": "The Kyocera TK-360 Toner Cartridge is engineered for businesses and high-volume users who demand reliable, high-quality prints.", "inStock": true},
-  {"id": 4838, "sku": null, "name": "Kyocera TK-410 Toner Cartridge", "brand": "Kyocera", "category": "Inks & Toner Cartridges", "price": 5500, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2025/07/Kyocera-TK-410-Toner.png", "imageFile": "Kyocera-TK-410-Toner.png", "description": "Compatible with: Kyocera ECOSYS KM-1620, KM-1635, KM-1650, KM-2035, KM-2050, KM-2550, KM-1648 Kyocera TASKalfa 180, 181, 220, 221", "inStock": true},
-  {"id": 4726, "sku": null, "name": "Kyocera TK-4175 Toner Cartridge", "brand": "Kyocera", "category": "Inks & Toner Cartridges", "price": 3000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2025/07/Kyocera-TK-4175-Toner.png", "imageFile": "Kyocera-TK-4175-Toner.png", "description": "Compatible with: TASKalfa 2320 TASKalfa 2321 / 2321 A", "inStock": true},
-  {"id": 4211, "sku": null, "name": "Kyocera TK-475 Toner Cartridge", "brand": "Kyocera", "category": "Inks & Toner Cartridges", "price": 9000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2025/01/Kyocera-Tk-475-Toner.png", "imageFile": "Kyocera-Tk-475-Toner.png", "description": "Compatible with: ECOSYS FS-6025MFP, FS-6030MFP, FS-6525MFP, FS-6530MFP", "inStock": true},
-  {"id": 4265, "sku": null, "name": "Kyocera TK-5150 Toner Cartridge", "brand": "Kyocera", "category": "Inks & Toner Cartridges", "price": 12000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2025/01/Kyocera-TK-5150-Toner.png", "imageFile": "Kyocera-TK-5150-Toner.png", "description": "Compatible with: ECOSYS P6035cdn ECOSYS M6035cidn ECOSYS M6535cidn", "inStock": true},
-  {"id": 4286, "sku": null, "name": "Kyocera TK-5240 Toner Cartridge", "brand": "Kyocera", "category": "Inks & Toner Cartridges", "price": 6000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2025/01/Kyocera-TK-5240-Toner.png", "imageFile": "Kyocera-TK-5240-Toner.png", "description": "Compatible with: ECOSYS M5526cdn / M5526cdw ECOSYS P5026cdn / P5026cdw", "inStock": true},
-  {"id": 4292, "sku": null, "name": "Kyocera TK-5270 Toner Cartridge", "brand": "Kyocera", "category": "Inks & Toner Cartridges", "price": 13000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2025/01/Kyocera-TK-5270-Toner.png", "imageFile": "Kyocera-TK-5270-Toner.png", "description": "Compatible with: Kyocera ECOSYS M6230cidn Kyocera ECOSYS M6630cidn Kyocera ECOSYS P6230cdn", "inStock": true},
-  {"id": 4295, "sku": null, "name": "Kyocera TK-5280 Toner Cartridge", "brand": "Kyocera", "category": "Inks & Toner Cartridges", "price": 13000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2025/01/Kyocera-TK-5280-Toner.png", "imageFile": "Kyocera-TK-5280-Toner.png", "description": "Compatible with: ECOSYS M6235cidn ECOSYS M6635cidn ECOSYS P6235cdn", "inStock": true},
+  {"id": 4262, "sku": null, "name": "Kyocera TK-340 Toner Cartridge", "brand": "Kyocera", "category": "Inks & Toner Cartridges", "price": 2500, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2025/01/Kyocera-TK-340-Toner.png", "imageFile": "Kyocera-TK-340-Toner.png", "description": `The Kyocera TK-340 Black Toner Cartridge is a highly dependable, standard-capacity supply for Kyocera's robust desktop monochrome printers. Formulated with Kyocera's unique micro-fine ceramic toner technology, it gently polishes the printer's permanent drum unit as it prints, ensuring long-lasting hardware health. It delivers crisp, dark text for up to 12,000 pages, making it an excellent, low-maintenance choice for busy offices that require uninterrupted document production.
+
+## Compatible printers
+Kyocera FS-2020D
+Kyocera FS-2020DN
+If your model isn't listed, send us the number from the front of the machine and we'll confirm before you pay.
+
+## Specifications
+| Page yield | Cartridge type | Colour | Capacity | Part number | Genuine or compatible |
+|---|---|---|---|---|---|
+| ~12,000 pages | Laser Toner | Black | Standard | TK-340 | Genuine |
+
+## Genuine or compatible?
+Genuine, Original Kyocera toner. Not a refill. Using genuine Kyocera toner is critical for these machines, as aftermarket toners lack the ceramic polishing beads needed to maintain Kyocera's long-life ceramic drums. If you are aiming to cut overhead costs on internal draft printing, mention our Royal compatible brand when you order—it fits the exact same printers at a significantly lower price point.
+
+## Why buy from Trinatech
+Stock held in Nairobi CBD for rapid dispatch.
+Delivery across Kenya including Kisumu, Nakuru, Eldoret and Mombasa.
+M-Pesa and bank transfer accepted securely.
+WhatsApp ordering, walk-in at The One Mall River Road.
+
+## Getting the most from this cartridge
+Store the cartridge flat in a cool, dry place until needed.
+Always agitate the toner before installation by rocking it horizontally; this prevents the micro-fine powder from packing tightly during storage and transit.
+Ensure the machine's toner hopper area is clean of dust before snapping the new cartridge firmly into place.
+
+## Frequently asked questions
+Is there an XL or high-yield alternative? This is the standard, maximum-yield toner for these specific desktop models.
+Do I need other colours to print? No, the FS-2020 series are purely black-and-white machines.
+What is the delivery time? Delivery is completed within the same day in Nairobi, and by the next day countrywide.
+What is your warranty or returns policy? We honour standard Kyocera warranties for factory-sealed, genuine items.
+Does this toner include a new drum? No, Kyocera printers use a separate, long-life ceramic drum unit that rarely needs replacing.`, "metaTitle": "Kyocera TK-340 Black Toner Cartridge", "metaDescription": "Genuine Kyocera TK-340 black toner, approx 12,000 pages, for Kyocera FS-2020D and FS-2020DN. Stocked in Nairobi CBD, delivered across Kenya.", "inStock": true},
+  {"id": 4238, "sku": null, "name": "Kyocera TK-350 Toner Cartridge", "brand": "Kyocera", "category": "Inks & Toner Cartridges", "price": 2500, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2025/01/Kyocera-TK-350-Toner.png", "imageFile": "Kyocera-TK-350-Toner.png", "description": `The Kyocera TK-350 Black Toner Cartridge is designed to meet the high demands of mid-sized workgroups relying on Kyocera's fast monochrome multifunction printers. With a generous yield of up to 15,000 pages, this genuine toner drastically reduces your cost per page and machine downtime. It guarantees razor-sharp text and precise greyscales, ensuring your business documents, from invoices to internal reports, always look their best.
+
+## Compatible printers
+Kyocera FS-3040MFP
+Kyocera FS-3040MFP+
+Kyocera FS-3140MFP
+Kyocera FS-3140MFP+
+Kyocera FS-3540MFP
+Kyocera FS-3640MFP
+Kyocera FS-3920DN
+If your model isn't listed, send us the number from the front of the machine and we'll confirm before you pay.
+
+## Specifications
+| Page yield | Cartridge type | Colour | Capacity | Part number | Genuine or compatible |
+|---|---|---|---|---|---|
+| ~15,000 pages | Laser Toner | Black | Standard | TK-350 | Genuine |
+
+## Genuine or compatible?
+This is a 100% genuine, Original Kyocera toner cartridge. Genuine Kyocera toner is specifically engineered to protect the lifespan of your permanent drum. However, if cost savings are your primary concern, our Royal compatible equivalent is available for these models, giving you the same perfect fit at a lower cost for high-volume everyday printing.
+
+## Why buy from Trinatech
+Stock held locally in Nairobi CBD.
+Delivery across Kenya including Kisumu, Nakuru, Eldoret and Mombasa.
+M-Pesa and bank transfer accepted securely.
+WhatsApp ordering, walk-in at The One Mall River Road.
+
+## Getting the most from this cartridge
+Keep the toner safely stored in its original box until your machine physically prompts for a replacement.
+Because actual page yield depends heavily on your printing habits, you can extend the life of the toner by setting your copier defaults to EcoPrint mode for everyday internal paperwork that doesn't need to be presentation-quality.
+
+## Frequently asked questions
+Is there an XL or high-yield alternative? No, the 15,000-page yield is the standard maximum capacity for these models.
+Do I need other colours to print? No, these printers only require a single black toner cartridge.
+What is the delivery time? Same-day within Nairobi CBD; overnight delivery for the rest of Kenya.
+What is your warranty or returns policy? Standard Kyocera warranties apply to all genuine, factory-sealed cartridges.
+How do I know the toner is empty? The printer's indicator light will flash or the screen will display an "Add Toner" message.`, "metaTitle": "Kyocera TK-350 Black Toner Cartridge", "metaDescription": "Genuine Kyocera TK-350 black toner, approx 15,000 pages, for Kyocera FS-3920DN and FS-3040MFP series. Reliable stock, fast nationwide delivery.", "inStock": true},
+  {"id": 4277, "sku": null, "name": "Kyocera TK-360 Toner Cartridge", "brand": "Kyocera", "category": "Inks & Toner Cartridges", "price": 2800, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2025/01/Kyocera-TK-360-Toner.png", "imageFile": "Kyocera-TK-360-Toner.png", "description": `The Kyocera TK-360 Black Toner Cartridge is a high-yield powerhouse built to keep up with Kyocera's fastest A4 monochrome network printers. Offering an impressive 20,000-page capacity, this genuine toner is perfectly suited for accounting departments, legal offices, and environments that print massive volumes of text daily. It delivers consistent, deep black text that resists smudging, ensuring your critical documents are always highly legible and professional.
+
+## Compatible printers
+Kyocera FS-4020DN
+If your model isn't listed, send us the number from the front of the machine and we'll confirm before you pay.
+
+## Specifications
+| Page yield | Cartridge type | Colour | Capacity | Part number | Genuine or compatible |
+|---|---|---|---|---|---|
+| ~20,000 pages | Laser Toner | Black | High Yield | TK-360 | Genuine |
+
+## Genuine or compatible?
+This is a genuine, Original Kyocera toner cartridge. It provides the exact toner formulation designed for your specific machine. While it offers superior reliability and protects your printer's warranty, our Royal compatible equivalent is also available, giving you the same massive 20,000-page yield for your FS-4020DN at a lower cost for everyday draft printing.
+
+## Why buy from Trinatech
+Reliable stock held in Nairobi CBD.
+Delivery across Kenya including Kisumu, Nakuru, Eldoret and Mombasa.
+M-Pesa and bank transfer accepted.
+Easy WhatsApp ordering or walk-in at The One Mall River Road.
+
+## Getting the most from this cartridge
+Store the large toner safely in a cool, dry place.
+Because this cartridge holds a massive amount of powder, shaking it firmly from side to side before installation is crucial to ensure it dispenses smoothly.
+Regular cleaning of the printer's internal paper path will also help ensure flawless print quality throughout the life of this high-yield cartridge.
+
+## Frequently asked questions
+Is there an XL or high-yield alternative? This cartridge is already a very high-yield product at 20,000 pages.
+Do I need other colours to print? No, the FS-4020DN is strictly a black-and-white machine.
+What is the delivery time? We offer same-day delivery in Nairobi CBD, and next-day delivery nationwide.
+What is your warranty or returns policy? We provide the manufacturer's warranty on all genuine sealed products.
+Will the machine stop when toner is low? It will warn you first, allowing you to print a few more pages before it halts entirely.`, "metaTitle": "Kyocera TK-360 Black Toner Cartridge", "metaDescription": "Genuine Kyocera TK-360 black toner, approx 20,000 pages, for Kyocera FS-4020DN. Delivered anywhere in Kenya from Nairobi.", "inStock": true},
+  {"id": 4838, "sku": null, "name": "Kyocera TK-410 Toner Cartridge", "brand": "Kyocera", "category": "Inks & Toner Cartridges", "price": 5500, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2025/07/Kyocera-TK-410-Toner.png", "imageFile": "Kyocera-TK-410-Toner.png", "description": `The Kyocera TK-410 Black Toner Cartridge ensures your heavy-duty Kyocera KM series copier continues to deliver crisp, highly readable text for your everyday office tasks. Formulated for consistency and smooth feeding, this standard-yield toner keeps your workflow moving without annoying streaks or background smudging. It is a highly dependable choice for mid-sized offices relying on classic Kyocera machines for their daily document production.
+
+## Compatible printers
+Kyocera KM-1620
+Kyocera KM-1635
+Kyocera KM-1650
+Kyocera KM-2050
+If your model isn't listed, send us the number from the front of the machine and we'll confirm before you pay.
+
+## Specifications
+| Page yield | Cartridge type | Colour | Capacity | Part number | Genuine or compatible |
+|---|---|---|---|---|---|
+| ~15,000 pages | Laser Toner | Black | Standard | TK-410 | Genuine |
+
+## Genuine or compatible?
+Genuine, Original Kyocera toner. Not a refill and not our Royal house brand. Using genuine Kyocera toner guarantees your machine's developer unit remains in pristine condition, minimizing service calls. If you are aiming to cut overhead costs, mention our Royal compatible brand when you order—it fits the exact same copiers at a lower price point.
+
+## Why buy from Trinatech
+Stock held right here in Nairobi CBD.
+Delivery across Kenya including Kisumu, Nakuru, Eldoret and Mombasa.
+M-Pesa and bank transfer accepted.
+WhatsApp ordering, walk-in at The One Mall River Road.
+
+## Getting the most from this cartridge
+Before installing the new toner, hold it horizontally and shake it gently from side to side five or six times to loosen the powder.
+Keep your copier in a well-ventilated, dry area, as humidity can cause toner powder to clump and print unevenly.
+To extend the life of the toner, use your machine's toner-save mode for internal drafts.
+
+## Frequently asked questions
+Is there an XL or high-yield alternative? This is the standard high-volume bottle for this series; there is no official XL version.
+Do I need other colours to print? No, these specific Kyocera KM models are monochrome (black and white) copiers.
+What is the delivery time? Same-day delivery for Nairobi CBD, and next-day for the rest of Kenya.
+What is your warranty or returns policy? Genuine sealed cartridges are backed by the manufacturer's warranty against defects.
+How will I know when it is completely empty? The copier's display panel will halt printing and prompt you to replace the toner bottle.`, "metaTitle": "Kyocera TK-410 Black Toner Cartridge", "metaDescription": "Genuine Kyocera TK-410 black toner, approx 15,000 pages, for Kyocera KM-1620, KM-1635, KM-1650, KM-2050. Fast delivery across Kenya.", "inStock": true},
+  {"id": 4726, "sku": null, "name": "Kyocera TK-4175 Toner Cartridge", "brand": "Kyocera", "category": "Inks & Toner Cartridges", "price": 3000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2025/07/Kyocera-TK-4175-Toner.png", "imageFile": "Kyocera-TK-4175-Toner.png", "description": `The Kyocera TK-4175 Black Toner Cartridge is a high-volume supply designed for modern Kyocera TASKalfa multifunction machines operating in structured business environments. It supports extended document production for contracts, compliance documentation, and bulk internal reports. Engineered for consistent performance, this cartridge maintains uniform toner density and reliable page formation across demanding office workloads, ensuring your business looks professional on every page.
+
+## Compatible printers
+Kyocera TASKalfa 3212i
+Kyocera TASKalfa 4012i
+If your model isn't listed, send us the number from the front of the machine and we'll confirm before you pay.
+
+## Specifications
+| Page yield | Cartridge type | Colour | Capacity | Part number | Genuine or compatible |
+|---|---|---|---|---|---|
+| ~15,000 pages | Laser Toner | Black | Standard | TK-4175 | Genuine |
+
+## Genuine or compatible?
+This is a 100% genuine, Original Kyocera toner cartridge. Genuine toner is specifically engineered to protect the lifespan of your permanent drum. However, if cost savings are your primary concern, our Royal compatible equivalent is available for these models, giving you the same perfect fit at a significantly lower cost for high-volume everyday printing.
+
+## Why buy from Trinatech
+Stock held locally in Nairobi CBD.
+Delivery across Kenya including Kisumu, Nakuru, Eldoret and Mombasa.
+M-Pesa and bank transfer accepted securely.
+WhatsApp ordering, walk-in at The One Mall River Road.
+
+## Getting the most from this cartridge
+Keep the toner safely stored in its original box until your machine physically prompts for a replacement.
+Because actual page yield depends heavily on your printing habits, you can extend the life of the toner by setting your copier defaults to lower density or EcoPrint mode for everyday internal paperwork that doesn't need to be presentation-quality.
+
+## Frequently asked questions
+Is there an XL or high-yield alternative? No, the 15,000-page yield is the standard maximum capacity for these models.
+Do I need other colours to print? No, these printers only require a single black toner cartridge.
+What is the delivery time? Same-day within Nairobi CBD; overnight delivery for the rest of Kenya.
+What is your warranty or returns policy? Standard Kyocera warranties apply to all genuine, factory-sealed cartridges.
+How do I know the toner is empty? The printer's indicator light will flash or the screen will display an "Add Toner" message.`, "metaTitle": "Kyocera TK-4175 Black Toner Cartridge", "metaDescription": "Genuine Kyocera TK-4175 black toner, approx 15,000 pages, for Kyocera TASKalfa 3212i and 4012i. Genuine Kenya stock at Trinatech.", "inStock": true},
+  {"id": 4211, "sku": null, "name": "Kyocera TK-475 Toner Cartridge", "brand": "Kyocera", "category": "Inks & Toner Cartridges", "price": 9000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2025/01/Kyocera-Tk-475-Toner.png", "imageFile": "Kyocera-Tk-475-Toner.png", "description": `The Kyocera TK-475 Black Toner Cartridge is a highly dependable, standard-capacity supply for Kyocera's popular A3 monochrome multifunction copiers. Formulated with Kyocera's unique micro-fine toner technology, it gently polishes the printer's permanent drum unit as it prints, ensuring long-lasting hardware health. It delivers crisp, dark text for up to 15,000 pages, making it an excellent choice for busy offices that require uninterrupted, high-quality document production.
+
+## Compatible printers
+Kyocera FS-6025MFP
+Kyocera FS-6030MFP
+Kyocera FS-6525MFP
+Kyocera FS-6530MFP
+If your model isn't listed, send us the number from the front of the machine and we'll confirm before you pay.
+
+## Specifications
+| Page yield | Cartridge type | Colour | Capacity | Part number | Genuine or compatible |
+|---|---|---|---|---|---|
+| ~15,000 pages | Laser Toner | Black | Standard | TK-475 | Genuine |
+
+## Genuine or compatible?
+Genuine, Original Kyocera toner. Not a refill. Using genuine Kyocera toner is critical for these machines, as aftermarket toners lack the ceramic polishing beads needed to maintain Kyocera's long-life ceramic drums. If you are aiming to cut overhead costs on internal draft printing, mention our Royal compatible brand when you order—it fits the exact same printers at a significantly lower price point.
+
+## Why buy from Trinatech
+Stock held in Nairobi CBD for rapid dispatch.
+Delivery across Kenya including Kisumu, Nakuru, Eldoret and Mombasa.
+M-Pesa and bank transfer accepted securely.
+WhatsApp ordering, walk-in at The One Mall River Road.
+
+## Getting the most from this cartridge
+Store the cartridge flat in a cool, dry place until needed.
+Always agitate the toner before installation by rocking it horizontally; this prevents the micro-fine powder from packing tightly during storage and transit.
+Ensure the machine's toner hopper area is clean of dust before snapping the new cartridge firmly into place.
+
+## Frequently asked questions
+Is there an XL or high-yield alternative? This is the standard, maximum-yield toner for these specific desktop models.
+Do I need other colours to print? No, the FS-6000 and 6500 series are purely black-and-white machines.
+What is the delivery time? Delivery is completed within the same day in Nairobi, and by the next day countrywide.
+What is your warranty or returns policy? We honour standard Kyocera warranties for factory-sealed, genuine items.
+Does this toner include a new drum? No, Kyocera printers use a separate, long-life ceramic drum unit that rarely needs replacing.`, "metaTitle": "Kyocera TK-475 Black Toner Cartridge", "metaDescription": "Genuine Kyocera TK-475 black toner, approx 15,000 pages, for Kyocera FS-6025MFP, FS-6030MFP, FS-6525MFP. Buy genuine supplies at Trinatech.", "inStock": true},
+  {"id": 4265, "sku": null, "name": "Kyocera TK-5150 Toner Cartridge", "brand": "Kyocera", "category": "Inks & Toner Cartridges", "price": 12000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2025/01/Kyocera-TK-5150-Toner.png", "imageFile": "Kyocera-TK-5150-Toner.png", "description": `The Kyocera TK-5150 Toner Cartridges are designed to meet the high demands of mid-sized workgroups relying on Kyocera's fast colour multifunction printers. Sold individually (choose from Black, Cyan, Magenta, or Yellow), these genuine toners drastically reduce your cost per page and machine downtime. They guarantee razor-sharp text and precise, vibrant colour reproduction, ensuring your business documents, marketing materials, and internal reports always look their best.
+
+## Compatible printers
+Kyocera ECOSYS M6035cidn
+Kyocera ECOSYS M6535cidn
+Kyocera ECOSYS P6035cdn
+If your model isn't listed, send us the number from the front of the machine and we'll confirm before you pay.
+
+## Specifications
+| Page yield | Cartridge type | Colour | Capacity | Part number | Genuine or compatible |
+|---|---|---|---|---|---|
+| ~12,000 (Black) / ~10,000 (Colour) | Laser Toner | Black, Cyan, Magenta OR Yellow | Standard | TK-5150 | Genuine |
+
+## Genuine or compatible?
+This is a 100% genuine, Original Kyocera toner cartridge. Genuine Kyocera toner is specifically engineered to protect the lifespan of your permanent drum. However, if cost savings are your primary concern for high-volume internal printing, our Royal compatible equivalent is available for these models, giving you the same perfect fit at a lower cost.
+
+## Why buy from Trinatech
+Stock held locally in Nairobi CBD.
+Delivery across Kenya including Kisumu, Nakuru, Eldoret and Mombasa.
+M-Pesa and bank transfer accepted securely.
+WhatsApp ordering, walk-in at The One Mall River Road.
+
+## Getting the most from this cartridge
+Keep the toner safely stored in its original box until your machine physically prompts for a replacement.
+Because actual page yield depends heavily on your printing habits, you can extend the life of the toner by setting your copier defaults to EcoPrint mode for everyday internal paperwork that doesn't need to be presentation-quality.
+
+## Frequently asked questions
+Is there an XL or high-yield alternative? No, the standard yield is the maximum capacity for these models.
+Do I need other colours to print? Yes, Kyocera colour printers require all four toners to be installed to operate.
+What is the delivery time? Same-day within Nairobi CBD; overnight delivery for the rest of Kenya.
+What is your warranty or returns policy? Standard Kyocera warranties apply to all genuine, factory-sealed cartridges.
+Are these sold as a set? No, they are priced individually so you only buy what you need.`, "metaTitle": "Kyocera TK-5150 Original Toner Cartridges", "metaDescription": "Genuine Kyocera TK-5150 toner cartridges (Black, Cyan, Magenta, Yellow) for ECOSYS M6035cidn, M6535cidn. Fast delivery nationwide.", "inStock": true},
+  {"id": 4286, "sku": null, "name": "Kyocera TK-5240 Toner Cartridge", "brand": "Kyocera", "category": "Inks & Toner Cartridges", "price": 6000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2025/01/Kyocera-TK-5240-Toner.png", "imageFile": "Kyocera-TK-5240-Toner.png", "description": `The Kyocera TK-5240 Toner Cartridges are a high-yield powerhouse built to keep up with Kyocera's fast A4 colour network printers. Sold individually (Black, Cyan, Magenta, or Yellow), these genuine toners are perfectly suited for accounting departments, legal offices, and environments that print massive volumes daily. They deliver consistent, deep text and rich graphics that resist smudging, ensuring your critical documents are always highly legible and professional.
+
+## Compatible printers
+Kyocera ECOSYS M5526cdw
+Kyocera ECOSYS M5526cdn
+Kyocera ECOSYS P5026cdw
+Kyocera ECOSYS P5026cdn
+If your model isn't listed, send us the number from the front of the machine and we'll confirm before you pay.
+
+## Specifications
+| Page yield | Cartridge type | Colour | Capacity | Part number | Genuine or compatible |
+|---|---|---|---|---|---|
+| ~4,000 (Black) / ~3,000 (Colour) | Laser Toner | Black, Cyan, Magenta OR Yellow | Standard | TK-5240 | Genuine |
+
+## Genuine or compatible?
+This is a genuine, Original Kyocera toner cartridge. It provides the exact toner formulation designed for your specific machine. While it offers superior reliability and protects your printer's warranty, our Royal compatible equivalent is also available, giving you the same dependable yield for your ECOSYS machine at a lower cost for everyday draft printing.
+
+## Why buy from Trinatech
+Reliable stock held in Nairobi CBD.
+Delivery across Kenya including Kisumu, Nakuru, Eldoret and Mombasa.
+M-Pesa and bank transfer accepted.
+Easy WhatsApp ordering or walk-in at The One Mall River Road.
+
+## Getting the most from this cartridge
+Store the toner safely in a cool, dry place.
+Because this cartridge holds micro-fine powder, shaking it firmly from side to side before installation is crucial to ensure it dispenses smoothly.
+Regular cleaning of the printer's internal paper path will also help ensure flawless print quality throughout the life of this cartridge.
+
+## Frequently asked questions
+Is there an XL or high-yield alternative? This cartridge is the maximum yield product for this printer series.
+Do I need other colours to print? Yes, the printer requires all four cartridges to be installed to function safely.
+What is the delivery time? We offer same-day delivery in Nairobi CBD, and next-day delivery nationwide.
+What is your warranty or returns policy? We provide the manufacturer's warranty on all genuine sealed products.
+Will the machine stop when toner is low? It will warn you first, allowing you to print a few more pages before it halts entirely.`, "metaTitle": "Kyocera TK-5240 Original Toner Cartridges", "metaDescription": "Genuine Kyocera TK-5240 toner cartridges (Black, Cyan, Magenta, Yellow) for ECOSYS M5526cdw and P5026cdw. Stocked in Nairobi CBD.", "inStock": true},
+  {"id": 4292, "sku": null, "name": "Kyocera TK-5270 Toner Cartridge", "brand": "Kyocera", "category": "Inks & Toner Cartridges", "price": 13000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2025/01/Kyocera-TK-5270-Toner.png", "imageFile": "Kyocera-TK-5270-Toner.png", "description": `The Kyocera TK-5270 Toner Cartridges ensure your heavy-duty Kyocera ECOSYS colour copier continues to deliver crisp, highly readable text and vivid graphics for your everyday office tasks. Sold individually per colour (Black, Cyan, Magenta, or Yellow), these standard-yield toners keep your workflow moving without annoying streaks or background smudging. It is a highly dependable choice for mid-sized offices relying on Kyocera machines for their daily document production.
+
+## Compatible printers
+Kyocera ECOSYS M6230cidn
+Kyocera ECOSYS M6630cidn
+Kyocera ECOSYS P6230cdn
+If your model isn't listed, send us the number from the front of the machine and we'll confirm before you pay.
+
+## Specifications
+| Page yield | Cartridge type | Colour | Capacity | Part number | Genuine or compatible |
+|---|---|---|---|---|---|
+| ~8,000 (Black) / ~6,000 (Colour) | Laser Toner | Black, Cyan, Magenta OR Yellow | Standard | TK-5270 | Genuine |
+
+## Genuine or compatible?
+Genuine, Original Kyocera toner. Not a refill and not our Royal house brand. Using genuine Kyocera toner guarantees your machine's developer unit remains in pristine condition, minimizing service calls. If you are aiming to cut overhead costs on internal printing, mention our Royal compatible brand when you order—it fits the exact same copiers at a much lower price point.
+
+## Why buy from Trinatech
+Stock held right here in Nairobi CBD.
+Delivery across Kenya including Kisumu, Nakuru, Eldoret and Mombasa.
+M-Pesa and bank transfer accepted.
+WhatsApp ordering, walk-in at The One Mall River Road.
+
+## Getting the most from this cartridge
+Before installing the new toner, hold it horizontally and shake it gently from side to side five or six times to loosen the powder.
+Keep your copier in a well-ventilated, dry area, as humidity can cause toner powder to clump and print unevenly.
+To extend the life of the toner, use your machine's EcoPrint mode for internal drafts.
+
+## Frequently asked questions
+Is there an XL or high-yield alternative? This is the standard high-volume bottle for this series; there is no official XL version.
+Do I need other colours to print? Yes, Kyocera colour printers require all CMYK toners to operate.
+What is the delivery time? Same-day delivery for Nairobi CBD, and next-day for the rest of Kenya.
+What is your warranty or returns policy? Genuine sealed cartridges are backed by the manufacturer's warranty against defects.
+Does this price cover all colours? No, the listed price is for one individual colour cartridge.`, "metaTitle": "Kyocera TK-5270 Original Toner Cartridges", "metaDescription": "Genuine Kyocera TK-5270 toner cartridges for ECOSYS M6230cidn, M6630cidn, P6230cdn. Sold individually. Reliable delivery across Kenya.", "inStock": true},
+  {"id": 4295, "sku": null, "name": "Kyocera TK-5280 Toner Cartridge", "brand": "Kyocera", "category": "Inks & Toner Cartridges", "price": 13000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2025/01/Kyocera-TK-5280-Toner.png", "imageFile": "Kyocera-TK-5280-Toner.png", "description": `The Kyocera TK-5280 Toner Cartridges are high-volume supplies designed for modern Kyocera ECOSYS multifunction machines operating in structured business environments. Sold individually (Black, Cyan, Magenta, or Yellow), they support extended document production for contracts, compliance documentation, and bulk internal reports. Engineered for consistent performance, these cartridges maintain uniform toner density and reliable colour formation across demanding office workloads, ensuring your business looks professional on every page.
+
+## Compatible printers
+Kyocera ECOSYS M6235cidn
+Kyocera ECOSYS M6635cidn
+Kyocera ECOSYS P6235cdn
+If your model isn't listed, send us the number from the front of the machine and we'll confirm before you pay.
+
+## Specifications
+| Page yield | Cartridge type | Colour | Capacity | Part number | Genuine or compatible |
+|---|---|---|---|---|---|
+| ~13,000 (Black) / ~11,000 (Colour) | Laser Toner | Black, Cyan, Magenta OR Yellow | Standard | TK-5280 | Genuine |
+
+## Genuine or compatible?
+This is a 100% genuine, Original Kyocera toner cartridge. Genuine toner is specifically engineered to protect the lifespan of your permanent drum. However, if cost savings are your primary concern, our Royal compatible equivalent is available for these models, giving you the same perfect fit at a significantly lower cost for high-volume everyday printing.
+
+## Why buy from Trinatech
+Stock held locally in Nairobi CBD.
+Delivery across Kenya including Kisumu, Nakuru, Eldoret and Mombasa.
+M-Pesa and bank transfer accepted securely.
+WhatsApp ordering, walk-in at The One Mall River Road.
+
+## Getting the most from this cartridge
+Keep the toner safely stored in its original box until your machine physically prompts for a replacement.
+Because actual page yield depends heavily on your printing habits, you can extend the life of the toner by setting your copier defaults to lower density or EcoPrint mode for everyday internal paperwork that doesn't need to be presentation-quality.
+
+## Frequently asked questions
+Is there an XL or high-yield alternative? No, the stated yield is the standard maximum capacity for these models.
+Do I need other colours to print? Yes, these colour printers require all toners (CMYK) to be present to print safely.
+What is the delivery time? Same-day within Nairobi CBD; overnight delivery for the rest of Kenya.
+What is your warranty or returns policy? Standard Kyocera warranties apply to all genuine, factory-sealed cartridges.
+Are these sold as a set? No, they are priced individually so you only buy the exact colour you need.`, "metaTitle": "Kyocera TK-5280 Original Toner Cartridges", "metaDescription": "Genuine Kyocera TK-5280 toner cartridges for ECOSYS M6235cidn, M6635cidn, P6235cdn. Order via WhatsApp for delivery anywhere in Kenya.", "inStock": true},
   {"id": 4301, "sku": null, "name": "Kyocera TK-590 Toner Cartridge", "brand": "Kyocera", "category": "Inks & Toner Cartridges", "price": 9000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2025/01/Kyocera-TK-590-Toner.png", "imageFile": "Kyocera-TK-590-Toner.png", "description": "Compatible with: ECOSYS M6026cdn / M6026cidn ECOSYS M6526cdn / M6526cidn ECOSYS P6026cdn FS-C2026MFP / FS-C2026MFP Plus FS-C2126MFP / FS-C2126MFP+", "inStock": true},
   {"id": 4229, "sku": null, "name": "Kyocera TK-6115 Toner Cartridge", "brand": "Kyocera", "category": "Inks & Toner Cartridges", "price": 9000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2025/01/Kyocera-TK-6115-Toner.png", "imageFile": "Kyocera-TK-6115-Toner.png", "description": "Compatible with: ECOSYS M4125idn ECOSYS M4132idn", "inStock": true},
   {"id": 4729, "sku": null, "name": "Kyocera TK-6325 Toner Cartridge", "brand": "Kyocera", "category": "Inks & Toner Cartridges", "price": 4000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2025/07/Kyocera-TK-6325-Toner.png", "imageFile": "Kyocera-TK-6325-Toner.png", "description": "Compatible with: Kyocera TASKalfa 4002i TASKalfa 4003i TASKalfa 5002i TASKalfa 5003i TASKalfa 6002i TASKalfa 6003i", "inStock": true},

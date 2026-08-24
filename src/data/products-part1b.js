@@ -1639,17 +1639,420 @@ Do I need other colours to print? Yes, all four tanks (CMYK) must have ink for t
 What is the delivery time? Same-day delivery within Nairobi CBD and next-day for the rest of Kenya.
 What is your warranty or returns policy? Genuine Epson inks come with a standard manufacturer defect warranty.
 Can I mix this with generic ink? We strongly advise against mixing formulas, as it can permanently clog the printhead.`, "metaTitle": "Epson 103 Cyan Original Ink Bottle 65ml", "metaDescription": "Genuine Epson 103 cyan ink (65ml), approx 7,500 pages, for EcoTank L3110, L3150, L3210, L3250. Fast nationwide delivery from Trinatech Nairobi.", "inStock": true},
-  {"id": 5332, "sku": null, "name": "Epson 103 Ecotank Magenta Tank Ink Bottle 65ML", "brand": "Epson", "category": "Epson Ribbons & Inks", "price": 1200, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/Epson-103-Ecotank-Magenta-Tank-Ink-Bottle-65ML.webp", "imageFile": "Epson-103-Ecotank-Magenta-Tank-Ink-Bottle-65ML.webp", "description": "EPSON 103 ECOTANK MAGENTA TANK INK BOTTLE 65ML", "inStock": true},
-  {"id": 5331, "sku": null, "name": "Epson 103 Ecotank Yellow Tank Ink Bottle 65ML", "brand": "Epson", "category": "Epson Ribbons & Inks", "price": 1200, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/Epson-103-Ecotank-Yellow-Tank-Ink-Bottle-65ML.webp", "imageFile": "Epson-103-Ecotank-Yellow-Tank-Ink-Bottle-65ML.webp", "description": "EPSON 103 ECOTANK YELLOW TANK INK BOTTLE 65ML", "inStock": true},
-  {"id": 5330, "sku": null, "name": "Epson 110 Ecotank Black Ink Bottle 120ML", "brand": "Epson", "category": "Epson Ribbons & Inks", "price": 3000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/Epson-110-Ecotank-Black-Ink-Bottle-120ML.webp", "imageFile": "Epson-110-Ecotank-Black-Ink-Bottle-120ML.webp", "description": "EPSON 110 ECOTANK BLACK INK BOTTLE 120ML", "inStock": true},
-  {"id": 5329, "sku": null, "name": "Epson 112 Ecotank Black Pigment Ink Bottle", "brand": "Epson", "category": "Epson Ribbons & Inks", "price": 3200, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/Epson-112-Ecotank-Black-Pigment-Ink-Bottle.webp", "imageFile": "Epson-112-Ecotank-Black-Pigment-Ink-Bottle.webp", "description": "EPSON 112 ECOTANK BLACK PIGMENT INK BOTTLE", "inStock": true},
-  {"id": 5328, "sku": null, "name": "Epson 112 Ecotank Cym Ink Bottles Each", "brand": "Epson", "category": "Epson Ribbons & Inks", "price": 2700, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/Epson-112-Ecotank-Cym-Ink-Bottles-Each.webp", "imageFile": "Epson-112-Ecotank-Cym-Ink-Bottles-Each.webp", "description": "EPSON 112 ECOTANK CYM INK BOTTLES EACH", "inStock": true},
-  {"id": 5327, "sku": "T6641", "name": "Epson 664 Black Ink Bottle 70ML (T6641)", "brand": "Epson", "category": "Epson Ribbons & Inks", "price": 1200, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/Epson-664-Black-Ink-Bottle-70ML-T6641.webp", "imageFile": "Epson-664-Black-Ink-Bottle-70ML-T6641.webp", "description": "EPSON 664 BLACK INK BOTTLE 70ML (T6641)", "inStock": true},
-  {"id": 5326, "sku": "T6642", "name": "Epson 664 Cyan Ink Bottle 70ML (T6642)", "brand": "Epson", "category": "Epson Ribbons & Inks", "price": 1200, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/Epson-664-Cyan-Ink-Bottle-70ML-T6642.webp", "imageFile": "Epson-664-Cyan-Ink-Bottle-70ML-T6642.webp", "description": "EPSON 664 CYAN INK BOTTLE 70ML (T6642)", "inStock": true},
+  {"id": 5332, "sku": null, "name": "Epson 103 Ecotank Magenta Tank Ink Bottle 65ML", "brand": "Epson", "category": "Epson Ribbons & Inks", "price": 1200, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/Epson-103-Ecotank-Magenta-Tank-Ink-Bottle-65ML.webp", "imageFile": "Epson-103-Ecotank-Magenta-Tank-Ink-Bottle-65ML.webp", "description": `The Epson 103 Ecotank Magenta Tank Ink Bottle 65ML provides original dye-based magenta ink for Epson EcoTank L-series printers. Engineered to deliver vibrant color photos, smooth gradients, and reliable document graphics for daily office and home printing across Kenya.
+
+## Compatible printers
+Epson EcoTank L1110
+Epson EcoTank L3110
+Epson EcoTank L3111
+Epson EcoTank L3150
+Epson EcoTank L3156
+Epson EcoTank L3160
+Epson EcoTank L3210
+Epson EcoTank L3250
+Epson EcoTank L3251
+Epson EcoTank L3256
+Epson EcoTank L3260
+Epson EcoTank L5190
+Epson EcoTank L5290
+If your model isn't listed, send us the number from the front of the machine and we'll confirm before you pay.
+
+## Specifications
+| Page yield | Cartridge type | Colour | Capacity | Part number | Genuine or compatible |
+|---|---|---|---|---|---|
+| ~7,500 pages | Refill Ink Bottle | Magenta | 65 ml | C13T00S34A / 103 | Genuine |
+
+## Genuine or compatible?
+Genuine Original Epson product entry. Royal compatible brand 103 alternative bottles fit the same EcoTank reservoirs at a reduced cost for budget-focused print jobs.
+
+## Why buy from Trinatech
+Stock held in Nairobi CBD.
+Delivery across Kenya including Kisumu, Nakuru, Eldoret, and Mombasa.
+M-Pesa and bank transfer accepted.
+WhatsApp ordering and walk-in options at The One Mall, River Road.
+
+## Getting the most from this cartridge
+Refill the magenta tank before ink drops below the minimum level indicator line. Keyed bottle nozzles prevent accidental filling into incorrect color tanks.
+
+## Frequently asked questions
+Is an XL alternative available? Standard 65ml high-yield bottle already delivers up to ~7,500 pages.
+Are other color inks required? Yes, must be paired with Black, Cyan, and Yellow 103 series inks.
+How fast is Nairobi shipping? Delivered within 1 to 3 hours across Nairobi CBD.
+How can I pay? Pay via M-Pesa Buy Goods/Till, bank transfer, or cash.
+Is warranty provided? Covered against technical and manufacturing defects.`, "metaTitle": "Epson 103 Magenta EcoTank Ink Bottle Price - Trinatech", "metaDescription": "Buy genuine Epson 103 Magenta ink bottle in Nairobi. 65ml capacity yielding ~7,500 pages for EcoTank L3110, L3150, L3250. Fast delivery.", "inStock": true},
+  {"id": 5331, "sku": null, "name": "Epson 103 Ecotank Yellow Tank Ink Bottle 65ML", "brand": "Epson", "category": "Epson Ribbons & Inks", "price": 1200, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/Epson-103-Ecotank-Yellow-Tank-Ink-Bottle-65ML.webp", "imageFile": "Epson-103-Ecotank-Yellow-Tank-Ink-Bottle-65ML.webp", "description": `The Epson 103 Ecotank Yellow Tank Ink Bottle 65ML supplies authentic Epson dye ink for EcoTank multifunction printers. Formulated to produce clear yellow tones and crisp graphic output for home offices in Nairobi.
+
+## Compatible printers
+Epson EcoTank L1110
+Epson EcoTank L3110
+Epson EcoTank L3111
+Epson EcoTank L3150
+Epson EcoTank L3156
+Epson EcoTank L3160
+Epson EcoTank L3210
+Epson EcoTank L3250
+Epson EcoTank L3251
+Epson EcoTank L3256
+Epson EcoTank L3260
+Epson EcoTank L5190
+Epson EcoTank L5290
+If your model isn't listed, send us the number from the front of the machine and we'll confirm before you pay.
+
+## Specifications
+| Page yield | Cartridge type | Colour | Capacity | Part number | Genuine or compatible |
+|---|---|---|---|---|---|
+| ~7,500 pages | Refill Ink Bottle | Yellow | 65 ml | C13T00S44A / 103 | Genuine |
+
+## Genuine or compatible?
+Original Genuine Epson ink bottle. Royal compatible 103 equivalent bottles fit the same printer reservoirs at lower price points for continuous operational savings.
+
+## Why buy from Trinatech
+Stock held in Nairobi CBD.
+Delivery across Kenya including Kisumu, Nakuru, Eldoret, and Mombasa.
+M-Pesa and bank transfer accepted.
+WhatsApp ordering and walk-in options at The One Mall, River Road.
+
+## Getting the most from this cartridge
+Keep sealed in cool surroundings until ready to fill. Ensure nozzle seats firmly into the yellow tank inlet without squeezing the bottle.
+
+## Frequently asked questions
+Is an XL version available? Extended 65ml capacity provides long-lasting output (~7,500 pages).
+Are all four colors sold separately? Yes, available individually per color bottle.
+How long does shipping take? 1 to 3 hours in Nairobi CBD; 24 hours upcountry.
+How do I pay? Pay via M-Pesa Buy Goods/Till or direct bank wire.
+Is it easy to spill? No, auto-stop drip-free nozzle prevents spills.`, "metaTitle": "Epson 103 Yellow EcoTank Ink Bottle Price - Trinatech", "metaDescription": "Shop genuine Epson 103 Yellow ink bottle in Nairobi. 65ml capacity yielding ~7,500 pages for EcoTank L3210, L3250, L5290. Fast Kenya delivery.", "inStock": true},
+  {"id": 5330, "sku": null, "name": "Epson 110 Ecotank Black Ink Bottle 120ML", "brand": "Epson", "category": "Epson Ribbons & Inks", "price": 3000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/Epson-110-Ecotank-Black-Ink-Bottle-120ML.webp", "imageFile": "Epson-110-Ecotank-Black-Ink-Bottle-120ML.webp", "description": `The Epson 110 Ecotank Black Ink Bottle 120ML is a high-volume pigment ink bottle engineered for Epson EcoTank M-series monochrome printers. Delivers water-resistant, laser-quality black text for business documents across Kenya.
+
+## Compatible printers
+Epson EcoTank M1100
+Epson EcoTank M1120
+Epson EcoTank M1140
+Epson EcoTank M1170
+Epson EcoTank M1180
+Epson EcoTank M2120
+Epson EcoTank M2140
+Epson EcoTank M2170
+Epson EcoTank M3140
+Epson EcoTank M3170
+Epson EcoTank M3180
+If your model isn't listed, send us the number from the front of the machine and we'll confirm before you pay.
+
+## Specifications
+| Page yield | Cartridge type | Colour | Capacity | Part number | Genuine or compatible |
+|---|---|---|---|---|---|
+| ~6,000 pages | Refill Ink Bottle | Black (Pigment) | 120 ml | C13T03P14A / 110 | Genuine |
+
+## Genuine or compatible?
+Genuine Original Epson supply bottle. Royal compatible 110 alternative ink bottles fit the same M-series reservoirs at reduced costs for high-volume monochrome printing.
+
+## Why buy from Trinatech
+Stock held in Nairobi CBD.
+Delivery across Kenya including Kisumu, Nakuru, Eldoret, and Mombasa.
+M-Pesa and bank transfer accepted.
+WhatsApp ordering and walk-in options at The One Mall, River Road.
+
+## Getting the most from this cartridge
+Store in cool ambient conditions. Invert bottle into tank inlet; the auto-stop valve halts filling automatically when the reservoir reaches full capacity.
+
+## Frequently asked questions
+Is a lower yield version available? Standard 120ml bottle yields ~6,000 pages.
+Is this dye or pigment ink? Pigment-based black ink for smudge and highlighter resistance.
+How fast is Nairobi delivery? Same-day inside 1 to 3 hours.
+How do I pay? M-Pesa, bank wire, or cash at counter.
+Is warranty provided? Covered against factory defects.`, "metaTitle": "Epson 110 Black Pigment Ink Bottle Price - Trinatech Kenya", "metaDescription": "Buy genuine Epson 110 Black pigment ink bottle in Nairobi. 120ml yielding ~6,000 pages for EcoTank M1100, M1120, M2140. Fast shipping.", "inStock": true},
+  {"id": 5329, "sku": null, "name": "Epson 112 Ecotank Black Pigment Ink Bottle", "brand": "Epson", "category": "Epson Ribbons & Inks", "price": 3200, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/Epson-112-Ecotank-Black-Pigment-Ink-Bottle.webp", "imageFile": "Epson-112-Ecotank-Black-Pigment-Ink-Bottle.webp", "description": `The Epson 112 Ecotank Black Pigment Ink Bottle is an original high-capacity pigment black ink bottle designed for Epson PrecisionCore EcoTank business printers. Produces sharp, water-resistant text and quick-drying documents across Kenya.
+
+## Compatible printers
+Epson EcoTank L6490
+Epson EcoTank L6550
+Epson EcoTank L6570
+Epson EcoTank L6580
+Epson EcoTank L11160
+Epson EcoTank L15150
+Epson EcoTank L15160
+Epson EcoTank L15180
+If your model isn't listed, send us the number from the front of the machine and we'll confirm before you pay.
+
+## Specifications
+| Page yield | Cartridge type | Colour | Capacity | Part number | Genuine or compatible |
+|---|---|---|---|---|---|
+| ~7,500 pages | Refill Ink Bottle | Black (Pigment) | 127 ml | C13T06C14A / 112 | Genuine |
+
+## Genuine or compatible?
+Original Genuine Epson ink bottle. Royal compatible equivalent bottles are stocked to help lower operating costs on heavy business print runs.
+
+## Why buy from Trinatech
+Stock held in Nairobi CBD.
+Delivery across Kenya including Kisumu, Nakuru, Eldoret, and Mombasa.
+M-Pesa and bank transfer accepted.
+WhatsApp ordering and walk-in options at The One Mall, River Road.
+
+## Getting the most from this cartridge
+Store horizontally in ambient room temperature. Do not squeeze the bottle during tank refill; allow gravity-feed keying to complete the top-up.
+
+## Frequently asked questions
+Is an XL option available? Extended 127ml bottle capacity delivers up to ~7,500 pages.
+Are color inks required? Yes, must be paired with 112 Cyan, Magenta, and Yellow pigment inks.
+What is delivery speed in Nairobi? Delivered within 1 to 3 hours across Nairobi CBD.
+How can I pay? Pay via M-Pesa, bank wire, or cash.
+Is warranty provided? Standard shop defect warranty covers unopened bottles.`, "metaTitle": "Epson 112 Black Pigment Ink Bottle - Trinatech Kenya", "metaDescription": "Order genuine Epson 112 Black pigment ink bottle in Nairobi. Yields ~7,500 pages for EcoTank L6490, L15150, L15160. Fast Kenya delivery.", "inStock": true},
+  {"id": 5328, "sku": null, "name": "Epson 112 Ecotank Cym Ink Bottles Each", "brand": "Epson", "category": "Epson Ribbons & Inks", "price": 2700, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/Epson-112-Ecotank-Cym-Ink-Bottles-Each.webp", "imageFile": "Epson-112-Ecotank-Cym-Ink-Bottles-Each.webp", "description": `The Epson 112 Ecotank Cym Ink Bottles Each (Cyan, Magenta, Yellow) supply original all-pigment color inks for high-speed Epson business EcoTank printers. Formulated for smudge-proof graphics and sharp color reports in Nairobi.
+
+## Compatible printers
+Epson EcoTank L6490
+Epson EcoTank L6550
+Epson EcoTank L6570
+Epson EcoTank L6580
+Epson EcoTank L11160
+Epson EcoTank L15150
+Epson EcoTank L15160
+Epson EcoTank L15180
+If your model isn't listed, send us the number from the front of the machine and we'll confirm before you pay.
+
+## Specifications
+| Page yield | Cartridge type | Colour | Capacity | Part number | Genuine or compatible |
+|---|---|---|---|---|---|
+| ~6,000 pages each | Refill Ink Bottle | Cyan, Magenta, Yellow | 70 ml | C13T06C24A / C13T06C34A / C13T06C44A | Genuine |
+
+## Genuine or compatible?
+Genuine Original Epson supply unit. Royal compatible 112 alternative bottles fit the same printer bays at lower price points.
+
+## Why buy from Trinatech
+Stock held in Nairobi CBD.
+Delivery across Kenya including Kisumu, Nakuru, Eldoret, and Mombasa.
+M-Pesa and bank transfer accepted.
+WhatsApp ordering and walk-in options at The One Mall, River Road.
+
+## Getting the most from this cartridge
+Keep sealed until installation. Keyed bottle caps ensure each color fits only its corresponding reservoir port.
+
+## Frequently asked questions
+Are colors sold separately? Yes, priced each per individual Cyan, Magenta, or Yellow bottle.
+Is this pigment or dye ink? Fully pigment-based ink for water and highlighter resistance.
+How fast is Nairobi delivery? 1 to 3 hours in Nairobi CBD.
+How do I pay? Pay via M-Pesa or bank wire transfer.
+Is warranty included? Covered against manufacturing defects.`, "metaTitle": "Epson 112 Color Pigment Ink Bottles Price - Trinatech", "metaDescription": "Shop genuine Epson 112 Cyan, Magenta, Yellow ink bottles in Nairobi. Yields ~6,000 pages for EcoTank L6490 & L15150. Fast delivery.", "inStock": true},
+  {"id": 5327, "sku": "T6641", "name": "Epson 664 Black Ink Bottle 70ML (T6641)", "brand": "Epson", "category": "Epson Ribbons & Inks", "price": 1200, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/Epson-664-Black-Ink-Bottle-70ML-T6641.webp", "imageFile": "Epson-664-Black-Ink-Bottle-70ML-T6641.webp", "description": `The Epson 664 Black Ink Bottle 70ML (T6641) supplies original dye-based black ink for first and second-generation Epson L-series EcoTank printers. Formulated to produce clear text documents and smooth graphics across Kenya.
+
+## Compatible printers
+Epson EcoTank L110
+Epson EcoTank L120
+Epson EcoTank L130
+Epson EcoTank L210
+Epson EcoTank L220
+Epson EcoTank L300
+Epson EcoTank L310
+Epson EcoTank L355
+Epson EcoTank L365
+Epson EcoTank L382
+Epson EcoTank L386
+Epson EcoTank L486
+Epson EcoTank L550
+Epson EcoTank L565
+Epson EcoTank L1300
+Epson EcoTank L3050
+Epson EcoTank L3060
+If your model isn't listed, send us the number from the front of the machine and we'll confirm before you pay.
+
+## Specifications
+| Page yield | Cartridge type | Colour | Capacity | Part number | Genuine or compatible |
+|---|---|---|---|---|---|
+| ~4,000 pages | Refill Ink Bottle | Black | 70 ml | T6641 / C13T66414A | Genuine |
+
+## Genuine or compatible?
+Genuine Original Epson product entry. Royal compatible brand 664 ink bottles fit the same EcoTank systems at reduced prices.
+
+## Why buy from Trinatech
+Stock held in Nairobi CBD.
+Delivery across Kenya including Kisumu, Nakuru, Eldoret, and Mombasa.
+M-Pesa and bank transfer accepted.
+WhatsApp ordering and walk-in options at The One Mall, River Road.
+
+## Getting the most from this cartridge
+Snip bottle tip cleanly before pouring into tank. Keep spare unopened bottles in cool, dark cabinet storage.
+
+## Frequently asked questions
+Is an XL alternative available? Standard 70ml capacity delivers high yield up to ~4,000 pages.
+Are color inks required too? Yes, must be used with T6642, T6643, and T6644 color bottles.
+How fast is Nairobi delivery? Same-day inside 1 to 3 hours.
+How can I pay? M-Pesa Buy Goods/Till, bank transfer, and cash.
+Is warranty included? Standard shop defect warranty covers unopened bottles.`, "metaTitle": "Epson 664 Black Ink Bottle T6641 Price - Trinatech Kenya", "metaDescription": "Buy genuine Epson T6641 Black ink bottle in Nairobi. 70ml capacity yielding ~4,000 pages for EcoTank L130, L310, L382, L3050. Fast shipping.", "inStock": true},
+  {"id": 5326, "sku": "T6642", "name": "Epson 664 Cyan Ink Bottle 70ML (T6642)", "brand": "Epson", "category": "Epson Ribbons & Inks", "price": 1200, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/Epson-664-Cyan-Ink-Bottle-70ML-T6642.webp", "imageFile": "Epson-664-Cyan-Ink-Bottle-70ML-T6642.webp", "description": `The Epson 664 Cyan Ink Bottle 70ML (T6642) delivers authentic cyan dye ink for Epson EcoTank ITS printers. Formulated to produce clear photo elements, bright graphics, and durable color output in Nairobi.
+
+## Compatible printers
+Epson EcoTank L110
+Epson EcoTank L120
+Epson EcoTank L130
+Epson EcoTank L210
+Epson EcoTank L220
+Epson EcoTank L300
+Epson EcoTank L310
+Epson EcoTank L355
+Epson EcoTank L365
+Epson EcoTank L382
+Epson EcoTank L386
+Epson EcoTank L486
+Epson EcoTank L550
+Epson EcoTank L565
+Epson EcoTank L1300
+Epson EcoTank L3050
+Epson EcoTank L3060
+If your model isn't listed, send us the number from the front of the machine and we'll confirm before you pay.
+
+## Specifications
+| Page yield | Cartridge type | Colour | Capacity | Part number | Genuine or compatible |
+|---|---|---|---|---|---|
+| ~6,500 pages | Refill Ink Bottle | Cyan | 70 ml | T6642 / C13T66424A | Genuine |
+
+## Genuine or compatible?
+Original Genuine Epson ink supply. Royal compatible equivalent 664 bottles fit the same printer reservoirs at lower price points.
+
+## Why buy from Trinatech
+Stock held in Nairobi CBD.
+Delivery across Kenya including Kisumu, Nakuru, Eldoret, and Mombasa.
+M-Pesa and bank transfer accepted.
+WhatsApp ordering and walk-in options at The One Mall, River Road.
+
+## Getting the most from this cartridge
+Pour carefully into the cyan reservoir until full. Seal tip tightly with rubber cap if any residual ink remains.
+
+## Frequently asked questions
+Is an XL version available? Standard 70ml bottle yields up to ~6,500 composite color pages.
+Are colors sold separately? Yes, available per piece for Cyan, Magenta, Yellow, and Black.
+How fast is Nairobi shipping? Delivered within 1 to 3 hours across Nairobi CBD.
+How do I pay? Pay via M-Pesa Buy Goods/Till or bank wire.
+Is warranty included? Covered against manufacturing defects.`, "metaTitle": "Epson 664 Cyan Ink Bottle T6642 Price - Trinatech Kenya", "metaDescription": "Order genuine Epson T6642 Cyan ink bottle in Nairobi. 70ml capacity yielding ~6,500 pages for L130, L310, L382, L3050. Fast delivery.", "inStock": true},
   {"id": 4445, "sku": null, "name": "Epson 664 Ink Bottle", "brand": "Epson", "category": "Inks & Toner Cartridges", "price": 1500, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2025/01/Epson-664-Ink.png", "imageFile": "Epson-664-Ink.png", "description": "The Epson 664 Ink Bottle is designed to meet the printing demands of both home users and businesses, delivering high-quality prints with every use.", "inStock": true},
-  {"id": 5325, "sku": "T6643", "name": "Epson 664 Magneta Ink Bottle 70ML (T6643)", "brand": "Epson", "category": "Epson Ribbons & Inks", "price": 1200, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/Epson-664-Magneta-Ink-Bottle-70ML-T6643.webp", "imageFile": "Epson-664-Magneta-Ink-Bottle-70ML-T6643.webp", "description": "EPSON 664 MAGNETA INK BOTTLE 70ML (T6643)", "inStock": true},
-  {"id": 5324, "sku": "T6644", "name": "Epson 664 Yellow Ink Bottle 70ML (T6644)", "brand": "Epson", "category": "Epson Ribbons & Inks", "price": 1200, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/Epson-664-Yellow-Ink-Bottle-70ML-T6644.webp", "imageFile": "Epson-664-Yellow-Ink-Bottle-70ML-T6644.webp", "description": "EPSON 664 YELLOW INK BOTTLE 70ML (T6644)", "inStock": true},
-  {"id": 5323, "sku": null, "name": "Epson 664/673 Refill Ink Compatible Ink Each", "brand": "Epson", "category": "Epson Ribbons & Inks", "price": 400, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/Epson-664-673-Refill-Ink-Compatible-Ink-Each.webp", "imageFile": "Epson-664-673-Refill-Ink-Compatible-Ink-Each.webp", "description": "EPSON 664/673 REFILL INK COMPATIBLE INK EACH", "inStock": true},
+  {"id": 5325, "sku": "T6643", "name": "Epson 664 Magneta Ink Bottle 70ML (T6643)", "brand": "Epson", "category": "Epson Ribbons & Inks", "price": 1200, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/Epson-664-Magneta-Ink-Bottle-70ML-T6643.webp", "imageFile": "Epson-664-Magneta-Ink-Bottle-70ML-T6643.webp", "description": `The Epson 664 Magneta Ink Bottle 70ML (T6643) provides original magenta dye ink for Epson L-series EcoTank desktop printers. Engineered for smooth photo shading, rich magenta tones, and reliable page throughput across Kenya.
+
+## Compatible printers
+Epson EcoTank L110
+Epson EcoTank L120
+Epson EcoTank L130
+Epson EcoTank L210
+Epson EcoTank L220
+Epson EcoTank L300
+Epson EcoTank L310
+Epson EcoTank L355
+Epson EcoTank L365
+Epson EcoTank L382
+Epson EcoTank L386
+Epson EcoTank L486
+Epson EcoTank L550
+Epson EcoTank L565
+Epson EcoTank L1300
+Epson EcoTank L3050
+Epson EcoTank L3060
+If your model isn't listed, send us the number from the front of the machine and we'll confirm before you pay.
+
+## Specifications
+| Page yield | Cartridge type | Colour | Capacity | Part number | Genuine or compatible |
+|---|---|---|---|---|---|
+| ~6,500 pages | Refill Ink Bottle | Magenta | 70 ml | T6643 / C13T66434A | Genuine |
+
+## Genuine or compatible?
+Genuine Original Epson product entry. Royal compatible brand 664 bottles are stocked to help cut costs on regular color printing.
+
+## Why buy from Trinatech
+Stock held in Nairobi CBD.
+Delivery across Kenya including Kisumu, Nakuru, Eldoret, and Mombasa.
+M-Pesa and bank transfer accepted.
+WhatsApp ordering and walk-in options at The One Mall, River Road.
+
+## Getting the most from this cartridge
+Store in cool ambient conditions. Avoid touching nozzle tip to prevent dust contamination during tank refill.
+
+## Frequently asked questions
+Is an XL alternative available? Extended 70ml bottle yield delivers up to ~6,500 pages.
+Do I need other colors? Yes, must be paired with Black, Cyan, and Yellow 664 bottles.
+What is delivery speed in Nairobi? Delivered within 1 to 3 hours in Nairobi CBD.
+How can I pay? Pay via M-Pesa, bank wire, or cash.
+Is warranty provided? Covered against factory defects.`, "metaTitle": "Epson 664 Magenta Ink Bottle T6643 Price - Trinatech", "metaDescription": "Buy genuine Epson T6643 Magenta ink bottle in Nairobi. 70ml capacity yielding ~6,500 pages for L130, L310, L382. Fast Kenya delivery.", "inStock": true},
+  {"id": 5324, "sku": "T6644", "name": "Epson 664 Yellow Ink Bottle 70ML (T6644)", "brand": "Epson", "category": "Epson Ribbons & Inks", "price": 1200, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/Epson-664-Yellow-Ink-Bottle-70ML-T6644.webp", "imageFile": "Epson-664-Yellow-Ink-Bottle-70ML-T6644.webp", "description": `The Epson 664 Yellow Ink Bottle 70ML (T6644) supplies authentic yellow dye ink for Epson EcoTank all-in-one printers. Built to produce clear graphic documents, bright charts, and vibrant photos in offices across Kenya.
+
+## Compatible printers
+Epson EcoTank L110
+Epson EcoTank L120
+Epson EcoTank L130
+Epson EcoTank L210
+Epson EcoTank L220
+Epson EcoTank L300
+Epson EcoTank L310
+Epson EcoTank L355
+Epson EcoTank L365
+Epson EcoTank L382
+Epson EcoTank L386
+Epson EcoTank L486
+Epson EcoTank L550
+Epson EcoTank L565
+Epson EcoTank L1300
+Epson EcoTank L3050
+Epson EcoTank L3060
+If your model isn't listed, send us the number from the front of the machine and we'll confirm before you pay.
+
+## Specifications
+| Page yield | Cartridge type | Colour | Capacity | Part number | Genuine or compatible |
+|---|---|---|---|---|---|
+| ~6,500 pages | Refill Ink Bottle | Yellow | 70 ml | T6644 / C13T66444A | Genuine |
+
+## Genuine or compatible?
+Original Genuine Epson ink bottle. Royal compatible brand alternatives fit the same printers at lower prices for daily savings.
+
+## Why buy from Trinatech
+Stock held in Nairobi CBD.
+Delivery across Kenya including Kisumu, Nakuru, Eldoret, and Mombasa.
+M-Pesa and bank transfer accepted.
+WhatsApp ordering and walk-in options at The One Mall, River Road.
+
+## Getting the most from this cartridge
+Keep stored flat away from direct sunlight. Ensure tank plug is firmly seated after filling.
+
+## Frequently asked questions
+Is an XL version available? Standard 70ml capacity delivers high yield up to ~6,500 pages.
+Are all colors required? Yes, active ink levels in all four tanks are mandatory.
+How fast is Nairobi delivery? 1 to 3 hours across Nairobi CBD.
+How do I pay? M-Pesa Buy Goods/Till, bank transfer, or cash.
+Is warranty provided? Covered against factory defect.`, "metaTitle": "Epson 664 Yellow Ink Bottle T6644 Price - Trinatech Kenya", "metaDescription": "Shop genuine Epson T6644 Yellow ink bottle in Nairobi. 70ml capacity yielding ~6,500 pages for L130, L310, L382. Fast Kenya delivery.", "inStock": true},
+  {"id": 5323, "sku": null, "name": "Epson 664/673 Refill Ink Compatible Ink Each", "brand": "Epson", "category": "Epson Ribbons & Inks", "price": 400, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/Epson-664-673-Refill-Ink-Compatible-Ink-Each.webp", "imageFile": "Epson-664-673-Refill-Ink-Compatible-Ink-Each.webp", "description": `The Epson 664/673 Refill Ink Compatible Ink Each provides an economical refill solution for Epson 4-color and 6-color EcoTank printers. Formulated to produce clear black text and vibrant photo prints for high-volume print shops across Kenya.
+
+## Compatible printers
+Epson EcoTank L120
+Epson EcoTank L220
+Epson EcoTank L310
+Epson EcoTank L365
+Epson EcoTank L382
+Epson EcoTank L565
+Epson EcoTank L800
+Epson EcoTank L805
+Epson EcoTank L810
+Epson EcoTank L850
+Epson EcoTank L1300
+Epson EcoTank L1800
+If your model isn't listed, send us the number from the front of the machine and we'll confirm before you pay.
+
+## Specifications
+| Page yield | Cartridge type | Colour | Capacity | Part number | Genuine or compatible |
+|---|---|---|---|---|---|
+| ~4,000 BK / 6,500 Color | Refill Ink Bottle | BK, C, M, Y, LC, LM | 70 ml | T664 / T673 Compatible | Compatible |
+
+## Genuine or compatible?
+This is a Compatible refill ink bottle (including our Royal compatible house brand). It fills the same EcoTank reservoirs as original Epson 664/673 bottles at a reduced cost per page. Original Epson bottles are also stocked.
+
+## Why buy from Trinatech
+Stock held in Nairobi CBD.
+Delivery across Kenya including Kisumu, Nakuru, Eldoret, and Mombasa.
+M-Pesa and bank transfer accepted.
+WhatsApp ordering and walk-in options at The One Mall, River Road.
+
+## Getting the most from this cartridge
+Clean squeeze nozzle tip before refilling tank. Store extra unopened bottles upright in cool room conditions.
+
+## Frequently asked questions
+Are colors sold individually? Yes, priced each per individual color bottle (BK, C, M, Y, Light Cyan, Light Magenta).
+Will it clog my printhead? Micro-filtered dye ink prevents printhead blockages.
+How fast is Nairobi delivery? Delivered within 1 to 3 hours in Nairobi.
+How do I pay? Pay via M-Pesa Buy Goods/Till, bank transfer, or cash.
+Is warranty provided? Covered against manufacturing defects.`, "metaTitle": "Compatible Epson 664 / 673 Ink Bottle - Trinatech Kenya", "metaDescription": "Buy compatible Epson 664 & 673 refill ink bottle in Nairobi. High yield for EcoTank L310, L382, L800, L805. Fast delivery in Kenya.", "inStock": true},
   {"id": 5322, "sku": null, "name": "Epson 673 Black Ink Bottle 70ML", "brand": "Epson", "category": "Epson Ribbons & Inks", "price": 1200, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/Epson-673-Black-Ink-Bottle-70ML.webp", "imageFile": "Epson-673-Black-Ink-Bottle-70ML.webp", "description": "EPSON 673 BLACK INK BOTTLE 70ML", "inStock": true},
   {"id": 5321, "sku": null, "name": "Epson 673 Cyan Ink Bottle 70ML", "brand": "Epson", "category": "Epson Ribbons & Inks", "price": 1200, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/Epson-673-Cyan-Ink-Bottle-70ML.webp", "imageFile": "Epson-673-Cyan-Ink-Bottle-70ML.webp", "description": "EPSON 673 CYAN INK BOTTLE 70ML", "inStock": true},
   {"id": 5320, "sku": "T6736", "name": "Epson 673 Light Magenta Ink Bottle 70ML (T6736)", "brand": "Epson", "category": "Epson Ribbons & Inks", "price": 1200, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/Epson-673-Light-Magenta-Ink-Bottle-70ML-T6736.webp", "imageFile": "Epson-673-Light-Magenta-Ink-Bottle-70ML-T6736.webp", "description": "EPSON 673 LIGHT MAGENTA INK BOTTLE 70ML (T6736)", "inStock": true},

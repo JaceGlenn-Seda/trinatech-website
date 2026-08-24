@@ -48,7 +48,51 @@ Do I need color inks? Yes, if printing color documents; Brother Ink Tank models 
 What is delivery time in Nairobi? Delivered within 1 to 3 hours in Nairobi.
 How do I pay? Pay via M-Pesa Buy Goods/Till or bank transfer.
 Is it easy to refill? Yes, it uses a mess-free key-lock spout mechanism.`, "metaTitle": "Brother BT-D60 BK Ink Bottle Price in Kenya - Trinatech", "metaDescription": "Buy genuine Brother BT-D60 BK high yield black ink in Nairobi. Yields ~7,500 pages. Fast delivery across Kenya. M-Pesa accepted.", "inStock": true},
-  {"id": 5561, "sku": "BT5000C", "name": "Brother BT5000C BT5000Y BT5000M Inks Each", "brand": "Brother", "category": "Brother Toners", "price": 1700, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/BROTHER-Bt5000C-Bt5000Y-Bt5000M-Inks-Each.webp", "imageFile": "BROTHER-Bt5000C-Bt5000Y-Bt5000M-Inks-Each.webp", "description": "Brother BT5000C BT5000Y BT5000M INKS EACH", "inStock": true},
+  {"id": 5561, "sku": "BT5000C", "name": "Brother BT5000C BT5000Y BT5000M Inks Each", "brand": "Brother", "category": "Brother Toners", "price": 1700, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/BROTHER-Bt5000C-Bt5000Y-Bt5000M-Inks-Each.webp", "imageFile": "BROTHER-Bt5000C-Bt5000Y-Bt5000M-Inks-Each.webp", "description": `The Brother BT5000 Color Ink Bottle series (BT5000C, BT5000M, BT5000Y) is engineered for Brother InkBenefit Tank systems. Produces vibrant graphics, photos, and sharp color prints for small offices across Kenya.
+
+## Compatible printers
+Brother DCP-T220
+Brother DCP-T300
+Brother DCP-T310
+Brother DCP-T420W
+Brother DCP-T500W
+Brother DCP-T510W
+Brother DCP-T520W
+Brother DCP-T700W
+Brother DCP-T710W
+Brother DCP-T720DW
+Brother MFC-T800W
+Brother MFC-T820DW
+Brother MFC-T910DW
+Brother MFC-T920DW
+Brother HL-T4000DW
+Brother MFC-T4500DW
+If your model isn't listed, send us the number from the front of the machine and we'll confirm before you pay.
+
+## Specifications
+| Page yield | Cartridge type | Colour | Capacity | Part number | Genuine or compatible |
+|---|---|---|---|---|---|
+| ~5,000 pages each | Refill Ink Bottle | Cyan, Magenta, Yellow | 48.8 ml | BT5000C / BT5000M / BT5000Y | Genuine |
+
+## Genuine or compatible?
+Genuine Original Brother product. Royal compatible color ink alternatives fit the same tank printers at a reduced price point.
+
+## Why buy from Trinatech
+Stock held in Nairobi CBD.
+Delivery across Kenya including Kisumu, Nakuru, Eldoret, and Mombasa.
+M-Pesa and bank transfer accepted.
+WhatsApp ordering and walk-in options at The One Mall, River Road.
+
+## Getting the most from this cartridge
+Store ink bottles vertically in ambient conditions.
+Match bottle color code to correct tank slot when pouring to avoid cross-contamination.
+
+## Frequently asked questions
+Are high-yield alternatives available? BT5000 bottles offer standard ultra-high yields of ~5,000 pages each.
+Do I need all colors? Color printing requires all tanks (C, M, Y) filled.
+How fast is Nairobi delivery? 1 to 3 hours within Nairobi CBD.
+How can I pay? M-Pesa, bank wire, or cash at counter.
+Are colors sold individually? Yes, priced separately per color bottle.`, "metaTitle": "Brother BT5000 Color Ink Bottles Price - Trinatech Kenya", "metaDescription": "Order Brother BT5000 Cyan, Magenta, Yellow ink in Nairobi. Yields ~5,000 pages per color. Fast shipping to Mombasa, Nakuru, Kisumu.", "inStock": true},
   {"id": 5560, "sku": "BT6000B", "name": "Brother BT6000BK Ink Bottle Black", "brand": "Brother", "category": "Brother Toners", "price": 1700, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/Brother-BT6000BK-Ink-Bottle-Black.webp", "imageFile": "Brother-BT6000BK-Ink-Bottle-Black.webp", "description": `The Brother BT6000BK Black Ink Bottle is the original high-yield black ink designed for first-generation Brother Ink Tank printers. Delivers clear dark text and cost-effective daily printing for businesses in Nairobi.
 
 ## Compatible printers

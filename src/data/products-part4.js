@@ -120,8 +120,67 @@ Is warranty provided? Covered against factory defects.`,
   {"id": 5019, "sku": null, "name": "Royal HP Refill Powder 1KG", "brand": "HP", "category": "Royal Toners", "price": 1100, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/08/5019_hp_royal-hp-refill-powder-1kg.jpg-1.png", "imageFile": "5019_hp_royal-hp-refill-powder-1kg.jpg-1.png", "description": "ROYAL HP REFILL POWDER 1KG", "inStock": true},
   {"id": 3582, "sku": null, "name": "Teflon Fuser Film Sleeve For HP Laserjet 1102/1020/1018 Printers", "brand": "HP", "category": "Printer Parts", "price": 1000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2024/12/Teflon-Fuser-Film-Sleeve.png", "imageFile": "Teflon-Fuser-Film-Sleeve.png", "description": "The Teflon Fuser Film Sleeve for HP LaserJet 1102/1020/1018 Printers is an essential replacement part for keeping your HP LaserJet printer running smoothly.", "inStock": true},
   {"id": 3586, "sku": null, "name": "Teflon Fuser Film Sleeve For HP Laserjet 2050/PRO 400 Printers", "brand": "HP", "category": "Printer Parts", "price": 1000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2024/12/Teflon-Fuser-Film-Sleeve.png", "imageFile": "Teflon-Fuser-Film-Sleeve.png", "description": "The Teflon Fuser Film Sleeve for HP LaserJet 2050/PRO 400 Printers is a vital component that ensures smooth and efficient printing.", "inStock": true},
-  {"id": 4424, "sku": null, "name": "Konica Minolta TN216 Toner Cartridge", "brand": "Konica Minolta", "category": "Inks & Toner Cartridges", "price": 3000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2025/01/Konica-Minolta-TN216-Toner.png", "imageFile": "Konica-Minolta-TN216-Toner.png", "description": "Compatible with: Bizhub C220 Bizhub C280", "inStock": true},
-  {"id": 4434, "sku": null, "name": "Konica Minolta TN217 Toner Cartridge", "brand": "Konica Minolta", "category": "Inks & Toner Cartridges", "price": 2200, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2025/01/Konica-Minolta-TN217-Toner.png", "imageFile": "Konica-Minolta-TN217-Toner.png", "description": "Compatible with: Bizhub 223 Bizhub 283 Bizhub 363 Bizhub 423", "inStock": true},
+  {"id": 4424, "sku": null, "name": "Konica Minolta TN216 Toner Cartridge", "brand": "Konica Minolta", "category": "Inks & Toner Cartridges", "price": 3000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2025/01/Konica-Minolta-TN216-Toner.png", "imageFile": "Konica-Minolta-TN216-Toner.png", "description": `The Konica Minolta TN216 Compatible Toner Cartridges ensure your workgroup can continuously output high-quality, professional A3 and A4 documents without frustrating downtime or massive expenses. Formulated to adhere perfectly to the page, this compatible toner provides sharp, smudge-free text and vivid colour graphics. Sold individually (Black, Cyan, Magenta, or Yellow), it is an essential supply for businesses depending on their Konica Minolta Bizhub C220 or C280 multifunction copiers to produce client-ready work economically.
+
+## Compatible printers
+Konica Minolta Bizhub C220
+Konica Minolta Bizhub C280
+If your model isn't listed, send us the number from the front of the machine and we'll confirm before you pay.
+
+## Specifications
+| Page yield | Cartridge type | Colour | Capacity | Part number | Genuine or compatible |
+|---|---|---|---|---|---|
+| ~29,000 (Black) / ~26,000 (Colour) | Laser Toner | Black, Cyan, Magenta OR Yellow | High Yield | TN216 | Compatible
+
+## Genuine or compatible?
+This is a compatible toner cartridge. It is entirely brand new and manufactured to meet standard OEM page yields without the premium price tag. It is not an original Konica Minolta product. We recommend this compatible version for businesses looking to aggressively cut their printing overheads on heavy-duty colour documents without sacrificing page capacity.
+
+## Why buy from Trinatech
+Stock held in Nairobi CBD for fast processing.
+Delivery across Kenya including Kisumu, Nakuru, Eldoret and Mombasa.
+Secure payments via M-Pesa and bank transfer accepted.
+WhatsApp ordering, walk-in at The One Mall River Road.
+
+## Getting the most from this cartridge
+Keep the toner safely stored in its original box until your machine physically prompts for a replacement. Because actual page yield depends heavily on your printing habits, you can extend the life of the toner by encouraging staff to use the copier's black-and-white default setting for emails and drafts, saving the colour toner for when it truly matters.
+
+## Frequently asked questions
+Is there an XL or high-yield alternative? No, these yield ratings are the maximum capacity for this specific model.
+Do I need other colours to print? Yes, Konica Minolta colour copiers require all toners to be installed to function safely.
+What is the delivery time? Same-day within Nairobi CBD; overnight delivery for the rest of Kenya.
+What is your warranty or returns policy? We offer a replacement guarantee on compatible toners that fail out of the box.
+Does the price include all four toners? No, the listed price is per individual colour cartridge.`, "metaTitle": "Konica Minolta TN216 Compatible Toners", "metaDescription": "Compatible Konica Minolta TN216 toner cartridges for Bizhub C220, C280. Available in Black, Cyan, Magenta, Yellow. Delivered across Kenya.", "inStock": true},
+  {"id": 4434, "sku": null, "name": "Konica Minolta TN217 Toner Cartridge", "brand": "Konica Minolta", "category": "Inks & Toner Cartridges", "price": 2200, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2025/01/Konica-Minolta-TN217-Toner.png", "imageFile": "Konica-Minolta-TN217-Toner.png", "description": `The Konica Minolta TN217 Compatible Black Toner Cartridge is a highly dependable, high-volume supply designed for modern Bizhub monochrome multifunction machines. It supports extended document production for contracts, compliance documentation, and bulk internal reports, delivering up to 17,000 pages. Engineered as a cost-effective alternative to the original, this compatible cartridge maintains uniform toner density and reliable page formation across demanding office workloads.
+
+## Compatible printers
+Konica Minolta Bizhub 223
+Konica Minolta Bizhub 283
+Konica Minolta Bizhub 7828
+If your model isn't listed, send us the number from the front of the machine and we'll confirm before you pay.
+
+## Specifications
+| Page yield | Cartridge type | Colour | Capacity | Part number | Genuine or compatible |
+|---|---|---|---|---|---|
+| ~17,000 pages | Laser Toner | Black | Standard | TN217 (Comp) | Compatible
+
+## Genuine or compatible?
+This is a compatible toner cartridge. It is entirely brand new and manufactured to meet standard OEM page yields without the premium price tag. It is not an original Konica Minolta product. We recommend this compatible version for businesses looking to aggressively cut their printing overheads on heavy-duty text documents without sacrificing page capacity.
+
+## Why buy from Trinatech
+Stock held locally in Nairobi CBD.
+Delivery across Kenya including Kisumu, Nakuru, Eldoret and Mombasa.
+M-Pesa and bank transfer accepted securely.
+WhatsApp ordering available, walk-in at The One Mall River Road.
+
+## Getting the most from this cartridge
+Store the cartridge flat in a cool, dry place until needed. Always agitate the toner before installation by rocking the bottle horizontally; this prevents the micro-fine powder from packing tightly during storage and transit. Ensure the machine's toner hopper area is clean of dust before sliding the new cartridge firmly into place.
+
+## Frequently asked questions
+Is there an XL or high-yield alternative? This is the standard maximum-yield product for these specific Bizhub models.
+Do I need other colours to print? No, these copiers only require a single black toner cartridge.
+What is the delivery time? Delivery is completed within the same day in Nairobi, and by the next day countrywide.
+What is your warranty or returns policy? We offer a replacement guarantee on compatible toners that fail out of the box.
+How do I know the toner is empty? The copier's screen will display a clear "Replace Toner" message.`, "metaTitle": "Konica Minolta TN217 Compatible Black Toner", "metaDescription": "Compatible Konica Minolta TN217 black toner, approx 17,000 pages, for Bizhub 223, 283, 7828. Reliable stock at Trinatech Nairobi CBD.", "inStock": true},
   {"id": 4431, "sku": null, "name": "Konica Minolta TN321 Toner Cartridge", "brand": "Konica Minolta", "category": "Inks & Toner Cartridges", "price": 3000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2025/01/Konica-Minolta-TN321-Toner.png", "imageFile": "Konica-Minolta-TN321-Toner.png", "description": `The Konica Minolta TN321 Toner Cartridge is a high-yield polymerized toner supply unit for Konica Minolta bizhub color multifunction copiers. Formulated for precise color matching and sharp line detail across Kenya.
 
 ## Compatible printers
@@ -1260,7 +1319,37 @@ Is warranty provided? Covered against technical and manufacturing defects.`, "me
   {"id": 3489, "sku": null, "name": "Lenovo Ideapad 3 Core I3 4GB/1TB/14\"/UBUNTU Laptop", "brand": "Lenovo", "category": "Laptops", "price": 56000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2024/12/Lenovo-IdeaPad-3-Laptop.png", "imageFile": "Lenovo-IdeaPad-3-Laptop.png", "description": "The Lenovo IdeaPad 3 Core i3 4GB/1TB/14\"/Ubuntu Laptop is designed to offer a blend of performance, portability, and functionality for everyday computing tasks.", "inStock": true},
   {"id": 3487, "sku": null, "name": "Lenovo Ideapad 3 Core I5 4GB/1TB/15.6\" Laptop", "brand": "Lenovo", "category": "Laptops", "price": 65000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2024/12/Lenovo-IdeaPad-3-Laptop.png", "imageFile": "Lenovo-IdeaPad-3-Laptop.png", "description": "The Lenovo IdeaPad 3 Core i5 4GB/1TB/15.6\" Laptop is designed to provide a perfect balance of performance, storage, and affordability.", "inStock": true},
   {"id": 4044, "sku": null, "name": "Mecer 650VA Line Interactive Ups (ME-650-VU)", "brand": "MECER", "category": "UPS", "price": 7000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2025/01/Mecer-UPS.png", "imageFile": "Mecer-UPS.png", "description": "The Mecer 650VA Line Interactive UPS (ME-650-VU) is the perfect solution for protecting your essential electronics against power disruptions, surges, and fluctuations.", "inStock": true},
-  {"id": 5275, "sku": "C220", "name": "Bizhub C220/280/360 Toner TN-216/319", "brand": "Other", "category": "Brother Toners", "price": 3000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/Bizhub-C220-280-360-Toner-TN-216-319.png", "imageFile": "Bizhub-C220-280-360-Toner-TN-216-319.png", "description": "BIZHUB C220/280/360 TONER TN-216/319", "inStock": true},
+  {"id": 5275, "sku": "C220", "name": "Bizhub C220/280/360 Toner TN-216/319", "brand": "Other", "category": "Brother Toners", "price": 3000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/Bizhub-C220-280-360-Toner-TN-216-319.png", "imageFile": "Bizhub-C220-280-360-Toner-TN-216-319.png", "description": `The Konica Minolta TN216 / TN319 Compatible Toner Cartridges are designed as high-volume, cost-saving replacements for some of Konica's most popular A3 colour multifunction machines. Yielding up to 29,000 pages in black and 26,000 pages in colour, this compatible powder delivers exceptional image clarity and vibrant hues. Sold individually so you can replace only the depleted colour, they are a highly reliable choice for businesses producing large volumes of proposals and daily operational reports on a strict budget.
+
+## Compatible printers
+Konica Minolta Bizhub C220
+Konica Minolta Bizhub C280
+Konica Minolta Bizhub C360
+If your model isn't listed, send us the number from the front of the machine and we'll confirm before you pay.
+
+## Specifications
+| Page yield | Cartridge type | Colour | Capacity | Part number | Genuine or compatible |
+|---|---|---|---|---|---|
+| ~29,000 (Black) / ~26,000 (Colour) | Laser Toner | Black, Cyan, Magenta OR Yellow | High Yield | TN216 / TN319 | Compatible
+
+## Genuine or compatible?
+This is a compatible toner cartridge. It is a brand-new unit manufactured to perform just like the original, but it is not an OEM Konica Minolta product. This compatible alternative is perfect for busy back-offices and businesses that need to produce high volumes of colour documents on a tight budget while maintaining professional output quality.
+
+## Why buy from Trinatech
+Reliable stock held in Nairobi CBD.
+Delivery across Kenya including Kisumu, Nakuru, Eldoret and Mombasa.
+M-Pesa and bank transfer accepted.
+WhatsApp ordering, walk-in at The One Mall River Road.
+
+## Getting the most from this cartridge
+Always shake the cylindrical toner bottle vigorously from side to side before inserting it into the copier to ensure the powder feeds correctly from the very first page. The massive 29,000-page black yield is based on 5% page coverage; printing pages with heavy photographic graphics or solid coloured borders will drain the toner considerably faster.
+
+## Frequently asked questions
+Is there an XL or high-yield alternative? These cartridges are already high-yield products suited for heavy production.
+Do I need other colours to print? Yes, the copier requires all four colours to be installed to function safely.
+What is the delivery time? Same-day delivery within Nairobi CBD and next-day for the rest of Kenya.
+What is your warranty or returns policy? We replace any compatible toners that show manufacturing defects upon installation.
+Are TN216 and TN319 interchangeable? Yes, in this compatible format they are designed to fit the C220, C280, and C360 lines perfectly.`, "metaTitle": "Konica Minolta TN216 / TN319 Compatible Toners", "metaDescription": "Compatible Konica Minolta TN216 and TN319 toner cartridges (Cyan, Magenta, Yellow, Black) for Bizhub C220, C280, C360. Priced individually. Kenya delivery.", "inStock": true},
   {"id": 5285, "sku": null, "name": "CPI10 Ink", "brand": "Other", "category": "Master Rolls & Inks", "price": 500, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/CPI10-Ink.webp", "imageFile": "CPI10-Ink.webp", "description": `The CPI10 Ink is a specialized high-volume liquid duplicator ink bottle engineered for Ricoh and Gestetner digital copy printers. Formulated to produce deep, high-contrast monochrome prints on low-cost paper stocks, it is ideal for schools, churches, and printing shops across Kenya.
 
 ## Compatible printers
@@ -1522,7 +1611,36 @@ Is warranty provided? Covered against factory defects.`,
   "metaDescription": "Buy replacement lower pressure roller for laser printers in Nairobi. Fix fuser paper jams and poor toner melting. Fast delivery across Kenya.",
   "inStock": true},
   {"id": 5340, "sku": null, "name": "Rz/Rv B4 Digital Duplicator Master Paper For Rz 220", "brand": "Other", "category": "Riso Master Rolls & Inks", "price": 1700, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/Rz-Rv-B4-Digital-Duplicator-Master-Paper-For-Rz-220.webp", "imageFile": "Rz-Rv-B4-Digital-Duplicator-Master-Paper-For-Rz-220.webp", "description": "RZ/RV B4 DIGITAL DUPLICATOR MASTER PAPER FOR RZ 220", "inStock": true},
-  {"id": 5272, "sku": "TN-221-2", "name": "TN-221 Compatible Toners Each", "brand": "Other", "category": "Brother Toners", "price": 3000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/TN-221-Compatible-Toners-Each.png", "imageFile": "TN-221-Compatible-Toners-Each.png", "description": "TN-221 COMPATIBLE TONERS EACH", "inStock": true},
+  {"id": 5272, "sku": "TN-221-2", "name": "TN-221 Compatible Toners Each", "brand": "Other", "category": "Brother Toners", "price": 3000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/TN-221-Compatible-Toners-Each.png", "imageFile": "TN-221-Compatible-Toners-Each.png", "description": `The Konica Minolta TN221 Compatible Toner Cartridges offer an incredibly economical solution for businesses heavily utilizing their A3 Bizhub colour copiers. Sold individually per colour (Black, Cyan, Magenta, or Yellow), these high-quality replacement toners deliver striking, consistent colour reproduction and sharp text. By opting for these reliable compatibles, you drastically reduce your cost per page without having to compromise on the volume or quality of your internal memos, architectural plans, and marketing materials.
+
+## Compatible printers
+Konica Minolta Bizhub C227
+Konica Minolta Bizhub C287
+If your model isn't listed, send us the number from the front of the machine and we'll confirm before you pay.
+
+## Specifications
+| Page yield | Cartridge type | Colour | Capacity | Part number | Genuine or compatible |
+|---|---|---|---|---|---|
+| ~24,000 (Black) / ~21,000 (Colour) | Laser Toner | Black, Cyan, Magenta OR Yellow | Standard | TN221 (Comp) | Compatible
+
+## Genuine or compatible?
+This is a compatible toner cartridge. It is a brand-new unit manufactured to perform just like the original, but it is not an OEM Konica Minolta product. This compatible alternative is perfect for schools, busy back-offices, and businesses that need to produce high volumes of colour documents on a strict budget.
+
+## Why buy from Trinatech
+Stock held in Nairobi CBD for rapid deployment.
+Delivery across Kenya including Kisumu, Nakuru, Eldoret and Mombasa.
+M-Pesa and bank transfer accepted.
+WhatsApp ordering, walk-in at The One Mall River Road.
+
+## Getting the most from this cartridge
+Always store spare toners horizontally in a dry place. The micro-fine powder can clump if exposed to high humidity or extreme heat. When installing, remember to pull the plastic tab out smoothly to avoid spilling toner dust. Setting your copier defaults to lower density for everyday tasks will significantly extend the life of these cartridges.
+
+## Frequently asked questions
+Is there an XL or high-yield alternative? These toners already offer high capacities of up to 24,000 pages for black.
+Do I need other colours to print? Yes, the machine will halt all printing if any single colour runs completely empty.
+What is the delivery time? We offer same-day delivery in Nairobi CBD, and next-day dispatch countrywide.
+What is your warranty or returns policy? We replace any compatible toners that show manufacturing defects upon installation.
+Can I buy just the black toner? Yes, they are sold individually, so you only order the colour you need.`, "metaTitle": "Konica Minolta TN221 Compatible Toners", "metaDescription": "Compatible Konica Minolta TN221 toner cartridges (CMYK) for Bizhub C227, C287. Sold individually per colour. Fast delivery anywhere in Kenya.", "inStock": true},
   {"id": 5271, "sku": "TN-221", "name": "TN-221 Toner Cartridge Each", "brand": "Other", "category": "Brother Toners", "price": 3000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/TN-221-Compatible-Toners-Each.png", "imageFile": "TN-221-Compatible-Toners-Each.png", "description": `The TN-221 Toner Cartridge Each (Brother TN-221 series) provides reliable, high-quality printing for Brother digital LED color printers. Engineered to produce sharp monochrome text and vibrant graphics for small offices across Kenya.
 
 ## Compatible printers
@@ -1587,8 +1705,68 @@ Are colors sold individually? Yes, priced separately per color unit.
 How fast is Nairobi shipping? Delivered same-day in 1 to 3 hours across Nairobi CBD.
 How do I pay? Pay via M-Pesa Buy Goods/Till or bank transfer.
 Is warranty provided? Covered against technical defects.`, "metaTitle": "Konica Minolta TN-321 Toner Price - Trinatech Kenya", "metaDescription": "Buy Konica Minolta TN-321 toner in Nairobi. Yields ~27,000 BK / 25,000 CMY pages for bizhub C224e, C284e, C364e. Fast delivery Kenya.", "inStock": true},
-  {"id": 5274, "sku": "TN210", "name": "TN210 Toner Cartridge Each", "brand": "Other", "category": "Brother Toners", "price": 3000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/TN210-Toner-Cartridge-Each.png", "imageFile": "TN210-Toner-Cartridge-Each.png", "description": "TN210 TONER CARTRIDGE EACH", "inStock": true},
-  {"id": 5273, "sku": "TN216", "name": "TN216 Tonr Original Cartridge Each", "brand": "Other", "category": "Brother Toners", "price": 3000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/TN216-Tonr-Original-Cartridge-Each.png", "imageFile": "TN216-Tonr-Original-Cartridge-Each.png", "description": "TN216 TONR ORIGINAL CARTRIDGE EACH", "inStock": true},
+  {"id": 5274, "sku": "TN210", "name": "TN210 Toner Cartridge Each", "brand": "Other", "category": "Brother Toners", "price": 3000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/TN210-Toner-Cartridge-Each.png", "imageFile": "TN210-Toner-Cartridge-Each.png", "description": `The Konica Minolta TN210 Compatible Toner Cartridges offer an incredibly economical solution for businesses utilizing classic Konica Minolta Bizhub colour copiers. Sold individually per colour (Black, Cyan, Magenta, or Yellow), these high-quality replacement toners deliver consistent colour reproduction and sharp text. By opting for these reliable compatibles, you drastically reduce your cost per page without having to compromise on the volume or quality of your internal memos and daily paperwork.
+
+## Compatible printers
+Konica Minolta Bizhub C250
+Konica Minolta Bizhub C250P
+Konica Minolta Bizhub C252
+Konica Minolta Bizhub C252P
+If your model isn't listed, send us the number from the front of the machine and we'll confirm before you pay.
+
+## Specifications
+| Page yield | Cartridge type | Colour | Capacity | Part number | Genuine or compatible |
+|---|---|---|---|---|---|
+| ~20,000 (Black) / ~12,000 (Colour) | Laser Toner | Black, Cyan, Magenta OR Yellow | Standard | TN210 | Compatible
+
+## Genuine or compatible?
+This is a compatible toner cartridge. It is entirely brand new and manufactured to meet standard OEM page yields without the premium price tag. It is not an original Konica Minolta product. We recommend this compatible version for businesses looking to aggressively cut their printing overheads on daily colour documents without sacrificing page capacity.
+
+## Why buy from Trinatech
+Stock held locally in Nairobi CBD.
+Delivery across Kenya including Kisumu, Nakuru, Eldoret and Mombasa.
+M-Pesa and bank transfer accepted securely.
+WhatsApp ordering available, walk-in at The One Mall River Road.
+
+## Getting the most from this cartridge
+Always store spare toners horizontally in a dry place. The micro-fine powder can clump if exposed to high humidity or extreme heat. When installing, remember to pull the plastic tab out smoothly to avoid spilling toner dust. Setting your copier defaults to lower density for everyday tasks will significantly extend the life of these cartridges.
+
+## Frequently asked questions
+Is there an XL or high-yield alternative? These toners already offer high capacities suited for this generation of copiers.
+Do I need other colours to print? Yes, the machine will halt all printing if any single colour runs completely empty.
+What is the delivery time? We offer same-day delivery in Nairobi CBD, and next-day dispatch countrywide.
+What is your warranty or returns policy? We offer a replacement guarantee on compatible toners that fail out of the box.
+Can I buy just the black toner? Yes, they are sold individually, so you only order the colour you need.`, "metaTitle": "Konica Minolta TN210 Compatible Toners", "metaDescription": "Compatible Konica Minolta TN210 toner cartridges (CMYK) for Bizhub C250, C252. Sold individually. Fast delivery across Kenya via WhatsApp.", "inStock": true},
+  {"id": 5273, "sku": "TN216", "name": "TN216 Tonr Original Cartridge Each", "brand": "Other", "category": "Brother Toners", "price": 3000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/TN216-Tonr-Original-Cartridge-Each.png", "imageFile": "TN216-Tonr-Original-Cartridge-Each.png", "description": `The Konica Minolta TN216 Original Toner Cartridges provide the premium, fast-drying powder your heavy-duty Bizhub machine requires to output stunning colour documents at high speeds. Whether you are printing A3 architectural plans or hundreds of double-sided reports, these high-capacity genuine toners ensure smooth, streak-free results. Available individually in Black, Cyan, Magenta, or Yellow, they keep your enterprise-level copier running flawlessly and protect your expensive imaging units.
+
+## Compatible printers
+Konica Minolta Bizhub C220
+Konica Minolta Bizhub C280
+If your model isn't listed, send us the number from the front of the machine and we'll confirm before you pay.
+
+## Specifications
+| Page yield | Cartridge type | Colour | Capacity | Part number | Genuine or compatible |
+|---|---|---|---|---|---|
+| ~29,000 (Black) / ~26,000 (Colour) | Laser Toner | Black, Cyan, Magenta OR Yellow | High Yield | TN216 | Genuine
+
+## Genuine or compatible?
+This is a 100% genuine, Original Konica Minolta toner. Genuine supplies are critical for maintaining the health of your copier's sensitive internal components over years of heavy use. For customers doing massive volumes of draft-quality internal printing, our Royal compatible equivalent is available—it fits seamlessly into the same machines at a much lower price, offering a highly practical trade-off.
+
+## Why buy from Trinatech
+Reliable stock held in Nairobi CBD.
+Delivery across Kenya including Kisumu, Nakuru, Eldoret and Mombasa.
+M-Pesa and bank transfer accepted.
+WhatsApp ordering, walk-in at The One Mall River Road.
+
+## Getting the most from this cartridge
+Store spare toner bottles horizontally in a cool, dry place away from direct sunlight. When your copier alerts you of low toner, do not immediately discard the old bottle; the machine will give you ample warning to order a replacement before it completely stops printing. Keep the internal cavity of the copier clean of spilled powder when changing bottles.
+
+## Frequently asked questions
+Is there an XL or high-yield alternative? This is the maximum capacity toner designed for the C220 and C280 series.
+Do I need other colours to print? Yes, all four toners (CMYK) must have powder for the machine to operate safely.
+What is the delivery time? Same-day delivery within Nairobi CBD and next-day for the rest of Kenya.
+What is your warranty or returns policy? Genuine Konica Minolta toners come with a standard manufacturer defect warranty.
+Can I buy the colours separately? Yes, these are priced and sold as individual colours.`, "metaTitle": "Konica Minolta TN216 Original Toners (CMYK)", "metaDescription": "Genuine Konica Minolta TN216 toner cartridges for Bizhub C220, C280. Sold individually (Cyan, Magenta, Yellow, Black). Nairobi stock.", "inStock": true},
   {"id": 5270, "sku": "TN319", "name": "TN319 Toner Cartridge Each", "brand": "Other", "category": "Brother Toners", "price": 3000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/TN319-Toner-Cartridge-Each.png", "imageFile": "TN319-Toner-Cartridge-Each.png", "description": `The TN319 Toner Cartridge Each (Konica Minolta TN319 / TN216 series) supplies original high-capacity toner for Konica Minolta bizhub color laser copiers. Built for smooth solid coverage and deep document contrast in Kenya.
 
 ## Compatible printers

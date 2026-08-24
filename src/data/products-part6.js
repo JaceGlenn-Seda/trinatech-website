@@ -869,10 +869,136 @@ Are color toners needed? No, these digital copiers are monochrome systems.
 How fast is delivery in Nairobi? Delivered within 1 to 3 hours in Nairobi.
 How can I pay? Pay via M-Pesa, bank wire, or cash.
 Is warranty provided? Covered against technical and factory defects.`, "metaTitle": "Sharp MX-237FT Black Toner Cartridge Price - Trinatech", "metaDescription": "Order Sharp MX-237FT black toner cartridge in Nairobi. Yields ~16,000 pages for AR-6020, AR-6023, AR-6026 copiers. Fast shipping Kenya.", "inStock": true},
-  {"id": 5193, "sku": null, "name": "Sharp Mx 237", "brand": "Sharp", "category": "Sharp Toners", "price": 4000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/Sharp-Mx-237.webp", "imageFile": "Sharp-Mx-237.webp", "description": "sharp mx 237", "inStock": true},
-  {"id": 5192, "sku": null, "name": "Sharp Mx 238 Ft", "brand": "Sharp", "category": "Sharp Toners", "price": 4000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/Sharp-Mx-238-Ft.webp", "imageFile": "Sharp-Mx-238-Ft.webp", "description": "sharp mx 238 ft", "inStock": true},
-  {"id": 5191, "sku": null, "name": "Sharp Mx 500", "brand": "Sharp", "category": "Sharp Toners", "price": 4000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/Sharp-Mx-500.webp", "imageFile": "Sharp-Mx-500.webp", "description": "sharp mx 500", "inStock": true},
-  {"id": 5190, "sku": null, "name": "Sharp Mx 560/561/460", "brand": "Sharp", "category": "Sharp Toners", "price": 4000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/Sharp-Mx-560-561-460-1.webp", "imageFile": "Sharp-Mx-560-561-460-1.webp", "description": "sharp mx 560/561/460", "inStock": true},
+  {"id": 5193, "sku": null, "name": "Sharp Mx 237", "brand": "Sharp", "category": "Sharp Toners", "price": 4000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/Sharp-Mx-237.webp", "imageFile": "Sharp-Mx-237.webp", "description": `The Sharp Mx 237 (MX-237FT) Compatible Black Toner Cartridge is a highly dependable, high-volume supply designed for modern Sharp monochrome multifunction machines. It supports extended document production for contracts, compliance documentation, and bulk internal reports, delivering up to 23,000 pages. Engineered as a cost-effective alternative to the original, this compatible cartridge maintains uniform toner density and reliable page formation across demanding office workloads.
+
+## Compatible printers
+Sharp AR-6020V
+Sharp AR-6020DV
+Sharp AR-6023NV
+If your model isn't listed, send us the number from the front of the machine and we'll confirm before you pay.
+
+## Specifications
+| Page yield | Cartridge type | Colour | Capacity | Part number | Genuine or compatible |
+|---|---|---|---|---|---|
+| ~23,000 pages | Laser Toner | Black | High Yield | MX-237FT (Comp) | Compatible
+
+## Genuine or compatible?
+This is a compatible toner cartridge. It is entirely brand new and manufactured to meet standard OEM page yields without the premium price tag. It is not an original Sharp product. We recommend this compatible version for businesses looking to aggressively cut their printing overheads on heavy-duty text documents without sacrificing page capacity.
+
+## Why buy from Trinatech
+Stock held in Nairobi CBD for fast processing.
+Delivery across Kenya including Kisumu, Nakuru, Eldoret and Mombasa.
+Secure payments via M-Pesa and bank transfer accepted.
+WhatsApp ordering, walk-in at The One Mall River Road.
+
+## Getting the most from this cartridge
+Store the cartridge flat in a cool, dry place until needed. Always agitate the toner before installation by rocking the bottle horizontally; this prevents the micro-fine powder from packing tightly during storage and transit. Ensure the machine's toner hopper area is clean of dust before sliding the new cartridge firmly into place.
+
+## Frequently asked questions
+Is there an XL or high-yield alternative? This is a high-yield product providing maximum capacity for these models.
+Do I need other colours to print? No, these copiers only require a single black toner cartridge.
+What is the delivery time? Delivery is completed within the same day in Nairobi, and by the next day countrywide.
+What is your warranty or returns policy? We offer a replacement guarantee on compatible toners that fail out of the box.
+How do I know the toner is empty? The copier's screen will display a clear "Replace Toner" message.`, "metaTitle": "Sharp MX-237FT Compatible Black Toner", "metaDescription": "Compatible Sharp MX-237FT black toner, approx 23,000 pages, for Sharp AR-6020V, AR-6020DV, AR-6023NV. Fast delivery across Kenya.", "inStock": true},
+  {"id": 5192, "sku": null, "name": "Sharp Mx 238 Ft", "brand": "Sharp", "category": "Sharp Toners", "price": 4000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/Sharp-Mx-238-Ft.webp", "imageFile": "Sharp-Mx-238-Ft.webp", "description": `The Sharp Mx 238 Ft (MX-238FT) Compatible Black Toner Cartridge ensures your reliable Sharp digital copier continues to deliver crisp, highly readable text for your everyday office tasks while keeping your budget in check. Formulated for consistency and smooth feeding, this standard-yield compatible toner keeps your workflow moving without annoying streaks or background smudging. Yielding up to 10,000 pages, it is a highly dependable choice for mid-sized offices and schools relying on Sharp machines for their daily document production.
+
+## Compatible printers
+Sharp AR-6020
+Sharp AR-6023N
+Sharp AR-6026N
+Sharp AR-6031N
+Sharp AR-7024
+If your model isn't listed, send us the number from the front of the machine and we'll confirm before you pay.
+
+## Specifications
+| Page yield | Cartridge type | Colour | Capacity | Part number | Genuine or compatible |
+|---|---|---|---|---|---|
+| ~10,000 pages | Laser Toner | Black | Standard | MX-238FT (Comp) | Compatible
+
+## Genuine or compatible?
+This is a compatible toner cartridge. It is a brand-new unit manufactured to perform just like the original, but it is not an OEM Sharp product. This compatible alternative is perfect for schools, busy back-offices, and businesses that need to produce high volumes of monochrome documents on a strict budget.
+
+## Why buy from Trinatech
+Stock held right here in Nairobi CBD.
+Delivery across Kenya including Kisumu, Nakuru, Eldoret and Mombasa.
+M-Pesa and bank transfer accepted.
+WhatsApp ordering, walk-in at The One Mall River Road.
+
+## Getting the most from this cartridge
+Before installing the new toner, hold it horizontally and shake it gently from side to side five or six times to loosen the powder. Keep your copier in a well-ventilated, dry area, as humidity can cause toner powder to clump and print unevenly. To extend the life of the toner, use your machine's toner-save mode for internal drafts.
+
+## Frequently asked questions
+Is there an XL or high-yield alternative? This is the standard volume bottle for this series; there is no official XL version.
+Do I need other colours to print? No, these specific Sharp AR models are monochrome (black and white) copiers.
+What is the delivery time? Same-day delivery for Nairobi CBD, and next-day for the rest of Kenya.
+What is your warranty or returns policy? We replace any compatible toners that show manufacturing defects upon installation.
+How will I know when it is completely empty? The copier's display panel will halt printing and prompt you to replace the toner bottle.`, "metaTitle": "Sharp MX-238FT Compatible Black Toner", "metaDescription": "Compatible Sharp MX-238FT black toner, approx 10,000 pages, for Sharp AR-6020, AR-6023N, AR-7024 copiers. Reliable delivery anywhere in Kenya.", "inStock": true},
+  {"id": 5191, "sku": null, "name": "Sharp Mx 500", "brand": "Sharp", "category": "Sharp Toners", "price": 4000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/Sharp-Mx-500.webp", "imageFile": "Sharp-Mx-500.webp", "description": `The Sharp Mx 500 (MX-500NT) Compatible Black Toner Cartridge is the ultimate cost-saving solution for offices that produce massive volumes of everyday documents on heavy-duty Sharp workgroup copiers. Designed as a direct drop-in replacement, this high-quality compatible toner matches the incredible 40,000-page yield of the original at a fraction of the cost. It delivers deep, reliable black text, making it ideal for internal paperwork, heavy invoice runs, and bustling corporate environments.
+
+## Compatible printers
+Sharp MX-M283N
+Sharp MX-M363N
+Sharp MX-M453N
+Sharp MX-M503N
+If your model isn't listed, send us the number from the front of the machine and we'll confirm before you pay.
+
+## Specifications
+| Page yield | Cartridge type | Colour | Capacity | Part number | Genuine or compatible |
+|---|---|---|---|---|---|
+| ~40,000 pages | Laser Toner | Black | High Yield | MX-500NT (Comp) | Compatible
+
+## Genuine or compatible?
+This is a compatible toner cartridge. It is entirely brand new and manufactured to meet standard OEM page yields without the premium price tag. It is not an original Sharp product. We recommend this compatible version for businesses looking to aggressively cut their printing overheads on heavy-duty text documents without sacrificing page capacity or machine safety.
+
+## Why buy from Trinatech
+Stock held locally in Nairobi CBD.
+Delivery across Kenya including Kisumu, Nakuru, Eldoret and Mombasa.
+M-Pesa and bank transfer accepted securely.
+WhatsApp ordering available, walk-in at The One Mall River Road.
+
+## Getting the most from this cartridge
+Before inserting the new bottle into your Sharp machine, hold it horizontally and rock it back and forth several times to loosen the toner powder. If you notice any light streaks on your copies after several thousand pages, you can often remove the bottle, shake it again, and reinstall it to ensure the powder is feeding evenly into the heavy-duty developer unit.
+
+## Frequently asked questions
+Is there an XL or high-yield alternative? This is a high-capacity compatible matching the massive 40,000-page OEM yield.
+Do I need other colours to print? No, these Sharp models are monochrome machines requiring only black toner.
+What is the delivery time? Same-day for Nairobi CBD; expect next-day delivery for other regions in Kenya.
+What is your warranty or returns policy? We offer a replacement guarantee on compatible toners that fail out of the box.
+Will using a compatible toner break my machine? High-quality compatibles like this one are perfectly safe for daily document printing.`, "metaTitle": "Sharp MX-500NT Compatible Black Toner", "metaDescription": "Compatible Sharp MX-500NT black toner, approx 40,000 pages, for Sharp MX-M283N, MX-M363N, MX-M453N, MX-M503N. Delivered anywhere in Kenya.", "inStock": true},
+  {"id": 5190, "sku": null, "name": "Sharp Mx 560/561/460", "brand": "Sharp", "category": "Sharp Toners", "price": 4000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/Sharp-Mx-560-561-460-1.webp", "imageFile": "Sharp-Mx-560-561-460-1.webp", "description": `The Sharp Mx 560/561/460 Compatible Toner Cartridges are designed as high-volume, cost-saving replacements for a wide variety of Sharp's fastest monochrome enterprise copiers (including the MX-560NT and MX-561NT lines). Yielding up to 40,000 pages, this compatible powder delivers exceptional image clarity and deep blacks for text documents. It is a highly reliable choice for businesses that produce large volumes of proposals, flyers, and daily operational reports on a strict budget.
+
+## Compatible printers
+Sharp MX-M364N
+Sharp MX-M365N
+Sharp MX-M464N
+Sharp MX-M465N
+Sharp MX-M564N
+Sharp MX-M565N
+If your model isn't listed, send us the number from the front of the machine and we'll confirm before you pay.
+
+## Specifications
+| Page yield | Cartridge type | Colour | Capacity | Part number | Genuine or compatible |
+|---|---|---|---|---|---|
+| ~40,000 pages | Laser Toner | Black | High Yield | MX-560NT / MX-561NT (Comp) | Compatible
+
+## Genuine or compatible?
+This is a compatible toner cartridge. It is a brand-new unit manufactured to perform just like the original, but it is not an OEM Sharp product. This compatible alternative is perfect for busy back-offices and businesses that need to produce high volumes of monochrome documents on a tight budget while maintaining professional output quality.
+
+## Why buy from Trinatech
+Reliable stock held in Nairobi CBD.
+Delivery across Kenya including Kisumu, Nakuru, Eldoret and Mombasa.
+M-Pesa and bank transfer accepted.
+WhatsApp ordering, walk-in at The One Mall River Road.
+
+## Getting the most from this cartridge
+Always shake the cylindrical toner bottle vigorously from side to side before inserting it into the copier to ensure the powder feeds correctly from the very first page. The massive 40,000-page black yield is based on 5% page coverage; printing pages with heavy photographic graphics or solid black borders will drain the toner considerably faster.
+
+## Frequently asked questions
+Is there an XL or high-yield alternative? This cartridge is already a high-yield product suited for heavy production.
+Do I need other colours to print? No, these copiers are strictly black-and-white machines.
+What is the delivery time? Same-day delivery within Nairobi CBD and next-day for the rest of Kenya.
+What is your warranty or returns policy? We replace any compatible toners that show manufacturing defects upon installation.
+Are the 560, 561, and 460 the same thing? They are often cross-compatible regional codes for the same physical cartridge shape and yield.`, "metaTitle": "Sharp MX-560NT / MX-561NT Compatible Toner", "metaDescription": "Compatible Sharp MX-560NT and MX-561NT black toner, approx 40,000 pages, for Sharp MX-M364N, MX-M464N series. Nairobi CBD stock.", "inStock": true},
   {"id": 4035, "sku": null, "name": "Toshiba 1TB Canvio Basics Portable External Hard Drive", "brand": "Toshiba", "category": "Computers & Computer Accessories > External Hard Disks", "price": 9000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2025/01/Toshiba-1TB-External-Hard-Drive.png", "imageFile": "Toshiba-1TB-External-Hard-Drive.png", "description": "The Toshiba 1TB Canvio Basics Portable External Hard Drive is the perfect solution for users seeking a reliable, compact, and easy-to-use storage solution.", "inStock": true},
   {"id": 4032, "sku": null, "name": "Toshiba 2TB Canvio Basics Portable External Hard Drive", "brand": "Toshiba", "category": "Computers & Computer Accessories > External Hard Disks", "price": 13000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2025/01/Toshiba-2TB-External-Hard-Drive.png", "imageFile": "Toshiba-2TB-External-Hard-Drive.png", "description": "The Toshiba 2TB Canvio Basics Portable External Hard Drive is the perfect solution for anyone in need of reliable, high-capacity storage.", "inStock": true},
   {"id": 4978, "sku": "T-2507P", "name": "Toshiba T-2507P Toner Cartridge", "brand": "Toshiba", "category": "Toshiba Toners", "price": 4000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/Toshiba-T-2507P-Toner-Cartridge.webp", "imageFile": "Toshiba-T-2507P-Toner-Cartridge.webp", "description": `The Toshiba T-2507P Black Toner Cartridge ensures your reliable legacy Toshiba e-STUDIO copier continues to output high-quality, professional documents without frustrating downtime. Formulated to adhere perfectly to the page, this genuine toner provides sharp, smudge-free text and clear greyscale graphics for up to 12,000 pages. It is an essential supply for businesses and home offices depending on these incredibly durable monochrome machines.

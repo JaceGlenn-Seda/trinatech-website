@@ -112,7 +112,37 @@ What is the delivery time? Same-day delivery within Nairobi CBD and next-day for
 What is your warranty or returns policy? Genuine Ricoh toners come with a standard manufacturer defect warranty.
 Can I refill this bottle manually? We strongly advise against manual refills, as incorrect toner powder will instantly destroy the developer unit.`, "metaTitle": "Ricoh Type 1230D Black Toner Cartridge", "metaDescription": "Genuine Ricoh Type 1230D black toner, approx 9,000 pages, for Aficio 2015, 2018, MP 1600, MP 2000. Delivered anywhere in Kenya from Nairobi.", "inStock": true},
   {"id": 4375, "sku": null, "name": "Cz/Cv Riso Compatible Ink", "brand": "Riso", "category": "Inks & Toner Cartridges", "price": 5000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2025/01/CZCV-Ink.png", "imageFile": "CZCV-Ink.png", "description": "The CZ/CV Riso Compatible Ink is a high-performance ink solution designed to provide exceptional print quality for CZ and CV Riso printers.", "inStock": true},
-  {"id": 5347, "sku": "CZ100-2", "name": "Riso CZ100 (S-7608 A4 Master Roll Compatible For CZ100)", "brand": "Riso", "category": "Riso Master Rolls & Inks", "price": 5000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/Riso-CZ100-S-7608-A4-Master-Roll-Compatible-For-CZ100.webp", "imageFile": "Riso-CZ100-S-7608-A4-Master-Roll-Compatible-For-CZ100.webp", "description": "RISO CZ100 (S-7608 A4 MASTER ROLL COMPATIBLE FOR CZ100", "inStock": true},
+  {"id": 5347, "sku": "CZ100-2", "name": "Riso CZ100 (S-7608 A4 Master Roll Compatible For CZ100)", "brand": "Riso", "category": "Riso Master Rolls & Inks", "price": 5000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/Riso-CZ100-S-7608-A4-Master-Roll-Compatible-For-CZ100.webp", "imageFile": "Riso-CZ100-S-7608-A4-Master-Roll-Compatible-For-CZ100.webp", "description": `The Riso CZ100 (S-7608 A4 Master Roll Compatible For CZ100) provides an economical master roll replacement for Riso CZ-series digital duplicators. Formulated to ensure precise thermal stencil punching for low-cost volume printing in Kenya.
+
+## Compatible printers
+Riso CZ100
+Riso CZ180
+Riso CV1200
+If your model isn't listed, send us the number from the front of the machine and we'll confirm before you pay.
+
+## Specifications
+| Page yield | Cartridge type | Colour | Capacity | Part number | Genuine or compatible |
+|---|---|---|---|---|---|
+| ~200 masters | Duplicator Master Roll | Thermal Master | A4 | S-7608 Compatible | Compatible |
+
+## Genuine or compatible?
+This is a Compatible master roll (including our Royal compatible house brand). It fits the same Riso CZ duplicator drums as original S-7608 rolls at a lower price per master. Original Riso masters are also stocked.
+
+## Why buy from Trinatech
+Stock held in Nairobi CBD.
+Delivery across Kenya including Kisumu, Nakuru, Eldoret, and Mombasa.
+M-Pesa and bank transfer accepted.
+WhatsApp ordering and walk-in options at The One Mall, River Road.
+
+## Getting the most from this cartridge
+Keep roll sealed until installation. Handle by core ends to keep oil and dust off the delicate master film surface.
+
+## Frequently asked questions
+Will it damage the thermal head? No, high-grade micro-porous film runs safely without harming thermal printheads.
+How many prints per master? Each cut master handles 1,000+ print copies smoothly.
+How fast is delivery in Nairobi? Delivered within 1 to 3 hours in Nairobi.
+How do I pay? Pay via M-Pesa Buy Goods/Till, bank transfer, or cash.
+Is warranty provided? Covered against manufacturing defects.`, "metaTitle": "Compatible Riso CZ100 A4 Master Roll - Trinatech Kenya", "metaDescription": "Order compatible Riso CZ100 S-7608 A4 master roll in Nairobi. High yield thermal master roll for Riso CZ100 & CZ180. Fast Kenya delivery." true},
   {"id": 5348, "sku": "S-4877", "name": "Riso Cz 100 Black Ink S-4877", "brand": "Riso", "category": "Riso Master Rolls & Inks", "price": 5500, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/Riso-Cz-100-Black-Ink-S-4877.webp", "imageFile": "Riso-Cz-100-Black-Ink-S-4877.webp", "description": `The Riso CZ 100 Black Ink (S-4877) is an essential, high-volume supply for Riso's compact digital duplicator series. Engineered to produce exceptionally sharp, clear text on high-speed print runs, this 800ml ink tube is a staple for schools, churches, and print shops across Kenya. By using this genuine supply, you ensure your duplicator runs reliably without the messy ink buildup or paper jams often caused by incorrect ink viscosities.
 
 ## Compatible printers
@@ -145,10 +175,108 @@ Do I need other colours to print? No, the CZ series is typically operated as a s
 What is the delivery time? Delivery is completed within the same day in Nairobi, and by the next day countrywide.
 What is your warranty or returns policy? We honour standard Riso warranties for factory-sealed, genuine items.
 Why is my paper sticking to the drum? The ink density setting may be too high, or you may be using paper that is too thin.`, "metaTitle": "Riso CZ 100 Black Ink (S-4877)", "metaDescription": "Genuine Riso CZ 100 black duplicator ink (S-4877), approx 800ml, for Riso CZ 100 and CZ 180 machines. Fast delivery from Trinatech Nairobi.", "inStock": true},
-  {"id": 5278, "sku": "CZ100", "name": "Riso Cz A4 Master Original For CZ100 (S-7608)", "brand": "Riso", "category": "Master Rolls & Inks", "price": 5500, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/Riso-Cz-A4-Master-Original-For-CZ100-S-7608.webp", "imageFile": "Riso-Cz-A4-Master-Original-For-CZ100-S-7608.webp", "description": "RISO CZ A4 MASTER ORIGINAL FOR CZ100 (S-7608", "inStock": true},
+  {"id": 5278, "sku": "CZ100", "name": "Riso Cz A4 Master Original For CZ100 (S-7608)", "brand": "Riso", "category": "Master Rolls & Inks", "price": 5500, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/Riso-Cz-A4-Master-Original-For-CZ100-S-7608.webp", "imageFile": "Riso-Cz-A4-Master-Original-For-CZ100-S-7608.webp", "description": `The Riso Cz A4 Master Original For CZ100 (S-7608) is an authentic high-resolution thermal master roll for Riso CZ desktop digital duplicators. Delivers precise text definition and clean graphic contrast for schools and offices across Kenya.
+
+## Compatible printers
+Riso CZ100
+Riso CZ180
+Riso CV1200
+If your model isn't listed, send us the number from the front of the machine and we'll confirm before you pay.
+
+## Specifications
+| Page yield | Cartridge type | Colour | Capacity | Part number | Genuine or compatible |
+|---|---|---|---|---|---|
+| ~200 masters | Duplicator Master Roll | Thermal Master | A4 | S-7608 | Genuine |
+
+## Genuine or compatible?
+Original Genuine Riso master roll in factory sealed box. Royal compatible S-7608 alternative rolls are also available for budget-conscious duplicator operations.
+
+## Why buy from Trinatech
+Stock held in Nairobi CBD.
+Delivery across Kenya including Kisumu, Nakuru, Eldoret, and Mombasa.
+M-Pesa and bank transfer accepted.
+WhatsApp ordering and walk-in options at The One Mall, River Road.
+
+## Getting the most from this cartridge
+Store in cool ambient conditions. Align core flange guide clips securely when inserting roll into the master clamp unit.
+
+## Frequently asked questions
+Is a compatible version available? Yes, generic/compatible S-7608 master rolls are stocked at lower prices.
+What ink does it require? Must be used with Riso CZ-type black duplicator ink tubes.
+How fast is Nairobi delivery? Same-day inside 1 to 3 hours.
+How do I pay? Pay via M-Pesa or direct bank wire.
+Is warranty included? Covered under manufacturer quality warranty.`, "metaTitle": "Genuine Riso CZ A4 Master Roll S-7608 - Trinatech Kenya", "metaDescription": "Buy genuine Riso CZ A4 master roll S-7608 in Nairobi. Yields ~200 masters for Riso CZ100 & CZ180 digital duplicators. Fast shipping." true},
   {"id": 5346, "sku": null, "name": "Riso Rz Digital Duplicator Original Ink", "brand": "Riso", "category": "Riso Master Rolls & Inks", "price": 1700, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/Riso-Rz-Digital-Duplicator-Original-Ink.webp", "imageFile": "Riso-Rz-Digital-Duplicator-Original-Ink.webp", "description": "RISO RZ DIGITAL DUPLICATOR ORIGINAL INK", "inStock": true},
-  {"id": 5345, "sku": null, "name": "Riso Rz Type A4-L Master Standard", "brand": "Riso", "category": "Riso Master Rolls & Inks", "price": 1800, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/Riso-Rz-Type-A4-L-Master-Standard.webp", "imageFile": "Riso-Rz-Type-A4-L-Master-Standard.webp", "description": "RISO RZ TYPE A4-L MASTER STANDARD", "inStock": true},
-  {"id": 5344, "sku": "S-7041E", "name": "Riso S-7041E A4 Master Roll Digital Duplicator", "brand": "Riso", "category": "Riso Master Rolls & Inks", "price": 5000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/Riso-S-7041E-A4-Master-Roll-Digital-Duplicator.webp", "imageFile": "Riso-S-7041E-A4-Master-Roll-Digital-Duplicator.webp", "description": "RISO S-7041E A4 MASTER ROLL DIGITAL DUPLICATOR", "inStock": true},
+  {"id": 5345, "sku": null, "name": "Riso Rz Type A4-L Master Standard", "brand": "Riso", "category": "Riso Master Rolls & Inks", "price": 1800, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/Riso-Rz-Type-A4-L-Master-Standard.webp", "imageFile": "Riso-Rz-Type-A4-L-Master-Standard.webp", "description": `The Riso Rz Type A4-L Master Standard (S-4250 / S-7041E) is an original thermal master roll designed for Riso RZ and EZ-series digital duplicators. Produces sharp text cut-outs and consistent long-run print quality across Kenya.
+
+## Compatible printers
+Riso RZ 200
+Riso RZ 220
+Riso RZ 230
+Riso RZ 300
+Riso EZ 200
+Riso EZ 220
+Riso EV 2560
+If your model isn't listed, send us the number from the front of the machine and we'll confirm before you pay.
+
+## Specifications
+| Page yield | Cartridge type | Colour | Capacity | Part number | Genuine or compatible |
+|---|---|---|---|---|---|
+| ~220 masters | Duplicator Master Roll | Thermal Master | A4 / Legal | S-4250 / S-7041E | Genuine / Compatible |
+
+## Genuine or compatible?
+Covers original Genuine Riso product entries; Royal compatible brand alternative master rolls fit the same duplicator units at reduced costs.
+
+## Why buy from Trinatech
+Stock held in Nairobi CBD.
+Delivery across Kenya including Kisumu, Nakuru, Eldoret, and Mombasa.
+M-Pesa and bank transfer accepted.
+WhatsApp ordering and walk-in options at The One Mall, River Road.
+
+## Getting the most from this cartridge
+Avoid exposure to high humidity prior to loading. Ensure master disposal box is emptied regularly to prevent master feeding jams.
+
+## Frequently asked questions
+Is an XL roll length available? Standard roll length cuts up to ~220 A4 masters.
+Are color ink drums supported? Yes, master rolls work with both black and color Riso RZ ink drums.
+How fast is Nairobi delivery? Delivered within 1 to 3 hours across Nairobi CBD.
+How can I pay? Pay via M-Pesa, bank wire, or cash.
+Is warranty provided? Standard shop defect warranty covers unopened rolls.`, "metaTitle": "Riso RZ Type A4 Master Roll Price - Trinatech Kenya", "metaDescription": "Shop Riso RZ Type A4 master roll in Nairobi. Yields ~220 masters for Riso RZ, EZ, EV series duplicators. Fast Kenya-wide delivery." true},
+  {"id": 5344, "sku": "S-7041E", "name": "Riso S-7041E A4 Master Roll Digital Duplicator", "brand": "Riso", "category": "Riso Master Rolls & Inks", "price": 5000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/Riso-S-7041E-A4-Master-Roll-Digital-Duplicator.webp", "imageFile": "Riso-S-7041E-A4-Master-Roll-Digital-Duplicator.webp", "description": `The Riso S-7041E A4 Master Roll Digital Duplicator is a high-volume thermal master roll engineered for Riso EZ and RZ digital duplicators. Built for clean stencil cutting and high print throughput for exam papers and booklets in Kenya.
+
+## Compatible printers
+Riso EZ 200
+Riso EZ 220
+Riso EZ 300
+Riso RZ 200
+Riso RZ 220
+Riso RZ 230
+Riso EV 2560
+If your model isn't listed, send us the number from the front of the machine and we'll confirm before you pay.
+
+## Specifications
+| Page yield | Cartridge type | Colour | Capacity | Part number | Genuine or compatible |
+|---|---|---|---|---|---|
+| ~220 masters | Duplicator Master Roll | Thermal Master | A4 | S-7041E / S-4250 | Genuine / Compatible |
+
+## Genuine or compatible?
+Genuine Original Riso product entry. Royal compatible 7041E master rolls fit the same duplicators at a reduced cost per print run.
+
+## Why buy from Trinatech
+Stock held in Nairobi CBD.
+Delivery across Kenya including Kisumu, Nakuru, Eldoret, and Mombasa.
+M-Pesa and bank transfer accepted.
+WhatsApp ordering and walk-in options at The One Mall, River Road.
+
+## Getting the most from this cartridge
+Store in cool dry conditions. Ensure roll drive pin engages correctly with the loading mechanism before closing the top cover.
+
+## Frequently asked questions
+Is a lower-yield alternative available? Standard 220-master yield is standard across Riso A4 rolls.
+What ink does it use? Uses Riso RZ/EZ type black or color ink tubes.
+How long does shipping take? 1 to 3 hours in Nairobi CBD; 24 hours upcountry.
+How can I pay? M-Pesa Buy Goods/Till, bank transfer, or cash.
+Is warranty included? Covered against technical defects.`, "metaTitle": "Riso S-7041E A4 Master Roll Price - Trinatech Kenya", "metaDescription": "Order Riso S-7041E A4 master roll in Nairobi. High yield ~220 masters for Riso EZ & RZ duplicators. Fast delivery across Kenya." true},
   {"id": 5343, "sku": "S-8113E", "name": "Riso S-8113E Ink For Risograph Black 1000ML", "brand": "Riso", "category": "Riso Master Rolls & Inks", "price": 5500, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/Riso-S-8113E-Ink-For-Risograph-Black-1000ML.webp", "imageFile": "Riso-S-8113E-Ink-For-Risograph-Black-1000ML.webp", "description": `The Riso S-8113E Black Ink (FII Type) is a heavy-duty, 1000ml supply designed for Riso's fastest, most advanced digital duplicators. It provides incredibly fast drying times and deep, consistent blacks, allowing you to run thousands of copies per hour without the fear of offsetting or smudging. It is the gold standard for institutions running exam papers, newsletters, and bulk flyers that require dependable quality at high speeds.
 
 ## Compatible printers
@@ -187,7 +315,39 @@ What is the delivery time? Same-day delivery for Nairobi CBD, and 24 hours for t
 What is your warranty or returns policy? Genuine sealed tubes are backed by the manufacturer's warranty against defects.
 How do I unblock the drum? Usually, running 50 to 100 scrap copies will pull fresh ink through and clear minor blockages.`, "metaTitle": "Riso S-8113E FII Type Black Ink 1000ml", "metaDescription": "Genuine Riso S-8113E FII Type black duplicator ink, 1000ml, for Riso SF and SE series machines. Order via WhatsApp for delivery in Kenya.", "inStock": true},
   {"id": 5342, "sku": "S-8131E", "name": "Riso S-8131E Fii Type Duplicator Masters 2 Per Box", "brand": "Riso", "category": "Riso Master Rolls & Inks", "price": 11000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/Riso-S-8131E-Fii-Type-Duplicator-Masters-2-Per-Box.webp", "imageFile": "Riso-S-8131E-Fii-Type-Duplicator-Masters-2-Per-Box.webp", "description": "RISO S-8131E FII TYPE DUPLICATOR MASTERS 2 PER BOX", "inStock": true},
-  {"id": 5341, "sku": "S-8188E", "name": "Riso S-8188E A4 Master Roll Fii Type", "brand": "Riso", "category": "Riso Master Rolls & Inks", "price": 5500, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/Riso-S-8188E-A4-Master-Roll-Fii-Type.webp", "imageFile": "Riso-S-8188E-A4-Master-Roll-Fii-Type.webp", "description": "RISO S-8188E A4 MASTER ROLL FII TYPE", "inStock": true},
+  {"id": 5341, "sku": "S-8188E", "name": "Riso S-8188E A4 Master Roll Fii Type", "brand": "Riso", "category": "Riso Master Rolls & Inks", "price": 5500, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/Riso-S-8188E-A4-Master-Roll-Fii-Type.webp", "imageFile": "Riso-S-8188E-A4-Master-Roll-Fii-Type.webp", "description": `The Riso S-8188E A4 Master Roll Fii Type is an advanced thermal master roll for new-generation Riso SF-series digital duplicators. Formulated to produce razor-sharp image detail, fine line clarity, and high-speed duplicator performance across Kenya.
+
+## Compatible printers
+Riso SF 5030
+Riso SF 5050
+Riso SF 5330
+Riso SF 5350
+Riso SF 9350
+If your model isn't listed, send us the number from the front of the machine and we'll confirm before you pay.
+
+## Specifications
+| Page yield | Cartridge type | Colour | Capacity | Part number | Genuine or compatible |
+|---|---|---|---|---|---|
+| ~220 masters | Duplicator Master Roll | Thermal Master | A4 | S-8188E / FII Type | Genuine |
+
+## Genuine or compatible?
+Original Genuine Riso FII Type master roll. Royal compatible alternative master rolls are also available for budget printing on SF-series duplicators.
+
+## Why buy from Trinatech
+Stock held in Nairobi CBD.
+Delivery across Kenya including Kisumu, Nakuru, Eldoret, and Mombasa.
+M-Pesa and bank transfer accepted.
+WhatsApp ordering and walk-in options at The One Mall, River Road.
+
+## Getting the most from this cartridge
+Keep stored flat in original packaging until ready to use. Ensure the smart chip on the roll core aligns with the reader sensor in the duplicator.
+
+## Frequently asked questions
+Is an XL version available? Standard roll length cuts up to ~220 A4 masters.
+What ink does it require? Requires Riso FII Type / SF black or color ink tubes.
+How fast is Nairobi delivery? Delivered within 1 to 3 hours across Nairobi CBD.
+How do I pay? Pay via M-Pesa or bank wire transfer.
+Is smart chip pre-installed? Yes, genuine RFID core chip included.`, "metaTitle": "Riso S-8188E FII Type A4 Master Roll - Trinatech Kenya", "metaDescription": "Buy genuine Riso S-8188E FII Type A4 master roll in Nairobi. High yield ~220 masters for Riso SF5030 & SF5350 duplicators. Fast shipping." true},
   {"id": 5403, "sku": "CE505A-2", "name": "Royal 05A Black Compatible (CE505A)", "brand": "Royal", "category": "Royal Hp Compatible Toners", "price": 1600, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/08/5403_royal_royal-05a-black-compatible-ce505a.jpg-1.png", "imageFile": "5403_royal_royal-05a-black-compatible-ce505a.jpg-1.png", "description": "ROYAL 05A BLACK COMPATIBLE (CE505A", "inStock": true},
   {"id": 5402, "sku": "W1106A-2", "name": "Royal 106A Compatible Black Toners Cartridge (W1106A)", "brand": "Royal", "category": "Royal Hp Compatible Toners", "price": 2500, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/08/5402_royal_royal-106a-compatible-black-toners-cartridge-w11.jpg-1.png", "imageFile": "5402_royal_royal-106a-compatible-black-toners-cartridge-w11.jpg-1.png", "description": "ROYAL 106A COMPATIBLE BLACK TONERS CARTRIDGE (W1106A", "inStock": true},
   {"id": 5401, "sku": null, "name": "Royal 117A Compatible Toner Each", "brand": "Royal", "category": "Royal Hp Compatible Toners", "price": 2500, "image": null, "imageFile": null, "description": "ROYAL 117A COMPATIBLE TONER EACH", "inStock": true},

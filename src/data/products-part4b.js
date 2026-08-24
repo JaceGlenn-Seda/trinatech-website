@@ -968,7 +968,40 @@ Do I need to replace the ink at the same time? No, the master roll and the black
 What is the delivery time? Same-day delivery within Nairobi CBD and next-day for the rest of Kenya.
 What is your warranty or returns policy? We replace any compatible master rolls that show manufacturing defects upon installation.
 Why are my prints coming out blank? Ensure the master roll is loaded with the correct side facing the thermal head.`, "metaTitle": "Ricoh DX-2430 Compatible Master Roll", "metaDescription": "Compatible Ricoh DX-2430 master roll for Ricoh Priport DX 2330 and DX 2430. Reliable stock at The One Mall River Road, delivering across Kenya.", "inStock": true},
-  {"id": 4362, "sku": null, "name": "Ricoh DX-2430 Master Roll For Ricoh Copy Printer", "brand": "Ricoh", "category": "Inks & Toner Cartridges", "price": 900, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2025/01/Ricoh-DX-2430-Master-Roll.png", "imageFile": "Ricoh-DX-2430-Master-Roll.png", "description": "The Ricoh DX-2430 Master Roll is a premium-quality consumable designed for optimal performance with RICOH DX-2430 copy printers.", "inStock": true},
+  {"id": 4362, "sku": null, "name": "Ricoh DX-2430 Master Roll For Ricoh Copy Printer", "brand": "Ricoh", "category": "Inks & Toner Cartridges", "price": 900, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2025/01/Ricoh-DX-2430-Master-Roll.png", "imageFile": "Ricoh-DX-2430-Master-Roll.png", "description": `The Ricoh DX-2430 Master Roll For Ricoh Copy Printer supplies high-yield thermal master film for Ricoh and Gestetner digital copy printers. Engineered to yield crisp text stencil cuts for high-volume duplicator printing across Kenya.
+
+## Compatible printers
+Gestetner CP 6123B
+Gestetner CP 6123L
+Ricoh Priport DD 5540
+Ricoh Priport DX 2430
+Ricoh Priport JP 1210
+Ricoh Priport JP 1230
+If your model isn't listed, send us the number from the front of the machine and we'll confirm before you pay.
+
+## Specifications
+| Page yield | Cartridge type | Colour | Capacity | Part number | Genuine or compatible |
+|---|---|---|---|---|---|
+| ~100-200 masters | Duplicator Master Roll | Thermal Master | B4 / A4 | C267 / 817100 | Genuine / Compatible |
+
+## Genuine or compatible?
+Covers original Genuine Ricoh master rolls; Royal compatible equivalent master rolls fit the same duplicator drums at lower costs for bulk printing.
+
+## Why buy from Trinatech
+Stock held in Nairobi CBD.
+Delivery across Kenya including Kisumu, Nakuru, Eldoret, and Mombasa.
+M-Pesa and bank transfer accepted.
+WhatsApp ordering and walk-in options at The One Mall, River Road.
+
+## Getting the most from this cartridge
+Store master rolls in a dry, cool cabinet away from heat. Avoid touching the active thermal film surface during master roll loading.
+
+## Frequently asked questions
+Is an XL version available? Standard roll length cuts up to ~100-200 masters depending on paper length.
+Are ink required too? Yes, requires CPI10 / DX2430 liquid ink bottles to print.
+How fast is Nairobi shipping? Delivered within 1 to 3 hours across Nairobi CBD.
+How can I pay? Pay via M-Pesa Buy Goods/Till, bank transfer, or cash.
+Is warranty provided? Covered against technical defects.`, "metaTitle": "Ricoh DX-2430 Master Roll Price - Trinatech Kenya", "metaDescription": "Buy Ricoh DX-2430 master roll in Nairobi. B4/A4 size master roll for DX-2430, DD-5540 digital duplicators. Fast delivery across Kenya." true},
   {"id": 5213, "sku": null, "name": "Ricoh Im 3000/3500/4000 Cymk Toner Cartridges Each", "brand": "Ricoh", "category": "Ricoh Toners", "price": 1700, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/Ricoh-Im-3000-3500-4000-Cymk-Toner-Cartridges-Each.webp", "imageFile": "Ricoh-Im-3000-3500-4000-Cymk-Toner-Cartridges-Each.webp", "description": `The Ricoh IM 3000/3500/4000 Black Toner Cartridge powers Ricoh's modern intelligent monochrome multifunction printers. Designed to support high-speed scanning, copy workflows, and dense document output with sharp dark text.
 
 ## Compatible printers

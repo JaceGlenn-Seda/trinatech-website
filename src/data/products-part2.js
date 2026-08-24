@@ -3027,65 +3027,65 @@ Does it have a wired network port? Yes, Gigabit Ethernet.
 Do you deliver outside Nairobi? Yes — Kisumu, Nakuru, Eldoret, Mombasa and countrywide.`, "metaTitle": "HP 250 G7 Core i3 4GB 1TB Laptop Price in Kenya", "metaDescription": "HP 250 G7 business laptop, Intel Core i3, 4GB RAM, 1TB drive, 15.6-inch. Ships with FreeDOS, no Windows. Nairobi stock, countrywide.", "inStock": true},
   {"id": 3498, "sku": null, "name": "HP 250 G8 10Th Gen Core I7 1TB HDD 8GB RAM 15.6in Laptop", "brand": "HP", "category": "Laptops", "price": 95000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2024/12/HP-250-G8-laptop.png", "imageFile": "HP-250-G8-laptop.png", "description": `The HP 250 G8 10th Gen Core i7 Laptop is a robust, budget-friendly notebook designed to handle heavy multi-tasking and demanding office workloads. Featuring a spacious 1-terabyte hard drive and 8GB of DDR4 RAM, it provides ample storage and memory for all your essential business files, media, and applications. Wrapped in a professional chassis with a crisp 15.6-inch anti-glare display, this laptop is an ideal productivity tool for mobile professionals and corporate workspaces.
 
-    ## Compatible printers
-    HP 250 G8 Notebook PC (Standalone product) If your model isn't listed, send us the number from the front of the machine and we'll confirm before you pay.
+## Compatible printers
+HP 250 G8 Notebook PC (Standalone product) If your model isn't listed, send us the number from the front of the machine and we'll confirm before you pay.
 
-    ## Specifications
+## Specifications
 
-    | Page yield | Cartridge type | Colour | Capacity | Part number | Genuine or compatible |
-    |---|---|---|---|---|---|
-    | N/A | Laptop Computer | Dark Ash Silver | 1TB HDD / 8GB RAM | 2X7T3EA (typical) | Genuine OEM |
+| Page yield | Cartridge type | Colour | Capacity | Part number | Genuine or compatible |
+|---|---|---|---|---|---|
+| N/A | Laptop Computer | Dark Ash Silver | 1TB HDD / 8GB RAM | 2X7T3EA (typical) | Genuine OEM |
 
-    ## Genuine or compatible?
-    This is a 100% genuine, brand-new HP laptop supplied in a factory-sealed box with an official manufacturer warranty. It comes pre-configured with reliable hardware designed to meet enterprise standards. We do not sell compatible or refurbished computers; every unit is an authentic HP device backed by standard support.
+## Genuine or compatible?
+This is a 100% genuine, brand-new HP laptop supplied in a factory-sealed box with an official manufacturer warranty. It comes pre-configured with reliable hardware designed to meet enterprise standards. We do not sell compatible or refurbished computers; every unit is an authentic HP device backed by standard support.
 
-    ## Why buy from Trinatech
-    Stock held in Nairobi CBD for rapid dispatch.
-    Delivery across Kenya including Kisumu, Nakuru, Eldoret and Mombasa.
-    M-Pesa and bank transfer accepted securely.
-    WhatsApp ordering, walk-in at The One Mall River Road.
+## Why buy from Trinatech
+Stock held in Nairobi CBD for rapid dispatch.
+Delivery across Kenya including Kisumu, Nakuru, Eldoret and Mombasa.
+M-Pesa and bank transfer accepted securely.
+WhatsApp ordering, walk-in at The One Mall River Road.
 
-    ## Getting the most from this cartridge
-    To get the best performance out of your HP 250 G8, ensure your operating system and security drivers are regularly updated via Windows Update.
-    If you find file access speeds sluggish due to the traditional mechanical hard drive, consider upgrading your setup in the future by adding an M.2 NVMe SSD for lightning-fast boot times.
-    Always use a padded laptop sleeve when traveling across Kenya to protect the chassis.
+## Getting the most from this cartridge
+To get the best performance out of your HP 250 G8, ensure your operating system and security drivers are regularly updated via Windows Update.
+If you find file access speeds sluggish due to the traditional mechanical hard drive, consider upgrading your setup in the future by adding an M.2 NVMe SSD for lightning-fast boot times.
+Always use a padded laptop sleeve when traveling across Kenya to protect the chassis.
 
-    ## Frequently asked questions
-    Does this laptop come with Windows installed? Software configurations can vary; please confirm the operating system version with our sales team upon ordering.
-    Is the RAM upgradable? Yes, the DDR4 RAM modules can be upgraded as your multitasking demands grow.
-    What is the delivery time? Same-day delivery within Nairobi CBD and next-day dispatch countrywide.
-    What is your warranty or returns policy? It carries a standard 1-year manufacturer hardware warranty.
-    Does it have an optical disk drive? No, modern slim notebooks like the G8 omit DVD drives to maintain a lightweight profile.`, "inStock": true, "metaTitle": "HP 250 G8 10th Gen Core i7 Laptop", "metaDescription": "HP 250 G8 laptop, 10th Gen Core i7, 8GB RAM, 1TB HDD, 15.6-inch display. Reliable business notebook stocked in Nairobi, delivered across Kenya."},
+## Frequently asked questions
+Does this laptop come with Windows installed? Software configurations can vary; please confirm the operating system version with our sales team upon ordering.
+Is the RAM upgradable? Yes, the DDR4 RAM modules can be upgraded as your multitasking demands grow.
+What is the delivery time? Same-day delivery within Nairobi CBD and next-day dispatch countrywide.
+What is your warranty or returns policy? It carries a standard 1-year manufacturer hardware warranty.
+Does it have an optical disk drive? No, modern slim notebooks like the G8 omit DVD drives to maintain a lightweight profile.`, "inStock": true, "metaTitle": "HP 250 G8 10th Gen Core i7 Laptop", "metaDescription": "HP 250 G8 laptop, 10th Gen Core i7, 8GB RAM, 1TB HDD, 15.6-inch display. Reliable business notebook stocked in Nairobi, delivered across Kenya."},
   {"id": 3491, "sku": null, "name": "HP 255 G8 Amd Ryzen 3 Core I5 4GB/1TB/DOS Laptop", "brand": "HP", "category": "Laptops", "price": 55000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2024/12/HP-255-G8-AMD-Ryzen-3-Laptop.png", "imageFile": "HP-255-G8-AMD-Ryzen-3-Laptop.png", "description": `The HP 255 G8 AMD Ryzen 3 Laptop is a practical, value-driven notebook designed for everyday productivity, online learning, and basic administration tasks. Powered by an efficient AMD Ryzen processor paired with 4GB of RAM and a massive 1TB hard drive, it gives you reliable performance for word processing and web browsing alongside plenty of storage for your personal documents. Its durable 15.6-inch anti-glare display minimizes eye strain during extended work sessions in bright office environments.
 
-    ## Compatible printers
-    HP 255 G8 Notebook PC (Standalone product) If your model isn't listed, send us the number from the front of the machine and we'll confirm before you pay.
+## Compatible printers
+HP 255 G8 Notebook PC (Standalone product) If your model isn't listed, send us the number from the front of the machine and we'll confirm before you pay.
 
-    ## Specifications
+## Specifications
 
-    | Page yield | Cartridge type | Colour | Capacity | Part number | Genuine or compatible |
-    |---|---|---|---|---|---|
-    | N/A | Laptop Computer | Dark Ash Silver | 1TB HDD / 4GB RAM | 689T4PA (typical) | Genuine OEM |
+| Page yield | Cartridge type | Colour | Capacity | Part number | Genuine or compatible |
+|---|---|---|---|---|---|
+| N/A | Laptop Computer | Dark Ash Silver | 1TB HDD / 4GB RAM | 689T4PA (typical) | Genuine OEM |
 
-    ## Genuine or compatible?
-    This is a 100% genuine, brand-new HP laptop in original packaging. It is an authentic factory-sealed machine. We provide only genuine hardware to ensure you receive full access to manufacturer support and warranty protection for your investment.
+## Genuine or compatible?
+This is a 100% genuine, brand-new HP laptop in original packaging. It is an authentic factory-sealed machine. We provide only genuine hardware to ensure you receive full access to manufacturer support and warranty protection for your investment.
 
-    ## Why buy from Trinatech
-    Reliable stock held in Nairobi CBD.
-    Delivery across Kenya including Kisumu, Nakuru, Eldoret and Mombasa.
-    M-Pesa and bank transfer accepted.
-    Easy WhatsApp ordering or walk-in at The One Mall River Road.
+## Why buy from Trinatech
+Reliable stock held in Nairobi CBD.
+Delivery across Kenya including Kisumu, Nakuru, Eldoret and Mombasa.
+M-Pesa and bank transfer accepted.
+Easy WhatsApp ordering or walk-in at The One Mall River Road.
 
-    ## Getting the most from this cartridge
-    Because this model typically ships with a DOS operating system, you will need to install your preferred OS (such as Windows 10 or 11) before first use.
-    To maximize the responsiveness of the system running 4GB of RAM, avoid keeping dozens of heavy browser tabs open simultaneously, or consider adding a secondary RAM stick to boost multitasking capabilities.
+## Getting the most from this cartridge
+Because this model typically ships with a DOS operating system, you will need to install your preferred OS (such as Windows 10 or 11) before first use.
+To maximize the responsiveness of the system running 4GB of RAM, avoid keeping dozens of heavy browser tabs open simultaneously, or consider adding a secondary RAM stick to boost multitasking capabilities.
 
-    ## Frequently asked questions
-    Does this laptop include Windows? No, it generally ships with FreeDOS, meaning an operating system must be installed separately.
-    Why does the title say Ryzen 3 and Core i5? The HP 255 series utilizes AMD processors, so this specific configuration runs an AMD Ryzen 3 chip.
-    What is the delivery time? We offer same-day delivery in Nairobi CBD, and next-day delivery nationwide.
-    What is your warranty or returns policy? Backed by a standard 1-year manufacturer hardware warranty.
-    Is the keyboard full-sized? Yes, it includes a dedicated numeric keypad for efficient data entry.`, "inStock": true, "metaTitle": "HP 255 G8 AMD Ryzen 3 Laptop 4GB/1TB", "metaDescription": "HP 255 G8 budget laptop, AMD Ryzen 3, 4GB RAM, 1TB HDD, 15.6-inch anti-glare screen, DOS. Fast nationwide delivery from Trinatech Nairobi."},
+## Frequently asked questions
+Does this laptop include Windows? No, it generally ships with FreeDOS, meaning an operating system must be installed separately.
+Why does the title say Ryzen 3 and Core i5? The HP 255 series utilizes AMD processors, so this specific configuration runs an AMD Ryzen 3 chip.
+What is the delivery time? We offer same-day delivery in Nairobi CBD, and next-day delivery nationwide.
+What is your warranty or returns policy? Backed by a standard 1-year manufacturer hardware warranty.
+Is the keyboard full-sized? Yes, it includes a dedicated numeric keypad for efficient data entry.`, "inStock": true, "metaTitle": "HP 255 G8 AMD Ryzen 3 Laptop 4GB/1TB", "metaDescription": "HP 255 G8 budget laptop, AMD Ryzen 3, 4GB RAM, 1TB HDD, 15.6-inch anti-glare screen, DOS. Fast nationwide delivery from Trinatech Nairobi."},
   {"id": 4145, "sku": null, "name": "HP 26A Black Original Laserjet Toner Cartridge", "brand": "HP", "category": "Inks & Toner Cartridges", "price": 8500, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2025/01/HP-26A-Black-Original-LaserJet-Toner.png", "imageFile": "HP-26A-Black-Original-LaserJet-Toner.png", "description": `The HP 26A black toner cartridge is the genuine Original HP replacement, part number CF226A, for the HP LaserJet Pro M402 and MFP M426 series. These are proper workgroup mono lasers, fast and built for volume, and at 3,100 pages the cartridge matches the machine rather than holding it back.
 
 ## Compatible printers

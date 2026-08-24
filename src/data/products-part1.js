@@ -6,145 +6,145 @@ import { PRODUCTS_1B } from "./products-part1b";
 export const PRODUCTS_1 = [
   {"id": 4051, "sku": null, "name": "Apc Back-Ups 650VA", "brand": "APC", "category": "Computers & Computer Accessories > External Hard Disks", "price": 12000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2025/01/APC-UPS-650VA.png", "imageFile": "APC-UPS-650VA.png", "description": `The APC Back-UPS 650VA is the entry-level battery backup most Kenyan offices start with — a 650VA / 325W unit that keeps a desktop computer, monitor and router alive long enough to save your work and shut down properly when the power goes. It is built for the reality of an unstable grid: as well as holding power during a blackout, it corrects the sags and spikes that quietly damage equipment between outages.
 
-    ## What it works with
+## What it works with
 
-    Rated at 325 watts of real output, this unit is sized for one desktop workstation and its peripherals, not a room full of them. In practice that means a desktop PC plus a monitor, or a router, switch and small NAS, or a single point-of-sale terminal with its receipt printer. APC rates roughly 17 minutes of runtime at a 100W load — enough for a fibre router and ONT to ride out a short outage, or for a desktop user to finish a sentence and shut down cleanly.
+Rated at 325 watts of real output, this unit is sized for one desktop workstation and its peripherals, not a room full of them. In practice that means a desktop PC plus a monitor, or a router, switch and small NAS, or a single point-of-sale terminal with its receipt printer. APC rates roughly 17 minutes of runtime at a 100W load — enough for a fibre router and ONT to ride out a short outage, or for a desktop user to finish a sentence and shut down cleanly.
 
-    It will not run a laser printer. Laser printers draw a very large current spike when the fuser heats, and connecting one to a UPS of this size will trip it or shorten the battery's life sharply. Plug printers into the wall or into a surge-only outlet.
+It will not run a laser printer. Laser printers draw a very large current spike when the fuser heats, and connecting one to a UPS of this size will trip it or shorten the battery's life sharply. Plug printers into the wall or into a surge-only outlet.
 
-    If you are not sure whether your setup fits, send us the wattage from the label on the back of your equipment and we will confirm before you pay.
+If you are not sure whether your setup fits, send us the wattage from the label on the back of your equipment and we will confirm before you pay.
 
-    ## Specifications
+## Specifications
 
-    | Field | Value |
-    |---|---|
-    | Capacity | 650 VA / 325 W |
-    | Topology | Standby with Automatic Voltage Regulation (AVR) |
-    | Nominal voltage | 230V, 50/60Hz |
-    | Runtime | Approx. 17 minutes at 100W load |
-    | Battery | Sealed, maintenance-free lead-acid |
-    | Outlets | 2 universal receptacles (BX650LI-MS variant) |
-    | Cord length | 1.22 m |
-    | Weight | Approx. 4.33 kg |
-    | Warranty | 2 years (manufacturer standard) |
+| Field | Value |
+|---|---|
+| Capacity | 650 VA / 325 W |
+| Topology | Standby with Automatic Voltage Regulation (AVR) |
+| Nominal voltage | 230V, 50/60Hz |
+| Runtime | Approx. 17 minutes at 100W load |
+| Battery | Sealed, maintenance-free lead-acid |
+| Outlets | 2 universal receptacles (BX650LI-MS variant) |
+| Cord length | 1.22 m |
+| Weight | Approx. 4.33 kg |
+| Warranty | 2 years (manufacturer standard) |
 
-    ## Who this is for
+## Who this is for
 
-    Small offices, home workers and shopkeepers who have lost work to a blackout once and do not want it to happen again. It is the cheapest honest way to protect a single machine. If you need to keep a whole counter or several workstations running, you want a 1000VA class unit or larger — talk to us rather than buying two of these.
+Small offices, home workers and shopkeepers who have lost work to a blackout once and do not want it to happen again. It is the cheapest honest way to protect a single machine. If you need to keep a whole counter or several workstations running, you want a 1000VA class unit or larger — talk to us rather than buying two of these.
 
-    ## Why buy from Trinatech
-    Stock held in Nairobi CBD — walk in and collect the same day.
-    Delivery across Kenya including Kisumu, Nakuru, Eldoret and Mombasa.
-    M-Pesa and bank transfer accepted.
-    Order over WhatsApp, or visit us at The One Mall, River Road.
+## Why buy from Trinatech
+Stock held in Nairobi CBD — walk in and collect the same day.
+Delivery across Kenya including Kisumu, Nakuru, Eldoret and Mombasa.
+M-Pesa and bank transfer accepted.
+Order over WhatsApp, or visit us at The One Mall, River Road.
 
-    ## Getting the most from this UPS
+## Getting the most from this UPS
 
-    Leave it charging for a full day before you rely on it — a UPS out of the box is not a UPS with a full battery. Never plug a UPS into an extension cable or another surge protector; run it straight from a wall socket. Expect the internal battery to last roughly three to five years in Kenyan conditions, sooner in hot or dusty rooms, and treat frequent beeping under normal mains as a sign the battery is going rather than a fault in the unit. Every few months, unplug it from the wall on purpose with something harmless connected — that is the only way to know it still holds charge before you need it to.
+Leave it charging for a full day before you rely on it — a UPS out of the box is not a UPS with a full battery. Never plug a UPS into an extension cable or another surge protector; run it straight from a wall socket. Expect the internal battery to last roughly three to five years in Kenyan conditions, sooner in hot or dusty rooms, and treat frequent beeping under normal mains as a sign the battery is going rather than a fault in the unit. Every few months, unplug it from the wall on purpose with something harmless connected — that is the only way to know it still holds charge before you need it to.
 
-    ## Frequently asked questions
-    Will it run my desktop and monitor? Yes, comfortably within the 325W rating — a typical office desktop and 22-inch monitor sits well under it.
-    Can I plug in a printer? Not a laser printer. An inkjet is usually fine, but keep lasers on the wall socket.
-    How long will it last during a blackout? Around 17 minutes at 100W. Heavier loads drain it faster — it is designed to let you shut down safely, not to work through a long outage.
-    Does it protect against surges too? Yes. It includes surge protection and automatic voltage regulation, which steps low and high mains voltage back toward normal without draining the battery.
-    Do you deliver outside Nairobi? Yes — Kisumu, Nakuru, Eldoret, Mombasa and elsewhere in Kenya.`, "metaTitle": "APC Back-UPS 650VA Price in Kenya - Trinatech Nairobi", "metaDescription": "APC Back-UPS 650VA, 325W with AVR and surge protection. Keeps your PC and router running through blackouts. Nairobi stock, delivery countrywide.", "inStock": true},
+## Frequently asked questions
+Will it run my desktop and monitor? Yes, comfortably within the 325W rating — a typical office desktop and 22-inch monitor sits well under it.
+Can I plug in a printer? Not a laser printer. An inkjet is usually fine, but keep lasers on the wall socket.
+How long will it last during a blackout? Around 17 minutes at 100W. Heavier loads drain it faster — it is designed to let you shut down safely, not to work through a long outage.
+Does it protect against surges too? Yes. It includes surge protection and automatic voltage regulation, which steps low and high mains voltage back toward normal without draining the battery.
+Do you deliver outside Nairobi? Yes — Kisumu, Nakuru, Eldoret, Mombasa and elsewhere in Kenya.`, "metaTitle": "APC Back-UPS 650VA Price in Kenya - Trinatech Nairobi", "metaDescription": "APC Back-UPS 650VA, 325W with AVR and surge protection. Keeps your PC and router running through blackouts. Nairobi stock, delivery countrywide.", "inStock": true},
   {"id": 3473, "sku": null, "name": "Asus X515 Celeron 4GB/256SSD/15.6 Laptop", "brand": "Asus", "category": "Laptops", "price": 39000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2024/12/ASUS-Laptop-X515.png", "imageFile": "ASUS-Laptop-X515.png", "description": `The Asus X515 Celeron with 4GB RAM and a 256GB SSD is an entry-level 15.6-inch laptop built for the everyday jobs that make up most people's computer use — email, browsing, Word and Excel, online classes and streaming. The important thing at this price is the SSD: it is what makes the difference between a machine that boots in seconds and one that makes you wait, and it matters more day to day than the processor name does.
 
-    ## What it works with
+## What it works with
 
-    The X515 runs Windows and handles Microsoft 365, Google Workspace, Zoom, Teams and the browser-based systems most Kenyan businesses now use.
+The X515 runs Windows and handles Microsoft 365, Google Workspace, Zoom, Teams and the browser-based systems most Kenyan businesses now use.
 
-    Its port selection covers ordinary office life without an adapter:
+Its port selection covers ordinary office life without an adapter:
 
-    - 1 x USB 3.2 Gen 1 Type-A
-    - 1 x USB 3.2 Gen 1 Type-C
-    - 2 x USB 2.0 Type-A
-    - 1 x HDMI 1.4 — connects to a monitor, TV or projector
-    - 1 x 3.5mm combo audio jack
-    - 1 x DC-in
+- 1 x USB 3.2 Gen 1 Type-A
+- 1 x USB 3.2 Gen 1 Type-C
+- 2 x USB 2.0 Type-A
+- 1 x HDMI 1.4 — connects to a monitor, TV or projector
+- 1 x 3.5mm combo audio jack
+- 1 x DC-in
 
-    Note there is no Ethernet port, so office networks need Wi-Fi or a USB-to-Ethernet adapter, which we stock. A microSD card reader is fitted on some builds but not all.
+Note there is no Ethernet port, so office networks need Wi-Fi or a USB-to-Ethernet adapter, which we stock. A microSD card reader is fitted on some builds but not all.
 
-    ## Specifications
+## Specifications
 
-    | Field | Value |
-    |---|---|
-    | Processor | Intel Celeron N4020, 2 cores, 1.1 GHz up to 2.8 GHz, 4MB cache |
-    | Memory | 4GB DDR4 |
-    | Storage | 256GB M.2 NVMe PCIe 3.0 SSD |
-    | Display | 15.6-inch HD 1366 x 768, anti-glare NanoEdge |
-    | Graphics | Intel UHD Graphics 600 (integrated) |
-    | Wireless | Wi-Fi and Bluetooth |
-    | Camera | VGA webcam |
-    | Audio | Asus SonicMaster, built-in speakers and microphone |
+| Field | Value |
+|---|---|
+| Processor | Intel Celeron N4020, 2 cores, 1.1 GHz up to 2.8 GHz, 4MB cache |
+| Memory | 4GB DDR4 |
+| Storage | 256GB M.2 NVMe PCIe 3.0 SSD |
+| Display | 15.6-inch HD 1366 x 768, anti-glare NanoEdge |
+| Graphics | Intel UHD Graphics 600 (integrated) |
+| Wireless | Wi-Fi and Bluetooth |
+| Camera | VGA webcam |
+| Audio | Asus SonicMaster, built-in speakers and microphone |
 
-    ## Who this is for
+## Who this is for
 
-    Students, first-time buyers, and offices that need a reliable machine for documents and browsing rather than heavy work. Be clear-eyed about the ceiling: the Celeron N4020 is a two-core processor, so it will feel slow if you keep twenty browser tabs open alongside a video call. If your work involves large spreadsheets, photo editing or design software, spend the extra and look at a Core i5 machine instead — we will tell you honestly which side of that line you fall on.
+Students, first-time buyers, and offices that need a reliable machine for documents and browsing rather than heavy work. Be clear-eyed about the ceiling: the Celeron N4020 is a two-core processor, so it will feel slow if you keep twenty browser tabs open alongside a video call. If your work involves large spreadsheets, photo editing or design software, spend the extra and look at a Core i5 machine instead — we will tell you honestly which side of that line you fall on.
 
-    ## Why buy from Trinatech
-    Stock held in Nairobi CBD — come and see the machine before you buy.
-    Delivery across Kenya including Kisumu, Nakuru, Eldoret and Mombasa.
-    M-Pesa and bank transfer accepted.
-    Order over WhatsApp, or walk in at The One Mall, River Road.
+## Why buy from Trinatech
+Stock held in Nairobi CBD — come and see the machine before you buy.
+Delivery across Kenya including Kisumu, Nakuru, Eldoret and Mombasa.
+M-Pesa and bank transfer accepted.
+Order over WhatsApp, or walk in at The One Mall, River Road.
 
-    ## Getting the most from this laptop
+## Getting the most from this laptop
 
-    Keep at least 20GB free on the SSD; NVMe drives slow down noticeably when they fill up, and 256GB goes faster than people expect once Windows and Office are installed. Move photos and videos to an external drive rather than letting them sit in Downloads. With 4GB of RAM, the single biggest thing you can do for speed is close what you are not using — browser tabs are the usual culprit. Charge it fully before first use and avoid leaving it plugged in at 100% all day every day if you can help it, which is easier on the battery over a couple of years.
+Keep at least 20GB free on the SSD; NVMe drives slow down noticeably when they fill up, and 256GB goes faster than people expect once Windows and Office are installed. Move photos and videos to an external drive rather than letting them sit in Downloads. With 4GB of RAM, the single biggest thing you can do for speed is close what you are not using — browser tabs are the usual culprit. Charge it fully before first use and avoid leaving it plugged in at 100% all day every day if you can help it, which is easier on the battery over a couple of years.
 
-    ## Frequently asked questions
-    Can I upgrade the RAM later? Some X515 builds have a spare memory slot and some have memory soldered to the board. Bring the machine in or send us the serial number and we will check before you buy anything.
-    Does it come with Windows installed? Ask us to confirm the Windows version on current stock — it has shipped with both Windows 10 and Windows 11.
-    Is it good for online classes? Yes. Zoom, Teams and Google Meet run fine. Close other applications while you are on a call.
-    Can I connect it to a projector or TV? Yes, through the HDMI port.
-    Do you deliver outside Nairobi? Yes — Kisumu, Nakuru, Eldoret, Mombasa and countrywide.`, "metaTitle": "Asus X515 Celeron 4GB 256GB SSD Laptop Price Kenya", "metaDescription": "Asus X515 with Intel Celeron N4020, 4GB RAM and a 256GB SSD on a 15.6-inch screen. Nairobi stock, delivered across Kenya.", "inStock": true},
+## Frequently asked questions
+Can I upgrade the RAM later? Some X515 builds have a spare memory slot and some have memory soldered to the board. Bring the machine in or send us the serial number and we will check before you buy anything.
+Does it come with Windows installed? Ask us to confirm the Windows version on current stock — it has shipped with both Windows 10 and Windows 11.
+Is it good for online classes? Yes. Zoom, Teams and Google Meet run fine. Close other applications while you are on a call.
+Can I connect it to a projector or TV? Yes, through the HDMI port.
+Do you deliver outside Nairobi? Yes — Kisumu, Nakuru, Eldoret, Mombasa and countrywide.`, "metaTitle": "Asus X515 Celeron 4GB 256GB SSD Laptop Price Kenya", "metaDescription": "Asus X515 with Intel Celeron N4020, 4GB RAM and a 256GB SSD on a 15.6-inch screen. Nairobi stock, delivered across Kenya.", "inStock": true},
   {"id": 3475, "sku": null, "name": "Asus X543U Core I5 8GB1TB15.6WIN 10 Laptop", "brand": "Asus", "category": "Laptops", "price": 63000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2024/12/Asus-X543U-Laptop.png", "imageFile": "Asus-X543U-Laptop.png", "description": `The Asus X543 Core i5 with 8GB RAM and a 1TB hard drive is a 15.6-inch Windows 10 laptop for people who need real storage and enough processor to run several applications at once. The quad-core Core i5-8250U is a genuine step up from the dual-core Celeron and Pentium machines at the price below it, and 8GB of RAM means you are not fighting the machine every time you open a second program.
 
-    ## What it works with
+## What it works with
 
-    Windows 10 with Microsoft 365, Google Workspace, QuickBooks, Sage and the browser-based systems used across Kenyan business. The 1TB hard drive suits people who keep large local files — photographers, videographers, accountants with years of records, anyone who would rather not pay monthly for cloud storage.
+Windows 10 with Microsoft 365, Google Workspace, QuickBooks, Sage and the browser-based systems used across Kenyan business. The 1TB hard drive suits people who keep large local files — photographers, videographers, accountants with years of records, anyone who would rather not pay monthly for cloud storage.
 
-    Ports fitted on this chassis:
+Ports fitted on this chassis:
 
-    - 1 x USB 3.2 Gen 1 Type-A
-    - 2 x USB 2.0 Type-A
-    - 1 x HDMI — for a monitor, TV or projector
-    - 1 x 3.5mm combo audio jack
-    - microSD card reader
+- 1 x USB 3.2 Gen 1 Type-A
+- 2 x USB 2.0 Type-A
+- 1 x HDMI — for a monitor, TV or projector
+- 1 x 3.5mm combo audio jack
+- microSD card reader
 
-    ## Specifications
+## Specifications
 
-    | Field | Value |
-    |---|---|
-    | Processor | Intel Core i5-8250U, 8th gen, 4 cores / 8 threads, 1.6 GHz up to 3.4 GHz, 6MB cache |
-    | Memory | 8GB DDR4 |
-    | Storage | 1TB SATA hard drive, 5400 rpm |
-    | Display | 15.6-inch, anti-glare — resolution to be confirmed on stock |
-    | Graphics | Intel UHD Graphics 620 (integrated) |
-    | Operating system | Windows 10 |
-    | Keyboard | Full size with numeric keypad |
-    | Weight | Approx. 1.9 kg |
+| Field | Value |
+|---|---|
+| Processor | Intel Core i5-8250U, 8th gen, 4 cores / 8 threads, 1.6 GHz up to 3.4 GHz, 6MB cache |
+| Memory | 8GB DDR4 |
+| Storage | 1TB SATA hard drive, 5400 rpm |
+| Display | 15.6-inch, anti-glare — resolution to be confirmed on stock |
+| Graphics | Intel UHD Graphics 620 (integrated) |
+| Operating system | Windows 10 |
+| Keyboard | Full size with numeric keypad |
+| Weight | Approx. 1.9 kg |
 
-    ## Who this is for
+## Who this is for
 
-    Office users, accountants and students who want processing headroom and plenty of storage without moving into a premium price bracket. One honest caveat worth knowing before you buy: this generation of machine uses a mechanical hard drive rather than an SSD. It gives you far more space for the money, but boot times and file opening will feel slower than on an SSD machine — including slower than the cheaper Celeron model on our shelf, which has an SSD. If speed matters more to you than capacity, say so and we will show you the alternatives.
+Office users, accountants and students who want processing headroom and plenty of storage without moving into a premium price bracket. One honest caveat worth knowing before you buy: this generation of machine uses a mechanical hard drive rather than an SSD. It gives you far more space for the money, but boot times and file opening will feel slower than on an SSD machine — including slower than the cheaper Celeron model on our shelf, which has an SSD. If speed matters more to you than capacity, say so and we will show you the alternatives.
 
-    ## Why buy from Trinatech
-    Stock held in Nairobi CBD — see it before you commit.
-    Delivery across Kenya including Kisumu, Nakuru, Eldoret and Mombasa.
-    M-Pesa and bank transfer accepted.
-    Order over WhatsApp, or walk in at The One Mall, River Road.
+## Why buy from Trinatech
+Stock held in Nairobi CBD — see it before you commit.
+Delivery across Kenya including Kisumu, Nakuru, Eldoret and Mombasa.
+M-Pesa and bank transfer accepted.
+Order over WhatsApp, or walk in at The One Mall, River Road.
 
-    ## Getting the most from this laptop
+## Getting the most from this laptop
 
-    A mechanical hard drive rewards a little care: shut the machine down properly rather than closing the lid and moving it, because the drive heads need to park. Restart it once a week; Windows on a hard drive gets noticeably sluggish after long stretches of sleep-only use. If you find it slower than you would like after a year, adding an SSD is usually the single most effective upgrade available on this chassis — bring it in and we will tell you what fits. Keep the vents on the underside clear and do not use it flat on a bed or sofa, which blocks airflow and makes it run hot.
+A mechanical hard drive rewards a little care: shut the machine down properly rather than closing the lid and moving it, because the drive heads need to park. Restart it once a week; Windows on a hard drive gets noticeably sluggish after long stretches of sleep-only use. If you find it slower than you would like after a year, adding an SSD is usually the single most effective upgrade available on this chassis — bring it in and we will tell you what fits. Keep the vents on the underside clear and do not use it flat on a bed or sofa, which blocks airflow and makes it run hot.
 
-    ## Frequently asked questions
-    Is the screen Full HD? Both HD and Full HD versions of this model exist. Ask us to confirm on the unit you are buying — we will check the label rather than guess.
-    Can I add an SSD? In most cases yes. Bring the machine or the serial number and we will confirm what the chassis takes.
-    Does it come with a DVD drive? Some builds in this range have one and some do not. Ask before you buy if it matters to you.
-    Will it handle Photoshop or CAD? Light photo editing, yes. Serious design or CAD work needs a machine with dedicated graphics.
-    Do you deliver outside Nairobi? Yes — Kisumu, Nakuru, Eldoret, Mombasa and countrywide.`, "metaTitle": "Asus X543 Core i5 8GB 1TB 15.6 Laptop Price Kenya", "metaDescription": "Asus X543 with 8th-gen Core i5-8250U, 8GB RAM and a 1TB hard drive. 15.6-inch screen, Windows 10. Nairobi stock, delivery countrywide.", "inStock": true},
+## Frequently asked questions
+Is the screen Full HD? Both HD and Full HD versions of this model exist. Ask us to confirm on the unit you are buying — we will check the label rather than guess.
+Can I add an SSD? In most cases yes. Bring the machine or the serial number and we will confirm what the chassis takes.
+Does it come with a DVD drive? Some builds in this range have one and some do not. Ask before you buy if it matters to you.
+Will it handle Photoshop or CAD? Light photo editing, yes. Serious design or CAD work needs a machine with dedicated graphics.
+Do you deliver outside Nairobi? Yes — Kisumu, Nakuru, Eldoret, Mombasa and countrywide.`, "metaTitle": "Asus X543 Core i5 8GB 1TB 15.6 Laptop Price Kenya", "metaDescription": "Asus X543 with 8th-gen Core i5-8250U, 8GB RAM and a 1TB hard drive. 15.6-inch screen, Windows 10. Nairobi stock, delivery countrywide.", "inStock": true},
   {"id": 5559, "sku": null, "name": "Brother BT-D60 BK Black High Yield Ink Bottle", "brand": "Brother", "category": "Brother Toners", "price": 1700, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/Brother-BT-D60-BK-Black-High-Yield-Ink-Bottle.webp", "imageFile": "Brother-BT-D60-BK-Black-High-Yield-Ink-Bottle.webp", "description": `The Brother BT-D60 BK Black High Yield Ink Bottle is an original ultra-high capacity refill ink bottle designed for Brother InkBenefit Tank printers. Built for demanding home offices and businesses in Nairobi requiring high-volume monochrome document printing with crisp text clarity.
 
 ## Compatible printers

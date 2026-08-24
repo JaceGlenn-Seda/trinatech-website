@@ -5245,63 +5245,63 @@ What is your warranty or returns policy? We honour the standard HP warranty for 
 Why are my prints still banded after replacing the ink? Banding is usually caused by a worn or clogged printhead like this one, not the ink itself.`, "metaTitle": "HP M0H51A Black Replacement Printhead", "metaDescription": "Genuine HP M0H51A black printhead for HP DeskJet GT 5810, GT 5820, Ink Tank 310, 315, 319, 415, 419. Stocked locally in Nairobi, delivered nationwide.", "inStock": true},
   {"id": 3502, "sku": null, "name": "HP M22F Fhd (1080P) Ips Frameless LED Backlit 22-INCH Monitor", "brand": "HP", "category": "Monitors", "price": 27000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2024/12/HP-M22f-Monitor.png", "imageFile": "HP-M22f-Monitor.png", "description": `The HP M22f 21.5-inch Full HD Monitor combines a sleek, frameless design with vibrant IPS panel technology to deliver stunning visuals for your home office or workspace. Featuring a 1080p resolution, wide 178-degree viewing angles, and built-in Eyesafe technology that reduces blue light without distorting colour accuracy, it ensures comfortable viewing during long hours of spreadsheet work or media consumption. Its minimalist silver stand and slim profile make it a stylish addition to any modern desk setup.
 
-    ## Compatible printers
-    HP M22f Display (Standalone product) If your model isn't listed, send us the number from the front of the machine and we'll confirm before you pay.
+## Compatible printers
+HP M22f Display (Standalone product) If your model isn't listed, send us the number from the front of the machine and we'll confirm before you pay.
 
-    ## Specifications
+## Specifications
 
-    | Page yield | Cartridge type | Colour | Capacity | Part number | Genuine or compatible |
-    |---|---|---|---|---|---|
-    | N/A | LED Monitor | Silver / Black | 21.5-inch FHD | 2E2Y3AA | Genuine OEM |
+| Page yield | Cartridge type | Colour | Capacity | Part number | Genuine or compatible |
+|---|---|---|---|---|---|
+| N/A | LED Monitor | Silver / Black | 21.5-inch FHD | 2E2Y3AA | Genuine OEM |
 
-    ## Genuine or compatible?
-    This is a genuine, brand-new HP monitor supplied in its original factory box complete with power adapters and connectivity cables. Authentic HP displays ensure reliable panel performance, accurate factory colour calibration, and full manufacturer support.
+## Genuine or compatible?
+This is a genuine, brand-new HP monitor supplied in its original factory box complete with power adapters and connectivity cables. Authentic HP displays ensure reliable panel performance, accurate factory colour calibration, and full manufacturer support.
 
-    ## Why buy from Trinatech
-    Stock held locally in Nairobi CBD.
-    Delivery across Kenya including Kisumu, Nakuru, Eldoret and Mombasa.
-    M-Pesa and bank transfer accepted securely.
-    WhatsApp ordering available, walk-in at The One Mall River Road.
+## Why buy from Trinatech
+Stock held locally in Nairobi CBD.
+Delivery across Kenya including Kisumu, Nakuru, Eldoret and Mombasa.
+M-Pesa and bank transfer accepted securely.
+WhatsApp ordering available, walk-in at The One Mall River Road.
 
-    ## Getting the most from this cartridge
-    Position your monitor at eye level approximately an arm's length away to prevent neck strain during extended computer use.
-    Utilize the built-in On-Screen Display (OSD) settings to adjust brightness and activate the low blue light mode, especially if working in dimly lit rooms during evening hours.
-    Use an HDMI cable for the clearest digital signal transmission from your PC or laptop.
+## Getting the most from this cartridge
+Position your monitor at eye level approximately an arm's length away to prevent neck strain during extended computer use.
+Utilize the built-in On-Screen Display (OSD) settings to adjust brightness and activate the low blue light mode, especially if working in dimly lit rooms during evening hours.
+Use an HDMI cable for the clearest digital signal transmission from your PC or laptop.
 
-    ## Frequently asked questions
-    Does this monitor have built-in speakers? No, audio output must be handled via external speakers or headphones connected to your PC.
-    Can it be mounted on a wall? No, the M22f model does not feature VESA mounting holes; it is designed for desk stand use only.
-    What is the delivery time? Same-day within Nairobi CBD; overnight delivery for the rest of Kenya.
-    What is your warranty or returns policy? Covered by a standard 1-year manufacturer warranty against display defects.
-    What ports does it include? It features both VGA and HDMI connection ports.`, "inStock": true, "metaTitle": "HP M22f 21.5\" FHD IPS Frameless Monitor", "metaDescription": "HP M22f 21.5-inch FHD (1080p) IPS frameless monitor, anti-glare, eye ease. Perfect for home office setups. Nairobi stock, delivered nationwide."},
+## Frequently asked questions
+Does this monitor have built-in speakers? No, audio output must be handled via external speakers or headphones connected to your PC.
+Can it be mounted on a wall? No, the M22f model does not feature VESA mounting holes; it is designed for desk stand use only.
+What is the delivery time? Same-day within Nairobi CBD; overnight delivery for the rest of Kenya.
+What is your warranty or returns policy? Covered by a standard 1-year manufacturer warranty against display defects.
+What ports does it include? It features both VGA and HDMI connection ports.`, "inStock": true, "metaTitle": "HP M22f 21.5\" FHD IPS Frameless Monitor", "metaDescription": "HP M22f 21.5-inch FHD (1080p) IPS frameless monitor, anti-glare, eye ease. Perfect for home office setups. Nairobi stock, delivered nationwide."},
   {"id": 3444, "sku": null, "name": "HP Scanjet Pro 3600 F1 Scanner", "brand": "HP", "category": "Scanner", "price": 70000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2024/12/HP-ScanJet-Pro-Scanner.png", "imageFile": "HP-ScanJet-Pro-Scanner.png", "description": `The HP ScanJet Pro 3600 f1 Document Scanner is a high-speed, reliable desktop scanner built to streamline paper-heavy workflows in busy corporate environments. Equipped with a 60-sheet automatic document feeder (ADF) and a versatile flatbed scanner for delicate or bound materials, it captures crisp, professional scans at speeds of up to 60 images per minute. It is an indispensable tool for legal firms, accounting offices, and administrative desks looking to digitize archives quickly and accurately.
 
-    ## Compatible printers
-    HP ScanJet Pro 3600 f1 (Standalone product) If your model isn't listed, send us the number from the front of the machine and we'll confirm before you pay.
+## Compatible printers
+HP ScanJet Pro 3600 f1 (Standalone product) If your model isn't listed, send us the number from the front of the machine and we'll confirm before you pay.
 
-    ## Specifications
+## Specifications
 
-    | Page yield | Cartridge type | Colour | Capacity | Part number | Genuine or compatible |
-    |---|---|---|---|---|---|
-    | Up to 3,000 pages/day | Document Scanner | Grey / White | 60-sheet ADF | 20G06A | Genuine OEM |
+| Page yield | Cartridge type | Colour | Capacity | Part number | Genuine or compatible |
+|---|---|---|---|---|---|
+| Up to 3,000 pages/day | Document Scanner | Grey / White | 60-sheet ADF | 20G06A | Genuine OEM |
 
-    ## Genuine or compatible?
-    This is a 100% genuine, brand-new HP scanner in a factory-sealed box. Authentic HP scanning hardware guarantees flawless OCR (optical character recognition) software integration, reliable paper feeding, and full manufacturer warranty protection for your investment.
+## Genuine or compatible?
+This is a 100% genuine, brand-new HP scanner in a factory-sealed box. Authentic HP scanning hardware guarantees flawless OCR (optical character recognition) software integration, reliable paper feeding, and full manufacturer warranty protection for your investment.
 
-    ## Why buy from Trinatech
-    Stock held in Nairobi CBD for rapid dispatch.
-    Delivery across Kenya including Kisumu, Nakuru, Eldoret and Mombasa.
-    M-Pesa and bank transfer accepted.
-    WhatsApp ordering, walk-in at The One Mall River Road.
+## Why buy from Trinatech
+Stock held in Nairobi CBD for rapid dispatch.
+Delivery across Kenya including Kisumu, Nakuru, Eldoret and Mombasa.
+M-Pesa and bank transfer accepted.
+WhatsApp ordering, walk-in at The One Mall River Road.
 
-    ## Getting the most from this cartridge
-    Keep the automatic document feeder rollers and flatbed glass clean of dust and paper residue using a lint-free microfibre cloth to prevent scanning streaks and multi-feed errors.
-    Utilize the included HP scanning software to set up one-touch scan shortcuts directly to searchable PDFs or cloud folders, saving hours of manual file organization.
+## Getting the most from this cartridge
+Keep the automatic document feeder rollers and flatbed glass clean of dust and paper residue using a lint-free microfibre cloth to prevent scanning streaks and multi-feed errors.
+Utilize the included HP scanning software to set up one-touch scan shortcuts directly to searchable PDFs or cloud folders, saving hours of manual file organization.
 
-    ## Frequently asked questions
-    Does it scan both sides of a page automatically? Yes, it features automatic duplex scanning in a single pass.
-    Can I scan passports or thick books? Yes, the integrated flatbed scanner handles fragile or bound media effortlessly.
-    What is the delivery time? Same-day delivery for Nairobi CBD, and 24 hours for the rest of Kenya.
-    What is your warranty or returns policy? Backed by a standard 1-year manufacturer hardware warranty.
-    What connection interface does it use? It connects via a high-speed USB port to your PC or Mac.`, "inStock": true, "metaTitle": "HP ScanJet Pro 3600 f1 Document Scanner", "metaDescription": "HP ScanJet Pro 3600 f1 ADF and flatbed document scanner, up to 60 ppm, 60-sheet automatic document feeder. Fast delivery across Kenya."},
+## Frequently asked questions
+Does it scan both sides of a page automatically? Yes, it features automatic duplex scanning in a single pass.
+Can I scan passports or thick books? Yes, the integrated flatbed scanner handles fragile or bound media effortlessly.
+What is the delivery time? Same-day delivery for Nairobi CBD, and 24 hours for the rest of Kenya.
+What is your warranty or returns policy? Backed by a standard 1-year manufacturer hardware warranty.
+What connection interface does it use? It connects via a high-speed USB port to your PC or Mac.`, "inStock": true, "metaTitle": "HP ScanJet Pro 3600 f1 Document Scanner", "metaDescription": "HP ScanJet Pro 3600 f1 ADF and flatbed document scanner, up to 60 ppm, 60-sheet automatic document feeder. Fast delivery across Kenya."},
 ];

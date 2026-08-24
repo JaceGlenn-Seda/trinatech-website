@@ -2330,11 +2330,189 @@ Is warranty included? Covered against manufacturing defects prior to installatio
   "metaTitle": "Kyocera FS-6525MFP Drum Unit Price - Trinatech Kenya",
   "metaDescription": "Order compatible Kyocera FS-6525MFP drum unit in Nairobi. Replaces DK-475 for FS-6525, FS-6530, TASKalfa 255 copiers. Fast delivery.",
   "inStock": true},
-  {"id": 5247, "sku": null, "name": "Mp 2000 Blade", "brand": "Other", "category": "Maintenance Kits & Spare Parts", "price": 1000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/Mp-2000-Blade.png", "imageFile": "Mp-2000-Blade.png", "description": "mp 2000 blade", "inStock": true},
-  {"id": 5246, "sku": null, "name": "Mp 2000 Drum", "brand": "Other", "category": "Maintenance Kits & Spare Parts", "price": 1800, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/Mp-2000-Drum-scaled.webp", "imageFile": "Mp-2000-Drum-scaled.webp", "description": "mp 2000 drum", "inStock": true},
-  {"id": 5245, "sku": null, "name": "Mp 2000 Fingers", "brand": "Other", "category": "Maintenance Kits & Spare Parts", "price": 1500, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/Mp-2000-Fingers.webp", "imageFile": "Mp-2000-Fingers.webp", "description": "mp 2000 fingers", "inStock": true},
-  {"id": 5244, "sku": null, "name": "Mp 2000 Lower Roller", "brand": "Other", "category": "Maintenance Kits & Spare Parts", "price": 2000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/Mp-2000-Lower-Roller.webp", "imageFile": "Mp-2000-Lower-Roller.webp", "description": "mp 2000 lower roller", "inStock": true},
-  {"id": 5243, "sku": null, "name": "Mp 2000 Upper Fuser Roller", "brand": "Other", "category": "Maintenance Kits & Spare Parts", "price": 1500, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/Mp-2000-Upper-Fuser-Roller.webp", "imageFile": "Mp-2000-Upper-Fuser-Roller.webp", "description": "mp 2000 upper fuser roller", "inStock": true},
+  {"id": 5247, "sku": null, "name": "Mp 2000 Blade", "brand": "Other", "category": "Maintenance Kits & Spare Parts", "price": 1000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/Mp-2000-Blade.png", "imageFile": "Mp-2000-Blade.png", "description": `The Mp 2000 Blade is a high-grade polyurethane cleaning blade designed for Ricoh Aficio monochrome copiers. Formulated to efficiently scrape waste toner off the OPC drum surface, preventing background fog and vertical smudges across office documents in Kenya.
+
+## Compatible printers
+Ricoh Aficio 1015
+Ricoh Aficio 1018
+Ricoh Aficio 2015
+Ricoh Aficio 2018
+Ricoh Aficio MP 1600
+Ricoh Aficio MP 2000
+If your model isn't listed, send us the number from the front of the machine and we'll confirm before you pay.
+
+## Specifications
+| Part type | Cleaning Blade |
+|---|---|
+| Material | Polyurethane / Metal |
+| Machine section | Drum Unit |
+| Part compatibility | MP 2000 / B121-2291 |
+| Genuine or compatible | Compatible |
+
+## Genuine or compatible?
+This is a premium Compatible replacement cleaning blade. Manufactured to exact OEM specifications, offering excellent wear resistance for affordable drum rebuilds.
+
+## Why buy from Trinatech
+Stock held in Nairobi CBD.
+Delivery across Kenya including Kisumu, Nakuru, Eldoret, and Mombasa.
+M-Pesa and bank transfer accepted.
+WhatsApp ordering and walk-in options at The One Mall, River Road.
+
+## Getting the most from this product
+Dust the edge of the new blade lightly with setting powder or toner before installing it against the drum to prevent it from flipping during initial rotation.
+
+## Frequently asked questions
+Will this fix faint black lines on my copies? Yes, vertical lines are typically caused by a nick or wear on the cleaning blade edge.
+Should I replace the drum too? It is recommended to check the OPC drum condition and replace both if necessary.
+How fast is Nairobi delivery? Delivered within 1 to 3 hours in Nairobi CBD.
+How can I pay? Pay via M-Pesa, bank wire, or cash.
+Is warranty provided? Covered against physical manufacturing defects.`, "metaTitle": "Ricoh Aficio MP 2000 Drum Cleaning Blade - Trinatech", "metaDescription": "Buy Ricoh Aficio MP 2000 drum cleaning blade in Nairobi. Fits MP 1600, MP 2000, 1015, 1018 copiers. Fast delivery across Kenya.", "inStock": true},
+  {"id": 5246, "sku": null, "name": "Mp 2000 Drum", "brand": "Other", "category": "Maintenance Kits & Spare Parts", "price": 1800, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/Mp-2000-Drum-scaled.webp", "imageFile": "Mp-2000-Drum-scaled.webp", "description": `The Mp 2000 Drum is a high-durability Organic Photo-Conductor (OPC) cylinder replacement for Ricoh Aficio monochrome digital copiers. Engineered to restore deep black text contrast and eliminate background ghosting on office paperwork in Nairobi.
+
+## Compatible printers
+Ricoh Aficio 1015
+Ricoh Aficio 1018
+Ricoh Aficio 2015
+Ricoh Aficio 2018
+Ricoh Aficio MP 1600
+Ricoh Aficio MP 2000
+If your model isn't listed, send us the number from the front of the machine and we'll confirm before you pay.
+
+## Specifications
+| Part type | OPC Drum Cylinder |
+|---|---|
+| Material | Aluminum / OPC Coating |
+| Machine section | Drum Unit |
+| Part compatibility | MP 2000 Series |
+| Genuine or compatible | Compatible |
+
+## Genuine or compatible?
+This is a premium Compatible OPC drum cylinder. It allows technicians to economically rebuild existing Ricoh drum units without buying the entire OEM assembly housing.
+
+## Why buy from Trinatech
+Stock held in Nairobi CBD.
+Delivery across Kenya including Kisumu, Nakuru, Eldoret, and Mombasa.
+M-Pesa and bank transfer accepted.
+WhatsApp ordering and walk-in options at The One Mall, River Road.
+
+## Getting the most from this product
+Keep the cylinder wrapped in its protective dark paper sleeve until the exact moment of installation to prevent UV light degradation.
+
+## Frequently asked questions
+Does it come with a cleaning blade? No, the cleaning blade is sold separately (see Mp 2000 Blade).
+What is the expected lifespan? Designed to handle multiple maintenance cycles under normal office workloads.
+How fast is Nairobi shipping? Same-day inside 1 to 3 hours.
+How do I pay? M-Pesa Buy Goods/Till or bank wire.
+Is warranty provided? Covered against factory defects prior to installation.`, "metaTitle": "Ricoh Aficio MP 2000 OPC Drum Cylinder Price - Trinatech", "metaDescription": "Order Ricoh Aficio MP 2000 OPC drum cylinder in Nairobi. Compatible with MP 1600, MP 2000, 1018 copiers. Fast Kenya delivery.", "inStock": true},
+  {"id": 5245, "sku": null, "name": "Mp 2000 Fingers", "brand": "Other", "category": "Maintenance Kits & Spare Parts", "price": 1500, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/Mp-2000-Fingers.webp", "imageFile": "Mp-2000-Fingers.webp", "description": `The Mp 2000 Fingers are essential replacement picker/separation fingers for the fuser unit of Ricoh Aficio monochrome copiers. Designed to prevent paper from wrapping around the hot upper heat roller, eliminating accordion jams.
+
+## Compatible printers
+Ricoh Aficio 1015
+Ricoh Aficio 1018
+Ricoh Aficio 2015
+Ricoh Aficio 2018
+Ricoh Aficio MP 1600
+Ricoh Aficio MP 2000
+If your model isn't listed, send us the number from the front of the machine and we'll confirm before you pay.
+
+## Specifications
+| Part type | Separation / Picker Finger |
+|---|---|
+| Function | Paper stripping |
+| Machine section | Fuser Unit |
+| Part compatibility | MP 2000 Series |
+| Genuine or compatible | Compatible |
+
+## Genuine or compatible?
+High-grade Compatible replacement parts. Manufactured with heat-resistant tips to precisely match OEM Ricoh specifications at a lower cost.
+
+## Why buy from Trinatech
+Stock held in Nairobi CBD.
+Delivery across Kenya including Kisumu, Nakuru, Eldoret, and Mombasa.
+M-Pesa and bank transfer accepted.
+WhatsApp ordering and walk-in options at The One Mall, River Road.
+
+## Getting the most from this product
+Inspect the upper fuser roller for deep scratches when replacing these fingers. If the old fingers have worn grooves into the roller, replace both components together.
+
+## Frequently asked questions
+Will this stop paper wrapping around the fuser roller? Yes, fresh fingers ensure clean paper detachment as documents exit the fuser.
+Are they sold individually? Yes, priced per individual finger.
+How fast is Nairobi delivery? Delivered within 1 to 3 hours across Nairobi CBD.
+How can I pay? Pay via M-Pesa, bank wire, or cash.
+Is warranty provided? Covered against manufacturing defects.`, "metaTitle": "Ricoh Aficio MP 2000 Fuser Picker Fingers - Trinatech", "metaDescription": "Buy Ricoh Aficio MP 2000 fuser separation fingers in Nairobi. Prevents paper jams for MP 1600, MP 2000 copiers. Fast delivery.", "inStock": true},
+  {"id": 5244, "sku": null, "name": "Mp 2000 Lower Roller", "brand": "Other", "category": "Maintenance Kits & Spare Parts", "price": 2000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/Mp-2000-Lower-Roller.webp", "imageFile": "Mp-2000-Lower-Roller.webp", "description": `The Mp 2000 Lower Roller serves as the silicone rubber lower pressure roller for Ricoh Aficio fuser units. Engineered to provide proper nip pressure against the upper heat roller to ensure permanent toner bonding without smudging.
+
+## Compatible printers
+Ricoh Aficio 1015
+Ricoh Aficio 1018
+Ricoh Aficio 2015
+Ricoh Aficio 2018
+Ricoh Aficio MP 1600
+Ricoh Aficio MP 2000
+If your model isn't listed, send us the number from the front of the machine and we'll confirm before you pay.
+
+## Specifications
+| Part type | Lower Pressure Roller |
+|---|---|
+| Material | Silicone Rubber / Metal Core |
+| Machine section | Fuser Unit |
+| Part compatibility | MP 2000 Series |
+| Genuine or compatible | Compatible |
+
+## Genuine or compatible?
+Premium Compatible replacement pressure roller. Built to withstand high fuser operating temperatures and deliver reliable document transport.
+
+## Why buy from Trinatech
+Stock held in Nairobi CBD.
+Delivery across Kenya including Kisumu, Nakuru, Eldoret, and Mombasa.
+M-Pesa and bank transfer accepted.
+WhatsApp ordering and walk-in options at The One Mall, River Road.
+
+## Getting the most from this product
+Never use sharp instruments to clear paper jams from the fuser unit, as scratching the silicone rubber sleeve will ruin the roller.
+
+## Frequently asked questions
+Will this fix paper wrinkling as it exits? Yes, a deformed or worn pressure roller frequently causes paper distortion and jams.
+How fast is Nairobi delivery? Same-day inside 1 to 3 hours.
+How do I pay? Pay via M-Pesa Buy Goods/Till or bank wire.
+Is warranty provided? Covered against factory defects.`, "metaTitle": "Ricoh Aficio MP 2000 Lower Pressure Roller - Trinatech", "metaDescription": "Shop Ricoh Aficio MP 2000 lower fuser pressure roller in Nairobi. Compatible with MP 1600, MP 2000 copiers. Fast delivery in Kenya.", "inStock": true},
+  {"id": 5243, "sku": null, "name": "Mp 2000 Upper Fuser Roller", "brand": "Other", "category": "Maintenance Kits & Spare Parts", "price": 1500, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/Mp-2000-Upper-Fuser-Roller.webp", "imageFile": "Mp-2000-Upper-Fuser-Roller.webp", "description": `The Mp 2000 Upper Fuser Roller is a Teflon-coated heating cylinder for Ricoh Aficio monochrome copiers. Engineered to provide rapid thermal conduction for flawless toner fusing across daily office print jobs in Kenya.
+
+## Compatible printers
+Ricoh Aficio 1015
+Ricoh Aficio 1018
+Ricoh Aficio 2015
+Ricoh Aficio 2018
+Ricoh Aficio MP 1600
+Ricoh Aficio MP 2000
+If your model isn't listed, send us the number from the front of the machine and we'll confirm before you pay.
+
+## Specifications
+| Part type | Upper Heat Roller |
+|---|---|
+| Material | Aluminum / Teflon Coating |
+| Machine section | Fuser Unit |
+| Part compatibility | MP 2000 Series |
+| Genuine or compatible | Compatible |
+
+## Genuine or compatible?
+High-grade Compatible replacement heat roller. Provides identical non-stick performance to OEM Ricoh parts at a fraction of the cost.
+
+## Why buy from Trinatech
+Stock held in Nairobi CBD.
+Delivery across Kenya including Kisumu, Nakuru, Eldoret, and Mombasa.
+M-Pesa and bank transfer accepted.
+WhatsApp ordering and walk-in options at The One Mall, River Road.
+
+## Getting the most from this product
+Check and clean fuser thermistors during installation to prevent inaccurate temperature readings and premature wear.
+
+## Frequently asked questions
+Why is toner smudging on my pages? A worn upper heat roller loses its non-stick coating, causing toner to drag.
+How fast is Nairobi delivery? Delivered within 1 to 3 hours across Nairobi CBD.
+How can I pay? Pay via M-Pesa, bank wire, or cash.
+Is warranty provided? Covered against factory defect prior to installation.`, "metaTitle": "Ricoh Aficio MP 2000 Upper Heat Roller Price - Trinatech", "metaDescription": "Buy Ricoh Aficio MP 2000 upper fuser heat roller in Nairobi. Fits MP 1600, MP 2000, 1018 copiers. Fast shipping across Kenya.", "inStock": true},
   {"id": 5263, "sku": "KM-1800", "name": "Opc Drum KM-1800", "brand": "Other", "category": "Maintenance Kits & Spare Parts", "price": 3000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/Opc-Drum-KM-1800-scaled.webp", "imageFile": "Opc-Drum-KM-1800-scaled.webp", "description": `The Opc Drum KM-1800 is a premium bare Organic Photo-Conductor (OPC) cylinder replacement for Kyocera TASKalfa desktop copiers. Formulated with a long-life coating to eliminate repeating black dots, streaks, and washed-out text on administrative documents.
 
 ## Compatible printers
@@ -2402,7 +2580,42 @@ Is warranty included? Covered against physical defects upon arrival.`,
   "metaTitle": "Kyocera KM-2050 OPC Drum Cylinder Price - Trinatech",
   "metaDescription": "Order Kyocera KM-2050 OPC drum cylinder in Nairobi. Long-life replacement for KM-1620, KM-1650, KM-2050, KM-2550 copiers. Fast delivery.",
   "inStock": true},
-  {"id": 5261, "sku": "MP2000-2", "name": "Opc Drum MP2000", "brand": "Other", "category": "Maintenance Kits & Spare Parts", "price": 2500, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/Opc-Drum-MP2000-scaled.webp", "imageFile": "Opc-Drum-MP2000-scaled.webp", "description": "OPC DRUM MP2000", "inStock": true},
+  {"id": 5261, "sku": "MP2000-2", "name": "Opc Drum MP2000", "brand": "Other", "category": "Maintenance Kits & Spare Parts", "price": 2500, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/Opc-Drum-MP2000-scaled.webp", "imageFile": "Opc-Drum-MP2000-scaled.webp", "description": `The Opc Drum MP2000 is an essential photo-conductor cylinder replacement for Ricoh Aficio digital copiers. Formulated to restore clean image clarity and eliminate repeating background spots in busy office environments.
+
+## Compatible printers
+Ricoh Aficio 1015
+Ricoh Aficio 1018
+Ricoh Aficio 2015
+Ricoh Aficio 2018
+Ricoh Aficio MP 1600
+Ricoh Aficio MP 2000
+If your model isn't listed, send us the number from the front of the machine and we'll confirm before you pay.
+
+## Specifications
+| Part type | OPC Drum Cylinder |
+|---|---|
+| Material | Aluminum / OPC Coating |
+| Machine section | Drum Unit |
+| Part compatibility | MP 2000 Series |
+| Genuine or compatible | Compatible |
+
+## Genuine or compatible?
+This is a premium Compatible replacement OPC drum. Provides economical restoration of print quality without replacing the entire OEM drum housing.
+
+## Why buy from Trinatech
+Stock held in Nairobi CBD.
+Delivery across Kenya including Kisumu, Nakuru, Eldoret, and Mombasa.
+M-Pesa and bank transfer accepted.
+WhatsApp ordering and walk-in options at The One Mall, River Road.
+
+## Getting the most from this product
+Avoid direct exposure to sunlight or fluorescent office lights during handling to protect the photosensitive drum coating.
+
+## Frequently asked questions
+Should I replace the cleaning blade with this drum? Yes, replacing the cleaning blade simultaneously prevents old wear-marks from damaging your new drum.
+How fast is Nairobi delivery? Same-day inside 1 to 3 hours.
+How do I pay? M-Pesa Buy Goods/Till or bank wire.
+Is warranty provided? Covered against manufacturing defects.`, "metaTitle": "Ricoh Aficio MP 2000 OPC Drum Cylinder - Trinatech", "metaDescription": "Order Ricoh Aficio MP 2000 OPC drum cylinder in Nairobi. Fits MP 1600, MP 2000, 1018 copiers. Fast delivery across Kenya.", "inStock": true},
   {"id": 5242, "sku": null, "name": "Pressure Roller", "brand": "Other", "category": "Maintenance Kits & Spare Parts", "price": 2000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/Pressure-Roller-scaled.webp", "imageFile": "Pressure-Roller-scaled.webp", "description": `The Pressure Roller is a vital fuser assembly component for office laser printers and copiers. Built with high-temperature silicone rubber around a rigid metal shaft, it applies the exact nip pressure needed against the heat roller (or Teflon sleeve) to permanently bond toner to the paper.
 
 ## Compatible printers

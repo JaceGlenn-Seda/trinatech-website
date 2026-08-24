@@ -187,7 +187,41 @@ Is warranty provided? Covered against factory defect prior to installation.`,
   "metaTitle": "Kyocera TASKalfa 1800 Upper Fuser Roller - Trinatech",
   "metaDescription": "Buy Kyocera TASKalfa 1800 upper fuser heat roller in Nairobi. Fix smudging and fuser errors on TA-1800, 1801, 2200, 2201. Fast delivery.",
   "inStock": true},
-  {"id": 5239, "sku": null, "name": "Taskalfa 1800 Drum", "brand": "Other", "category": "Maintenance Kits & Spare Parts", "price": 3500, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/Taskalfa-1800-Drum.webp", "imageFile": "Taskalfa-1800-Drum.webp", "description": "taskalfa 1800 drum", "inStock": true},
+  {"id": 5239, "sku": null, "name": "Taskalfa 1800 Drum", "brand": "Other", "category": "Maintenance Kits & Spare Parts", "price": 3500, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/Taskalfa-1800-Drum.webp", "imageFile": "Taskalfa-1800-Drum.webp", "description": `The Taskalfa 1800 Drum (DK-1110 compatible) is a complete replacement imaging drum unit for Kyocera TASKalfa monochrome copiers. Designed to deliver crisp text, deep blacks, and reliable page yield across office workflows in Kenya.
+
+## Compatible printers
+Kyocera TASKalfa 1800
+Kyocera TASKalfa 1801
+Kyocera TASKalfa 2200
+Kyocera TASKalfa 2201
+If your model isn't listed, send us the number from the front of the machine and we'll confirm before you pay.
+
+## Specifications
+| Page yield | ~150,000 pages |
+|---|---|
+| Part type | Drum Unit (Imaging Unit) |
+| Colour | Black |
+| Part number | DK-1110 / 302N893030 |
+| Genuine or compatible | Compatible |
+
+## Genuine or compatible?
+This is a premium Compatible complete drum unit. It offers an easy drop-in replacement alternative to the expensive OEM Kyocera DK-1110 assembly.
+
+## Why buy from Trinatech
+Stock held in Nairobi CBD.
+Delivery across Kenya including Kisumu, Nakuru, Eldoret, and Mombasa.
+M-Pesa and bank transfer accepted.
+WhatsApp ordering and walk-in options at The One Mall, River Road.
+
+## Getting the most from this product
+Remove the protective orange and black safety covers only right before installing the unit into the printer body.
+
+## Frequently asked questions
+Does this unit include toner? No, the DK-1110 is the imaging drum unit; toner is sold separately.
+What is the yield? Up to ~150,000 pages.
+How fast is Nairobi shipping? Delivered within 1 to 3 hours across Nairobi CBD.
+How can I pay? Pay via M-Pesa, bank wire, or cash.
+Is warranty provided? Covered against factory defects prior to installation.`, "metaTitle": "Kyocera TASKalfa 1800 Drum Unit Price - Trinatech Kenya", "metaDescription": "Buy complete Kyocera TASKalfa 1800 drum unit in Nairobi. Replaces DK-1110 for TA-1800, TA-1801, TA-2200, TA-2201. Fast delivery.", "inStock": true},
   {"id": 5238, "sku": null, "name": "Teflon Sleeve", "brand": "Other", "category": "Maintenance Kits & Spare Parts", "price": 800, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/Teflon-Sleeve.webp", "imageFile": "Teflon-Sleeve.webp", "description": `The Teflon Sleeve (Fuser Film Sleeve) is a critical high-temperature thermal component for HP and Canon laser printer fuser assemblies. Designed to rotate around a ceramic heating element, it ensures rapid toner melting while providing a non-stick surface to prevent paper jams and ghosting.
 
 ## Compatible printers

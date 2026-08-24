@@ -215,7 +215,42 @@ Do I need anything else? Only the imaging drum eventually, HP 104A, which is rep
 How fast is delivery? Same day within Nairobi, next working day to most towns.
 Can I return it? Yes, if the kit is sealed and unused.
 Is this the same as a toner cartridge? No. Neverstop printers have no cartridge. This kit refills a tank inside the printer, which is why the cost per page is so low.`, "metaTitle": "HP 103A Neverstop Toner Reload Kit W1103A - Genuine HP", "metaDescription": "Genuine HP 103A Neverstop toner reload kit (W1103A), 2,500 pages, for HP Neverstop Laser 1000 and MFP 1200. Nairobi stock, delivered Kenya-wide.", "inStock": true},
-  {"id": 5183, "sku": "W1104A", "name": "HP 104A Black Laser Imaging Drum (W1104A)", "brand": "HP", "category": "HP Original Toners", "price": 7000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/HP-104A-Black-Laser-Imaging-Drum-W1104A.webp", "imageFile": "HP-104A-Black-Laser-Imaging-Drum-W1104A.webp", "description": "HP 104A BLACK LASER IMAGING DRUM (W1104A", "inStock": true},
+  {"id": 5183, "sku": "W1104A", "name": "HP 104A Black Laser Imaging Drum (W1104A)", "brand": "HP", "category": "HP Original Toners", "price": 7000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/HP-104A-Black-Laser-Imaging-Drum-W1104A.webp", "imageFile": "HP-104A-Black-Laser-Imaging-Drum-W1104A.webp", "description": `The HP 104A Black Laser Imaging Drum (W1104A) is an original high-yield imaging drum unit designed for compact HP Neverstop and Laser monochrome printers. Engineered for sharp text definition and reliable document output in Nairobi.
+
+## Compatible printers
+HP Laser 107a
+HP Laser 107w
+HP Laser MFP 135a
+HP Laser MFP 135w
+HP Laser MFP 137fnw
+If your model isn't listed, send us the number from the front of the machine and we'll confirm before you pay.
+
+## Specifications
+| Page yield | ~20,000 pages |
+|---|---|
+| Part type | Imaging Drum Unit |
+| Colour | Black |
+| Part number | W1104A / 104A |
+| Genuine or compatible | Genuine |
+
+## Genuine or compatible?
+Genuine Original HP product entry. Royal compatible brand alternative 104A drum units are also stocked to lower operating costs.
+
+## Why buy from Trinatech
+Stock held in Nairobi CBD.
+Delivery across Kenya including Kisumu, Nakuru, Eldoret, and Mombasa.
+M-Pesa and bank transfer accepted.
+WhatsApp ordering and walk-in options at The One Mall, River Road.
+
+## Getting the most from this product
+Keep sealed in original box until deployment. Follow printer prompts to reset drum life indicators after swapping units.
+
+## Frequently asked questions
+Does this include toner? The 104A is the imaging drum unit; toner reloading kits are sold separately.
+What is the yield? Up to ~20,000 pages.
+How fast is Nairobi delivery? Same-day inside 1 to 3 hours.
+How do I pay? Pay via M-Pesa Buy Goods/Till or bank wire.
+Is warranty provided? Covered under HP official warranty.`, "metaTitle": "HP 104A Black Laser Imaging Drum W1104A - Trinatech", "metaDescription": "Buy genuine HP 104A black imaging drum W1104A in Nairobi. Yields ~20,000 pages for Laser 107a, 107w, MFP 135a, 137fnw. Fast delivery.", "inStock": true},
   {"id": 5182, "sku": "W1106A", "name": "HP 106A Black Toner Cartridge (W1106A)", "brand": "HP", "category": "HP Original Toners", "price": 7500, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/HP-106A-Black-Toner-Cartridge-W1106A.webp", "imageFile": "HP-106A-Black-Toner-Cartridge-W1106A.webp", "description": "The HP 106A black toner cartridge is the genuine Original HP replacement, part number W1106A, for HP's compact Laser 107 and MFP 135 and 137 series. These are the small, affordable mono lasers that suit a shop counter, a clinic reception or a home office needing crisp documents rather than colour.\n\n## Compatible printers\nHP Laser 107a Printer\nHP Laser 107r Printer\nHP Laser 107w Printer\nHP Laser MFP 135a Printer\nHP Laser MFP 135r Printer\nHP Laser MFP 135w Printer\nHP Laser MFP 135wg Printer\nHP Laser MFP 137fnw Printer\nHP Laser MFP 137fwg Printer\nIf your model isn't listed, send us the number from the front of the machine and we'll confirm before you pay.\n\n## Specifications\n| Page yield | Cartridge type | Colour | Capacity | Part number | Genuine or compatible |\n|---|---|---|---|---|---|\n| 1,000 pages at 5% coverage | Laser toner cartridge | Black | Standard capacity | W1106A | Genuine Original HP |\n\n## Genuine or compatible?\nGenuine, Original HP in the sealed box. Not a refill and not our Royal house brand, which is always sold as Royal. One thing worth knowing before you order: these printers are also served by HP 107A (W1107A), which fits the same machines. Tell us which number is printed on the cartridge currently in your printer and what you paid last time, and we will tell you which is the better buy for you rather than simply selling the box in front of us.\n\n## Why buy from Trinatech\nHeld in Nairobi CBD stock, including for machines other suppliers have dropped.\nCountrywide courier delivery, Nakuru, Eldoret, Kisumu and Mombasa included.\nM-Pesa or bank transfer, with proper invoicing for business accounts.\nWhatsApp us the model number, or walk in to The One Mall on River Road.\n\n## Getting the most from this cartridge\nRock the cartridge gently side to side before fitting to distribute the toner evenly, then remove any sealing tape fully.\nAt 1,000 pages this is a small cartridge. If you print more than a ream a month, ask us to work out the cost per page against a larger machine before you keep restocking.\nWhen pages start to fade, take the cartridge out and rock it again. That often buys another thirty or forty pages.\nStore spares flat and boxed, away from heat and damp. Toner clumps in humidity and clumped toner streaks.\n\n## Frequently asked questions\nIs there a higher-yield version? Ask us. Options for this range vary by market, so we will tell you what is actually in stock rather than promise a part number.\nDo I need a separate drum? No. On this design the drum is part of the cartridge, so both are replaced together.\nHow fast is delivery? Same day within Nairobi, next working day to most towns.\nCan I return it? Yes, sealed and unused.\nIs HP 106A the same as HP 107A? They fit the same printers but they are different cartridges with different part numbers. Send us the number from your existing cartridge and we will match it exactly.", "metaTitle": "HP 106A Black Toner W1106A - Genuine HP Kenya", "metaDescription": "Genuine HP 106A black toner (W1106A), 1,000 pages, for HP Laser 107 and MFP 135, 137 series. Nairobi stock, delivered across Kenya.", "inStock": true},
   {"id": 4175, "sku": null, "name": "HP 107A Black Original Laserjet Toner Cartridge", "brand": "HP", "category": "Inks & Toner Cartridges", "price": 7500, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2025/01/HP-107A-Black-Original-LaserJet-Toner.png", "imageFile": "HP-107A-Black-Original-LaserJet-Toner.png", "description": `The HP 107A black toner cartridge is the genuine Original HP replacement, part number W1107A, for HP's compact Laser 100 and MFP 130 series. These are the small, affordable mono lasers that suit a shop counter, a clinic reception or a home office that needs crisp documents rather than colour. Laser output does not run or fade the way inkjet can, which matters for receipts and records kept in a humid office.
 

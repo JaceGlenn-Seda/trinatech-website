@@ -1346,7 +1346,40 @@ Is warranty provided? Covered against technical and manufacturing defects.`, "me
   {"id": 4280, "sku": null, "name": "Kyocera TK-8335 Toner Cartridge", "brand": "Kyocera", "category": "Inks & Toner Cartridges", "price": 5000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2025/01/Kyocera-TK-8335-Toner.png", "imageFile": "Kyocera-TK-8335-Toner.png", "description": "The Kyocera TK-8335 Toner Cartridge is designed to meet the needs of businesses with high-volume printing demands.", "inStock": true},
   {"id": 4773, "sku": null, "name": "Kyocera TK-8365 Toner Cartridge", "brand": "Kyocera", "category": "Inks & Toner Cartridges", "price": 4500, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2025/07/Kyocera-TK-8365-Toner.png", "imageFile": "Kyocera-TK-8365-Toner.png", "description": "Compatible with: Kyocera TASKalfa 2554ci (aka Taskalfa 2554 CI)", "inStock": true},
   {"id": 3454, "sku": null, "name": "Kyocera Taskalfa 2020 A4/A3 Monochrome Multifunction Printer", "brand": "Kyocera", "category": "Printers & Copiers", "price": 120000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2024/12/Kyocera-TASKALFA-mfp-Printer.png", "imageFile": "Kyocera-TASKALFA-mfp-Printer.png", "description": "The Kyocera TASKalfa 2020 A4/A3 Monochrome Multifunction Printer is designed to enhance productivity in small to medium-sized businesses.", "inStock": true},
-  {"id": 3452, "sku": null, "name": "Kyocera Taskalfa 2321 Monochrome Multifunction A3 Printer", "brand": "Kyocera", "category": "Printers & Copiers", "price": 115000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2024/12/Kyocera-TASKALFA-mfp-Printer.png", "imageFile": "Kyocera-TASKALFA-mfp-Printer.png", "description": "The Kyocera TASKalfa 2321 Monochrome Multifunction A3 Printer is designed to meet the demanding needs of medium-sized offices and businesses.", "inStock": true},
+  {"id": 3452, "sku": null, "name": "Kyocera Taskalfa 2321 Monochrome Multifunction A3 Printer", "brand": "Kyocera", "category": "Printers & Copiers", "price": 115000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2024/12/Kyocera-TASKALFA-mfp-Printer.png", "imageFile": "Kyocera-TASKALFA-mfp-Printer.png", "description": `The Kyocera Taskalfa 2321 Monochrome Multifunction A3 Printer is a durable, budget-friendly A3 monochrome laser multifunction printer designed for small to medium workgroups. Engineered with long-life ECOSYS component technology, fast 23 ppm A4 speeds, and standard network connectivity for daily office printing and copying across Kenya.
+
+## Compatible toner cartridges
+Kyocera TK-4145 Black Toner Cartridge (~16,000 pages)
+Kyocera TK-4105 Black Toner Cartridge (~15,000 pages)
+If your printer model isn't listed, send us the number from the front panel and we'll confirm before you pay.
+
+## Specifications
+| Functions | Print, Copy, Color Scan, Fax (Optional) |
+|---|---|
+| Print speed | Up to 23 ppm (A4) / 10 ppm (A3) |
+| Connectivity | Fast Ethernet, USB 2.0 |
+| Paper capacity | 400 Sheets (300 Cassette + 100 MPT) |
+| Max paper size | Up to A3 / Ledger |
+| Memory & display | 256 MB / 5-Line LCD |
+
+## Genuine or compatible toner?
+Uses original Kyocera TK-4145/TK-4105 black toner kits. Royal compatible brand TK-4145 cartridges are also available to lower cost per page for high-volume document runs.
+
+## Why buy from Trinatech
+Stock held in Nairobi CBD.
+Delivery across Kenya including Kisumu, Nakuru, Eldoret, and Mombasa.
+M-Pesa and bank transfer accepted.
+WhatsApp ordering and walk-in options at The One Mall, River Road.
+
+## Getting the most from this printer
+Utilize the 100-sheet Multi-Purpose Tray (MPT) for printing heavy paper stock and A3 ledger documents smoothly.
+
+## Frequently asked questions
+Is auto double-sided printing standard? Duplex printing unit is optional for the TASKalfa 2321 series.
+What toner cartridge does it use? Uses Kyocera TK-4145 black toner (~16,000 pages).
+How fast is Nairobi delivery? Delivered within 1 to 3 hours across Nairobi CBD.
+How can I pay? Pay via M-Pesa Buy Goods/Till, bank wire, or cash.
+Is warranty provided? Covered under 1-year shop warranty.`, "metaTitle": "Kyocera TASKalfa 2321 A3 Printer Price - Trinatech", "metaDescription": "Buy Kyocera TASKalfa 2321 A3 mono printer in Nairobi. 23 ppm speed, GDI print, copy, color scan & Ethernet. Fast delivery across Kenya.", "inStock": true},
   {"id": 5022, "sku": null, "name": "Royal 500G Kyocera Powder", "brand": "Kyocera", "category": "Royal Toners", "price": 1200, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/Universal-Toner.png", "imageFile": "Universal-Toner.png", "description": "ROYAL 500G KYOCERA POWDER", "inStock": true},
   {"id": 3489, "sku": null, "name": "Lenovo Ideapad 3 Core I3 4GB/1TB/14\"/UBUNTU Laptop", "brand": "Lenovo", "category": "Laptops", "price": 56000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2024/12/Lenovo-IdeaPad-3-Laptop.png", "imageFile": "Lenovo-IdeaPad-3-Laptop.png", "description": "The Lenovo IdeaPad 3 Core i3 4GB/1TB/14\"/Ubuntu Laptop is designed to offer a blend of performance, portability, and functionality for everyday computing tasks.", "inStock": true},
   {"id": 3487, "sku": null, "name": "Lenovo Ideapad 3 Core I5 4GB/1TB/15.6\" Laptop", "brand": "Lenovo", "category": "Laptops", "price": 65000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2024/12/Lenovo-IdeaPad-3-Laptop.png", "imageFile": "Lenovo-IdeaPad-3-Laptop.png", "description": "The Lenovo IdeaPad 3 Core i5 4GB/1TB/15.6\" Laptop is designed to provide a perfect balance of performance, storage, and affordability.", "inStock": true},

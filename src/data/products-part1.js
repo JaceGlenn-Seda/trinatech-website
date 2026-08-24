@@ -423,15 +423,351 @@ Do I need other colours to print? Yes, all four toners (CMYK) must have powder f
 What is the delivery time? Same-day delivery within Nairobi CBD and next-day for the rest of Kenya.
 What is your warranty or returns policy? Genuine Brother toners come with a standard manufacturer defect warranty.
 Can I buy the colours separately? Yes, these are priced and sold as individual colours, so you only replace what you need.`, "metaTitle": "Brother TN-261 Original Toner Cartridges (CMYK)", "metaDescription": "Genuine Brother TN-261 toner cartridges (Black, Cyan, Magenta, Yellow) for HL-3150CDN, MFC-9140CDN. Sold individually. Delivered in Kenya.", "inStock": true},
-  {"id": 5553, "sku": "TN-273-2", "name": "Brother TN-273 Black Toner Cartridge", "brand": "Brother", "category": "Brother Toners", "price": 4000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/Brother-TN-273-Black-Toner-Cartridge.webp", "imageFile": "Brother-TN-273-Black-Toner-Cartridge.webp", "description": "BROTHER TN-273 BLACK TONER CARTRIDGE", "inStock": true},
-  {"id": 5552, "sku": "TN-273", "name": "Brother TN-273 Color Toner Cartridges Each", "brand": "Brother", "category": "Brother Toners", "price": 4000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/Brother-TN-273-Color-Toner-Cartridges-Each.webp", "imageFile": "Brother-TN-273-Color-Toner-Cartridges-Each.webp", "description": "BROTHER TN-273 COLOR TONER CARTRIDGES EACH", "inStock": true},
-  {"id": 5551, "sku": "TN-277", "name": "Brother TN-277 Color Toner Cartridges Each", "brand": "Brother", "category": "Brother Toners", "price": 4000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/Brother-TN-277-Color-Toner-Cartridges-Each.webp", "imageFile": "Brother-TN-277-Color-Toner-Cartridges-Each.webp", "description": "BROTHER TN-277 COLOR TONER CARTRIDGES EACH", "inStock": true},
-  {"id": 5550, "sku": "TN-277B", "name": "Brother TN-277BK Black Original Toner Cartridge", "brand": "Brother", "category": "Brother Toners", "price": 4000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/Brother-TN-277BK-Black-Original-Toner-Cartridge.webp", "imageFile": "Brother-TN-277BK-Black-Original-Toner-Cartridge.webp", "description": "BROTHER TN-277BK BLACK ORIGINAL TONER CARTRIDGE", "inStock": true},
-  {"id": 5549, "sku": "TN-3145", "name": "Brother TN-3145 Black Toner Cartridge", "brand": "Brother", "category": "Brother Toners", "price": 4000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/Brother-TN-3145-Black-Toner-Cartridge.webp", "imageFile": "Brother-TN-3145-Black-Toner-Cartridge.webp", "description": "BROTHER TN-3145 BLACK TONER CARTRIDGE", "inStock": true},
-  {"id": 5548, "sku": "TN-3250", "name": "Brother TN-3250 Black Toner Cartridge", "brand": "Brother", "category": "Brother Toners", "price": 3500, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/Brother-TN-3250-Black-Toner-Cartridge.webp", "imageFile": "Brother-TN-3250-Black-Toner-Cartridge.webp", "description": "BROTHER TN-3250 BLACK TONER CARTRIDGE", "inStock": true},
-  {"id": 5547, "sku": "TN-3290", "name": "Brother TN-3290 Black Toner Cartridge", "brand": "Brother", "category": "Brother Toners", "price": 3500, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/Brother-TN-3290-Black-Toner-Cartridge.webp", "imageFile": "Brother-TN-3290-Black-Toner-Cartridge.webp", "description": "BROTHER TN-3290 BLACK TONER CARTRIDGE", "inStock": true},
-  {"id": 5546, "sku": "TN-3350", "name": "Brother TN-3350 Black Toner Cartridge", "brand": "Brother", "category": "Brother Toners", "price": 3500, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/Brother-TN-3350-Black-Toner-Cartridge.webp", "imageFile": "Brother-TN-3350-Black-Toner-Cartridge.webp", "description": "BROTHER TN-3350 BLACK TONER CARTRIDGE", "inStock": true},
-  {"id": 4403, "sku": null, "name": "Brother TN-3350 Toner Cartridge", "brand": "Brother", "category": "Inks & Toner Cartridges", "price": 13000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2025/01/Brother-TN-3350-Toner.png", "imageFile": "Brother-TN-3350-Toner.png", "description": "Compatible with: HL-5440D HL-5450DN / DNT / DWT HL-5470DW / DWT HL-6180DW / DWT HL-6100 and HL-5480 series DCP-8100 / 8110DN / 8155DN / 8250DN MFC-8510DN", "inStock": true},
+  {"id": 5553, "sku": "TN-273-2", "name": "Brother TN-273 Black Toner Cartridge", "brand": "Brother", "category": "Brother Toners", "price": 4000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/Brother-TN-273-Black-Toner-Cartridge.webp", "imageFile": "Brother-TN-273-Black-Toner-Cartridge.webp", "description": `The Brother TN-273 Black Toner Cartridge provides reliable, high-quality monochrome output for compact Brother digital LED color printers. Designed for daily administrative document processing across businesses in Nairobi.
+
+## Compatible printers
+Brother DCP-L3510CDW
+Brother DCP-L3551CDW
+Brother HL-L3210CW
+Brother HL-L3230CDW
+Brother HL-L3270CDW
+Brother MFC-L3735CDN
+Brother MFC-L3750CDW
+Brother MFC-L3770CDW
+If your model isn't listed, send us the number from the front of the machine and we'll confirm before you pay.
+
+## Specifications
+| Page yield | Cartridge type | Colour | Capacity | Part number | Genuine or compatible |
+|---|---|---|---|---|---|
+| ~1,400 pages | Toner Cartridge | Black | Standard | TN-273BK | Genuine |
+
+## Genuine or compatible?
+Genuine Original Brother toner cartridge. Our Royal compatible house brand is also available at a lower price point for budget-focused operations.
+
+## Why buy from Trinatech
+Stock held in Nairobi CBD.
+Delivery across Kenya including Kisumu, Nakuru, Eldoret, and Mombasa.
+M-Pesa and bank transfer accepted.
+WhatsApp ordering and walk-in options at The One Mall, River Road.
+
+## Getting the most from this cartridge
+Store flat in a cool, dry room until installation.
+Rock side-to-side gently before insertion to distribute toner powder evenly.
+
+## Frequently asked questions
+Is an XL high-yield alternative available? Yes, the Brother TN-277BK offers a higher yield of ~3,000 pages for the same printers.
+Are color toners required? Yes, digital LED printers require active cartridges in all four color bays.
+How fast is Nairobi delivery? Delivered within 1 to 3 hours across Nairobi CBD.
+How can I pay? Pay via M-Pesa Buy Goods/Till, bank transfer, or cash.
+Is warranty included? Standard shop defect warranty applies to unopened units.`, "metaTitle": "Brother TN-273 Black Toner Cartridge Price - Trinatech", "metaDescription": "Buy genuine Brother TN-273 black toner cartridge in Nairobi. Yields ~1,400 pages for HL-L3210CW, DCP-L3551CDW, MFC-L3750CDW. Fast Kenya delivery.", "inStock": true},
+  {"id": 5552, "sku": "TN-273", "name": "Brother TN-273 Color Toner Cartridges Each", "brand": "Brother", "category": "Brother Toners", "price": 4000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/Brother-TN-273-Color-Toner-Cartridges-Each.webp", "imageFile": "Brother-TN-273-Color-Toner-Cartridges-Each.webp", "description": `The Brother TN-273 Color Toner Cartridge series (Cyan, Magenta, Yellow) produces clear graphics and vibrant color images for Brother desktop color LED printers across Kenya.
+
+## Compatible printers
+Brother DCP-L3510CDW
+Brother DCP-L3551CDW
+Brother HL-L3210CW
+Brother HL-L3230CDW
+Brother HL-L3270CDW
+Brother MFC-L3735CDN
+Brother MFC-L3750CDW
+Brother MFC-L3770CDW
+If your model isn't listed, send us the number from the front of the machine and we'll confirm before you pay.
+
+## Specifications
+| Page yield | Cartridge type | Colour | Capacity | Part number | Genuine or compatible |
+|---|---|---|---|---|---|
+| ~1,300 pages each | Toner Cartridge | Cyan, Magenta, Yellow | Standard | TN-273C / TN-273M / TN-273Y | Genuine |
+
+## Genuine or compatible?
+Original Genuine Brother supply unit. Royal compatible brand alternatives fit the same printers at lower costs to reduce ongoing color print costs.
+
+## Why buy from Trinatech
+Stock held in Nairobi CBD.
+Delivery across Kenya including Kisumu, Nakuru, Eldoret, and Mombasa.
+M-Pesa and bank transfer accepted.
+WhatsApp ordering and walk-in options at The One Mall, River Road.
+
+## Getting the most from this cartridge
+Keep sealed in protective foil until ready to use.
+Align guide tabs with the appropriate color slot in the drum unit frame.
+
+## Frequently asked questions
+Is an XL high-yield option available? Yes, TN-277 color cartridges (~2,300 pages) offer higher yield.
+Do I need all four colors to print? Yes, full set presence is required for printer operation.
+What is delivery time to Mombasa? Overnight courier delivery within 24 hours.
+How do I pay? Pay via M-Pesa or bank wire transfer.
+Are colors sold individually? Yes, priced separately per color cartridge.`, "metaTitle": "Brother TN-273 Color Toner Cartridge Price - Trinatech", "metaDescription": "Shop Brother TN-273 Cyan, Magenta, Yellow toner in Nairobi. Yields ~1,300 pages for HL-L3210CW, MFC-L3750CDW. Fast delivery across Kenya.", "inStock": true},
+  {"id": 5551, "sku": "TN-277", "name": "Brother TN-277 Color Toner Cartridges Each", "brand": "Brother", "category": "Brother Toners", "price": 4000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/Brother-TN-277-Color-Toner-Cartridges-Each.webp", "imageFile": "Brother-TN-277-Color-Toner-Cartridges-Each.webp", "description": `The Brother TN-277 High Yield Color Toner Cartridge series supplies high-capacity cyan, magenta, and yellow toners for Brother color laser/LED desktop printers. Formulated for high-volume document environments in Nairobi.
+
+## Compatible printers
+Brother DCP-L3510CDW
+Brother DCP-L3551CDW
+Brother HL-L3210CW
+Brother HL-L3230CDW
+Brother HL-L3270CDW
+Brother MFC-L3735CDN
+Brother MFC-L3750CDW
+Brother MFC-L3770CDW
+If your model isn't listed, send us the number from the front of the machine and we'll confirm before you pay.
+
+## Specifications
+| Page yield | Cartridge type | Colour | Capacity | Part number | Genuine or compatible |
+|---|---|---|---|---|---|
+| ~2,300 pages each | Toner Cartridge | Cyan, Magenta, Yellow | High Capacity | TN-277C / TN-277M / TN-277Y | Genuine |
+
+## Genuine or compatible?
+Genuine Original Brother toner cartridge. Royal compatible alternatives are available per color channel to help cut operational page expenses.
+
+## Why buy from Trinatech
+Stock held in Nairobi CBD.
+Delivery across Kenya including Kisumu, Nakuru, Eldoret, and Mombasa.
+M-Pesa and bank transfer accepted.
+WhatsApp ordering and walk-in options at The One Mall, River Road.
+
+## Getting the most from this cartridge
+Store horizontally away from high humidity.
+Tilt the cartridge side-to-side before installation to loosen settled toner powder.
+
+## Frequently asked questions
+Is an XL version available? TN-277 is already the high-yield capacity version for this machine group.
+Are all four colors required? Yes, all four slots (K, C, M, Y) must contain active cartridges.
+How fast is Nairobi delivery? Same-day within 1 to 3 hours across Nairobi CBD.
+How can I pay? M-Pesa, bank wire, or cash at shop.
+Are cartridges sold separately? Yes, each color unit is sold per piece.`, "metaTitle": "Brother TN-277 High Yield Color Toner - Trinatech Kenya", "metaDescription": "Order Brother TN-277 high yield Cyan, Magenta, Yellow toner in Nairobi. Yields ~2,300 pages. Fast shipping across Kenya CBD shop.", "inStock": true},
+  {"id": 5550, "sku": "TN-277B", "name": "Brother TN-277BK Black Original Toner Cartridge", "brand": "Brother", "category": "Brother Toners", "price": 4000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/Brother-TN-277BK-Black-Original-Toner-Cartridge.webp", "imageFile": "Brother-TN-277BK-Black-Original-Toner-Cartridge.webp", "description": `The Brother TN-277BK Black Original Toner Cartridge is a high-yield consumable built for heavy administrative printing. Offers crisp dark text and reliable page throughput for busy office workgroups across Kenya.
+
+## Compatible printers
+Brother DCP-L3510CDW
+Brother DCP-L3551CDW
+Brother HL-L3210CW
+Brother HL-L3230CDW
+Brother HL-L3270CDW
+Brother MFC-L3735CDN
+Brother MFC-L3750CDW
+Brother MFC-L3770CDW
+If your model isn't listed, send us the number from the front of the machine and we'll confirm before you pay.
+
+## Specifications
+| Page yield | Cartridge type | Colour | Capacity | Part number | Genuine or compatible |
+|---|---|---|---|---|---|
+| ~3,000 pages | Toner Cartridge | Black | High Capacity | TN-277BK | Genuine |
+
+## Genuine or compatible?
+Original Genuine Brother toner unit. A Royal compatible brand equivalent fits the same printers at lower costs for budget-conscious printing.
+
+## Why buy from Trinatech
+Stock held in Nairobi CBD.
+Delivery across Kenya including Kisumu, Nakuru, Eldoret, and Mombasa.
+M-Pesa and bank transfer accepted.
+WhatsApp ordering and walk-in options at The One Mall, River Road.
+
+## Getting the most from this cartridge
+Rock the unit gently prior to unsealing.
+Clean the primary corona wire on the drum unit frame when swapping cartridges.
+
+## Frequently asked questions
+Is a lower yield version available? Yes, standard-yield TN-273BK (~1,400 pages) is available if required.
+Do I need color cartridges too? Yes, printer requires active color toners to run.
+How long does shipping take? 1-3 hours in Nairobi; 24 hours upcountry.
+What payment options exist? M-Pesa Buy Goods/Till, bank wire, and cash.
+Is warranty included? Standard shop defect warranty covers unopened units.`, "metaTitle": "Brother TN-277BK High Yield Black Toner - Trinatech Kenya", "metaDescription": "Buy original Brother TN-277BK high yield black toner in Nairobi. Yields ~3,000 pages for HL-L3270CDW, DCP-L3551CDW. Fast Kenya shipping.", "inStock": true},
+  {"id": 5549, "sku": "TN-3145", "name": "Brother TN-3145 Black Toner Cartridge", "brand": "Brother", "category": "Brother Toners", "price": 4000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/Brother-TN-3145-Black-Toner-Cartridge.webp", "imageFile": "Brother-TN-3145-Black-Toner-Cartridge.webp", "description": `The Brother TN-3145 Black Toner Cartridge supplies reliable monochrome output for classic Brother laser printers and multifunction copiers. Engineered for crisp text legibility and smooth document workflows in Kenya.
+
+## Compatible printers
+Brother HL-5240
+Brother HL-5250DN
+Brother HL-5270DN
+Brother HL-5280DW
+Brother MFC-8460N
+Brother MFC-8860DN
+Brother MFC-8870DW
+If your model isn't listed, send us the number from the front of the machine and we'll confirm before you pay.
+
+## Specifications
+| Page yield | Cartridge type | Colour | Capacity | Part number | Genuine or compatible |
+|---|---|---|---|---|---|
+| ~3,500 pages | Toner Cartridge | Black | Standard | TN-3145 | Genuine |
+
+## Genuine or compatible?
+Genuine Original Brother product. Royal compatible equivalents are also stocked to help lower page printing expenses.
+
+## Why buy from Trinatech
+Stock held in Nairobi CBD.
+Delivery across Kenya including Kisumu, Nakuru, Eldoret, and Mombasa.
+M-Pesa and bank transfer accepted.
+WhatsApp ordering and walk-in options at The One Mall, River Road.
+
+## Getting the most from this cartridge
+Store in cool ambient surroundings.
+Shake gently before installing into the drum cradle.
+Wipe internal assembly dust if streaking occurs.
+
+## Frequently asked questions
+Is an XL version available? Yes, TN-3175 high-yield cartridge (~7,000 pages) fits the same machines.
+Does this printer take color? No, these models are strictly monochrome laser units.
+How fast is Nairobi delivery? 1 to 3 hours across Nairobi CBD.
+How can I pay? Pay via M-Pesa or bank transfer.
+Is warranty provided? Covered against technical and manufacturing defects.`, "metaTitle": "Brother TN-3145 Black Toner Cartridge Price - Trinatech", "metaDescription": "Shop Brother TN-3145 black toner cartridge in Nairobi. Yields ~3,500 pages for HL-5240, HL-5250DN, MFC-8460N. Fast shipping in Kenya.", "inStock": true},
+  {"id": 5548, "sku": "TN-3250", "name": "Brother TN-3250 Black Toner Cartridge", "brand": "Brother", "category": "Brother Toners", "price": 3500, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/Brother-TN-3250-Black-Toner-Cartridge.webp", "imageFile": "Brother-TN-3250-Black-Toner-Cartridge.webp", "description": `The Brother TN-3250 Black Toner Cartridge is a standard-capacity monochrome supply unit designed for workhorse office laser printers. Formulated for sharp black text contrast and reliable document output in Nairobi.
+
+## Compatible printers
+Brother DCP-8070D
+Brother DCP-8085DN
+Brother HL-5340D
+Brother HL-5350DN
+Brother HL-5370DW
+Brother HL-5380DN
+Brother MFC-8370DN
+Brother MFC-8380DN
+Brother MFC-8880DN
+Brother MFC-8890DW
+If your model isn't listed, send us the number from the front of the machine and we'll confirm before you pay.
+
+## Specifications
+| Page yield | Cartridge type | Colour | Capacity | Part number | Genuine or compatible |
+|---|---|---|---|---|---|
+| ~3,000 pages | Toner Cartridge | Black | Standard | TN-3250 | Genuine |
+
+## Genuine or compatible?
+Original Genuine Brother toner cartridge. Royal compatible alternatives fit the same printers at lower costs for daily operational savings.
+
+## Why buy from Trinatech
+Stock held in Nairobi CBD.
+Delivery across Kenya including Kisumu, Nakuru, Eldoret, and Mombasa.
+M-Pesa and bank transfer accepted.
+WhatsApp ordering and walk-in options at The One Mall, River Road.
+
+## Getting the most from this cartridge
+Gently tilt cartridge back and forth before sliding into the drum unit.
+Ensure locking lever snaps firmly into position.
+
+## Frequently asked questions
+Is an XL version available? Yes, high-yield TN-3280 (~8,000 pages) fits the same printer family.
+Are color cartridges needed? No, these devices are monochrome laser systems.
+What is delivery time to Nakuru? Delivered within 24 hours upcountry.
+How do I pay? Pay via M-Pesa or bank wire transfer.
+Does it include drum? No, drum unit (DR-3200) is sold separately.`, "metaTitle": "Brother TN-3250 Black Toner Cartridge - Trinatech Kenya", "metaDescription": "Buy Brother TN-3250 black toner cartridge in Nairobi. Yields ~3,000 pages for HL-5340D, HL-5350DN, MFC-8880DN. Fast Kenya shipping.", "inStock": true},
+  {"id": 5547, "sku": "TN-3290", "name": "Brother TN-3290 Black Toner Cartridge", "brand": "Brother", "category": "Brother Toners", "price": 3500, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/Brother-TN-3290-Black-Toner-Cartridge.webp", "imageFile": "Brother-TN-3290-Black-Toner-Cartridge.webp", "description": `The Brother TN-3290 Black Toner Cartridge is an ultra-high capacity monochrome cartridge engineered for high-volume corporate printing. Formulated to produce clear, dark text with minimal intervention across Kenya.
+
+## Compatible printers
+Brother DCP-8070D
+Brother DCP-8085DN
+Brother HL-5340D
+Brother HL-5350DN
+Brother HL-5370DW
+Brother HL-5380DN
+Brother MFC-8370DN
+Brother MFC-8380DN
+Brother MFC-8880DN
+Brother MFC-8890DW
+If your model isn't listed, send us the number from the front of the machine and we'll confirm before you pay.
+
+## Specifications
+| Page yield | Cartridge type | Colour | Capacity | Part number | Genuine or compatible |
+|---|---|---|---|---|---|
+| ~8,000 pages | Toner Cartridge | Black | High Capacity | TN-3290 | Genuine |
+
+## Genuine or compatible?
+Genuine Original Brother product. Royal compatible equivalent cartridges are available to lower per-page costs on heavy printing runs.
+
+## Why buy from Trinatech
+Stock held in Nairobi CBD.
+Delivery across Kenya including Kisumu, Nakuru, Eldoret, and Mombasa.
+M-Pesa and bank transfer accepted.
+WhatsApp ordering and walk-in options at The One Mall, River Road.
+
+## Getting the most from this cartridge
+Rock the unit horizontally prior to installation to un-compact toner powder.
+Keep spare units stored flat in dry room conditions.
+
+## Frequently asked questions
+Is a lower yield version available? Yes, standard yield TN-3250 (~3,000 pages) is available.
+Are color toners required? No, supported models are monochrome printers.
+How fast is Nairobi delivery? Same-day inside 1 to 3 hours.
+How do I pay? Pay via M-Pesa Buy Goods/Till or bank wire.
+Is drum included? No, uses separate DR-3200 drum.`, "metaTitle": "Brother TN-3290 High Yield Black Toner - Trinatech Kenya", "metaDescription": "Order Brother TN-3290 high yield black toner in Nairobi. Yields ~8,000 pages for HL-5340D and MFC-8880DN. Fast shipping across Kenya.", "inStock": true},
+  {"id": 5546, "sku": "TN-3350", "name": "Brother TN-3350 Black Toner Cartridge", "brand": "Brother", "category": "Brother Toners", "price": 3500, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/Brother-TN-3350-Black-Toner-Cartridge.webp", "imageFile": "Brother-TN-3350-Black-Toner-Cartridge.webp", "description": `The Brother TN-3350 Black Toner Cartridge is a high-capacity monochrome consumable for heavy-duty office workgroups. Delivers deep black text, clear line work, and long-lasting page yields for operations across Kenya.
+
+## Compatible printers
+Brother DCP-8110DN
+Brother DCP-8250DN
+Brother HL-5440D
+Brother HL-5450DN
+Brother HL-5470DW
+Brother HL-6180DW
+Brother HL-6180DWT
+Brother MFC-8510DN
+Brother MFC-8520DN
+Brother MFC-8950DW
+Brother MFC-8950DWT
+If your model isn't listed, send us the number from the front of the machine and we'll confirm before you pay.
+
+## Specifications
+| Page yield | Cartridge type | Colour | Capacity | Part number | Genuine or compatible |
+|---|---|---|---|---|---|
+| ~8,000 pages | Toner Cartridge | Black | High Capacity | TN-3350 | Genuine |
+
+## Genuine or compatible?
+Genuine Original Brother product. Royal compatible brand alternatives fit the same printers at lower costs for budget-conscious printing.
+
+## Why buy from Trinatech
+Stock held in Nairobi CBD.
+Delivery across Kenya including Kisumu, Nakuru, Eldoret, and Mombasa.
+M-Pesa and bank transfer accepted.
+WhatsApp ordering and walk-in options at The One Mall, River Road.
+
+## Getting the most from this cartridge
+Store in cool ambient conditions.
+Rotate side-to-side before unsealing to break up settled powder.
+Clean corona wire when installing.
+
+## Frequently asked questions
+Is an XL version available? Yes, super high-yield TN-3390 (~12,000 pages) is available for selected models.
+Are color cartridges required? No, all compatible models listed are monochrome.
+How fast is Nairobi shipping? Delivered within 1-3 hours.
+How can I pay? Pay via M-Pesa, bank wire, or cash.
+Is drum included? No, separate DR-3300 drum unit required.`, "metaTitle": "Brother TN-3350 Black Toner Cartridge Price - Trinatech", "metaDescription": "Shop Brother TN-3350 black toner cartridge in Nairobi. Yields ~8,000 pages for HL-5450DN, HL-6180DW, MFC-8950DW. Fast CBD delivery.", "inStock": true},
+  {"id": 4403, "sku": null, "name": "Brother TN-3350 Toner Cartridge", "brand": "Brother", "category": "Inks & Toner Cartridges", "price": 13000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2025/01/Brother-TN-3350-Toner.png", "imageFile": "Brother-TN-3350-Toner.png", "description": `The Brother TN-3350 Toner Cartridge is an original Brother high-capacity black consumable for heavy-duty desktop laser printers. Built for dependable clarity, sharp document contrast, and long-term trouble-free printing across Kenya.
+
+## Compatible printers
+Brother DCP-8110DN
+Brother DCP-8250DN
+Brother HL-5440D
+Brother HL-5450DN
+Brother HL-5470DW
+Brother HL-6180DW
+Brother HL-6180DWT
+Brother MFC-8510DN
+Brother MFC-8520DN
+Brother MFC-8950DW
+Brother MFC-8950DWT
+If your model isn't listed, send us the number from the front of the machine and we'll confirm before you pay.
+
+## Specifications
+| Page yield | Cartridge type | Colour | Capacity | Part number | Genuine or compatible |
+|---|---|---|---|---|---|
+| ~8,000 pages | Toner Cartridge | Black | High Capacity | TN-3350 | Genuine |
+
+## Genuine or compatible?
+Genuine Original Brother toner cartridge in factory sealed box. Royal compatible alternatives are also available if lower cost per page is preferred.
+
+## Why buy from Trinatech
+Stock held in Nairobi CBD.
+Delivery across Kenya including Kisumu, Nakuru, Eldoret, and Mombasa.
+M-Pesa and bank transfer accepted.
+WhatsApp ordering and walk-in options at The One Mall, River Road.
+
+## Getting the most from this cartridge
+Keep sealed until installation.
+Gently tilt horizontally before loading to loosen settled toner.
+Slide green tab on drum unit to clean corona wire.
+
+## Frequently asked questions
+Is an XL version available? Yes, super high-yield TN-3390 (~12,000 pages) is available.
+Are color toners needed? No, supported models are monochrome laser printers.
+How fast is Nairobi delivery? 1 to 3 hours within Nairobi CBD.
+How can I pay? M-Pesa, bank wire, or cash at counter.
+Is warranty provided? Covered against factory defects under Brother standard warranty.`, "metaTitle": "Brother TN-3350 Original Toner Cartridge - Trinatech Kenya", "metaDescription": "Order original Brother TN-3350 black toner cartridge in Nairobi. Yields ~8,000 pages for HL-5450DN and MFC-8950DW. Fast shipping in Kenya.", "inStock": true},
   {"id": 5545, "sku": "TN-3437", "name": "Brother TN-3437 Black Toner High Capacity", "brand": "Brother", "category": "Brother Toners", "price": 3500, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/Brother-TN-3437-Black-Toner-High-Capacity.webp", "imageFile": "Brother-TN-3437-Black-Toner-High-Capacity.webp", "description": "BROTHER TN-3437 BLACK TONER HIGH CAPACITY", "inStock": true},
   {"id": 5544, "sku": "TN-2355", "name": "Compatible Brother TN-2355 ~ DR-2305 Black Toner", "brand": "Brother", "category": "Brother Toners", "price": 2500, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/Compatible-Brother-TN-2355-DR-2305-Black-Toner.webp", "imageFile": "Compatible-Brother-TN-2355-DR-2305-Black-Toner.webp", "description": `The Compatible Brother TN-2355 Black Toner Cartridge is the ultimate cost-saving solution for offices that produce large volumes of everyday documents on their Brother L2000 series printers. Designed as a direct drop-in replacement for the original part, this high-quality compatible toner matches the 2,600-page high yield of the original at a fraction of the cost. It delivers deep, reliable black text, making it ideal for internal paperwork, heavy invoice runs, and school environments.
 

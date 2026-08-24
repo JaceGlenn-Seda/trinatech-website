@@ -5,9 +5,83 @@ export const PRODUCTS_1 = [
   {"id": 4051, "sku": null, "name": "Apc Back-Ups 650VA", "brand": "APC", "category": "Computers & Computer Accessories > External Hard Disks", "price": 12000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2025/01/APC-UPS-650VA.png", "imageFile": "APC-UPS-650VA.png", "description": "The APC Back-UPS 650VA is an efficient and affordable solution for protecting your essential electronics from power disruptions. With a 650VA power capacity, this uninterruptible…", "inStock": true},
   {"id": 3473, "sku": null, "name": "Asus X515 Celeron 4GB/256SSD/15.6 Laptop", "brand": "Asus", "category": "Laptops", "price": 39000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2024/12/ASUS-Laptop-X515.png", "imageFile": "ASUS-Laptop-X515.png", "description": "The ASUS X515 Celeron 4GB/256SSD/15.6 Laptop is designed to deliver dependable performance for everyday tasks, making it the perfect choice for students, home users, and light…", "inStock": true},
   {"id": 3475, "sku": null, "name": "Asus X543U Core I5 8GB1TB15.6WIN 10 Laptop", "brand": "Asus", "category": "Laptops", "price": 63000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2024/12/Asus-X543U-Laptop.png", "imageFile": "Asus-X543U-Laptop.png", "description": "The ASUS X543U Core i5 8GB/1TB/15.6\"/Win 10 Laptop combines performance, storage, and a large display into one affordable and powerful device. Equipped with an Intel Core i5…", "inStock": true},
-  {"id": 5559, "sku": null, "name": "Brother BT-D60 BK Black High Yield Ink Bottle", "brand": "Brother", "category": "Brother Toners", "price": 1700, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/Brother-BT-D60-BK-Black-High-Yield-Ink-Bottle.webp", "imageFile": "Brother-BT-D60-BK-Black-High-Yield-Ink-Bottle.webp", "description": "BROTHER BT-D60 BK BLACK HIGH YIELD INK BOTTLE", "inStock": true},
+  {"id": 5559, "sku": null, "name": "Brother BT-D60 BK Black High Yield Ink Bottle", "brand": "Brother", "category": "Brother Toners", "price": 1700, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/Brother-BT-D60-BK-Black-High-Yield-Ink-Bottle.webp", "imageFile": "Brother-BT-D60-BK-Black-High-Yield-Ink-Bottle.webp", "description": `The Brother BT-D60 BK Black High Yield Ink Bottle is an original ultra-high capacity refill ink bottle designed for Brother InkBenefit Tank printers. Built for demanding home offices and businesses in Nairobi requiring high-volume monochrome document printing with crisp text clarity.
+
+## Compatible printers
+Brother DCP-T220
+Brother DCP-T310
+Brother DCP-T420W
+Brother DCP-T426W
+Brother DCP-T510W
+Brother DCP-T520W
+Brother DCP-T710W
+Brother DCP-T720DW
+Brother DCP-T820DW
+Brother HL-T4000DW
+Brother MFC-T820DW
+Brother MFC-T910DW
+Brother MFC-T920DW
+Brother MFC-T4500DW
+If your model isn't listed, send us the number from the front of the machine and we'll confirm before you pay.
+
+## Specifications
+| Page yield | Cartridge type | Colour | Capacity | Part number | Genuine or compatible |
+|---|---|---|---|---|---|
+| ~7,500 pages | Refill Ink Bottle | Black | 108 ml | BTD60BK | Genuine |
+
+## Genuine or compatible?
+Genuine Original Brother ink bottle. Royal compatible brand alternatives are also stocked to lower cost per page on bulk printing tasks.
+
+## Why buy from Trinatech
+Stock held in Nairobi CBD.
+Delivery across Kenya including Kisumu, Nakuru, Eldoret, and Mombasa.
+M-Pesa and bank transfer accepted.
+WhatsApp ordering and walk-in options at The One Mall, River Road.
+
+## Getting the most from this cartridge
+Keep sealed until refilling time.
+Ensure the printer nozzle is wiped clean before pouring into the tank bay to prevent air locks or dust contamination.
+
+## Frequently asked questions
+Is an XL version available? BT-D60 BK is already an ultra-high yield bottle printing ~7,500 pages.
+Do I need color inks? Yes, if printing color documents; Brother Ink Tank models require active color tanks.
+What is delivery time in Nairobi? Delivered within 1 to 3 hours in Nairobi.
+How do I pay? Pay via M-Pesa Buy Goods/Till or bank transfer.
+Is it easy to refill? Yes, it uses a mess-free key-lock spout mechanism.`, "metaTitle": "Brother BT-D60 BK Ink Bottle Price in Kenya - Trinatech", "metaDescription": "Buy genuine Brother BT-D60 BK high yield black ink in Nairobi. Yields ~7,500 pages. Fast delivery across Kenya. M-Pesa accepted.", "inStock": true},
   {"id": 5561, "sku": "BT5000C", "name": "Brother BT5000C BT5000Y BT5000M Inks Each", "brand": "Brother", "category": "Brother Toners", "price": 1700, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/BROTHER-Bt5000C-Bt5000Y-Bt5000M-Inks-Each.webp", "imageFile": "BROTHER-Bt5000C-Bt5000Y-Bt5000M-Inks-Each.webp", "description": "Brother BT5000C BT5000Y BT5000M INKS EACH", "inStock": true},
-  {"id": 5560, "sku": "BT6000B", "name": "Brother BT6000BK Ink Bottle Black", "brand": "Brother", "category": "Brother Toners", "price": 1700, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/Brother-BT6000BK-Ink-Bottle-Black.webp", "imageFile": "Brother-BT6000BK-Ink-Bottle-Black.webp", "description": "BROTHER BT6000BK INK BOTTLE BLACK", "inStock": true},
+  {"id": 5560, "sku": "BT6000B", "name": "Brother BT6000BK Ink Bottle Black", "brand": "Brother", "category": "Brother Toners", "price": 1700, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/Brother-BT6000BK-Ink-Bottle-Black.webp", "imageFile": "Brother-BT6000BK-Ink-Bottle-Black.webp", "description": `The Brother BT6000BK Black Ink Bottle is the original high-yield black ink designed for first-generation Brother Ink Tank printers. Delivers clear dark text and cost-effective daily printing for businesses in Nairobi.
+
+## Compatible printers
+Brother DCP-T300
+Brother DCP-T500W
+Brother DCP-T700W
+Brother MFC-T800W
+If your model isn't listed, send us the number from the front of the machine and we'll confirm before you pay.
+
+## Specifications
+| Page yield | Cartridge type | Colour | Capacity | Part number | Genuine or compatible |
+|---|---|---|---|---|---|
+| ~6,000 pages | Refill Ink Bottle | Black | 108 ml | BT6000BK | Genuine |
+
+## Genuine or compatible?
+Genuine Original Brother product. Royal compatible equivalents are available for budget-minded users printing heavy page volumes.
+
+## Why buy from Trinatech
+Stock held in Nairobi CBD.
+Delivery across Kenya including Kisumu, Nakuru, Eldoret, and Mombasa.
+M-Pesa and bank transfer accepted.
+WhatsApp ordering and walk-in options at The One Mall, River Road.
+
+## Getting the most from this cartridge
+Refill tank completely when ink drops to lower reservoir line.
+Avoid exposing open bottles to dust or extreme temperature swings.
+
+## Frequently asked questions
+Is an XL version available? BT6000BK offers a high standard capacity of ~6,000 pages.
+Is BT6000BK the same as BT-D60BK? No, BT6000BK is for older models (T300/T500W), whereas BTD60BK fits newer T310/T510W series.
+How fast is upcountry shipping? Delivered within 24 hours nationwide.
+What payment options exist? Pay via M-Pesa Buy Goods or Till.
+Is warranty included? Standard shop return policy applies.`, "metaTitle": "Brother BT6000BK Black Ink Bottle - Trinatech Kenya", "metaDescription": "Buy Brother BT6000BK black ink bottle in Nairobi. Yields ~6,000 pages for DCP-T300, T500W, T700W, MFC-T800W. Fast Kenya shipping.", "inStock": true},
   {"id": 5558, "sku": "DR-2305", "name": "Brother DR-2305 Drum Unit", "brand": "Brother", "category": "Brother Toners", "price": 3500, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/Brother-DR-2305-Drum-Unit.webp", "imageFile": "Brother-DR-2305-Drum-Unit.webp", "description": "BROTHER DR-2305 DRUM UNIT", "inStock": true},
   {"id": 5357, "sku": "LC3717", "name": "Brother LC3717 Black Ink Cartridges", "brand": "Brother", "category": "Brother Inks Cartridges", "price": 3000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/Brother-LC3717-Black-Ink-Cartridges.webp", "imageFile": "Brother-LC3717-Black-Ink-Cartridges.webp", "description": "BROTHER LC3717 BLACK INK CARTRIDGES", "inStock": true},
   {"id": 5356, "sku": "LC3717C", "name": "Brother LC3717C Cyan Ink Cartridges", "brand": "Brother", "category": "Brother Inks Cartridges", "price": 3000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/Brother-LC3717C-Cyan-Ink-Cartridges.webp", "imageFile": "Brother-LC3717C-Cyan-Ink-Cartridges.webp", "description": "BROTHER LC3717C CYAN INK CARTRIDGES", "inStock": true},
@@ -36,13 +110,318 @@ export const PRODUCTS_1 = [
   {"id": 4403, "sku": null, "name": "Brother TN-3350 Toner Cartridge", "brand": "Brother", "category": "Inks & Toner Cartridges", "price": 13000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2025/01/Brother-TN-3350-Toner.png", "imageFile": "Brother-TN-3350-Toner.png", "description": "Compatible with: HL-5440D HL-5450DN / DNT / DWT HL-5470DW / DWT HL-6180DW / DWT HL-6100 and HL-5480 series DCP-8100 / 8110DN / 8155DN / 8250DN MFC-8510DN", "inStock": true},
   {"id": 5545, "sku": "TN-3437", "name": "Brother TN-3437 Black Toner High Capacity", "brand": "Brother", "category": "Brother Toners", "price": 3500, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/Brother-TN-3437-Black-Toner-High-Capacity.webp", "imageFile": "Brother-TN-3437-Black-Toner-High-Capacity.webp", "description": "BROTHER TN-3437 BLACK TONER HIGH CAPACITY", "inStock": true},
   {"id": 5544, "sku": "TN-2355", "name": "Compatible Brother TN-2355 ~ DR-2305 Black Toner", "brand": "Brother", "category": "Brother Toners", "price": 2500, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/Compatible-Brother-TN-2355-DR-2305-Black-Toner.webp", "imageFile": "Compatible-Brother-TN-2355-DR-2305-Black-Toner.webp", "description": "COMPATIBLE BROTHER TN-2355 ~ DR-2305 BLACK TONER", "inStock": true},
-  {"id": 5520, "sku": null, "name": "Canon 045 Cym Toner Cartridges Each", "brand": "Canon", "category": "Canon Toners", "price": 3000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/Canon-045-Cym-Toner-Cartridges-Each-1.webp", "imageFile": "Canon-045-Cym-Toner-Cartridges-Each-1.webp", "description": "CANON 045 CYM TONER CARTRIDGES EACH", "inStock": true},
-  {"id": 5519, "sku": null, "name": "Canon 045BK Black Toner Cartridge", "brand": "Canon", "category": "Canon Toners", "price": 3000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/Canon-045BK-Black-Toner-Cartridge.webp", "imageFile": "Canon-045BK-Black-Toner-Cartridge.webp", "description": "CANON 045BK BLACK TONER CARTRIDGE", "inStock": true},
-  {"id": 5518, "sku": null, "name": "Canon 718 Black Original Laser Toner Cartridge", "brand": "Canon", "category": "Canon Toners", "price": 4000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/Canon-718-Black-Original-Laser-Toner-Cartridge.webp", "imageFile": "Canon-718-Black-Original-Laser-Toner-Cartridge.webp", "description": "CANON 718 BLACK ORIGINAL LASER TONER CARTRIDGE", "inStock": true},
-  {"id": 5517, "sku": null, "name": "Canon 718 Cyan Original Laser Toner Cartridge", "brand": "Canon", "category": "Canon Toners", "price": 4000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/Canon-718-Cyan-Original-Laser-Toner-Cartridge-1.webp", "imageFile": "Canon-718-Cyan-Original-Laser-Toner-Cartridge-1.webp", "description": "CANON 718 CYAN ORIGINAL LASER TONER CARTRIDGE", "inStock": true},
-  {"id": 5516, "sku": null, "name": "Canon 718 Magenta Original Laser Toner Cartridge", "brand": "Canon", "category": "Canon Toners", "price": 4000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/Canon-718-Magenta-Original-Laser-Toner-Cartridge.webp", "imageFile": "Canon-718-Magenta-Original-Laser-Toner-Cartridge.webp", "description": "CANON 718 MAGENTA ORIGINAL LASER TONER CARTRIDGE", "inStock": true},
-  {"id": 5515, "sku": null, "name": "Canon 719 Black Original Laser Toner Cartridge", "brand": "Canon", "category": "Canon Toners", "price": 4000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/Canon-719-Black-Original-Laser-Toner-Cartridge.webp", "imageFile": "Canon-719-Black-Original-Laser-Toner-Cartridge.webp", "description": "CANON 719 BLACK ORIGINAL LASER TONER CARTRIDGE", "inStock": true},
-  {"id": 5514, "sku": null, "name": "Canon 719 Yellow Original Laser Toner Cartridge", "brand": "Canon", "category": "Canon Toners", "price": 4000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/Canon-719-Yellow-Original-Laser-Toner-Cartridge-1.webp", "imageFile": "Canon-719-Yellow-Original-Laser-Toner-Cartridge-1.webp", "description": "CANON 719 YELLOW ORIGINAL LASER TONER CARTRIDGE", "inStock": true},
+  {"id": 5520, "sku": null, "name": "Canon 045 Cym Toner Cartridges Each", "brand": "Canon", "category": "Canon Toners", "price": 3000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/Canon-045-Cym-Toner-Cartridges-Each-1.webp", "imageFile": "Canon-045-Cym-Toner-Cartridges-Each-1.webp", "description": `The Canon 045 Color Toner Cartridge series (Cyan, Magenta, Yellow) delivers high-definition color prints for compact imageCLASS laser printers. Formulated for sharp graphics, brochures, and daily document printing across Kenya.
+
+## Compatible printers
+Canon Color imageCLASS LBP611Cn
+Canon Color imageCLASS LBP612Cdw
+Canon Color imageCLASS LBP613Cdw
+Canon Color imageCLASS MF631Cn
+Canon Color imageCLASS MF632Cdw
+Canon Color imageCLASS MF633Cdw
+Canon Color imageCLASS MF634Cdw
+Canon Color imageCLASS MF635Cx
+Canon i-SENSYS LBP611Cn
+Canon i-SENSYS LBP613Cdw
+Canon i-SENSYS MF631Cn
+Canon i-SENSYS MF633Cdw
+Canon i-SENSYS MF635Cx
+If your model isn't listed, send us the number from the front of the machine and we'll confirm before you pay.
+
+## Specifications
+| Page yield | Cartridge type | Colour | Capacity | Part number | Genuine or compatible |
+|---|---|---|---|---|---|
+| ~1,300 pages each | Toner Cartridge | Cyan, Magenta, Yellow | Standard | 045C / 045M / 045Y | Genuine |
+
+## Genuine or compatible?
+Original Genuine Canon toner cartridge. Royal compatible color cartridges fit the same printers at lower costs to reduce ongoing printing expenses.
+
+## Why buy from Trinatech
+Stock held in Nairobi CBD.
+Delivery across Kenya including Kisumu, Nakuru, Eldoret, and Mombasa.
+M-Pesa and bank transfer accepted.
+WhatsApp ordering and walk-in options at The One Mall, River Road.
+
+## Getting the most from this cartridge
+Store cartridges flat in dry room conditions.
+Gently rock the unit end-to-end prior to installation to un-compact toner powder.
+
+## Frequently asked questions
+Is an XL high-yield version available? Yes, high-yield Canon 045H cartridges (~2,200 pages) are available separately.
+Are all four colors needed? Yes, color printers require active cartridges in all four bays.
+How fast is delivery in Nairobi? 1 to 3 hours across Nairobi CBD.
+How can I pay? M-Pesa, bank wire, or cash in shop.
+Are colors sold individually? Yes, priced per individual color cartridge.`, "metaTitle": "Canon 045 Color Toner Cartridges Price - Trinatech Kenya", "metaDescription": "Shop Canon 045 Cyan, Magenta, Yellow toner cartridges in Nairobi. Yields ~1,300 pages. Fast shipping across Kenya from River Road shop.", "inStock": true},
+  {"id": 5519, "sku": null, "name": "Canon 045BK Black Toner Cartridge", "brand": "Canon", "category": "Canon Toners", "price": 3000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/Canon-045BK-Black-Toner-Cartridge.webp", "imageFile": "Canon-045BK-Black-Toner-Cartridge.webp", "description": `The Canon 045BK Black Toner Cartridge supplies reliable monochrome output for compact color laser printers. Engineered to produce crisp black text and sharp document line work for office workgroups in Nairobi.
+
+## Compatible printers
+Canon Color imageCLASS LBP611Cn
+Canon Color imageCLASS LBP612Cdw
+Canon Color imageCLASS LBP613Cdw
+Canon Color imageCLASS MF631Cn
+Canon Color imageCLASS MF632Cdw
+Canon Color imageCLASS MF633Cdw
+Canon Color imageCLASS MF634Cdw
+Canon Color imageCLASS MF635Cx
+Canon i-SENSYS LBP611Cn
+Canon i-SENSYS LBP613Cdw
+Canon i-SENSYS MF631Cn
+Canon i-SENSYS MF633Cdw
+Canon i-SENSYS MF635Cx
+If your model isn't listed, send us the number from the front of the machine and we'll confirm before you pay.
+
+## Specifications
+| Page yield | Cartridge type | Colour | Capacity | Part number | Genuine or compatible |
+|---|---|---|---|---|---|
+| ~1,400 pages | Toner Cartridge | Black | Standard | 1242C001 / 045BK | Genuine |
+
+## Genuine or compatible?
+Genuine Original Canon toner unit. A Royal compatible brand equivalent cartridge fits the same printer models at a reduced price.
+
+## Why buy from Trinatech
+Stock held in Nairobi CBD.
+Delivery across Kenya including Kisumu, Nakuru, Eldoret, and Mombasa.
+M-Pesa and bank transfer accepted.
+WhatsApp ordering and walk-in options at The One Mall, River Road.
+
+## Getting the most from this cartridge
+Tilt cartridge horizontally 5 times before installation.
+Remove protective sealing tape fully before sliding into machine bay.
+
+## Frequently asked questions
+Is an XL alternative available? Yes, Canon 045H Black offers a higher yield of ~2,800 pages.
+Do I need color cartridges too? Yes, if printing in full color; monochrome jobs use black toner.
+How fast is shipping? Delivered same-day in Nairobi; overnight upcountry.
+What payment options exist? M-Pesa Buy Goods/Till, bank wire, and cash.
+Is chip pre-installed? Yes, comes with integrated status chip.`, "metaTitle": "Canon 045BK Black Toner Cartridge - Trinatech Kenya", "metaDescription": "Buy Canon 045BK black toner cartridge in Nairobi. Yields ~1,400 pages for MF630 and LBP610 series. Fast CBD delivery & M-Pesa.", "inStock": true},
+  {"id": 5518, "sku": null, "name": "Canon 718 Black Original Laser Toner Cartridge", "brand": "Canon", "category": "Canon Toners", "price": 4000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/Canon-718-Black-Original-Laser-Toner-Cartridge.webp", "imageFile": "Canon-718-Black-Original-Laser-Toner-Cartridge.webp", "description": `The Canon 718 Black Original Laser Toner Cartridge is an authentic Canon supply unit built for high-performance desktop color laser copiers. Provides deep black contrast and sharp legibility for corporate documents across Kenya.
+
+## Compatible printers
+Canon i-SENSYS LBP7200Cdn
+Canon i-SENSYS LBP7210Cdn
+Canon i-SENSYS LBP7660Cdn
+Canon i-SENSYS LBP7680Cx
+Canon i-SENSYS MF724Cdw
+Canon i-SENSYS MF728Cdw
+Canon i-SENSYS MF729Cx
+Canon i-SENSYS MF8330Cdn
+Canon i-SENSYS MF8340Cdn
+Canon i-SENSYS MF8350Cdn
+Canon i-SENSYS MF8360Cdn
+Canon i-SENSYS MF8380Cdw
+Canon i-SENSYS MF8540Cdn
+Canon i-SENSYS MF8550Cdn
+Canon i-SENSYS MF8580Cdw
+If your model isn't listed, send us the number from the front of the machine and we'll confirm before you pay.
+
+## Specifications
+| Page yield | Cartridge type | Colour | Capacity | Part number | Genuine or compatible |
+|---|---|---|---|---|---|
+| ~3,400 pages | Toner Cartridge | Black | Standard | 2662B002 / CRG-718BK | Genuine |
+
+## Genuine or compatible?
+Genuine Original Canon toner cartridge in sealed factory packaging. Royal compatible alternatives are available to lower page costs for bulk printing.
+
+## Why buy from Trinatech
+Stock held in Nairobi CBD.
+Delivery across Kenya including Kisumu, Nakuru, Eldoret, and Mombasa.
+M-Pesa and bank transfer accepted.
+WhatsApp ordering and walk-in options at The One Mall, River Road.
+
+## Getting the most from this cartridge
+Rock the unit gently side-to-side prior to installation.
+Store flat in dry ambient temperature.
+Pull seal tape completely straight out.
+
+## Frequently asked questions
+Is an XL high-yield version available? Yes, Canon 718BK VP (Value Pack) double-packs exist for high volume.
+Are color cartridges needed? Yes, all four color slots must contain active cartridges.
+How fast is Nairobi delivery? Same-day within 1 to 3 hours in Nairobi.
+How do I pay? Pay via M-Pesa or bank transfer.
+Does it include chip? Yes, original chip pre-installed.`, "metaTitle": "Canon 718 Black Original Toner Price - Trinatech Kenya", "metaDescription": "Order original Canon 718 black laser toner cartridge in Nairobi. Yields ~3,400 pages for LBP7200 and MF8350. Fast delivery across Kenya.", "inStock": true},
+  {"id": 5517, "sku": null, "name": "Canon 718 Cyan Original Laser Toner Cartridge", "brand": "Canon", "category": "Canon Toners", "price": 4000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/Canon-718-Cyan-Original-Laser-Toner-Cartridge-1.webp", "imageFile": "Canon-718-Cyan-Original-Laser-Toner-Cartridge-1.webp", "description": `The Canon 718 Cyan Original Laser Toner Cartridge delivers vibrant cyan tones for Canon color laser printers. Formulated to produce clear photo elements, logos, and high-impact business graphics across Kenya.
+
+## Compatible printers
+Canon i-SENSYS LBP7200Cdn
+Canon i-SENSYS LBP7210Cdn
+Canon i-SENSYS LBP7660Cdn
+Canon i-SENSYS LBP7680Cx
+Canon i-SENSYS MF724Cdw
+Canon i-SENSYS MF728Cdw
+Canon i-SENSYS MF729Cx
+Canon i-SENSYS MF8330Cdn
+Canon i-SENSYS MF8340Cdn
+Canon i-SENSYS MF8350Cdn
+Canon i-SENSYS MF8360Cdn
+Canon i-SENSYS MF8380Cdw
+Canon i-SENSYS MF8540Cdn
+Canon i-SENSYS MF8550Cdn
+Canon i-SENSYS MF8580Cdw
+If your model isn't listed, send us the number from the front of the machine and we'll confirm before you pay.
+
+## Specifications
+| Page yield | Cartridge type | Colour | Capacity | Part number | Genuine or compatible |
+|---|---|---|---|---|---|
+| ~2,900 pages | Toner Cartridge | Cyan | Standard | 2661B002 / CRG-718C | Genuine |
+
+## Genuine or compatible?
+Genuine Original Canon toner cartridge. Royal compatible house brand cartridges fit the same machines at a lower price point.
+
+## Why buy from Trinatech
+Stock held in Nairobi CBD.
+Delivery across Kenya including Kisumu, Nakuru, Eldoret, and Mombasa.
+M-Pesa and bank transfer accepted.
+WhatsApp ordering and walk-in options at The One Mall, River Road.
+
+## Getting the most from this cartridge
+Store horizontally in original box.
+Rotate side-to-side prior to loading into Cyan slot.
+Avoid touching delicate drum surface.
+
+## Frequently asked questions
+Is an XL version available? Standard yield is ~2,900 pages per color cartridge.
+Do I need other colors? Yes, full set (K, C, M, Y) is required to operate printer.
+What is delivery time to Mombasa? Overnight delivery within 24 hours.
+How do I order via WhatsApp? Send item details to our shop contact.
+Is warranty provided? Covered against technical defects.`, "metaTitle": "Canon 718 Cyan Original Toner Cartridge - Trinatech", "metaDescription": "Buy genuine Canon 718 Cyan laser toner cartridge in Nairobi. Yields ~2,900 pages for LBP7200 and MF8350. Fast shipping across Kenya.", "inStock": true},
+  {"id": 5516, "sku": null, "name": "Canon 718 Magenta Original Laser Toner Cartridge", "brand": "Canon", "category": "Canon Toners", "price": 4000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/Canon-718-Magenta-Original-Laser-Toner-Cartridge.webp", "imageFile": "Canon-718-Magenta-Original-Laser-Toner-Cartridge.webp", "description": `The Canon 718 Magenta Original Laser Toner Cartridge produces rich magenta tones for Canon desktop color laser copiers. Ensures uniform color density, smooth gradients, and sharp image contrast.
+
+## Compatible printers
+Canon i-SENSYS LBP7200Cdn
+Canon i-SENSYS LBP7210Cdn
+Canon i-SENSYS LBP7660Cdn
+Canon i-SENSYS LBP7680Cx
+Canon i-SENSYS MF724Cdw
+Canon i-SENSYS MF728Cdw
+Canon i-SENSYS MF729Cx
+Canon i-SENSYS MF8330Cdn
+Canon i-SENSYS MF8340Cdn
+Canon i-SENSYS MF8350Cdn
+Canon i-SENSYS MF8360Cdn
+Canon i-SENSYS MF8380Cdw
+Canon i-SENSYS MF8540Cdn
+Canon i-SENSYS MF8550Cdn
+Canon i-SENSYS MF8580Cdw
+If your model isn't listed, send us the number from the front of the machine and we'll confirm before you pay.
+
+## Specifications
+| Page yield | Cartridge type | Colour | Capacity | Part number | Genuine or compatible |
+|---|---|---|---|---|---|
+| ~2,900 pages | Toner Cartridge | Magenta | Standard | 2660B002 / CRG-718M | Genuine |
+
+## Genuine or compatible?
+Genuine Original Canon toner cartridge. Royal compatible equivalents are available upon request for cost-effective color printing.
+
+## Why buy from Trinatech
+Stock held in Nairobi CBD.
+Delivery across Kenya including Kisumu, Nakuru, Eldoret, and Mombasa.
+M-Pesa and bank transfer accepted.
+WhatsApp ordering and walk-in options at The One Mall, River Road.
+
+## Getting the most from this cartridge
+Tilt end-to-end gently before installation.
+Keep stored away from high temperature or direct light.
+Ensure correct slot alignment.
+
+## Frequently asked questions
+Is an XL alternative available? Yield is standard at ~2,900 pages per color cartridge.
+Do I need all four colors? Yes, printer requires active K, C, M, Y cartridges.
+How fast is Nairobi delivery? 1 to 3 hours across Nairobi CBD.
+How can I pay? Pay via M-Pesa or bank wire transfer.
+Is chip pre-installed? Yes, genuine chip included.`, "metaTitle": "Canon 718 Magenta Original Toner Price - Trinatech Kenya", "metaDescription": "Shop genuine Canon 718 Magenta laser toner in Nairobi. Yields ~2,900 pages for LBP7200 and MF8350 series. Fast delivery nationwide.", "inStock": true},
+  {"id": 5515, "sku": null, "name": "Canon 719 Black Original Laser Toner Cartridge", "brand": "Canon", "category": "Canon Toners", "price": 4000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/Canon-719-Black-Original-Laser-Toner-Cartridge.webp", "imageFile": "Canon-719-Black-Original-Laser-Toner-Cartridge.webp", "description": `The Canon 719 Black Original Laser Toner Cartridge supplies reliable monochrome printing for desktop Canon laser printers. Formulated for sharp black text, clean document lines, and steady performance for office workgroups across Kenya.
+
+## Compatible printers
+Canon i-SENSYS LBP251dw
+Canon i-SENSYS LBP252dw
+Canon i-SENSYS LBP253x
+Canon i-SENSYS LBP6300dn
+Canon i-SENSYS LBP6310dn
+Canon i-SENSYS LBP6650dn
+Canon i-SENSYS LBP6670dn
+Canon i-SENSYS LBP6680x
+Canon i-SENSYS MF411dw
+Canon i-SENSYS MF416dw
+Canon i-SENSYS MF418x
+Canon i-SENSYS MF419x
+Canon i-SENSYS MF5840dn
+Canon i-SENSYS MF5880dn
+Canon i-SENSYS MF5940dn
+Canon i-SENSYS MF5980dw
+Canon i-SENSYS MF6140dn
+Canon i-SENSYS MF6180dw
+If your model isn't listed, send us the number from the front of the machine and we'll confirm before you pay.
+
+## Specifications
+| Page yield | Cartridge type | Colour | Capacity | Part number | Genuine or compatible |
+|---|---|---|---|---|---|
+| ~2,100 pages | Toner Cartridge | Black | Standard | 3479B002 / CRG-719 | Genuine |
+
+## Genuine or compatible?
+Genuine Original Canon toner cartridge. Royal compatible alternatives (including Royal 719 / 719H equivalents) fit the same printers at lower costs.
+
+## Why buy from Trinatech
+Stock held in Nairobi CBD.
+Delivery across Kenya including Kisumu, Nakuru, Eldoret, and Mombasa.
+M-Pesa and bank transfer accepted.
+WhatsApp ordering and walk-in options at The One Mall, River Road.
+
+## Getting the most from this cartridge
+Rock the unit horizontally before unsealing.
+Remove protective pull tape fully.
+Keep spare stock stored in cool, dry conditions.
+
+## Frequently asked questions
+Is an XL high-yield version available? Yes, high-yield Canon 719H cartridges (~6,400 pages) are available separately.
+Are color cartridges required? No, supported models are monochrome laser printers.
+How fast is delivery in Kenya? Same-day within Nairobi; 24 hours upcountry.
+How do I pay? M-Pesa Buy Goods/Till, bank wire, or cash.
+Is warranty included? Standard shop defect warranty covers unopened units.`, "metaTitle": "Canon 719 Black Original Toner Cartridge - Trinatech", "metaDescription": "Order genuine Canon 719 black laser toner cartridge in Nairobi. Yields ~2,100 pages for LBP6300 and MF411. CBD stock, fast shipping.", "inStock": true},
+  {"id": 5514, "sku": null, "name": "Canon 719 Yellow Original Laser Toner Cartridge", "brand": "Canon", "category": "Canon Toners", "price": 4000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/Canon-719-Yellow-Original-Laser-Toner-Cartridge-1.webp", "imageFile": "Canon-719-Yellow-Original-Laser-Toner-Cartridge-1.webp", "description": `The Canon 719 Yellow Original Laser Toner Cartridge (commonly cross-referenced as Canon 718 Yellow for Canon color series) delivers vibrant yellow graphics and text for desktop color laser copiers across Kenya.
+
+## Compatible printers
+Canon i-SENSYS LBP7200Cdn
+Canon i-SENSYS LBP7210Cdn
+Canon i-SENSYS LBP7660Cdn
+Canon i-SENSYS LBP7680Cx
+Canon i-SENSYS MF724Cdw
+Canon i-SENSYS MF728Cdw
+Canon i-SENSYS MF729Cx
+Canon i-SENSYS MF8330Cdn
+Canon i-SENSYS MF8340Cdn
+Canon i-SENSYS MF8350Cdn
+Canon i-SENSYS MF8360Cdn
+Canon i-SENSYS MF8380Cdw
+Canon i-SENSYS MF8540Cdn
+Canon i-SENSYS MF8550Cdn
+Canon i-SENSYS MF8580Cdw
+If your model isn't listed, send us the number from the front of the machine and we'll confirm before you pay.
+
+## Specifications
+| Page yield | Cartridge type | Colour | Capacity | Part number | Genuine or compatible |
+|---|---|---|---|---|---|
+| ~2,900 pages | Toner Cartridge | Yellow | Standard | 2659B002 / CRG-718Y | Genuine |
+
+## Genuine or compatible?
+Original Genuine Canon supply unit. Royal compatible brand alternatives fit the same printers at lower cost for budget-conscious printing.
+
+## Why buy from Trinatech
+Stock held in Nairobi CBD.
+Delivery across Kenya including Kisumu, Nakuru, Eldoret, and Mombasa.
+M-Pesa and bank transfer accepted.
+WhatsApp ordering and walk-in options at The One Mall, River Road.
+
+## Getting the most from this cartridge
+Store horizontally in ambient conditions.
+Rotate side-to-side prior to sliding into Yellow slot.
+Remove seal strip cleanly before use.
+
+## Frequently asked questions
+Is an XL version available? Standard yield is ~2,900 pages per color unit.
+Do I need other colors? Yes, full set (K, C, M, Y) is required for color printing.
+What is Nairobi delivery turnaround? 1 to 3 hours within Nairobi.
+How do I pay? Pay via M-Pesa or bank transfer.
+Is chip pre-installed? Yes, factory chip included.`, "metaTitle": "Canon 718 Yellow Original Toner Price - Trinatech Kenya", "metaDescription": "Buy genuine Canon 718 Yellow laser toner cartridge in Nairobi. Yields ~2,900 pages for LBP7200 and MF8350. Fast Kenya-wide delivery.", "inStock": true},
   {"id": 5509, "sku": null, "name": "Canon C-EXV12 Black Original Laser Toner Cartridge", "brand": "Canon", "category": "Canon Toners", "price": 3000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/Canon-C-EXV12-Black-Original-Laser-Toner-Cartridge.webp", "imageFile": "Canon-C-EXV12-Black-Original-Laser-Toner-Cartridge.webp", "description": "CANON C-EXV12 BLACK ORIGINAL LASER TONER CARTRIDGE", "inStock": true},
   {"id": 5508, "sku": null, "name": "Canon C-EXV14 Black Original Laser Toner Cartridge", "brand": "Canon", "category": "Canon Toners", "price": 5000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/Canon-C-EXV14-Black-Original-Laser-Toner-Cartridge-1.webp", "imageFile": "Canon-C-EXV14-Black-Original-Laser-Toner-Cartridge-1.webp", "description": "CANON C-EXV14 BLACK ORIGINAL LASER TONER CARTRIDGE", "inStock": true},
   {"id": 5506, "sku": null, "name": "Canon C-EXV49 Toner Bcmy", "brand": "Canon", "category": "Canon Toners", "price": 5000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/Canon-C-EXV49-Toner-Bcmy.webp", "imageFile": "Canon-C-EXV49-Toner-Bcmy.webp", "description": "CANON C-EXV49 TONER BCMY", "inStock": true},

@@ -1257,8 +1257,66 @@ Are color toners needed? No, compatible e-STUDIO copiers are monochrome devices.
 How fast is Nairobi delivery? Delivered within 1 to 3 hours across Nairobi CBD.
 How do I pay? Pay via M-Pesa Buy Goods/Till or bank transfer.
 Is developer unit included? No, developer (D-2320) is supplied separately.`, "metaTitle": "Toshiba T-2320D Black Toner Cartridge Price - Trinatech", "metaDescription": "Buy Toshiba T-2320D black toner cartridge in Nairobi. Yields ~22,000 pages for e-STUDIO 200L, 230, 232, 280, 282. Fast Kenya shipping.", "inStock": true},
-  {"id": 4041, "sku": null, "name": "Transcend 1TB Portable External Hard Disk", "brand": "Transcend", "category": "Computers & Computer Accessories > External Hard Disks", "price": 9500, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2025/01/Transcend-1TB-External-Hard-Disk.png", "imageFile": "Transcend-1TB-External-Hard-Disk.png", "description": "The Transcend 1TB Portable External Hard Disk is an excellent choice for those in need of reliable and compact storage.", "inStock": true},
-  {"id": 4038, "sku": null, "name": "Transcend 2TB Portable External Hard Disk", "brand": "Transcend", "category": "Computers & Computer Accessories > External Hard Disks", "price": 14000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2025/01/Transcend-2TB-External-Hard-Disk.png", "imageFile": "Transcend-2TB-External-Hard-Disk.png", "description": "The Transcend 2TB Portable External Hard Disk offers a perfect blend of capacity, speed, and durability.", "inStock": true},
+  {"id": 4041, "sku": null, "name": "Transcend 1TB Portable External Hard Disk", "brand": "Transcend", "category": "Computers & Computer Accessories > External Hard Disks", "price": 9500, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2025/01/Transcend-1TB-External-Hard-Disk.png", "imageFile": "Transcend-1TB-External-Hard-Disk.png", "description": `The Transcend 1TB StoreJet portable external hard drive combines lightning-fast USB 3.1 Gen 1 data transfer speeds with rugged, military-grade shock resistance. It is the perfect everyday storage companion for students, photographers, and professionals who need to securely carry their files and media without worrying about accidental drops. With its integrated 256-bit AES file encryption and practical one-touch auto-backup button, it keeps your digital life both safe and effortlessly organized.
+
+## Compatible printers
+Transcend StoreJet 1TB (Standalone product)
+If your model isn't listed, send us the number from the front of the machine and we'll confirm before you pay.
+
+## Specifications
+
+| Page yield | Cartridge type | Colour | Capacity | Part number | Genuine or compatible |
+|---|---|---|---|---|---|
+| N/A | External Hard Drive | Iron Gray / Green | 1TB Storage | TS1TSJ25M3 | Genuine OEM |
+
+## Genuine or compatible?
+This is a genuine, brand-new Transcend external hard drive supplied in its original factory packaging. Authentic Transcend storage hardware ensures verified 1TB capacity, high-speed read/write performance, and reliable three-stage military-grade shock protection for your valuable data. We do not sell generic or refurbished hard drives.
+
+## Why buy from Trinatech
+Stock held in Nairobi CBD for rapid dispatch.
+Delivery across Kenya including Kisumu, Nakuru, Eldoret and Mombasa.
+M-Pesa and bank transfer accepted securely.
+WhatsApp ordering, walk-in at The One Mall River Road.
+
+## Getting the most from this cartridge
+Always use your computer's "Safely Remove Hardware" or "Eject" option before unplugging the USB cable to prevent accidental file corruption or data loss. Take full advantage of the integrated One Touch Auto-Backup button and the free Transcend Elite data management software to keep your important files automatically synced and safely encrypted while you travel.
+
+## Frequently asked questions
+Is there an XL or high-capacity alternative? Yes, the 2TB and 4TB Transcend StoreJet versions are available for heavier storage needs.
+Do I need a separate power cable to use this drive? No, the drive is completely bus-powered directly through the included USB cable.
+What is the delivery time? Same-day delivery within Nairobi CBD and next-day for the rest of Kenya.
+What is your warranty or returns policy? Backed by a standard 1-year manufacturer hardware warranty against defects.
+Does it work with Mac computers? Yes, though it may need to be quickly reformatted from NTFS to exFAT or APFS to work seamlessly with macOS.`, "inStock": true, "metaTitle": "Transcend 1TB StoreJet Portable External Hard Drive", "metaDescription": "Genuine Transcend 1TB StoreJet portable external hard drive. Military-grade shock resistance, USB 3.1 Gen 1. Fast delivery across Kenya from Trinatech."},
+  {"id": 4038, "sku": null, "name": "Transcend 2TB Portable External Hard Disk", "brand": "Transcend", "category": "Computers & Computer Accessories > External Hard Disks", "price": 14000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2025/01/Transcend-2TB-External-Hard-Disk.png", "imageFile": "Transcend-2TB-External-Hard-Disk.png", "description": `The Transcend 2TB StoreJet portable external hard drive offers massive storage capacity housed inside a highly rugged, shock-resistant silicone shell. Equipped with a high-speed USB 3.1 Gen 1 interface for rapid file transfers, it allows you to effortlessly back up entire video libraries, heavy software archives, and thousands of high-resolution photographs while on the move. It is an indispensable, heavy-duty data companion for digital creators and busy corporate professionals traversing Kenya.
+
+## Compatible printers
+Transcend StoreJet 2TB (Standalone product)
+If your model isn't listed, send us the number from the front of the machine and we'll confirm before you pay.
+
+## Specifications
+
+| Page yield | Cartridge type | Colour | Capacity | Part number | Genuine or compatible |
+|---|---|---|---|---|---|
+| N/A | External Hard Drive | Iron Gray / Green | 2TB Storage | TS2TSJ25M3 | Genuine OEM |
+
+## Genuine or compatible?
+This is a 100% genuine, brand-new Transcend external hard drive in a sealed box. Authentic Transcend drives feature reliable internal suspension systems, verified 2TB storage capacities, and built-in 256-bit AES file encryption capabilities to protect your data against both physical damage and unauthorized digital access.
+
+## Why buy from Trinatech
+Reliable stock held right here in Nairobi CBD.
+Delivery across Kenya including Kisumu, Nakuru, Eldoret and Mombasa.
+M-Pesa and bank transfer accepted.
+Easy WhatsApp ordering or walk-in at The One Mall River Road.
+
+## Getting the most from this cartridge
+To safeguard your critical business archives and family memories against unexpected hardware loss, we strongly recommend maintaining a 3-2-1 backup strategy where important files are stored both on your computer and safely copied to this external drive. Always eject the drive properly through your operating system before disconnecting the cable to avoid corrupting the file allocation table.
+
+## Frequently asked questions
+Is there an XL or higher capacity alternative? Yes, Transcend also manufactures a 4TB model for extreme data storage requirements.
+Can I plug this directly into a Smart TV? Yes, many smart TVs support USB external hard drives for media playback, provided the drive is formatted correctly.
+What is the delivery time? We offer same-day delivery in Nairobi CBD, and next-day delivery nationwide.
+What is your warranty or returns policy? A standard 1-year manufacturer hardware warranty applies to this device.
+Is the USB cable included in the box? Yes, the required high-speed USB Type-A data cable is included in the packaging.`, "inStock": true, "metaTitle": "Transcend 2TB StoreJet Portable External Hard Drive", "metaDescription": "Genuine Transcend 2TB StoreJet portable external hard drive. Military-grade shock resistance, USB 3.1 Gen 1. Fast delivery nationwide from Trinatech."},
   {"id": 9001, "sku": null, "name": "HP LaserJet Pro 2320 Printer", "brand": "HP", "category": "Printers & Copiers", "price": 9000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/08/9001_hp_hp-laserjet-pro-2320-printer.jpg.png", "imageFile": "9001_hp_hp-laserjet-pro-2320-printer.jpg.png", "description": "HP LaserJet Pro 2320 printer. Reliable mono laser printing for home and office.", "inStock": true},
   {"id": 9002, "sku": null, "name": "HP LaserJet M141a Printer", "brand": "HP", "category": "Printers & Copiers", "price": 27000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/08/9002_hp_hp-laserjet-m141a-printer.jpg", "imageFile": "9002_hp_hp-laserjet-m141a-printer.jpg", "description": "HP LaserJet M141a multifunction printer. Compact print, scan and copy for small offices.", "inStock": true},
   {"id": 9003, "sku": null, "name": "Kyocera ECOSYS FS-4125idn Printer", "brand": "Kyocera", "category": "Printers & Copiers", "price": 250000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/08/9003_kyocera_kyocera-ecosys-fs-4125idn-printer.jpg.png", "imageFile": "9003_kyocera_kyocera-ecosys-fs-4125idn-printer.jpg.png", "description": "Kyocera ECOSYS FS-4125idn mono multifunction printer with duplex printing and network connectivity.", "inStock": true},

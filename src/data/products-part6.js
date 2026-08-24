@@ -2188,19 +2188,301 @@ What is the print speed? Up to 40 pages per minute.
 How fast is Nairobi delivery? Same-day inside 1 to 3 hours.
 How can I pay? Pay via M-Pesa or bank transfer.
 Is warranty included? Covered with 1-Year HP warranty.`, "metaTitle": "HP LaserJet Pro MFP 4103dw Printer Price", "metaDescription": "Shop HP LaserJet Pro MFP 4103dw mono laser printer in Nairobi. Fast 40 ppm speed, auto duplex, Wi-Fi, scan & copy. Fast delivery.", "inStock": false, "comingSoon": true},
-  {"id": 9220, "sku": null, "name": "HP LaserJet Pro MFP 4103fdw Printer", "brand": "HP", "category": "Printers & Copiers", "price": null, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/08/9220_hp_hp-laserjet-pro-mfp-4103fdw-printer.jpg.png", "imageFile": "9220_hp_hp-laserjet-pro-mfp-4103fdw-printer.jpg.png", "description": "HP LaserJet Pro MFP 4103fdw. Print, copy, scan, fax, up to 40 ppm, duplex, 2.7\" colour touchscreen.", "inStock": false, "comingSoon": true},
-  {"id": 9221, "sku": null, "name": "HP LaserJet Enterprise M611dn Printer", "brand": "HP", "category": "Printers & Copiers", "price": null, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/08/9221_hp_hp-laserjet-enterprise-m611dn-printer.jpg.png", "imageFile": "9221_hp_hp-laserjet-enterprise-m611dn-printer.jpg.png", "description": "HP LaserJet Enterprise M611dn. Up to 61 ppm, duplex, up to 275,000 pages/month, 4.3\" touchscreen.", "inStock": false, "comingSoon": true},
-  {"id": 9222, "sku": null, "name": "HP Color LaserJet Pro MFP 3303fdn Printer", "brand": "HP", "category": "Printers & Copiers", "price": null, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/08/9222_hp_hp-color-laserjet-pro-mfp-3303fdn-printer.jpg", "imageFile": "9222_hp_hp-color-laserjet-pro-mfp-3303fdn-printer.jpg", "description": "HP Color LaserJet Pro MFP 3303fdn. Print, copy, scan, fax, up to 25 ppm, duplex, 4.3\" colour display.", "inStock": false, "comingSoon": true},
-  {"id": 9223, "sku": null, "name": "HP Color LaserJet Pro MFP 4303fdw Printer", "brand": "HP", "category": "Printers & Copiers", "price": null, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/08/9223_hp_hp-color-laserjet-pro-mfp-4303fdw-printer.jpg", "imageFile": "9223_hp_hp-color-laserjet-pro-mfp-4303fdw-printer.jpg", "description": "HP Color LaserJet Pro MFP 4303fdw. Print, copy, scan, up to 33 ppm, duplex, Wi-Fi 5, 4.3\" display.", "inStock": false, "comingSoon": true},
-  {"id": 9224, "sku": null, "name": "HP Color LaserJet Pro MFP 4303dw Printer", "brand": "HP", "category": "Printers & Copiers", "price": null, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/08/9224_hp_hp-color-laserjet-pro-mfp-4303dw-printer.jpg", "imageFile": "9224_hp_hp-color-laserjet-pro-mfp-4303dw-printer.jpg", "description": "HP Color LaserJet Pro MFP 4303dw. Print, copy, scan, up to 33 ppm, duplex, Wi-Fi 5, 4.3\" display.", "inStock": false, "comingSoon": true},
-  {"id": 9225, "sku": null, "name": "HP LaserJet Pro 4003dn Printer", "brand": "HP", "category": "Printers & Copiers", "price": null, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/08/9225_hp_hp-laserjet-pro-4003dn-printer.jpg", "imageFile": "9225_hp_hp-laserjet-pro-4003dn-printer.jpg", "description": "HP LaserJet Pro 4003dn. Up to 40 ppm, up to 80,000 pages/month, duplex, Gigabit Ethernet.", "inStock": false, "comingSoon": true},
-  {"id": 9226, "sku": null, "name": "HP LaserJet Pro 4003dw Printer", "brand": "HP", "category": "Printers & Copiers", "price": null, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/08/9226_hp_hp-laserjet-pro-4003dw-printer.jpg.png", "imageFile": "9226_hp_hp-laserjet-pro-4003dw-printer.jpg.png", "description": "HP LaserJet Pro 4003dw. Up to 40 ppm, up to 80,000 pages/month, duplex, Wi-Fi.", "inStock": false, "comingSoon": true},
-  {"id": 9227, "sku": null, "name": "HP LaserJet Pro MFP 4103fdn Printer", "brand": "HP", "category": "Printers & Copiers", "price": null, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/08/9227_hp_hp-laserjet-pro-mfp-4103fdn-printer.jpg.png", "imageFile": "9227_hp_hp-laserjet-pro-mfp-4103fdn-printer.jpg.png", "description": "HP LaserJet Pro MFP 4103fdn. Print, copy, scan, fax, up to 40 ppm, 1200x1200 dpi.", "inStock": false, "comingSoon": true},
-  {"id": 9228, "sku": null, "name": "HP OfficeJet Pro 9730 Wide Format All-in-One Printer", "brand": "HP", "category": "Printers & Copiers", "price": null, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/08/9228_hp_hp-officejet-pro-9730-wide-format-all-in-one-pri.jpg", "imageFile": "9228_hp_hp-officejet-pro-9730-wide-format-all-in-one-pri.jpg", "description": "HP OfficeJet Pro 9730 wide format all-in-one. Print, scan, copy, fax, up to 22 ppm black, 4800x1200 dpi, dual-band Wi-Fi.", "inStock": false, "comingSoon": true},
-  {"id": 9229, "sku": null, "name": "HP Smart Tank 580 Printer", "brand": "HP", "category": "Printers & Copiers", "price": null, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/08/9229_hp_hp-smart-tank-580-printer.png", "imageFile": "9229_hp_hp-smart-tank-580-printer.png", "description": "HP Smart Tank 580 all-in-one. Print, scan, copy, up to 12 ppm black / 5 ppm colour, Wi-Fi, Wi-Fi Direct.", "inStock": false, "comingSoon": true},
-  {"id": 9230, "sku": null, "name": "HP Smart Tank 581 Printer", "brand": "HP", "category": "Printers & Copiers", "price": null, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/08/9230_hp_hp-smart-tank-581-printer.jpg.png", "imageFile": "9230_hp_hp-smart-tank-581-printer.jpg.png", "description": "HP Smart Tank 581 all-in-one. Print, scan, copy, up to 12 ppm black / 5 ppm colour, Wi-Fi, Wi-Fi Direct.", "inStock": false, "comingSoon": true},
-  {"id": 9231, "sku": null, "name": "HP Smart Tank 582 Printer", "brand": "HP", "category": "Printers & Copiers", "price": null, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/08/9231_hp_hp-smart-tank-582-printer.jpg.png", "imageFile": "9231_hp_hp-smart-tank-582-printer.jpg.png", "description": "HP Smart Tank 582 all-in-one. Print, scan, copy, up to 22 ppm black, Wi-Fi, Wi-Fi Direct.", "inStock": false, "comingSoon": true},
-  {"id": 9232, "sku": null, "name": "HP Smart Tank 585 Printer", "brand": "HP", "category": "Printers & Copiers", "price": null, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/08/9232_hp_hp-smart-tank-585-printer.jpg.png", "imageFile": "9232_hp_hp-smart-tank-585-printer.jpg.png", "description": "HP Smart Tank 585 all-in-one. Print, scan, copy, up to 12 ppm black / 5 ppm colour, Wi-Fi, Wi-Fi Direct.", "inStock": false, "comingSoon": true},
+  {"id": 9220, "sku": null, "name": "HP LaserJet Pro MFP 4103fdw Printer", "brand": "HP", "category": "Printers & Copiers", "price": null, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/08/9220_hp_hp-laserjet-pro-mfp-4103fdw-printer.jpg.png", "imageFile": "9220_hp_hp-laserjet-pro-mfp-4103fdw-printer.jpg.png", "description": `The HP LaserJet Pro MFP 4103fdw Printer is a high-productivity 4-in-1 monochrome laser printer featuring print, copy, scan, and fax. Built for fast office workflows in Nairobi with 40 ppm speed, auto duplexing, and smart Wi-Fi control.
+
+## Compatible consumables
+HP 151A Black Original LaserJet Toner Cartridge (W1510A ~3,050 pages)
+HP 151X High Yield Black Original Toner Cartridge (W1510X ~9,700 pages)
+
+## Specifications
+| Print speed | Technology | Functions | Max paper size | Connectivity |
+|---|---|---|---|---|
+| Up to 40 ppm | Mono Laser | Print, Copy, Scan, Fax | A4 / Legal | Dual-band Wi-Fi / Gigabit Ethernet / USB 2.0 |
+
+## Why buy from Trinatech
+Stock held in Nairobi CBD. Delivery across Kenya including Kisumu, Nakuru, Eldoret, and Mombasa. M-Pesa and bank transfer accepted. WhatsApp ordering and walk-in options at The One Mall, River Road.
+
+## Getting the most from this product
+Set up scan-to-email directly on the 2.7-inch color touchscreen display.
+
+## Frequently asked questions
+What is the difference between 4103dw and 4103fdw? The 4103fdw adds fax functionality and a color touchscreen interface.
+How fast is Nairobi shipping? Delivered in 1 to 3 hours across Nairobi CBD.
+How do I pay? Pay via M-Pesa or bank wire.
+Is warranty provided? 1-Year official HP warranty.`, "metaTitle": "HP LaserJet Pro MFP 4103fdw Wireless Printer", "metaDescription": "Order HP LaserJet Pro MFP 4103fdw printer in Nairobi. 40 ppm mono, auto duplex, 50-sheet ADF, fax, Wi-Fi. Fast Kenya shipping.", "inStock": false, "comingSoon": true},
+  {"id": 9221, "sku": null, "name": "HP LaserJet Enterprise M611dn Printer", "brand": "HP", "category": "Printers & Copiers", "price": null, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/08/9221_hp_hp-laserjet-enterprise-m611dn-printer.jpg.png", "imageFile": "9221_hp_hp-laserjet-enterprise-m611dn-printer.jpg.png", "description": `The HP LaserJet Enterprise M611dn Printer is a high-speed monochrome laser printer built for heavy enterprise print volumes in Kenya. Delivers 71 ppm print output, auto-duplexing, robust self-healing security, and 4.3-inch touchscreen control.
+
+## Compatible consumables
+HP 147A Black Original LaserJet Toner Cartridge (W1470A ~10,500 pages)
+HP 147X High Yield Black Original Toner Cartridge (W1470X ~25,200 pages)
+HP 147Y Extra High Yield Black Toner Cartridge (W1470Y ~42,000 pages)
+
+## Specifications
+| Print speed | Technology | Functions | Max paper size | Connectivity |
+|---|---|---|---|---|
+| Up to 71 ppm | Mono Laser | Print Only | A4 / Legal | Gigabit Ethernet / USB 2.0 |
+
+## Why buy from Trinatech
+Stock held in Nairobi CBD. Delivery across Kenya including Kisumu, Nakuru, Eldoret, and Mombasa. M-Pesa and bank transfer accepted. WhatsApp ordering and walk-in options at The One Mall, River Road.
+
+## Getting the most from this product
+Add optional 2,100-sheet paper feeder stands for continuous enterprise print cycles.
+
+## Frequently asked questions
+What is the print speed? Up to 71 pages per minute.
+How fast is Nairobi delivery? Delivered in 1 to 3 hours across Nairobi CBD.
+How can I pay? Pay via M-Pesa or bank transfer.
+Is warranty provided? Covered with shop warranty.`, "metaTitle": "HP LaserJet Enterprise M611dn Mono Printer", "metaDescription": "Buy HP LaserJet Enterprise M611dn printer in Nairobi. Ultra-fast 71 ppm speed, duplex, enterprise network security. Fast delivery.", "inStock": false, "comingSoon": true},
+  {"id": 9222, "sku": null, "name": "HP Color LaserJet Pro MFP 3303fdn Printer", "brand": "HP", "category": "Printers & Copiers", "price": null, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/08/9222_hp_hp-color-laserjet-pro-mfp-3303fdn-printer.jpg", "imageFile": "9222_hp_hp-color-laserjet-pro-mfp-3303fdn-printer.jpg", "description": `The HP Color LaserJet Pro MFP 3303fdn Printer is a compact 4-in-1 color laser multi-function printer built for small offices in Kenya. Features 25 ppm print speeds, automatic duplexing, 50-sheet ADF, fax, and TerraJet toner tech.
+
+## Compatible consumables
+HP 222A Black Original LaserJet Toner Cartridge (W2220A ~1,300 pages)
+HP 222A Cyan / Magenta / Yellow Toner Cartridges (W2221A / W2222A / W2223A ~1,200 pages each)
+HP 222X High Yield Black Toner Cartridge (W2220X ~3,200 pages)
+HP 222X High Yield Color Toner Cartridges (~2,500 pages each)
+
+## Specifications
+| Print speed | Technology | Functions | Max paper size | Connectivity |
+|---|---|---|---|---|
+| Up to 25 ppm | Color Laser | Print, Copy, Scan, Fax | A4 / Letter | Gigabit Ethernet / USB 2.0 |
+
+## Why buy from Trinatech
+Stock held in Nairobi CBD. Delivery across Kenya including Kisumu, Nakuru, Eldoret, and Mombasa. M-Pesa and bank transfer accepted. WhatsApp ordering and walk-in options at The One Mall, River Road.
+
+## Getting the most from this product
+Connect via Ethernet port for secure network sharing across office PCs.
+
+## Frequently asked questions
+Does it have Wi-Fi? The 3303fdn model uses Ethernet network connectivity; wireless is available on 3303fdw models.
+How fast is Nairobi delivery? Same-day inside 1 to 3 hours.
+How do I pay? Pay via M-Pesa or bank transfer.
+Is warranty provided? 1-Year HP official warranty.`, "metaTitle": "HP Color LaserJet Pro MFP 3303fdn Price", "metaDescription": "Buy HP Color LaserJet Pro MFP 3303fdn in Nairobi. 25 ppm color, auto duplex, ADF, fax, Ethernet. Fast delivery Kenya.", "inStock": false, "comingSoon": true},
+  {"id": 9223, "sku": null, "name": "HP Color LaserJet Pro MFP 4303fdw Printer", "brand": "HP", "category": "Printers & Copiers", "price": null, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/08/9223_hp_hp-color-laserjet-pro-mfp-4303fdw-printer.jpg", "imageFile": "9223_hp_hp-color-laserjet-pro-mfp-4303fdw-printer.jpg", "description": `The HP Color LaserJet Pro MFP 4303fdw Printer is a high-speed 4-in-1 color laser printer designed for growing business teams across Kenya. Delivers 33 ppm color output, 50-sheet duplex ADF scanner, fax, and Wi-Fi Direct.
+
+## Compatible consumables
+HP 230A Black Original LaserJet Toner Cartridge (W2300A ~2,000 pages)
+HP 230A Cyan / Magenta / Yellow Toner Cartridges (W2301A / W2302A / W2303A ~1,800 pages each)
+HP 230X High Yield Black Original Toner Cartridge (W2300X ~7,500 pages)
+HP 230X High Yield Color Toner Cartridges (~5,500 pages each)
+
+## Specifications
+| Print speed | Technology | Functions | Max paper size | Connectivity |
+|---|---|---|---|---|
+| Up to 33 ppm | Color Laser | Print, Copy, Scan, Fax | A4 / Legal | Dual-band Wi-Fi / Gigabit Ethernet / USB 2.0 |
+
+## Why buy from Trinatech
+Stock held in Nairobi CBD. Delivery across Kenya including Kisumu, Nakuru, Eldoret, and Mombasa. M-Pesa and bank transfer accepted. WhatsApp ordering and walk-in options at The One Mall, River Road.
+
+## Getting the most from this product
+Use the 4.3-inch color touchscreen display to scan directly to cloud locations like SharePoint and OneDrive.
+
+## Frequently asked questions
+What is the print speed? Up to 33 pages per minute in color and black.
+How fast is Nairobi shipping? Same-day inside 1 to 3 hours.
+How can I pay? Pay via M-Pesa or bank wire.
+Is warranty included? Covered with 1-Year HP warranty.`, "metaTitle": "HP Color LaserJet Pro MFP 4303fdw Price", "metaDescription": "Order HP Color LaserJet Pro MFP 4303fdw in Nairobi. Fast 33 ppm color, auto duplex, ADF, fax, Wi-Fi. Fast delivery Kenya.", "inStock": false, "comingSoon": true},
+  {"id": 9224, "sku": null, "name": "HP Color LaserJet Pro MFP 4303dw Printer", "brand": "HP", "category": "Printers & Copiers", "price": null, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/08/9224_hp_hp-color-laserjet-pro-mfp-4303dw-printer.jpg", "imageFile": "9224_hp_hp-color-laserjet-pro-mfp-4303dw-printer.jpg", "description": `The HP Color LaserJet Pro MFP 4303dw Printer delivers rapid A4 color laser printing, copying, and scanning for active office environments in Kenya. Offers 33 ppm print speeds, dual-band Wi-Fi, and energy-efficient operation.
+
+## Compatible consumables
+HP 230A Black Original LaserJet Toner Cartridge (W2300A ~2,000 pages)
+HP 230A Cyan / Magenta / Yellow Toner Cartridges (W2301A / W2302A / W2303A ~1,800 pages each)
+HP 230X High Yield Black Original Toner Cartridge (W2300X ~7,500 pages)
+HP 230X High Yield Color Toner Cartridges (~5,500 pages each)
+
+## Specifications
+| Print speed | Technology | Functions | Max paper size | Connectivity |
+|---|---|---|---|---|
+| Up to 33 ppm | Color Laser | Print, Copy, Scan | A4 / Legal | Dual-band Wi-Fi / Gigabit Ethernet / USB 2.0 |
+
+## Why buy from Trinatech
+Stock held in Nairobi CBD. Delivery across Kenya including Kisumu, Nakuru, Eldoret, and Mombasa. M-Pesa and bank transfer accepted. WhatsApp ordering and walk-in options at The One Mall, River Road.
+
+## Getting the most from this product
+Enable automatic two-sided printing to reduce paper consumption in the office.
+
+## Frequently asked questions
+Does it have fax capability? The 4303dw is a 3-in-1 (print, copy, scan); for fax choose the 4303fdw model.
+How fast is Nairobi delivery? Same-day inside 1 to 3 hours.
+How do I pay? Pay via M-Pesa or bank transfer.
+Is warranty provided? 1-Year HP official warranty.`, "metaTitle": "HP Color LaserJet Pro MFP 4303dw Price", "metaDescription": "Shop HP Color LaserJet Pro MFP 4303dw printer in Nairobi. 33 ppm color, auto duplex, 3-in-1 scan/copy, Wi-Fi. Fast delivery Kenya.", "inStock": false, "comingSoon": true},
+  {"id": 9225, "sku": null, "name": "HP LaserJet Pro 4003dn Printer", "brand": "HP", "category": "Printers & Copiers", "price": null, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/08/9225_hp_hp-laserjet-pro-4003dn-printer.jpg", "imageFile": "9225_hp_hp-laserjet-pro-4003dn-printer.jpg", "description": `The HP LaserJet Pro 4003dn Printer is a compact single-function monochrome laser printer built for high-productivity workgroups in Nairobi. Delivers print speeds up to 40 ppm, automatic double-sided printing, and Gigabit networking.
+
+## Compatible consumables
+HP 151A Black Original LaserJet Toner Cartridge (W1510A ~3,050 pages)
+HP 151X High Yield Black Original Toner Cartridge (W1510X ~9,700 pages)
+
+## Specifications
+| Print speed | Technology | Functions | Max paper size | Connectivity |
+|---|---|---|---|---|
+| Up to 40 ppm | Mono Laser | Print Only | A4 / Legal | Gigabit Ethernet / USB 2.0 |
+
+## Why buy from Trinatech
+Stock held in Nairobi CBD. Delivery across Kenya including Kisumu, Nakuru, Eldoret, and Mombasa. M-Pesa and bank transfer accepted. WhatsApp ordering and walk-in options at The One Mall, River Road.
+
+## Getting the most from this product
+Connect via Ethernet cable to enable high-speed network printing across all workplace terminals.
+
+## Frequently asked questions
+Does it support wireless printing? The 4003dn is Ethernet network only; select 4003dw for Wi-Fi.
+How fast is Nairobi delivery? Same-day inside 1 to 3 hours.
+How can I pay? M-Pesa or bank wire.
+Is warranty provided? 1-Year HP official warranty.`, "metaTitle": "HP LaserJet Pro 4003dn Mono Printer Price", "metaDescription": "Buy HP LaserJet Pro 4003dn mono laser printer in Nairobi. Fast 40 ppm, auto duplex, Gigabit Ethernet network. Fast delivery Kenya.", "inStock": false, "comingSoon": true},
+  {"id": 9226, "sku": null, "name": "HP LaserJet Pro 4003dw Printer", "brand": "HP", "category": "Printers & Copiers", "price": null, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/08/9226_hp_hp-laserjet-pro-4003dw-printer.jpg.png", "imageFile": "9226_hp_hp-laserjet-pro-4003dw-printer.jpg.png", "description": `The HP LaserJet Pro 4003dw Printer is a high-speed single-function monochrome laser printer featuring dual-band Wi-Fi and Bluetooth connectivity. Ideal for fast office document production across Kenya.
+
+## Compatible consumables
+HP 151A Black Original LaserJet Toner Cartridge (W1510A ~3,050 pages)
+HP 151X High Yield Black Original Toner Cartridge (W1510X ~9,700 pages)
+
+## Specifications
+| Print speed | Technology | Functions | Max paper size | Connectivity |
+|---|---|---|---|---|
+| Up to 40 ppm | Mono Laser | Print Only | A4 / Legal | Dual-band Wi-Fi / Wi-Fi Direct / Gigabit Ethernet / USB 2.0 |
+
+## Why buy from Trinatech
+Stock held in Nairobi CBD. Delivery across Kenya including Kisumu, Nakuru, Eldoret, and Mombasa. M-Pesa and bank transfer accepted. WhatsApp ordering and walk-in options at The One Mall, River Road.
+
+## Getting the most from this product
+Use HP Smart App to quickly connect and print directly from smartphones and tablets.
+
+## Frequently asked questions
+What is the print speed? Up to 40 pages per minute.
+How fast is Nairobi shipping? Delivered in 1 to 3 hours across Nairobi CBD.
+How do I pay? Pay via M-Pesa Buy Goods/Till or bank transfer.
+Is warranty provided? 1-Year HP official warranty.`, "metaTitle": "HP LaserJet Pro 4003dw Wireless Printer Price", "metaDescription": "Order HP LaserJet Pro 4003dw wireless mono printer in Nairobi. Fast 40 ppm, auto duplex, Wi-Fi Direct, Ethernet. Fast delivery.", "inStock": false, "comingSoon": true},
+  {"id": 9227, "sku": null, "name": "HP LaserJet Pro MFP 4103fdn Printer", "brand": "HP", "category": "Printers & Copiers", "price": null, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/08/9227_hp_hp-laserjet-pro-mfp-4103fdn-printer.jpg.png", "imageFile": "9227_hp_hp-laserjet-pro-mfp-4103fdn-printer.jpg.png", "description": `The HP LaserJet Pro MFP 4103fdn Printer is a high-performance 4-in-1 monochrome laser printer built for busy office workgroups in Kenya. Features rapid 40 ppm print speeds, automatic double-sided printing, a 50-sheet ADF scanner, fax, and high-speed Gigabit Ethernet networking.
+
+## Compatible consumables
+HP 151A Black Original LaserJet Toner Cartridge (W1510A ~3,050 pages)
+HP 151X High Yield Black Original Toner Cartridge (W1510X ~9,700 pages)
+
+## Specifications
+| Print speed | Technology | Functions | Max paper size | Connectivity |
+|---|---|---|---|---|
+| Up to 40 ppm | Mono Laser | Print, Copy, Scan, Fax | A4 / Legal | Gigabit Ethernet / USB 2.0 |
+
+## Why buy from Trinatech
+Stock held in Nairobi CBD. Delivery across Kenya including Kisumu, Nakuru, Eldoret, and Mombasa. M-Pesa and bank transfer accepted. WhatsApp ordering and walk-in options at The One Mall, River Road.
+
+## Getting the most from this product
+Connect directly to your local office switch via Ethernet cable to share print and scan functions securely.
+
+## Frequently asked questions
+Does it have Wi-Fi? The 4103fdn is Ethernet network connected; for wireless capabilities choose the 4103fdw model.
+How fast is Nairobi delivery? Delivered in 1 to 3 hours across Nairobi CBD.
+How can I pay? Pay via M-Pesa or bank transfer.
+Is warranty provided? 1-Year official HP warranty.`, "metaTitle": "HP LaserJet Pro MFP 4103fdn Mono Printer Price", "metaDescription": "Buy HP LaserJet Pro MFP 4103fdn mono laser printer in Nairobi. 40 ppm speed, Ethernet, auto duplex, 50-sheet ADF, fax. Fast delivery.", "inStock": false, "comingSoon": true},
+  {"id": 9228, "sku": null, "name": "HP OfficeJet Pro 9730 Wide Format All-in-One Printer", "brand": "HP", "category": "Printers & Copiers", "price": null, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/08/9228_hp_hp-officejet-pro-9730-wide-format-all-in-one-pri.jpg", "imageFile": "9228_hp_hp-officejet-pro-9730-wide-format-all-in-one-pri.jpg", "description": `The HP OfficeJet Pro 9730 Wide Format All-in-One Printer (537P5C) is an enterprise wide-format inkjet multi-function printer designed for printing marketing materials, engineering drawings, and A3 documents in Nairobi. Features dual 250-sheet input paper trays, auto-duplexing, and seamless wireless connectivity.
+
+## Compatible consumables
+HP 938 Black Original Ink Cartridge (~1,250 pages)
+HP 938 Cyan / Magenta / Yellow Ink Cartridges (~800 pages each)
+HP 938XL High Yield Black Ink Cartridge (~2,500 pages)
+HP 938XL High Yield Color Ink Cartridges (~1,650 pages each)
+
+## Specifications
+| Print speed | Technology | Functions | Max paper size | Connectivity |
+|---|---|---|---|---|
+| Up to 22 ppm mono / 18 ppm color | Thermal Inkjet | Print, Copy, Scan | A3 / Wide Format (Up to 297 x 432 mm) | Dual-band Wi-Fi / Ethernet / USB 2.0 |
+
+## Why buy from Trinatech
+Stock held in Nairobi CBD. Delivery across Kenya including Kisumu, Nakuru, Eldoret, and Mombasa. M-Pesa and bank transfer accepted. WhatsApp ordering and walk-in options at The One Mall, River Road.
+
+## Getting the most from this product
+Utilize Tray 2 for A3 paper sizes and Tray 1 for standard A4 sheets for automatic paper switching.
+
+## Frequently asked questions
+Does it scan and copy A3 documents? Yes, features large glass flatbed and ADF scanning up to A3 size.
+How fast is Nairobi delivery? Same-day inside 1 to 3 hours.
+How do I pay? Pay via M-Pesa or bank wire.
+Is warranty included? Covered with 1-Year HP warranty.`, "metaTitle": "HP OfficeJet Pro 9730 A3 Wide Format Printer", "metaDescription": "Order HP OfficeJet Pro 9730 A3 wide format printer in Nairobi. Dual tray, 22 ppm color, duplex A3 scan/copy, Wi-Fi. Fast delivery Kenya.", "inStock": false, "comingSoon": true},
+  {"id": 9229, "sku": null, "name": "HP Smart Tank 580 Printer", "brand": "HP", "category": "Printers & Copiers", "price": null, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/08/9229_hp_hp-smart-tank-580-printer.png", "imageFile": "9229_hp_hp-smart-tank-580-printer.png", "description": `The HP Smart Tank 580 Printer is a cartridge-free refillable ink tank multi-function printer built for economical home and small business printing across Kenya. Offers wireless smart phone printing, flatbed scanner glass, and high page yield ink bottles out of the box.
+
+## Compatible consumables
+HP GT53 90ml Black Original Ink Bottle (~4,000 pages)
+HP GT52 Cyan / Magenta / Yellow Original Ink Bottles (~8,000 pages combined)
+
+## Specifications
+| Print speed | Technology | Functions | Max paper size | Connectivity |
+|---|---|---|---|---|
+| Up to 12 ppm mono / 5 ppm color | Thermal Inkjet | Print, Copy, Scan | A4 | Wi-Fi / Wi-Fi Direct / USB 2.0 |
+
+## Why buy from Trinatech
+Stock held in Nairobi CBD. Delivery across Kenya including Kisumu, Nakuru, Eldoret, and Mombasa. M-Pesa and bank transfer accepted. WhatsApp ordering and walk-in options at The One Mall, River Road.
+
+## Getting the most from this product
+Use the HP Smart App to monitor ink tank levels and send print tasks directly over Wi-Fi.
+
+## Frequently asked questions
+How many pages do initial bottles print? Up to 6,000 black or 6,000 color pages from initial box supplies.
+How fast is Nairobi delivery? Delivered in 1 to 3 hours.
+How can I pay? Pay via M-Pesa Buy Goods/Till or bank transfer.
+Is warranty provided? 1-Year or 30,000 pages HP warranty.`, "metaTitle": "HP Smart Tank 580 Wireless All-in-One Printer", "metaDescription": "Shop HP Smart Tank 580 ink tank printer in Nairobi. Ultra-low print cost, Wi-Fi, scan & copy. Fast delivery across Kenya.", "inStock": false, "comingSoon": true},
+  {"id": 9230, "sku": null, "name": "HP Smart Tank 581 Printer", "brand": "HP", "category": "Printers & Copiers", "price": null, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/08/9230_hp_hp-smart-tank-581-printer.jpg.png", "imageFile": "9230_hp_hp-smart-tank-581-printer.jpg.png", "description": `The HP Smart Tank 581 Printer delivers high-volume cartridge-free printing with extremely low operational costs per page for homes and offices in Nairobi. Features integrated front-facing transparent ink tanks, Wi-Fi Direct, and compact desktop design.
+
+## Compatible consumables
+HP GT53 90ml Black Original Ink Bottle (~4,000 pages)
+HP GT52 Cyan / Magenta / Yellow Original Ink Bottles (~8,000 pages combined)
+
+## Specifications
+| Print speed | Technology | Functions | Max paper size | Connectivity |
+|---|---|---|---|---|
+| Up to 12 ppm mono / 5 ppm color | Thermal Inkjet | Print, Copy, Scan | A4 | Wi-Fi / Wi-Fi Direct / USB 2.0 |
+
+## Why buy from Trinatech
+Stock held in Nairobi CBD. Delivery across Kenya including Kisumu, Nakuru, Eldoret, and Mombasa. M-Pesa and bank transfer accepted. WhatsApp ordering and walk-in options at The One Mall, River Road.
+
+## Getting the most from this product
+Refill ink tanks effortlessly using HP's spill-free auto-stop nozzle bottles.
+
+## Frequently asked questions
+What is the difference between 580 and 581? They share identical performance specs; 581 features distinct regional accent color variations.
+How fast is Nairobi delivery? Same-day inside 1 to 3 hours.
+How do I pay? Pay via M-Pesa or bank transfer.
+Is warranty provided? 1-Year HP official warranty.`, "metaTitle": "HP Smart Tank 581 Ink Tank Printer Price", "metaDescription": "Order HP Smart Tank 581 printer in Nairobi. Wireless 3-in-1 refillable ink tank, scan, copy. Fast shipping across Kenya.", "inStock": false, "comingSoon": true},
+  {"id": 9231, "sku": null, "name": "HP Smart Tank 582 Printer", "brand": "HP", "category": "Printers & Copiers", "price": null, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/08/9231_hp_hp-smart-tank-582-printer.jpg.png", "imageFile": "9231_hp_hp-smart-tank-582-printer.jpg.png", "description": `The HP Smart Tank 582 Printer is an intuitive wireless multi-function ink tank printer designed for low-cost everyday office document printing in Kenya. Delivers sharp text, vibrant color graphics, and simple mobile connectivity.
+
+## Compatible consumables
+HP GT53 90ml Black Original Ink Bottle (~4,000 pages)
+HP GT52 Cyan / Magenta / Yellow Original Ink Bottles (~8,000 pages combined)
+
+## Specifications
+| Print speed | Technology | Functions | Max paper size | Connectivity |
+|---|---|---|---|---|
+| Up to 12 ppm mono / 5 ppm color | Thermal Inkjet | Print, Copy, Scan | A4 | Wi-Fi / Wi-Fi Direct / USB 2.0 |
+
+## Why buy from Trinatech
+Stock held in Nairobi CBD. Delivery across Kenya including Kisumu, Nakuru, Eldoret, and Mombasa. M-Pesa and bank transfer accepted. WhatsApp ordering and walk-in options at The One Mall, River Road.
+
+## Getting the most from this product
+Keep ink tanks topped up using visible front windows to prevent printhead drying.
+
+## Frequently asked questions
+Does it support wireless mobile printing? Yes, via HP Smart App, Apple AirPrint, and Mopria.
+How fast is Nairobi shipping? Delivered in 1 to 3 hours across Nairobi CBD.
+How can I pay? Pay via M-Pesa Buy Goods/Till or bank transfer.
+Is warranty provided? Covered with official HP warranty.`, "metaTitle": "HP Smart Tank 582 Wireless Printer Price", "metaDescription": "Buy HP Smart Tank 582 all-in-one printer in Nairobi. Refillable tank, Wi-Fi, mobile app printing. Fast delivery in Kenya.", "inStock": false, "comingSoon": true},
+  {"id": 9232, "sku": null, "name": "HP Smart Tank 585 Printer", "brand": "HP", "category": "Printers & Copiers", "price": null, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/08/9232_hp_hp-smart-tank-585-printer.jpg.png", "imageFile": "9232_hp_hp-smart-tank-585-printer.jpg.png", "description": `The HP Smart Tank 585 Printer is a compact, high-efficiency wireless ink tank 3-in-1 printer tailored for active households and micro-businesses across Kenya. Features smart button interface, high page yields, and borderless photo printing.
+
+## Compatible consumables
+HP GT53 90ml Black Original Ink Bottle (~4,000 pages)
+HP GT52 Cyan / Magenta / Yellow Original Ink Bottles (~8,000 pages combined)
+
+## Specifications
+| Print speed | Technology | Functions | Max paper size | Connectivity |
+|---|---|---|---|---|
+| Up to 12 ppm mono / 5 ppm color | Thermal Inkjet | Print, Copy, Scan | A4 | Wi-Fi / Wi-Fi Direct / USB 2.0 |
+
+## Why buy from Trinatech
+Stock held in Nairobi CBD. Delivery across Kenya including Kisumu, Nakuru, Eldoret, and Mombasa. M-Pesa and bank transfer accepted. WhatsApp ordering and walk-in options at The One Mall, River Road.
+
+## Getting the most from this product
+Use auto-on/auto-off smart settings to conserve electrical energy during idle office hours.
+
+## Frequently asked questions
+What ink bottles does it take? Takes HP GT53 black and GT52 cyan/magenta/yellow bottles.
+How fast is Nairobi delivery? Delivered in 1 to 3 hours.
+How do I pay? Pay via M-Pesa or bank transfer.
+Is warranty included? Covered with official HP warranty.`, "metaTitle": "HP Smart Tank 585 Wireless All-in-One Printer", "metaDescription": "Shop HP Smart Tank 585 ink tank printer in Nairobi. Ultra-low print cost, Wi-Fi, scan & copy. Fast delivery across Kenya.", "inStock": false, "comingSoon": true},
   {"id": 9500, "sku": null, "name": "Riso DA14 Ink", "brand": "Riso", "category": "Riso Master Rolls & Inks", "price": null, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/08/9500_riso_riso-da14-ink.webp", "imageFile": "9500_riso_riso-da14-ink.webp", "description": `The Riso DA14 Ink is a premium 600ml black duplicator ink tube formulated for high-speed digital duplicators. Engineered with fast-drying, plant-based emulsion ink to deliver high-density black copies without smudging or bleeding through standard paper stock across school and office environments in Kenya.
 
 ## Compatible printers

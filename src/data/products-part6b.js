@@ -602,36 +602,828 @@ Is this powder universal for all color printers? Works across most common HP, Ca
 How fast is Nairobi delivery? Same-day inside 1 to 3 hours.
 How do I pay? M-Pesa Buy Goods/Till or bank transfer.
 Is warranty included? Covered against manufacturing defects.`, "metaTitle": "Universal Yellow Color Toner Powder 100g - Trinatech", "metaDescription": "Shop universal yellow refill toner powder 100g in Nairobi. Premium yellow powder for HP, Canon, Samsung color laser cartridges. Fast Kenya delivery.", "inStock": true, "comingSoon": false, "priceOnRequest": true},
-  {"id": 9547, "sku": null, "name": "Kyocera TK-5197 Toner Cartridge", "brand": "Kyocera", "category": "Inks & Toner Cartridges", "price": null, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/08/9547_kyocera_kyocera-tk-5197-toner-cartridge.jpg.png", "imageFile": "9547_kyocera_kyocera-tk-5197-toner-cartridge.jpg.png", "description": null, "inStock": true, "comingSoon": false, "priceOnRequest": true},
-  {"id": 9548, "sku": null, "name": "Kyocera TK-5207 Toner Cartridge", "brand": "Kyocera", "category": "Inks & Toner Cartridges", "price": null, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/08/9548_kyocera_kyocera-tk-5207-toner-cartridge.jpg.png", "imageFile": "9548_kyocera_kyocera-tk-5207-toner-cartridge.jpg.png", "description": null, "inStock": true, "comingSoon": false, "priceOnRequest": true},
-  {"id": 9549, "sku": null, "name": "Kyocera TK-5217 Toner Cartridge", "brand": "Kyocera", "category": "Inks & Toner Cartridges", "price": null, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/08/9549_kyocera_kyocera-tk-5217-toner-cartridge.jpg.png", "imageFile": "9549_kyocera_kyocera-tk-5217-toner-cartridge.jpg.png", "description": null, "inStock": true, "comingSoon": false, "priceOnRequest": true},
-  {"id": 9550, "sku": null, "name": "Kyocera TK-5305 Toner Cartridge", "brand": "Kyocera", "category": "Inks & Toner Cartridges", "price": null, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/08/9550_kyocera_kyocera-tk-5305-toner-cartridge.jpg.png", "imageFile": "9550_kyocera_kyocera-tk-5305-toner-cartridge.jpg.png", "description": null, "inStock": true, "comingSoon": false, "priceOnRequest": true},
-  {"id": 9551, "sku": null, "name": "Kyocera TK-8315 Toner Cartridge", "brand": "Kyocera", "category": "Inks & Toner Cartridges", "price": null, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/08/9551_kyocera_kyocera-tk-8315-toner-cartridge.jpg.png", "imageFile": "9551_kyocera_kyocera-tk-8315-toner-cartridge.jpg.png", "description": null, "inStock": true, "comingSoon": false, "priceOnRequest": true},
-  {"id": 9552, "sku": null, "name": "Konica Minolta TN619 Toner Cartridge", "brand": "Konica Minolta", "category": "Inks & Toner Cartridges", "price": null, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/08/9552_konica_konica-minolta-tn619-toner-cartridge.jpg.png", "imageFile": "9552_konica_konica-minolta-tn619-toner-cartridge.jpg.png", "description": null, "inStock": true, "comingSoon": false, "priceOnRequest": true},
-  {"id": 9553, "sku": null, "name": "EP Universal Ink C 1000ML", "brand": "Other", "category": "Inks & Toner Cartridges", "price": null, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/08/9553_other_ep-universal-ink-c-1000ml.jpg.png", "imageFile": "9553_other_ep-universal-ink-c-1000ml.jpg.png", "description": null, "inStock": true, "comingSoon": false, "priceOnRequest": true},
-  {"id": 9554, "sku": null, "name": "EP Universal Ink M 1000ML", "brand": "Other", "category": "Inks & Toner Cartridges", "price": null, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/08/9554_other_ep-universal-ink-m-1000ml.jpg.png", "imageFile": "9554_other_ep-universal-ink-m-1000ml.jpg.png", "description": null, "inStock": true, "comingSoon": false, "priceOnRequest": true},
-  {"id": 9555, "sku": null, "name": "EP Universal Ink Y 1000ML", "brand": "Other", "category": "Inks & Toner Cartridges", "price": null, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/08/9555_other_ep-universal-ink-y-1000ml.jpg.png", "imageFile": "9555_other_ep-universal-ink-y-1000ml.jpg.png", "description": null, "inStock": true, "comingSoon": false, "priceOnRequest": true},
-  {"id": 9556, "sku": null, "name": "Ricoh SP242 Toner Cartridge", "brand": "Ricoh", "category": "Ricoh Toners", "price": null, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/08/9556_ricoh_ricoh-sp242-toner-cartridge.webp", "imageFile": "9556_ricoh_ricoh-sp242-toner-cartridge.webp", "description": null, "inStock": true, "comingSoon": false, "priceOnRequest": true},
-  {"id": 9557, "sku": null, "name": "Ricoh MPC2550Y Toner Cartridge", "brand": "Ricoh", "category": "Ricoh Toners", "price": null, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/08/9557_ricoh_ricoh-mpc2550y-toner-cartridge.jpg.png", "imageFile": "9557_ricoh_ricoh-mpc2550y-toner-cartridge.jpg.png", "description": null, "inStock": true, "comingSoon": false, "priceOnRequest": true},
-  {"id": 9558, "sku": null, "name": "Canon Cartridge 045", "brand": "Canon", "category": "Canon Toners", "price": null, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/08/9558_canon_canon-cartridge-045.jpg.png", "imageFile": "9558_canon_canon-cartridge-045.jpg.png", "description": null, "inStock": true, "comingSoon": false, "priceOnRequest": true},
-  {"id": 9559, "sku": null, "name": "Samsung CLT-406S Toner Cartridge", "brand": "Samsung", "category": "Inks & Toner Cartridges", "price": null, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/08/9559_samsung_samsung-clt-406s-toner-cartridge.jpg", "imageFile": "9559_samsung_samsung-clt-406s-toner-cartridge.jpg", "description": null, "inStock": true, "comingSoon": false, "priceOnRequest": true},
-  {"id": 9560, "sku": null, "name": "Ricoh IMC3000K C Toner Cartridge", "brand": "Ricoh", "category": "Ricoh Toners", "price": null, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/08/9560_ricoh_ricoh-imc3000k-c-toner-cartridge.jpg.png", "imageFile": "9560_ricoh_ricoh-imc3000k-c-toner-cartridge.jpg.png", "description": null, "inStock": true, "comingSoon": false, "priceOnRequest": true},
-  {"id": 9561, "sku": null, "name": "Ricoh IMC3000M Y Toner Cartridge", "brand": "Ricoh", "category": "Ricoh Toners", "price": null, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/08/9561_ricoh_ricoh-imc3000m-y-toner-cartridge.jpg.png", "imageFile": "9561_ricoh_ricoh-imc3000m-y-toner-cartridge.jpg.png", "description": null, "inStock": true, "comingSoon": false, "priceOnRequest": true},
-  {"id": 9562, "sku": null, "name": "Kyocera MK4105 Maintenance Kit", "brand": "Kyocera", "category": "Maintenance Kits & Spare Parts", "price": null, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/08/9562_kyocera_kyocera-mk4105-maintenance-kit.jpg.png", "imageFile": "9562_kyocera_kyocera-mk4105-maintenance-kit.jpg.png", "description": null, "inStock": true, "comingSoon": false, "priceOnRequest": true},
-  {"id": 9563, "sku": null, "name": "Samsung MLT-D116S Toner Cartridge", "brand": "Samsung", "category": "Inks & Toner Cartridges", "price": null, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/08/9563_samsung_samsung-mlt-d116s-toner-cartridge.jpg", "imageFile": "9563_samsung_samsung-mlt-d116s-toner-cartridge.jpg", "description": null, "inStock": true, "comingSoon": false, "priceOnRequest": true},
-  {"id": 9564, "sku": null, "name": "Ricoh MP601 Toner Cartridge", "brand": "Ricoh", "category": "Ricoh Toners", "price": null, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/08/9564_ricoh_ricoh-mp601-toner-cartridge.jpg.png", "imageFile": "9564_ricoh_ricoh-mp601-toner-cartridge.jpg.png", "description": null, "inStock": true, "comingSoon": false, "priceOnRequest": true},
-  {"id": 9565, "sku": null, "name": "Ricoh MPC3503K C Toner Cartridge", "brand": "Ricoh", "category": "Ricoh Toners", "price": null, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/08/9565_ricoh_ricoh-mpc3503k-c-toner-cartridge.jpg.png", "imageFile": "9565_ricoh_ricoh-mpc3503k-c-toner-cartridge.jpg.png", "description": null, "inStock": true, "comingSoon": false, "priceOnRequest": true},
-  {"id": 9566, "sku": null, "name": "Ricoh MPC3503K M Toner Cartridge", "brand": "Ricoh", "category": "Ricoh Toners", "price": null, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/08/9566_ricoh_ricoh-mpc3503k-m-toner-cartridge.jpg.png", "imageFile": "9566_ricoh_ricoh-mpc3503k-m-toner-cartridge.jpg.png", "description": null, "inStock": true, "comingSoon": false, "priceOnRequest": true},
-  {"id": 9567, "sku": null, "name": "Ricoh MPC4000 Toner Cartridge", "brand": "Ricoh", "category": "Ricoh Toners", "price": null, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/08/9567_ricoh_ricoh-mpc4000-toner-cartridge.jpg.png", "imageFile": "9567_ricoh_ricoh-mpc4000-toner-cartridge.jpg.png", "description": null, "inStock": true, "comingSoon": false, "priceOnRequest": true},
-  {"id": 9568, "sku": null, "name": "Ricoh MPC5501C Y Toner Cartridge", "brand": "Ricoh", "category": "Ricoh Toners", "price": null, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/08/9568_ricoh_ricoh-mpc5501c-y-toner-cartridge.jpg.png", "imageFile": "9568_ricoh_ricoh-mpc5501c-y-toner-cartridge.jpg.png", "description": null, "inStock": true, "comingSoon": false, "priceOnRequest": true},
-  {"id": 9569, "sku": null, "name": "Ricoh MPC5501K M Toner Cartridge", "brand": "Ricoh", "category": "Ricoh Toners", "price": null, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/08/9569_ricoh_ricoh-mpc5501k-m-toner-cartridge.jpg.png", "imageFile": "9569_ricoh_ricoh-mpc5501k-m-toner-cartridge.jpg.png", "description": null, "inStock": true, "comingSoon": false, "priceOnRequest": true},
-  {"id": 9570, "sku": null, "name": "Sharp MX-236FT Toner Cartridge", "brand": "Sharp", "category": "Sharp Toners", "price": null, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/08/9570_sharp_sharp-mx-236ft-toner-cartridge.jpg.png", "imageFile": "9570_sharp_sharp-mx-236ft-toner-cartridge.jpg.png", "description": null, "inStock": true, "comingSoon": false, "priceOnRequest": true},
-  {"id": 9571, "sku": null, "name": "Samsung SCX-4200 Toner Cartridge", "brand": "Samsung", "category": "Inks & Toner Cartridges", "price": null, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/08/9571_samsung_samsung-scx-4200-toner-cartridge.webp", "imageFile": "9571_samsung_samsung-scx-4200-toner-cartridge.webp", "description": null, "inStock": true, "comingSoon": false, "priceOnRequest": true},
-  {"id": 9572, "sku": null, "name": "Kyocera TASKalfa 180 OPC Drum", "brand": "Kyocera", "category": "Maintenance Kits & Spare Parts", "price": null, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/08/9572_kyocera_kyocera-taskalfa-180-opc-drum.jpg.png", "imageFile": "9572_kyocera_kyocera-taskalfa-180-opc-drum.jpg.png", "description": null, "inStock": true, "comingSoon": false, "priceOnRequest": true},
-  {"id": 9573, "sku": null, "name": "Kyocera TK-3160 Toner Cartridge", "brand": "Kyocera", "category": "Inks & Toner Cartridges", "price": null, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/08/9573_kyocera_kyocera-tk-3160-toner-cartridge.jpg.png", "imageFile": "9573_kyocera_kyocera-tk-3160-toner-cartridge.jpg.png", "description": null, "inStock": true, "comingSoon": false, "priceOnRequest": true},
-  {"id": 9574, "sku": null, "name": "Kyocera TK-7227 Toner Cartridge", "brand": "Kyocera", "category": "Inks & Toner Cartridges", "price": null, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/08/9574_kyocera_kyocera-tk-7227-toner-cartridge.webp", "imageFile": "9574_kyocera_kyocera-tk-7227-toner-cartridge.webp", "description": null, "inStock": true, "comingSoon": false, "priceOnRequest": true},
-  {"id": 9575, "sku": null, "name": "Konica Minolta TN211 Toner Cartridge", "brand": "Konica Minolta", "category": "Inks & Toner Cartridges", "price": null, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/08/9575_konica_konica-minolta-tn211-toner-cartridge.jpg.png", "imageFile": "9575_konica_konica-minolta-tn211-toner-cartridge.jpg.png", "description": null, "inStock": true, "comingSoon": false, "priceOnRequest": true},
-  {"id": 9576, "sku": null, "name": "Canon C-EXV59 Toner Cartridge", "brand": "Canon", "category": "Canon Toners", "price": null, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/08/9576_canon_canon-c-exv59-toner-cartridge.jpg.png", "imageFile": "9576_canon_canon-c-exv59-toner-cartridge.jpg.png", "description": null, "inStock": true, "comingSoon": false, "priceOnRequest": true},
+  {"id": 9547, "sku": null, "name": "Kyocera TK-5197 Toner Cartridge", "brand": "Kyocera", "category": "Inks & Toner Cartridges", "price": null, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/08/9547_kyocera_kyocera-tk-5197-toner-cartridge.jpg.png", "imageFile": "9547_kyocera_kyocera-tk-5197-toner-cartridge.jpg.png", "description": `The Kyocera TK-5197 Toner Cartridge (TK-5197K/C/M/Y) is a high-capacity color toner kit designed for Kyocera TASKalfa A4 multifunction copiers. Formulated with ultrafine micro-powder to deliver sharp document text and accurate graphic color tones for offices across Kenya.
+
+## Compatible printers
+Kyocera TASKalfa 306ci
+Kyocera TASKalfa 307ci
+If your printer model isn't listed, send us the number from the front panel and we'll confirm before you pay.
+
+## Specifications
+| Page yield | Part type | Colour | Part number | Genuine or compatible |
+|---|---|---|---|---|
+| ~15,000 BK / ~7,000 Color | Laser Toner Cartridge | Black, Cyan, Magenta, Yellow | TK-5197 / TK5197 | Genuine / Compatible |
+
+## Genuine or compatible?
+Covers OEM Genuine Kyocera toner cartridges as well as premium Compatible alternatives for budget-conscious office management.
+
+## Why buy from Trinatech
+Stock held in Nairobi CBD. Delivery across Kenya including Kisumu, Nakuru, Eldoret, and Mombasa. M-Pesa and bank transfer accepted. WhatsApp ordering and walk-in options at The One Mall, River Road.
+
+## Getting the most from this product
+Shake the toner cartridge horizontally 5 times before installation to ensure even powder distribution from the first page.
+
+## Frequently asked questions
+Are colors sold individually? Yes, priced each per color cartridge; specify required color upon ordering.
+How fast is Nairobi delivery? Same-day inside 1 to 3 hours.
+How do I pay? Pay via M-Pesa Buy Goods/Till or bank transfer.
+Is warranty provided? Covered against factory defects.`, "metaTitle": "Kyocera TK-5197 Toner Cartridge Price - Trinatech Kenya", "metaDescription": "Buy Kyocera TK-5197 toner cartridge in Nairobi. Fits TASKalfa 306ci, 307ci copiers. Yields ~15,000 BK / 7,000 Color. Fast Kenya delivery.", "inStock": true, "comingSoon": false, "priceOnRequest": true},
+  {"id": 9548, "sku": null, "name": "Kyocera TK-5207 Toner Cartridge", "brand": "Kyocera", "category": "Inks & Toner Cartridges", "price": null, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/08/9548_kyocera_kyocera-tk-5207-toner-cartridge.jpg.png", "imageFile": "9548_kyocera_kyocera-tk-5207-toner-cartridge.jpg.png", "description": `The Kyocera TK-5207 Toner Cartridge (TK-5207K/C/M/Y) provides authentic micro-fine toner for Kyocera TASKalfa high-speed color copiers. Engineered to deliver sharp document clarity, rich color rendering, and low running costs in Kenya.
+
+## Compatible printers
+Kyocera TASKalfa 356ci
+If your printer model isn't listed, send us the number from the front panel and we'll confirm before you pay.
+
+## Specifications
+| Page yield | Part type | Colour | Part number | Genuine or compatible |
+|---|---|---|---|---|
+| ~18,000 BK / ~12,000 Color | Laser Toner Cartridge | Black, Cyan, Magenta, Yellow | TK-5207 / TK5207 | Genuine / Compatible |
+
+## Genuine or compatible?
+Available in OEM Genuine Kyocera and high-grade Compatible options to give you complete flexibility.
+
+## Why buy from Trinatech
+Stock held in Nairobi CBD. Delivery across Kenya including Kisumu, Nakuru, Eldoret, and Mombasa. M-Pesa and bank transfer accepted. WhatsApp ordering and walk-in options at The One Mall, River Road.
+
+## Getting the most from this product
+Allow the copier to finish its standard auto-calibration cycle after installing a new TK-5207 toner unit.
+
+## Frequently asked questions
+What printer uses TK-5207? Designed specifically for the Kyocera TASKalfa 356ci.
+What is the yield? Up to ~18,000 pages for Black and ~12,000 pages per color.
+How fast is Nairobi delivery? Delivered within 1 to 3 hours.
+How can I pay? Pay via M-Pesa or bank wire.
+Is warranty provided? Covered under warranty against defect.`, "metaTitle": "Kyocera TK-5207 Toner Cartridge Price - Trinatech Kenya", "metaDescription": "Order Kyocera TK-5207 toner cartridge in Nairobi. Fits TASKalfa 356ci copiers. Yields ~18,000 BK / 12,000 Color pages. Fast delivery.", "inStock": true, "comingSoon": false, "priceOnRequest": true},
+  {"id": 9549, "sku": null, "name": "Kyocera TK-5217 Toner Cartridge", "brand": "Kyocera", "category": "Inks & Toner Cartridges", "price": null, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/08/9549_kyocera_kyocera-tk-5217-toner-cartridge.jpg.png", "imageFile": "9549_kyocera_kyocera-tk-5217-toner-cartridge.jpg.png", "description": `The Kyocera TK-5217 Toner Cartridge (TK-5217K/C/M/Y) is an enterprise-level color toner kit for heavy-duty Kyocera TASKalfa A4 copiers. Built for maximum uptime, high page yield, and consistent color contrast.
+
+## Compatible printers
+Kyocera TASKalfa 406ci
+Kyocera TASKalfa 408ci
+If your printer model isn't listed, send us the number from the front panel and we'll confirm before you pay.
+
+## Specifications
+| Page yield | Part type | Colour | Part number | Genuine or compatible |
+|---|---|---|---|---|
+| ~20,000 BK / ~15,000 Color | Laser Toner Cartridge | Black, Cyan, Magenta, Yellow | TK-5217 / TK5217 | Genuine / Compatible |
+
+## Genuine or compatible?
+Genuine Original Kyocera toner supply. Compatible alternatives are also stocked for lower corporate overhead.
+
+## Why buy from Trinatech
+Stock held in Nairobi CBD. Delivery across Kenya including Kisumu, Nakuru, Eldoret, and Mombasa. M-Pesa and bank transfer accepted. WhatsApp ordering and walk-in options at The One Mall, River Road.
+
+## Getting the most from this product
+Keep unused cartridges stored horizontally in an ambient, dry environment to avoid powder clumping.
+
+## Frequently asked questions
+Is the price per color or for a kit? Priced per individual toner cartridge.
+What is the page yield? ~20,000 pages for Black, ~15,000 pages for each color.
+How fast is Nairobi delivery? Same-day inside 1 to 3 hours.
+How do I pay? M-Pesa Buy Goods/Till or bank wire.
+Is warranty included? Covered against factory defects.`, "metaTitle": "Kyocera TK-5217 Toner Cartridge Price - Trinatech Kenya", "metaDescription": "Shop Kyocera TK-5217 toner cartridge in Nairobi. Fits TASKalfa 406ci, 408ci copiers. Yields ~20,000 BK / 15,000 Color. Fast shipping.", "inStock": true, "comingSoon": false, "priceOnRequest": true},
+  {"id": 9550, "sku": null, "name": "Kyocera TK-5305 Toner Cartridge", "brand": "Kyocera", "category": "Inks & Toner Cartridges", "price": null, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/08/9550_kyocera_kyocera-tk-5305-toner-cartridge.jpg.png", "imageFile": "9550_kyocera_kyocera-tk-5305-toner-cartridge.jpg.png", "description": `The Kyocera TK-5305 Toner Cartridge (TK-5305K/C/M/Y) is a premium ECOSYS color toner kit for Kyocera desktop laser printers. Formulated to produce vibrant marketing collateral and sharp office documents in Nairobi.
+
+## Compatible printers
+Kyocera ECOSYS MA3500ci / MA3500cifx
+Kyocera ECOSYS PA3500ci / PA3500cx
+If your printer model isn't listed, send us the number from the front panel and we'll confirm before you pay.
+
+## Specifications
+| Page yield | Part type | Colour | Part number | Genuine or compatible |
+|---|---|---|---|---|
+| ~12,000 BK / ~10,000 Color | Laser Toner Cartridge | Black, Cyan, Magenta, Yellow | TK-5305 / TK5305 | Genuine / Compatible |
+
+## Genuine or compatible?
+Covers OEM Genuine Kyocera ECOSYS supplies as well as high-yield Compatible options for operational savings.
+
+## Why buy from Trinatech
+Stock held in Nairobi CBD. Delivery across Kenya including Kisumu, Nakuru, Eldoret, and Mombasa. M-Pesa and bank transfer accepted. WhatsApp ordering and walk-in options at The One Mall, River Road.
+
+## Getting the most from this product
+Store in cool room conditions. Allow printer auto-calibration to run after inserting fresh toner.
+
+## Frequently asked questions
+Are color cartridges sold separately? Yes, priced individually per color.
+How fast is Nairobi shipping? Delivered within 1 to 3 hours in Nairobi CBD.
+How can I pay? Pay via M-Pesa, bank wire, or cash.
+Is warranty provided? Covered under manufacturer warranty.`, "metaTitle": "Kyocera TK-5305 Toner Cartridge Price - Trinatech Kenya", "metaDescription": "Buy Kyocera TK-5305 toner cartridge in Nairobi. Fits ECOSYS MA3500ci, PA3500ci. Yields ~12,000 BK / 10,000 Color. Fast delivery.", "inStock": true, "comingSoon": false, "priceOnRequest": true},
+  {"id": 9551, "sku": null, "name": "Kyocera TK-8315 Toner Cartridge", "brand": "Kyocera", "category": "Inks & Toner Cartridges", "price": null, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/08/9551_kyocera_kyocera-tk-8315-toner-cartridge.jpg.png", "imageFile": "9551_kyocera_kyocera-tk-8315-toner-cartridge.jpg.png", "description": `The Kyocera TK-8315 Toner Cartridge (TK-8315K/C/M/Y) is an original A3 color toner kit for Kyocera TASKalfa multifunction copiers. Engineered for precise color registration and sharp monochrome text across heavy office print runs in Kenya.
+
+## Compatible printers
+Kyocera TASKalfa 2550ci
+Kyocera TASKalfa 2551ci
+If your copier model isn't listed, send us the number from the front panel and we'll confirm before you pay.
+
+## Specifications
+| Page yield | Part type | Colour | Part number | Genuine or compatible |
+|---|---|---|---|---|
+| ~12,000 BK / ~6,000 Color | Laser Toner Cartridge | Black, Cyan, Magenta, Yellow | TK-8315 / TK8315 | Genuine / Compatible |
+
+## Genuine or compatible?
+Covers original Genuine Kyocera toner cartridges as well as premium Compatible alternatives for lower cost-per-page operation.
+
+## Why buy from Trinatech
+Stock held in Nairobi CBD. Delivery across Kenya including Kisumu, Nakuru, Eldoret, and Mombasa. M-Pesa and bank transfer accepted. WhatsApp ordering and walk-in options at The One Mall, River Road.
+
+## Getting the most from this product
+Tilt and rock the toner kit horizontally 5 times before sliding into the copier drum housing.
+
+## Frequently asked questions
+What is the page yield? ~12,000 pages for Black and ~6,000 pages for each color cartridge.
+How fast is Nairobi delivery? Same-day inside 1 to 3 hours.
+How do I pay? Pay via M-Pesa Buy Goods/Till or bank transfer.
+Is warranty provided? Covered against factory defects.`, "metaTitle": "Kyocera TK-8315 Toner Cartridge Price - Trinatech Kenya", "metaDescription": "Order Kyocera TK-8315 toner cartridge in Nairobi. Fits TASKalfa 2550ci, 2551ci. Yields ~12,000 BK / 6,000 Color. Fast Kenya shipping.", "inStock": true, "comingSoon": false, "priceOnRequest": true},
+  {"id": 9552, "sku": null, "name": "Konica Minolta TN619 Toner Cartridge", "brand": "Konica Minolta", "category": "Inks & Toner Cartridges", "price": null, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/08/9552_konica_konica-minolta-tn619-toner-cartridge.jpg.png", "imageFile": "9552_konica_konica-minolta-tn619-toner-cartridge.jpg.png", "description": `The Konica Minolta TN619 Toner Cartridge (TN-619K/C/M/Y) is a high-volume production toner kit designed for Konica Minolta Bizhub PRO and AccurioPress digital presses. Formulated for brilliant color saturation and crisp black text density in Nairobi.
+
+## Compatible printers
+Konica Minolta Bizhub PRO C1060L / C1070L
+Konica Minolta AccurioPress C2060 / C2070
+Konica Minolta AccurioPrint C2060L / C3070L
+If your printer model isn't listed, send us the number from the front panel and we'll confirm before you pay.
+
+## Specifications
+| Page yield | Part type | Colour | Part number | Genuine or compatible |
+|---|---|---|---|---|
+| ~66,000 BK / ~54,000 Color | Production Laser Toner | Black, Cyan, Magenta, Yellow | TN-619 / TN619 | Genuine / Compatible |
+
+## Genuine or compatible?
+Available in OEM Genuine Konica Minolta production bottles as well as high-grade Compatible options for print shops.
+
+## Why buy from Trinatech
+Stock held in Nairobi CBD. Delivery across Kenya including Kisumu, Nakuru, Eldoret, and Mombasa. M-Pesa and bank transfer accepted. WhatsApp ordering and walk-in options at The One Mall, River Road.
+
+## Getting the most from this product
+Store toner bottles horizontally. Rotate the bottle 3 to 4 times before inserting into the press hopper.
+
+## Frequently asked questions
+Is this for office copiers or production presses? Formulated specifically for high-speed Bizhub PRO and AccurioPress engines.
+How fast is Nairobi delivery? Delivered within 1 to 3 hours.
+How can I pay? Pay via M-Pesa or bank transfer.
+Is warranty provided? Covered against factory defects.`, "metaTitle": "Konica Minolta TN619 Color Toner Price - Trinatech Kenya", "metaDescription": "Buy Konica Minolta TN619 toner cartridge in Nairobi. Fits Bizhub PRO C1060L, C1070L, AccurioPress C2060. High yield production toner.", "inStock": true, "comingSoon": false, "priceOnRequest": true},
+  {"id": 9553, "sku": null, "name": "EP Universal Ink C 1000ML", "brand": "Other", "category": "Inks & Toner Cartridges", "price": null, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/08/9553_other_ep-universal-ink-c-1000ml.jpg.png", "imageFile": "9553_other_ep-universal-ink-c-1000ml.jpg.png", "description": `The EP Universal Ink C 1000ML is a premium 1-Litre bulk cyan dye refill ink formulated for Epson EcoTank and CISS desktop printers. Engineered to deliver accurate cyan color tones, rapid drying times, and clog-free printhead performance across Kenya.
+
+## Compatible printers
+Epson EcoTank L1110, L3110, L3150, L3210, L3250
+Epson EcoTank L800, L805, L850, L1800
+Epson WorkForce & CISS converted inkjet printers
+If your printer model isn't listed, send us the number from the front panel and we'll confirm before you pay.
+
+## Specifications
+| Volume | Part type | Colour | Part number | Genuine or compatible |
+|---|---|---|---|---|
+| 1000 ml (1 Litre) | Inkjet Refill Bottle | Cyan | Universal EP Dye Ink | Compatible |
+
+## Genuine or compatible?
+High-grade Compatible universal dye ink, carefully formulated to match OEM Epson viscosity and pH levels for long-term printhead health.
+
+## Why buy from Trinatech
+Stock held in Nairobi CBD. Delivery across Kenya including Kisumu, Nakuru, Eldoret, and Mombasa. M-Pesa and bank transfer accepted. WhatsApp ordering and walk-in options at The One Mall, River Road.
+
+## Getting the most from this product
+Use a clean squeeze nozzle or syringe when refilling EcoTank reservoirs to keep dust and air bubbles out of the supply lines.
+
+## Frequently asked questions
+Is this dye or pigment ink? High-quality dye-based ink designed for photo and graphic printing.
+How fast is Nairobi shipping? Same-day inside 1 to 3 hours.
+How do I pay? Pay via M-Pesa Buy Goods/Till or bank wire.
+Is warranty included? Covered against factory defects.`, "metaTitle": "Epson Universal Cyan Refill Ink 1000ml Price - Trinatech", "metaDescription": "Order Epson universal cyan dye refill ink 1000ml (1 Litre) in Nairobi. Compatible with L-series EcoTank printers. Fast Kenya delivery.", "inStock": true, "comingSoon": false, "priceOnRequest": true},
+  {"id": 9554, "sku": null, "name": "EP Universal Ink M 1000ML", "brand": "Other", "category": "Inks & Toner Cartridges", "price": null, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/08/9554_other_ep-universal-ink-m-1000ml.jpg.png", "imageFile": "9554_other_ep-universal-ink-m-1000ml.jpg.png", "description": `The EP Universal Ink M 1000ML is a 1-Litre bulk magenta dye refill ink engineered for Epson EcoTank and CISS converted printers. Formulated to produce rich red/magenta saturation and accurate color mixing for graphics and photos in Nairobi.
+
+## Compatible printers
+Epson EcoTank L1110, L3110, L3150, L3210, L3250
+Epson EcoTank L800, L805, L850, L1800
+Epson WorkForce & CISS converted inkjet printers
+If your printer model isn't listed, send us the number from the front panel and we'll confirm before you pay.
+
+## Specifications
+| Volume | Part type | Colour | Part number | Genuine or compatible |
+|---|---|---|---|---|
+| 1000 ml (1 Litre) | Inkjet Refill Bottle | Magenta | Universal EP Dye Ink | Compatible |
+
+## Genuine or compatible?
+High-grade Compatible universal dye ink, tailored to match OEM Epson printhead characteristics and color spectra.
+
+## Why buy from Trinatech
+Stock held in Nairobi CBD. Delivery across Kenya including Kisumu, Nakuru, Eldoret, and Mombasa. M-Pesa and bank transfer accepted. WhatsApp ordering and walk-in options at The One Mall, River Road.
+
+## Getting the most from this product
+Store ink bottles away from direct sunlight in room temperature conditions to prevent ink degradation.
+
+## Frequently asked questions
+Is this bottle 1000ml? Yes, full 1-Litre capacity bottle.
+How fast is Nairobi delivery? Delivered within 1 to 3 hours across Nairobi CBD.
+How can I pay? Pay via M-Pesa, bank wire, or cash.
+Is warranty provided? Covered against manufacturing defects.`, "metaTitle": "Epson Universal Magenta Refill Ink 1000ml - Trinatech", "metaDescription": "Buy Epson universal magenta dye refill ink 1000ml (1 Litre) in Nairobi. Compatible with EcoTank L-series printers. Fast Kenya delivery.", "inStock": true, "comingSoon": false, "priceOnRequest": true},
+  {"id": 9555, "sku": null, "name": "EP Universal Ink Y 1000ML", "brand": "Other", "category": "Inks & Toner Cartridges", "price": null, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/08/9555_other_ep-universal-ink-y-1000ml.jpg.png", "imageFile": "9555_other_ep-universal-ink-y-1000ml.jpg.png", "description": `The EP Universal Ink Y 1000ML supplies 1-Litre of bulk yellow dye refill ink for Epson EcoTank and CISS desktop printers. Formulated for brilliant yellow tones, rapid drying, and clog-free nozzle operation across commercial print jobs in Kenya.
+
+## Compatible printers
+Epson EcoTank L1110, L3110, L3150, L3210, L3250
+Epson EcoTank L800, L805, L850, L1800
+Epson WorkForce & CISS converted inkjet printers
+If your printer model isn't listed, send us the number from the front panel and we'll confirm before you pay.
+
+## Specifications
+| Volume | Part type | Colour | Part number | Genuine or compatible |
+|---|---|---|---|---|
+| 1000 ml (1 Litre) | Inkjet Refill Bottle | Yellow | Universal EP Dye Ink | Compatible |
+
+## Genuine or compatible?
+High-grade Compatible universal dye ink engineered to protect fine-nozzle Epson printheads.
+
+## Why buy from Trinatech
+Stock held in Nairobi CBD. Delivery across Kenya including Kisumu, Nakuru, Eldoret, and Mombasa. M-Pesa and bank transfer accepted. WhatsApp ordering and walk-in options at The One Mall, River Road.
+
+## Getting the most from this product
+Seal bottle cap tightly when not in use to prevent dust accumulation inside the ink bottle.
+
+## Frequently asked questions
+Is this ink compatible with all L-series EcoTanks? Works across standard 4-color and 6-color Epson EcoTank models.
+How fast is Nairobi delivery? Same-day inside 1 to 3 hours.
+How do I pay? M-Pesa Buy Goods/Till or bank transfer.
+Is warranty included? Covered against factory defects.`, "metaTitle": "Epson Universal Yellow Refill Ink 1000ml - Trinatech", "metaDescription": "Shop Epson universal yellow dye refill ink 1000ml (1 Litre) in Nairobi. Compatible with EcoTank L-series printers. Fast Kenya shipping.", "inStock": true, "comingSoon": false, "priceOnRequest": true},
+  {"id": 9556, "sku": null, "name": "Ricoh SP242 Toner Cartridge", "brand": "Ricoh", "category": "Ricoh Toners", "price": null, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/08/9556_ricoh_ricoh-sp242-toner-cartridge.webp", "imageFile": "9556_ricoh_ricoh-sp242-toner-cartridge.webp", "description": `The Ricoh SP242 Toner Cartridge (SP C240/C242 series) is an original color laser toner cartridge for Ricoh Aficio compact color laser printers. Engineered to produce clean text definition and vibrant graphic prints for small offices in Kenya.
+
+## Compatible printers
+Ricoh Aficio SP C240DN / SP C240SF
+Ricoh Aficio SP C242DN / SP C242SF
+Gestetner / Savin SP C240DN / SP C242DN
+If your printer model isn't listed, send us the number from the front panel and we'll confirm before you pay.
+
+## Specifications
+| Page yield | Part type | Colour | Part number | Genuine or compatible |
+|---|---|---|---|---|
+| ~2,500 BK / ~2,300 Color | Laser Toner Cartridge | Black, Cyan, Magenta, Yellow | 406093 / SP C240 | Genuine / Compatible |
+
+## Genuine or compatible?
+Covers OEM Genuine Ricoh cartridges as well as Royal compatible alternatives for lower running costs.
+
+## Why buy from Trinatech
+Stock held in Nairobi CBD. Delivery across Kenya including Kisumu, Nakuru, Eldoret, and Mombasa. M-Pesa and bank transfer accepted. WhatsApp ordering and walk-in options at The One Mall, River Road.
+
+## Getting the most from this product
+Remove the protective plastic shield and pull out the sealing ribbon tape completely prior to insertion.
+
+## Frequently asked questions
+Are colors sold individually? Yes, priced each per individual color cartridge (specify BK, C, M, or Y).
+How fast is Nairobi delivery? Delivered within 1 to 3 hours in Nairobi.
+How can I pay? Pay via M-Pesa, bank wire, or cash.
+Is warranty provided? Covered against factory defects.`, "metaTitle": "Ricoh SP C240 / SP C242 Color Toner Cartridge - Trinatech", "metaDescription": "Buy Ricoh SP C240DN, SP C242DN color toner cartridge in Nairobi. Yields ~2,500 BK / 2,300 Color pages. Fast delivery across Kenya.", "inStock": true, "comingSoon": false, "priceOnRequest": true},
+  {"id": 9557, "sku": null, "name": "Ricoh MPC2550Y Toner Cartridge", "brand": "Ricoh", "category": "Ricoh Toners", "price": null, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/08/9557_ricoh_ricoh-mpc2550y-toner-cartridge.jpg.png", "imageFile": "9557_ricoh_ricoh-mpc2550y-toner-cartridge.jpg.png", "description": `The Ricoh MPC2550Y Toner Cartridge (841283 / Type MP C2550Y) is an original yellow toner bottle designed for Ricoh Aficio color multifunction copiers. Formulated to produce clear yellow tones, sharp graphics, and vibrant office presentation documents across Kenya.
+
+## Compatible printers
+Ricoh Aficio MP C2030
+Ricoh Aficio MP C2050
+Ricoh Aficio MP C2550
+Gestetner / Savin / Lanier MP C2050 / MP C2550 series
+If your copier model isn't listed, send us the number from the front panel and we'll confirm before you pay.
+
+## Specifications
+| Page yield | Part type | Colour | Part number | Genuine or compatible |
+|---|---|---|---|---|
+| ~5,500 pages | Copier Toner Bottle | Yellow | 841283 / Type MP C2550Y | Genuine / Compatible |
+
+## Genuine or compatible?
+Available in OEM Genuine Ricoh toner bottles as well as high-grade Compatible alternatives to cut operational costs.
+
+## Why buy from Trinatech
+Stock held in Nairobi CBD. Delivery across Kenya including Kisumu, Nakuru, Eldoret, and Mombasa. M-Pesa and bank transfer accepted. WhatsApp ordering and walk-in options at The One Mall, River Road.
+
+## Getting the most from this product
+Tilt and shake the yellow toner bottle horizontally 4 to 5 times before sliding it into the copier bay.
+
+## Frequently asked questions
+What is the page yield? Approximately 5,500 pages at standard 5% coverage.
+How fast is Nairobi delivery? Same-day inside 1 to 3 hours.
+How do I pay? Pay via M-Pesa Buy Goods/Till or bank transfer.
+Is warranty provided? Covered against factory defects.`, "metaTitle": "Ricoh MP C2050 / MP C2550 Yellow Toner - Trinatech", "metaDescription": "Buy Ricoh MP C2050 / MP C2550 yellow toner cartridge in Nairobi. High yield ~5,500 pages for Aficio MP C2050, C2550. Fast delivery Kenya.", "inStock": true, "comingSoon": false, "priceOnRequest": true},
+  {"id": 9558, "sku": null, "name": "Canon Cartridge 045", "brand": "Canon", "category": "Canon Toners", "price": null, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/08/9558_canon_canon-cartridge-045.jpg.png", "imageFile": "9558_canon_canon-cartridge-045.jpg.png", "description": `The Canon Cartridge 045 (CRG-045BK/C/M/Y) delivers authentic Canon print performance for compact color laser printers. Engineered to yield crisp text definition and vibrant graphic prints for home offices and small businesses across Kenya.
+
+## Compatible printers
+Canon imageCLASS LBP612C / LBP612Cdw
+Canon imageCLASS MF632Cdw
+Canon imageCLASS MF634Cdw
+Canon i-SENSYS LBP611Cn / LBP613Cdw
+Canon i-SENSYS MF631Cn / MF633Cdw / MF635Cx
+If your printer model isn't listed, send us the number from the front panel and we'll confirm before you pay.
+
+## Specifications
+| Page yield | Part type | Colour | Part number | Genuine or compatible |
+|---|---|---|---|---|
+| ~1,400 BK / ~1,300 Color | Laser Toner Cartridge | Black, Cyan, Magenta, Yellow | CRG-045 / 1242C001 | Genuine / Compatible |
+
+## Genuine or compatible?
+Covers original Genuine Canon cartridges as well as Royal compatible alternative CRG-045 cartridges for lower print expenses.
+
+## Why buy from Trinatech
+Stock held in Nairobi CBD. Delivery across Kenya including Kisumu, Nakuru, Eldoret, and Mombasa. M-Pesa and bank transfer accepted. WhatsApp ordering and walk-in options at The One Mall, River Road.
+
+## Getting the most from this product
+Remove the protective plastic shield and pull out the sealing tape ribbon completely before inserting into the toner tray.
+
+## Frequently asked questions
+Are colors sold individually? Yes, priced each per color cartridge; specify required color when ordering.
+How fast is Nairobi delivery? Delivered within 1 to 3 hours in Nairobi CBD.
+How can I pay? Pay via M-Pesa, bank wire, or cash.
+Is warranty provided? Covered against manufacturing defects.`, "metaTitle": "Canon CRG-045 Color Laser Toner Cartridge - Trinatech", "metaDescription": "Shop Canon CRG-045 toner cartridge in Nairobi. Fits imageCLASS LBP612C, MF632Cdw, MF634Cdw. Yields ~1,400 BK / 1,300 Color. Fast shipping.", "inStock": true, "comingSoon": false, "priceOnRequest": true},
+  {"id": 9559, "sku": null, "name": "Samsung CLT-406S Toner Cartridge", "brand": "Samsung", "category": "Inks & Toner Cartridges", "price": null, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/08/9559_samsung_samsung-clt-406s-toner-cartridge.jpg", "imageFile": "9559_samsung_samsung-clt-406s-toner-cartridge.jpg", "description": `The Samsung CLT-406S Toner Cartridge (CLT-K406S/C406S/M406S/Y406S) is a reliable color toner cartridge engineered for Samsung desktop color laser printers. Formulated to produce sharp text and vibrant images for everyday documents in Nairobi.
+
+## Compatible printers
+Samsung CLP-360 / CLP-365 / CLP-365W
+Samsung CLX-3300 / CLX-3305 / CLX-3305FW / CLX-3305W
+Samsung Xpress C410W / C460W / C460FW
+If your printer model isn't listed, send us the number from the front panel and we'll confirm before you pay.
+
+## Specifications
+| Page yield | Part type | Colour | Part number | Genuine or compatible |
+|---|---|---|---|---|
+| ~1,500 BK / ~1,000 Color | Laser Toner Cartridge | Black, Cyan, Magenta, Yellow | CLT-406S / SU374A | Genuine / Compatible |
+
+## Genuine or compatible?
+Available in OEM Genuine Samsung/HP toner cartridges as well as budget-friendly Compatible alternatives.
+
+## Why buy from Trinatech
+Stock held in Nairobi CBD. Delivery across Kenya including Kisumu, Nakuru, Eldoret, and Mombasa. M-Pesa and bank transfer accepted. WhatsApp ordering and walk-in options at The One Mall, River Road.
+
+## Getting the most from this product
+Gently rock the cartridge side to side 5 times before removing the protective cover clips.
+
+## Frequently asked questions
+What is the page yield? ~1,500 pages for Black and ~1,000 pages per color cartridge.
+How fast is Nairobi shipping? Same-day inside 1 to 3 hours.
+How do I pay? M-Pesa Buy Goods/Till or bank transfer.
+Is warranty included? Covered against factory defects.`, "metaTitle": "Samsung CLT-406S Color Toner Cartridge - Trinatech", "metaDescription": "Buy Samsung CLT-406S toner cartridge in Nairobi. Fits CLP-365, CLX-3305, Xpress C410W, C460FW. High quality color printing. Fast Kenya delivery.", "inStock": true, "comingSoon": false, "priceOnRequest": true},
+  {"id": 9560, "sku": null, "name": "Ricoh IMC3000K C Toner Cartridge", "brand": "Ricoh", "category": "Ricoh Toners", "price": null, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/08/9560_ricoh_ricoh-imc3000k-c-toner-cartridge.jpg.png", "imageFile": "9560_ricoh_ricoh-imc3000k-c-toner-cartridge.jpg.png", "description": `The Ricoh IMC3000K C Toner Cartridge (IM C3000 Cyan / 842254) is an original high-capacity cyan toner bottle designed for Ricoh IM-series color multifunction copiers. Formulated to deliver rich cyan tones, sharp graphics, and maximum uptime across Kenya.
+
+## Compatible printers
+Ricoh IM C3000
+Ricoh IM C3500
+Savin IM C3000 / IM C3500
+Lanier IM C3000 / IM C3500
+If your printer model isn't listed, send us the number from the front panel and we'll confirm before you pay.
+
+## Specifications
+| Page yield | Part type | Colour | Part number | Genuine or compatible |
+|---|---|---|---|---|
+| ~19,000 pages | Copier Toner Bottle | Cyan | 842254 / IM C3000C | Genuine / Compatible |
+
+## Genuine or compatible?
+Covers OEM Genuine Ricoh toner bottles as well as high-capacity Compatible alternatives to reduce office printing budgets.
+
+## Why buy from Trinatech
+Stock held in Nairobi CBD. Delivery across Kenya including Kisumu, Nakuru, Eldoret, and Mombasa. M-Pesa and bank transfer accepted. WhatsApp ordering and walk-in options at The One Mall, River Road.
+
+## Getting the most from this product
+Rotate the bottle horizontally 4 to 5 times before sliding into the copier hopper.
+
+## Frequently asked questions
+Is this the Black or Cyan cartridge? This listing is specifically for the Cyan cartridge (C denotes Cyan).
+How fast is Nairobi delivery? Delivered within 1 to 3 hours across Nairobi CBD.
+How can I pay? Pay via M-Pesa or bank wire.
+Is warranty provided? Covered against manufacturing defects.`, "metaTitle": "Ricoh IM C3000 Cyan Toner Cartridge Price - Trinatech", "metaDescription": "Order Ricoh IM C3000 cyan toner cartridge in Nairobi. Yields up to 19,000 pages for IM C3000, IM C3500 copiers. Fast delivery across Kenya.", "inStock": true, "comingSoon": false, "priceOnRequest": true},
+  {"id": 9561, "sku": null, "name": "Ricoh IMC3000M Y Toner Cartridge", "brand": "Ricoh", "category": "Ricoh Toners", "price": null, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/08/9561_ricoh_ricoh-imc3000m-y-toner-cartridge.jpg.png", "imageFile": "9561_ricoh_ricoh-imc3000m-y-toner-cartridge.jpg.png", "description": `The Ricoh IMC3000M Y Toner Cartridge (IM C3000 Yellow / 842252) is an original yellow toner bottle for Ricoh IM-series color copiers. Engineered to produce accurate color spectrums, crisp images, and reliable output for high-demand business environments.
+
+## Compatible printers
+Ricoh IM C3000
+Ricoh IM C3500
+Savin IM C3000 / IM C3500
+Lanier IM C3000 / IM C3500
+If your printer model isn't listed, send us the number from the front panel and we'll confirm before you pay.
+
+## Specifications
+| Page yield | Part type | Colour | Part number | Genuine or compatible |
+|---|---|---|---|---|
+| ~19,000 pages | Copier Toner Bottle | Yellow | 842252 / IM C3000Y | Genuine / Compatible |
+
+## Genuine or compatible?
+Available in OEM Genuine Ricoh toner supplies as well as premium Compatible alternatives.
+
+## Why buy from Trinatech
+Stock held in Nairobi CBD. Delivery across Kenya including Kisumu, Nakuru, Eldoret, and Mombasa. M-Pesa and bank transfer accepted. WhatsApp ordering and walk-in options at The One Mall, River Road.
+
+## Getting the most from this product
+Store unopened in ambient room temperatures. Allow automatic copier toner loading routine to finish after insertion.
+
+## Frequently asked questions
+What color is this toner? This listing is for the Yellow cartridge (Y denotes Yellow).
+How fast is Nairobi shipping? Same-day inside 1 to 3 hours.
+How do I pay? Pay via M-Pesa Buy Goods/Till or bank wire.
+Is warranty included? Covered against factory defects.`, "metaTitle": "Ricoh IM C3000 Yellow Toner Cartridge - Trinatech Kenya", "metaDescription": "Buy Ricoh IM C3000 yellow toner cartridge in Nairobi. Yields up to 19,000 pages for IM C3000, IM C3500 copiers. Fast shipping across Kenya.", "inStock": true, "comingSoon": false, "priceOnRequest": true},
+  {"id": 9562, "sku": null, "name": "Kyocera MK4105 Maintenance Kit", "brand": "Kyocera", "category": "Maintenance Kits & Spare Parts", "price": null, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/08/9562_kyocera_kyocera-mk4105-maintenance-kit.jpg.png", "imageFile": "9562_kyocera_kyocera-mk4105-maintenance-kit.jpg.png", "description": `The Kyocera MK4105 Maintenance Kit (1702NG0UN0 / MK-4105) is an authentic primary drum and maintenance service assembly for Kyocera TASKalfa A3 monochrome copiers. Formulated to restore original print contrast, sharp text lines, and reliable document feeding across Kenya.
+
+## Compatible printers
+Kyocera TASKalfa 1800
+Kyocera TASKalfa 1801
+Kyocera TASKalfa 2200
+Kyocera TASKalfa 2201
+If your printer model isn't listed, send us the number from the front panel and we'll confirm before you pay.
+
+## Specifications
+| Service life | Part type | Key items | Part number | Genuine or compatible |
+|---|---|---|---|---|
+| ~150,000 pages | Copier Maintenance Kit | Drum Unit, Developer Assembly, Cleaning Parts | MK-4105 / 1702NG0UN0 | Genuine / Compatible |
+
+## Genuine or compatible?
+Covers OEM Genuine Kyocera maintenance kits as well as high-grade Compatible rebuild components to save on major servicing.
+
+## Why buy from Trinatech
+Stock held in Nairobi CBD. Delivery across Kenya including Kisumu, Nakuru, Eldoret, and Mombasa. M-Pesa and bank transfer accepted. WhatsApp ordering and walk-in options at The One Mall, River Road.
+
+## Getting the most from this product
+Installation by a qualified technician is recommended. Clear printer maintenance counts via service code settings after replacing the kit.
+
+## Frequently asked questions
+What is the maintenance cycle? Designed to yield up to 150,000 pages.
+Does it include the drum? Yes, contains the primary long-life drum unit and developer items.
+How fast is Nairobi delivery? 1 to 3 hours across Nairobi CBD.
+How can I pay? Pay via M-Pesa, bank wire, or cash.
+Is warranty provided? Covered against factory defects.`, "metaTitle": "Kyocera MK-4105 Maintenance Kit Price - Trinatech Kenya", "metaDescription": "Buy genuine Kyocera MK-4105 maintenance kit in Nairobi. Yields ~150,000 pages for TASKalfa 1800, 1801, 2200, 2201. Fast Kenya delivery.", "inStock": true, "comingSoon": false, "priceOnRequest": true},
+  {"id": 9563, "sku": null, "name": "Samsung MLT-D116S Toner Cartridge", "brand": "Samsung", "category": "Inks & Toner Cartridges", "price": null, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/08/9563_samsung_samsung-mlt-d116s-toner-cartridge.jpg", "imageFile": "9563_samsung_samsung-mlt-d116s-toner-cartridge.jpg", "description": `The Samsung MLT-D116S Toner Cartridge (MLT-D116S / SU844A) provides reliable black toner performance for Samsung Xpress desktop laser printers. Formulated to produce clear black text, sharp invoices, and smudge-free business documents across Kenya.
+
+## Compatible printers
+Samsung Xpress SL-M2625 / SL-M2675
+Samsung Xpress SL-M2825DW / SL-M2835DW
+Samsung Xpress SL-M2875FD / SL-M2875FW
+Samsung Xpress SL-M2885FW
+If your printer model isn't listed, send us the number from the front panel and we'll confirm before you pay.
+
+## Specifications
+| Page yield | Part type | Colour | Part number | Genuine or compatible |
+|---|---|---|---|---|
+| ~1,200 pages | Laser Toner Cartridge | Black | MLT-D116S / SU844A | Compatible / Genuine |
+
+## Genuine or compatible?
+Covers original Genuine Samsung/HP cartridges as well as Royal compatible alternative MLT-D116S cartridges for budget savings.
+
+## Why buy from Trinatech
+Stock held in Nairobi CBD. Delivery across Kenya including Kisumu, Nakuru, Eldoret, and Mombasa. M-Pesa and bank transfer accepted. WhatsApp ordering and walk-in options at The One Mall, River Road.
+
+## Getting the most from this product
+Remove the protective plastic clips and completely pull out the sealing tape strip before installing into the printer.
+
+## Frequently asked questions
+What is the page yield? ~1,200 pages at standard 5% coverage.
+Is a high-yield version available? Yes, MLT-D116L (~3,000 pages) is also available.
+How fast is Nairobi delivery? Same-day inside 1 to 3 hours.
+How do I pay? Pay via M-Pesa or bank transfer.
+Is warranty provided? Covered against manufacturing defects.`, "metaTitle": "Samsung MLT-D116S Black Toner Cartridge - Trinatech", "metaDescription": "Order Samsung MLT-D116S black toner cartridge in Nairobi. Yields ~1,200 pages for SL-M2825, M2875, M2835, M2885. Fast Kenya delivery.", "inStock": true, "comingSoon": false, "priceOnRequest": true},
+  {"id": 9564, "sku": null, "name": "Ricoh MP601 Toner Cartridge", "brand": "Ricoh", "category": "Ricoh Toners", "price": null, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/08/9564_ricoh_ricoh-mp601-toner-cartridge.jpg.png", "imageFile": "9564_ricoh_ricoh-mp601-toner-cartridge.jpg.png", "description": `The Ricoh MP601 Toner Cartridge (407823 / MP 601) is an original high-capacity black laser toner cartridge engineered for heavy-duty Ricoh monochrome copiers. Built to maintain deep black contrast, high speeds, and long uptime for commercial offices in Kenya.
+
+## Compatible printers
+Ricoh MP 501SPF
+Ricoh MP 601SPF
+Ricoh SP 5300DN / SP 5310DN
+Savin & Lanier MP 501 / MP 601 series
+If your printer model isn't listed, send us the number from the front panel and we'll confirm before you pay.
+
+## Specifications
+| Page yield | Part type | Colour | Part number | Genuine or compatible |
+|---|---|---|---|---|
+| ~25,000 pages | Laser Toner Cartridge | Black | 407823 / MP 601 | Genuine / Compatible |
+
+## Genuine or compatible?
+Available in OEM Genuine Ricoh supplies as well as high-yield Compatible options to lower overall operating costs.
+
+## Why buy from Trinatech
+Stock held in Nairobi CBD. Delivery across Kenya including Kisumu, Nakuru, Eldoret, and Mombasa. M-Pesa and bank transfer accepted. WhatsApp ordering and walk-in options at The One Mall, River Road.
+
+## Getting the most from this product
+Remove the sealing tape and protective clips prior to seating the cartridge in the printer bay.
+
+## Frequently asked questions
+What is the page yield? Up to ~25,000 pages.
+Is waste toner container included? Yes, includes waste toner collection box.
+How fast is Nairobi delivery? Delivered within 1 to 3 hours in Nairobi.
+How can I pay? Pay via M-Pesa, bank wire, or cash.
+Is warranty provided? Covered against factory defect.`, "metaTitle": "Ricoh MP 501 / MP 601 Black Toner Cartridge - Trinatech", "metaDescription": "Buy Ricoh MP 601 black laser toner cartridge in Nairobi. Yields ~25,000 pages for MP 501SPF, MP 601SPF, SP 5300DN. Fast delivery Kenya.", "inStock": true, "comingSoon": false, "priceOnRequest": true},
+  {"id": 9565, "sku": null, "name": "Ricoh MPC3503K C Toner Cartridge", "brand": "Ricoh", "category": "Ricoh Toners", "price": null, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/08/9565_ricoh_ricoh-mpc3503k-c-toner-cartridge.jpg.png", "imageFile": "9565_ricoh_ricoh-mpc3503k-c-toner-cartridge.jpg.png", "description": `The Ricoh MPC3503K C Toner Cartridge (MP C3503 Cyan / 841816) is an original cyan toner bottle for Ricoh Aficio MP color multifunction copiers. Formulated for brilliant graphic color accuracy, clean text, and low running costs in Nairobi.
+
+## Compatible printers
+Ricoh MP C3003 / MP C3003SP
+Ricoh MP C3503 / MP C3503SP
+Gestetner MP C3003 / MP C3503
+Savin MP C3003 / MP C3503
+If your copier model isn't listed, send us the number from the front panel and we'll confirm before you pay.
+
+## Specifications
+| Page yield | Part type | Colour | Part number | Genuine or compatible |
+|---|---|---|---|---|
+| ~18,000 pages | Copier Toner Bottle | Cyan | 841816 / MP C3503C | Genuine / Compatible |
+
+## Genuine or compatible?
+Covers OEM Genuine Ricoh toner bottles as well as high-yield Compatible alternatives for budget savings.
+
+## Why buy from Trinatech
+Stock held in Nairobi CBD. Delivery across Kenya including Kisumu, Nakuru, Eldoret, and Mombasa. M-Pesa and bank transfer accepted. WhatsApp ordering and walk-in options at The One Mall, River Road.
+
+## Getting the most from this product
+Rotate the bottle horizontally 4 to 5 times before insertion to ensure smooth toner dispensing.
+
+## Frequently asked questions
+Which color is this? This listing is specifically for the Cyan cartridge (C denotes Cyan).
+What is the page yield? Up to ~18,000 pages.
+How fast is Nairobi delivery? Same-day inside 1 to 3 hours.
+How do I pay? Pay via M-Pesa Buy Goods/Till or bank wire.
+Is warranty provided? Covered against factory defects.`, "metaTitle": "Ricoh MP C3003 / MP C3503 Cyan Toner - Trinatech Kenya", "metaDescription": "Order Ricoh MP C3003, MP C3503 cyan toner cartridge in Nairobi. Yields up to 18,000 pages for MP C3003, C3503. Fast delivery across Kenya.", "inStock": true, "comingSoon": false, "priceOnRequest": true},
+  {"id": 9566, "sku": null, "name": "Ricoh MPC3503K M Toner Cartridge", "brand": "Ricoh", "category": "Ricoh Toners", "price": null, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/08/9566_ricoh_ricoh-mpc3503k-m-toner-cartridge.jpg.png", "imageFile": "9566_ricoh_ricoh-mpc3503k-m-toner-cartridge.jpg.png", "description": `The Ricoh MPC3503K M Toner Cartridge (MP C3503 Magenta / 841815) is an original magenta toner bottle engineered for Ricoh Aficio MP color copiers. Formulated to produce rich red/magenta saturation and accurate color mixing across Kenya.
+
+## Compatible printers
+Ricoh MP C3003 / MP C3003SP
+Ricoh MP C3503 / MP C3503SP
+Gestetner MP C3003 / MP C3503
+Savin MP C3003 / MP C3503
+If your copier model isn't listed, send us the number from the front panel and we'll confirm before you pay.
+
+## Specifications
+| Page yield | Part type | Colour | Part number | Genuine or compatible |
+|---|---|---|---|---|
+| ~18,000 pages | Copier Toner Bottle | Magenta | 841815 / MP C3503M | Genuine / Compatible |
+
+## Genuine or compatible?
+Available in OEM Genuine Ricoh toner supplies as well as premium Compatible options for low cost-per-page operations.
+
+## Why buy from Trinatech
+Stock held in Nairobi CBD. Delivery across Kenya including Kisumu, Nakuru, Eldoret, and Mombasa. M-Pesa and bank transfer accepted. WhatsApp ordering and walk-in options at The One Mall, River Road.
+
+## Getting the most from this product
+Tilt and rock the bottle sideways before loading into the machine. Allow the copier to perform its standard calibration after replacement.
+
+## Frequently asked questions
+Which color is this? This listing is specifically for the Magenta cartridge (M denotes Magenta).
+How fast is Nairobi shipping? Delivered within 1 to 3 hours across Nairobi CBD.
+How can I pay? Pay via M-Pesa, bank wire, or cash.
+Is warranty provided? Covered against factory defects.`, "metaTitle": "Ricoh MP C3003 / MP C3503 Magenta Toner - Trinatech", "metaDescription": "Buy Ricoh MP C3003, MP C3503 magenta toner cartridge in Nairobi. Yields up to 18,000 pages for MP C3003, C3503. Fast shipping Kenya.", "inStock": true, "comingSoon": false, "priceOnRequest": true},
+  {"id": 9567, "sku": null, "name": "Ricoh MPC4000 Toner Cartridge", "brand": "Ricoh", "category": "Ricoh Toners", "price": null, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/08/9567_ricoh_ricoh-mpc4000-toner-cartridge.jpg.png", "imageFile": "9567_ricoh_ricoh-mpc4000-toner-cartridge.jpg.png", "description": `The Ricoh MPC4000 Toner Cartridge (841280 / MP C4000 series) is a high-yield color toner bottle designed for Ricoh Aficio MP color multifunction copiers. Formulated to produce clear document text and vibrant graphic prints for busy office environments across Kenya.
+
+## Compatible printers
+Ricoh Aficio MP C4000 / MP C4000SPF
+Ricoh Aficio MP C5000 / MP C5000SPF
+Gestetner / Savin MP C4000 / MP C5000
+If your copier model isn't listed, send us the number from the front panel and we'll confirm before you pay.
+
+## Specifications
+| Page yield | Part type | Colour | Part number | Genuine or compatible |
+|---|---|---|---|---|
+| ~23,000 BK / ~17,000 Color | Copier Toner Bottle | Black, Cyan, Magenta, Yellow | 841280 / MP C4000 | Genuine / Compatible |
+
+## Genuine or compatible?
+Covers OEM Genuine Ricoh toner bottles as well as premium Compatible alternatives for low cost-per-page operation.
+
+## Why buy from Trinatech
+Stock held in Nairobi CBD. Delivery across Kenya including Kisumu, Nakuru, Eldoret, and Mombasa. M-Pesa and bank transfer accepted. WhatsApp ordering and walk-in options at The One Mall, River Road.
+
+## Getting the most from this product
+Gently shake and rotate the bottle horizontally before sliding it into the copier bay.
+
+## Frequently asked questions
+Are colors sold separately? Yes, priced each per individual color bottle (specify BK, C, M, or Y).
+How fast is Nairobi delivery? Same-day inside 1 to 3 hours.
+How do I pay? Pay via M-Pesa Buy Goods/Till or bank transfer.
+Is warranty provided? Covered against factory defects.`, "metaTitle": "Ricoh MP C4000 / MP C5000 Color Toner - Trinatech", "metaDescription": "Buy Ricoh MP C4000, MP C5000 toner cartridge in Nairobi. Yields up to 23,000 BK / 17,000 Color pages. Fast Kenya delivery.", "inStock": true, "comingSoon": false, "priceOnRequest": true},
+  {"id": 9568, "sku": null, "name": "Ricoh MPC5501C Y Toner Cartridge", "brand": "Ricoh", "category": "Ricoh Toners", "price": null, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/08/9568_ricoh_ricoh-mpc5501c-y-toner-cartridge.jpg.png", "imageFile": "9568_ricoh_ricoh-mpc5501c-y-toner-cartridge.jpg.png", "description": `The Ricoh MPC5501C Y Toner Cartridge (841457 / MP C5501 Yellow) is an original yellow toner bottle engineered for Ricoh Aficio MP high-speed color copiers. Built to deliver bright yellow hues, accurate color blending, and dependable high-volume printing across Kenya.
+
+## Compatible printers
+Ricoh Aficio MP C4501 / MP C4501A
+Ricoh Aficio MP C5501 / MP C5501A
+Savin / Lanier / Gestetner MP C4501 / MP C5501
+If your copier model isn't listed, send us the number from the front panel and we'll confirm before you pay.
+
+## Specifications
+| Page yield | Part type | Colour | Part number | Genuine or compatible |
+|---|---|---|---|---|
+| ~22,500 pages | Copier Toner Bottle | Yellow | 841457 / MP C5501Y | Genuine / Compatible |
+
+## Genuine or compatible?
+Available in OEM Genuine Ricoh supplies as well as cost-effective Compatible options.
+
+## Why buy from Trinatech
+Stock held in Nairobi CBD. Delivery across Kenya including Kisumu, Nakuru, Eldoret, and Mombasa. M-Pesa and bank transfer accepted. WhatsApp ordering and walk-in options at The One Mall, River Road.
+
+## Getting the most from this product
+Rotate the bottle horizontally 4 to 5 times before insertion to ensure smooth toner dispensing.
+
+## Frequently asked questions
+Which color is this? This listing is specifically for the Yellow toner cartridge.
+How fast is Nairobi delivery? Delivered within 1 to 3 hours across Nairobi CBD.
+How can I pay? Pay via M-Pesa, bank wire, or cash.
+Is warranty provided? Covered against manufacturing defects.`, "metaTitle": "Ricoh MP C4501 / MP C5501 Yellow Toner - Trinatech", "metaDescription": "Order Ricoh MP C4501, MP C5501 yellow toner cartridge in Nairobi. High yield ~22,500 pages for Aficio MP C4501, C5501. Fast delivery.", "inStock": true, "comingSoon": false, "priceOnRequest": true},
+  {"id": 9569, "sku": null, "name": "Ricoh MPC5501K M Toner Cartridge", "brand": "Ricoh", "category": "Ricoh Toners", "price": null, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/08/9569_ricoh_ricoh-mpc5501k-m-toner-cartridge.jpg.png", "imageFile": "9569_ricoh_ricoh-mpc5501k-m-toner-cartridge.jpg.png", "description": `The Ricoh MPC5501K M Toner Cartridge (841458 / MP C5501 Magenta) is an original high-capacity magenta toner bottle for Ricoh Aficio MP color copiers. Engineered to produce rich magenta saturation and crisp image detail for corporate documents.
+
+## Compatible printers
+Ricoh Aficio MP C4501 / MP C4501A
+Ricoh Aficio MP C5501 / MP C5501A
+Savin / Lanier / Gestetner MP C4501 / MP C5501
+If your copier model isn't listed, send us the number from the front panel and we'll confirm before you pay.
+
+## Specifications
+| Page yield | Part type | Colour | Part number | Genuine or compatible |
+|---|---|---|---|---|
+| ~22,500 pages | Copier Toner Bottle | Magenta | 841458 / MP C5501M | Genuine / Compatible |
+
+## Genuine or compatible?
+Covers OEM Genuine Ricoh toner bottles as well as high-yield Compatible options for operating savings.
+
+## Why buy from Trinatech
+Stock held in Nairobi CBD. Delivery across Kenya including Kisumu, Nakuru, Eldoret, and Mombasa. M-Pesa and bank transfer accepted. WhatsApp ordering and walk-in options at The One Mall, River Road.
+
+## Getting the most from this product
+Store in cool, ambient room conditions. Allow automatic copier toner replenishment after replacement.
+
+## Frequently asked questions
+Which color is this? This listing is specifically for the Magenta cartridge (M denotes Magenta).
+How fast is Nairobi delivery? Same-day inside 1 to 3 hours.
+How do I pay? M-Pesa Buy Goods/Till or bank transfer.
+Is warranty included? Covered against factory defects.`, "metaTitle": "Ricoh MP C4501 / MP C5501 Magenta Toner - Trinatech", "metaDescription": "Buy Ricoh MP C4501, MP C5501 magenta toner cartridge in Nairobi. High yield ~22,500 pages for Aficio MP C4501, C5501. Fast shipping.", "inStock": true, "comingSoon": false, "priceOnRequest": true},
+  {"id": 9570, "sku": null, "name": "Sharp MX-236FT Toner Cartridge", "brand": "Sharp", "category": "Sharp Toners", "price": null, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/08/9570_sharp_sharp-mx-236ft-toner-cartridge.jpg.png", "imageFile": "9570_sharp_sharp-mx-236ft-toner-cartridge.jpg.png", "description": `The Sharp MX-236FT Toner Cartridge (MX-236FT / MX-237FT) is an original black toner kit engineered for Sharp AR monochrome desktop multifunction copiers. Designed for crisp text output, solid dark fills, and reliable document printing across Kenya.
+
+## Compatible printers
+Sharp AR-6020 / AR-6020D / AR-6020N
+Sharp AR-6023D / AR-6023N
+Sharp AR-6026N / AR-6031N
+If your copier model isn't listed, send us the number from the front panel and we'll confirm before you pay.
+
+## Specifications
+| Page yield | Part type | Colour | Part number | Genuine or compatible |
+|---|---|---|---|---|
+| ~10,000 pages | Copier Toner Kit | Black | MX-236FT / MX-237FT | Genuine / Compatible |
+
+## Genuine or compatible?
+Covers original Genuine Sharp supplies and high-grade Compatible options to lower office overhead.
+
+## Why buy from Trinatech
+Stock held in Nairobi CBD. Delivery across Kenya including Kisumu, Nakuru, Eldoret, and Mombasa. M-Pesa and bank transfer accepted. WhatsApp ordering and walk-in options at The One Mall, River Road.
+
+## Getting the most from this product
+Tilt the cartridge gently side-to-side before installing into the copier hopper unit.
+
+## Frequently asked questions
+What is the page yield? Approximately 10,000 pages at 5% coverage.
+How fast is Nairobi delivery? Delivered within 1 to 3 hours in Nairobi.
+How can I pay? Pay via M-Pesa or bank wire.
+Is warranty provided? Covered against factory defects.`, "metaTitle": "Sharp MX-236FT / MX-237FT Black Toner - Trinatech", "metaDescription": "Shop Sharp MX-236FT / MX-237FT black toner cartridge in Nairobi. Yields ~10,000 pages for AR-6020, 6023, 6026. Fast Kenya shipping.", "inStock": true, "comingSoon": false, "priceOnRequest": true},
+  {"id": 9571, "sku": null, "name": "Samsung SCX-4200 Toner Cartridge", "brand": "Samsung", "category": "Inks & Toner Cartridges", "price": null, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/08/9571_samsung_samsung-scx-4200-toner-cartridge.webp", "imageFile": "9571_samsung_samsung-scx-4200-toner-cartridge.webp", "description": `The Samsung SCX-4200 Toner Cartridge (SCX-D4200A / SCX-4200D3) provides dependable monochrome print performance for Samsung desktop laser multifunction printers. Formulated for sharp black text and smudge-free invoices across Kenya.
+
+## Compatible printers
+Samsung SCX-4200
+Samsung SCX-4200D3
+If your printer model isn't listed, send us the number from the front panel and we'll confirm before you pay.
+
+## Specifications
+| Page yield | Part type | Colour | Part number | Genuine or compatible |
+|---|---|---|---|---|
+| ~3,000 pages | Laser Toner Cartridge | Black | SCX-D4200A / 4200D3 | Compatible / Genuine |
+
+## Genuine or compatible?
+Available in OEM Genuine Samsung as well as high-yield Compatible alternative cartridges for budget savings.
+
+## Why buy from Trinatech
+Stock held in Nairobi CBD. Delivery across Kenya including Kisumu, Nakuru, Eldoret, and Mombasa. M-Pesa and bank transfer accepted. WhatsApp ordering and walk-in options at The One Mall, River Road.
+
+## Getting the most from this product
+Remove protective paper cover and pull the sealing ribbon horizontally before loading.
+
+## Frequently asked questions
+Does it include a chip? Yes, comes fully chipped for automatic printer recognition.
+How fast is Nairobi delivery? Same-day inside 1 to 3 hours.
+How do I pay? Pay via M-Pesa Buy Goods/Till or bank transfer.
+Is warranty provided? Covered against manufacturing defects.`, "metaTitle": "Samsung SCX-D4200A Black Toner Cartridge - Trinatech", "metaDescription": "Order Samsung SCX-D4200A toner cartridge in Nairobi. Yields ~3,000 pages for SCX-4200, SCX-4200D3 laser printers. Fast Kenya delivery.", "inStock": true, "comingSoon": false, "priceOnRequest": true},
+  {"id": 9572, "sku": null, "name": "Kyocera TASKalfa 180 OPC Drum", "brand": "Kyocera", "category": "Maintenance Kits & Spare Parts", "price": null, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/08/9572_kyocera_kyocera-taskalfa-180-opc-drum.jpg.png", "imageFile": "9572_kyocera_kyocera-taskalfa-180-opc-drum.jpg.png", "description": `The Kyocera TASKalfa 180 OPC Drum (DK-410 / DK-460 drum replacement) is an organic photoconductor drum core designed for Kyocera TASKalfa monochrome copiers. Replaces worn or scratched drums to eliminate print streaks and background shading.
+
+## Compatible printers
+Kyocera TASKalfa 180
+Kyocera TASKalfa 181
+Kyocera TASKalfa 220
+Kyocera TASKalfa 221
+Kyocera KM-1620 / KM-1635 / KM-2035
+If your copier model isn't listed, send us the number from the front panel and we'll confirm before you pay.
+
+## Specifications
+| Service life | Part type | Colour | Part compatibility | Genuine or compatible |
+|---|---|---|---|---|
+| ~150,000 pages | OPC Drum Cylinder | Green / Blue OPC | DK-410 / DK-460 | Compatible / Genuine |
+
+## Genuine or compatible?
+High-durability Compatible OPC drum cylinder, engineered to match OEM charge sensitivity and long lifespan.
+
+## Why buy from Trinatech
+Stock held in Nairobi CBD. Delivery across Kenya including Kisumu, Nakuru, Eldoret, and Mombasa. M-Pesa and bank transfer accepted. WhatsApp ordering and walk-in options at The One Mall, River Road.
+
+## Getting the most from this product
+Avoid touching the drum cylinder surface with bare hands or exposing it to direct sunlight during replacement.
+
+## Frequently asked questions
+Will this clear black lines on copies? Yes, replacing a worn/scratched drum fixes vertical streaks and grey backgrounds.
+How fast is Nairobi delivery? Delivered in 1 to 3 hours across Nairobi.
+How can I pay? Pay via M-Pesa or bank transfer.
+Is warranty provided? Covered against manufacturing defects.`, "metaTitle": "Kyocera TASKalfa 180 OPC Drum Price - Trinatech Kenya", "metaDescription": "Buy Kyocera TASKalfa 180 / 181 / 220 / 221 OPC drum unit in Nairobi. High durability for clear printing. Fast delivery across Kenya.", "inStock": true, "comingSoon": false, "priceOnRequest": true},
+  {"id": 9573, "sku": null, "name": "Kyocera TK-3160 Toner Cartridge", "brand": "Kyocera", "category": "Inks & Toner Cartridges", "price": null, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/08/9573_kyocera_kyocera-tk-3160-toner-cartridge.jpg.png", "imageFile": "9573_kyocera_kyocera-tk-3160-toner-cartridge.jpg.png", "description": `The Kyocera TK-3160 Toner Cartridge (1T02T90NL0) is an original black laser toner cartridge for Kyocera ECOSYS monochrome desktop printers. Engineered with ceramic micro-toner for sharp text clarity, low cost per page, and consistent output.
+
+## Compatible printers
+Kyocera ECOSYS P3045dn
+Kyocera ECOSYS P3050dn
+Kyocera ECOSYS P3055dn
+Kyocera ECOSYS P3060dn
+If your printer model isn't listed, send us the number from the front panel and we'll confirm before you pay.
+
+## Specifications
+| Page yield | Part type | Colour | Part number | Genuine or compatible |
+|---|---|---|---|---|
+| ~12,500 pages | Laser Toner Cartridge | Black | TK-3160 / 1T02T90NL0 | Genuine / Compatible |
+
+## Genuine or compatible?
+Covers OEM Genuine Kyocera ECOSYS toner kits as well as Royal compatible alternatives for economical office printing.
+
+## Why buy from Trinatech
+Stock held in Nairobi CBD. Delivery across Kenya including Kisumu, Nakuru, Eldoret, and Mombasa. M-Pesa and bank transfer accepted. WhatsApp ordering and walk-in options at The One Mall, River Road.
+
+## Getting the most from this product
+Rock the cartridge horizontally 5 times before placing it into the printer frame to ensure free toner flow.
+
+## Frequently asked questions
+What is the page yield? Up to ~12,500 pages based on standard 5% coverage.
+How fast is Nairobi delivery? Same-day inside 1 to 3 hours.
+How do I pay? Pay via M-Pesa Buy Goods/Till or bank wire.
+Is warranty included? Covered under manufacturer warranty.`, "metaTitle": "Kyocera TK-3160 Black Toner Cartridge - Trinatech Kenya", "metaDescription": "Buy Kyocera TK-3160 toner cartridge in Nairobi. Yields ~12,500 pages for ECOSYS P3045dn, P3050dn, P3055dn. Fast Kenya delivery.", "inStock": true, "comingSoon": false, "priceOnRequest": true},
+  {"id": 9574, "sku": null, "name": "Kyocera TK-7227 Toner Cartridge", "brand": "Kyocera", "category": "Inks & Toner Cartridges", "price": null, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/08/9574_kyocera_kyocera-tk-7227-toner-cartridge.webp", "imageFile": "9574_kyocera_kyocera-tk-7227-toner-cartridge.webp", "description": `The Kyocera TK-7227 Toner Cartridge (1T02V10NL0) is an authentic high-yield black toner kit for Kyocera TASKalfa A3 monochrome multifunction copiers. Built for high reliability, sharp line resolution, and long maintenance cycles in Nairobi.
+
+## Compatible printers
+Kyocera TASKalfa 3212i
+Kyocera TASKalfa 4012i
+If your copier model isn't listed, send us the number from the front panel and we'll confirm before you pay.
+
+## Specifications
+| Page yield | Part type | Colour | Part number | Genuine or compatible |
+|---|---|---|---|---|
+| ~35,000 pages | Copier Toner Kit | Black | TK-7227 / 1T02V10NL0 | Genuine / Compatible |
+
+## Genuine or compatible?
+Covers OEM Genuine Kyocera supplies as well as premium Compatible options for low cost-per-page operation.
+
+## Why buy from Trinatech
+Stock held in Nairobi CBD. Delivery across Kenya including Kisumu, Nakuru, Eldoret, and Mombasa. M-Pesa and bank transfer accepted. WhatsApp ordering and walk-in options at The One Mall, River Road.
+
+## Getting the most from this product
+Tilt and shake the cartridge horizontally before sliding into the main developer unit.
+
+## Frequently asked questions
+What is the page yield? Up to ~35,000 pages.
+How fast is Nairobi delivery? Delivered within 1 to 3 hours across Nairobi CBD.
+How can I pay? Pay via M-Pesa, bank wire, or cash.
+Is warranty provided? Covered against factory defects.`, "metaTitle": "Kyocera TK-7227 Black Toner Cartridge - Trinatech Kenya", "metaDescription": "Order Kyocera TK-7227 toner cartridge in Nairobi. High yield ~35,000 pages for TASKalfa 4012i, 3212i. Fast delivery across Kenya.", "inStock": true, "comingSoon": false, "priceOnRequest": true},
+  {"id": 9575, "sku": null, "name": "Konica Minolta TN211 Toner Cartridge", "brand": "Konica Minolta", "category": "Inks & Toner Cartridges", "price": null, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/08/9575_konica_konica-minolta-tn211-toner-cartridge.jpg.png", "imageFile": "9575_konica_konica-minolta-tn211-toner-cartridge.jpg.png", "description": `The Konica Minolta TN211 Toner Cartridge (TN-211 / 8937929) is an original black toner bottle engineered for Konica Minolta Bizhub monochrome copiers. Formulated to produce clear, crisp text documents and solid dark fills for commercial offices in Kenya.
+
+## Compatible printers
+Konica Minolta Bizhub 200
+Konica Minolta Bizhub 222
+Konica Minolta Bizhub 250
+Konica Minolta Bizhub 282
+If your copier model isn't listed, send us the number from the front panel and we'll confirm before you pay.
+
+## Specifications
+| Page yield | Part type | Colour | Part number | Genuine or compatible |
+|---|---|---|---|---|
+| ~11,000 pages | Copier Toner Bottle | Black | TN-211 / 8937929 | Genuine / Compatible |
+
+## Genuine or compatible?
+Available in OEM Genuine Konica Minolta toner bottles as well as high-yield Compatible alternatives.
+
+## Why buy from Trinatech
+Stock held in Nairobi CBD. Delivery across Kenya including Kisumu, Nakuru, Eldoret, and Mombasa. M-Pesa and bank transfer accepted. WhatsApp ordering and walk-in options at The One Mall, River Road.
+
+## Getting the most from this product
+Lightly shake the toner tube prior to loading into the machine hopper to facilitate even dispensing.
+
+## Frequently asked questions
+What is the page yield? Approximately 11,000 pages at 5% coverage.
+How fast is Nairobi delivery? Same-day inside 1 to 3 hours.
+How do I pay? Pay via M-Pesa Buy Goods/Till or bank transfer.
+Is warranty provided? Covered against manufacturing defects.`, "metaTitle": "Konica Minolta TN211 Black Toner Price - Trinatech Kenya", "metaDescription": "Buy Konica Minolta TN211 black toner cartridge in Nairobi. Yields ~11,000 pages for Bizhub 200, 222, 250, 282. Fast Kenya delivery.", "inStock": true, "comingSoon": false, "priceOnRequest": true},
+  {"id": 9576, "sku": null, "name": "Canon C-EXV59 Toner Cartridge", "brand": "Canon", "category": "Canon Toners", "price": null, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/08/9576_canon_canon-c-exv59-toner-cartridge.jpg.png", "imageFile": "9576_canon_canon-c-exv59-toner-cartridge.jpg.png", "description": `The Canon C-EXV59 Toner Cartridge (3760C002) is an original high-capacity black toner bottle for Canon imageRUNNER monochrome multifunction copiers. Formulated for sharp text lines, uniform dark shading, and smooth high-speed printing across Kenya.
+
+## Compatible printers
+Canon imageRUNNER 2625i
+Canon imageRUNNER 2630i
+Canon imageRUNNER 2645i
+If your copier model isn't listed, send us the number from the front panel and we'll confirm before you pay.
+
+## Specifications
+| Page yield | Part type | Colour | Part number | Genuine or compatible |
+|---|---|---|---|---|
+| ~30,000 pages | Copier Toner Bottle | Black | C-EXV59 / 3760C002 | Genuine / Compatible |
+
+## Genuine or compatible?
+Covers original Genuine Canon products as well as high-capacity Compatible alternatives to save on printing expenses.
+
+## Why buy from Trinatech
+Stock held in Nairobi CBD. Delivery across Kenya including Kisumu, Nakuru, Eldoret, and Mombasa. M-Pesa and bank transfer accepted. WhatsApp ordering and walk-in options at The One Mall, River Road.
+
+## Getting the most from this product
+Rotate the bottle horizontally 4 to 5 times before loading into the copier to loosen settled toner powder.
+
+## Frequently asked questions
+What is the page yield? Up to ~30,000 pages at 5% coverage.
+How fast is Nairobi delivery? Delivered within 1 to 3 hours in Nairobi.
+How can I pay? Pay via M-Pesa, bank wire, or cash.
+Is warranty provided? Covered against factory defects.`, "metaTitle": "Canon C-EXV59 Black Toner Cartridge - Trinatech Kenya", "metaDescription": "Shop genuine Canon C-EXV59 black toner cartridge in Nairobi. Yields ~30,000 pages for imageRUNNER 2625i, 2630i, 2645i. Fast delivery.", "inStock": true, "comingSoon": false, "priceOnRequest": true},
   {"id": 9577, "sku": null, "name": "Konica Minolta DR512K C Toner Cartridge", "brand": "Konica Minolta", "category": "Maintenance Kits & Spare Parts", "price": null, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/08/9577_konica_konica-minolta-dr512k-c-toner-cartridge.jpg-2.png", "imageFile": "9577_konica_konica-minolta-dr512k-c-toner-cartridge.jpg-2.png", "description": null, "inStock": true, "comingSoon": false, "priceOnRequest": true},
   {"id": 9578, "sku": null, "name": "Konica Minolta DR512M Y Toner Cartridge", "brand": "Konica Minolta", "category": "Maintenance Kits & Spare Parts", "price": null, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/08/9578_konica_konica-minolta-dr512m-y-toner-cartridge.jpg.png", "imageFile": "9578_konica_konica-minolta-dr512m-y-toner-cartridge.jpg.png", "description": null, "inStock": true, "comingSoon": false, "priceOnRequest": true},
   {"id": 9579, "sku": null, "name": "Brother DR1000 Toner Cartridge", "brand": "Brother", "category": "Brother Toners", "price": null, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/08/9579_brother_brother-dr1000-toner-cartridge.jpg.png", "imageFile": "9579_brother_brother-dr1000-toner-cartridge.jpg.png", "description": null, "inStock": true, "comingSoon": false, "priceOnRequest": true},

@@ -1392,13 +1392,253 @@ Does it print borderless photos? Yes, supports borderless photo printing up to 1
   {"id": 3482, "sku": null, "name": "Dell Vostro 3400 Core I5 4GB/1TB/14in Laptop", "brand": "Dell", "category": "Laptops", "price": 72000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2024/12/Dell-Vostro-3400-laptop.png", "imageFile": "Dell-Vostro-3400-laptop.png", "description": "The DELL Vostro 3400 Core i5 4GB/1TB/14in Laptop is a versatile and affordable choice for professionals, students, and home users.", "inStock": true},
   {"id": 3480, "sku": null, "name": "Dell Vostro 3500 Core I5 4GB/1TB/15.6in UBUNTU Laptop", "brand": "Dell", "category": "Laptops", "price": 71000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2024/12/DELL-VOSTRO-3500-laptop.png", "imageFile": "DELL-VOSTRO-3500-laptop.png", "description": "The DELL Vostro 3500 Core i5 4GB/1TB/15.6in Ubuntu Laptop is designed to provide powerful performance and reliability for professionals and students.", "inStock": true},
   {"id": 4048, "sku": null, "name": "Eaton 5E 850VA Ups", "brand": "Eaton", "category": "UPS", "price": 8000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2025/01/Eaton-UPS.png", "imageFile": "Eaton-UPS.png", "description": "The Eaton 5E 850VA UPS is an efficient and reliable power protection solution, designed to keep your devices running smoothly during unexpected power outages or fluctuations.", "inStock": true},
-  {"id": 5339, "sku": null, "name": "Epson 101 Ecotank Black Ink Bottle 127ML", "brand": "Epson", "category": "Epson Ribbons & Inks", "price": 2500, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/Epson-101-Ecotank-Black-Ink-Bottle-127ML.webp", "imageFile": "Epson-101-Ecotank-Black-Ink-Bottle-127ML.webp", "description": "EPSON 101 ECOTANK BLACK INK BOTTLE 127ML", "inStock": true},
-  {"id": 5338, "sku": null, "name": "Epson 101 Ecotank Cyan Tank Ink Bottle 70ML", "brand": "Epson", "category": "Epson Ribbons & Inks", "price": 1700, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/epson-101-ecotank-ink-bottle-cyan-ink-for-printer-refill-70ml-1.webp", "imageFile": "epson-101-ecotank-ink-bottle-cyan-ink-for-printer-refill-70ml-1.webp", "description": "EPSON 101 ECOTANK CYAN TANK INK BOTTLE 70ML", "inStock": true},
-  {"id": 5337, "sku": null, "name": "Epson 101 Ecotank Magenta Ink Bottle 70ML", "brand": "Epson", "category": "Epson Ribbons & Inks", "price": 1700, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/Epson-101-Ecotank-Magenta-Ink-Bottle-70ML.webp", "imageFile": "Epson-101-Ecotank-Magenta-Ink-Bottle-70ML.webp", "description": "EPSON 101 ECOTANK MAGENTA INK BOTTLE 70ML", "inStock": true},
-  {"id": 5336, "sku": null, "name": "Epson 101 Ecotank Yellow Ink Bottle 70ML", "brand": "Epson", "category": "Epson Ribbons & Inks", "price": 1700, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/Epson-101-Ecotank-Yellow-Ink-Bottle-70ML.webp", "imageFile": "Epson-101-Ecotank-Yellow-Ink-Bottle-70ML.webp", "description": "EPSON 101 ECOTANK YELLOW INK BOTTLE 70ML", "inStock": true},
-  {"id": 5335, "sku": null, "name": "Epson 101/103 Premium Refill Ink For Ecotank Each", "brand": "Epson", "category": "Epson Ribbons & Inks", "price": 400, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/Epson-101-103-Premium-Refill-Ink-For-Ecotank-Each.webp", "imageFile": "Epson-101-103-Premium-Refill-Ink-For-Ecotank-Each.webp", "description": "EPSON 101/103 PREMIUM REFILL INK FOR ECOTANK EACH", "inStock": true},
-  {"id": 5334, "sku": null, "name": "Epson 103 Ecotank Blacktank Ink Bottle 65ML", "brand": "Epson", "category": "Epson Ribbons & Inks", "price": 1200, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/Epson-103-Ecotank-Blacktank-Ink-Bottle-65ML.webp", "imageFile": "Epson-103-Ecotank-Blacktank-Ink-Bottle-65ML.webp", "description": "EPSON 103 ECOTANK BLACKTANK INK BOTTLE 65ML", "inStock": true},
-  {"id": 5333, "sku": null, "name": "Epson 103 Ecotank Cyan Tank Ink Bottle 65ML", "brand": "Epson", "category": "Epson Ribbons & Inks", "price": 1200, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/Epson-103-Ecotank-Cyan-Tank-Ink-Bottle-65ML.webp", "imageFile": "Epson-103-Ecotank-Cyan-Tank-Ink-Bottle-65ML.webp", "description": "EPSON 103 ECOTANK CYAN TANK INK BOTTLE 65ML", "inStock": true},
+  {"id": 5339, "sku": null, "name": "Epson 101 Ecotank Black Ink Bottle 127ML", "brand": "Epson", "category": "Epson Ribbons & Inks", "price": 2500, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/Epson-101-Ecotank-Black-Ink-Bottle-127ML.webp", "imageFile": "Epson-101-Ecotank-Black-Ink-Bottle-127ML.webp", "description": `The Epson 101 Ecotank Black Ink Bottle (127ml) provides ultra-low-cost, high-volume printing for Epson's advanced EcoTank printers. Formulated with pigment ink, it delivers exceptionally crisp, laser-quality text that is highly resistant to water, fading, and highlighter smears. Designed with a specialized drip-free nozzle for mess-free refilling, this genuine high-capacity supply guarantees your printer's delicate micro-piezo printhead remains clear, allowing you to print up to 7,500 pages seamlessly.
+
+## Compatible printers
+Epson EcoTank L4150
+Epson EcoTank L4160
+Epson EcoTank L6160
+Epson EcoTank L6170
+Epson EcoTank L6190
+Epson EcoTank L14150
+If your model isn't listed, send us the number from the front of the machine and we'll confirm before you pay.
+
+## Specifications
+| Page yield | Cartridge type | Colour | Capacity | Part number | Genuine or compatible |
+|---|---|---|---|---|---|
+| ~7,500 pages | Ink Bottle (Pigment) | Black | 127ml High Yield | 101 Black | Genuine |
+
+## Genuine or compatible?
+Genuine, Original Epson ink in factory packaging. This guarantees the highest print quality and completely protects your printer's permanent printhead. If you print incredibly heavy volumes of draft documents and want to save money, ask us about the Royal compatible version, which provides excellent value and fits the exact same ink tanks securely.
+
+## Why buy from Trinatech
+Stock held in Nairobi CBD for rapid dispatch.
+Delivery across Kenya including Kisumu, Nakuru, Eldoret and Mombasa.
+M-Pesa and bank transfer accepted.
+WhatsApp ordering, walk-in at The One Mall River Road.
+
+## Getting the most from this cartridge
+When refilling, simply uncap the bottle, snap off the seal, and dock the bottle onto the corresponding black tank. The ink will stop flowing automatically when the tank is full. Never let your EcoTank printer's ink levels drop below the lower line marked on the front of the tank, as allowing air into the internal ink tubes will cause severe and often permanent damage to the printhead.
+
+## Frequently asked questions
+Is there an XL or high-yield alternative? This 127ml bottle is the high-yield supply designed specifically for this series.
+Do I need all colours to print? Yes, Epson EcoTanks require all four colours to be adequately filled to operate safely.
+What is the delivery time? Same-day within Nairobi CBD; overnight delivery for the rest of Kenya.
+What is your warranty or returns policy? Genuine bottles carry a manufacturer warranty against manufacturing faults.
+Is this ink waterproof? Yes, the 101 black uses a pigment-based ink that is highly resistant to water and smudging.`, "metaTitle": "Epson 101 Black Original Ink Bottle 127ml", "metaDescription": "Genuine Epson 101 black ink bottle (127ml), approx 7,500 pages, for EcoTank L4150, L4160, L6160, L6170, L6190. Fast delivery across Kenya.", "inStock": true},
+  {"id": 5338, "sku": null, "name": "Epson 101 Ecotank Cyan Tank Ink Bottle 70ML", "brand": "Epson", "category": "Epson Ribbons & Inks", "price": 1700, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/epson-101-ecotank-ink-bottle-cyan-ink-for-printer-refill-70ml-1.webp", "imageFile": "epson-101-ecotank-ink-bottle-cyan-ink-for-printer-refill-70ml-1.webp", "description": `The Epson 101 Ecotank Cyan Ink Bottle (70ml) delivers vibrant, true-to-life blue hues for your advanced Epson continuous ink printer. Unlike the black pigment ink in this series, the cyan is a premium dye-based ink designed specifically to produce breathtaking borderless photos and striking business graphics. Featuring Epson's auto-stop valve technology, this genuine supply ensures your high-volume refilling process is completely spill-free and effortless.
+
+## Compatible printers
+Epson EcoTank L4150
+Epson EcoTank L4160
+Epson EcoTank L6160
+Epson EcoTank L6170
+Epson EcoTank L6190
+Epson EcoTank L14150
+If your model isn't listed, send us the number from the front of the machine and we'll confirm before you pay.
+
+## Specifications
+| Page yield | Cartridge type | Colour | Capacity | Part number | Genuine or compatible |
+|---|---|---|---|---|---|
+| ~6,000 pages | Ink Bottle (Dye) | Cyan | 70ml Standard | 101 Cyan | Genuine |
+
+## Genuine or compatible?
+This is a 100% genuine, Original Epson ink bottle. Genuine supplies are critical for maintaining the health of your printer's sensitive internal components over years of heavy use. For customers doing massive volumes of draft-quality internal printing, our Royal compatible equivalent is available—it fits seamlessly into the same machines at a much lower price, offering a highly practical trade-off.
+
+## Why buy from Trinatech
+Reliable stock held in Nairobi CBD.
+Delivery across Kenya including Kisumu, Nakuru, Eldoret and Mombasa.
+M-Pesa and bank transfer accepted.
+WhatsApp ordering, walk-in at The One Mall River Road.
+
+## Getting the most from this cartridge
+Store the ink bottle upright in a cool, dry place away from direct sunlight. To refill, simply dock the keyed nozzle onto the cyan tank; you do not need to squeeze the bottle. If your prints start looking faint or banded, run a printhead cleaning cycle from your printer's maintenance menu to clear any microscopic blockages in the nozzles.
+
+## Frequently asked questions
+Is there an XL or high-yield alternative? The 70ml bottle is designed to completely fill the colour tank, acting as a high-yield supply.
+Do I need other colours to print? Yes, all four tanks (CMYK) must have ink for the machine to operate safely.
+What is the delivery time? Same-day delivery within Nairobi CBD and next-day for the rest of Kenya.
+What is your warranty or returns policy? Genuine Epson inks come with a standard manufacturer defect warranty.
+Can I mix this with generic ink? We strongly advise against mixing formulas, as it can permanently clog the printhead.`, "metaTitle": "Epson 101 Cyan Original Ink Bottle 70ml", "metaDescription": "Genuine Epson 101 cyan ink bottle (70ml), approx 6,000 pages, for EcoTank L4150, L4160, L6160, L6170, L6190. Reliable delivery from Nairobi CBD.", "inStock": true},
+  {"id": 5337, "sku": null, "name": "Epson 101 Ecotank Magenta Ink Bottle 70ML", "brand": "Epson", "category": "Epson Ribbons & Inks", "price": 1700, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/Epson-101-Ecotank-Magenta-Ink-Bottle-70ML.webp", "imageFile": "Epson-101-Ecotank-Magenta-Ink-Bottle-70ML.webp", "description": `The Epson 101 Ecotank Magenta Ink Bottle (70ml) is essential for producing the vivid reds and pinks required in high-quality photographs and professional business documents. Formulated with Epson's premium dye-based ink, it ensures your marketing flyers and family photos look sharp and resist fading. Offering a composite yield of up to 6,000 pages, this genuine refill bottle keeps your EcoTank printer running efficiently during demanding, high-volume print tasks.
+
+## Compatible printers
+Epson EcoTank L4150
+Epson EcoTank L4160
+Epson EcoTank L6160
+Epson EcoTank L6170
+Epson EcoTank L6190
+Epson EcoTank L14150
+If your model isn't listed, send us the number from the front of the machine and we'll confirm before you pay.
+
+## Specifications
+| Page yield | Cartridge type | Colour | Capacity | Part number | Genuine or compatible |
+|---|---|---|---|---|---|
+| ~6,000 pages | Ink Bottle (Dye) | Magenta | 70ml Standard | 101 Magenta | Genuine |
+
+## Genuine or compatible?
+This is a 100% genuine, Original Epson ink bottle. It provides the exact dye formulation required to protect your EcoTank printhead. However, if cost savings are your primary concern for internal documents, our Royal compatible brand is available. Royal ink bottles fit the exact same printers at a lower cost, offering exceptional value for high-volume office printing.
+
+## Why buy from Trinatech
+Stock held locally in Nairobi CBD.
+Delivery across Kenya including Kisumu, Nakuru, Eldoret and Mombasa.
+M-Pesa and bank transfer accepted securely.
+WhatsApp ordering available, walk-in at The One Mall River Road.
+
+## Getting the most from this cartridge
+Always store ink bottles away from direct sunlight. When refilling, the unique key on the magenta bottle ensures it will only fit into the correct magenta tank on your printer, preventing accidental colour mixing. Because actual page yield depends heavily on your printing habits, consider using standard paper and standard quality settings for drafts to make the ink last even longer.
+
+## Frequently asked questions
+Is there an XL or high-yield alternative? The 70ml capacity is the maximum size available for the colour tanks on these models.
+Do I need the other colours to print? Yes, your EcoTank printer requires all four tanks to have ink to function safely.
+What is the delivery time? We offer same-day delivery in Nairobi CBD, and next-day delivery nationwide.
+What is your warranty or returns policy? We provide the manufacturer's warranty on all genuine sealed products.
+Why is the ink level not updating? After refilling, you may need to manually reset the ink levels via the printer's screen.`, "metaTitle": "Epson 101 Magenta Original Ink Bottle 70ml", "metaDescription": "Genuine Epson 101 magenta ink (70ml), approx 6,000 pages, for EcoTank L4150, L4160, L6160, L6170, L6190. Buy genuine Epson supplies in Kenya.", "inStock": true},
+  {"id": 5336, "sku": null, "name": "Epson 101 Ecotank Yellow Ink Bottle 70ML", "brand": "Epson", "category": "Epson Ribbons & Inks", "price": 1700, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/Epson-101-Ecotank-Yellow-Ink-Bottle-70ML.webp", "imageFile": "Epson-101-Ecotank-Yellow-Ink-Bottle-70ML.webp", "description": `The Epson 101 Ecotank Yellow Ink Bottle (70ml) completes your printer's CMYK setup, delivering the bright, striking yellows required for true-to-life photos and business graphics. Utilising advanced dye-based ink, it provides high-density, vibrant colour that seamlessly blends to create millions of vivid shades. With a generous yield of up to 6,000 composite pages, this genuine supply ensures your home or small business experiences minimal downtime and incredibly low running costs.
+
+## Compatible printers
+Epson EcoTank L4150
+Epson EcoTank L4160
+Epson EcoTank L6160
+Epson EcoTank L6170
+Epson EcoTank L6190
+Epson EcoTank L14150
+If your model isn't listed, send us the number from the front of the machine and we'll confirm before you pay.
+
+## Specifications
+| Page yield | Cartridge type | Colour | Capacity | Part number | Genuine or compatible |
+|---|---|---|---|---|---|
+| ~6,000 pages | Ink Bottle (Dye) | Yellow | 70ml Standard | 101 Yellow | Genuine |
+
+## Genuine or compatible?
+Genuine, Original Epson ink in factory packaging. This ensures you avoid printhead clogging issues common with cheap generic refills. For customers looking to aggressively optimize their printing budget for everyday drafts, mention our Royal compatible alternative—it offers the same high yield and features the same keyed anti-drip nozzle at a lower price point.
+
+## Why buy from Trinatech
+Stock held right here in Nairobi CBD.
+Delivery across Kenya including Kisumu, Nakuru, Eldoret and Mombasa.
+M-Pesa and bank transfer accepted.
+WhatsApp ordering, walk-in at The One Mall River Road.
+
+## Getting the most from this cartridge
+Keep the bottle sealed until you are ready to top up the printer. Never force the bottle onto the tank; the keyed nozzle will only fit the yellow slot. If you experience missing colours on your printed page, run the printer's automated cleaning cycle to clear any microscopic blockages in the printhead before assuming the printer is broken.
+
+## Frequently asked questions
+Is there an XL or high-yield alternative? This is the maximum capacity (70ml) yellow bottle for the 101 series.
+Do I need the other colours to print? Yes, inkjet printers require all colours to function and prevent printhead damage.
+What is the delivery time? Same-day delivery within Nairobi CBD and next-day for the rest of Kenya.
+What is your warranty or returns policy? Genuine Epson bottles come with a standard manufacturer defect warranty.
+Why did my ink run out so fast? Printing large, full-colour graphics or borderless photos will deplete the ink much faster than standard text.`, "metaTitle": "Epson 101 Yellow Original Ink Bottle 70ml", "metaDescription": "Genuine Epson 101 yellow ink (70ml), approx 6,000 pages, for EcoTank L4150, L4160, L6160, L6170, L6190. Order via WhatsApp for fast delivery.", "inStock": true},
+  {"id": 5335, "sku": null, "name": "Epson 101/103 Premium Refill Ink For Ecotank Each", "brand": "Epson", "category": "Epson Ribbons & Inks", "price": 400, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/Epson-101-103-Premium-Refill-Ink-For-Ecotank-Each.webp", "imageFile": "Epson-101-103-Premium-Refill-Ink-For-Ecotank-Each.webp", "description": `The Premium Compatible Refill Ink for Epson 101 and 103 EcoTank series provides an unbeatable, cost-effective way to keep your continuous ink printer running smoothly. Sold individually (choose from Black, Cyan, Magenta, or Yellow), these compatible bottles feature a specialized anti-drip nozzle designed to fit perfectly into your printer's tanks. They deliver bright, vibrant colours and sharp text, allowing you to slash your home or office printing costs without sacrificing the quality of your daily documents.
+
+## Compatible printers
+Epson EcoTank L1110
+Epson EcoTank L3110
+Epson EcoTank L3150
+Epson EcoTank L3210
+Epson EcoTank L3250
+Epson EcoTank L4150
+Epson EcoTank L4160
+Epson EcoTank L6160
+Epson EcoTank L6190
+If your model isn't listed, send us the number from the front of the machine and we'll confirm before you pay.
+
+## Specifications
+| Page yield | Cartridge type | Colour | Capacity | Part number | Genuine or compatible |
+|---|---|---|---|---|---|
+| Up to 7,500 pages | Ink Bottle | Black, Cyan, Magenta OR Yellow | Standard | 101/103 (Comp) | Compatible |
+
+## Genuine or compatible?
+This is a compatible ink bottle. It is manufactured to provide an excellent alternative that fits the exact same Epson EcoTank machines at a fraction of the cost. It is not an original Epson product. We highly recommend this premium compatible brand for households and businesses looking to aggressively lower their cost per page without the messy complications of unbranded generic syringes.
+
+## Why buy from Trinatech
+Stock held locally in Nairobi CBD.
+Delivery across Kenya including Kisumu, Nakuru, Eldoret and Mombasa.
+M-Pesa and bank transfer accepted securely.
+WhatsApp ordering available, walk-in at The One Mall River Road.
+
+## Getting the most from this cartridge
+When refilling, simply slot the bottle onto the corresponding colour tank; the valve will release the ink automatically. Do not squeeze the bottle. Never let your EcoTank printer's ink levels drop below the lower line marked on the front of the tank, as allowing air into the internal ink tubes will cause permanent damage to the printhead.
+
+## Frequently asked questions
+Is there an XL or high-yield alternative? These bottles are designed to completely fill the printer's tanks, acting as a high-yield supply.
+Do I need other colours to print? Yes, Epson EcoTanks require all four colours to be adequately filled to operate.
+What is the delivery time? Same-day for Nairobi CBD; expect next-day delivery for other regions in Kenya.
+What is your warranty or returns policy? We offer a replacement guarantee on compatible inks that fail out of the box.
+Does this price include all four colours? No, the listed price is for one individual colour bottle of your choice.`, "metaTitle": "Epson 101 / 103 Compatible Ink Bottle", "metaDescription": "Premium compatible refill ink bottle for Epson EcoTank 101 and 103 series. High quality, low cost printing. Sold individually. Delivered in Kenya.", "inStock": true},
+  {"id": 5334, "sku": null, "name": "Epson 103 Ecotank Blacktank Ink Bottle 65ML", "brand": "Epson", "category": "Epson Ribbons & Inks", "price": 1200, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/Epson-103-Ecotank-Blacktank-Ink-Bottle-65ML.webp", "imageFile": "Epson-103-Ecotank-Blacktank-Ink-Bottle-65ML.webp", "description": `The Epson 103 Ecotank Black Ink Bottle (65ml) provides ultra-low-cost, high-volume printing for Epson's entry-level EcoTank printers. Formulated to deliver exceptionally crisp text that resists smudging, it is the perfect everyday supply for home offices, students, and small businesses. Designed with a specialized drip-free nozzle for mess-free refilling, this genuine supply guarantees your printer's delicate micro-piezo printhead remains clear, allowing you to print up to 4,500 pages effortlessly.
+
+## Compatible printers
+Epson EcoTank L1110
+Epson EcoTank L3110
+Epson EcoTank L3111
+Epson EcoTank L3150
+Epson EcoTank L3151
+Epson EcoTank L3210
+Epson EcoTank L3250
+Epson EcoTank L3251
+Epson EcoTank L5190
+If your model isn't listed, send us the number from the front of the machine and we'll confirm before you pay.
+
+## Specifications
+| Page yield | Cartridge type | Colour | Capacity | Part number | Genuine or compatible |
+|---|---|---|---|---|---|
+| ~4,500 pages | Ink Bottle (Dye) | Black | 65ml Standard | 103 Black | Genuine |
+
+## Genuine or compatible?
+Genuine, Original Epson ink in factory packaging. This guarantees the highest print quality and completely protects your printer's permanent printhead. If you print incredibly heavy volumes of draft documents and want to save money, ask us about the Royal compatible version, which provides excellent value and fits the exact same ink tanks securely without messy syringes.
+
+## Why buy from Trinatech
+Stock held in Nairobi CBD for rapid dispatch.
+Delivery across Kenya including Kisumu, Nakuru, Eldoret and Mombasa.
+M-Pesa and bank transfer accepted.
+WhatsApp ordering, walk-in at The One Mall River Road.
+
+## Getting the most from this cartridge
+When refilling, simply uncap the bottle, snap off the seal, and dock the bottle onto the corresponding black tank. The ink will stop flowing automatically when the tank is full. Never let your EcoTank printer's ink levels drop below the lower line marked on the front of the tank, as allowing air into the internal ink tubes will cause severe and often permanent damage to the printhead.
+
+## Frequently asked questions
+Is there an XL or high-yield alternative? This 65ml bottle is the standard supply designed specifically to fill the tank.
+Do I need all colours to print? Yes, Epson EcoTanks require all four colours to be adequately filled to operate safely.
+What is the delivery time? Same-day within Nairobi CBD; overnight delivery for the rest of Kenya.
+What is your warranty or returns policy? Genuine bottles carry a manufacturer warranty against manufacturing faults.
+Can I squeeze the bottle to make it fill faster? No, squeezing the bottle can cause spills and damage the auto-stop valve.`, "metaTitle": "Epson 103 Black Original Ink Bottle 65ml", "metaDescription": "Genuine Epson 103 black ink (65ml), approx 4,500 pages, for EcoTank L3110, L3150, L3210, L3250. Genuine stock delivered safely across Kenya.", "inStock": true},
+  {"id": 5333, "sku": null, "name": "Epson 103 Ecotank Cyan Tank Ink Bottle 65ML", "brand": "Epson", "category": "Epson Ribbons & Inks", "price": 1200, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/Epson-103-Ecotank-Cyan-Tank-Ink-Bottle-65ML.webp", "imageFile": "Epson-103-Ecotank-Cyan-Tank-Ink-Bottle-65ML.webp", "description": `The Epson 103 Ecotank Cyan Ink Bottle (65ml) delivers vibrant, true-to-life blue hues for your Epson continuous ink printer. As a premium dye-based ink, it is designed specifically to produce striking borderless photos and colourful school or business graphics. Featuring Epson's keyed auto-stop valve technology, this genuine supply ensures your high-volume refilling process is completely spill-free, error-proof, and effortless.
+
+## Compatible printers
+Epson EcoTank L1110
+Epson EcoTank L3110
+Epson EcoTank L3111
+Epson EcoTank L3150
+Epson EcoTank L3151
+Epson EcoTank L3210
+Epson EcoTank L3250
+Epson EcoTank L3251
+Epson EcoTank L5190
+If your model isn't listed, send us the number from the front of the machine and we'll confirm before you pay.
+
+## Specifications
+| Page yield | Cartridge type | Colour | Capacity | Part number | Genuine or compatible |
+|---|---|---|---|---|---|
+| ~7,500 pages | Ink Bottle (Dye) | Cyan | 65ml Standard | 103 Cyan | Genuine |
+
+## Genuine or compatible?
+This is a 100% genuine, Original Epson ink bottle. Genuine supplies are critical for maintaining the health of your printer's sensitive internal components over years of heavy use. For customers doing massive volumes of draft-quality internal printing, our Royal compatible equivalent is available—it fits seamlessly into the same machines at a much lower price, offering a highly practical trade-off.
+
+## Why buy from Trinatech
+Reliable stock held in Nairobi CBD.
+Delivery across Kenya including Kisumu, Nakuru, Eldoret and Mombasa.
+M-Pesa and bank transfer accepted.
+WhatsApp ordering, walk-in at The One Mall River Road.
+
+## Getting the most from this cartridge
+Store the ink bottle upright in a cool, dry place away from direct sunlight. To refill, simply dock the keyed nozzle onto the cyan tank; the shape ensures it will not fit into the magenta or yellow tanks by mistake. If your prints start looking faint or banded, run a printhead cleaning cycle from your printer's maintenance menu to clear any microscopic blockages in the nozzles.
+
+## Frequently asked questions
+Is there an XL or high-yield alternative? The 65ml bottle is designed to completely fill the colour tank, acting as a high-yield supply.
+Do I need other colours to print? Yes, all four tanks (CMYK) must have ink for the machine to operate safely.
+What is the delivery time? Same-day delivery within Nairobi CBD and next-day for the rest of Kenya.
+What is your warranty or returns policy? Genuine Epson inks come with a standard manufacturer defect warranty.
+Can I mix this with generic ink? We strongly advise against mixing formulas, as it can permanently clog the printhead.`, "metaTitle": "Epson 103 Cyan Original Ink Bottle 65ml", "metaDescription": "Genuine Epson 103 cyan ink (65ml), approx 7,500 pages, for EcoTank L3110, L3150, L3210, L3250. Fast nationwide delivery from Trinatech Nairobi.", "inStock": true},
   {"id": 5332, "sku": null, "name": "Epson 103 Ecotank Magenta Tank Ink Bottle 65ML", "brand": "Epson", "category": "Epson Ribbons & Inks", "price": 1200, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/Epson-103-Ecotank-Magenta-Tank-Ink-Bottle-65ML.webp", "imageFile": "Epson-103-Ecotank-Magenta-Tank-Ink-Bottle-65ML.webp", "description": "EPSON 103 ECOTANK MAGENTA TANK INK BOTTLE 65ML", "inStock": true},
   {"id": 5331, "sku": null, "name": "Epson 103 Ecotank Yellow Tank Ink Bottle 65ML", "brand": "Epson", "category": "Epson Ribbons & Inks", "price": 1200, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/Epson-103-Ecotank-Yellow-Tank-Ink-Bottle-65ML.webp", "imageFile": "Epson-103-Ecotank-Yellow-Tank-Ink-Bottle-65ML.webp", "description": "EPSON 103 ECOTANK YELLOW TANK INK BOTTLE 65ML", "inStock": true},
   {"id": 5330, "sku": null, "name": "Epson 110 Ecotank Black Ink Bottle 120ML", "brand": "Epson", "category": "Epson Ribbons & Inks", "price": 3000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/Epson-110-Ecotank-Black-Ink-Bottle-120ML.webp", "imageFile": "Epson-110-Ecotank-Black-Ink-Bottle-120ML.webp", "description": "EPSON 110 ECOTANK BLACK INK BOTTLE 120ML", "inStock": true},

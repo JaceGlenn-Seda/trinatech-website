@@ -1385,10 +1385,98 @@ Are color inks needed? Black is standard; specialized color drums are sold separ
 How fast is shipping in Nairobi? Delivered within 1 to 3 hours across Nairobi CBD.
 How can I pay? Pay via M-Pesa Buy Goods/Till, bank transfer, or cash.
 Is this laser toner? No, this is liquid ink designed for digital duplicator presses.`, "metaTitle": "Ricoh CPI10 Duplicator Ink Bottle Price - Trinatech Kenya", "metaDescription": "Buy CPI10 duplicator ink in Nairobi, Kenya. 500ml black ink for Ricoh and Gestetner duplicators. Fast delivery across Kenya & M-Pesa.", "inStock": true},
-  {"id": 4365, "sku": null, "name": "CPMT21 Master Roll For Gestetner Copy Printer", "brand": "Other", "category": "Inks & Toner Cartridges", "price": 1000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2025/01/CPMT21-Master-Roll.png", "imageFile": "CPMT21-Master-Roll.png", "description": "The CPMT21 Master Roll is a high-quality printing consumable designed for use with Gestetner copy printers.", "inStock": true},
+  {"id": 4365, "sku": null, "name": "CPMT21 Master Roll For Gestetner Copy Printer", "brand": "Other", "category": "Inks & Toner Cartridges", "price": 1000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2025/01/CPMT21-Master-Roll.png", "imageFile": "CPMT21-Master-Roll.png", "description": `The CPMT21 Master Roll for Gestetner Copy Printers is an incredibly cost-effective, high-volume supply designed for schools, churches, and bustling copy shops. Engineered as a direct replacement for the original, this compatible master roll ensures your Gestetner digital duplicator creates sharp, perfectly porous stencils for your mass print runs. By choosing this premium compatible, you can produce thousands of exam papers, flyers, and forms while aggressively cutting your operational overheads.
+
+## Compatible printers
+Gestetner CP 6123
+Gestetner CP 6223
+Gestetner CP 6333
+If your model isn't listed, send us the number from the front of the machine and we'll confirm before you pay.
+
+## Specifications
+| Page yield | Cartridge type | Colour | Capacity | Part number | Genuine or compatible |
+|---|---|---|---|---|---|
+| ~200 masters | Duplicator Master | White/Stencil | Standard Roll | CPMT21 (Comp) | Compatible |
+
+## Genuine or compatible?
+This is a high-quality compatible master roll. It is entirely brand new and manufactured to meet standard OEM stencil properties without the premium price tag. It is not an original Gestetner product. We strongly recommend this compatible version for organizations looking to aggressively cut their printing overheads on heavy-duty text documents without sacrificing the clarity or speed of their duplicator.
+
+## Why buy from Trinatech
+Stock held locally in Nairobi CBD.
+Delivery across Kenya including Kisumu, Nakuru, Eldoret and Mombasa.
+M-Pesa and bank transfer accepted securely.
+WhatsApp ordering available, walk-in at The One Mall River Road.
+
+## Getting the most from this cartridge
+Always store your master rolls vertically in a cool, dry place. Exposure to extreme heat or moisture can warp the delicate stencil material, causing paper jams or uneven ink distribution. Digital duplicators are most efficient when printing hundreds of copies from a single master; printing only five or ten copies per master will deplete your roll extremely quickly and waste ink.
+
+## Frequently asked questions
+Is there an XL or high-yield alternative? This is the standard capacity roll, providing approximately 200 masters.
+Do I need to replace the ink at the same time? Not necessarily; you replace the master roll and the ink tube independently as they run out.
+What is the delivery time? Same-day for Nairobi CBD; expect next-day delivery for other regions in Kenya.
+What is your warranty or returns policy? We offer a replacement guarantee on compatible masters that fail upon installation.
+Will this master damage my drum? No, this high-quality compatible is specifically formulated to be safe for your duplicator's cylinder.`, "metaTitle": "Gestetner CPMT21 Compatible Master Roll", "metaDescription": "Compatible Gestetner CPMT21 master roll for Gestetner CP 6123, 6223 duplicators. Economical high-volume printing. Delivered across Kenya.", "inStock": true},
   {"id": 4372, "sku": null, "name": "Copyprinter Ink Cpi 10", "brand": "Other", "category": "Inks & Toner Cartridges", "price": 450, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2025/01/CPI-10-ink.png", "imageFile": "CPI-10-ink.png", "description": "The CopyPrinter Ink CPI 10 is a premium ink solution designed to deliver high-quality, professional prints for CopyPrinter CPI 10 models.", "inStock": true},
-  {"id": 5277, "sku": "DX2330", "name": "DX2330 Master", "brand": "Other", "category": "Master Rolls & Inks", "price": 900, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/DX2330-Master.webp", "imageFile": "DX2330-Master.webp", "description": "DX2330 MASTER", "inStock": true},
-  {"id": 5276, "sku": "DX2430", "name": "DX2430 Master", "brand": "Other", "category": "Master Rolls & Inks", "price": 1000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/DX2430-Master.png", "imageFile": "DX2430-Master.png", "description": "DX2430 MASTER", "inStock": true},
+  {"id": 5277, "sku": "DX2330", "name": "DX2330 Master", "brand": "Other", "category": "Master Rolls & Inks", "price": 900, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/DX2330-Master.webp", "imageFile": "DX2330-Master.webp", "description": `The DX2330 Compatible Master Roll provides large offices and busy schools with an exceptional alternative to expensive original duplicator supplies. Engineered to match the exact thermal sensitivity required by Ricoh Priport duplicators, this high-quality stencil roll produces sharp, dark text and clear images for all your bulk printing needs. It allows you to run massive batches of documentation such as newsletters and internal forms while drastically slashing your budget.
+
+## Compatible printers
+Ricoh Priport DX 2330
+Ricoh Priport DX 2430
+If your model isn't listed, send us the number from the front of the machine and we'll confirm before you pay.
+
+## Specifications
+| Page yield | Cartridge type | Colour | Capacity | Part number | Genuine or compatible |
+|---|---|---|---|---|---|
+| ~200 masters | Duplicator Master | White/Stencil | Standard Roll | DX2330 (Comp) | Compatible |
+
+## Genuine or compatible?
+This is a compatible duplicator master roll. It is a brand-new unit manufactured to perform just like the original, but it is not an OEM Ricoh product. This compatible alternative is perfect for schools, copy shops, and businesses that need to produce high volumes of monochrome documents on a tight budget while maintaining professional output quality.
+
+## Why buy from Trinatech
+Reliable stock held in Nairobi CBD.
+Delivery across Kenya including Kisumu, Nakuru, Eldoret and Mombasa.
+M-Pesa and bank transfer accepted.
+WhatsApp ordering, walk-in at The One Mall River Road.
+
+## Getting the most from this cartridge
+To ensure flawless stencil cutting, keep the master roll sealed in its protective wrapping until the moment you load it into the duplicator. Always check that the machine's thermal head is clean before installing a new roll, as dust can cause faint lines or missing text on your final prints. For the best economy, try to bundle your print jobs so you print hundreds of copies per master.
+
+## Frequently asked questions
+Is there an XL or high-yield alternative? This roll provides the standard maximum capacity for the DX 2330 and DX 2430 models.
+Are the DX2330 and DX2430 masters the same? Yes, the DX 2330 and DX 2430 duplicators utilize the exact same master roll and ink.
+What is the delivery time? Same-day delivery within Nairobi CBD and next-day for the rest of Kenya.
+What is your warranty or returns policy? We replace any compatible master rolls that show manufacturing defects upon installation.
+Why are my prints coming out blank? Ensure the master roll is loaded with the correct side facing the thermal head.`, "metaTitle": "Ricoh DX2330 Compatible Master Roll", "metaDescription": "Compatible Ricoh DX2330 master roll for Ricoh Priport DX 2330 and DX 2430 duplicators. Reliable stock in Nairobi, fast delivery anywhere in Kenya.", "inStock": true},
+  {"id": 5276, "sku": "DX2430", "name": "DX2430 Master", "brand": "Other", "category": "Master Rolls & Inks", "price": 1000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/DX2430-Master.png", "imageFile": "DX2430-Master.png", "description": `The DX2430 Compatible Master Roll is an essential, high-volume supply for Ricoh's compact digital duplicator series. Engineered to produce exceptionally sharp, clear text on high-speed print runs, this compatible stencil roll is a staple for schools, churches, and print shops across Kenya. By using this affordable supply, you ensure your duplicator runs reliably while keeping your cost per copy to the absolute bare minimum.
+
+## Compatible printers
+Ricoh Priport DX 2330
+Ricoh Priport DX 2430
+If your model isn't listed, send us the number from the front of the machine and we'll confirm before you pay.
+
+## Specifications
+| Page yield | Cartridge type | Colour | Capacity | Part number | Genuine or compatible |
+|---|---|---|---|---|---|
+| ~200 masters | Duplicator Master | White/Stencil | Standard Roll | DX2430 (Comp) | Compatible |
+
+## Genuine or compatible?
+This is a highly reliable compatible master roll designed as a direct drop-in for Ricoh duplicators. It is not an original manufacturer product. For high-speed, high-volume internal document printing and draft copies where budget is the absolute priority, this compatible master offers unbeatable value per page compared to OEM supplies.
+
+## Why buy from Trinatech
+Stock held in Nairobi CBD for rapid dispatch.
+Delivery across Kenya including Kisumu, Nakuru, Eldoret and Mombasa.
+Secure payments via M-Pesa and bank transfer accepted.
+WhatsApp ordering, walk-in at The One Mall River Road.
+
+## Getting the most from this cartridge
+Always store your master rolls away from extreme temperatures. High heat can damage the thermal sensitivity of the roll. Digital duplicators are most efficient when printing hundreds of copies from a single master stencil; printing only small batches of five or ten copies per master will waste significant amounts of your roll and drive up your costs.
+
+## Frequently asked questions
+Is there an XL or high-yield alternative? This is the standard, maximum-yield size for the DX 2430 series.
+Do I need to replace the ink at the same time? No, the master roll and the black ink tube are replaced independently as they run out.
+What is the delivery time? Same-day delivery for Nairobi CBD, and next-day for the rest of Kenya.
+What is your warranty or returns policy? We offer a replacement guarantee on compatible masters that fail out of the box.
+Why is the machine not cutting the master? You may have loaded the roll upside down, or the cutter blade may need servicing.`, "metaTitle": "Ricoh DX2430 Compatible Master Roll", "metaDescription": "Compatible Ricoh DX2430 master roll for Ricoh Priport DX 2330, DX 2430. High quality duplicator supplies, fast nationwide delivery from Trinatech.", "inStock": true},
   {"id": 5260, "sku": null, "name": "Developer Type 26", "brand": "Other", "category": "Maintenance Kits & Spare Parts", "price": 3000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/Developer-Type-26-scaled.webp", "imageFile": "Developer-Type-26-scaled.webp", "description": "developer type 26", "inStock": true},
   {"id": 5259, "sku": null, "name": "Developer Type 28", "brand": "Other", "category": "Maintenance Kits & Spare Parts", "price": 2500, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/Developer-Type-28-scaled.webp", "imageFile": "Developer-Type-28-scaled.webp", "description": "developer type 28", "inStock": true},
   {"id": 5284, "sku": null, "name": "F11 Ink", "brand": "Other", "category": "Master Rolls & Inks", "price": 5000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/F11-Ink.webp", "imageFile": "F11-Ink.webp", "description": `The Riso FII Type Black Ink (commonly referred to as F11 ink) is a premium supply designed for heavy-duty Risograph digital duplicators. Engineered to dry quickly and adhere perfectly to standard copy paper, this high-volume emulsion ink ensures your school exams, church bulletins, and mass flyers are printed with crisp, highly legible text without offsetting onto the back of the next page. It is a critical supply for organizations running mass print jobs.

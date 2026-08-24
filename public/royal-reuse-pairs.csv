@@ -1,104 +1,169 @@
-royal_id,royal_name,extracted_code,sibling_id,sibling_name,sibling_brand,sibling_desc_len
-5403,"Royal 05A Black Compatible (CE505A)",CE505A,4599,"HP 05A Black Original Laserjet Toner Cartridge (CE505A)",HP
-5402,"Royal 106A Compatible Black Toners Cartridge (W1106A)",W1106A,5182,"HP 106A Black Toner Cartridge (W1106A)",HP
-5401,"Royal 117A Compatible Toner Each",117A,4793,"HP 117A Black Original Laserjet Toner Cartridge",HP
-5400,"Royal 12A Black Compatible (Q2612A)",Q2612A,5163,"HP 12A Black Toner Original Catridge (Q2612A)",HP
-5398,"Royal 17A Black Compatible (CF217A)",CF217A,5146,"HP 17A Black Toner Laserjet (CF217A)",HP
-5397,"Royal 201A Black Compatible (CF400A)",CF400A,5144,"HP 201A Black Toner Laserjet (CF400A)",HP
-5433,"Royal 201A Black Compatible (CF540A)",CF540A,5140,"HP 203A Black Toner Laserjet (CF540A)",HP
-5432,"Royal 201A Cyan Compatible (CF401A)",CF401A,5143,"HP 201A Cyan Toner Laserjet (CF401A)",HP
-5431,"Royal 201A Magneta Compatible (CF403A)",CF403A,5142,"HP 201A Magneta Toner Laserjet (CF403A)",HP
-5430,"Royal 201A Yellow Compatible (CF402A)",CF402A,5141,"HP 201A Yellow Toner Laserjet (CF402A)",HP
-5429,"Royal 203A Black Compatible (CF540A)",CF540A,5140,"HP 203A Black Toner Laserjet (CF540A)",HP
-5428,"Royal 203A Cyan Compatible (CF541A)",CF541A,5139,"HP 203A Cyan Toner Laserjet (CF541A)",HP
-5427,"Royal 203A Magenta Compatible (CF543A)",CF543A,5138,"HP 203A Magneta Toner Laserjet (CF543A)",HP
-5426,"Royal 203A Yellow Compatible (CF542A)",CF542A,5137,"HP 203A Yellow Toner Laserjet (CF542A)",HP
-5425,"Royal 26A Black Compatible (CF226A)",CF226A,5126,"HP 26A Black Toner Laserjet (CF226A)",HP
-5424,"Royal 304A Compatible Toners Each",304A,5125,"HP 304A Black Toner Original Laserjet (CC530A)",HP
-5423,"Royal 305A Black Compatible (CE410A)",CE410A,5121,"HP 305A Black Toner Catridge (CE410A)",HP
-5422,"Royal 305A Cyan Compatible (CE411A)",CE411A,5120,"HP 305A Cyan Toner Catridge (CE411A)",HP
-5420,"Royal 305A Yellow Compatible (CE412A)",CE412A,5119,"HP 305A Yellow Toner Laserjet (CE412A)",HP
-5419,"Royal 410A Yellow Compatible (CF412A)",CF412A,5104,"HP 410A Yellow Toner Laserjet (CF412A)",HP
-5417,"Royal 59A Black Compatible (CF259A)",CF259A,5081,"HP 59A Black Toner Catridge (CF259A)",HP
-5416,"Royal 78A Black Compatible (CE278A)",CE278A,5065,"HP 78A Black Toner Laserjet (CE278A)",HP
-5415,"Royal 80A Black Compatible (CF280A)",CF280A,4603,"HP 80A Black Original Laserjet Toner Cartridge (CF280A)",HP
-5414,"Royal 83A Black Compatible (CF283A)",CF283A,5057,"HP 83A Black Toner Laserjet (CF283A)",HP
-5413,"Royal 85A Black Compatible (CE285A)",CE285A,5056,"HP 85A Black Toner Laserjet (CE285A)",HP
-5411,"Royal Compatible 150A",150A,4822,"HP 150A Black Original Laserjet Toner Cartridge",HP
-5408,"Royal Compatible 207A",207A,4166,"HP 207A Black Original Laserjet Toner Cartridge",HP
-5407,"Royal Compatible 212A",212A,5129,"HP 212A Toner Cartridges Cym Each",HP
-5406,"Royal Compatible 216A",216A,4796,"HP 216A Black Original Laserjet Toner Cartridge",HP
-5404,"Royal Compatible 415A  BLACK",415A,4160,"HP 415A Black Original Laserjet Toner Cartridge",HP
-3558,"Royal Superior 106A (W1106A) Laserjet Toner Cartridge",W1106A,5182,"HP 106A Black Toner Cartridge (W1106A)",HP
-4172,"Royal Superior 107A Laserjet Toner Cartridge",107A,4175,"HP 107A Black Original Laserjet Toner Cartridge",HP
-4169,"Royal Superior 117A Laserjet Toner Cartridge",117A,4793,"HP 117A Black Original Laserjet Toner Cartridge",HP
-4193,"Royal Superior 125A/128A/131A Laserjet Toner Cartridge",125A,5176,"HP 125A Black Toner Laserjet Catridge (CB540A)",HP
-3554,"Royal Superior 12A Laserjet Toner Cartridge",12A,3556,"HP 12A Black Original Laserjet Toner Cartridge",HP
-4181,"Royal Superior 147A (W1470A) Laserjet Toner Cartridge",W1470A,5151,"HP 147A Black Toner Laserjet Cartridge (W1470A)",HP
-4184,"Royal Superior 151A (W1510A) Laserjet Toner Cartridge",W1510A,4592,"HP 151A Black Laserjet Toner Cartridge (W1510A)",HP
-4074,"Royal Superior 17A Laserjet Toner Cartridge",17A,4077,"HP 17A Black Original Laserjet Toner Cartridge",HP
-4120,"Royal Superior 19A Laserjet Toner Cartridge",19A,5145,"HP 19A Imaging Drum Unit",HP
-4071,"Royal Superior 203A Laserjet Toner Cartridge",203A,4799,"HP 203A Black Original Laserjet Toner Cartridge",HP
-4065,"Royal Superior 205A Laserjet Toner Cartridge",205A,4068,"HP 205A Black Original Laserjet Toner Cartridge",HP
-4163,"Royal Superior 207A Laserjet Toner Cartridge",207A,4166,"HP 207A Black Original Laserjet Toner Cartridge",HP
-4154,"Royal Superior 216A Laserjet Toner Cartridge",216A,4796,"HP 216A Black Original Laserjet Toner Cartridge",HP
-4142,"Royal Superior 26A Laserjet Toner Cartridge",26A,4145,"HP 26A Black Original Laserjet Toner Cartridge",HP
-4126,"Royal Superior 30A Laserjet Toner Cartridge",30A,4129,"HP 30A Black Original Laserjet Toner Cartridge",HP
-4135,"Royal Superior 32A Laserjet Toner Cartridge",32A,4138,"HP 32A Original Laserjet Imaging Drum",HP
-3545,"Royal Superior 36A Laserjet Toner Cartridge",36A,3548,"HP 36A Black Original Laserjet Toner Cartridge",HP
-4157,"Royal Superior 415A Laserjet Toner Cartridge",415A,4160,"HP 415A Black Original Laserjet Toner Cartridge",HP
-3562,"Royal Superior 55A Laserjet Toner Cartridge",55A,3565,"HP 55A Black Original Laserjet Toner Cartridge",HP
-3533,"Royal Superior 59A Laserjet Toner Cartridge",59A,3535,"HP 59A Black Original Laserjet Toner Cartridge",HP
-4187,"Royal Superior 76A (CF276A) Laserjet Toner Cartridge",CF276A,5066,"HP 76A Black Toner Laserjet Cartridge (CF276A)",HP
-3550,"Royal Superior 78A Laserjet Toner Cartridge",78A,3552,"HP 78A Black Original Laserjet Toner Cartridge",HP
-4148,"Royal Superior 79A Laserjet Toner Cartridge",79A,5064,"HP 79A Black Laserjet Toner Cartridge",HP
-3540,"Royal Superior 83A Laserjet Toner Cartridge",83A,3542,"HP 83A Black Original Laserjet Toner Cartridge",HP
-4540,"Royal Superior Laserjet Toner Cartridge 150A",150A,4822,"HP 150A Black Original Laserjet Toner Cartridge",HP
-4919,"Royal Superior Laserjet Toner Cartridge 222A",222A,9612,"HP 222A Black Original Laserjet Toner Cartridge",HP
-4922,"Royal Superior Laserjet Toner Cartridge 230A",230A,9613,"HP 230A Cyan Original Laserjet Toner Cartridge",HP
-4528,"Royal Superior Laserjet Toner Cartridge 85A/35A",85A,4580,"HP 85A Black Original Laserjet Toner Cartridge",HP
-5051,"Royal TK 1110 Original Toner Cartridge",TK-1110,4853,"Kyocera TK-1110 Toner Cartridge",Kyocera
-5386,"Royal TK 1120 Original Toner Cartridge",TK-1120,4232,"Kyocera TK-1120 Toner Cartridge",Kyocera
-5385,"Royal TK 1120 Toner Compatible Cartridge",TK-1120,4232,"Kyocera TK-1120 Toner Cartridge",Kyocera
-5383,"Royal TK 1150 Black Toner Cartridge",TK-1150,4717,"Kyocera TK-1150 Toner Cartridge",Kyocera
-5382,"Royal TK 1150 Compatible Black Toner Cartridge",TK-1150,4717,"Kyocera TK-1150 Toner Cartridge",Kyocera
-5381,"Royal TK 1160 Black Toner Cartridge",TK-1160,4247,"Kyocera TK-1160 Toner Cartridge",Kyocera
-5380,"Royal TK 1170 Black Toner Cartridge",TK-1170,4244,"Kyocera TK-1170 Toner Cartridge",Kyocera
-5017,"Royal TK 130 Black Toner Cartridge",TK-130,4223,"Kyocera TK-130 Toner Cartridge",Kyocera
-5050,"Royal TK 3060 Black Toner Cartridge",TK-3060,4268,"Kyocera TK-3060 Toner Cartridge",Kyocera
-5049,"Royal TK 3060 Compatible Black Toner Cartridge",TK-3060,4268,"Kyocera TK-3060 Toner Cartridge",Kyocera
-5014,"Royal TK 3130 Compatible Black Toner Cartridge",TK-3130,4214,"Kyocera TK-3130 Toner Cartridge",Kyocera
-5396,"Royal TK 340 Black Toner Laser Cartridge",TK-340,4262,"Kyocera TK-340 Toner Cartridge",Kyocera
-5377,"Royal TK 410 Compatible Black Toner Cartridge",TK-410,4838,"Kyocera TK-410 Toner Cartridge",Kyocera
-5012,"Royal TK 410/435 Black Toner Cartridge",TK-410,4838,"Kyocera TK-410 Toner Cartridge",Kyocera
-5009,"Royal TK 4175 Black Compatible Toner",TK-4175,4726,"Kyocera TK-4175 Toner Cartridge",Kyocera
-5006,"Royal TK 475 Black Toner Cartridge",TK-475,4211,"Kyocera TK-475 Toner Cartridge",Kyocera
-5005,"Royal TK 475 Compatible Black Toner Cartridge",TK-475,4211,"Kyocera TK-475 Toner Cartridge",Kyocera
-5048,"Royal TK 5150 Compatible Toner Cartridge Each",TK-5150,4265,"Kyocera TK-5150 Toner Cartridge",Kyocera
-5002,"Royal TK 5240 Genuine Toner Cartridges Each",TK-5240,4286,"Kyocera TK-5240 Toner Cartridge",Kyocera
-5372,"Royal TK 5270 Black Toner Cartridge",TK-5270,4292,"Kyocera TK-5270 Toner Cartridge",Kyocera
-5371,"Royal TK 5270 Cmy Toner Cartridge Each",TK-5270,4292,"Kyocera TK-5270 Toner Cartridge",Kyocera
-5370,"Royal TK 5270 Compatible Black Toner Cartridge Each",TK-5270,4292,"Kyocera TK-5270 Toner Cartridge",Kyocera
-5369,"Royal TK 5280 Black Toner Cartridge",TK-5280,4295,"Kyocera TK-5280 Toner Cartridge",Kyocera
-5368,"Royal TK 5280 Compatible Toner Each",TK-5280,4295,"Kyocera TK-5280 Toner Cartridge",Kyocera
-5367,"Royal TK 5280 Cym Color Toner Each",TK-5280,4295,"Kyocera TK-5280 Toner Cartridge",Kyocera
-5394,"Royal TK 590 Compatible Toner Cartridges Each",TK-590,4301,"Kyocera TK-590 Toner Cartridge",Kyocera
-4998,"Royal TK 590 Toner Cartridges Each",TK-590,4301,"Kyocera TK-590 Toner Cartridge",Kyocera
-5365,"Royal TK 6115 Compatible Black Toner Cartridge",TK-6115,4229,"Kyocera TK-6115 Toner Cartridge",Kyocera
-5364,"Royal TK 6325 Toner Taskalfa 4002I 5002I 5003I 6002I",TK-6325,4729,"Kyocera TK-6325 Toner Cartridge",Kyocera
-4995,"Royal TK 675 Black Toner Cartridge",TK-675,4226,"Kyocera TK-675 Toner Cartridge",Kyocera
-5044,"Royal TK 675 Compatible Black Toner Cartridge",TK-675,4226,"Kyocera TK-675 Toner Cartridge",Kyocera
-5362,"Royal TK 7105 Compatible Black Toner Cartridge",TK-7105,4259,"Kyocera TK-7105 Toner Cartridge",Kyocera
-5042,"Royal TK 7125 Black Toner",TK-7125,4271,"Kyocera TK-7125 Toner Cartridge",Kyocera
-4994,"Royal TK 715 Black Toner Cartridge",TK-715,4253,"Kyocera TK-715 Toner Cartridge",Kyocera
-4993,"Royal TK 715 Compatible Black Toner",TK-715,4253,"Kyocera TK-715 Toner Cartridge",Kyocera
-5361,"Royal TK 7205 Black Toner Cartridge",TK-7205,4841,"Kyocera TK-7205 Toner Cartridge",Kyocera
-5360,"Royal TK 7205 Compatible Black Toner Cartridge",TK-7205,4841,"Kyocera TK-7205 Toner Cartridge",Kyocera
-5041,"Royal TK 7225 Black Toner",TK-7225,4274,"Kyocera TK-7225 Toner Cartridge",Kyocera
-5040,"Royal TK 7225 Compatible Black Toner",TK-7225,4274,"Kyocera TK-7225 Toner Cartridge",Kyocera
-5035,"Royal TK 8325 Black Toner Cartridge",TK-8325,4283,"Kyocera TK-8325 Toner Cartridge",Kyocera
-5034,"Royal TK 8325 Cmy Cartridge",TK-8325,4283,"Kyocera TK-8325 Toner Cartridge",Kyocera
-5033,"Royal TK 8335  black Each Toner Cartridge",TK-8335,4280,"Kyocera TK-8335 Toner Cartridge",Kyocera
-4989,"Royal TK 8365 Compatible Black Toner",TK-8365,4773,"Kyocera TK-8365 Toner Cartridge",Kyocera
-4983,"Royal Toner Cartridge 85A/35A Black",85A,4580,"HP 85A Black Original Laserjet Toner Cartridge",HP
-4982,"Royal Toner Cartridge 90A/64A",90A,4787,"HP 90A Black Original Laserjet Toner Cartridge",HP
+royal_id,royal_name,code,sibling_id,sibling_name
+5403,"Royal 05A Black Compatible (CE505A)",CE505A,4599,"HP 05A Black Original Laserjet Toner Cartridge (CE505A)"
+5402,"Royal 106A Compatible Black Toners Cartridge (W1106A)",W1106A,5182,"HP 106A Black Toner Cartridge (W1106A)"
+5401,"Royal 117A Compatible Toner Each",117A,4793,"HP 117A Black Original Laserjet Toner Cartridge"
+5400,"Royal 12A Black Compatible (Q2612A)",Q2612A,5163,"HP 12A Black Toner Original Catridge (Q2612A)"
+5399,"Royal 136A Black Compatible Toner Cartridge",136A,,""
+5398,"Royal 17A Black Compatible (CF217A)",CF217A,5146,"HP 17A Black Toner Laserjet (CF217A)"
+5397,"Royal 201A Black Compatible (CF400A)",CF400A,5144,"HP 201A Black Toner Laserjet (CF400A)"
+5433,"Royal 201A Black Compatible (CF540A)",CF540A,5140,"HP 203A Black Toner Laserjet (CF540A)"
+5432,"Royal 201A Cyan Compatible (CF401A)",CF401A,5143,"HP 201A Cyan Toner Laserjet (CF401A)"
+5431,"Royal 201A Magneta Compatible (CF403A)",CF403A,5142,"HP 201A Magneta Toner Laserjet (CF403A)"
+5430,"Royal 201A Yellow Compatible (CF402A)",CF402A,5141,"HP 201A Yellow Toner Laserjet (CF402A)"
+5429,"Royal 203A Black Compatible (CF540A)",CF540A,5140,"HP 203A Black Toner Laserjet (CF540A)"
+5428,"Royal 203A Cyan Compatible (CF541A)",CF541A,5139,"HP 203A Cyan Toner Laserjet (CF541A)"
+5427,"Royal 203A Magenta Compatible (CF543A)",CF543A,5138,"HP 203A Magneta Toner Laserjet (CF543A)"
+5426,"Royal 203A Yellow Compatible (CF542A)",CF542A,5137,"HP 203A Yellow Toner Laserjet (CF542A)"
+5425,"Royal 26A Black Compatible (CF226A)",CF226A,5126,"HP 26A Black Toner Laserjet (CF226A)"
+5424,"Royal 304A Compatible Toners Each",304A,5125,"HP 304A Black Toner Original Laserjet (CC530A)"
+5423,"Royal 305A Black Compatible (CE410A)",CE410A,5121,"HP 305A Black Toner Catridge (CE410A)"
+5422,"Royal 305A Cyan Compatible (CE411A)",CE411A,5120,"HP 305A Cyan Toner Catridge (CE411A)"
+5421,"Royal 305A Magenta Compatible (CE413A)",CE413A,,""
+5420,"Royal 305A Yellow Compatible (CE412A)",CE412A,5119,"HP 305A Yellow Toner Laserjet (CE412A)"
+5419,"Royal 410A Yellow Compatible (CF412A)",CF412A,5104,"HP 410A Yellow Toner Laserjet (CF412A)"
+5418,"Royal 415A Compatible Each Color (W2030/1/2/3)",W2030,,""
+5023,"Royal 44A Toner",44A,,""
+5417,"Royal 59A Black Compatible (CF259A)",CF259A,5081,"HP 59A Black Toner Catridge (CF259A)"
+5416,"Royal 78A Black Compatible (CE278A)",CE278A,5065,"HP 78A Black Toner Laserjet (CE278A)"
+5415,"Royal 80A Black Compatible (CF280A)",CF280A,4603,"HP 80A Black Original Laserjet Toner Cartridge (CF280A)"
+5414,"Royal 83A Black Compatible (CF283A)",CF283A,5057,"HP 83A Black Toner Laserjet (CF283A)"
+5413,"Royal 85A Black Compatible (CE285A)",CE285A,5056,"HP 85A Black Toner Laserjet (CE285A)"
+5412,"Royal Compatible 145A",145A,,""
+5411,"Royal Compatible 150A",150A,4822,"HP 150A Black Original Laserjet Toner Cartridge"
+5410,"Royal Compatible 151A",151A,,""
+5409,"Royal Compatible 202A",202A,,""
+5408,"Royal Compatible 207A",207A,4166,"HP 207A Black Original Laserjet Toner Cartridge"
+5407,"Royal Compatible 212A",212A,5129,"HP 212A Toner Cartridges Cym Each"
+5406,"Royal Compatible 216A",216A,4796,"HP 216A Black Original Laserjet Toner Cartridge"
+5404,"Royal Compatible 415A  BLACK",415A,4160,"HP 415A Black Original Laserjet Toner Cartridge"
+5021,"Royal Compatible TK-1282",TK-1282,,""
+3558,"Royal Superior 106A (W1106A) Laserjet Toner Cartridge",W1106A,5182,"HP 106A Black Toner Cartridge (W1106A)"
+4172,"Royal Superior 107A Laserjet Toner Cartridge",107A,4175,"HP 107A Black Original Laserjet Toner Cartridge"
+4169,"Royal Superior 117A Laserjet Toner Cartridge",117A,4793,"HP 117A Black Original Laserjet Toner Cartridge"
+4193,"Royal Superior 125A/128A/131A Laserjet Toner Cartridge",125A,5176,"HP 125A Black Toner Laserjet Catridge (CB540A)"
+3554,"Royal Superior 12A Laserjet Toner Cartridge",12A,3556,"HP 12A Black Original Laserjet Toner Cartridge"
+4178,"Royal Superior 136A Laserjet Toner Cartridge",136A,,""
+4181,"Royal Superior 147A (W1470A) Laserjet Toner Cartridge",W1470A,5151,"HP 147A Black Toner Laserjet Cartridge (W1470A)"
+4184,"Royal Superior 151A (W1510A) Laserjet Toner Cartridge",W1510A,4592,"HP 151A Black Laserjet Toner Cartridge (W1510A)"
+4074,"Royal Superior 17A Laserjet Toner Cartridge",17A,4077,"HP 17A Black Original Laserjet Toner Cartridge"
+4120,"Royal Superior 19A Laserjet Toner Cartridge",19A,5145,"HP 19A Imaging Drum Unit"
+4071,"Royal Superior 203A Laserjet Toner Cartridge",203A,4799,"HP 203A Black Original Laserjet Toner Cartridge"
+4065,"Royal Superior 205A Laserjet Toner Cartridge",205A,4068,"HP 205A Black Original Laserjet Toner Cartridge"
+4202,"Royal Superior 206A Laserjet Toner Cartridge",206A,,""
+4163,"Royal Superior 207A Laserjet Toner Cartridge",207A,4166,"HP 207A Black Original Laserjet Toner Cartridge"
+4154,"Royal Superior 216A Laserjet Toner Cartridge",216A,4796,"HP 216A Black Original Laserjet Toner Cartridge"
+4142,"Royal Superior 26A Laserjet Toner Cartridge",26A,4145,"HP 26A Black Original Laserjet Toner Cartridge"
+4126,"Royal Superior 30A Laserjet Toner Cartridge",30A,4129,"HP 30A Black Original Laserjet Toner Cartridge"
+4135,"Royal Superior 32A Laserjet Toner Cartridge",32A,4138,"HP 32A Original Laserjet Imaging Drum"
+3545,"Royal Superior 36A Laserjet Toner Cartridge",36A,3548,"HP 36A Black Original Laserjet Toner Cartridge"
+4157,"Royal Superior 415A Laserjet Toner Cartridge",415A,4160,"HP 415A Black Original Laserjet Toner Cartridge"
+3562,"Royal Superior 55A Laserjet Toner Cartridge",55A,3565,"HP 55A Black Original Laserjet Toner Cartridge"
+3533,"Royal Superior 59A Laserjet Toner Cartridge",59A,3535,"HP 59A Black Original Laserjet Toner Cartridge"
+4187,"Royal Superior 76A (CF276A) Laserjet Toner Cartridge",CF276A,5066,"HP 76A Black Toner Laserjet Cartridge (CF276A)"
+3550,"Royal Superior 78A Laserjet Toner Cartridge",78A,3552,"HP 78A Black Original Laserjet Toner Cartridge"
+4148,"Royal Superior 79A Laserjet Toner Cartridge",79A,5064,"HP 79A Black Laserjet Toner Cartridge"
+3540,"Royal Superior 83A Laserjet Toner Cartridge",83A,3542,"HP 83A Black Original Laserjet Toner Cartridge"
+3567,"Royal Superior 88A Laserjet Toner Cartridge",88A,,""
+4540,"Royal Superior Laserjet Toner Cartridge 150A",150A,4822,"HP 150A Black Original Laserjet Toner Cartridge"
+4916,"Royal Superior Laserjet Toner Cartridge 202A",202A,,""
+4919,"Royal Superior Laserjet Toner Cartridge 222A",222A,9612,"HP 222A Black Original Laserjet Toner Cartridge"
+4922,"Royal Superior Laserjet Toner Cartridge 230A",230A,9613,"HP 230A Cyan Original Laserjet Toner Cartridge"
+4528,"Royal Superior Laserjet Toner Cartridge 85A/35A",85A,4580,"HP 85A Black Original Laserjet Toner Cartridge"
+5051,"Royal TK 1110 Original Toner Cartridge",TK-1110,4853,"Kyocera TK-1110 Toner Cartridge"
+5386,"Royal TK 1120 Original Toner Cartridge",TK-1120,4232,"Kyocera TK-1120 Toner Cartridge"
+5385,"Royal TK 1120 Toner Compatible Cartridge",TK-1120,4232,"Kyocera TK-1120 Toner Cartridge"
+5384,"Royal TK 1140 Black Toner Cartridge",TK-1140,,""
+5383,"Royal TK 1150 Black Toner Cartridge",TK-1150,4717,"Kyocera TK-1150 Toner Cartridge"
+5382,"Royal TK 1150 Compatible Black Toner Cartridge",TK-1150,4717,"Kyocera TK-1150 Toner Cartridge"
+5381,"Royal TK 1160 Black Toner Cartridge",TK-1160,4247,"Kyocera TK-1160 Toner Cartridge"
+5380,"Royal TK 1170 Black Toner Cartridge",TK-1170,4244,"Kyocera TK-1170 Toner Cartridge"
+5018,"Royal TK 1240 Black & TK 1242 Compatible Toner Cartridge",TK-1240,,""
+5017,"Royal TK 130 Black Toner Cartridge",TK-130,4223,"Kyocera TK-130 Toner Cartridge"
+5016,"Royal TK 170 Black Toner Cartridge",TK-170,,""
+5050,"Royal TK 3060 Black Toner Cartridge",TK-3060,4268,"Kyocera TK-3060 Toner Cartridge"
+5049,"Royal TK 3060 Compatible Black Toner Cartridge",TK-3060,4268,"Kyocera TK-3060 Toner Cartridge"
+5015,"Royal TK 3100 Black Compatible Toner Cartridge",TK-3100,,""
+5014,"Royal TK 3130 Compatible Black Toner Cartridge",TK-3130,4214,"Kyocera TK-3130 Toner Cartridge"
+5379,"Royal TK 3150 Black Toner Cartridge",TK-3150,,""
+5378,"Royal TK 3150 Compatible Black Toner Cartridge",TK-3150,,""
+5013,"Royal TK 3300Black Toner Cartridge",TK-3300,,""
+5396,"Royal TK 340 Black Toner Laser Cartridge",TK-340,4262,"Kyocera TK-340 Toner Cartridge"
+5377,"Royal TK 410 Compatible Black Toner Cartridge",TK-410,4838,"Kyocera TK-410 Toner Cartridge"
+5012,"Royal TK 410/435 Black Toner Cartridge",TK-410,4838,"Kyocera TK-410 Toner Cartridge"
+5375,"Royal TK 4105 Compatible Black Toner Cartridge",TK-4105,,""
+5011,"Royal TK 4145 Compatible Black Toner Cartridge",TK-4145,,""
+5009,"Royal TK 4175 Black Compatible Toner",TK-4175,4726,"Kyocera TK-4175 Toner Cartridge"
+5008,"Royal TK 435 Black Toner Cartridge",TK-435,,""
+5007,"Royal TK 435 Compatible Black Toner Cartridge",TK-435,,""
+5006,"Royal TK 475 Black Toner Cartridge",TK-475,4211,"Kyocera TK-475 Toner Cartridge"
+5005,"Royal TK 475 Compatible Black Toner Cartridge",TK-475,4211,"Kyocera TK-475 Toner Cartridge"
+5004,"Royal TK 5135 Toners Cymk Cartridges Each",TK-5135,,""
+5003,"Royal TK 5140 Toner Cartridge Each",TK-5140,,""
+5048,"Royal TK 5150 Compatible Toner Cartridge Each",TK-5150,4265,"Kyocera TK-5150 Toner Cartridge"
+5374,"Royal TK 5230 Colors Cym Compatible Toners Each",TK-5230,,""
+5395,"Royal TK 5230 Genuine Toner Cartridge Each",TK-5230,,""
+5373,"Royal TK 5230K Compatible Black Toner",TK-5230K,,""
+5002,"Royal TK 5240 Genuine Toner Cartridges Each",TK-5240,4286,"Kyocera TK-5240 Toner Cartridge"
+5372,"Royal TK 5270 Black Toner Cartridge",TK-5270,4292,"Kyocera TK-5270 Toner Cartridge"
+5371,"Royal TK 5270 Cmy Toner Cartridge Each",TK-5270,4292,"Kyocera TK-5270 Toner Cartridge"
+5370,"Royal TK 5270 Compatible Black Toner Cartridge Each",TK-5270,4292,"Kyocera TK-5270 Toner Cartridge"
+5369,"Royal TK 5280 Black Toner Cartridge",TK-5280,4295,"Kyocera TK-5280 Toner Cartridge"
+5368,"Royal TK 5280 Compatible Toner Each",TK-5280,4295,"Kyocera TK-5280 Toner Cartridge"
+5367,"Royal TK 5280 Cym Color Toner Each",TK-5280,4295,"Kyocera TK-5280 Toner Cartridge"
+5001,"Royal TK 5370 Black Toner Cartridge",TK-5370,,""
+5000,"Royal TK 5370 Compatible Toner Cartridge",TK-5370,,""
+4999,"Royal TK 5370 Cym Toner Cartridge Each",TK-5370,,""
+5394,"Royal TK 590 Compatible Toner Cartridges Each",TK-590,4301,"Kyocera TK-590 Toner Cartridge"
+4998,"Royal TK 590 Toner Cartridges Each",TK-590,4301,"Kyocera TK-590 Toner Cartridge"
+5365,"Royal TK 6115 Compatible Black Toner Cartridge",TK-6115,4229,"Kyocera TK-6115 Toner Cartridge"
+5047,"Royal TK 6305 Black Toner Cartridge",TK-6305,,""
+5046,"Royal TK 6305 Compatible Black Toner Cartridge",TK-6305,,""
+5364,"Royal TK 6325 Toner Taskalfa 4002I 5002I 5003I 6002I",TK-6325,4729,"Kyocera TK-6325 Toner Cartridge"
+4997,"Royal TK 6345 Black Toner",TK-6345,,""
+5045,"Royal TK 6705 Black Toner Cartridge",TK-6705,,""
+4996,"Royal TK 6725 Toner Cartridge",TK-6725,,""
+4995,"Royal TK 675 Black Toner Cartridge",TK-675,4226,"Kyocera TK-675 Toner Cartridge"
+5044,"Royal TK 675 Compatible Black Toner Cartridge",TK-675,4226,"Kyocera TK-675 Toner Cartridge"
+5043,"Royal TK 685 Black Toner Cartridge",TK-685,,""
+5362,"Royal TK 7105 Compatible Black Toner Cartridge",TK-7105,4259,"Kyocera TK-7105 Toner Cartridge"
+5042,"Royal TK 7125 Black Toner",TK-7125,4271,"Kyocera TK-7125 Toner Cartridge"
+4994,"Royal TK 715 Black Toner Cartridge",TK-715,4253,"Kyocera TK-715 Toner Cartridge"
+4993,"Royal TK 715 Compatible Black Toner",TK-715,4253,"Kyocera TK-715 Toner Cartridge"
+5361,"Royal TK 7205 Black Toner Cartridge",TK-7205,4841,"Kyocera TK-7205 Toner Cartridge"
+5360,"Royal TK 7205 Compatible Black Toner Cartridge",TK-7205,4841,"Kyocera TK-7205 Toner Cartridge"
+5041,"Royal TK 7225 Black Toner",TK-7225,4274,"Kyocera TK-7225 Toner Cartridge"
+5040,"Royal TK 7225 Compatible Black Toner",TK-7225,4274,"Kyocera TK-7225 Toner Cartridge"
+4992,"Royal TK 7235 Black Toner Cartridge",TK-7235,,""
+4991,"Royal TK 7235 Compatible Black Toner Cartridge",TK-7235,,""
+5039,"Royal TK 8115 Compatible Toner Cartridge Each",TK-8115,,""
+5038,"Royal TK 8115 Toner Cartridge Each",TK-8115,,""
+5037,"Royal TK 8305 Black Toner Cartridge",TK-8305,,""
+4990,"Royal TK 8305 Compatible Toners Each",TK-8305,,""
+5036,"Royal TK 8305 Cym Black Toner Each",TK-8305,,""
+5035,"Royal TK 8325 Black Toner Cartridge",TK-8325,4283,"Kyocera TK-8325 Toner Cartridge"
+5034,"Royal TK 8325 Cmy Cartridge",TK-8325,4283,"Kyocera TK-8325 Toner Cartridge"
+5033,"Royal TK 8335  black Each Toner Cartridge",TK-8335,4280,"Kyocera TK-8335 Toner Cartridge"
+5031,"Royal TK 8345 Cym Color Toner Cartridge",TK-8345,,""
+5030,"Royal TK 8345K Black Toner Cartridge",TK-8345K,,""
+4989,"Royal TK 8365 Compatible Black Toner",TK-8365,4773,"Kyocera TK-8365 Toner Cartridge"
+4988,"Royal TK 8375 Color Toners Cmy Each",TK-8375,,""
+4987,"Royal TK 8375K Black Toner",TK-8375K,,""
+5393,"Royal TK 8505 Compatible Toner Cartridge Each",TK-8505,,""
+5392,"Royal TK 8505 Toner Cartridge Each",TK-8505,,""
+5391,"Royal TK 8515 Compatible Toners CMYK Each",TK-8515,,""
+5390,"Royal TK 8515C Cyan Cartridge",TK-8515C,,""
+5389,"Royal TK 8515K Black Cartridge",TK-8515K,,""
+5388,"Royal TK 8515M Magenta Cartridge",TK-8515M,,""
+5387,"Royal TK 8515Y Yellow Cartridge",TK-8515Y,,""
+5029,"Royal TK 8525 Cmy Toner Each",TK-8525,,""
+5028,"Royal TK 8525 Compatible Toner Cartridge CMYK Each",TK-8525,,""
+5027,"Royal TK 8525K Black Toner Catridge",TK-8525K,,""
+5026,"Royal TK 8545 Cmy Toner Each",TK-8545,,""
+5359,"Royal TK 8545K Black Toner Cartridge",TK-8545K,,""
+5025,"Royal TK 8555 Cym Toner Cartridge",TK-8555,,""
+5024,"Royal TK 8555K Compatible Black Toner",TK-8555K,,""
+5358,"Royal TK 8705 Black Toner Each Cym",TK-8705,,""
+4985,"Royal Toner Cartridge 407S",407S,,""
+4983,"Royal Toner Cartridge 85A/35A Black",85A,4580,"HP 85A Black Original Laserjet Toner Cartridge"
+4982,"Royal Toner Cartridge 90A/64A",90A,4787,"HP 90A Black Original Laserjet Toner Cartridge"
+4980,"Royal Toner Cartridge W1816A Black",W1816A,,""

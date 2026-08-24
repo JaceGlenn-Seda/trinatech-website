@@ -854,9 +854,110 @@ Do I need the other colours to print? Yes, all cartridges (including black) must
 What is the delivery time? We offer same-day delivery in Nairobi CBD, and next-day dispatch countrywide.
 What is your warranty or returns policy? Sealed genuine Canon inks come with a standard manufacturer warranty against defects.
 Will this ink smear if I use a highlighter? No, the DRHD pigment ink formulation resists smudging from highlighters.`, "metaTitle": "Canon PGI-2400XL Cyan Ink Cartridge", "metaDescription": "Genuine Canon PGI-2400XL high-yield cyan ink, approx 1,755 pages, for MAXIFY MB5040, MB5140, MB5440. Genuine stock at Trinatech.", "inStock": true},
-  {"id": 5524, "sku": "GI-2400X-2", "name": "Canon PGI-2400XL Magenta Ink Cartridge", "brand": "Canon", "category": "Canon Ink Cartridges", "price": 3500, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/Canon-PGI-2400XL-Magenta-Ink-Cartridge.webp", "imageFile": "Canon-PGI-2400XL-Magenta-Ink-Cartridge.webp", "description": "CANON PGI-2400XL MAGENTA INK CARTRIDGE", "inStock": true},
-  {"id": 5523, "sku": "GI-2400X", "name": "Canon PGI-2400XL Yellow Ink Cartridge", "brand": "Canon", "category": "Canon Ink Cartridges", "price": 3500, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/Canon-PGI-2400XL-Yellow-Ink-Cartridge.webp", "imageFile": "Canon-PGI-2400XL-Yellow-Ink-Cartridge.webp", "description": "CANON PGI-2400XL YELLOW INK CARTRIDGE", "inStock": true},
-  {"id": 5522, "sku": null, "name": "Canon PGI-35 Black Ink Original Cartridge", "brand": "Canon", "category": "Canon Ink Cartridges", "price": 3500, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/Canon-PGI-35-Black.png", "imageFile": "Canon-PGI-35-Black.png", "description": "CANON PGI-35 BLACK INK ORIGINAL CARTRIDGE", "inStock": true},
+  {"id": 5524, "sku": "GI-2400X-2", "name": "Canon PGI-2400XL Magenta Ink Cartridge", "brand": "Canon", "category": "Canon Ink Cartridges", "price": 3500, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/Canon-PGI-2400XL-Magenta-Ink-Cartridge.webp", "imageFile": "Canon-PGI-2400XL-Magenta-Ink-Cartridge.webp", "description": `The Canon PGI-2400XL Magenta Ink Cartridge is an original high-yield Dual Resistant High Density (DRHD) pigment ink tank built for heavy-duty Canon MAXIFY business inkjet printers. Formulated to deliver smudge-resistant, highlighter-proof magenta text and business graphics across Kenya.
+
+## Compatible printers
+Canon MAXIFY iB4040
+Canon MAXIFY iB4140
+Canon MAXIFY MB5040
+Canon MAXIFY MB5140
+Canon MAXIFY MB5340
+Canon MAXIFY MB5440
+If your model isn't listed, send us the number from the front of the machine and we'll confirm before you pay.
+
+## Specifications
+| Page yield | Cartridge type | Colour | Capacity | Part number | Genuine or compatible |
+|---|---|---|---|---|---|
+| ~1,295 pages | Ink Tank | Magenta | 19.3 ml | 9266B001 / PGI-2400XLM | Genuine |
+
+## Genuine or compatible?
+Genuine Original Canon MAXIFY ink cartridge. Royal compatible brand alternatives are also stocked to help cut costs on high-volume office document printing.
+
+## Why buy from Trinatech
+Stock held in Nairobi CBD.
+Delivery across Kenya including Kisumu, Nakuru, Eldoret, and Mombasa.
+M-Pesa and bank transfer accepted.
+WhatsApp ordering and walk-in options at The One Mall, River Road.
+
+## Getting the most from this cartridge
+Keep in sealed protective packaging until installation.
+Ensure printer lever locks securely over the cartridge slot to maintain a proper air seal.
+
+## Frequently asked questions
+Is a lower yield version available? Yes, standard yield PGI-2400 Magenta (~780 pages) is available if required.
+Are all four colors needed? Yes, MAXIFY printers require active PGI-2400 Black, Cyan, Magenta, and Yellow cartridges to operate.
+How fast is Nairobi delivery? 1 to 3 hours across Nairobi CBD.
+How do I pay? Pay via M-Pesa, bank wire, or cash at counter.
+Is warranty provided? Covered against technical and factory defects under Canon warranty.`, "metaTitle": "Canon PGI-2400XL Magenta Ink Price - Trinatech Kenya", "metaDescription": "Buy genuine Canon PGI-2400XL Magenta high yield ink in Nairobi. Yields ~1,295 pages for MAXIFY MB5140 & MB5440. Fast Kenya shipping.", "inStock": true},
+  {"id": 5523, "sku": "GI-2400X", "name": "Canon PGI-2400XL Yellow Ink Cartridge", "brand": "Canon", "category": "Canon Ink Cartridges", "price": 3500, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/Canon-PGI-2400XL-Yellow-Ink-Cartridge.webp", "imageFile": "Canon-PGI-2400XL-Yellow-Ink-Cartridge.webp", "description": `The Canon PGI-2400XL Yellow Ink Cartridge is an authentic high-capacity DRHD pigment ink cartridge designed for Canon MAXIFY office all-in-ones. Delivers sharp, fade-resistant yellow text and vibrant document graphics across Kenya.
+
+## Compatible printers
+Canon MAXIFY iB4040
+Canon MAXIFY iB4140
+Canon MAXIFY MB5040
+Canon MAXIFY MB5140
+Canon MAXIFY MB5340
+Canon MAXIFY MB5440
+If your model isn't listed, send us the number from the front of the machine and we'll confirm before you pay.
+
+## Specifications
+| Page yield | Cartridge type | Colour | Capacity | Part number | Genuine or compatible |
+|---|---|---|---|---|---|
+| ~1,520 pages | Ink Tank | Yellow | 19.3 ml | 9267B001 / PGI-2400XLY | Genuine |
+
+## Genuine or compatible?
+Original Genuine Canon MAXIFY product. Royal compatible equivalents are available to reduce cost per page on high-volume runs.
+
+## Why buy from Trinatech
+Stock held in Nairobi CBD.
+Delivery across Kenya including Kisumu, Nakuru, Eldoret, and Mombasa.
+M-Pesa and bank transfer accepted.
+WhatsApp ordering and walk-in options at The One Mall, River Road.
+
+## Getting the most from this cartridge
+Store horizontally in cool room temperature.
+Allow newly installed cartridges to prime automatically via display prompts without forcing carriage movement.
+
+## Frequently asked questions
+Is a standard yield option available? Yes, standard capacity PGI-2400 Yellow (~700 pages) is available.
+Do I need all four ink tanks? Yes, printer requires active cartridges in all four bays.
+What is upcountry delivery lead time? Delivered within 24 hours to major hubs nationwide.
+How can I pay? M-Pesa Buy Goods/Till, bank transfer, and cash.
+Is warranty included? Standard shop defect warranty covers unopened units.`, "metaTitle": "Canon PGI-2400XL Yellow Ink Price - Trinatech Kenya", "metaDescription": "Shop genuine Canon PGI-2400XL Yellow high yield ink in Nairobi. Yields ~1,520 pages for MAXIFY MB5140 & MB5440. Fast delivery.", "inStock": true},
+  {"id": 5522, "sku": null, "name": "Canon PGI-35 Black Ink Original Cartridge", "brand": "Canon", "category": "Canon Ink Cartridges", "price": 3500, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/Canon-PGI-35-Black.png", "imageFile": "Canon-PGI-35-Black.png", "description": `The Canon PGI-35 Black Ink Original Cartridge is a portable pigment black ink tank built for Canon PIXMA mobile printers. Delivers laser-sharp text, clear invoice lines, and smudge-resistant text for professionals on the go across Kenya.
+
+## Compatible printers
+Canon PIXMA iP100
+Canon PIXMA iP110
+Canon PIXMA mini260
+Canon PIXMA mini320
+Canon PIXMA TR150
+If your model isn't listed, send us the number from the front of the machine and we'll confirm before you pay.
+
+## Specifications
+| Page yield | Cartridge type | Colour | Capacity | Part number | Genuine or compatible |
+|---|---|---|---|---|---|
+| ~191 pages | Ink Tank | Black (Pigment) | 9 ml | 1509B001 / PGI-35BK | Genuine |
+
+## Genuine or compatible?
+Genuine Original Canon FINE ink tank. Royal compatible PGI-35 alternative tanks fit the same mobile printers at lower costs.
+
+## Why buy from Trinatech
+Stock held in Nairobi CBD.
+Delivery across Kenya including Kisumu, Nakuru, Eldoret, and Mombasa.
+M-Pesa and bank transfer accepted.
+WhatsApp ordering and walk-in options at The One Mall, River Road.
+
+## Getting the most from this cartridge
+Do not leave open ink tanks unseated in mobile printers to prevent printhead drying.
+Snap down carriage latch until click is heard.
+
+## Frequently asked questions
+Is an XL version available? Standard capacity is 9ml yielding ~191 pages for compact mobile operation.
+Is color ink needed too? Yes, pair with CLI-36 Color ink tank for full-color mobile printing.
+How fast is Nairobi delivery? 1 to 3 hours across Nairobi CBD.
+How do I pay? Pay via M-Pesa or bank wire transfer.
+Is smart LED built in? Yes, includes smart status LED indicator.`, "metaTitle": "Canon PGI-35 Black Ink Cartridge Price - Trinatech Kenya", "metaDescription": "Buy genuine Canon PGI-35 black ink cartridge in Nairobi. Yields ~191 pages for PIXMA iP100, iP110, TR150. Fast shipping in Kenya.", "inStock": true},
   {"id": 4341, "sku": null, "name": "Canon Pixma CL-411 Color Ink Cartridge", "brand": "Canon", "category": "Inks & Toner Cartridges", "price": 2400, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2025/01/Canon-Pixma-CL-411-Color-Ink.png", "imageFile": "Canon-Pixma-CL-411-Color-Ink.png", "description": `The Canon Pixma CL-41 Color Ink Cartridge delivers bright Cyan, Magenta, and Yellow dye-based inks for Canon desktop Pixma inkjet printers. Ideal for crisp photo prints, school projects, and vibrant color graphics across Kenya.
 
 ## Compatible printers
@@ -1213,7 +1314,47 @@ How fast is Nairobi shipping? Delivered within 1 to 3 hours.
 How do I pay? Pay via M-Pesa, bank wire, or cash.
 Is warranty provided? Covered against technical defects.`, "metaTitle": "Canon PG-510 Black Ink Cartridge Price - Trinatech Kenya", "metaDescription": "Buy genuine Canon PG-510 black ink cartridge in Nairobi. Yields ~220 pages for MP230, MP250, IP2700. Fast delivery across Kenya.", "inStock": true},
   {"id": 4455, "sku": null, "name": "Canon Pixma TS3340 Printer", "brand": "Canon", "category": "Printers & Copiers", "price": 9000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2025/01/Canon-PIXMA-TS3340.png", "imageFile": "Canon-PIXMA-TS3340.png", "description": "The Canon PIXMA TS3340 Printer is an affordable, all-in-one solution designed to meet the everyday printing, scanning, and copying needs of home users and small offices.", "inStock": true},
-  {"id": 5286, "sku": null, "name": "Canon Premium Comp 490 Ink CMYK", "brand": "Canon", "category": "Master Rolls & Inks", "price": 400, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/Canon-Premium-Comp-490-Ink-CMYK.webp", "imageFile": "Canon-Premium-Comp-490-Ink-CMYK.webp", "description": "CANON PREMIUM COMP 490 INK CMYK", "inStock": true},
+  {"id": 5286, "sku": null, "name": "Canon Premium Comp 490 Ink CMYK", "brand": "Canon", "category": "Master Rolls & Inks", "price": 400, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/Canon-Premium-Comp-490-Ink-CMYK.webp", "imageFile": "Canon-Premium-Comp-490-Ink-CMYK.webp", "description": `The Canon Premium Comp 490 Ink CMYK (GI-490 compatible refill set) provides high-yield, low-cost ink replacement for Canon PIXMA G-series MegaTank printers. Engineered to deliver sharp text documents and clear color photos for home offices in Nairobi.
+
+## Compatible printers
+Canon PIXMA G1400
+Canon PIXMA G1410
+Canon PIXMA G1411
+Canon PIXMA G2400
+Canon PIXMA G2410
+Canon PIXMA G2411
+Canon PIXMA G3400
+Canon PIXMA G3410
+Canon PIXMA G3411
+Canon PIXMA G4400
+Canon PIXMA G4410
+Canon PIXMA G4411
+If your model isn't listed, send us the number from the front of the machine and we'll confirm before you pay.
+
+## Specifications
+| Page yield | Cartridge type | Colour | Capacity | Part number | Genuine or compatible |
+|---|---|---|---|---|---|
+| ~6,000 BK / 7,000 CMY | Refill Ink Bottle Set | Black, Cyan, Magenta, Yellow | 135ml BK / 70ml CMY | GI-490 Compatible | Compatible |
+
+## Genuine or compatible?
+This is a Premium Compatible refill ink set (including our Royal compatible house brand). It fills the same MegaTank reservoirs as original Canon GI-490 bottles at a reduced cost per page. Original Canon GI-490 bottles are also stocked.
+
+## Why buy from Trinatech
+Stock held in Nairobi CBD.
+Delivery across Kenya including Kisumu, Nakuru, Eldoret, and Mombasa.
+M-Pesa and bank transfer accepted.
+WhatsApp ordering and walk-in options at The One Mall, River Road.
+
+## Getting the most from this cartridge
+Refill ink tanks before ink level drops below the lower boundary line.
+Seal bottle nozzles tightly after topping up printer tanks.
+
+## Frequently asked questions
+Are bottles sold individually? Yes, available as individual color/black bottles or as a full CMYK set.
+Will it clog my printhead? High-grade compatible ink is micro-filtered to prevent head clogs.
+How fast is delivery in Nairobi? Delivered within 1 to 3 hours in Nairobi.
+How do I pay? Pay via M-Pesa, bank wire, or cash at counter.
+Is it easy to pour? Yes, key-nozzle bottles allow simple pour refills.`, "metaTitle": "Canon GI-490 Compatible Ink Bottles Set - Trinatech", "metaDescription": "Order compatible GI-490 refill ink set (BK/C/M/Y) in Nairobi. High yield for PIXMA G1400, G2400, G3400. Fast Kenya-wide delivery.", "inStock": true},
   {"id": 4356, "sku": null, "name": "Canon Print Head BH-4 Black", "brand": "Canon", "category": "Printer Parts", "price": 5000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2025/01/Canon-Print-Head-BH-4.png", "imageFile": "Canon-Print-Head-BH-4.png", "description": "The Canon Print Head BH-4 Black is an essential component for ensuring your Canon printer delivers high-quality black text and graphics with every print.", "inStock": true},
   {"id": 5521, "sku": null, "name": "Canon Ts 3340", "brand": "Canon", "category": "Canon Toners", "price": 9000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/Canon-Ts-3340.webp", "imageFile": "Canon-Ts-3340.webp", "description": `The Canon Ts 3340 (Canon PIXMA TS3340) is an affordable, compact wireless all-in-one printer for home offices and students. Offers convenient Wi-Fi printing, copying, and scanning from smartphones, tablets, and laptops across Kenya.
 
@@ -1281,13 +1422,187 @@ Does it print borderless photos? Yes, supports borderless photo printing up to 1
   {"id": 3580, "sku": null, "name": "Epson ERC-31 Ribbon Cartridge", "brand": "Epson", "category": "Inks & Toner Cartridges", "price": 600, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2024/12/Epson-ERC-31-Ribbon.png", "imageFile": "Epson-ERC-31-Ribbon.png", "description": "The Epson ERC-31 Ribbon Cartridge is the ideal solution for businesses and offices looking for consistent, high-quality prints from Epson dot matrix printers.", "inStock": true},
   {"id": 3578, "sku": null, "name": "Epson ERC-38 B Ribbon Cartridge", "brand": "Epson", "category": "Inks & Toner Cartridges", "price": 600, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2024/12/Epson-ERC-38-B-Ribbon.png", "imageFile": "Epson-ERC-38-B-Ribbon.png", "description": "The Epson ERC-38 B Ribbon Cartridge is a high-performance ribbon designed to work seamlessly with a range of Epson dot matrix printers.", "inStock": true},
   {"id": 4511, "sku": null, "name": "Epson Ecotank L1800 Single Function Inktank A3 Photo Printer", "brand": "Epson", "category": "Printers & Copiers", "price": 150000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2025/01/Epson-L1800-Printer.png", "imageFile": "Epson-L1800-Printer.png", "description": "The Epson EcoTank L1800 Single Function InkTank A3 Photo Printer is a professional-grade printer designed for photographers, graphic designers, and businesses.", "inStock": true},
-  {"id": 4496, "sku": null, "name": "Epson Ecotank L3210 A4 All-In-One Ink Tank Printer", "brand": "Epson", "category": "Printers & Copiers", "price": 26000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2025/01/Epson-L3210-Printer.png", "imageFile": "Epson-L3210-Printer.png", "description": "The Epson EcoTank L3210 A4 All-in-One Ink Tank Printer is a highly efficient and cost-effective printing solution designed for homes and small offices.", "inStock": true},
-  {"id": 4499, "sku": null, "name": "Epson Ecotank L3250 A4 Wi-Fi All-In-One Ink Tank Printer", "brand": "Epson", "category": "Printers & Copiers", "price": 27000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2025/01/Epson-L3250-Printer.png", "imageFile": "Epson-L3250-Printer.png", "description": "The Epson EcoTank L3250 A4 Wi-Fi All-in-One Ink Tank Printer is a versatile and cost-efficient solution for home offices and small businesses.", "inStock": true},
-  {"id": 4502, "sku": null, "name": "Epson Ecotank L4260 A4 Wi-Fi Duplex All-In-One Ink Tank Printer", "brand": "Epson", "category": "Printers & Copiers", "price": 48000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2025/01/Epson-L4260-Printer.png", "imageFile": "Epson-L4260-Printer.png", "description": "The Epson EcoTank L4260 A4 Wi-Fi Duplex All-in-One Ink Tank Printer is a highly efficient, cost-effective solution for businesses and home offices.", "inStock": true},
-  {"id": 4493, "sku": null, "name": "Epson Ecotank L5290 A4 Wi-Fi All-In-One Ink Tank Printer", "brand": "Epson", "category": "Printers & Copiers", "price": 57000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2025/01/Epson-L5290-Printer.png", "imageFile": "Epson-L5290-Printer.png", "description": "The Epson EcoTank L5290 A4 Wi-Fi All-in-One Ink Tank Printer is a versatile and cost-effective printing solution designed for home offices and small businesses.", "inStock": true},
-  {"id": 4505, "sku": null, "name": "Epson Ecotank L6490 A4 Ink Tank Printer", "brand": "Epson", "category": "Printers & Copiers", "price": 70000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2025/01/Epson-L6490-Printer.png", "imageFile": "Epson-L6490-Printer.png", "description": "The Epson EcoTank L6490 A4 Ink Tank Printer is an advanced, high-performance solution for growing businesses that require efficient, high-volume printing.", "inStock": true},
+  {"id": 4496, "sku": null, "name": "Epson Ecotank L3210 A4 All-In-One Ink Tank Printer", "brand": "Epson", "category": "Printers & Copiers", "price": 26000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2025/01/Epson-L3210-Printer.png", "imageFile": "Epson-L3210-Printer.png", "description": `The Epson Ecotank L3210 A4 All-In-One Ink Tank Printer is an entry-level EcoTank system designed for ultra-low-cost home and small office printing. Offers high page yields, crisp text, and borderless photo printing up to 4R across Kenya.
+
+## Compatible printers
+Epson EcoTank L3210
+If your model isn't listed, send us the number from the front of the machine and we'll confirm before you pay.
+
+## Specifications
+| Page yield | Cartridge type | Colour | Capacity | Part number | Genuine or compatible |
+|---|---|---|---|---|---|
+| Uses 103 Bottles (~4,500 BK / 7,500 CMY) | Multifunction Ink Tank Printer | Black & Color | A4 / USB | C11CJ68401 / L3210 | Genuine Hardware |
+
+## Genuine or compatible?
+Genuine Original Epson hardware unit. Uses standard Epson 103 refill ink bottles; Royal compatible 103 ink bottles fit this printer at lower operating costs.
+
+## Why buy from Trinatech
+Stock held in Nairobi CBD.
+Delivery across Kenya including Kisumu, Nakuru, Eldoret, and Mombasa.
+M-Pesa and bank transfer accepted.
+WhatsApp ordering and walk-in options at The One Mall, River Road.
+
+## Getting the most from this cartridge
+Position printer on a flat level surface during ink filling.
+Use front-facing ink tank windows to monitor supply levels visually before starting long print jobs.
+
+## Frequently asked questions
+Does it support Wi-Fi? No, the L3210 is a USB-only model; choose L3250 for wireless connectivity.
+Does it come with full ink bottles? Yes, original setup ink bottles are included in the box.
+How fast is delivery in Nairobi? Delivered within 1 to 3 hours across Nairobi CBD.
+How can I pay? Pay via M-Pesa, bank transfer, or cash at shop.
+Is warranty included? Covered under official Epson warranty.`, "metaTitle": "Epson EcoTank L3210 All-in-One Printer - Trinatech Kenya", "metaDescription": "Buy Epson EcoTank L3210 printer in Nairobi, Kenya. Print, scan, copy with ultra-low cost per page. Fast delivery & M-Pesa.", "inStock": true},
+  {"id": 4499, "sku": null, "name": "Epson Ecotank L3250 A4 Wi-Fi All-In-One Ink Tank Printer", "brand": "Epson", "category": "Printers & Copiers", "price": 27000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2025/01/Epson-L3250-Printer.png", "imageFile": "Epson-L3250-Printer.png", "description": `The Epson Ecotank L3250 A4 Wi-Fi All-In-One Ink Tank Printer delivers low-cost wireless printing, scanning, and copying for home offices and students. Supports mobile printing via Epson Smart Panel app and Wi-Fi Direct across Kenya.
+
+## Compatible printers
+Epson EcoTank L3250
+If your model isn't listed, send us the number from the front of the machine and we'll confirm before you pay.
+
+## Specifications
+| Page yield | Cartridge type | Colour | Capacity | Part number | Genuine or compatible |
+|---|---|---|---|---|---|
+| Uses 103 Bottles (~4,500 BK / 7,500 CMY) | Wireless Ink Tank Printer | Black & Color | A4 / Wi-Fi | C11CJ67401 / L3250 | Genuine Hardware |
+
+## Genuine or compatible?
+Genuine Original Epson hardware unit. Refilled using original 103 ink bottles or Royal compatible equivalent 103 bottles for reduced running costs.
+
+## Why buy from Trinatech
+Stock held in Nairobi CBD.
+Delivery across Kenya including Kisumu, Nakuru, Eldoret, and Mombasa.
+M-Pesa and bank transfer accepted.
+WhatsApp ordering and walk-in options at The One Mall, River Road.
+
+## Getting the most from this cartridge
+Connect via Wi-Fi Direct for printing without a router.
+Perform routine nozzle checks from the Epson Smart Panel app on your mobile phone.
+
+## Frequently asked questions
+What is the difference between L3210 and L3250? L3250 adds wireless Wi-Fi and mobile app connectivity.
+Does it print borderless photos? Yes, supports borderless photo printing up to 4R size.
+How long does shipping take? 1 to 3 hours in Nairobi CBD; 24 hours upcountry.
+How can I pay? M-Pesa Buy Goods/Till, bank transfer, and cash.
+Is warranty provided? Yes, standard manufacturer warranty applies.`, "metaTitle": "Epson EcoTank L3250 Wi-Fi Printer Price - Trinatech Kenya", "metaDescription": "Order Epson EcoTank L3250 wireless printer in Nairobi. Print, scan, copy via Wi-Fi & Smart Panel app. Fast Kenya delivery.", "inStock": true},
+  {"id": 4502, "sku": null, "name": "Epson Ecotank L4260 A4 Wi-Fi Duplex All-In-One Ink Tank Printer", "brand": "Epson", "category": "Printers & Copiers", "price": 48000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2025/01/Epson-L4260-Printer.png", "imageFile": "Epson-L4260-Printer.png", "description": `The Epson Ecotank L4260 A4 Wi-Fi Duplex All-In-One Ink Tank Printer features automatic two-sided printing, a 3.7cm color LCD screen, and Wi-Fi Direct. Designed to cut paper consumption and streamline work in offices across Nairobi.
+
+## Compatible printers
+Epson EcoTank L4260
+If your model isn't listed, send us the number from the front of the machine and we'll confirm before you pay.
+
+## Specifications
+| Page yield | Cartridge type | Colour | Capacity | Part number | Genuine or compatible |
+|---|---|---|---|---|---|
+| Uses 101/103 Bottles (~7,500 BK / 6,000 CMY) | Duplex Wi-Fi Ink Tank Printer | Black & Color | A4 / Duplex | C11CJ63401 / L4260 | Genuine Hardware |
+
+## Genuine or compatible?
+Genuine Original Epson hardware unit. Takes pigment black and dye color ink bottles; Royal compatible equivalent bottles fit this printer at lower prices.
+
+## Why buy from Trinatech
+Stock held in Nairobi CBD.
+Delivery across Kenya including Kisumu, Nakuru, Eldoret, and Mombasa.
+M-Pesa and bank transfer accepted.
+WhatsApp ordering and walk-in options at The One Mall, River Road.
+
+## Getting the most from this cartridge
+Enable automatic duplexing in driver settings to save up to 50% on plain paper usage.
+Keep key-lock ink bottles vertical when filling.
+
+## Frequently asked questions
+Does it support automatic double-sided printing? Yes, features automatic A4 duplex printing.
+Does it include black pigment ink? Yes, uses black pigment ink for water-resistant text documents.
+How fast is Nairobi delivery? Same-day inside 1 to 3 hours.
+How do I pay? Pay via M-Pesa or direct bank wire.
+Is warranty included? Standard Epson manufacturer warranty included.`, "metaTitle": "Epson EcoTank L4260 Duplex Printer - Trinatech Kenya", "metaDescription": "Buy Epson EcoTank L4260 duplex Wi-Fi printer in Nairobi. Auto 2-sided printing, color LCD screen. Fast delivery across Kenya.", "inStock": true},
+  {"id": 4493, "sku": null, "name": "Epson Ecotank L5290 A4 Wi-Fi All-In-One Ink Tank Printer", "brand": "Epson", "category": "Printers & Copiers", "price": 57000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2025/01/Epson-L5290-Printer.png", "imageFile": "Epson-L5290-Printer.png", "description": `The Epson Ecotank L5290 A4 Wi-Fi All-In-One Ink Tank Printer is an office-ready multifunction printer equipped with a 30-sheet Automatic Document Feeder (ADF), Fax, and Ethernet connectivity. Perfect for small businesses in Nairobi.
+
+## Compatible printers
+Epson EcoTank L5290
+If your model isn't listed, send us the number from the front of the machine and we'll confirm before you pay.
+
+## Specifications
+| Page yield | Cartridge type | Colour | Capacity | Part number | Genuine or compatible |
+|---|---|---|---|---|---|
+| Uses 103 Bottles (~4,500 BK / 7,500 CMY) | ADF Wi-Fi Fax Ink Tank Printer | Black & Color | A4 / Ethernet / ADF | C11CJ65401 / L5290 | Genuine Hardware |
+
+## Genuine or compatible?
+Genuine Original Epson hardware unit. Refillable using Epson 103 ink bottles or Royal compatible alternative bottles for high-volume savings.
+
+## Why buy from Trinatech
+Stock held in Nairobi CBD.
+Delivery across Kenya including Kisumu, Nakuru, Eldoret, and Mombasa.
+M-Pesa and bank transfer accepted.
+WhatsApp ordering and walk-in options at The One Mall, River Road.
+
+## Getting the most from this cartridge
+Utilize the 30-sheet ADF for fast multi-page scanning and copying without opening the flatbed lid.
+Connect to local network via Ethernet or Wi-Fi.
+
+## Frequently asked questions
+Does it feature an Automatic Document Feeder (ADF)? Yes, includes a 30-sheet ADF for multi-page jobs.
+Does it have Ethernet networking? Yes, supports wired Ethernet, Wi-Fi, and Wi-Fi Direct.
+What is delivery time? 1 to 3 hours in Nairobi; 24 hours upcountry.
+How can I pay? M-Pesa, bank wire, or cash at shop.
+Is warranty provided? Official Epson warranty covers unit.`, "metaTitle": "Epson EcoTank L5290 ADF Printer Price - Trinatech Kenya", "metaDescription": "Order Epson EcoTank L5290 Wi-Fi printer with ADF & Fax in Nairobi. Ultra-low cost per page. Fast delivery across Kenya.", "inStock": true},
+  {"id": 4505, "sku": null, "name": "Epson Ecotank L6490 A4 Ink Tank Printer", "brand": "Epson", "category": "Printers & Copiers", "price": 70000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2025/01/Epson-L6490-Printer.png", "imageFile": "Epson-L6490-Printer.png", "description": `The Epson Ecotank L6490 A4 Ink Tank Printer is a fast, heavy-duty business EcoTank printer using PrecisionCore printhead technology. Features automatic duplexing, 35-sheet ADF, Ethernet, and pigment ink for crisp business docs across Kenya.
+
+## Compatible printers
+Epson EcoTank L6490
+If your model isn't listed, send us the number from the front of the machine and we'll confirm before you pay.
+
+## Specifications
+| Page yield | Cartridge type | Colour | Capacity | Part number | Genuine or compatible |
+|---|---|---|---|---|---|
+| Uses 112 Bottles (~7,500 BK / 6,000 CMY) | PrecisionCore Ink Tank Printer | Black & Color | A4 / Duplex / ADF | C11CJ88401 / L6490 | Genuine Hardware |
+
+## Genuine or compatible?
+Genuine Original Epson hardware unit. Refilled with high-capacity Epson 112 pigment ink bottles; Royal compatible equivalent bottles fit this printer at lower prices.
+
+## Why buy from Trinatech
+Stock held in Nairobi CBD.
+Delivery across Kenya including Kisumu, Nakuru, Eldoret, and Mombasa.
+M-Pesa and bank transfer accepted.
+WhatsApp ordering and walk-in options at The One Mall, River Road.
+
+## Getting the most from this cartridge
+Use the 250-sheet front paper cassette to load full paper reams.
+Utilize PrecisionCore pigment inks for smudge-free, highlightable business reports.
+
+## Frequently asked questions
+Does it support auto double-sided printing? Yes, features automatic A4 duplex printing.
+What ink bottles does it take? Uses Epson 112 all-pigment ink bottle series.
+How fast is Nairobi shipping? Delivered within 1 to 3 hours across Nairobi CBD.
+How can I pay? Pay via M-Pesa, bank wire, or cash.
+Is warranty provided? Covered under Epson official warranty.`, "metaTitle": "Epson EcoTank L6490 A4 Duplex Printer - Trinatech Kenya", "metaDescription": "Buy Epson EcoTank L6490 A4 printer in Nairobi. Fast print speed ~17 ipm, ADF, Duplex, Wi-Fi, Ethernet. CBD stock, fast delivery.", "inStock": true},
   {"id": 4508, "sku": null, "name": "Epson Ecotank L6570 Wi-Fi Duplex Multifunction Adf Inktank Office Printer", "brand": "Epson", "category": "Printers & Copiers", "price": 150000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2025/01/Epson-L6570-Printer.png", "imageFile": "Epson-L6570-Printer.png", "description": "The Epson EcoTank L6570 Wi-Fi Duplex Multifunction ADF InkTank Office Printer is a high-performance, cost-efficient solution for businesses.", "inStock": true},
-  {"id": 4514, "sku": null, "name": "Epson L850 Photo All-In-One Ink Tank Printer", "brand": "Epson", "category": "Printers & Copiers", "price": 70000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2025/01/Epson-L850-Printer.png", "imageFile": "Epson-L850-Printer.png", "description": "The Epson L850 Photo All-in-One Ink Tank Printer is a versatile, high-performance solution for professional-quality photo printing.", "inStock": true},
+  {"id": 4514, "sku": null, "name": "Epson L850 Photo All-In-One Ink Tank Printer", "brand": "Epson", "category": "Printers & Copiers", "price": 70000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2025/01/Epson-L850-Printer.png", "imageFile": "Epson-L850-Printer.png", "description": `The Epson L850 Photo All-In-One Ink Tank Printer is an ITS 6-color photo printer designed for professional photographers, studios, and lab printing in Kenya. Offers low-cost borderless A4 photo printing, direct CD/DVD printing, and memory card scanning.
+
+## Compatible printers
+Epson L850
+If your model isn't listed, send us the number from the front of the machine and we'll confirm before you pay.
+
+## Specifications
+| Page yield | Cartridge type | Colour | Capacity | Part number | Genuine or compatible |
+|---|---|---|---|---|---|
+| Uses 673 Bottles (~1,900 10x15cm photos) | 6-Color Photo Ink Tank Printer | BK, C, M, Y, LC, LM | A4 / SD Card / CD Print | C11CE31401 / L850 | Genuine Hardware |
+
+## Genuine or compatible?
+Genuine Original Epson hardware unit. Takes 6-color Epson 673 dye ink series; Royal compatible 673 photo ink bottles fit this system for budget studio printing.
+
+## Why buy from Trinatech
+Stock held in Nairobi CBD.
+Delivery across Kenya including Kisumu, Nakuru, Eldoret, and Mombasa.
+M-Pesa and bank transfer accepted.
+WhatsApp ordering and walk-in options at The One Mall, River Road.
+
+## Getting the most from this cartridge
+Print photos using genuine Epson Glossy Photo Paper for optimal color gamut.
+Use the built-in SD card slot and 6.9cm LCD screen for PC-free printing.
+
+## Frequently asked questions
+How many ink colors does it use? Uses 6 ink colors: Black, Cyan, Magenta, Yellow, Light Cyan, and Light Magenta.
+Can it print directly onto printable CDs/DVDs? Yes, includes a dedicated CD/DVD printing tray slot.
+How fast is Nairobi delivery? 1 to 3 hours in Nairobi CBD.
+How do I pay? Pay via M-Pesa, bank transfer, or cash.
+Is warranty included? Standard manufacturer warranty applies.`, "metaTitle": "Epson L850 6-Color Photo Printer Price - Trinatech Kenya", "metaDescription": "Shop Epson L850 6-color photo ink tank printer in Nairobi. Direct CD/DVD printing, LCD screen, SD card slot. Fast shipping in Kenya.", "inStock": true},
   {"id": 5317, "sku": "LQ-2190", "name": "Epson LQ-2190 Ribbon Cartridge", "brand": "Epson", "category": "Epson Ribbons & Inks", "price": 1200, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/Epson-LQ-2190-Ribbon-Cartridge.webp", "imageFile": "Epson-LQ-2190-Ribbon-Cartridge.webp", "description": "EPSON LQ-2190 RIBBON CARTRIDGE", "inStock": true},
   {"id": 5316, "sku": "LQ-350-2", "name": "Epson LQ-350 Generic Ribbon Black Cartridge", "brand": "Epson", "category": "Epson Ribbons & Inks", "price": 600, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/Epson-LQ-350-Generic-Ribbon-Black-Cartridge.webp", "imageFile": "Epson-LQ-350-Generic-Ribbon-Black-Cartridge.webp", "description": "EPSON LQ-350 GENERIC RIBBON BLACK CARTRIDGE", "inStock": true},
   {"id": 5315, "sku": "LQ-350", "name": "Epson LQ-350 Original Ribbon Black Cartridge", "brand": "Epson", "category": "Epson Ribbons & Inks", "price": 600, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/Epson-LQ-350-Original-Ribbon-Black-Cartridge.webp", "imageFile": "Epson-LQ-350-Original-Ribbon-Black-Cartridge.webp", "description": "EPSON LQ-350 ORIGINAL RIBBON BLACK CARTRIDGE", "inStock": true},

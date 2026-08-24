@@ -46,8 +46,9 @@ function preprocess(md) {
         out.push("- " + line);
       }
     } else if (LIST_SECTIONS.includes(section)) {
+      const normLine = normAposStr(line);
       const isNote =
-        section === "Compatible printers" && NOTE_PREFIXES.some((p) => line.startsWith(p));
+        section.startsWith("Compatible ") && NOTE_PREFIXES.some((p) => normLine.startsWith(normAposStr(p)));
       if (isNote) {
         if (!inNotes && out.length && out[out.length - 1].trim() !== "") out.push("");
         inNotes = true;

@@ -2646,7 +2646,42 @@ What ink bottles does it take? Uses Epson 112 all-pigment ink bottle series.
 How fast is Nairobi shipping? Delivered within 1 to 3 hours across Nairobi CBD.
 How can I pay? Pay via M-Pesa, bank wire, or cash.
 Is warranty provided? Covered under Epson official warranty.`, "metaTitle": "Epson EcoTank L6490 A4 Duplex Printer - Trinatech Kenya", "metaDescription": "Buy Epson EcoTank L6490 A4 printer in Nairobi. Fast print speed ~17 ipm, ADF, Duplex, Wi-Fi, Ethernet. CBD stock, fast delivery.", "inStock": true},
-  {"id": 4508, "sku": null, "name": "Epson Ecotank L6570 Wi-Fi Duplex Multifunction Adf Inktank Office Printer", "brand": "Epson", "category": "Printers & Copiers", "price": 150000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2025/01/Epson-L6570-Printer.png", "imageFile": "Epson-L6570-Printer.png", "description": "The Epson EcoTank L6570 Wi-Fi Duplex Multifunction ADF InkTank Office Printer is a high-performance, cost-efficient solution for businesses.", "inStock": true},
+  {"id": 4508, "sku": null, "name": "Epson Ecotank L6570 Wi-Fi Duplex Multifunction Adf Inktank Office Printer", "brand": "Epson", "category": "Printers & Copiers", "price": 150000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2025/01/Epson-L6570-Printer.png", "imageFile": "Epson-L6570-Printer.png", "description": `The Epson Ecotank L6570 Wi-Fi Duplex Multifunction Adf Inktank Office Printer is a high-speed, all-in-one EcoTank business printer powered by PrecisionCore Heat-Free technology. Uses 4-color pigment DURABrite ET inks for water-resistant, laser-quality prints, rapid 25 ipm speeds, and heavy-duty office printing across Kenya.
+
+## Compatible ink bottles
+Epson 112 Black Pigment Ink Bottle (C13T06C14A)
+Epson 112 Cyan Pigment Ink Bottle (C13T06C24A)
+Epson 112 Magenta Pigment Ink Bottle (C13T06C34A)
+Epson 112 Yellow Pigment Ink Bottle (C13T06C44A)
+If your printer model isn't listed, send us the number from the front of the machine and we'll confirm before you pay.
+
+## Specifications
+| Functions | Print, Scan, Copy, Fax |
+|---|---|
+| Print speed | Up to 25 ipm (Black & Color) |
+| Connectivity | Wi-Fi, Wi-Fi Direct, Ethernet, USB |
+| Paper capacity | 550 Sheets (2x 250 Trays + 50 Rear) |
+| Max resolution | 4800 x 1200 dpi |
+| Duplex & ADF | Auto Duplex & 50-Sheet DADF |
+
+## Genuine or compatible ink?
+Ships with initial genuine Epson 112 pigment ink bottles. Royal compatible brand 112 ink bottles are also available to lower cost per page for high-volume office workloads.
+
+## Why buy from Trinatech
+Stock held in Nairobi CBD.
+Delivery across Kenya including Kisumu, Nakuru, Eldoret, and Mombasa.
+M-Pesa and bank transfer accepted.
+WhatsApp ordering and walk-in options at The One Mall, River Road.
+
+## Getting the most from this printer
+Keep pigment ink tanks topped up before reaching minimum refill lines. Use the dual 250-sheet front cassettes to separate A4 plain paper and pre-printed letterheads.
+
+## Frequently asked questions
+Does it support auto double-sided scanning? Yes, features double-sided single-pass ADF scanning.
+Is pigment ink included? Yes, initial starter ink set is included in the box.
+How fast is Nairobi delivery? Same-day inside 1 to 3 hours across Nairobi CBD.
+How can I pay? Pay via M-Pesa Buy Goods/Till, bank wire, or cash.
+Is warranty provided? Covered by standard 1-year Epson shop warranty.`, "metaTitle": "Epson EcoTank L6570 Printer Price - Trinatech Kenya", "metaDescription": "Buy Epson EcoTank L6570 A4 color printer in Nairobi. All-Pigment ink, auto duplex, 50-sheet ADF & Wi-Fi Direct. Fast delivery in Kenya.", "inStock": true},
   {"id": 4514, "sku": null, "name": "Epson L850 Photo All-In-One Ink Tank Printer", "brand": "Epson", "category": "Printers & Copiers", "price": 70000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2025/01/Epson-L850-Printer.png", "imageFile": "Epson-L850-Printer.png", "description": `The Epson L850 Photo All-In-One Ink Tank Printer is an ITS 6-color photo printer designed for professional photographers, studios, and lab printing in Kenya. Offers low-cost borderless A4 photo printing, direct CD/DVD printing, and memory card scanning.
 
 ## Compatible printers
@@ -2965,7 +3000,40 @@ What paper types are supported? Continuous tractor paper, pre-printed vouchers, 
 How long does shipping take? 1 to 3 hours in Nairobi CBD; 24 hours upcountry.
 How can I pay? M-Pesa, bank wire, or cash at counter.
 Is warranty provided? Covered against factory defects.`, "metaTitle": "Epson LX-300 / LX-350 Ribbon Cartridge - Trinatech Kenya", "metaDescription": "Order Epson LX-300 & LX-350 ribbon cartridge in Nairobi. Yields ~4M characters for LX-300, LX-300+, LX-350. Fast delivery across Kenya.", "inStock": true},
-  {"id": 4517, "sku": null, "name": "Epson LX-350 Impact Dot Matrix Printer", "brand": "Epson", "category": "Printers & Copiers", "price": 35000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2025/01/Epson-LX-350-Printer.png", "imageFile": "Epson-LX-350-Printer.png", "description": "The Epson LX-350 Impact Dot Matrix Printer is a durable, high-performance printer designed for businesses that require reliable, high-speed printing for forms and reports.", "inStock": true},
+  {"id": 4517, "sku": null, "name": "Epson LX-350 Impact Dot Matrix Printer", "brand": "Epson", "category": "Printers & Copiers", "price": 35000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2025/01/Epson-LX-350-Printer.png", "imageFile": "Epson-LX-350-Printer.png", "description": `The Epson LX-350 Impact Dot Matrix Printer is a reliable, highly economical 9-pin narrow-carriage impact printer designed for retail counters, logistics, and finance offices. Engineered for high durability, low power consumption, and printing multi-part continuous stationery in Kenya.
+
+## Compatible ribbons
+Epson LX-350 Ribbon Cartridge (C13S015637)
+Epson LX-300 / LX-350 Black Ribbon
+If your printer model isn't listed, send us the number from the front of the machine and we'll confirm before you pay.
+
+## Specifications
+| Pins & carriage | 9-Pin / 80 Columns |
+|---|---|
+| Print speed | Up to 357 cps (12 cpi) |
+| Connectivity | USB, Parallel, Serial |
+| Character yield | ~4 Million Chars |
+| Multi-part forms | 1 Original + 4 Copies |
+| Energy consumption | 1.1W (Sleep), 27W (Operating) |
+
+## Genuine or compatible ribbon?
+Compatible with genuine Epson C13S015637 ribbon cassettes as well as Royal compatible fabric ribbons to minimize operational cost per receipt.
+
+## Why buy from Trinatech
+Stock held in Nairobi CBD.
+Delivery across Kenya including Kisumu, Nakuru, Eldoret, and Mombasa.
+M-Pesa and bank transfer accepted.
+WhatsApp ordering and walk-in options at The One Mall, River Road.
+
+## Getting the most from this printer
+Adjust the paper-thickness lever according to the number of carbon copy sheets being printed. Keep tractor feed mechanisms clean of paper dust.
+
+## Frequently asked questions
+Can it print carbonless multi-part invoices? Yes, handles up to 5-part forms (1 original + 4 copies).
+What interfaces are included? Features USB, Serial, and Parallel ports built-in.
+How fast is Nairobi delivery? Delivered within 1 to 3 hours in Nairobi CBD.
+How do I pay? M-Pesa, bank wire, or cash at counter.
+Is warranty provided? Covered under standard shop defect warranty.`, "metaTitle": "Epson LX-350 Dot Matrix Printer Price - Trinatech Kenya", "metaDescription": "Order Epson LX-350 9-pin dot matrix printer in Nairobi. Fast 357 cps speed, low energy use & multi-part form support. Fast Kenya delivery.", "inStock": true},
   {"id": 3571, "sku": null, "name": "Epson LX-350 Ribbon Cartridge", "brand": "Epson", "category": "Inks & Toner Cartridges", "price": 600, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2024/12/Epson-LX-300-Ribbon.png", "imageFile": "Epson-LX-300-Ribbon.png", "description": `The Epson LX-350 Ribbon Cartridge is an original fabric ribbon cassette designed specifically for the Epson LX-350 9-pin eco-friendly impact printer. Delivers sharp text definition and low energy operation for counter sales in Nairobi.
 
 ## Compatible printers

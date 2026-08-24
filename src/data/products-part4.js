@@ -241,7 +241,39 @@ How fast is Nairobi delivery? Delivered within 1 to 3 hours across Nairobi CBD.
 How can I pay? Pay via M-Pesa, bank wire, or cash.
 Is warranty provided? Covered against factory defects.`, "metaTitle": "Konica Minolta TN324 Toner Cartridge - Trinatech Kenya", "metaDescription": "Shop Konica Minolta TN324 toner cartridge in Nairobi. Yields ~28,000 BK / 26,000 CMY pages for bizhub C258, C308, C368. Fast shipping.", "inStock": true},
   {"id": 4449, "sku": null, "name": "Blade Cleaning Blade For Kyocera Mita KM-2050", "brand": "Kyocera", "category": "Printer Parts", "price": 1000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2025/01/Blade-KM-2050.png", "imageFile": "Blade-KM-2050.png", "description": "The Blade Cleaning Blade for Kyocera Mita KM-2050 is an essential component for keeping your printer in optimal condition.", "inStock": true},
-  {"id": 3471, "sku": null, "name": "Kyocera Ecosys Fs 1025 Multifunction Laser Printer", "brand": "Kyocera", "category": "Printers & Copiers", "price": 48000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2024/12/Kyocera-FS-1025-Multi-Function-Printer.png", "imageFile": "Kyocera-FS-1025-Multi-Function-Printer.png", "description": "The Kyocera ECOSYS FS 1025 Multi-Function Laser Printer is designed to meet the needs of small offices or workgroups.", "inStock": true},
+  {"id": 3471, "sku": null, "name": "Kyocera Ecosys Fs 1025 Multifunction Laser Printer", "brand": "Kyocera", "category": "Printers & Copiers", "price": 48000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2024/12/Kyocera-FS-1025-Multi-Function-Printer.png", "imageFile": "Kyocera-FS-1025-Multi-Function-Printer.png", "description": `The Kyocera Ecosys Fs 1025 Multifunction Laser Printer (ECOSYS FS-1025MFP) is a durable 3-in-1 monochrome laser printer equipped with long-life drum technology. Delivers low cost per page, automatic duplex printing, and quiet operation for office desktops in Kenya.
+
+## Compatible toner cartridges
+Kyocera TK-1120 Black Toner Cartridge (~3,000 pages)
+If your printer model isn't listed, send us the number from the front of the machine and we'll confirm before you pay.
+
+## Specifications
+| Functions | Print, Copy, Scan |
+|---|---|
+| Print speed | Up to 25 ppm |
+| Connectivity | USB 2.0, Fast Ethernet |
+| Paper capacity | 250 Sheets |
+| Duplex printing | Automatic Duplex |
+| ADF capacity | 40-Sheet ADF |
+
+## Genuine or compatible toner?
+Uses original Kyocera TK-1120 toner cartridges. Royal compatible brand TK-1120 toners are also stocked for reduced operational cost per page.
+
+## Why buy from Trinatech
+Stock held in Nairobi CBD.
+Delivery across Kenya including Kisumu, Nakuru, Eldoret, and Mombasa.
+M-Pesa and bank transfer accepted.
+WhatsApp ordering and walk-in options at The One Mall, River Road.
+
+## Getting the most from this printer
+Press the Quiet Mode button on the control panel to significantly reduce acoustic noise during busy office hours.
+
+## Frequently asked questions
+Does it support double-sided printing? Yes, automatic duplex printing is standard.
+What is the drum life? Long-life ECOSYS drum lasts up to 100,000 pages before replacement.
+How fast is Nairobi delivery? Same-day inside 1 to 3 hours.
+How can I pay? Pay via M-Pesa, bank wire, or cash.
+Is warranty included? Covered by standard 1-year shop warranty.`, "metaTitle": "Kyocera ECOSYS FS-1025MFP Printer Price - Trinatech", "metaDescription": "Shop Kyocera ECOSYS FS-1025MFP printer in Nairobi. 25 ppm speed, auto duplex & 40-sheet ADF for quiet office printing. Fast Kenya delivery.", "inStock": true},
   {"id": 3457, "sku": null, "name": "Kyocera Ecosys M2135DN A4 Mono Multifunction Laser Printer", "brand": "Kyocera", "category": "Printers & Copiers", "price": 95000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2024/12/Kyocera-ECOSYS-M2135dn-A4-mfp-Printer.png", "imageFile": "Kyocera-ECOSYS-M2135dn-A4-mfp-Printer.png", "description": "The Kyocera ECOSYS M2135dn A4 Mono Multifunction Laser Printer is designed to meet the needs of small to medium-sized businesses.", "inStock": true},
   {"id": 3450, "sku": null, "name": "Kyocera Ecosys MA4500IX Mono Multifunction Laser Printer", "brand": "Kyocera", "category": "Printers & Copiers", "price": 145000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2024/12/Kyocera-ECOSYS-MA4500ix-mfp-Printer.png", "imageFile": "Kyocera-ECOSYS-MA4500ix-mfp-Printer.png", "description": "The Kyocera ECOSYS MA4500ix Mono Multifunction Laser Printer is designed to enhance productivity in high-demand office environments.", "inStock": true},
   {"id": 3459, "sku": null, "name": "Kyocera MA2000W Monochrome Multifunction Laser Printer", "brand": "Kyocera", "category": "Printers & Copiers", "price": 50000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2024/12/Kyocera-MA2000w-mfp-Printer.png", "imageFile": "Kyocera-MA2000w-mfp-Printer.png", "description": "The Kyocera MA2000w MFP Monochrome Laser Printer is designed to streamline your office operations by combining printing, copying, and scanning capabilities.", "inStock": true},
@@ -1516,7 +1548,42 @@ Do I need other colours to print? Standard duplicators print in monochrome, but 
 What is the delivery time? We offer same-day delivery in Nairobi CBD, and next-day delivery nationwide.
 What is your warranty or returns policy? We provide the manufacturer's warranty on all genuine sealed products.
 Why is the ink smudging? You may need to lower your print density settings or use more absorbent paper.`, "metaTitle": "Riso FII Type Black Ink (F11)", "metaDescription": "Genuine Riso FII Type (F11) black ink for digital duplicators. Stocked in Nairobi CBD with fast, reliable delivery anywhere in Kenya.", "inStock": true},
-  {"id": 5282, "sku": null, "name": "Gestetner CPMT20 Duplicator Master Paper", "brand": "Other", "category": "Master Rolls & Inks", "price": 900, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/Gestetner-CPMT20-Duplicator-Master-Paper.webp", "imageFile": "Gestetner-CPMT20-Duplicator-Master-Paper.webp", "description": "GESTETNER CPMT20 DUPLICATOR MASTER PAPER", "inStock": true},
+  {"id": 5282, "sku": null, "name": "Gestetner CPMT20 Duplicator Master Paper", "brand": "Other", "category": "Master Rolls & Inks", "price": 900, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/Gestetner-CPMT20-Duplicator-Master-Paper.webp", "imageFile": "Gestetner-CPMT20-Duplicator-Master-Paper.webp", "description": `The Gestetner CPMT20 Duplicator Master Paper (JP-7S A4 Master Roll) is a specialized thermal stencil master roll for Gestetner and Ricoh digital duplicators. Engineered to punch fine line text and crisp graphics for high-speed, high-volume exam and flyer runs across Kenya.
+
+## Compatible duplicators
+Gestetner CP 6120
+Gestetner CP 6123A
+Ricoh Priport JP 735
+Ricoh Priport JP 730
+If your machine model isn't listed, send us the number from the front panel and we'll confirm before you pay.
+
+## Specifications
+| Page yield | ~200 masters |
+|---|---|
+| Roll dimensions | 240mm x 50m |
+| Size | A4 |
+| Core diameter | 43 mm |
+| Part number | CPMT20 / JP-7S |
+| Genuine or compatible | Genuine / Compatible |
+
+## Genuine or compatible master?
+Covers original Genuine Gestetner master rolls; Royal compatible brand CPMT20 master rolls are also stocked to cut costs on bulk printing.
+
+## Why buy from Trinatech
+Stock held in Nairobi CBD.
+Delivery across Kenya including Kisumu, Nakuru, Eldoret, and Mombasa.
+M-Pesa and bank transfer accepted.
+WhatsApp ordering and walk-in options at The One Mall, River Road.
+
+## Getting the most from this cartridge
+Store rolls flat in cool, dry conditions. Avoid touching the active thermal master film surface with bare hands during loading.
+
+## Frequently asked questions
+What ink does it require? Must be paired with CPI7 / JP-7 duplicator liquid ink tubes.
+How many prints per cut master? Each master cut yields over 1,000 clear print copies.
+How fast is Nairobi delivery? Same-day inside 1 to 3 hours.
+How can I pay? Pay via M-Pesa Buy Goods/Till or bank wire.
+Is warranty included? Covered against manufacturing defects.`, "metaTitle": "Gestetner CPMT20 Duplicator Master Paper - Trinatech", "metaDescription": "Buy Gestetner CPMT20 (JP-7S) A4 master roll in Nairobi. High-yield stencil roll for Gestetner CP6120 & Ricoh JP735. Fast delivery in Kenya.", "inStock": true},
   {"id": 5281, "sku": null, "name": "Gestetner CPMT21 Cpi 10 Master Roll", "brand": "Other", "category": "Master Rolls & Inks", "price": 900, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/Gestetner-CPMT21-Cpi-10-Master-Roll.webp", "imageFile": "Gestetner-CPMT21-Cpi-10-Master-Roll.webp", "description": `The Gestetner CPMT21 Compatible Master Roll provides high-volume commercial printers, schools, and churches with an exceptional alternative to expensive original duplicator supplies. Engineered to match the exact thermal sensitivity required by Gestetner digital duplicators, this high-quality stencil roll produces sharp, dark text and clear images for all your bulk printing needs. It allows you to run massive batches of documentation---such as exam papers and internal forms---while drastically slashing your operational budget.
 
 ## Compatible printers

@@ -3842,12 +3842,220 @@ What is the difference between 970XL and 971XL? The 970XL is the black cartridge
 What is the delivery time? Same-day delivery for Nairobi CBD, and next-day for the rest of Kenya.
 What is your warranty or returns policy? Genuine HP cartridges carry a standard manufacturer warranty against defects.
 Is this ink waterproof? The pigment-based ink is highly resistant to water, smearing, and highlighter pens once dry.`, "metaTitle": "HP 970XL Black Original Ink Cartridge", "metaDescription": "Genuine HP 970XL high yield black ink, approx 9,200 pages, for HP OfficeJet Pro X451, X476, X551, X576. Genuine stock delivered across Kenya.", "inStock": true},
-  {"id": 4474, "sku": null, "name": "HP Color Laser Mfp 179FNW Printer", "brand": "HP", "category": "Printers & Copiers", "price": 65000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2025/01/HP-MFP-179fnw.png", "imageFile": "HP-MFP-179fnw.png", "description": "The HP Color Laser MFP 179fnw Printer is a versatile and compact all-in-one printer that combines print, scan, copy, and fax functionality.", "inStock": true},
-  {"id": 4477, "sku": null, "name": "HP Color Laserjet Pro Mfp M182N Printer", "brand": "HP", "category": "Printers & Copiers", "price": 68000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2025/01/HP-MFP-M182n.png", "imageFile": "HP-MFP-M182n.png", "description": "The HP Color LaserJet Pro MFP M182n Printer is a feature-packed all-in-one solution designed to meet the needs of small offices and home businesses.", "inStock": true},
-  {"id": 4480, "sku": null, "name": "HP Color Laserjet Pro Mfp M183FW Printer", "brand": "HP", "category": "Printers & Copiers", "price": 72000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2025/01/HP-MFP-M183fw.png", "imageFile": "HP-MFP-M183fw.png", "description": "The HP Color LaserJet Pro MFP M183fw Printer is an all-in-one solution that combines printing, scanning, copying, and faxing.", "inStock": true},
-  {"id": 4483, "sku": null, "name": "HP Color Laserjet Pro Mfp M283FDN Printer", "brand": "HP", "category": "Printers & Copiers", "price": 95000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2025/01/HP-MFP-M283fdn.png", "imageFile": "HP-MFP-M283fdn.png", "description": "The HP Color LaserJet Pro MFP M283fdn Printer is a powerful and versatile all-in-one printer designed to meet the demands of modern businesses.", "inStock": true},
-  {"id": 4486, "sku": null, "name": "HP Color Laserjet Pro Mfp M479DW Printer", "brand": "HP", "category": "Printers & Copiers", "price": 120000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2025/01/HP-MFP-M479dw.png", "imageFile": "HP-MFP-M479dw.png", "description": "The HP Color LaserJet Pro MFP M479dw Printer is an all-in-one, high-performance solution for businesses requiring fast, reliable, and high-quality printing.", "inStock": true},
-  {"id": 4490, "sku": null, "name": "HP Deskjet 2710 All-In-One Printer", "brand": "HP", "category": "Printers & Copiers", "price": 11500, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2025/01/HP-DeskJet-2710.png", "imageFile": "HP-DeskJet-2710.png", "description": "The HP DeskJet 2710 All-in-One Printer is an affordable, reliable, and compact solution for everyday printing, scanning, and copying needs.", "inStock": true},
+  {"id": 4474, "sku": null, "name": "HP Color Laser Mfp 179FNW Printer", "brand": "HP", "category": "Printers & Copiers", "price": 65000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2025/01/HP-MFP-179fnw.png", "imageFile": "HP-MFP-179fnw.png", "description": `The HP Color Laser Mfp 179FNW Printer is an entry-level, compact desktop 4-in-1 color laser multifunction printer designed for small businesses and home offices. Delivers sharp black text, vibrant color graphics, and wireless networking in Nairobi.
+
+## Compatible toner cartridges
+HP 117A Black Laser Toner Cartridge (W2070A)
+HP 117A Cyan Laser Toner Cartridge (W2071A)
+HP 117A Magenta Laser Toner Cartridge (W2072A)
+HP 117A Yellow Laser Toner Cartridge (W2073A)
+If your printer model isn't listed, send us the number from the front of the machine and we'll confirm before you pay.
+
+## Specifications
+| Functions | Print, Copy, Scan, Fax |
+|---|---|
+| Print speed | 18 ppm (BK) / 4 ppm (Color) |
+| Connectivity | Wi-Fi, Ethernet, USB 2.0 |
+| Paper capacity | 150 Sheets |
+| Monthly duty cycle | Up to 20,000 pages |
+| Scanner type | Flatbed + 40-Sheet ADF |
+
+## Genuine or compatible toner?
+Uses original HP 117A toner cartridges. Royal compatible brand 117A cartridges are also available to reduce print costs on regular document runs.
+
+## Why buy from Trinatech
+Stock held in Nairobi CBD.
+Delivery across Kenya including Kisumu, Nakuru, Eldoret, and Mombasa.
+M-Pesa and bank transfer accepted.
+WhatsApp ordering and walk-in options at The One Mall, River Road.
+
+## Getting the most from this printer
+Keep spare color toners on hand as color print speeds are optimized for light-to-medium graphic documents. Use HP Smart app for easy mobile scanning.
+
+## Frequently asked questions
+Does it support auto double-sided printing? No, supports manual duplex printing.
+Is starter toner included? Yes, ships with initial starter toner cartridges.
+How fast is Nairobi delivery? Delivered within 1 to 3 hours across Nairobi.
+How do I pay? Pay via M-Pesa, bank transfer, or cash.
+Is warranty provided? Covered under 1-year shop warranty.`, "metaTitle": "HP Color Laser MFP 179fnw Printer Price - Trinatech", "metaDescription": "Shop HP Color Laser MFP 179fnw in Nairobi. Compact 4-in-1 color laser printer with Wi-Fi, Ethernet & 40-sheet ADF. Fast Kenya delivery.", "inStock": true},
+  {"id": 4477, "sku": null, "name": "HP Color Laserjet Pro Mfp M182N Printer", "brand": "HP", "category": "Printers & Copiers", "price": 68000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2025/01/HP-MFP-M182n.png", "imageFile": "HP-MFP-M182n.png", "description": `The HP Color Laserjet Pro Mfp M182N Printer is an efficient 3-in-1 network color laser multifunction printer built for small workgroups. Features original HP Toner cartridges with JetIntelligence to deliver high-quality color output and fast first-page-out times across Kenya.
+
+## Compatible toner cartridges
+HP 216A Black LaserJet Toner (W2410A)
+HP 216A Cyan LaserJet Toner (W2411A)
+HP 216A Magenta LaserJet Toner (W2412A)
+HP 216A Yellow LaserJet Toner (W2413A)
+If your printer model isn't listed, send us the number from the front of the machine and we'll confirm before you pay.
+
+## Specifications
+| Functions | Print, Copy, Scan |
+|---|---|
+| Print speed | Up to 16 ppm (BK & Color) |
+| Connectivity | Fast Ethernet, Hi-Speed USB 2.0 |
+| Paper capacity | 150 Sheets |
+| First page out | ~11.8 seconds (BK) |
+| Display | 7-Segment ICON LCD |
+
+## Genuine or compatible toner?
+Compatible with genuine HP 216A JetIntelligence cartridges and Royal compatible alternative toners for lower operational cost per page.
+
+## Why buy from Trinatech
+Stock held in Nairobi CBD.
+Delivery across Kenya including Kisumu, Nakuru, Eldoret, and Mombasa.
+M-Pesa and bank transfer accepted.
+WhatsApp ordering and walk-in options at The One Mall, River Road.
+
+## Getting the most from this printer
+Connect via Ethernet to share scanning and printing features seamlessly across your local office network.
+
+## Frequently asked questions
+Does it have Wi-Fi? No, the M182n uses Ethernet and USB connectivity (see M183fw for Wi-Fi).
+Is auto duplex supported? Manual duplexing supported.
+How fast is Nairobi shipping? Delivered within 1 to 3 hours in Nairobi.
+How can I pay? Pay via M-Pesa Buy Goods/Till or bank wire.
+Is warranty included? Covered by standard 1-year defect warranty.`, "metaTitle": "HP Color LaserJet Pro MFP M182n Price - Trinatech Kenya", "metaDescription": "Buy HP Color LaserJet Pro MFP M182n in Nairobi. 3-in-1 network color laser printer with 16 ppm speed & Ethernet. Fast delivery in Kenya.", "inStock": true},
+  {"id": 4480, "sku": null, "name": "HP Color Laserjet Pro Mfp M183FW Printer", "brand": "HP", "category": "Printers & Copiers", "price": 72000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2025/01/HP-MFP-M183fw.png", "imageFile": "HP-MFP-M183fw.png", "description": `The HP Color Laserjet Pro Mfp M183FW Printer is a versatile 4-in-1 wireless color laser multifunction printer designed for small offices. Offers wireless printing, auto document feeder, fax capability, and crisp text printing in Nairobi.
+
+## Compatible toner cartridges
+HP 216A Black LaserJet Toner (W2410A)
+HP 216A Cyan LaserJet Toner (W2411A)
+HP 216A Magenta LaserJet Toner (W2412A)
+HP 216A Yellow LaserJet Toner (W2413A)
+If your printer model isn't listed, send us the number from the front of the machine and we'll confirm before you pay.
+
+## Specifications
+| Functions | Print, Copy, Scan, Fax |
+|---|---|
+| Print speed | Up to 16 ppm (BK & Color) |
+| Connectivity | Wi-Fi, Direct Wi-Fi, Ethernet, USB |
+| Paper capacity | 150 Sheets |
+| ADF capacity | 35 Sheets |
+| Control panel | 2-Line LCD Display |
+
+## Genuine or compatible toner?
+Uses original HP 216A toner series. Royal compatible brand 216A toner cartridges are also stocked to help cut print budget costs.
+
+## Why buy from Trinatech
+Stock held in Nairobi CBD.
+Delivery across Kenya including Kisumu, Nakuru, Eldoret, and Mombasa.
+M-Pesa and bank transfer accepted.
+WhatsApp ordering and walk-in options at The One Mall, River Road.
+
+## Getting the most from this printer
+Utilize the 35-sheet Automatic Document Feeder (ADF) to multi-task multi-page document scanning and copying hands-free.
+
+## Frequently asked questions
+Does it support mobile printing? Yes, supports HP Smart app, Apple AirPrint, and Mopria.
+Does it do automatic double-sided printing? Manual duplexing supported.
+How fast is Nairobi delivery? Delivered within 1 to 3 hours across Nairobi CBD.
+How do I pay? M-Pesa, bank wire, or cash.
+Is warranty provided? Covered under 1-year warranty.`, "metaTitle": "HP Color LaserJet Pro MFP M183fw Price - Trinatech Kenya", "metaDescription": "Order HP Color LaserJet Pro MFP M183fw in Nairobi. Wireless 4-in-1 color laser printer with ADF, Wi-Fi & Fax. Fast delivery across Kenya.", "inStock": true},
+  {"id": 4483, "sku": null, "name": "HP Color Laserjet Pro Mfp M283FDN Printer", "brand": "HP", "category": "Printers & Copiers", "price": 95000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2025/01/HP-MFP-M283fdn.png", "imageFile": "HP-MFP-M283fdn.png", "description": `The HP Color Laserjet Pro Mfp M283FDN Printer is a high-performance 4-in-1 network color laser printer featuring automatic double-sided printing. Engineered for fast print speeds, sharp color output, and heavy daily workflow across Kenya.
+
+## Compatible toner cartridges
+HP 207A Black LaserJet Toner (W2210A) / 207X High Yield (W2210X)
+HP 207A Cyan LaserJet Toner (W2211A) / 207X High Yield (W2211X)
+HP 207A Magenta LaserJet Toner (W2212A) / 207X High Yield (W2212X)
+HP 207A Yellow LaserJet Toner (W2213A) / 207X High Yield (W2213X)
+If your printer model isn't listed, send us the number from the front of the machine and we'll confirm before you pay.
+
+## Specifications
+| Functions | Print, Copy, Scan, Fax |
+|---|---|
+| Print speed | Up to 21 ppm (BK & Color) |
+| Connectivity | Fast Ethernet, Hi-Speed USB 2.0 |
+| Paper capacity | 250 Sheets |
+| Duplex printing | Automatic Duplex |
+| Touchscreen | 2.7-inch Color Touchscreen |
+
+## Genuine or compatible toner?
+Supports genuine HP 207A/207X high-yield cartridges as well as Royal compatible brand 207X toners for maximum operational savings.
+
+## Why buy from Trinatech
+Stock held in Nairobi CBD.
+Delivery across Kenya including Kisumu, Nakuru, Eldoret, and Mombasa.
+M-Pesa and bank transfer accepted.
+WhatsApp ordering and walk-in options at The One Mall, River Road.
+
+## Getting the most from this printer
+Use high-yield 207X toner cartridges (~3,150 BK / 2,450 Color pages) to significantly drop cost per printed page.
+
+## Frequently asked questions
+Does it have wireless/Wi-Fi? The M283fdn is network Ethernet based (see M283fdw for Wi-Fi).
+Is auto duplex supported? Yes, automatic double-sided printing is built-in.
+How fast is Nairobi shipping? Same-day inside 1 to 3 hours.
+How do I pay? Pay via M-Pesa Buy Goods/Till or bank wire.
+Is warranty included? Covered by 1-year shop defect warranty.`, "metaTitle": "HP Color LaserJet Pro MFP M283fdn Price - Trinatech", "metaDescription": "Buy HP Color LaserJet Pro MFP M283fdn in Nairobi. Fast 21 ppm speed, auto duplex, 50-sheet ADF & Ethernet. Fast delivery in Kenya.", "inStock": true},
+  {"id": 4486, "sku": null, "name": "HP Color Laserjet Pro Mfp M479DW Printer", "brand": "HP", "category": "Printers & Copiers", "price": 120000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2025/01/HP-MFP-M479dw.png", "imageFile": "HP-MFP-M479dw.png", "description": `The HP Color Laserjet Pro Mfp M479DW Printer is an enterprise-class wireless 3-in-1 color laser printer designed for demanding business workgroups. Delivers robust security, 28 ppm speeds, single-pass double-sided scanning, and vibrant color in Nairobi.
+
+## Compatible toner cartridges
+HP 415A Black LaserJet Toner (W2030A) / 415X High Yield (W2030X)
+HP 415A Cyan LaserJet Toner (W2031A) / 415X High Yield (W2031X)
+HP 415A Magenta LaserJet Toner (W2032A) / 415X High Yield (W2032X)
+HP 415A Yellow LaserJet Toner (W2033A) / 415X High Yield (W2033X)
+If your printer model isn't listed, send us the number from the front of the machine and we'll confirm before you pay.
+
+## Specifications
+| Functions | Print, Copy, Scan |
+|---|---|
+| Print speed | Up to 28 ppm (BK & Color) |
+| Connectivity | Dual-band Wi-Fi, Ethernet, USB |
+| Paper capacity | 300 Sheets (Expandable) |
+| Monthly duty cycle | Up to 50,000 pages |
+| Touchscreen | 4.3-inch Color Touchscreen |
+
+## Genuine or compatible toner?
+Uses original HP 415A/415X toner cartridges. Royal compatible brand 415X high-yield toners are also available for high-volume printing savings.
+
+## Why buy from Trinatech
+Stock held in Nairobi CBD.
+Delivery across Kenya including Kisumu, Nakuru, Eldoret, and Mombasa.
+M-Pesa and bank transfer accepted.
+WhatsApp ordering and walk-in options at The One Mall, River Road.
+
+## Getting the most from this printer
+Enable HP JetAdvantage Security Manager settings for enterprise data protection over local wireless networks.
+
+## Frequently asked questions
+Does it support auto double-sided scanning? Yes, features 50-sheet single-pass 2-sided ADF scanning.
+Is high-yield toner available? Yes, HP 415X toners yield up to 7,500 BK / 6,000 Color pages.
+How fast is Nairobi delivery? 1 to 3 hours across Nairobi CBD.
+How can I pay? Pay via M-Pesa, bank wire, or cash.
+Is warranty provided? Covered under 1-year warranty.`, "metaTitle": "HP Color LaserJet Pro MFP M479dw Price - Trinatech", "metaDescription": "Order HP Color LaserJet Pro MFP M479dw in Nairobi. Heavy-duty 28 ppm, auto duplex, dual-band Wi-Fi & touchscreen. Fast Kenya delivery.", "inStock": true},
+  {"id": 4490, "sku": null, "name": "HP Deskjet 2710 All-In-One Printer", "brand": "HP", "category": "Printers & Copiers", "price": 11500, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2025/01/HP-DeskJet-2710.png", "imageFile": "HP-DeskJet-2710.png", "description": `The HP Deskjet 2710 All-In-One Printer is an affordable, compact home inkjet printer. Combines everyday printing, copying, and scanning with hassle-free dual-band Wi-Fi and Bluetooth setup for households and students across Kenya.
+
+## Compatible ink cartridges
+HP 305 Black Original Ink Cartridge (3YM61AE) / 305XL High Yield (3YM62AE)
+HP 305 Tri-Color Original Ink Cartridge (3YM60AE) / 305XL High Yield (3YM63AE)
+If your printer model isn't listed, send us the number from the front of the machine and we'll confirm before you pay.
+
+## Specifications
+| Functions | Print, Copy, Scan |
+|---|---|
+| Print speed | 7.5 ppm (BK) / 5.5 ppm (Color) |
+| Connectivity | Dual-band Wi-Fi, Bluetooth, USB |
+| Paper capacity | 60 Sheets |
+| Print resolution | Up to 4800 x 1200 dpi |
+| Dimensions | 425 x 304 x 154 mm |
+
+## Genuine or compatible ink?
+Uses original HP 305/305XL ink cartridges. Royal compatible brand 305XL high-yield ink cartridges are available for budget print needs.
+
+## Why buy from Trinatech
+Stock held in Nairobi CBD.
+Delivery across Kenya including Kisumu, Nakuru, Eldoret, and Mombasa.
+M-Pesa and bank transfer accepted.
+WhatsApp ordering and walk-in options at The One Mall, River Road.
+
+## Getting the most from this printer
+Use HP 305XL high-yield cartridges to print up to 2x more pages compared to standard size cartridges.
+
+## Frequently asked questions
+Does it print from mobile phones? Yes, prints wirelessly via HP Smart app and Apple AirPrint.
+Is a USB cable included in the box? USB cable sold separately.
+How fast is Nairobi shipping? Delivered within 1 to 3 hours in Nairobi.
+How do I pay? Pay via M-Pesa Buy Goods/Till or bank transfer.
+Is warranty provided? Covered under 1-year shop warranty.`, "metaTitle": "HP DeskJet 2710 All-in-One Printer Price - Trinatech", "metaDescription": "Buy HP DeskJet 2710 wireless all-in-one printer in Nairobi. Compact print, copy, scan with Bluetooth & Wi-Fi. Fast delivery across Kenya.", "inStock": true},
   {"id": 5294, "sku": "MOH57AE", "name": "HP GT51 Black Ink Bottle (MOH57AE)", "brand": "HP", "category": "Master Rolls & Inks", "price": 2300, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/HP-GT51-Black-Ink-Bottle-MOH57AE.webp", "imageFile": "HP-GT51-Black-Ink-Bottle-MOH57AE.webp", "description": `The HP GT51 Black Ink Bottle (M0H57AE) is the refill bottle for HP's tank-based printers, the range built for people who print a lot and refuse to keep buying cartridges. There is no chip and no cartridge shell. You pour 90 ml of pigment black ink straight into the printer's built-in tank, and one bottle covers roughly 5,000 pages. On cost per page that is a different category of printing altogether from cartridge machines.
 
 ## Compatible printers

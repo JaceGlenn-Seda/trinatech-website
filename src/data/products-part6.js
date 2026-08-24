@@ -43,11 +43,137 @@ export const PRODUCTS_6 = [
   {"id": 4981, "sku": "SP230", "name": "Royal Toner Cartridge SP230", "brand": "Royal", "category": "Royal Toners", "price": 2200, "image": null, "imageFile": null, "description": "ROYAL TONER CARTRIDGE SP230", "inStock": true},
   {"id": 4980, "sku": "W1816A", "name": "Royal Toner Cartridge W1816A Black", "brand": "Royal", "category": "Royal Toners", "price": 2500, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/08/4980_royal_royal-toner-cartridge-w1816a-black.jpg-1.png", "imageFile": "4980_royal_royal-toner-cartridge-w1816a-black.jpg-1.png", "description": "ROYAL TONER CARTRIDGE W1816A BLACK", "inStock": true},
   {"id": 4979, "sku": null, "name": "Royal Toner Refill Powder", "brand": "Royal", "category": "Royal Toners", "price": 1200, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/08/4979_royal_royal-toner-refill-powder.jpg.png", "imageFile": "4979_royal_royal-toner-refill-powder.jpg.png", "description": "ROYAL TONER REFILL POWDER", "inStock": true},
-  {"id": 4310, "sku": null, "name": "Samsung MLT-D101S Black Toner Cartridge", "brand": "Samsung", "category": "Inks & Toner Cartridges", "price": 10000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2025/01/Samsung-MLT-D101S-Black-Toner.png", "imageFile": "Samsung-MLT-D101S-Black-Toner.png", "description": "Compatible with: ML Series: ML-2160, ML-2162, ML-2165, ML-2165W, ML-2164 SCX Series: SCX-3400, SCX-3405, SCX-3405F, SCX-3405FW, SCX-3405W SF Series: SF-760P", "inStock": true},
-  {"id": 4320, "sku": null, "name": "Samsung MLT-D103L Black Toner Cartridge", "brand": "Samsung", "category": "Inks & Toner Cartridges", "price": 3500, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2025/01/Samsung-MLT-D103L-Black-Toner.png", "imageFile": "Samsung-MLT-D103L-Black-Toner.png", "description": "The Samsung MLT-D103L Black Toner Cartridge is the ideal solution for businesses and home offices that require reliable, high-quality printing.", "inStock": true},
-  {"id": 4307, "sku": null, "name": "Samsung MLT-D105S Black Toner Cartridge", "brand": "Samsung", "category": "Inks & Toner Cartridges", "price": 2500, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2025/01/Samsung-MLT-D105S-Black-Toner.png", "imageFile": "Samsung-MLT-D105S-Black-Toner.png", "description": "Compatible with: ML-1910, ML-1915 ML-2525, ML-2525W ML-2540, ML-2545 ML-2580N SCX-4600, SCX-4623F/FN/FW SF-650, SF-650P", "inStock": true},
-  {"id": 4304, "sku": null, "name": "Samsung MLT-D108S Black Toner Cartridge", "brand": "Samsung", "category": "Inks & Toner Cartridges", "price": 9000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2025/01/Samsung-MLT-D108S-Black-Toner.png", "imageFile": "Samsung-MLT-D108S-Black-Toner.png", "description": "Compatible with Samsung ML-1640, ML-1640K, ML-1641, ML-2240, ML-2240K, ML-2241", "inStock": true},
-  {"id": 4323, "sku": null, "name": "Samsung MLT-D109S Black Toner Cartridge", "brand": "Samsung", "category": "Inks & Toner Cartridges", "price": 10000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2025/01/Samsung-MLT-D109S-Black-Toner.png", "imageFile": "Samsung-MLT-D109S-Black-Toner.png", "description": "Compatible with: SCX-4300 ML-166x ML-167x SCX-320x/321x", "inStock": true},
+  {"id": 4310, "sku": null, "name": "Samsung MLT-D101S Black Toner Cartridge", "brand": "Samsung", "category": "Inks & Toner Cartridges", "price": 10000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2025/01/Samsung-MLT-D101S-Black-Toner.png", "imageFile": "Samsung-MLT-D101S-Black-Toner.png", "description": `The Samsung MLT-D101S Black Toner Cartridge delivers crisp monochrome laser printing for compact Samsung desktop printers. Engineered for dark text, sharp graphic contrast, and steady paper feeding across Kenya.
+
+## Compatible printers
+Samsung ML-2160 / ML-2162 / ML-2165 / ML-2165W
+Samsung SCX-3400 / SCX-3405 / SCX-3405FW / SCX-3405W
+Samsung SF-760P
+If your printer model isn't listed, send us the number from the front panel and we'll confirm before you pay.
+
+## Specifications
+| Page yield | Part type | Colour | Part number | Genuine or compatible |
+|---|---|---|---|---|
+| ~1,500 pages | Laser Toner Cartridge | Black | MLT-D101S / D101S | Genuine / Compatible |
+
+## Genuine or compatible?
+Covers OEM Genuine Samsung supplies as well as cost-effective Compatible alternatives.
+
+## Why buy from Trinatech
+Stock held in Nairobi CBD. Delivery across Kenya including Kisumu, Nakuru, Eldoret, and Mombasa. M-Pesa and bank transfer accepted. WhatsApp ordering and walk-in options at The One Mall, River Road.
+
+## Getting the most from this product
+Rock the cartridge horizontally 5 times before removing protective plastic covers.
+
+## Frequently asked questions
+What is the page yield? ~1,500 standard pages.
+How fast is Nairobi shipping? Same-day inside 1 to 3 hours.
+How can I pay? Pay via M-Pesa, bank wire, or cash.
+Is warranty provided? Covered against factory defects.`, "metaTitle": "Samsung MLT-D101S Black Toner Cartridge Price", "metaDescription": "Buy genuine & compatible Samsung MLT-D101S black toner in Nairobi. Yields ~1,500 pages for ML-2160, SCX-3405, SF-760. Fast delivery.", "inStock": true},
+  {"id": 4320, "sku": null, "name": "Samsung MLT-D103L Black Toner Cartridge", "brand": "Samsung", "category": "Inks & Toner Cartridges", "price": 3500, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2025/01/Samsung-MLT-D103L-Black-Toner.png", "imageFile": "Samsung-MLT-D103L-Black-Toner.png", "description": `The Samsung MLT-D103L Black Toner Cartridge is a high-yield monochrome toner cartridge designed for Samsung office workgroup printers. Formulated to ensure sharp document text, dark greyscales, and low cost per page in Nairobi.
+
+## Compatible printers
+Samsung ML-2950ND / ML-2955ND / ML-2955DW
+Samsung SCX-4729FD / SCX-4729FW
+If your printer model isn't listed, send us the number from the front panel and we'll confirm before you pay.
+
+## Specifications
+| Page yield | Part type | Colour | Part number | Genuine or compatible |
+|---|---|---|---|---|
+| ~2,500 pages | Laser Toner Cartridge | Black | MLT-D103L / D103L | Genuine / Compatible |
+
+## Genuine or compatible?
+Available in OEM Genuine Samsung supplies as well as high-capacity Compatible options.
+
+## Why buy from Trinatech
+Stock held in Nairobi CBD. Delivery across Kenya including Kisumu, Nakuru, Eldoret, and Mombasa. M-Pesa and bank transfer accepted. WhatsApp ordering and walk-in options at The One Mall, River Road.
+
+## Getting the most from this product
+Remove the protective clip shields before inserting into the host carriage.
+
+## Frequently asked questions
+What is the page yield? ~2,500 pages based on 5% coverage.
+How fast is Nairobi delivery? Same-day inside 1 to 3 hours.
+How do I pay? M-Pesa Buy Goods/Till or bank wire.
+Is warranty included? Covered against defects.`, "metaTitle": "Samsung MLT-D103L Black Toner Cartridge Price", "metaDescription": "Order Samsung MLT-D103L high-yield black toner in Nairobi. Yields ~2,500 pages for ML-2950, ML-2955, SCX-4729. Fast Kenya delivery.", "inStock": true},
+  {"id": 4307, "sku": null, "name": "Samsung MLT-D105S Black Toner Cartridge", "brand": "Samsung", "category": "Inks & Toner Cartridges", "price": 2500, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2025/01/Samsung-MLT-D105S-Black-Toner.png", "imageFile": "Samsung-MLT-D105S-Black-Toner.png", "description": `The Samsung MLT-D105S Black Toner Cartridge delivers reliable black toner performance for Samsung desktop laser printers. Built to produce clear text, sharp document graphics, and smooth feeding across Kenya.
+
+## Compatible printers
+Samsung ML-1910 / ML-1915 / ML-2525 / ML-2525W / ML-2580N
+Samsung SCX-4600 / SCX-4623F / SCX-4623FN
+Samsung SF-650 / SF-650P
+If your printer model isn't listed, send us the number from the front panel and we'll confirm before you pay.
+
+## Specifications
+| Page yield | Part type | Colour | Part number | Genuine or compatible |
+|---|---|---|---|---|
+| ~1,500 pages | Laser Toner Cartridge | Black | MLT-D105S / D105S | Genuine / Compatible |
+
+## Genuine or compatible?
+Covers OEM Genuine Samsung cartridges as well as budget-friendly Compatible alternatives.
+
+## Why buy from Trinatech
+Stock held in Nairobi CBD. Delivery across Kenya including Kisumu, Nakuru, Eldoret, and Mombasa. M-Pesa and bank transfer accepted. WhatsApp ordering and walk-in options at The One Mall, River Road.
+
+## Getting the most from this product
+Pull out the protective orange plastic tabs prior to sliding into the printer drum track.
+
+## Frequently asked questions
+What is the page yield? ~1,500 standard pages.
+How fast is Nairobi delivery? Delivered within 1 to 3 hours in Nairobi.
+How can I pay? Pay via M-Pesa or bank transfer.
+Is warranty provided? Covered against factory defects.`, "metaTitle": "Samsung MLT-D105S Black Toner Cartridge Price", "metaDescription": "Shop Samsung MLT-D105S black toner cartridge in Nairobi. Yields ~1,500 pages for ML-1910, ML-2525, SCX-4623. Fast delivery Kenya.", "inStock": true},
+  {"id": 4304, "sku": null, "name": "Samsung MLT-D108S Black Toner Cartridge", "brand": "Samsung", "category": "Inks & Toner Cartridges", "price": 9000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2025/01/Samsung-MLT-D108S-Black-Toner.png", "imageFile": "Samsung-MLT-D108S-Black-Toner.png", "description": `The Samsung MLT-D108S Black Toner Cartridge delivers crisp monochrome laser printing for Samsung desktop printers. Formulated for sharp dark text, clear greyscales, and consistent paper feeding across Kenya.
+
+## Compatible printers
+Samsung ML-1640 / ML-1641
+Samsung ML-2240 / ML-2241
+If your printer model isn't listed, send us the number from the front panel and we'll confirm before you pay.
+
+## Specifications
+| Page yield | Part type | Colour | Part number | Genuine or compatible |
+|---|---|---|---|---|
+| ~1,500 pages | Laser Toner Cartridge | Black | MLT-D108S / D108S | Genuine / Compatible |
+
+## Genuine or compatible?
+Covers OEM Genuine Samsung supplies as well as cost-effective Compatible alternatives.
+
+## Why buy from Trinatech
+Stock held in Nairobi CBD. Delivery across Kenya including Kisumu, Nakuru, Eldoret, and Mombasa. M-Pesa and bank transfer accepted. WhatsApp ordering and walk-in options at The One Mall, River Road.
+
+## Getting the most from this product
+Rock the cartridge horizontally 5 times before removing protective clips.
+
+## Frequently asked questions
+What is the page yield? ~1,500 standard pages.
+How fast is Nairobi delivery? Same-day inside 1 to 3 hours.
+How do I pay? Pay via M-Pesa Buy Goods/Till or bank transfer.
+Is warranty provided? Covered against factory defects.`, "metaTitle": "Samsung MLT-D108S Black Toner Cartridge Price", "metaDescription": "Buy Samsung MLT-D108S black toner cartridge in Nairobi. Yields ~1,500 pages for ML-1640, ML-2240. Fast delivery across Kenya.", "inStock": true},
+  {"id": 4323, "sku": null, "name": "Samsung MLT-D109S Black Toner Cartridge", "brand": "Samsung", "category": "Inks & Toner Cartridges", "price": 10000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2025/01/Samsung-MLT-D109S-Black-Toner.png", "imageFile": "Samsung-MLT-D109S-Black-Toner.png", "description": `The Samsung MLT-D109S Black Toner Cartridge is engineered to provide reliable monochrome performance for Samsung SCX desktop All-in-One devices. Built to deliver dark text rendering and smooth page feeds in Nairobi.
+
+## Compatible printers
+Samsung SCX-4300 / SCX-4300K
+If your printer model isn't listed, send us the number from the front panel and we'll confirm before you pay.
+
+## Specifications
+| Page yield | Part type | Colour | Part number | Genuine or compatible |
+|---|---|---|---|---|
+| ~2,000 pages | Laser Toner Cartridge | Black | MLT-D109S / D109S | Genuine / Compatible |
+
+## Genuine or compatible?
+Available in OEM Genuine Samsung supplies as well as budget-friendly Compatible options.
+
+## Why buy from Trinatech
+Stock held in Nairobi CBD. Delivery across Kenya including Kisumu, Nakuru, Eldoret, and Mombasa. M-Pesa and bank transfer accepted. WhatsApp ordering and walk-in options at The One Mall, River Road.
+
+## Getting the most from this product
+Pull off protective plastic tabs before sliding into the main printer carriage.
+
+## Frequently asked questions
+What is the page yield? ~2,000 pages based on 5% coverage.
+How fast is Nairobi delivery? Same-day inside 1 to 3 hours.
+How can I pay? Pay via M-Pesa or bank transfer.
+Is warranty included? Covered against defects.`, "metaTitle": "Samsung MLT-D109S Black Toner Cartridge Price", "metaDescription": "Order Samsung MLT-D109S black toner cartridge in Nairobi. Yields ~2,000 pages for SCX-4300 MFP series. Fast delivery in Kenya.", "inStock": true},
   {"id": 4313, "sku": null, "name": "Samsung MLT-D111S Black Toner Cartridge", "brand": "Samsung", "category": "Inks & Toner Cartridges", "price": 11000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2025/01/Samsung-MLT-D111S-Black-Toner.png", "imageFile": "Samsung-MLT-D111S-Black-Toner.png", "description": `The Samsung MLT-D111S Black Toner Cartridge delivers sharp monochrome text documents and reliable page throughput for compact Samsung Xpress printers. Formulated for everyday administrative printing in home offices and corporate setups across Kenya.
 
 ## Compatible printers
@@ -1319,13 +1445,162 @@ Can I plug this directly into a Smart TV? Yes, many smart TVs support USB extern
 What is the delivery time? We offer same-day delivery in Nairobi CBD, and next-day delivery nationwide.
 What is your warranty or returns policy? A standard 1-year manufacturer hardware warranty applies to this device.
 Is the USB cable included in the box? Yes, the required high-speed USB Type-A data cable is included in the packaging.`, "inStock": true, "metaTitle": "Transcend 2TB StoreJet Portable External Hard Drive", "metaDescription": "Genuine Transcend 2TB StoreJet portable external hard drive. Military-grade shock resistance, USB 3.1 Gen 1. Fast delivery nationwide from Trinatech."},
-  {"id": 9001, "sku": null, "name": "HP LaserJet Pro 2320 Printer", "brand": "HP", "category": "Printers & Copiers", "price": 9000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/08/9001_hp_hp-laserjet-pro-2320-printer.jpg.png", "imageFile": "9001_hp_hp-laserjet-pro-2320-printer.jpg.png", "description": "HP LaserJet Pro 2320 printer. Reliable mono laser printing for home and office.", "inStock": true},
-  {"id": 9002, "sku": null, "name": "HP LaserJet M141a Printer", "brand": "HP", "category": "Printers & Copiers", "price": 27000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/08/9002_hp_hp-laserjet-m141a-printer.jpg", "imageFile": "9002_hp_hp-laserjet-m141a-printer.jpg", "description": "HP LaserJet M141a multifunction printer. Compact print, scan and copy for small offices.", "inStock": true},
-  {"id": 9003, "sku": null, "name": "Kyocera ECOSYS FS-4125idn Printer", "brand": "Kyocera", "category": "Printers & Copiers", "price": 250000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/08/9003_kyocera_kyocera-ecosys-fs-4125idn-printer.jpg.png", "imageFile": "9003_kyocera_kyocera-ecosys-fs-4125idn-printer.jpg.png", "description": "Kyocera ECOSYS FS-4125idn mono multifunction printer with duplex printing and network connectivity.", "inStock": true},
-  {"id": 9004, "sku": null, "name": "Kyocera ECOSYS MA4000cix Printer", "brand": "Kyocera", "category": "Printers & Copiers", "price": 160000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/08/9004_kyocera_kyocera-ecosys-ma4000cix-printer.jpg.png", "imageFile": "9004_kyocera_kyocera-ecosys-ma4000cix-printer.jpg.png", "description": "Kyocera ECOSYS MA4000cix colour multifunction printer. Up to 40 pages A4 per minute in colour and b/w, double-sided print, copy and scan.", "inStock": true},
-  {"id": 9005, "sku": null, "name": "Kyocera ECOSYS M4125idn Printer", "brand": "Kyocera", "category": "Printers & Copiers", "price": 245000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/08/9005_kyocera_kyocera-ecosys-m4125idn-printer.jpg.png", "imageFile": "9005_kyocera_kyocera-ecosys-m4125idn-printer.jpg.png", "description": "Kyocera ECOSYS M4125idn A4/A3 multifunction printer. Up to 25/12 pages per minute with duplex printing.", "inStock": true},
-  {"id": 9006, "sku": null, "name": "Kyocera TASKalfa MZ4000i Printer", "brand": "Kyocera", "category": "Printers & Copiers", "price": 490000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/08/9006_kyocera_kyocera-taskalfa-mz4000i-printer.jpg.png", "imageFile": "9006_kyocera_kyocera-taskalfa-mz4000i-printer.jpg.png", "description": "Kyocera TASKalfa MZ4000i A3 mono laser multifunction printer. Up to 40 pages A4 per minute, print, scan, copy and fax.", "inStock": true},
-  {"id": 9007, "sku": null, "name": "Kyocera 2020 Platen Cover", "brand": "Kyocera", "category": "Maintenance Kits & Spare Parts", "price": 19000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/08/9007_kyocera_kyocera-2020-platen-cover.jpg.png", "imageFile": "9007_kyocera_kyocera-2020-platen-cover.jpg.png", "description": "Genuine platen cover for the Kyocera 2020 series printer.", "inStock": true},
+  {"id": 9001, "sku": null, "name": "HP LaserJet Pro 2320 Printer", "brand": "HP", "category": "Printers & Copiers", "price": 9000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/08/9001_hp_hp-laserjet-pro-2320-printer.jpg.png", "imageFile": "9001_hp_hp-laserjet-pro-2320-printer.jpg.png", "description": `The HP LaserJet Pro 2320 Printer series delivers heavy-duty color laser document printing and copying for demanding offices. Formulated for high monthly duty cycles, sharp black text, and rich image contrast across Kenya.
+
+## Compatible consumables
+HP 304A Black Toner Cartridge (CC530A)
+HP 304A Cyan Toner Cartridge (CC531A)
+HP 304A Yellow Toner Cartridge (CC532A)
+HP 304A Magenta Toner Cartridge (CC533A)
+
+## Specifications
+| Print speed | Technology | Functions | Max paper size | Connectivity |
+|---|---|---|---|---|
+| Up to 21 ppm | Color Laser | Print, Copy, Scan, Fax | A4 / Letter | USB 2.0 / Ethernet |
+
+## Why buy from Trinatech
+Stock held in Nairobi CBD. Delivery across Kenya including Kisumu, Nakuru, Eldoret, and Mombasa. M-Pesa and bank transfer accepted. WhatsApp ordering and walk-in options at The One Mall, River Road.
+
+## Getting the most from this product
+Connect via Ethernet cable to share network printing across office workstations.
+
+## Frequently asked questions
+Does it support duplexing? Selected models include automatic two-sided printing.
+How fast is Nairobi shipping? Delivered within 1 to 3 hours across Nairobi CBD.
+How can I pay? Pay via M-Pesa, bank wire, or cash.
+Is warranty provided? Covered with shop warranty.`, "metaTitle": "HP Color LaserJet Pro CP2025 / CM2320 Printer", "metaDescription": "Buy HP Color LaserJet Pro CP2025 & CM2320 series color printers in Nairobi. Fast print speeds up to 21 ppm. Fast delivery Kenya.", "inStock": true},
+  {"id": 9002, "sku": null, "name": "HP LaserJet M141a Printer", "brand": "HP", "category": "Printers & Copiers", "price": 27000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/08/9002_hp_hp-laserjet-m141a-printer.jpg", "imageFile": "9002_hp_hp-laserjet-m141a-printer.jpg", "description": `The HP LaserJet M141a Printer is HP's smallest multi-function monochrome laser printer. Ideal for home offices and small business desks in Nairobi requiring compact, efficient print, scan, and copy functionality.
+
+## Compatible consumables
+HP 150A Black LaserJet Toner Cartridge (W1500A)
+
+## Specifications
+| Print speed | Technology | Functions | Max paper size | Connectivity |
+|---|---|---|---|---|
+| Up to 20 ppm | Monochrome Laser | Print, Copy, Scan | A4 | Hi-Speed USB 2.0 |
+
+## Why buy from Trinatech
+Stock held in Nairobi CBD. Delivery across Kenya including Kisumu, Nakuru, Eldoret, and Mombasa. M-Pesa and bank transfer accepted. WhatsApp ordering and walk-in options at The One Mall, River Road.
+
+## Getting the most from this product
+Use the flatbed scanner glass to digitize receipts, IDs, and multi-page documents effortlessly.
+
+## Frequently asked questions
+Does it have Wi-Fi? The M141a is USB only; the M141w model includes Wi-Fi.
+How fast is Nairobi delivery? Same-day inside 1 to 3 hours.
+How do I pay? M-Pesa Buy Goods/Till or bank wire.
+Is warranty included? 1-Year HP manufacturer warranty.`, "metaTitle": "HP LaserJet MFP M141a Multifunction Printer", "metaDescription": "Shop HP LaserJet MFP M141a printer in Nairobi. Compact 3-in-1 print, scan, copy with fast speed up to 20 ppm. Fast Kenya delivery.", "inStock": true},
+  {"id": 9003, "sku": null, "name": "Kyocera ECOSYS FS-4125idn Printer", "brand": "Kyocera", "category": "Printers & Copiers", "price": 250000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/08/9003_kyocera_kyocera-ecosys-fs-4125idn-printer.jpg.png", "imageFile": "9003_kyocera_kyocera-ecosys-fs-4125idn-printer.jpg.png", "description": `The Kyocera ECOSYS FS-4125idn Printer (ECOSYS M4125idn) is an A3/A4 monochrome multi-function laser printer engineered for medium-to-large workgroups in Kenya. Delivers low running costs and high long-term drum durability.
+
+## Compatible consumables
+Kyocera TK-6115 Black Toner Cartridge (~15,000 pages)
+
+## Specifications
+| Print speed | Technology | Functions | Max paper size | Connectivity |
+|---|---|---|---|---|
+| Up to 25 ppm | Mono Laser | Print, Copy, Scan, Fax (Opt) | A3 | Network Ethernet / USB 2.0 |
+
+## Why buy from Trinatech
+Stock held in Nairobi CBD. Delivery across Kenya including Kisumu, Nakuru, Eldoret, and Mombasa. M-Pesa and bank transfer accepted. WhatsApp ordering and walk-in options at The One Mall, River Road.
+
+## Getting the most from this product
+Configure PIN-code release on the touch panel to keep confidential office documents secure.
+
+## Frequently asked questions
+What paper sizes are supported? A4, A3, Letter, and Legal.
+How fast is Nairobi delivery? Same-day inside 1 to 3 hours.
+How can I pay? Pay via M-Pesa or bank transfer.
+Is warranty provided? Covered against technical defects.`, "metaTitle": "Kyocera ECOSYS M4125idn A3 MFP Printer", "metaDescription": "Buy Kyocera ECOSYS M4125idn A3 monochrome MFP in Nairobi. Print speed up to 25 ppm with duplex & network. Fast Kenya shipping.", "inStock": true},
+  {"id": 9004, "sku": null, "name": "Kyocera ECOSYS MA4000cix Printer", "brand": "Kyocera", "category": "Printers & Copiers", "price": 160000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/08/9004_kyocera_kyocera-ecosys-ma4000cix-printer.jpg.png", "imageFile": "9004_kyocera_kyocera-ecosys-ma4000cix-printer.jpg.png", "description": `The Kyocera ECOSYS MA4000cix Printer is a high-speed A4 color multifunction printer built for demanding corporate offices in Nairobi. Features advanced security protocols, low energy consumption, and high monthly print yields.
+
+## Compatible consumables
+Kyocera TK-5380K Black Toner Cartridge (~13,000 pages)
+Kyocera TK-5380C / M / Y Color Toner Cartridges (~10,000 pages each)
+
+## Specifications
+| Print speed | Technology | Functions | Max paper size | Connectivity |
+|---|---|---|---|---|
+| Up to 40 ppm | Color Laser | Print, Copy, Scan | A4 / Legal | Gigabit Ethernet / USB / Wi-Fi |
+
+## Why buy from Trinatech
+Stock held in Nairobi CBD. Delivery across Kenya including Kisumu, Nakuru, Eldoret, and Mombasa. M-Pesa and bank transfer accepted. WhatsApp ordering and walk-in options at The One Mall, River Road.
+
+## Getting the most from this product
+Utilize the single-pass duplex feeder for high-speed two-sided document scanning.
+
+## Frequently asked questions
+What is the print speed? Up to 40 pages per minute in color and mono.
+How fast is Nairobi shipping? Delivered in 1 to 3 hours across Nairobi.
+How do I pay? Pay via M-Pesa Buy Goods/Till or bank transfer.
+Is warranty provided? Covered with official warranty.`, "metaTitle": "Kyocera ECOSYS MA4000cix Color Laser Printer", "metaDescription": "Order Kyocera ECOSYS MA4000cix color MFP in Nairobi. Print speed up to 40 ppm with duplex & network security. Fast delivery.", "inStock": true},
+  {"id": 9005, "sku": null, "name": "Kyocera ECOSYS M4125idn Printer", "brand": "Kyocera", "category": "Printers & Copiers", "price": 245000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/08/9005_kyocera_kyocera-ecosys-m4125idn-printer.jpg.png", "imageFile": "9005_kyocera_kyocera-ecosys-m4125idn-printer.jpg.png", "description": `The Kyocera ECOSYS M4125idn Printer is a robust A3/A4 multi-function printer providing high productivity and low total cost of ownership. Built with long-life ceramic components designed for workgroup printing in Kenya.
+
+## Compatible consumables
+Kyocera TK-6115 Black Toner Cartridge (~15,000 pages)
+
+## Specifications
+| Print speed | Technology | Functions | Max paper size | Connectivity |
+|---|---|---|---|---|
+| Up to 25 ppm | Mono Laser | Print, Copy, Scan, Fax (Opt) | A3 | Network Ethernet / USB 2.0 |
+
+## Why buy from Trinatech
+Stock held in Nairobi CBD. Delivery across Kenya including Kisumu, Nakuru, Eldoret, and Mombasa. M-Pesa and bank transfer accepted. WhatsApp ordering and walk-in options at The One Mall, River Road.
+
+## Getting the most from this product
+Set up scan-to-email directly on the control screen for seamless workflow routing.
+
+## Frequently asked questions
+What toner does it take? Takes TK-6115 black toner cartridge.
+How fast is Nairobi delivery? Same-day inside 1 to 3 hours.
+How can I pay? Pay via M-Pesa or bank transfer.
+Is warranty provided? Covered with shop warranty.`, "metaTitle": "Kyocera ECOSYS M4125idn A3 Mono MFP Printer", "metaDescription": "Buy Kyocera ECOSYS M4125idn A3 mono laser MFP in Nairobi. 25 ppm speed, touch panel, duplex, network ready. Fast delivery Kenya.", "inStock": true},
+  {"id": 9006, "sku": null, "name": "Kyocera TASKalfa MZ4000i Printer", "brand": "Kyocera", "category": "Printers & Copiers", "price": 490000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/08/9006_kyocera_kyocera-taskalfa-mz4000i-printer.jpg.png", "imageFile": "9006_kyocera_kyocera-taskalfa-mz4000i-printer.jpg.png", "description": `The Kyocera TASKalfa MZ4000i Printer is a high-performance enterprise A3 monochrome multi-function system. Engineered for high-volume corporate document workloads, data encryption, and heavy paper cassette capacity in Kenya.
+
+## Compatible consumables
+Kyocera TK-7235 Black Toner Cartridge (~35,000 pages)
+
+## Specifications
+| Print speed | Technology | Functions | Max paper size | Connectivity |
+|---|---|---|---|---|
+| Up to 40 ppm | Mono Laser | Print, Copy, Scan, Fax (Opt) | A3 / SRA3 | Gigabit Ethernet / USB 3.0 |
+
+## Why buy from Trinatech
+Stock held in Nairobi CBD. Delivery across Kenya including Kisumu, Nakuru, Eldoret, and Mombasa. M-Pesa and bank transfer accepted. WhatsApp ordering and walk-in options at The One Mall, River Road.
+
+## Getting the most from this product
+Add optional high-capacity paper feeder decks for uninterrupted print runs.
+
+## Frequently asked questions
+What is the toner yield? The TK-7235 toner yields approximately 35,000 pages.
+How fast is Nairobi delivery? Delivered in 1 to 3 hours across Nairobi CBD.
+How do I pay? M-Pesa Buy Goods/Till or bank wire.
+Is warranty included? Covered with warranty.`, "metaTitle": "Kyocera TASKalfa MZ4000i A3 Mono MFP Printer", "metaDescription": "Shop Kyocera TASKalfa MZ4000i A3 monochrome MFP printer in Nairobi. High speed 40 ppm with advanced security features. Fast delivery.", "inStock": true},
+  {"id": 9007, "sku": null, "name": "Kyocera 2020 Platen Cover", "brand": "Kyocera", "category": "Maintenance Kits & Spare Parts", "price": 19000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/08/9007_kyocera_kyocera-2020-platen-cover.jpg.png", "imageFile": "9007_kyocera_kyocera-2020-platen-cover.jpg.png", "description": `The Kyocera 2020 Platen Cover (Platen Cover Type E / Platen Cover 2020) is an original flatbed scanner top cover designed for Kyocera A3 copiers. Protects the glass surface and holds documents flat when scanning or copying without an ADF in Nairobi.
+
+## Compatible copiers
+Kyocera TASKalfa 1800 / 1801 / 2200 / 2201
+Kyocera ECOSYS 2020 / 2520 series
+If your copier model isn't listed, send us the number from the front panel and we'll confirm before you pay.
+
+## Specifications
+| Part type | Material | Max document size | Part number | Genuine or compatible |
+|---|---|---|---|---|
+| Scanner Platen Cover | Molded ABS Plastic | A3 Format | Platen Cover Type E | Genuine |
+
+## Genuine or compatible?
+Genuine Original Kyocera copier accessory.
+
+## Why buy from Trinatech
+Stock held in Nairobi CBD. Delivery across Kenya including Kisumu, Nakuru, Eldoret, and Mombasa. M-Pesa and bank transfer accepted. WhatsApp ordering and walk-in options at The One Mall, River Road.
+
+## Getting the most from this product
+Align the hinge pins with the rear frame sockets and drop into position until securely seated.
+
+## Frequently asked questions
+Does this include an automatic document feeder? No, this is the basic flatbed platen cover lid.
+How fast is Nairobi delivery? Same-day inside 1 to 3 hours.
+How can I pay? Pay via M-Pesa or bank wire.
+Is warranty provided? Covered against defects.`, "metaTitle": "Kyocera Type E Platen Cover for Copiers", "metaDescription": "Buy Kyocera Type E Platen Cover for TASKalfa & ECOSYS copiers in Nairobi. Fits 1800, 2200, 2020, 2201 series. Fast delivery Kenya.", "inStock": true},
   {"id": 9101, "sku": null, "name": "Kyocera ECOSYS M4125idn Printer", "brand": "Kyocera", "category": "Printers & Copiers", "price": 235000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/08/9101_kyocera_kyocera-ecosys-m4125idn-printer.jpg.png", "imageFile": "9101_kyocera_kyocera-ecosys-m4125idn-printer.jpg.png", "description": "Kyocera ECOSYS M4125idn A4/A3 mono multifunction printer. Prints up to 25 pages A4 and 12 pages A3 per minute with duplex printing and network connectivity.", "inStock": true},
   {"id": 9102, "sku": null, "name": "Kyocera ECOSYS MA4000cix Printer", "brand": "Kyocera", "category": "Printers & Copiers", "price": 145000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/08/9102_kyocera_kyocera-ecosys-ma4000cix-printer.jpg.png", "imageFile": "9102_kyocera_kyocera-ecosys-ma4000cix-printer.jpg.png", "description": "Kyocera ECOSYS MA4000cix colour multifunction printer. Up to 40 pages A4 per minute in colour and black & white, with double-sided print, copy and scan.", "inStock": true},
   {"id": 9104, "sku": null, "name": "Kyocera 2020 Platen Cover", "brand": "Kyocera", "category": "Maintenance Kits & Spare Parts", "price": 9000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/08/9104_kyocera_kyocera-2020-platen-cover.jpg.png", "imageFile": "9104_kyocera_kyocera-2020-platen-cover.jpg.png", "description": "Genuine platen cover for the Kyocera 2020 series printer/copier.", "inStock": true},

@@ -111,7 +111,33 @@ Do I need other colours to print? No, these copiers are monochrome only and only
 What is the delivery time? Same-day delivery within Nairobi CBD and next-day for the rest of Kenya.
 What is your warranty or returns policy? Genuine Ricoh toners come with a standard manufacturer defect warranty.
 Can I refill this bottle manually? We strongly advise against manual refills, as incorrect toner powder will instantly destroy the developer unit.`, "metaTitle": "Ricoh Type 1230D Black Toner Cartridge", "metaDescription": "Genuine Ricoh Type 1230D black toner, approx 9,000 pages, for Aficio 2015, 2018, MP 1600, MP 2000. Delivered anywhere in Kenya from Nairobi.", "inStock": true},
-  {"id": 4375, "sku": null, "name": "Cz/Cv Riso Compatible Ink", "brand": "Riso", "category": "Inks & Toner Cartridges", "price": 5000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2025/01/CZCV-Ink.png", "imageFile": "CZCV-Ink.png", "description": "The CZ/CV Riso Compatible Ink is a high-performance ink solution designed to provide exceptional print quality for CZ and CV Riso printers.", "inStock": true},
+  {"id": 4375, "sku": null, "name": "Cz/Cv Riso Compatible Ink", "brand": "Riso", "category": "Inks & Toner Cartridges", "price": 5000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2025/01/CZCV-Ink.png", "imageFile": "CZCV-Ink.png", "description": `The Cz/Cv Riso Compatible Ink (S-7608 / S-7612 Type) supplies 800ml black duplicator ink for Riso CZ and CV series digital duplicators. Engineered for rapid drying, clean stencil transfer, and low cost-per-copy runs in Nairobi.
+
+## Compatible printers
+Riso CZ100 / CZ180
+Riso CV1200 / CV3030 / CV3130
+Riso CV series digital duplicators
+If your duplicator model isn't listed, send us the number from the front panel and we'll confirm before you pay.
+
+## Specifications
+| Volume | Part type | Colour | Part number | Genuine or compatible |
+|---|---|---|---|---|
+| 800 ml | Duplicator Ink Tube | Black | S-7608 / CZ/CV Type | Compatible |
+
+## Genuine or compatible?
+High-grade Compatible duplicator ink tube formulated for exact viscosity and screen mesh compatibility.
+
+## Why buy from Trinatech
+Stock held in Nairobi CBD. Delivery across Kenya including Kisumu, Nakuru, Eldoret, and Mombasa. M-Pesa and bank transfer accepted. WhatsApp ordering and walk-in options at The One Mall, River Road.
+
+## Getting the most from this product
+Twist and lock the ink bottle firmly into the duplicator drum cylinder prior to initiating a print cycle.
+
+## Frequently asked questions
+What is the bottle capacity? 800ml volume.
+How fast is Nairobi delivery? Same-day inside 1 to 3 hours.
+How do I pay? Pay via M-Pesa Buy Goods/Till or bank transfer.
+Is warranty included? Covered against defects.`, "metaTitle": "Riso CZ / CV Series Compatible Black Ink 800ml", "metaDescription": "Shop Riso CZ & CV series compatible black duplicator ink 800ml in Nairobi. Fits CZ100, CV1200, CV3030. Fast delivery across Kenya.", "inStock": true},
   {"id": 5347, "sku": "CZ100-2", "name": "Riso CZ100 (S-7608 A4 Master Roll Compatible For CZ100)", "brand": "Riso", "category": "Riso Master Rolls & Inks", "price": 5000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/Riso-CZ100-S-7608-A4-Master-Roll-Compatible-For-CZ100.webp", "imageFile": "Riso-CZ100-S-7608-A4-Master-Roll-Compatible-For-CZ100.webp", "description": `The Riso CZ100 (S-7608 A4 Master Roll Compatible For CZ100) provides an economical master roll replacement for Riso CZ-series digital duplicators. Formulated to ensure precise thermal stencil punching for low-cost volume printing in Kenya.
 
 ## Compatible printers

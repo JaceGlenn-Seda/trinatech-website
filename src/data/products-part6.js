@@ -999,8 +999,67 @@ Do I need other colours to print? No, these copiers are strictly black-and-white
 What is the delivery time? Same-day delivery within Nairobi CBD and next-day for the rest of Kenya.
 What is your warranty or returns policy? We replace any compatible toners that show manufacturing defects upon installation.
 Are the 560, 561, and 460 the same thing? They are often cross-compatible regional codes for the same physical cartridge shape and yield.`, "metaTitle": "Sharp MX-560NT / MX-561NT Compatible Toner", "metaDescription": "Compatible Sharp MX-560NT and MX-561NT black toner, approx 40,000 pages, for Sharp MX-M364N, MX-M464N series. Nairobi CBD stock.", "inStock": true},
-  {"id": 4035, "sku": null, "name": "Toshiba 1TB Canvio Basics Portable External Hard Drive", "brand": "Toshiba", "category": "Computers & Computer Accessories > External Hard Disks", "price": 9000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2025/01/Toshiba-1TB-External-Hard-Drive.png", "imageFile": "Toshiba-1TB-External-Hard-Drive.png", "description": "The Toshiba 1TB Canvio Basics Portable External Hard Drive is the perfect solution for users seeking a reliable, compact, and easy-to-use storage solution.", "inStock": true},
-  {"id": 4032, "sku": null, "name": "Toshiba 2TB Canvio Basics Portable External Hard Drive", "brand": "Toshiba", "category": "Computers & Computer Accessories > External Hard Disks", "price": 13000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2025/01/Toshiba-2TB-External-Hard-Drive.png", "imageFile": "Toshiba-2TB-External-Hard-Drive.png", "description": "The Toshiba 2TB Canvio Basics Portable External Hard Drive is the perfect solution for anyone in need of reliable, high-capacity storage.", "inStock": true},
+  {"id": 4035, "sku": null, "name": "Toshiba 1TB Canvio Basics Portable External Hard Drive", "brand": "Toshiba", "category": "Computers & Computer Accessories > External Hard Disks", "price": 9000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2025/01/Toshiba-1TB-External-Hard-Drive.png", "imageFile": "Toshiba-1TB-External-Hard-Drive.png", "description": `The Toshiba 1TB Canvio Basics Portable External Hard Drive offers simple, plug-and-play data storage in a sleek, compact casing. Utilizing fast USB 3.0 technology, it lets you quickly back up large photo collections, business documents, and video libraries without needing external power supplies or complex software installations. Its matte black, pocket-sized design makes it an ideal, highly portable solution for professionals and students who need to transport their digital lives safely.
+
+    ## Compatible printers
+    Toshiba Canvio Basics 1TB (Standalone product) If your model isn't listed, send us the number from the front of the machine and we'll confirm before you pay.
+
+    ## Specifications
+
+    | Page yield | Cartridge type | Colour | Capacity | Part number | Genuine or compatible |
+    |---|---|---|---|---|---|
+    | N/A | External Hard Drive | Matte Black | 1TB Storage | HDTB410EK3AA | Genuine OEM |
+
+    ## Genuine or compatible?
+    This is a genuine, brand-new Toshiba external hard drive in factory-sealed packaging. Authentic Toshiba drives feature reliable internal mechanics, verified storage capacities, and built-in ramp-load technology to protect your data against accidental bumps during transit.
+
+    ## Why buy from Trinatech
+    Stock held in Nairobi CBD for rapid dispatch.
+    Delivery across Kenya including Kisumu, Nakuru, Eldoret and Mombasa.
+    M-Pesa and bank transfer accepted.
+    WhatsApp ordering, walk-in at The One Mall River Road.
+
+    ## Getting the most from this cartridge
+    Always use the "Safely Remove Hardware" or "Eject" command on your computer operating system before unplugging the USB cable to prevent file corruption.
+    Avoid dropping or jarring the drive while it is powered on, as the internal spinning disks are sensitive to physical shock.
+    Store the drive in a protective pouch when carrying it in your bag.
+
+    ## Frequently asked questions
+    Does this drive require external power? No, it draws all necessary power directly through the included USB cable.
+    Is it compatible with Mac computers? Yes, though it may require reformatting from NTFS to exFAT or APFS depending on your Mac settings.
+    What is the delivery time? Delivery is completed within the same day in Nairobi, and by the next day countrywide.
+    What is your warranty or returns policy? Backed by a standard 1-year manufacturer hardware warranty.
+    What USB speeds does it support? It supports high-speed USB 3.0 and is fully backward compatible with USB 2.0 ports.`, "inStock": true, "metaTitle": "Toshiba 1TB Canvio Basics External HDD", "metaDescription": "Toshiba 1TB Canvio Basics portable external hard drive, USB 3.0, plug-and-play storage. Fast delivery across Kenya via Trinatech Nairobi."},
+  {"id": 4032, "sku": null, "name": "Toshiba 2TB Canvio Basics Portable External Hard Drive", "brand": "Toshiba", "category": "Computers & Computer Accessories > External Hard Disks", "price": 13000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2025/01/Toshiba-2TB-External-Hard-Drive.png", "imageFile": "Toshiba-2TB-External-Hard-Drive.png", "description": `The Toshiba 2TB Canvio Basics Portable External Hard Drive gives you massive, pocket-sized storage capacity to back up your entire digital world with ease. Featuring fast USB 3.0 plug-and-play connectivity, this lightweight drive lets you store hundreds of thousands of photos, high-definition videos, and crucial office archives without cluttering your computer's internal drive. Its understated matte black finish and shock-resistant internal design make it a dependable travelling companion for heavy data users.
+
+    ## Compatible printers
+    Toshiba Canvio Basics 2TB (Standalone product) If your model isn't listed, send us the number from the front of the machine and we'll confirm before you pay.
+
+    ## Specifications
+
+    | Page yield | Cartridge type | Colour | Capacity | Part number | Genuine or compatible |
+    |---|---|---|---|---|---|
+    | N/A | External Hard Drive | Matte Black | 2TB Storage | HDTB420EK3AA | Genuine OEM |
+
+    ## Genuine or compatible?
+    This is a 100% genuine, brand-new Toshiba external hard drive supplied in its original sealed box. Authentic Toshiba storage hardware ensures verified 2TB capacity, reliable read/write speeds, and full manufacturer warranty protection for your valuable backup archives.
+
+    ## Why buy from Trinatech
+    Reliable stock held in Nairobi CBD.
+    Delivery across Kenya including Kisumu, Nakuru, Eldoret and Mombasa.
+    M-Pesa and bank transfer accepted securely.
+    Easy WhatsApp ordering or walk-in at The One Mall River Road.
+
+    ## Getting the most from this cartridge
+    To safeguard your important data against unexpected hardware loss, we recommend maintaining a 3-2-1 backup strategy where critical files are stored both on your computer and on this external drive.
+    Always eject the drive properly through your operating system before disconnecting the USB cable to avoid file allocation table corruption.
+
+    ## Frequently asked questions
+    Can I plug this directly into a Smart TV? Yes, many TVs support USB external hard drives for media playback, provided the drive is formatted correctly.
+    Does it come with a USB cable included? Yes, a certified USB 3.0 connection cable is included in the box.
+    What is the delivery time? We offer same-day delivery in Nairobi CBD, and next-day delivery nationwide.
+    What is your warranty or returns policy? Standard 1-year manufacturer hardware warranty applies.
+    Is 2TB the maximum capacity in this series? Toshiba offers various capacities in the Canvio Basics line, with 2TB providing an excellent balance of space and portability.`, "inStock": true, "metaTitle": "Toshiba 2TB Canvio Basics External HDD", "metaDescription": "Toshiba 2TB Canvio Basics portable external hard drive, USB 3.0, plug-and-play storage. Reliable backup data storage delivered nationwide."},
   {"id": 4978, "sku": "T-2507P", "name": "Toshiba T-2507P Toner Cartridge", "brand": "Toshiba", "category": "Toshiba Toners", "price": 4000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/Toshiba-T-2507P-Toner-Cartridge.webp", "imageFile": "Toshiba-T-2507P-Toner-Cartridge.webp", "description": `The Toshiba T-2507P Black Toner Cartridge ensures your reliable legacy Toshiba e-STUDIO copier continues to output high-quality, professional documents without frustrating downtime. Formulated to adhere perfectly to the page, this genuine toner provides sharp, smudge-free text and clear greyscale graphics for up to 12,000 pages. It is an essential supply for businesses and home offices depending on these incredibly durable monochrome machines.
 
 ## Compatible printers

@@ -4,7 +4,36 @@
 import { PRODUCTS_4B } from "./products-part4b";
 
 export const PRODUCTS_4 = [
-  {"id": 3504, "sku": null, "name": "HP V24I G5 Fhd Monitor", "brand": "HP", "category": "Monitors", "price": 29000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2024/12/HP-V24i-G5-Monitor.png", "imageFile": "HP-V24i-G5-Monitor.png", "description": "The HP V24i G5 FHD Monitor offers exceptional visual quality with its 24-inch Full HD (1080p) display , providing crisp, clear images for a wide range of activities.", "inStock": true},
+  {"id": 3504, "sku": null, "name": "HP V24I G5 Fhd Monitor", "brand": "HP", "category": "Monitors", "price": 29000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2024/12/HP-V24i-G5-Monitor.png", "imageFile": "HP-V24i-G5-Monitor.png", "description": `The HP V24i G5 Full HD Monitor is designed to keep you comfortably productive throughout your workday with a sharp 23.8-inch IPS panel and smooth 75Hz refresh rate. Featuring 3-sided micro-edge bezels that make multi-monitor setups look seamless, this display delivers crisp 1080p images and wide viewing angles. It also includes HP Eye Ease software to reduce blue light exposure, ensuring your eyes stay fresh whether you are analyzing spreadsheets or attending video conferences.
+
+    ## Compatible printers
+    HP V24i G5 Display (Standalone product) If your model isn't listed, send us the number from the front of the machine and we'll confirm before you pay.
+
+    ## Specifications
+
+    | Page yield | Cartridge type | Colour | Capacity | Part number | Genuine or compatible |
+    |---|---|---|---|---|---|
+    | N/A | LED Monitor | Black | 23.8-inch FHD | 65N03AA (typical) | Genuine OEM |
+
+    ## Genuine or compatible?
+    This is a genuine, brand-new HP monitor supplied in its original factory packaging. Authentic HP displays offer superior panel durability, reliable energy efficiency, and full manufacturer warranty coverage, ensuring peace of mind for corporate IT deployments.
+
+    ## Why buy from Trinatech
+    Reliable stock held in Nairobi CBD.
+    Delivery across Kenya including Kisumu, Nakuru, Eldoret and Mombasa.
+    M-Pesa and bank transfer accepted.
+    Easy WhatsApp ordering or walk-in at The One Mall River Road.
+
+    ## Getting the most from this cartridge
+    Adjust the display's tilt angle using the sturdy stand to find your most comfortable ergonomic viewing posture.
+    If you are setting up a dual-screen workstation, the V24i G5 supports VESA mounting brackets, allowing you to mount it easily on monitor arms to free up valuable desk space in your office.
+
+    ## Frequently asked questions
+    Does this monitor support VESA wall mounting? Yes, it includes VESA mounting pattern holes for arm or wall installation.
+    Does it have built-in speakers? No, audio output requires external speakers or headphones connected directly to your computer.
+    What is the delivery time? We offer same-day delivery in Nairobi CBD, and next-day dispatch countrywide.
+    What is your warranty or returns policy? Covered by a standard 1-year manufacturer warranty against defects.
+    What video inputs are available? It includes both HDMI and VGA ports for broad computer compatibility.`, "inStock": true, "metaTitle": "HP V24i G5 23.8\" FHD IPS Monitor", "metaDescription": "HP V24i G5 23.8-inch FHD IPS monitor, 75Hz, micro-edge bezel, low blue light. Reliable office display stocked at Trinatech Nairobi CBD."},
   {"id": 5287, "sku": null, "name": "HP X4E75A Black Inktank Printhead", "brand": "HP", "category": "Master Rolls & Inks", "price": 16000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/HP-X4E75A-Black-Inktank-Printhead.webp", "imageFile": "HP-X4E75A-Black-Inktank-Printhead.webp", "description": `The HP X4E75A Black Inktank Printhead is a vital replacement part designed to restore your HP Smart Tank printer to factory-fresh printing condition. Over years of heavy use, printheads can eventually wear out or become permanently clogged; this genuine replacement snaps easily into place to solve streaking, banding, or missing black text. It is an essential purchase if your machine is refusing to print black despite having a full tank of ink.
 
 ## Compatible printers
@@ -1587,9 +1616,97 @@ How fast is Nairobi delivery? Delivered within 1 to 3 hours across Nairobi CBD.
 How can I pay? Pay via M-Pesa Buy Goods/Till, bank wire, or cash.
 Is warranty provided? Covered under 1-year shop warranty.`, "metaTitle": "Kyocera TASKalfa 2321 A3 Printer Price - Trinatech", "metaDescription": "Buy Kyocera TASKalfa 2321 A3 mono printer in Nairobi. 23 ppm speed, GDI print, copy, color scan & Ethernet. Fast delivery across Kenya.", "inStock": true},
   {"id": 5022, "sku": null, "name": "Royal 500G Kyocera Powder", "brand": "Kyocera", "category": "Royal Toners", "price": 1200, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/Universal-Toner.png", "imageFile": "Universal-Toner.png", "description": "ROYAL 500G KYOCERA POWDER", "inStock": true},
-  {"id": 3489, "sku": null, "name": "Lenovo Ideapad 3 Core I3 4GB/1TB/14\"/UBUNTU Laptop", "brand": "Lenovo", "category": "Laptops", "price": 56000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2024/12/Lenovo-IdeaPad-3-Laptop.png", "imageFile": "Lenovo-IdeaPad-3-Laptop.png", "description": "The Lenovo IdeaPad 3 Core i3 4GB/1TB/14\"/Ubuntu Laptop is designed to offer a blend of performance, portability, and functionality for everyday computing tasks.", "inStock": true},
-  {"id": 3487, "sku": null, "name": "Lenovo Ideapad 3 Core I5 4GB/1TB/15.6\" Laptop", "brand": "Lenovo", "category": "Laptops", "price": 65000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2024/12/Lenovo-IdeaPad-3-Laptop.png", "imageFile": "Lenovo-IdeaPad-3-Laptop.png", "description": "The Lenovo IdeaPad 3 Core i5 4GB/1TB/15.6\" Laptop is designed to provide a perfect balance of performance, storage, and affordability.", "inStock": true},
-  {"id": 4044, "sku": null, "name": "Mecer 650VA Line Interactive Ups (ME-650-VU)", "brand": "MECER", "category": "UPS", "price": 7000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2025/01/Mecer-UPS.png", "imageFile": "Mecer-UPS.png", "description": "The Mecer 650VA Line Interactive UPS (ME-650-VU) is the perfect solution for protecting your essential electronics against power disruptions, surges, and fluctuations.", "inStock": true},
+  {"id": 3489, "sku": null, "name": "Lenovo Ideapad 3 Core I3 4GB/1TB/14\"/UBUNTU Laptop", "brand": "Lenovo", "category": "Laptops", "price": 56000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2024/12/Lenovo-IdeaPad-3-Laptop.png", "imageFile": "Lenovo-IdeaPad-3-Laptop.png", "description": `The Lenovo IdeaPad 3 Core i3 14" Laptop is a nimble, highly portable notebook designed for everyday administrative tasks, student coursework, and web browsing. Equipped with 4GB of RAM and a spacious 1TB hard drive, it gives you reliable performance and plenty of file storage in a lightweight chassis. Pre-installed with Ubuntu Linux, it offers a secure, open-source computing environment right out of the box for developers and budget-conscious offices.
+
+    ## Compatible printers
+    Lenovo IdeaPad 3 14" (Standalone product) If your model isn't listed, send us the number from the front of the machine and we'll confirm before you pay.
+
+    ## Specifications
+
+    | Page yield | Cartridge type | Colour | Capacity | Part number | Genuine or compatible |
+    |---|---|---|---|---|---|
+    | N/A | Laptop Computer | Platinum Grey / Blue | 1TB HDD / 4GB RAM | Generic Config | Genuine OEM |
+
+    ## Genuine or compatible?
+    This is a 100% genuine, brand-new Lenovo laptop in a factory-sealed box. Authentic Lenovo notebooks provide dependable build quality, genuine components, and full access to official software updates and hardware warranty support.
+
+    ## Why buy from Trinatech
+    Stock held in Nairobi CBD for rapid dispatch.
+    Delivery across Kenya including Kisumu, Nakuru, Eldoret and Mombasa.
+    M-Pesa and bank transfer accepted securely.
+    WhatsApp ordering, walk-in at The One Mall River Road.
+
+    ## Getting the most from this cartridge
+    If your workflow requires Windows rather than the pre-installed Ubuntu Linux operating system, you can easily reformat and install Windows 10 or 11 using a bootable USB drive.
+    To keep the compact 14-inch machine running smoothly with 4GB of RAM, avoid running heavy memory-intensive software suites simultaneously, and periodically clear your system cache files.
+
+    ## Frequently asked questions
+    Can I install Windows on this laptop? Yes, the hardware fully supports Windows operating systems if you choose to switch from Ubuntu.
+    Is the webcam equipped with a privacy shutter? Yes, many IdeaPad 3 models feature a physical shutter on the webcam for security.
+    What is the delivery time? Same-day delivery within Nairobi CBD and next-day for the rest of Kenya.
+    What is your warranty or returns policy? Standard 1-year manufacturer warranty applies.
+    Is the RAM upgradable? Yes, depending on the exact chassis revision, memory can usually be expanded by a technician.`, "inStock": true, "metaTitle": "Lenovo IdeaPad 3 Core i3 14\" Laptop", "metaDescription": "Lenovo IdeaPad 3 laptop, Intel Core i3, 4GB RAM, 1TB HDD, 14-inch screen, Ubuntu Linux. Affordable productivity notebook delivered in Kenya."},
+  {"id": 3487, "sku": null, "name": "Lenovo Ideapad 3 Core I5 4GB/1TB/15.6\" Laptop", "brand": "Lenovo", "category": "Laptops", "price": 65000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2024/12/Lenovo-IdeaPad-3-Laptop.png", "imageFile": "Lenovo-IdeaPad-3-Laptop.png", "description": `The Lenovo IdeaPad 3 Core i5 15.6" Laptop delivers snappy, dependable performance for multitasking professionals, students, and home offices. Featuring a comfortable 15.6-inch screen with a full numeric keypad, 4GB of RAM, and a generous 1TB hard drive, it perfectly balances processing speed with massive file storage. Its clean lines and lightweight construction make it easy to carry between meetings or lectures across Kenya.
+
+    ## Compatible printers
+    Lenovo IdeaPad 3 15.6" (Standalone product) If your model isn't listed, send us the number from the front of the machine and we'll confirm before you pay.
+
+    ## Specifications
+
+    | Page yield | Cartridge type | Colour | Capacity | Part number | Genuine or compatible |
+    |---|---|---|---|---|---|
+    | N/A | Laptop Computer | Platinum Grey / Black | 1TB HDD / 4GB RAM | Generic Config | Genuine OEM |
+
+    ## Genuine or compatible?
+    This is a genuine, brand-new Lenovo laptop supplied in its original factory packaging. Purchasing authentic Lenovo hardware ensures your device comes with untouched components, verified battery health, and full manufacturer warranty backing.
+
+    ## Why buy from Trinatech
+    Stock held locally in Nairobi CBD.
+    Delivery across Kenya including Kisumu, Nakuru, Eldoret and Mombasa.
+    M-Pesa and bank transfer accepted.
+    Easy WhatsApp ordering, or walk-in at The One Mall River Road.
+
+    ## Getting the most from this cartridge
+    Protect your investment by using a dedicated laptop backpack when commuting.
+    To ensure snappy application loading despite the 1TB mechanical hard drive, keep your background startup programs minimized.
+    Consider upgrading the system memory to 8GB or 12GB in the future if you find yourself handling large spreadsheets or running multiple demanding apps concurrently.
+
+    ## Frequently asked questions
+    Does this laptop have a numeric keypad? Yes, the 15.6-inch form factor includes a full dedicated numeric keypad.
+    Is the battery removable? No, it features an internal lithium-ion battery pack.
+    What is the delivery time? We offer same-day delivery in Nairobi CBD, and next-day dispatch countrywide.
+    What is your warranty or returns policy? Backed by a standard 1-year manufacturer warranty.
+    Does it come with Microsoft Office pre-installed? It typically includes trial software; full licenses can be purchased separately.`, "inStock": true, "metaTitle": "Lenovo IdeaPad 3 Core i5 15.6\" Laptop", "metaDescription": "Lenovo IdeaPad 3 laptop, Intel Core i5, 4GB RAM, 1TB HDD, 15.6-inch display. Reliable everyday performance laptop stocked in Nairobi CBD."},
+  {"id": 4044, "sku": null, "name": "Mecer 650VA Line Interactive Ups (ME-650-VU)", "brand": "MECER", "category": "UPS", "price": 7000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2025/01/Mecer-UPS.png", "imageFile": "Mecer-UPS.png", "description": `The Mecer 650VA Line Interactive UPS (ME-650-VU) is an essential power backup solution designed to protect your desktop computer, Wi-Fi router, or office electronics from unexpected blackouts, brownouts, and voltage surges. Featuring built-in Automatic Voltage Regulation (AVR) to stabilize fluctuating electrical inputs, it gives you crucial minutes to save your work and safely shut down your equipment during sudden power outages.
+
+    ## Compatible printers
+    Mecer ME-650-VU (Standalone product) If your model isn't listed, send us the number from the front of the machine and we'll confirm before you pay.
+
+    ## Specifications
+
+    | Page yield | Cartridge type | Colour | Capacity | Part number | Genuine or compatible |
+    |---|---|---|---|---|---|
+    | N/A | Power Backup UPS | Black | 650VA / 360W | ME-650-VU | Genuine OEM |
+
+    ## Genuine or compatible?
+    This is a 100% genuine, brand-new Mecer Uninterruptible Power Supply in original packaging. Authentic Mecer power units feature certified surge suppression circuitry and dependable sealed lead-acid batteries designed to safeguard sensitive electronics against unstable local power grids.
+
+    ## Why buy from Trinatech
+    Reliable stock held in Nairobi CBD.
+    Delivery across Kenya including Kisumu, Nakuru, Eldoret and Mombasa.
+    M-Pesa and bank transfer accepted securely.
+    WhatsApp ordering, walk-in at The One Mall River Road.
+
+    ## Getting the most from this cartridge
+    When setting up your UPS for the first time, plug it into the wall socket and let it charge uninterrupted for at least 8 hours to ensure the internal battery reaches full capacity.
+    Do not plug high-wattage heating appliances or heavy laser printers into the battery-backed outlets, as overloading the 360W capacity will cause the UPS to trip immediately and shut down.
+
+    ## Frequently asked questions
+    How long will this UPS keep my computer running? It provides approximately 10 to 20 minutes of backup time for a standard PC and monitor, depending on power draw.
+    Can I use this for my Wi-Fi router? Yes, it is excellent for keeping routers and fibre boxes powered during blackouts.
+    What is the delivery time? Same-day within Nairobi CBD; overnight delivery for the rest of Kenya.
+    What is your warranty or returns policy? Covered by a standard 1-year manufacturer warranty against electronic faults.
+    Does it protect against power surges? Yes, it includes built-in surge protection for connected devices.`, "inStock": true, "metaTitle": "Mecer 650VA Line Interactive UPS", "metaDescription": "Mecer 650VA line interactive UPS (ME-650-VU) with built-in AVR for surge protection. Reliable power backup for PCs and small electronics."},
   {"id": 5275, "sku": "C220", "name": "Bizhub C220/280/360 Toner TN-216/319", "brand": "Other", "category": "Brother Toners", "price": 3000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/Bizhub-C220-280-360-Toner-TN-216-319.png", "imageFile": "Bizhub-C220-280-360-Toner-TN-216-319.png", "description": `The Konica Minolta TN216 / TN319 Compatible Toner Cartridges are designed as high-volume, cost-saving replacements for some of Konica's most popular A3 colour multifunction machines. Yielding up to 29,000 pages in black and 26,000 pages in colour, this compatible powder delivers exceptional image clarity and vibrant hues. Sold individually so you can replace only the depleted colour, they are a highly reliable choice for businesses producing large volumes of proposals and daily operational reports on a strict budget.
 
 ## Compatible printers

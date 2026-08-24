@@ -217,7 +217,36 @@ Is warranty included? Covered against manufacturing defects.`,
   "metaTitle": "HP LaserJet Fuser Teflon Sleeve Price - Trinatech Kenya",
   "metaDescription": "Order replacement fuser Teflon film sleeve for HP LaserJet printers in Nairobi. Fix paper jams and ghosting issues effectively. Fast delivery.",
   "inStock": true},
-  {"id": 4543, "sku": null, "name": "Copyprinter Masters Dx 2330 A4", "brand": "Ricoh", "category": "Master Roll", "price": 1100, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2025/03/COPY-PRINTER-MASTERS-DX2330-A4.png", "imageFile": "COPY-PRINTER-MASTERS-DX2330-A4.png", "description": "The CopyPrinter Masters DX 2330 A4 paper is a versatile and high-quality choice for both home and office printing needs.", "inStock": true},
+  {"id": 4543, "sku": null, "name": "Copyprinter Masters Dx 2330 A4", "brand": "Ricoh", "category": "Master Roll", "price": 1100, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2025/03/COPY-PRINTER-MASTERS-DX2330-A4.png", "imageFile": "COPY-PRINTER-MASTERS-DX2330-A4.png", "description": `The Ricoh DX 2330 A4 Compatible Master Roll provides high-volume commercial printers, schools, and churches with an exceptional alternative to expensive original duplicator supplies. Engineered to match the exact thermal sensitivity required by Ricoh Priport duplicators, this high-quality A4 stencil roll produces sharp, dark text and clear images for all your bulk printing needs. It allows you to run massive batches of documentation---such as exam papers and forms---while drastically slashing your operational budget.
+
+## Compatible printers
+Ricoh Priport DX 2330
+Ricoh Priport DX 2430
+If your model isn't listed, send us the number from the front of the machine and we'll confirm before you pay.
+
+## Specifications
+| Page yield | Cartridge type | Colour | Capacity | Part number | Genuine or compatible |
+|---|---|---|---|---|---|
+| ~200 masters | Duplicator Master | White/Stencil | A4 Roll | DX2330 A4 (Comp) | Compatible |
+
+## Genuine or compatible?
+This is a compatible duplicator master roll. It is a brand-new unit manufactured to perform just like the original, but it is not an OEM Ricoh product. This compatible alternative is perfect for schools, copy shops, and businesses that need to produce high volumes of monochrome A4 documents on a tight budget while maintaining professional output quality.
+
+## Why buy from Trinatech
+Reliable stock held in Nairobi CBD.
+Delivery across Kenya including Kisumu, Nakuru, Eldoret and Mombasa.
+M-Pesa and bank transfer accepted.
+WhatsApp ordering, walk-in at The One Mall River Road.
+
+## Getting the most from this cartridge
+To ensure flawless stencil cutting, keep the master roll sealed in its protective wrapping until the moment you load it into the duplicator. Always check that the machine's thermal head is clean before installing a new roll, as dust can cause faint lines or missing text on your final prints. For the best economy, try to bundle your print jobs so you print hundreds of copies per master.
+
+## Frequently asked questions
+Are the DX2330 and DX2430 masters the same? Yes, the DX 2330 and DX 2430 duplicators utilize the exact same master roll specifications.
+Is this an A3 or A4 master? This specific product is an A4 master roll, designed for standard letter-sized reproduction.
+What is the delivery time? Same-day delivery within Nairobi CBD and next-day for the rest of Kenya.
+What is your warranty or returns policy? We replace any compatible master rolls that show manufacturing defects upon installation.
+Why are my prints coming out blank? Ensure the master roll is loaded with the correct side facing the thermal head.`, "metaTitle": "Ricoh DX 2330 A4 Compatible Master Roll", "metaDescription": "Compatible Ricoh DX 2330 A4 master roll for Priport DX 2330, 2430 duplicators. Cost-effective, high-quality bulk printing. Delivery in Kenya.", "inStock": true},
   {"id": 5220, "sku": "MP2000", "name": "Ricoh Aficio MP2000 Black Toner Cartridge", "brand": "Ricoh", "category": "Ricoh Toners", "price": 1000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/Ricoh-Aficio-MP2000-Black-Toner-Cartridge-1.webp", "imageFile": "Ricoh-Aficio-MP2000-Black-Toner-Cartridge-1.webp", "description": `The Ricoh Aficio MP 2000 Black Toner Cartridge (also known as the Type 1230D) provides the crisp, durable text and smooth operation your Ricoh copier was built for. Formulated to melt perfectly at your specific machine's fusing temperature, this genuine toner ensures documents will not smudge during handling. It is the perfect reliable supply to keep your mid-sized office's document flow running without interruption.
 
 ## Compatible printers
@@ -1594,5 +1623,41 @@ Is there an XL or high-yield alternative? Yes, a high-yield version (MP2014H) is
 Do I need other colours to print? No, the Ricoh MP 2014 series are monochrome machines that only require black.
 What is the delivery time? Same-day delivery for Nairobi CBD, and 24 hours for the rest of Kenya.
 What is your warranty or returns policy? Genuine sealed cartridges are backed by the manufacturer's warranty against defects.
-How do I install this cartridge? Open the front cover, unlock the green lever, slide the old cartridge out, and slide the new one in.`, "metaTitle": "Ricoh MP 2014 Black Toner Cartridge", "metaDescription": "Genuine Ricoh MP 2014 black toner, approx 4,000 pages, for Ricoh MP 2014, 2014D, 2014AD. Order via WhatsApp for delivery anywhere in Kenya.", "inStock": true},
+How do I install this cartridge? Open the front cover, unlock the green lever, slide the old cartridge out, and slide the new one in.`, "metaTitle": "Ricoh MP 2014 Black Toner Cartridge", "metaDescription": "Genuine Ricoh MP 2014 black toner, approx 4,000 pages, for Ricoh MP 2014, 2014D, 2014AD. Order via WhatsApp for delivery anywhere in Kenya.", "inStock": true},  {"id": 9622, "sku": null, "name": "Blade Cleaning Blade For Kyocera Mita KM-2050", "brand": "Kyocera", "category": "Maintenance Kits & Spare Parts", "price": 1000, "image": null, "imageFile": null, "description": `The Drum Cleaning Blade for the Kyocera Mita KM-2050 is a crucial maintenance component designed to keep your legacy photocopier producing spotless, professional documents. Over time, the rubber edge of the original cleaning blade wears down, leaving frustrating grey backgrounds or vertical streaks on your prints; this high-quality compatible blade sweeps residual toner off the imaging drum perfectly. It is an essential, cost-effective fix to drastically extend the life of your Kyocera machine's drum unit.
+
+## Compatible printers
+Kyocera KM-1620
+Kyocera KM-1635
+Kyocera KM-1650
+Kyocera KM-2020
+Kyocera KM-2035
+Kyocera KM-2050
+Kyocera KM-2540
+Kyocera KM-2550
+If your model isn't listed, send us the number from the front of the machine and we'll confirm before you pay.
+
+## Specifications
+| Page yield | Cartridge type | Colour | Capacity | Part number | Genuine or compatible |
+|---|---|---|---|---|---|
+| N/A | Cleaning Blade | N/A | Standard | KM-2050 Blade | Compatible |
+
+## Genuine or compatible?
+This is a compatible hardware replacement part. It is completely brand new and manufactured with highly durable rubber designed to precisely match the OEM specifications of your Kyocera copier. It provides an excellent, budget-friendly solution for extending the life of your drum unit without the high cost of a genuine manufacturer part.
+
+## Why buy from Trinatech
+Stock held locally in Nairobi CBD for rapid dispatch.
+Delivery across Kenya including Kisumu, Nakuru, Eldoret and Mombasa.
+M-Pesa and bank transfer accepted securely.
+WhatsApp ordering available, walk-in at The One Mall River Road.
+
+## Getting the most from this cartridge
+Before installing the new cleaning blade, ensure the edge is lightly dusted with setting powder (or a very light dusting of toner) to lubricate it. Installing a "dry" blade against a drum cylinder can cause it to flip or instantly scratch the drum surface on its first rotation. We highly recommend having a trained technician perform this installation.
+
+## Frequently asked questions
+Is there an XL or high-yield alternative? No, this is a standard physical replacement part.
+Do I need other colours to print? No, this blade is for monochrome Kyocera copiers.
+What is the delivery time? Same-day delivery for Nairobi CBD, and 24 hours for the rest of Kenya.
+What is your warranty or returns policy? We offer a replacement guarantee on compatible parts that fail out of the box.
+Will replacing the blade fix my drum? It will fix streaking caused by poor cleaning, but it cannot fix physical scratches already etched into the drum cylinder.`, "metaTitle": "Kyocera KM-2050 Compatible Cleaning Blade", "metaDescription": "Compatible drum cleaning blade for Kyocera KM-1620, 1635, 1650, 2020, 2035, 2050 copiers. Essential replacement part delivered across Kenya.", "inStock": true},
+
 ];

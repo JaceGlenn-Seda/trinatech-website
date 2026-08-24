@@ -523,7 +523,35 @@ What is the delivery time? Same-day delivery for Nairobi CBD, and next-day for t
 What is your warranty or returns policy? Genuine sealed cartridges are backed by the manufacturer's warranty against defects.
 How do I know the yellow is empty? The red LED light on the cartridge itself will flash rapidly when it is empty.`, "metaTitle": "Canon CLI-451 Yellow Original Ink Cartridge", "metaDescription": "Genuine Canon CLI-451 yellow ink, approx 300 pages, for PIXMA MG5440, MG6340, iP7240. Stocked in Nairobi, delivered nationwide.", "inStock": true},
   {"id": 3442, "sku": null, "name": "Canon Canoscan Lide 300 Scanner", "brand": "Canon", "category": "Scanner", "price": 23000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2024/12/Canon-300-scanner.png", "imageFile": "Canon-300-scanner.png", "description": "The Canon CanoScan LiDE 300 Scanner offers exceptional scanning quality in a compact and convenient design.", "inStock": true},
-  {"id": 4470, "sku": null, "name": "Canon I-Sensys MF3010 Mfp All-In-One Laser Printer", "brand": "Canon", "category": "Printers & Copiers", "price": 38000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2025/01/Canon-i-SENSYS-MF3010.png", "imageFile": "Canon-i-SENSYS-MF3010.png", "description": "The Canon i-SENSYS MF3010 MFP All-in-One Laser Printer is a reliable, compact, and efficient solution designed for small offices or home users.", "inStock": true},
+  {"id": 4470, "sku": null, "name": "Canon I-Sensys MF3010 Mfp All-In-One Laser Printer", "brand": "Canon", "category": "Printers & Copiers", "price": 38000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2025/01/Canon-i-SENSYS-MF3010.png", "imageFile": "Canon-i-SENSYS-MF3010.png", "description": `The Canon i-SENSYS MF3010 is a sleek, ultra-compact monochrome laser printer designed specifically for personal use or small home offices. Delivering high-quality prints, fast copying, and colour scanning in one footprint, it provides everything you need to manage your daily paperwork efficiently. With its energy-saving features and quick first-print times, it is a highly reliable choice for users needing affordable black-and-white documents without the bulk of a traditional office machine.
+
+## Compatible printers
+Canon i-SENSYS MF3010 (Standalone product)
+If your model isn't listed, send us the number from the front of the machine and we'll confirm before you pay.
+
+## Specifications
+| Page yield | Cartridge type | Colour | Capacity | Part number | Genuine or compatible |
+|---|---|---|---|---|---|
+| Up to 1,600 pages (Cartridge 725) | Laser Printer | Monochrome | Standard | MF3010 | Genuine |
+
+## Genuine or compatible?
+This is a 100% genuine, brand-new Canon laser printer supplied in a factory-sealed box. It comes with a starter toner cartridge to get you printing immediately. When it is time to replace the toner, we stock both the genuine Canon Cartridge 725 and our highly cost-effective Royal compatible alternative to keep your running costs incredibly low.
+
+## Why buy from Trinatech
+Reliable stock held right here in Nairobi CBD.
+Delivery across Kenya including Kisumu, Nakuru, Eldoret and Mombasa.
+M-Pesa and bank transfer accepted securely.
+Easy WhatsApp ordering or walk-in at The One Mall River Road.
+
+## Getting the most from this cartridge
+Ensure the printer is placed on a flat, stable surface with adequate ventilation to prevent overheating during large print runs. To maximize the life of the toner cartridge, utilize the printer's draft mode for internal documents that do not require presentation-quality darkness. Always turn the printer off using the power button when not in use for extended periods.
+
+## Frequently asked questions
+Does this printer have Wi-Fi? No, the MF3010 connects reliably via a standard USB cable.
+Does it print in colour? No, it is a monochrome (black-and-white) laser printer, though it can scan in full colour.
+What is the delivery time? We offer same-day delivery in Nairobi CBD, and next-day delivery nationwide.
+What is your warranty or returns policy? This printer carries a standard 1-year manufacturer warranty.
+Which toner does this machine take? It uses the Canon Cartridge 725, which we always keep in stock.`, "metaTitle": "Canon i-SENSYS MF3010 Multifunction Laser Printer", "metaDescription": "Genuine Canon i-SENSYS MF3010 monochrome laser printer. Print, copy, and scan. Compact design ideal for small offices. Fast delivery in Kenya.", "inStock": true},
   {"id": 5533, "sku": "PG-445", "name": "Canon PG-445 Black Ink Original Cartridge", "brand": "Canon", "category": "Canon Ink Cartridges", "price": 2200, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/Canon-PG-445-Black-Ink-Original-Cartridge.png", "imageFile": "Canon-PG-445-Black-Ink-Original-Cartridge.png", "description": `The Canon PG-445 Black Ink Original Cartridge is a dependable, everyday supply for Canon's most popular entry-level PIXMA all-in-one printers. Formulated with high-quality pigment ink, this cartridge delivers sharp, crisp text that resists smudging and highlighting. It is an ideal, budget-friendly choice for students and home offices that occasionally print assignments, concert tickets, and standard text documents.
 
 ## Compatible printers
@@ -1138,10 +1166,122 @@ Is black ink required? Yes, must be paired with PG-46 Black ink cartridge.
 What is Nairobi delivery speed? 1 to 3 hours across Nairobi CBD.
 How can I pay? Pay via M-Pesa or bank wire transfer.
 Is it genuine Canon? Yes, genuine sealed Canon product.`, "metaTitle": "Canon CL-56 Color Ink Cartridge Price - Trinatech Kenya", "metaDescription": "Buy Canon Pixma CL-56 color ink cartridge in Nairobi. Yields ~300 pages for E404, E414, E474, E484. Fast delivery across Kenya.", "inStock": true},
-  {"id": 4461, "sku": null, "name": "Canon Pixma G3420 Printer", "brand": "Canon", "category": "Printers & Copiers", "price": 29000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2025/01/Canon-PIXMA-G3420.png", "imageFile": "Canon-PIXMA-G3420.png", "description": "The Canon PIXMA G3420 Printer is an advanced all-in-one solution that offers print, scan, and copy functions.", "inStock": true},
-  {"id": 4464, "sku": null, "name": "Canon Pixma G3430 Printer", "brand": "Canon", "category": "Printers & Copiers", "price": 31000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2025/01/Canon-PIXMA-G3430.png", "imageFile": "Canon-PIXMA-G3430.png", "description": "The Canon PIXMA G3430 Printer is a powerful all-in-one device designed for home offices and small businesses.", "inStock": true},
-  {"id": 4467, "sku": null, "name": "Canon Pixma G640 Printer", "brand": "Canon", "category": "Printers & Copiers", "price": 48000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2025/01/Canon-PIXMA-G640.png", "imageFile": "Canon-PIXMA-G640.png", "description": "The Canon PIXMA G640 Printer is an advanced all-in-one printer designed for photo enthusiasts and everyday users.", "inStock": true},
-  {"id": 4458, "sku": null, "name": "Canon Pixma MG2550S Printer", "brand": "Canon", "category": "Printers & Copiers", "price": 25000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2025/01/Canon-PIXMA-MG2550S.png", "imageFile": "Canon-PIXMA-MG2550S.png", "description": "The Canon PIXMA MG2550S is a reliable and affordable all-in-one printer designed for everyday home use.", "inStock": true},
+  {"id": 4461, "sku": null, "name": "Canon Pixma G3420 Printer", "brand": "Canon", "category": "Printers & Copiers", "price": 29000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2025/01/Canon-PIXMA-G3420.png", "imageFile": "Canon-PIXMA-G3420.png", "description": `The Canon PIXMA G3420 is a highly efficient, refillable MegaTank printer that delivers tremendous savings for home offices and students. Featuring built-in Wi-Fi connectivity, it allows you to easily print, scan, and copy directly from your smartphone or laptop without dealing with messy cables. Capable of yielding thousands of pages from a single set of included GI-41 ink bottles, it completely removes the anxiety of expensive cartridge replacements for high-volume users.
+
+## Compatible printers
+Canon PIXMA G3420 (Standalone product)
+If your model isn't listed, send us the number from the front of the machine and we'll confirm before you pay.
+
+## Specifications
+| Page yield | Cartridge type | Colour | Capacity | Part number | Genuine or compatible |
+|---|---|---|---|---|---|
+| Up to 6,000 pages (Black) | Ink Tank Printer | Colour (CMYK) | Standard | G3420 | Genuine |
+
+## Genuine or compatible?
+This is a 100% genuine, brand-new Canon printer in a factory-sealed box. It includes a full set of original Canon GI-41 ink bottles, giving you massive page yields right out of the gate. For future top-ups, we strongly recommend sticking with genuine Canon GI-41 ink to protect the machine's printheads and ensure vibrant, lasting output.
+
+## Why buy from Trinatech
+Stock held in Nairobi CBD for fast processing.
+Delivery across Kenya including Kisumu, Nakuru, Eldoret and Mombasa.
+Secure payments via M-Pesa and bank transfer accepted.
+WhatsApp ordering, walk-in at The One Mall River Road.
+
+## Getting the most from this cartridge
+When setting up the printer, carefully follow the initialization instructions to ensure the ink properly primes the internal tubes. Never let the ink reservoirs drop below the minimum fill line visible on the front of the tank, as drawing air into the printhead will cause permanent damage. Print at least one colour page a week to keep the nozzles from drying out.
+
+## Frequently asked questions
+Can I print from my phone? Yes, the G3420 supports wireless printing via the Canon PRINT app.
+Does it print borderless photos? Yes, it can print borderless photos up to A4 size.
+What is the delivery time? Delivery is completed within the same day in Nairobi, and by the next day countrywide.
+What is your warranty or returns policy? We honour the standard 1-year Canon warranty for genuine hardware.
+Can the user replace the maintenance cartridge? Yes, it features a user-replaceable maintenance cartridge to reduce downtime.`, "metaTitle": "Canon PIXMA G3420 Wi-Fi MegaTank Printer", "metaDescription": "Genuine Canon PIXMA G3420 wireless ink tank printer. Print, scan, copy. Includes high-yield ink for massive savings. Delivered across Kenya.", "inStock": true},
+  {"id": 4464, "sku": null, "name": "Canon Pixma G3430 Printer", "brand": "Canon", "category": "Printers & Copiers", "price": 31000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2025/01/Canon-PIXMA-G3430.png", "imageFile": "Canon-PIXMA-G3430.png", "description": `The Canon PIXMA G3430 is a versatile, high-yield continuous ink printer engineered to make high-volume home printing incredibly affordable. Equipped with seamless Wi-Fi, it lets you print crisp documents and vibrant photos straight from your smart devices, eliminating the need to connect to a PC. It uses the easily refillable GI-41S ink bottles, ensuring a mess-free experience while keeping your long-term running costs exceptionally low.
+
+## Compatible printers
+Canon PIXMA G3430 (Standalone product)
+If your model isn't listed, send us the number from the front of the machine and we'll confirm before you pay.
+
+## Specifications
+| Page yield | Cartridge type | Colour | Capacity | Part number | Genuine or compatible |
+|---|---|---|---|---|---|
+| Up to 3,100 pages (Black) | Ink Tank Printer | Colour (CMYK) | Standard | G3430 | Genuine |
+
+## Genuine or compatible?
+This is a genuine, Original Canon MegaTank printer. It is supplied brand new in a sealed box alongside a set of starter ink bottles (GI-41S). When you eventually need to refill the tanks, we stock both the genuine Canon inks and our premium Royal compatible bottles, which offer incredible value for draft printing.
+
+## Why buy from Trinatech
+Stock held locally in Nairobi CBD.
+Delivery across Kenya including Kisumu, Nakuru, Eldoret and Mombasa.
+M-Pesa and bank transfer accepted securely.
+WhatsApp ordering, walk-in at The One Mall River Road.
+
+## Getting the most from this cartridge
+To preserve the life of the integrated printheads, always leave the printer plugged into the wall and turn it off using its own power button; this allows the machine to cap the printheads securely. When refilling the tanks, do not squeeze the bottles, as the auto-stop valves are designed to fill the reservoirs without spilling.
+
+## Frequently asked questions
+What is the difference between G3420 and G3430? The G3430 is a newer iteration with slightly different starter ink bottle capacities (GI-41S) but similar core features.
+Does it have an automatic document feeder (ADF)? No, scanning and copying are done via the flatbed scanner glass.
+What is the delivery time? Same-day delivery for Nairobi CBD, and 24 hours for the rest of Kenya.
+What is your warranty or returns policy? Genuine Canon printers come with a standard 1-year manufacturer warranty.
+Does this printer support Apple AirPrint? Yes, it supports various mobile printing protocols via Wi-Fi.`, "metaTitle": "Canon PIXMA G3430 Wireless MegaTank Printer", "metaDescription": "Genuine Canon PIXMA G3430 Wi-Fi ink tank printer. Fast, cost-effective printing, scanning, and copying for the home. Stocked in Nairobi CBD.", "inStock": true},
+  {"id": 4467, "sku": null, "name": "Canon Pixma G640 Printer", "brand": "Canon", "category": "Printers & Copiers", "price": 48000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2025/01/Canon-PIXMA-G640.png", "imageFile": "Canon-PIXMA-G640.png", "description": `The Canon PIXMA G640 is a dedicated 6-colour refillable ink tank printer built specifically for producing breathtaking, high-volume photography. By utilizing six distinct dye-based inks---including specialized red and grey---it delivers expanded colour gamuts, deeper shadows, and incredibly vibrant borderless photos up to A4 size. It is the ultimate creative tool for photo studios, design agencies, and hobbyists looking to print gallery-quality images at a fraction of the traditional cost.
+
+## Compatible printers
+Canon PIXMA G640 (Standalone product)
+If your model isn't listed, send us the number from the front of the machine and we'll confirm before you pay.
+
+## Specifications
+| Page yield | Cartridge type | Colour | Capacity | Part number | Genuine or compatible |
+|---|---|---|---|---|---|
+| ~3,800 photos (4x6) | Ink Tank Printer | 6-Colour (Dye) | Standard | G640 | Genuine |
+
+## Genuine or compatible?
+This is a 100% genuine, brand-new Canon PIXMA photo printer in a factory-sealed box. It includes a full set of six genuine Canon GI-43 ink bottles to start your production immediately. We highly recommend exclusively using genuine Canon GI-43 photo inks for all future refills to ensure your prints achieve maximum archival longevity and perfect colour accuracy.
+
+## Why buy from Trinatech
+Reliable stock held in Nairobi CBD.
+Delivery across Kenya including Kisumu, Nakuru, Eldoret and Mombasa.
+M-Pesa and bank transfer accepted.
+Easy WhatsApp ordering or walk-in at The One Mall River Road.
+
+## Getting the most from this cartridge
+To achieve the best possible photographic results, always use high-quality Canon photo paper and ensure you select the correct paper profile in your print settings. The specialized red and grey inks in this machine allow for stunning monochrome prints and vivid reds; ensure you print a test photo at least once a week to prevent these delicate dye inks from clogging the micro-nozzles.
+
+## Frequently asked questions
+Can it print standard documents? Yes, it can print documents, but it is highly optimized for photography.
+How long does a 4x6 photo take to print? A borderless 4x6 photo takes approximately 47 seconds.
+What is the delivery time? We offer same-day delivery in Nairobi CBD, and next-day delivery nationwide.
+What is your warranty or returns policy? The printer is covered by Canon's standard 1-year hardware warranty.
+Does it have a user-replaceable maintenance cartridge? Yes, which significantly reduces service downtime.`, "metaTitle": "Canon PIXMA G640 6-Colour Wireless Photo Printer", "metaDescription": "Genuine Canon PIXMA G640 MegaTank photo printer. 6-colour dye inks for stunning borderless photos. High-volume printing, delivered in Kenya.", "inStock": true},
+  {"id": 4458, "sku": null, "name": "Canon Pixma MG2550S Printer", "brand": "Canon", "category": "Printers & Copiers", "price": 25000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2025/01/Canon-PIXMA-MG2550S.png", "imageFile": "Canon-PIXMA-MG2550S.png", "description": `The Canon PIXMA MG2550S is an incredibly affordable, compact all-in-one printer designed for students and households with light printing needs. It effortlessly handles your basic printing, scanning, and copying tasks, producing sharp text documents and vivid photos using Canon's FINE cartridge system. Its sleek footprint allows it to fit neatly on any desk or shelf, making it the perfect budget-friendly solution for occasional homework, tickets, and document copying.
+
+## Compatible printers
+Canon PIXMA MG2550S (Standalone product)
+If your model isn't listed, send us the number from the front of the machine and we'll confirm before you pay.
+
+## Specifications
+| Page yield | Cartridge type | Colour | Capacity | Part number | Genuine or compatible |
+|---|---|---|---|---|---|
+| ~180 pages (PG-445) | Inkjet Printer | Colour (CMYK) | Standard | MG2550S | Genuine |
+
+## Genuine or compatible?
+Genuine, Original Canon printer in a factory-sealed box. The printer includes starter PG-445 (Black) and CL-446 (Colour) ink cartridges. When it comes time to replace them, we stock both the genuine Canon XL cartridges and our highly economical Royal compatible brand, ensuring you can keep your running costs low.
+
+## Why buy from Trinatech
+Secure stock held in Nairobi CBD for rapid dispatch.
+Delivery across Kenya including Kisumu, Nakuru, Eldoret and Mombasa.
+M-Pesa and bank transfer accepted securely.
+WhatsApp ordering available, walk-in at The One Mall River Road.
+
+## Getting the most from this cartridge
+Because this entry-level printer uses combined tri-colour cartridges, it is best suited for low-volume printing. To make the starter cartridges last longer, set your print driver to "Fast" or "Draft" mode for everyday text documents. Always leave empty cartridges inside the machine until you have the replacements ready to install to protect the internal electrical contacts.
+
+## Frequently asked questions
+Does this printer have Wi-Fi? No, the MG2550S connects directly to your computer via a standard USB cable.
+Does it come with ink? Yes, a set of starter cartridges is included in the box.
+What is the delivery time? Expect same-day delivery in Nairobi CBD, and next-day for the rest of the country.
+What is your warranty or returns policy? We support standard manufacturer warranties on all new hardware.
+Does the USB cable come in the box? Printer manufacturers typically do not include a USB cable; we sell them separately if needed.`, "metaTitle": "Canon PIXMA MG2550S All-in-One Inkjet Printer", "metaDescription": "Genuine Canon PIXMA MG2550S 3-in-1 printer. Print, scan, and copy. Affordable, compact solution for occasional home use. Nairobi stock.", "inStock": true},
   {"id": 4337, "sku": null, "name": "Canon Pixma PG-440 Black Ink Cartridge", "brand": "Canon", "category": "Inks & Toner Cartridges", "price": 2400, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2025/01/Canon-Pixma-PG-440-Black-Ink.png", "imageFile": "Canon-Pixma-PG-440-Black-Ink.png", "description": `The Canon Pixma PG-440 Black Ink Cartridge uses pigment black ink to produce laser-sharp text and clear contract lines. Built for everyday document printing on compact Canon Pixma desktop all-in-ones in Nairobi.
 
 ## Compatible printers
@@ -1313,7 +1453,35 @@ Is color ink required? Yes, must be installed alongside CL-511 Color cartridge.
 How fast is Nairobi shipping? Delivered within 1 to 3 hours.
 How do I pay? Pay via M-Pesa, bank wire, or cash.
 Is warranty provided? Covered against technical defects.`, "metaTitle": "Canon PG-510 Black Ink Cartridge Price - Trinatech Kenya", "metaDescription": "Buy genuine Canon PG-510 black ink cartridge in Nairobi. Yields ~220 pages for MP230, MP250, IP2700. Fast delivery across Kenya.", "inStock": true},
-  {"id": 4455, "sku": null, "name": "Canon Pixma TS3340 Printer", "brand": "Canon", "category": "Printers & Copiers", "price": 9000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2025/01/Canon-PIXMA-TS3340.png", "imageFile": "Canon-PIXMA-TS3340.png", "description": "The Canon PIXMA TS3340 Printer is an affordable, all-in-one solution designed to meet the everyday printing, scanning, and copying needs of home users and small offices.", "inStock": true},
+  {"id": 4455, "sku": null, "name": "Canon Pixma TS3340 Printer", "brand": "Canon", "category": "Printers & Copiers", "price": 9000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2025/01/Canon-PIXMA-TS3340.png", "imageFile": "Canon-PIXMA-TS3340.png", "description": `The Canon PIXMA TS3340 is a stylish, ultra-connected all-in-one printer that brings effortless wireless printing straight to your home office. With built-in Wi-Fi and seamless integration with the Canon PRINT app, you can easily print, scan, and copy documents directly from your mobile device or cloud storage. Using affordable FINE cartridges, it delivers crisp documents and bright borderless photos while maintaining an intuitive, user-friendly setup that anyone can manage.
+
+## Compatible printers
+Canon PIXMA TS3340 (Standalone product)
+If your model isn't listed, send us the number from the front of the machine and we'll confirm before you pay.
+
+## Specifications
+| Page yield | Cartridge type | Colour | Capacity | Part number | Genuine or compatible |
+|---|---|---|---|---|---|
+| ~180 pages (PG-445) | Inkjet Printer | Colour (CMYK) | Standard | TS3340 | Genuine |
+
+## Genuine or compatible?
+This is a 100% genuine, brand-new Canon printer. It ships with starter PG-445 black and CL-446 colour ink cartridges. For users looking to optimize their long-term printing budget, we highly recommend upgrading to the XL versions of these cartridges when the starters run out, or utilizing our Royal compatible brand for massive savings on everyday drafts.
+
+## Why buy from Trinatech
+Stock held locally in Nairobi CBD.
+Delivery across Kenya including Kisumu, Nakuru, Eldoret and Mombasa.
+M-Pesa and bank transfer accepted securely.
+WhatsApp ordering, walk-in at The One Mall River Road.
+
+## Getting the most from this cartridge
+To preserve ink, take advantage of the printer's wireless capabilities to preview documents on your phone before committing them to paper. Use the draft quality settings for web pages and internal notes. Always turn the printer off using the physical power button on the machine so the carriage can safely park the cartridges and prevent them from drying out.
+
+## Frequently asked questions
+Can I print from my iPhone? Yes, the TS3340 fully supports Apple AirPrint for seamless iOS printing.
+Does it support borderless photo printing? Yes, it can print borderless photos up to 5x7 inches.
+What is the delivery time? Same-day within Nairobi CBD; overnight delivery for the rest of Kenya.
+What is your warranty or returns policy? Standard 1-year Canon warranties apply to all genuine hardware.
+Can it print if the colour cartridge is empty? The printer generally requires both cartridges to have ink to operate smoothly.`, "metaTitle": "Canon PIXMA TS3340 Wireless Inkjet Printer", "metaDescription": "Genuine Canon PIXMA TS3340 Wi-Fi 3-in-1 printer. Easy smartphone printing, scanning, and copying for the home. Fast delivery across Kenya.", "inStock": true},
   {"id": 5286, "sku": null, "name": "Canon Premium Comp 490 Ink CMYK", "brand": "Canon", "category": "Master Rolls & Inks", "price": 400, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/Canon-Premium-Comp-490-Ink-CMYK.webp", "imageFile": "Canon-Premium-Comp-490-Ink-CMYK.webp", "description": `The Canon Premium Comp 490 Ink CMYK (GI-490 compatible refill set) provides high-yield, low-cost ink replacement for Canon PIXMA G-series MegaTank printers. Engineered to deliver sharp text documents and clear color photos for home offices in Nairobi.
 
 ## Compatible printers
@@ -1355,7 +1523,46 @@ Will it clog my printhead? High-grade compatible ink is micro-filtered to preven
 How fast is delivery in Nairobi? Delivered within 1 to 3 hours in Nairobi.
 How do I pay? Pay via M-Pesa, bank wire, or cash at counter.
 Is it easy to pour? Yes, key-nozzle bottles allow simple pour refills.`, "metaTitle": "Canon GI-490 Compatible Ink Bottles Set - Trinatech", "metaDescription": "Order compatible GI-490 refill ink set (BK/C/M/Y) in Nairobi. High yield for PIXMA G1400, G2400, G3400. Fast Kenya-wide delivery.", "inStock": true},
-  {"id": 4356, "sku": null, "name": "Canon Print Head BH-4 Black", "brand": "Canon", "category": "Printer Parts", "price": 5000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2025/01/Canon-Print-Head-BH-4.png", "imageFile": "Canon-Print-Head-BH-4.png", "description": "The Canon Print Head BH-4 Black is an essential component for ensuring your Canon printer delivers high-quality black text and graphics with every print.", "inStock": true},
+  {"id": 4356, "sku": null, "name": "Canon Print Head BH-4 Black", "brand": "Canon", "category": "Printer Parts", "price": 5000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2025/01/Canon-Print-Head-BH-4.png", "imageFile": "Canon-Print-Head-BH-4.png", "description": `The Canon BH-4 Black Printhead is a vital hardware replacement designed to restore the laser-sharp text quality of your Canon PIXMA G-series continuous ink printer. Over years of heavy use, printheads can eventually degrade or become permanently clogged; this genuine replacement part snaps into the carriage to instantly eliminate streaking, banding, or missing black text. It is an essential purchase if your machine refuses to print black despite having a completely full ink tank.
+
+## Compatible printers
+Canon PIXMA G1400
+Canon PIXMA G1410
+Canon PIXMA G1411
+Canon PIXMA G2400
+Canon PIXMA G2410
+Canon PIXMA G2411
+Canon PIXMA G3400
+Canon PIXMA G3410
+Canon PIXMA G3411
+Canon PIXMA G4400
+Canon PIXMA G4410
+Canon PIXMA G4411
+If your model isn't listed, send us the number from the front of the machine and we'll confirm before you pay.
+
+## Specifications
+| Page yield | Cartridge type | Colour | Capacity | Part number | Genuine or compatible |
+|---|---|---|---|---|---|
+| N/A | Printhead | Black | Standard | QY6-8002 / BH-4 | Genuine |
+
+## Genuine or compatible?
+Genuine, Original Canon printhead in a factory-sealed box. Because this part contains hundreds of microscopic nozzles and interfaces directly with the printer's logic board, we strongly advise against using refurbished or third-party printheads. Genuine Canon ensures optimal text sharpness and protects your MegaTank printer from electrical faults.
+
+## Why buy from Trinatech
+Stock held in Nairobi CBD for rapid dispatch.
+Delivery across Kenya including Kisumu, Nakuru, Eldoret and Mombasa.
+M-Pesa and bank transfer accepted.
+WhatsApp ordering, walk-in at The One Mall River Road.
+
+## Getting the most from this cartridge
+Always keep the printhead in its protective packaging until your printer specifically requires the replacement. Avoid touching the copper electrical contacts or the nozzles on the bottom. To prevent premature wear on your new printhead, ensure your printer's black ink tank never drops below the minimum fill line, as "dry firing" destroys the printhead rapidly.
+
+## Frequently asked questions
+Does this include the colour printhead? No, the CH-4 (colour) printhead is a separate part.
+Does this product include black ink? No, this is the printhead hardware only; it draws ink from your existing tanks.
+What is the delivery time? Same-day delivery for Nairobi CBD, and 24 hours for the rest of Kenya.
+What is your warranty or returns policy? Genuine hardware carries a manufacturer warranty against electrical faults out of the box.
+Is it difficult to install? It is designed to be easily user-replaceable by lifting the blue carriage latch.`, "metaTitle": "Canon BH-4 Black Original Printhead (QY6-8002)", "metaDescription": "Genuine Canon BH-4 black printhead for PIXMA G1400, G2411, G3411, G4411 series ink tank printers. Restores crisp text. Nairobi CBD stock.", "inStock": true},
   {"id": 5521, "sku": null, "name": "Canon Ts 3340", "brand": "Canon", "category": "Canon Toners", "price": 9000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/Canon-Ts-3340.webp", "imageFile": "Canon-Ts-3340.webp", "description": `The Canon Ts 3340 (Canon PIXMA TS3340) is an affordable, compact wireless all-in-one printer for home offices and students. Offers convenient Wi-Fi printing, copying, and scanning from smartphones, tablets, and laptops across Kenya.
 
 ## Compatible printers
@@ -2260,7 +2467,35 @@ What is the delivery time? Same-day within Nairobi CBD; overnight delivery for t
 What is your warranty or returns policy? Standard manufacturer warranties apply to all genuine, factory-sealed ribbons.
 How do I install the ribbon? Lift the printer lid, pull out the old cartridge, drop the new one over the printhead, and turn the tension knob.
 Why is the ribbon shredding? Your printer's printhead may have a broken pin, or the ribbon was installed without being tightened first.`, "metaTitle": "Epson ERC-38 B Black Ribbon Cartridge", "metaDescription": "Genuine Epson ERC-38 B black fabric ribbon for Epson TM-U220, TM-U200, TM-U230 series POS receipt printers. Nairobi stock, delivered nationwide.", "inStock": true},
-  {"id": 4511, "sku": null, "name": "Epson Ecotank L1800 Single Function Inktank A3 Photo Printer", "brand": "Epson", "category": "Printers & Copiers", "price": 150000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2025/01/Epson-L1800-Printer.png", "imageFile": "Epson-L1800-Printer.png", "description": "The Epson EcoTank L1800 Single Function InkTank A3 Photo Printer is a professional-grade printer designed for photographers, graphic designers, and businesses.", "inStock": true},
+  {"id": 4511, "sku": null, "name": "Epson Ecotank L1800 Single Function Inktank A3 Photo Printer", "brand": "Epson", "category": "Printers & Copiers", "price": 150000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2025/01/Epson-L1800-Printer.png", "imageFile": "Epson-L1800-Printer.png", "description": `The Epson EcoTank L1800 is a revolutionary A3+ 6-colour photo printer designed for image enthusiasts, creative agencies, and professional photographers who demand large-format, borderless printing. By utilizing a high-capacity continuous ink tank system with six distinct dye colours, it completely eliminates the need for expensive traditional cartridges while delivering breathtaking colour transitions and deep, rich blacks. It represents the ultimate investment for businesses requiring stunning photographic output at an ultra-low cost per print.
+
+## Compatible printers
+Epson EcoTank L1800 (Standalone product)
+If your model isn't listed, send us the number from the front of the machine and we'll confirm before you pay.
+
+## Specifications
+| Page yield | Cartridge type | Colour | Capacity | Part number | Genuine or compatible |
+|---|---|---|---|---|---|
+| ~1,500 photos | Ink Tank Printer | 6-Colour (Dye) | Standard | L1800 | Genuine |
+
+## Genuine or compatible?
+This is a 100% genuine, brand-new Epson printer in a factory-sealed box. It includes a full starter set of six original Epson 673 ink bottles, giving you incredible photographic yield right out of the box. For future top-ups, we strongly recommend sticking with genuine Epson 673 inks to protect the machine's micro-piezo printhead and guarantee maximum archival longevity.
+
+## Why buy from Trinatech
+Stock held right here in Nairobi CBD.
+Delivery across Kenya including Kisumu, Nakuru, Eldoret and Mombasa.
+M-Pesa and bank transfer accepted securely.
+Easy WhatsApp ordering or walk-in at The One Mall River Road.
+
+## Getting the most from this cartridge
+When setting up the printer, follow the initialization instructions carefully to ensure the 6-colour ink properly primes the internal tubes. Never let the ink reservoirs drop below the minimum fill line, as drawing air into the printhead will cause permanent damage. Print a full-colour photo or test page at least once a week to keep all six micro-nozzles clear and flowing perfectly.
+
+## Frequently asked questions
+Can it print A3+ borderless photos? Yes, the L1800 is specifically engineered for borderless printing up to A3+ dimensions.
+Does it scan or copy? No, this is a single-function printer dedicated entirely to high-quality output.
+What is the delivery time? We offer same-day delivery in Nairobi CBD, and next-day delivery nationwide.
+What is your warranty or returns policy? The printer is covered by Epson's standard hardware warranty.
+Does it have Wi-Fi? No, the L1800 connects reliably via a standard high-speed USB cable.`, "metaTitle": "Epson EcoTank L1800 A3 6-Colour Photo Printer", "metaDescription": "Genuine Epson EcoTank L1800 A3+ photo printer. 6-colour continuous ink system for borderless, professional photos. Delivery anywhere in Kenya.", "inStock": true},
   {"id": 4496, "sku": null, "name": "Epson Ecotank L3210 A4 All-In-One Ink Tank Printer", "brand": "Epson", "category": "Printers & Copiers", "price": 26000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2025/01/Epson-L3210-Printer.png", "imageFile": "Epson-L3210-Printer.png", "description": `The Epson Ecotank L3210 A4 All-In-One Ink Tank Printer is an entry-level EcoTank system designed for ultra-low-cost home and small office printing. Offers high page yields, crisp text, and borderless photo printing up to 4R across Kenya.
 
 ## Compatible printers

@@ -284,7 +284,45 @@ Do I need other colours to print? No, the MP 2000 is a strictly black-and-white 
 What is the delivery time? Expect same-day delivery in Nairobi CBD, and next-day for the rest of the country.
 What is your warranty or returns policy? We support standard manufacturer warranties on all sealed genuine supplies.
 Why did my toner run out before 9,000 pages? Yields are based on 5% coverage; printing ID cards with dark backgrounds drains toner much faster.`, "metaTitle": "Ricoh Aficio MP 2000 Black Toner Cartridge", "metaDescription": "Genuine Ricoh MP 2000 (Type 1230D) black toner, approx 9,000 pages. Reliable stock at Trinatech Nairobi, with fast delivery across Kenya.", "inStock": true},
-  {"id": 4452, "sku": null, "name": "Ricoh Aficio MP2000 Cleaning Blade", "brand": "Ricoh", "category": "Printer Parts", "price": 1000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2025/01/MP2000-Cleaning-Blade.png", "imageFile": "MP2000-Cleaning-Blade.png", "description": "The Ricoh Aficio MP2000 Cleaning Blade is a vital component for maintaining the performance of your Ricoh Aficio MP2000 copier.", "inStock": true},
+  {"id": 4452, "sku": null, "name": "Ricoh Aficio MP2000 Cleaning Blade", "brand": "Ricoh", "category": "Printer Parts", "price": 1000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2025/01/MP2000-Cleaning-Blade.png", "imageFile": "MP2000-Cleaning-Blade.png", "description": `The Drum Cleaning Blade for the Ricoh Aficio MP 2000 series is a crucial maintenance component designed to keep your legacy photocopier producing spotless, professional documents. Over time, the rubber edge of the original cleaning blade wears down, leaving frustrating grey backgrounds, vertical streaks, or residual toner lines on your prints; this high-quality compatible blade sweeps residual toner off the imaging drum perfectly. It is an essential, cost-effective fix to drastically extend the life of your Ricoh machine's imaging unit.
+
+## Compatible printers
+Ricoh Aficio 2015
+Ricoh Aficio 2018
+Ricoh Aficio 2018D
+Ricoh Aficio MP 1500
+Ricoh Aficio MP 1600
+Ricoh Aficio MP 2000
+Ricoh Aficio MP 2510
+If your model isn't listed, send us the number from the front of the machine and we'll confirm before you pay.
+
+## Specifications
+| Page yield | N/A |
+|---|---|
+| Cartridge type | Cleaning Blade |
+| Colour | N/A |
+| Capacity | Standard |
+| Part number | MP2000 Blade |
+| Genuine or compatible | Compatible |
+
+## Genuine or compatible?
+This is a compatible hardware replacement part. It is completely brand new and manufactured with highly durable rubber designed to precisely match the OEM specifications of your Ricoh copier. It provides an excellent, budget-friendly solution for extending the life of your drum unit without the high cost of a genuine manufacturer part.
+
+## Why buy from Trinatech
+Stock held locally in Nairobi CBD.
+Delivery across Kenya including Kisumu, Nakuru, Eldoret and Mombasa.
+M-Pesa and bank transfer accepted securely.
+WhatsApp ordering available, walk-in at The One Mall River Road.
+
+## Getting the most from this cartridge
+To get the most from your toner cartridge and drum, ensure the edge of the new blade is lightly dusted with setting powder (or a very light dusting of toner) before installation. Installing a "dry" rubber blade against a drum cylinder can cause it to catch, flip, and instantly scratch the drum surface on its first rotation. We highly recommend professional installation.
+
+## Frequently asked questions
+Is there an XL or high-yield alternative? No, this is a standard physical replacement hardware part.
+Do I need other colours to print? No, this blade is for the monochrome drum unit of these copiers.
+What is the delivery time? Same-day delivery for Nairobi CBD, and 24 hours for the rest of Kenya.
+What is your warranty or returns policy? We offer a replacement guarantee on compatible parts that fail out of the box.
+Will replacing the blade fix my drum? It will fix streaking caused by poor cleaning, but it cannot fix physical scratches already etched into the drum cylinder.`, "metaTitle": "Ricoh Aficio MP 2000 Compatible Cleaning Blade", "metaDescription": "Compatible drum cleaning blade for Ricoh Aficio MP 2000, MP 1600, 2015, 2018 copiers. Essential replacement part, stocked in Nairobi CBD.", "inStock": true},
   {"id": 5219, "sku": "MP201S", "name": "Ricoh Aficio MP201SPF Black Genuine Toner Cartridge", "brand": "Ricoh", "category": "Ricoh Toners", "price": 1200, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/08/5219_ricoh_ricoh-aficio-mp201spf-black-genuine-toner-cartri.jpg.png", "imageFile": "5219_ricoh_ricoh-aficio-mp201spf-black-genuine-toner-cartri.jpg.png", "description": `The Ricoh Aficio MP201SPF Black Genuine Toner Cartridge is an original Ricoh consumable designed for high-volume monochrome printing in office environments. Ideal for businesses in Nairobi looking for reliable text clarity and consistent performance across heavy daily print cycles.
 
 ## Compatible printers

@@ -118,8 +118,86 @@ Is warranty provided? Covered against factory defects.`,
   "inStock": true},
   {"id": 5020, "sku": null, "name": "Royal HP 500G Refill Powder", "brand": "HP", "category": "Royal Toners", "price": 600, "image": null, "imageFile": null, "description": "ROYAL HP 500G REFILL POWDER", "inStock": true},
   {"id": 5019, "sku": null, "name": "Royal HP Refill Powder 1KG", "brand": "HP", "category": "Royal Toners", "price": 1100, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/08/5019_hp_royal-hp-refill-powder-1kg.jpg-1.png", "imageFile": "5019_hp_royal-hp-refill-powder-1kg.jpg-1.png", "description": "ROYAL HP REFILL POWDER 1KG", "inStock": true},
-  {"id": 3582, "sku": null, "name": "Teflon Fuser Film Sleeve For HP Laserjet 1102/1020/1018 Printers", "brand": "HP", "category": "Printer Parts", "price": 1000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2024/12/Teflon-Fuser-Film-Sleeve.png", "imageFile": "Teflon-Fuser-Film-Sleeve.png", "description": "The Teflon Fuser Film Sleeve for HP LaserJet 1102/1020/1018 Printers is an essential replacement part for keeping your HP LaserJet printer running smoothly.", "inStock": true},
-  {"id": 3586, "sku": null, "name": "Teflon Fuser Film Sleeve For HP Laserjet 2050/PRO 400 Printers", "brand": "HP", "category": "Printer Parts", "price": 1000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2024/12/Teflon-Fuser-Film-Sleeve.png", "imageFile": "Teflon-Fuser-Film-Sleeve.png", "description": "The Teflon Fuser Film Sleeve for HP LaserJet 2050/PRO 400 Printers is a vital component that ensures smooth and efficient printing.", "inStock": true},
+  {"id": 3582, "sku": null, "name": "Teflon Fuser Film Sleeve For HP Laserjet 1102/1020/1018 Printers", "brand": "HP", "category": "Printer Parts", "price": 1000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2024/12/Teflon-Fuser-Film-Sleeve.png", "imageFile": "Teflon-Fuser-Film-Sleeve.png", "description": `The Teflon Fuser Film Sleeve for HP LaserJet 1102, 1020, and 1018 series printers is a critical repair component designed to restore your machine's ability to bake toner onto the page properly. When the original fuser film tears or wears down, you will experience frequent paper jams, smudged text, or repeating dirty marks on your documents. Replacing the damaged film with this high-quality, heat-resistant Teflon sleeve immediately revitalizes your printer's output quality without the need to buy an entirely new fuser assembly.
+
+## Compatible printers
+HP LaserJet 1018
+HP LaserJet 1020
+HP LaserJet 1022
+HP LaserJet P1005
+HP LaserJet P1006
+HP LaserJet P1102
+HP LaserJet P1102w
+HP LaserJet Pro M1132
+HP LaserJet Pro M1212nf
+If your model isn't listed, send us the number from the front of the machine and we'll confirm before you pay.
+
+## Specifications
+| Page yield | N/A |
+|---|---|
+| Cartridge type | Fuser Film |
+| Colour | N/A |
+| Capacity | Standard |
+| Part number | RM1-0000 (equiv) |
+| Genuine or compatible | Compatible |
+
+## Genuine or compatible?
+This is a high-quality compatible hardware replacement part. Because HP generally only sells complete, expensive fuser assemblies rather than the individual films, this compatible Teflon sleeve provides an excellent, budget-friendly solution for extending the life of your printer through professional repair.
+
+## Why buy from Trinatech
+Stock held locally in Nairobi CBD.
+Delivery across Kenya including Kisumu, Nakuru, Eldoret and Mombasa.
+M-Pesa and bank transfer accepted securely.
+WhatsApp ordering available, walk-in at The One Mall River Road.
+
+## Getting the most from this cartridge
+To ensure you get the most from your toner cartridge after installing this new fuser film, make sure the technician applying the film uses the correct high-temperature fuser grease. Using the wrong grease or failing to lubricate the heating element properly will cause the new Teflon sleeve to seize, tear, and ruin your print jobs almost immediately.
+
+## Frequently asked questions
+Can I install this myself? Replacing a fuser film requires dismantling the printer and handling a fragile heating element; we strongly recommend professional installation.
+Does it come with fuser grease? Fuser grease is generally sold separately; ask our team if you need a syringe of it.
+What is the delivery time? Same-day for Nairobi CBD; expect next-day delivery for other regions in Kenya.
+What is your warranty or returns policy? We offer a replacement guarantee on parts that fail due to manufacturing defects before installation.
+Will this fix my paper jam? Yes, if the paper jam is specifically occurring in the rear fuser section due to torn film.`, "metaTitle": "HP LaserJet P1102/1020/1018 Fuser Film Sleeve", "metaDescription": "Compatible Teflon fuser film sleeve for HP LaserJet 1018, 1020, P1102, M1132 printers. Essential repair part to fix paper jams and smudged prints.", "inStock": true},
+  {"id": 3586, "sku": null, "name": "Teflon Fuser Film Sleeve For HP Laserjet 2050/PRO 400 Printers", "brand": "HP", "category": "Printer Parts", "price": 1000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2024/12/Teflon-Fuser-Film-Sleeve.png", "imageFile": "Teflon-Fuser-Film-Sleeve.png", "description": `The Teflon Fuser Film Sleeve for HP LaserJet Pro 400 and P2055 series printers is an essential hardware repair part built to withstand the rigorous, high-speed heat required by medium-duty HP printers. A damaged fuser sleeve results in paper jamming at the rear exit, smeared toner, and ruined documents. Installing this premium compatible Teflon film instantly restores the fusing process, ensuring your toner bonds perfectly to the paper and giving your reliable printer a second life.
+
+## Compatible printers
+HP LaserJet P2035
+HP LaserJet P2055
+HP LaserJet P2055dn
+HP LaserJet Pro 400 M401a
+HP LaserJet Pro 400 M401dne
+HP LaserJet Pro 400 M401dw
+HP LaserJet Pro 400 MFP M425dn
+If your model isn't listed, send us the number from the front of the machine and we'll confirm before you pay.
+
+## Specifications
+| Page yield | N/A |
+|---|---|
+| Cartridge type | Fuser Film |
+| Colour | N/A |
+| Capacity | Standard |
+| Part number | RM1-6405 (equiv) |
+| Genuine or compatible | Compatible |
+
+## Genuine or compatible?
+This is a high-quality compatible hardware replacement part. Because HP typically only supplies entire fuser maintenance kits at a high premium, replacing just the torn film with this durable compatible sleeve is the smartest, most economical way for technicians to repair the machine and get your office back to printing.
+
+## Why buy from Trinatech
+Secure stock held in Nairobi CBD for rapid dispatch.
+Delivery across Kenya including Kisumu, Nakuru, Eldoret and Mombasa.
+M-Pesa and bank transfer accepted.
+WhatsApp ordering, walk-in at The One Mall River Road.
+
+## Getting the most from this cartridge
+To get the most from your toner cartridge after this repair, it is crucial that the heating element underneath this new sleeve is thoroughly cleaned of old, baked-on toner and properly relubricated with high-temperature thermal grease. Without proper lubrication, the film will not spin freely, leading to immediate paper jams and smeared toner on your page.
+
+## Frequently asked questions
+Is this an easy part to replace? No, it requires taking apart the printer's fuser assembly. It should be installed by a qualified technician.
+Will this fit the newer M402 series? No, the M402 series uses a completely different fuser design.
+What is the delivery time? Same-day within Nairobi CBD; overnight delivery for the rest of Kenya.
+What is your warranty or returns policy? We replace parts that show manufacturing defects prior to being installed.
+Why is my toner rubbing off the page? Your current fuser film is likely torn and not generating enough heat to melt the toner powder.`, "metaTitle": "HP LaserJet Pro 400 / P2055 Fuser Film Sleeve", "metaDescription": "Compatible Teflon fuser film sleeve for HP LaserJet Pro 400 M401, M425 and P2055 series printers. High quality replacement part delivered in Kenya.", "inStock": true},
   {"id": 4424, "sku": null, "name": "Konica Minolta TN216 Toner Cartridge", "brand": "Konica Minolta", "category": "Inks & Toner Cartridges", "price": 3000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2025/01/Konica-Minolta-TN216-Toner.png", "imageFile": "Konica-Minolta-TN216-Toner.png", "description": `The Konica Minolta TN216 Compatible Toner Cartridges ensure your workgroup can continuously output high-quality, professional A3 and A4 documents without frustrating downtime or massive expenses. Formulated to adhere perfectly to the page, this compatible toner provides sharp, smudge-free text and vivid colour graphics. Sold individually (Black, Cyan, Magenta, or Yellow), it is an essential supply for businesses depending on their Konica Minolta Bizhub C220 or C280 multifunction copiers to produce client-ready work economically.
 
 ## Compatible printers
@@ -274,9 +352,105 @@ What is the drum life? Long-life ECOSYS drum lasts up to 100,000 pages before re
 How fast is Nairobi delivery? Same-day inside 1 to 3 hours.
 How can I pay? Pay via M-Pesa, bank wire, or cash.
 Is warranty included? Covered by standard 1-year shop warranty.`, "metaTitle": "Kyocera ECOSYS FS-1025MFP Printer Price - Trinatech", "metaDescription": "Shop Kyocera ECOSYS FS-1025MFP printer in Nairobi. 25 ppm speed, auto duplex & 40-sheet ADF for quiet office printing. Fast Kenya delivery.", "inStock": true},
-  {"id": 3457, "sku": null, "name": "Kyocera Ecosys M2135DN A4 Mono Multifunction Laser Printer", "brand": "Kyocera", "category": "Printers & Copiers", "price": 95000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2024/12/Kyocera-ECOSYS-M2135dn-A4-mfp-Printer.png", "imageFile": "Kyocera-ECOSYS-M2135dn-A4-mfp-Printer.png", "description": "The Kyocera ECOSYS M2135dn A4 Mono Multifunction Laser Printer is designed to meet the needs of small to medium-sized businesses.", "inStock": true},
-  {"id": 3450, "sku": null, "name": "Kyocera Ecosys MA4500IX Mono Multifunction Laser Printer", "brand": "Kyocera", "category": "Printers & Copiers", "price": 145000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2024/12/Kyocera-ECOSYS-MA4500ix-mfp-Printer.png", "imageFile": "Kyocera-ECOSYS-MA4500ix-mfp-Printer.png", "description": "The Kyocera ECOSYS MA4500ix Mono Multifunction Laser Printer is designed to enhance productivity in high-demand office environments.", "inStock": true},
-  {"id": 3459, "sku": null, "name": "Kyocera MA2000W Monochrome Multifunction Laser Printer", "brand": "Kyocera", "category": "Printers & Copiers", "price": 50000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2024/12/Kyocera-MA2000w-mfp-Printer.png", "imageFile": "Kyocera-MA2000w-mfp-Printer.png", "description": "The Kyocera MA2000w MFP Monochrome Laser Printer is designed to streamline your office operations by combining printing, copying, and scanning capabilities.", "inStock": true},
+  {"id": 3457, "sku": null, "name": "Kyocera Ecosys M2135DN A4 Mono Multifunction Laser Printer", "brand": "Kyocera", "category": "Printers & Copiers", "price": 95000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2024/12/Kyocera-ECOSYS-M2135dn-A4-mfp-Printer.png", "imageFile": "Kyocera-ECOSYS-M2135dn-A4-mfp-Printer.png", "description": `The Kyocera ECOSYS M2135DN A4 Mono Multifunction Laser Printer is a rugged, highly reliable desktop machine designed for demanding small offices. Delivering fast print speeds of up to 35 pages per minute, along with integrated copying and colour scanning capabilities, it streamlines your daily document workflow. Built with Kyocera's renowned long-life ceramic drum technology, this printer dramatically reduces environmental waste and keeps your overall running costs exceptionally low.
+
+## Compatible printers
+Kyocera ECOSYS M2135dn (Standalone product)
+If your model isn't listed, send us the number from the front of the machine and we'll confirm before you pay.
+
+## Specifications
+| Page yield | Starter yield included |
+|---|---|
+| Cartridge type | Laser Printer |
+| Colour | Monochrome |
+| Capacity | Standard |
+| Part number | M2135DN |
+| Genuine or compatible | Genuine |
+
+## Genuine or compatible?
+This is a 100% genuine, brand-new Kyocera printer supplied in a factory-sealed box. It includes a starter toner cartridge to get you up and running immediately. When it is time to replace the toner, the machine uses the TK-1150 cartridge, which we stock in both the genuine Kyocera version and our highly cost-effective Royal compatible brand.
+
+## Why buy from Trinatech
+Stock held in Nairobi CBD for rapid dispatch.
+Delivery across Kenya including Kisumu, Nakuru, Eldoret and Mombasa.
+M-Pesa and bank transfer accepted.
+WhatsApp ordering, walk-in at The One Mall River Road.
+
+## Getting the most from this cartridge
+To get the most from the starter toner cartridge included with this printer, utilize the machine's "EcoPrint" mode for internal drafts and emails that do not require deep, presentation-quality blacks. Always ensure the printer is placed in a well-ventilated area away from direct sunlight, and leave it plugged in so it can manage its own internal drum maintenance cycles.
+
+## Frequently asked questions
+Does this printer have Wi-Fi? No, the M2135dn connects via Gigabit Ethernet (network cable) or USB.
+Can it print double-sided? Yes, it features automatic duplex printing as standard.
+What is the delivery time? Same-day within Nairobi CBD; overnight delivery for the rest of Kenya.
+What is your warranty or returns policy? Genuine Kyocera hardware comes with a standard 1-year manufacturer warranty.
+Which toner does it use? It uses the Kyocera TK-1150 black toner cartridge.`, "metaTitle": "Kyocera ECOSYS M2135dn Mono Multifunction Printer", "metaDescription": "Genuine Kyocera ECOSYS M2135dn A4 monochrome multifunction laser printer. Print, copy, and scan. Fast 35ppm. Nairobi stock, delivered across Kenya.", "inStock": true},
+  {"id": 3450, "sku": null, "name": "Kyocera Ecosys MA4500IX Mono Multifunction Laser Printer", "brand": "Kyocera", "category": "Printers & Copiers", "price": 145000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2024/12/Kyocera-ECOSYS-MA4500ix-mfp-Printer.png", "imageFile": "Kyocera-ECOSYS-MA4500ix-mfp-Printer.png", "description": `The Kyocera ECOSYS MA4500IX Mono Multifunction Laser Printer is a heavy-duty powerhouse engineered for medium to large workgroups that require blistering speeds and uncompromised reliability. Churning out documents at 45 pages per minute, this robust A4 machine handles high-volume printing, copying, and scanning with ease. Thanks to Kyocera's advanced long-life components, you benefit from unprecedented uptime and one of the lowest costs per page in its class, making it a stellar investment for busy corporate environments.
+
+## Compatible printers
+Kyocera ECOSYS MA4500ix (Standalone product)
+If your model isn't listed, send us the number from the front of the machine and we'll confirm before you pay.
+
+## Specifications
+| Page yield | Starter yield included |
+|---|---|
+| Cartridge type | Laser Printer |
+| Colour | Monochrome |
+| Capacity | Standard |
+| Part number | MA4500ix |
+| Genuine or compatible | Genuine |
+
+## Genuine or compatible?
+This is a genuine, Original Kyocera printer in factory packaging. It comes equipped with a starter toner to begin production right away. Moving forward, it utilizes the ultra-high-capacity TK-3400 toner series. To keep your enterprise running costs as low as possible, we stock both genuine replacements and our premium Royal compatible cartridges designed specifically for this heavy-duty machine.
+
+## Why buy from Trinatech
+Secure stock held right here in Nairobi CBD.
+Delivery across Kenya including Kisumu, Nakuru, Eldoret and Mombasa.
+M-Pesa and bank transfer accepted securely.
+Easy WhatsApp ordering or walk-in at The One Mall River Road.
+
+## Getting the most from this cartridge
+To maximize the lifespan of the starter cartridge included in the box, encourage your team to use the printer's duplex (double-sided) and draft modes for internal documentation. Ensure you load high-quality, dry paper to prevent jams, which can prematurely wear out the machine's internal rollers and waste valuable toner during misfeeds.
+
+## Frequently asked questions
+Does this printer support colour scanning? Yes, while it only prints in black and white, it features a full-colour scanner.
+Does it have a touchscreen? Yes, it features an intuitive, customizable 7-inch colour touch panel.
+What is the delivery time? We offer same-day delivery in Nairobi CBD, and next-day delivery nationwide.
+What is your warranty or returns policy? The printer is covered by Kyocera's standard 1-year hardware warranty.
+What toner does it take? It uses the Kyocera TK-3400 black toner cartridge.`, "metaTitle": "Kyocera ECOSYS MA4500ix Mono Multifunction Printer", "metaDescription": "Genuine Kyocera ECOSYS MA4500ix A4 monochrome multifunction laser printer. Heavy duty, 45ppm, ideal for busy offices. Fast delivery across Kenya.", "inStock": true},
+  {"id": 3459, "sku": null, "name": "Kyocera MA2000W Monochrome Multifunction Laser Printer", "brand": "Kyocera", "category": "Printers & Copiers", "price": 50000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2024/12/Kyocera-MA2000w-mfp-Printer.png", "imageFile": "Kyocera-MA2000w-mfp-Printer.png", "description": `The Kyocera MA2000W Monochrome Multifunction Laser Printer is a remarkably compact, wireless solution perfect for home offices and small business setups. Despite its space-saving footprint, it delivers reliable printing, scanning, and copying at 20 pages per minute. With seamless Wi-Fi connectivity, you can easily print documents directly from your smartphone or laptop, making it a highly convenient, modern addition to any streamlined workspace.
+
+## Compatible printers
+Kyocera MA2000w (Standalone product)
+If your model isn't listed, send us the number from the front of the machine and we'll confirm before you pay.
+
+## Specifications
+| Page yield | Starter yield included |
+|---|---|
+| Cartridge type | Laser Printer |
+| Colour | Monochrome |
+| Capacity | Standard |
+| Part number | MA2000w |
+| Genuine or compatible | Genuine |
+
+## Genuine or compatible?
+This is a 100% genuine, brand-new Kyocera printer. It includes a starter toner cartridge in the box. When the starter runs out, the machine uses the TK-1248 toner cartridge. We offer the genuine Kyocera replacement as well as our budget-friendly Royal compatible alternative, ensuring you can affordably maintain the printer over its lifetime.
+
+## Why buy from Trinatech
+Stock held locally in Nairobi CBD.
+Delivery across Kenya including Kisumu, Nakuru, Eldoret and Mombasa.
+M-Pesa and bank transfer accepted securely.
+WhatsApp ordering available, walk-in at The One Mall River Road.
+
+## Getting the most from this cartridge
+To get the most from the included starter cartridge, utilize Kyocera's EcoPrint setting to reduce toner consumption on standard text documents. The printer's quiet mode is also excellent for home offices, slightly reducing print speed while minimizing operational noise. Always turn the printer off using its own power button so it shuts down its internal mechanics safely.
+
+## Frequently asked questions
+Can I print from my mobile phone? Yes, it features built-in Wi-Fi and supports the Kyocera Mobile Print app.
+Does it have an automatic document feeder for scanning? No, it utilizes a flatbed scanner glass.
+What is the delivery time? Same-day for Nairobi CBD; expect next-day delivery for other regions in Kenya.
+What is your warranty or returns policy? We provide the manufacturer's standard 1-year hardware warranty.
+Which replacement toner do I need to buy? It takes the Kyocera TK-1248 black toner cartridge.`, "metaTitle": "Kyocera MA2000w Monochrome Multifunction Wi-Fi Printer", "metaDescription": "Genuine Kyocera MA2000w wireless compact mono laser printer. Print, copy, scan from your phone. Ideal for small offices. Nairobi delivery available.", "inStock": true},
   {"id": 5052, "sku": null, "name": "Kyocera Royal 1KG Refill Powder", "brand": "Kyocera", "category": "Royal Toners", "price": 2000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/08/5052_kyocera_kyocera-royal-1kg-refill-powder.jpg.png", "imageFile": "5052_kyocera_kyocera-royal-1kg-refill-powder.jpg.png", "description": "KYOCERA ROYAL 1KG REFILL POWDER", "inStock": true},
   {"id": 4853, "sku": null, "name": "Kyocera TK-1110 Toner Cartridge", "brand": "Kyocera", "category": "Inks & Toner Cartridges", "price": 4000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2025/07/Kyocera-TK-1110-Toner.png", "imageFile": "Kyocera-TK-1110-Toner.png", "description": `The Kyocera TK-1110 Toner Cartridge is a highly dependable, standard-capacity supply for Kyocera's rugged desktop monochrome printers. Formulated with Kyocera's unique micro-fine ceramic toner technology, it gently polishes the printer's permanent drum unit as it prints, ensuring long-lasting hardware health. It delivers crisp, dark text for up to 2,500 pages, making it an excellent, low-maintenance choice for small offices and reception desks.
 
@@ -1345,7 +1519,39 @@ Is warranty provided? Covered against technical and manufacturing defects.`, "me
   {"id": 4283, "sku": null, "name": "Kyocera TK-8325 Toner Cartridge", "brand": "Kyocera", "category": "Inks & Toner Cartridges", "price": 4000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2025/01/Kyocera-TK-8325-Toner.png", "imageFile": "Kyocera-TK-8325-Toner.png", "description": "Compatible with: Kyocera TASKalfa 2551ci (and equivalents like TASKalfa 2510i, 3010i, 3510i, 4510i, 5510i)", "inStock": true},
   {"id": 4280, "sku": null, "name": "Kyocera TK-8335 Toner Cartridge", "brand": "Kyocera", "category": "Inks & Toner Cartridges", "price": 5000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2025/01/Kyocera-TK-8335-Toner.png", "imageFile": "Kyocera-TK-8335-Toner.png", "description": "The Kyocera TK-8335 Toner Cartridge is designed to meet the needs of businesses with high-volume printing demands.", "inStock": true},
   {"id": 4773, "sku": null, "name": "Kyocera TK-8365 Toner Cartridge", "brand": "Kyocera", "category": "Inks & Toner Cartridges", "price": 4500, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2025/07/Kyocera-TK-8365-Toner.png", "imageFile": "Kyocera-TK-8365-Toner.png", "description": "Compatible with: Kyocera TASKalfa 2554ci (aka Taskalfa 2554 CI)", "inStock": true},
-  {"id": 3454, "sku": null, "name": "Kyocera Taskalfa 2020 A4/A3 Monochrome Multifunction Printer", "brand": "Kyocera", "category": "Printers & Copiers", "price": 120000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2024/12/Kyocera-TASKALFA-mfp-Printer.png", "imageFile": "Kyocera-TASKALFA-mfp-Printer.png", "description": "The Kyocera TASKalfa 2020 A4/A3 Monochrome Multifunction Printer is designed to enhance productivity in small to medium-sized businesses.", "inStock": true},
+  {"id": 3454, "sku": null, "name": "Kyocera Taskalfa 2020 A4/A3 Monochrome Multifunction Printer", "brand": "Kyocera", "category": "Printers & Copiers", "price": 120000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2024/12/Kyocera-TASKALFA-mfp-Printer.png", "imageFile": "Kyocera-TASKALFA-mfp-Printer.png", "description": `The Kyocera TASKalfa 2020 A3 Monochrome Multifunction Printer is a remarkably robust and cost-efficient machine engineered specifically for busy small to medium-sized offices. Providing seamless A4 and A3 printing, copying, and colour scanning at 20 pages per minute, it tackles your daily document handling with exceptional reliability. Built with Kyocera's renowned long-life ceramic drum technology, it minimizes service interventions and delivers one of the lowest running costs in the A3 copier class.
+
+## Compatible printers
+Kyocera TASKalfa 2020 (Standalone product)
+If your model isn't listed, send us the number from the front of the machine and we'll confirm before you pay.
+
+## Specifications
+| Page yield | Starter yield included |
+|---|---|
+| Cartridge type | Laser Printer |
+| Colour | Monochrome |
+| Capacity | Standard |
+| Part number | TASKalfa 2020 |
+| Genuine or compatible | Genuine |
+
+## Genuine or compatible?
+This is a 100% genuine, brand-new Kyocera copier in a factory-sealed box. It comes with a starter toner to begin production right away. When the starter is depleted, the machine utilizes the high-capacity TK-4105 toner cartridge. To keep your office running costs low, we stock both the genuine Kyocera replacement and our premium Royal compatible toner for this model.
+
+## Why buy from Trinatech
+Secure stock held in Nairobi CBD for rapid dispatch.
+Delivery across Kenya including Kisumu, Nakuru, Eldoret and Mombasa.
+M-Pesa and bank transfer accepted securely.
+WhatsApp ordering available, walk-in at The One Mall River Road.
+
+## Getting the most from this cartridge
+To get the most from the starter toner cartridge included with the machine, encourage your staff to use the copier's EcoPrint mode for daily internal paperwork and draft prints. Ensure you load high-quality, dry paper into the cassettes to prevent jams, which can prematurely wear out the machine's internal rollers and waste valuable toner during misfeeds.
+
+## Frequently asked questions
+Can this machine print in A3 size? Yes, it fully supports A3 printing, copying, and scanning.
+Does it have a network port? Yes, it comes with a standard USB and an optional network interface depending on your exact configuration.
+What is the delivery time? We offer same-day delivery in Nairobi CBD, and next-day dispatch countrywide.
+What is your warranty or returns policy? The copier is covered by Kyocera's standard 1-year hardware warranty.
+Which replacement toner do I need? It uses the Kyocera TK-4105 black toner cartridge.`, "metaTitle": "Kyocera TASKalfa 2020 A3 Monochrome Multifunction", "metaDescription": "Genuine Kyocera TASKalfa 2020 A3/A4 monochrome multifunction copier. Reliable, cost-effective printing for busy offices. Fast delivery across Kenya.", "inStock": true},
   {"id": 3452, "sku": null, "name": "Kyocera Taskalfa 2321 Monochrome Multifunction A3 Printer", "brand": "Kyocera", "category": "Printers & Copiers", "price": 115000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2024/12/Kyocera-TASKALFA-mfp-Printer.png", "imageFile": "Kyocera-TASKALFA-mfp-Printer.png", "description": `The Kyocera Taskalfa 2321 Monochrome Multifunction A3 Printer is a durable, budget-friendly A3 monochrome laser multifunction printer designed for small to medium workgroups. Engineered with long-life ECOSYS component technology, fast 23 ppm A4 speeds, and standard network connectivity for daily office printing and copying across Kenya.
 
 ## Compatible toner cartridges
@@ -2190,7 +2396,42 @@ Is warranty provided? Covered against factory defects.`,
   "metaTitle": "Printer Lower Pressure Roller Price - Trinatech Kenya",
   "metaDescription": "Buy replacement lower pressure roller for laser printers in Nairobi. Fix fuser paper jams and poor toner melting. Fast delivery across Kenya.",
   "inStock": true},
-  {"id": 5340, "sku": null, "name": "Rz/Rv B4 Digital Duplicator Master Paper For Rz 220", "brand": "Other", "category": "Riso Master Rolls & Inks", "price": 1700, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/Rz-Rv-B4-Digital-Duplicator-Master-Paper-For-Rz-220.webp", "imageFile": "Rz-Rv-B4-Digital-Duplicator-Master-Paper-For-Rz-220.webp", "description": "RZ/RV B4 DIGITAL DUPLICATOR MASTER PAPER FOR RZ 220", "inStock": true},
+  {"id": 5340, "sku": null, "name": "Rz/Rv B4 Digital Duplicator Master Paper For Rz 220", "brand": "Other", "category": "Riso Master Rolls & Inks", "price": 1700, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/Rz-Rv-B4-Digital-Duplicator-Master-Paper-For-Rz-220.webp", "imageFile": "Rz-Rv-B4-Digital-Duplicator-Master-Paper-For-Rz-220.webp", "description": `The RZ/RV B4 Digital Duplicator Master Roll provides high-volume commercial printers, schools, and churches with an exceptional alternative to expensive original duplicator supplies. Engineered to match the exact thermal sensitivity required by classic Riso RZ and RV series duplicators, this high-quality B4-sized stencil roll produces sharp, dark text and clear images for all your bulk printing needs. It allows you to run massive batches of documentation while drastically slashing your operational budget.
+
+## Compatible printers
+Riso RZ 220
+Riso RZ 230
+Riso RV 3660
+Riso RV 3690
+If your model isn't listed, send us the number from the front of the machine and we'll confirm before you pay.
+
+## Specifications
+| Page yield | ~250 masters |
+|---|---|
+| Cartridge type | Duplicator Master |
+| Colour | White/Stencil |
+| Capacity | B4 Roll |
+| Part number | S-4250 (Comp) |
+| Genuine or compatible | Compatible |
+
+## Genuine or compatible?
+This is a compatible duplicator master roll. It is a brand-new unit manufactured to perform just like the original, but it is not an OEM Riso product. This compatible alternative is perfect for schools, copy shops, and businesses that need to produce high volumes of monochrome documents on a tight budget while maintaining highly legible, professional output quality.
+
+## Why buy from Trinatech
+Reliable stock held right here in Nairobi CBD.
+Delivery across Kenya including Kisumu, Nakuru, Eldoret and Mombasa.
+M-Pesa and bank transfer accepted securely.
+WhatsApp ordering, walk-in at The One Mall River Road.
+
+## Getting the most from this cartridge
+To ensure flawless stencil cutting, keep the master roll sealed in its protective wrapping until the moment you load it into the duplicator. Always check that the machine's thermal head is clean before installing a new roll, as dust can cause faint lines or missing text on your final prints. For the best economy, try to bundle your print jobs so you print hundreds of copies per master.
+
+## Frequently asked questions
+Is this an A3, B4, or A4 master? This specific product is a B4 master roll, designed for the RZ 220 cylinder size.
+Do I need to replace the ink at the same time? No, the master roll and the black ink tube are replaced independently as they run out.
+What is the delivery time? Same-day delivery within Nairobi CBD and next-day for the rest of Kenya.
+What is your warranty or returns policy? We replace any compatible master rolls that show manufacturing defects upon installation.
+Why are my prints coming out blank? Ensure the master roll is loaded with the correct side facing the thermal head.`, "metaTitle": "Riso RZ/RV B4 Compatible Duplicator Master Roll", "metaDescription": "Compatible Riso RZ/RV B4 master roll for Riso RZ 220, RZ 230, RV 3660 duplicators. Economical high-volume printing stock delivered anywhere in Kenya.", "inStock": true},
   {"id": 5272, "sku": "TN-221-2", "name": "TN-221 Compatible Toners Each", "brand": "Other", "category": "Brother Toners", "price": 3000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/TN-221-Compatible-Toners-Each.png", "imageFile": "TN-221-Compatible-Toners-Each.png", "description": `The Konica Minolta TN221 Compatible Toner Cartridges offer an incredibly economical solution for businesses heavily utilizing their A3 Bizhub colour copiers. Sold individually per colour (Black, Cyan, Magenta, or Yellow), these high-quality replacement toners deliver striking, consistent colour reproduction and sharp text. By opting for these reliable compatibles, you drastically reduce your cost per page without having to compromise on the volume or quality of your internal memos, architectural plans, and marketing materials.
 
 ## Compatible printers

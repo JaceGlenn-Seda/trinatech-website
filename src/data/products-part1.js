@@ -466,16 +466,352 @@ Do I need other colors? Yes, full set (K, C, M, Y) is required for color printin
 What is Nairobi delivery turnaround? 1 to 3 hours within Nairobi.
 How do I pay? Pay via M-Pesa or bank transfer.
 Is chip pre-installed? Yes, factory chip included.`, "metaTitle": "Canon 718 Yellow Original Toner Price - Trinatech Kenya", "metaDescription": "Buy genuine Canon 718 Yellow laser toner cartridge in Nairobi. Yields ~2,900 pages for LBP7200 and MF8350. Fast Kenya-wide delivery.", "inStock": true},
-  {"id": 5509, "sku": null, "name": "Canon C-EXV12 Black Original Laser Toner Cartridge", "brand": "Canon", "category": "Canon Toners", "price": 3000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/Canon-C-EXV12-Black-Original-Laser-Toner-Cartridge.webp", "imageFile": "Canon-C-EXV12-Black-Original-Laser-Toner-Cartridge.webp", "description": "CANON C-EXV12 BLACK ORIGINAL LASER TONER CARTRIDGE", "inStock": true},
-  {"id": 5508, "sku": null, "name": "Canon C-EXV14 Black Original Laser Toner Cartridge", "brand": "Canon", "category": "Canon Toners", "price": 5000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/Canon-C-EXV14-Black-Original-Laser-Toner-Cartridge-1.webp", "imageFile": "Canon-C-EXV14-Black-Original-Laser-Toner-Cartridge-1.webp", "description": "CANON C-EXV14 BLACK ORIGINAL LASER TONER CARTRIDGE", "inStock": true},
-  {"id": 5506, "sku": null, "name": "Canon C-EXV49 Toner Bcmy", "brand": "Canon", "category": "Canon Toners", "price": 5000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/Canon-C-EXV49-Toner-Bcmy.webp", "imageFile": "Canon-C-EXV49-Toner-Bcmy.webp", "description": "CANON C-EXV49 TONER BCMY", "inStock": true},
-  {"id": 5505, "sku": null, "name": "Canon C-EXV51 Black Laser Toner Cartridge", "brand": "Canon", "category": "Canon Toners", "price": 5000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/Canon-C-EXV51-Black-Laser-Toner-Cartridge.webp", "imageFile": "Canon-C-EXV51-Black-Laser-Toner-Cartridge.webp", "description": "CANON C-EXV51 BLACK LASER TONER CARTRIDGE", "inStock": true},
-  {"id": 5504, "sku": null, "name": "Canon C-EXV51 Toner Each Bcym", "brand": "Canon", "category": "Canon Toners", "price": 5000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/Canon-C-EXV51-Toner-Each-Bcym.webp", "imageFile": "Canon-C-EXV51-Toner-Each-Bcym.webp", "description": "CANON C-EXV51 TONER EACH BCYM", "inStock": true},
-  {"id": 5503, "sku": null, "name": "Canon C-EXV52 Black Toner Cartridge", "brand": "Canon", "category": "Canon Toners", "price": 6000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/Canon-C-EXV52-Black-Toner-Cartridge.png", "imageFile": "Canon-C-EXV52-Black-Toner-Cartridge.png", "description": "CANON C-EXV52 BLACK TONER CARTRIDGE", "inStock": true},
-  {"id": 4208, "sku": null, "name": "Canon C-Exv 18 Black Toner", "brand": "Canon", "category": "Inks & Toner Cartridges", "price": 2000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2025/01/Canon-C-EXV-18-Toner.png", "imageFile": "Canon-C-EXV-18-Toner.png", "description": "The Canon C-EXV 18 Black Toner is designed to offer exceptional print quality and consistent performance, making it an ideal choice for businesses with high-volume printing.", "inStock": true},
-  {"id": 5513, "sku": null, "name": "Canon C-Exv 33 Black Original Toner Cartridge", "brand": "Canon", "category": "Canon Toners", "price": 2500, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/Canon-C-Exv-33-Black-Original-Toner-Cartridge.webp", "imageFile": "Canon-C-Exv-33-Black-Original-Toner-Cartridge.webp", "description": "CANON C-EXV 33 BLACK ORIGINAL TONER CARTRIDGE", "inStock": true},
-  {"id": 4205, "sku": null, "name": "Canon C-Exv 42 Black Toner", "brand": "Canon", "category": "Inks & Toner Cartridges", "price": 2500, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2025/01/Canon-C-EXV-42-Toner.png", "imageFile": "Canon-C-EXV-42-Toner.png", "description": "The Canon C-EXV 42 Black Toner is engineered to deliver superior print quality and outstanding reliability for high-volume printing environments.", "inStock": true},
-  {"id": 5512, "sku": null, "name": "Canon C-Exv 43 Black Toner Cartridge", "brand": "Canon", "category": "Canon Toners", "price": 5000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/Canon-C-Exv-43-Black-Toner-Cartridge.webp", "imageFile": "Canon-C-Exv-43-Black-Toner-Cartridge.webp", "description": "CANON C-EXV 43 BLACK TONER CARTRIDGE", "inStock": true},
+  {"id": 5509, "sku": null, "name": "Canon C-EXV12 Black Original Laser Toner Cartridge", "brand": "Canon", "category": "Canon Toners", "price": 3000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/Canon-C-EXV12-Black-Original-Laser-Toner-Cartridge.webp", "imageFile": "Canon-C-EXV12-Black-Original-Laser-Toner-Cartridge.webp", "description": `The Canon C-EXV12 Black Original Laser Toner Cartridge is a highly dependable, high-capacity supply built for classic, heavy-duty Canon enterprise copiers. Designed to deliver up to 24,000 pages of crisp, uncompromised text, this genuine toner ensures your workflow remains uninterrupted during demanding print runs. It is an essential restock item for schools, law firms, and busy back-offices that require incredibly low running costs without sacrificing document clarity or machine health.
+
+## Compatible printers
+Canon imageRUNNER 3025
+Canon imageRUNNER 3035
+Canon imageRUNNER 3045
+Canon imageRUNNER 3225
+Canon imageRUNNER 3235
+Canon imageRUNNER 3245
+Canon imageRUNNER 3530
+Canon imageRUNNER 3570
+Canon imageRUNNER 4570
+If your model isn't listed, send us the number from the front of the machine and we'll confirm before you pay.
+
+## Specifications
+| Page yield | Cartridge type | Colour | Capacity | Part number | Genuine or compatible |
+|---|---|---|---|---|---|
+| ~24,000 pages | Laser Toner | Black | Standard | 9634A002AA | Genuine |
+
+## Genuine or compatible?
+Genuine, Original Canon toner. Not a refill and not our Royal house brand. Using genuine Canon toner guarantees your machine's developer unit remains in pristine condition, minimizing service calls. If you are aiming to cut overhead costs on internal draft printing, mention our Royal compatible brand when you order—it fits the exact same copiers at a much lower price point.
+
+## Why buy from Trinatech
+Stock held in Nairobi CBD.
+Delivery across Kenya including Kisumu, Nakuru, Eldoret and Mombasa.
+M-Pesa and bank transfer accepted.
+WhatsApp ordering, walk-in at The One Mall River Road.
+
+## Getting the most from this cartridge
+Before installing the new toner, hold the cylindrical bottle horizontally and shake it gently from side to side five or six times to loosen the powder.
+Keep your copier in a well-ventilated, dry area, as humidity can cause toner powder to clump and print unevenly.
+To extend the life of the toner, use your machine's toner-save mode for internal drafts.
+
+## Frequently asked questions
+Is there an XL or high-yield alternative?
+This is the standard high-volume bottle for this series; there is no official XL version. Do I need other colours to print? No, these specific Canon imageRUNNER models are monochrome (black and white) copiers. What is the delivery time? Same-day delivery for Nairobi CBD, and next-day for the rest of Kenya. What is your warranty or returns policy?
+Genuine sealed cartridges are backed by the manufacturer's warranty against defects. How will I know when it is completely empty?
+The copier's display panel will halt printing and prompt you to replace the toner bottle.`, "metaTitle": "Canon C-EXV12 Black Original Laser Toner", "metaDescription": "Genuine Canon C-EXV12 black toner (9634A002AA), approx 24,000 pages, for imageRUNNER 3025, 3035, 3235, 3570. Nairobi stock, delivered nationwide.", "inStock": true},
+  {"id": 5508, "sku": null, "name": "Canon C-EXV14 Black Original Laser Toner Cartridge", "brand": "Canon", "category": "Canon Toners", "price": 5000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/Canon-C-EXV14-Black-Original-Laser-Toner-Cartridge-1.webp", "imageFile": "Canon-C-EXV14-Black-Original-Laser-Toner-Cartridge-1.webp", "description": `The Canon C-EXV14 Black Original Laser Toner Cartridge ensures your mid-sized office can continuously output high-quality, professional documents without frustrating downtime. Formulated to adhere perfectly to the page, this genuine toner provides sharp, smudge-free text and clear greyscale graphics. It is a highly reliable, essential supply for businesses depending on classic Canon imageRUNNER monochrome multifunction copiers.
+
+## Compatible printers
+Canon imageRUNNER 2016
+Canon imageRUNNER 2018
+Canon imageRUNNER 2020
+Canon imageRUNNER 2022
+Canon imageRUNNER 2025
+Canon imageRUNNER 2318
+Canon imageRUNNER 2320
+Canon imageRUNNER 2420
+Canon imageRUNNER 2422
+If your model isn't listed, send us the number from the front of the machine and we'll confirm before you pay.
+
+## Specifications
+| Page yield | Cartridge type | Colour | Capacity | Part number | Genuine or compatible |
+|---|---|---|---|---|---|
+| ~8,300 pages | Laser Toner | Black | Standard | 0384B006AA | Genuine |
+
+## Genuine or compatible?
+This is a genuine, Original Canon toner cartridge. Genuine toner is specifically engineered to protect the lifespan of your drum and developer. However, if cost savings are your primary concern, our Royal compatible equivalent is available for these models, giving you the same perfect fit at a significantly lower cost for high-volume everyday printing.
+
+## Why buy from Trinatech
+Stock held right here in Nairobi CBD.
+Delivery across Kenya including Kisumu, Nakuru, Eldoret and Mombasa.
+M-Pesa and bank transfer accepted securely.
+Easy WhatsApp ordering, or walk-in at The One Mall River Road.
+
+## Getting the most from this cartridge
+Keep the toner safely stored in its original box until your machine physically prompts for a replacement.
+Because actual page yield depends heavily on your printing habits, you can extend the life of the toner by setting your copier defaults to lower density or draft mode for everyday internal paperwork that doesn't need to be presentation-quality.
+
+## Frequently asked questions
+Is there an XL or high-yield alternative? No, the 8,300-page yield is the standard capacity for these specific models. Do I need other colours to print? No, these copiers only require a single black toner cartridge. What is the delivery time?
+We offer same-day delivery in Nairobi CBD, and next-day dispatch countrywide. What is your warranty or returns policy?
+We honour the standard Canon warranty for factory-sealed, genuine items. Is the toner difficult to install?
+Not at all; the front door opens, the old bottle slides out, and the new one clicks into the cradle.`, "metaTitle": "Canon C-EXV14 Black Original Laser Toner", "metaDescription": "Genuine Canon C-EXV14 black toner (0384B006AA), approx 8,300 pages, for imageRUNNER 2016, 2018, 2020, 2318. Reliable delivery anywhere in Kenya.", "inStock": true},
+  {"id": 5506, "sku": null, "name": "Canon C-EXV49 Toner Bcmy", "brand": "Canon", "category": "Canon Toners", "price": 5000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/Canon-C-EXV49-Toner-Bcmy.webp", "imageFile": "Canon-C-EXV49-Toner-Bcmy.webp", "description": `The Canon C-EXV49 Toner Cartridges are high-yield supplies built to keep your fast-paced office productive on the modern imageRUNNER ADVANCE colour series. Designed for heavy-duty A3 printing, these toners deliver exceptional image clarity, vibrant colour reproduction, and deep blacks for text documents. Sold individually so you can replace only the depleted colour (Black, Cyan, Yellow, or Magenta), they are a reliable choice for businesses that produce large volumes of proposals, flyers, and reports.
+
+## Compatible printers
+Canon imageRUNNER ADVANCE C3320i
+Canon imageRUNNER ADVANCE C3325i
+Canon imageRUNNER ADVANCE C3330i
+Canon imageRUNNER ADVANCE C3520i
+Canon imageRUNNER ADVANCE C3525i
+Canon imageRUNNER ADVANCE C3530i
+Canon imageRUNNER ADVANCE DX C3720i
+Canon imageRUNNER ADVANCE DX C3725i
+Canon imageRUNNER ADVANCE DX C3730i
+If your model isn't listed, send us the number from the front of the machine and we'll confirm before you pay.
+
+## Specifications
+| Page yield | Cartridge type | Colour | Capacity | Part number | Genuine or compatible |
+|---|---|---|---|---|---|
+| ~36,000 (Black) / ~19,000 (Colour) | Laser Toner | Black, Cyan, Magenta OR Yellow | Standard | Varies | Genuine |
+
+## Genuine or compatible?
+This is a 100% genuine, Original Canon toner cartridge. Genuine toner is specifically engineered to protect the lifespan of your machine's delicate imaging units. For customers doing massive volumes of draft-quality internal printing, our Royal compatible equivalent is available—it fits seamlessly into the same machines at a much lower price, offering a highly practical trade-off.
+
+## Why buy from Trinatech
+Reliable stock held in Nairobi CBD.
+Delivery across Kenya including Kisumu, Nakuru, Eldoret and Mombasa.
+M-Pesa and bank transfer accepted.
+WhatsApp ordering, walk-in at The One Mall River Road.
+
+## Getting the most from this cartridge
+Always shake the cylindrical toner bottle vigorously from side to side before inserting it into the copier to ensure the powder feeds correctly from the very first page.
+The massive 36,000-page black yield is based on 5% page coverage; printing pages with heavy photographic graphics or solid borders will drain the toner considerably faster.
+
+## Frequently asked questions
+Is there an XL or high-yield alternative?
+These cartridges are already high-yield products suited for heavy production. Do I need other colours to print? Yes, the copier requires all four colours to be installed to function safely. What is the delivery time? Same-day delivery within Nairobi CBD and next-day for the rest of Kenya. What is your warranty or returns policy?
+Genuine Canon toners come with a standard manufacturer defect warranty. Are these sold as a set? No, they are priced individually so you only buy what you need.`, "metaTitle": "Canon C-EXV49 Original Toner Cartridges (BCMY)", "metaDescription": "Genuine Canon C-EXV49 toner cartridges (Black, Cyan, Magenta, Yellow) for imageRUNNER ADVANCE C3320i, C3520i. Sold individually. Kenya delivery.", "inStock": true},
+  {"id": 5505, "sku": null, "name": "Canon C-EXV51 Black Laser Toner Cartridge", "brand": "Canon", "category": "Canon Toners", "price": 5000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/Canon-C-EXV51-Black-Laser-Toner-Cartridge.webp", "imageFile": "Canon-C-EXV51-Black-Laser-Toner-Cartridge.webp", "description": `The Canon C-EXV51 Black Laser Toner Cartridge is a massive-yield supply engineered for the high-speed Canon imageRUNNER ADVANCE C5500 enterprise series. Capable of an astonishing 69,000 pages in black, this toner dramatically reduces the frequency of maintenance in busy corporate environments. It delivers rich, deep text and flawless greyscales, ensuring your high-volume office keeps running efficiently without ever compromising on document quality.
+
+## Compatible printers
+Canon imageRUNNER ADVANCE C5535
+Canon imageRUNNER ADVANCE C5535i
+Canon imageRUNNER ADVANCE C5540i
+Canon imageRUNNER ADVANCE C5550i
+Canon imageRUNNER ADVANCE C5560i
+If your model isn't listed, send us the number from the front of the machine and we'll confirm before you pay.
+
+## Specifications
+| Page yield | Cartridge type | Colour | Capacity | Part number | Genuine or compatible |
+|---|---|---|---|---|---|
+| ~69,000 pages | Laser Toner | Black | Ultra High Yield | 0481C002 | Genuine |
+
+## Genuine or compatible?
+Genuine, Original Canon toner. Not a refill. Using genuine Canon toner guarantees your machine's fusing unit remains in pristine condition, minimizing service calls on high-value equipment. If you are aiming to cut overhead costs on bulk internal drafts, mention our Royal compatible brand when you order—it fits the exact same copiers seamlessly at a lower price point.
+
+## Why buy from Trinatech
+Secure stock held in Nairobi CBD for rapid dispatch.
+Delivery across Kenya including Kisumu, Nakuru, Eldoret and Mombasa.
+M-Pesa and bank transfer accepted securely.
+WhatsApp ordering available, walk-in at The One Mall River Road.
+
+## Getting the most from this cartridge
+Store the large toner bottle horizontally in a cool, dry place.
+Because this cartridge holds a massive amount of powder, shaking it firmly from side to side before installation is crucial to ensure it dispenses smoothly.
+Do not force the bottle into the copier; it should slide smoothly into the locking mechanism.
+
+## Frequently asked questions
+Is there an XL or high-yield alternative?
+This cartridge is already an ultra-high-yield product at 69,000 pages. Do I need other colours to print? Yes, the imageRUNNER ADVANCE C5500 series requires all four toners to operate. What is the delivery time?
+Expect same-day delivery in Nairobi CBD, and next-day for the rest of the country. What is your warranty or returns policy?
+We support standard manufacturer warranties on all sealed genuine supplies. Will the machine stop when toner is low?
+It will warn you first, allowing you to print a few more pages before it halts entirely.`, "metaTitle": "Canon C-EXV51 Black Original Laser Toner", "metaDescription": "Genuine Canon C-EXV51 black toner, approx 69,000 pages, for imageRUNNER ADVANCE C5535, C5540, C5550. High-volume stock, delivered across Kenya.", "inStock": true},
+  {"id": 5504, "sku": null, "name": "Canon C-EXV51 Toner Each Bcym", "brand": "Canon", "category": "Canon Toners", "price": 5000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/Canon-C-EXV51-Toner-Each-Bcym.webp", "imageFile": "Canon-C-EXV51-Toner-Each-Bcym.webp", "description": `The Canon C-EXV51 Toner Cartridges provide the premium, fast-drying powder your heavy-duty enterprise Canon machine requires to output stunning colour documents at high speeds. Whether you are printing marketing brochures or hundreds of double-sided reports, these ultra-high-capacity toners ensure smooth, streak-free results. Available individually (in Black, Cyan, Magenta, or Yellow), they keep your corporate-level copier running with minimal intervention.
+
+## Compatible printers
+Canon imageRUNNER ADVANCE C5535
+Canon imageRUNNER ADVANCE C5535i
+Canon imageRUNNER ADVANCE C5540i
+Canon imageRUNNER ADVANCE C5550i
+Canon imageRUNNER ADVANCE C5560i
+If your model isn't listed, send us the number from the front of the machine and we'll confirm before you pay.
+
+## Specifications
+| Page yield | Cartridge type | Colour | Capacity | Part number | Genuine or compatible |
+|---|---|---|---|---|---|
+| ~69,000 (Black) / ~60,000 (Colour) | Laser Toner | Black, Cyan, Magenta OR Yellow | Ultra High Yield | Varies | Genuine |
+
+## Genuine or compatible?
+This is a 100% genuine, Original Canon toner. Genuine supplies are critical for maintaining the health of your copier's sensitive internal components over years of heavy use. For customers doing massive volumes of draft-quality internal printing, our Royal compatible equivalent is available—it fits seamlessly into the same machines at a much lower price, offering a highly practical trade-off.
+
+## Why buy from Trinatech
+Stock held right here in Nairobi CBD.
+Delivery across Kenya including Kisumu, Nakuru, Eldoret and Mombasa.
+M-Pesa and bank transfer accepted.
+WhatsApp ordering, walk-in at The One Mall River Road.
+
+## Getting the most from this cartridge
+Store spare toner bottles horizontally in a cool, dry place away from direct sunlight.
+When your copier alerts you of low toner, do not immediately discard the old bottle; the machine will give you ample warning to order a replacement before it completely stops printing.
+Keep the internal cavity of the copier clean of spilled powder when changing bottles.
+
+## Frequently asked questions
+Is there an XL or high-yield alternative?
+This is the maximum capacity toner designed for the C5500 series. Do I need other colours to print? Yes, all four toners (CMYK) must have powder for the machine to operate safely. What is the delivery time? Same-day delivery within Nairobi CBD and next-day for the rest of Kenya. What is your warranty or returns policy?
+Genuine Canon toners come with a standard manufacturer defect warranty. Can I buy the colours separately? Yes, these are priced and sold as individual colours.`, "metaTitle": "Canon C-EXV51 Original Toner Cartridges (BCYM)", "metaDescription": "Genuine Canon C-EXV51 colour toners (Cyan, Magenta, Yellow) for imageRUNNER ADVANCE C5535, C5540, C5550. Sold individually. Nairobi CBD stock.", "inStock": true},
+  {"id": 5503, "sku": null, "name": "Canon C-EXV52 Black Toner Cartridge", "brand": "Canon", "category": "Canon Toners", "price": 6000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/Canon-C-EXV52-Black-Toner-Cartridge.png", "imageFile": "Canon-C-EXV52-Black-Toner-Cartridge.png", "description": `The Canon C-EXV52 Black Toner Cartridge is a dedicated supply designed for seamless integration with select high-performance Canon imageRUNNER ADVANCE machines. Engineered for heavy-duty corporate environments, it delivers deep, consistent black text and sharp line work on every single page. This genuine toner minimizes machine downtime and ensures your business workflow remains uninterrupted during your most critical print runs.
+
+## Compatible printers
+Canon imageRUNNER ADVANCE enterprise models (please verify compatibility)
+If your model isn't listed, send us the number from the front of the machine and we'll confirm before you pay.
+
+## Specifications
+| Page yield | Cartridge type | Colour | Capacity | Part number | Genuine or compatible |
+|---|---|---|---|---|---|
+| High Yield | Laser Toner | Black | Standard | C-EXV52 | Genuine |
+
+## Genuine or compatible?
+Genuine, Original Canon toner in factory packaging. This ensures you avoid the messy leaks and poor image quality associated with cheap generic refills. For customers looking to aggressively optimize their printing budget, mention our Royal compatible alternative—it fits the very same machines at a lower price point, offering excellent value for daily office use without sacrificing yield.
+
+## Why buy from Trinatech
+Reliable stock held in Nairobi CBD.
+Delivery across Kenya including Kisumu, Nakuru, Eldoret and Mombasa.
+M-Pesa and bank transfer accepted securely.
+Easy WhatsApp ordering or walk-in at The One Mall River Road.
+
+## Getting the most from this cartridge
+Before inserting the new bottle into your Canon machine, hold it horizontally and rock it back and forth several times to loosen the toner powder.
+Setting your copier defaults to lower density for everyday tasks will significantly extend the life of these cartridges, saving you money on internal drafts.
+
+## Frequently asked questions
+Is there an XL or high-yield alternative?
+This cartridge is designed for high-volume enterprise production. Do I need other colours to print?
+If your machine is a colour copier, it requires all toners to be present to function. What is the delivery time?
+We offer same-day delivery in Nairobi CBD, and next-day delivery nationwide. What is your warranty or returns policy?
+We provide the manufacturer's warranty on all genuine sealed products. Will the machine stop when toner is low?
+It will warn you first, allowing you to print a few more pages before it halts entirely.`, "metaTitle": "Canon C-EXV52 Black Original Toner Cartridge", "metaDescription": "Genuine Canon C-EXV52 black toner for select Canon imageRUNNER ADVANCE enterprise printers. Buy genuine high-yield supplies at Trinatech Nairobi.", "inStock": true},
+  {"id": 4208, "sku": null, "name": "Canon C-Exv 18 Black Toner", "brand": "Canon", "category": "Inks & Toner Cartridges", "price": 2000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2025/01/Canon-C-EXV-18-Toner.png", "imageFile": "Canon-C-EXV-18-Toner.png", "description": `The Canon C-EXV18 Black Toner Cartridge is a highly dependable, standard-capacity supply for Canon's robust desktop monochrome multifunction printers. Formulated to deliver crisp, dark text for up to 8,400 pages, it ensures your small office or reception desk keeps working without constant interruptions. It is an excellent, low-maintenance choice for businesses that need to produce high-quality black-and-white documents cost-effectively.
+
+## Compatible printers
+Canon imageRUNNER 1018
+Canon imageRUNNER 1020
+Canon imageRUNNER 1024
+Canon imageRUNNER 1024A
+Canon imageRUNNER 1024F
+Canon imageRUNNER 1024i
+Canon imageRUNNER 1024iF
+If your model isn't listed, send us the number from the front of the machine and we'll confirm before you pay.
+
+## Specifications
+| Page yield | Cartridge type | Colour | Capacity | Part number | Genuine or compatible |
+|---|---|---|---|---|---|
+| ~8,400 pages | Laser Toner | Black | Standard | 0386B002AA | Genuine |
+
+## Genuine or compatible?
+This is a genuine, Original Canon toner cartridge. It provides the exact toner formulation designed for your specific machine. While it offers superior reliability and protects your printer's warranty, our Royal compatible equivalent is also available, giving you the same exact fit for your imageRUNNER at a lower cost for everyday draft printing.
+
+## Why buy from Trinatech
+Stock held locally in Nairobi CBD.
+Delivery across Kenya including Kisumu, Nakuru, Eldoret and Mombasa.
+M-Pesa and bank transfer accepted securely.
+WhatsApp ordering, walk-in at The One Mall River Road.
+
+## Getting the most from this cartridge
+Avoid exposing the toner to direct sunlight or high temperatures.
+When it is time to replace the cartridge, rock it horizontally several times to ensure the toner is evenly distributed inside the chamber.
+To maximize your 8,400-page yield, encourage staff to use the printer's text-draft or toner-save functions for everyday internal memos.
+
+## Frequently asked questions
+Is there an XL or high-yield alternative?
+This is the standard, maximum-yield toner for these specific desktop models. Do I need other colours to print? No, the imageRUNNER 1000 series are purely black-and-white machines. What is the delivery time? Same-day delivery for Nairobi CBD, and 24 hours for the rest of Kenya. What is your warranty or returns policy?
+Genuine sealed cartridges are backed by the manufacturer's warranty against defects. Does this toner include a new drum? No, Canon printers usually use a separate drum unit that is replaced less frequently.`, "metaTitle": "Canon C-EXV18 Black Original Toner Cartridge", "metaDescription": "Genuine Canon C-EXV18 black toner (0386B002AA), approx 8,400 pages, for imageRUNNER 1018, 1020, 1024 series. Fast delivery across Kenya via WhatsApp.", "inStock": true},
+  {"id": 5513, "sku": null, "name": "Canon C-Exv 33 Black Original Toner Cartridge", "brand": "Canon", "category": "Canon Toners", "price": 2500, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/Canon-C-Exv-33-Black-Original-Toner-Cartridge.webp", "imageFile": "Canon-C-Exv-33-Black-Original-Toner-Cartridge.webp", "description": `The Canon C-EXV33 Black Original Toner Cartridge is a high-volume supply designed for modern Canon imageRUNNER monochrome multifunction machines operating in structured business environments. It supports extended document production for contracts, compliance documentation, and bulk internal reports, delivering up to 14,600 pages. Engineered for consistent performance, this cartridge maintains uniform toner density and reliable page formation across demanding office workloads.
+
+## Compatible printers
+Canon imageRUNNER 2520
+Canon imageRUNNER 2520i
+Canon imageRUNNER 2525
+Canon imageRUNNER 2525i
+Canon imageRUNNER 2530
+Canon imageRUNNER 2530i
+If your model isn't listed, send us the number from the front of the machine and we'll confirm before you pay.
+
+## Specifications
+| Page yield | Cartridge type | Colour | Capacity | Part number | Genuine or compatible |
+|---|---|---|---|---|---|
+| ~14,600 pages | Laser Toner | Black | Standard | 2785B002AA | Genuine |
+
+## Genuine or compatible?
+This is a 100% genuine, Original Canon toner cartridge. Genuine toner is specifically engineered to protect the lifespan of your drum and fusing unit. However, if cost savings are your primary concern, our Royal compatible equivalent is available for these models, giving you the same perfect fit at a significantly lower cost for high-volume everyday printing.
+
+## Why buy from Trinatech
+Stock held in Nairobi CBD for fast processing.
+Delivery across Kenya including Kisumu, Nakuru, Eldoret and Mombasa.
+Secure payments via M-Pesa and bank transfer accepted.
+WhatsApp ordering, walk-in at The One Mall River Road.
+
+## Getting the most from this cartridge
+Store the cartridge flat in a cool, dry place until needed.
+Always agitate the toner before installation by rocking the bottle horizontally; this prevents the micro-fine powder from packing tightly during storage and transit.
+Ensure the machine's toner hopper area is clean of dust before sliding the new cartridge firmly into place.
+
+## Frequently asked questions
+Is there an XL or high-yield alternative? No, the 14,600-page yield is the standard maximum capacity for these models. Do I need other colours to print? No, these printers only require a single black toner cartridge. What is the delivery time?
+Delivery is completed within the same day in Nairobi, and by the next day countrywide. What is your warranty or returns policy?
+We honour standard Canon warranties for factory-sealed, genuine items. How do I know the toner is empty?
+The copier's screen will display a clear "Replace Toner" message.`, "metaTitle": "Canon C-EXV33 Black Original Toner Cartridge", "metaDescription": "Genuine Canon C-EXV33 black toner (2785B002AA), approx 14,600 pages, for imageRUNNER 2520, 2525, 2530 series. Stocked locally in Nairobi CBD.", "inStock": true},
+  {"id": 4205, "sku": null, "name": "Canon C-Exv 42 Black Toner", "brand": "Canon", "category": "Inks & Toner Cartridges", "price": 2500, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2025/01/Canon-C-EXV-42-Toner.png", "imageFile": "Canon-C-EXV-42-Toner.png", "description": `The Canon C-EXV42 Black Toner Cartridge is a high-performance supply built to keep up with Canon's fast A3 monochrome network copiers. Offering a solid 10,200-page capacity, this genuine toner is perfectly suited for mid-sized departments that print large volumes of text daily. It delivers consistent, deep black text that resists smudging, ensuring your critical documents are always highly legible and professional.
+
+## Compatible printers
+Canon imageRUNNER ADVANCE 4225i
+Canon imageRUNNER ADVANCE 4235i
+Canon imageRUNNER ADVANCE 4245i
+Canon imageRUNNER ADVANCE 4251i
+If your model isn't listed, send us the number from the front of the machine and we'll confirm before you pay.
+
+## Specifications
+| Page yield | Cartridge type | Colour | Capacity | Part number | Genuine or compatible |
+|---|---|---|---|---|---|
+| ~10,200 pages | Laser Toner | Black | Standard | 6908B002AA | Genuine |
+
+## Genuine or compatible?
+Genuine, Original Canon toner. Not a refill. Using genuine Canon toner is critical for these high-speed machines to maintain optimal image quality. If you are aiming to cut overhead costs on internal draft printing, mention our Royal compatible brand when you order—it fits the exact same printers at a significantly lower price point without sacrificing text clarity.
+
+## Why buy from Trinatech
+Secure stock held in Nairobi CBD.
+Delivery across Kenya including Kisumu, Nakuru, Eldoret and Mombasa.
+M-Pesa and bank transfer accepted.
+WhatsApp ordering, walk-in at The One Mall River Road.
+
+## Getting the most from this cartridge
+Keep the toner safely stored in its original box until your machine physically prompts for a replacement.
+Because actual page yield depends heavily on your printing habits, you can extend the life of the toner by setting your copier defaults to lower density mode for everyday internal paperwork that doesn't need to be presentation-quality.
+
+## Frequently asked questions
+Is there an XL or high-yield alternative?
+This is the standard capacity toner designed for this machine series. Do I need other colours to print? No, the imageRUNNER ADVANCE 4200 series are strictly black-and-white machines. What is the delivery time? Same-day within Nairobi CBD; overnight delivery for the rest of Kenya. What is your warranty or returns policy?
+Standard Canon warranties apply to all genuine, factory-sealed cartridges. Is the toner difficult to install?
+It is very simple; just open the front door and slide the old bottle out.`, "metaTitle": "Canon C-EXV42 Black Original Toner Cartridge", "metaDescription": "Genuine Canon C-EXV42 black toner (6908B002AA), approx 10,200 pages, for imageRUNNER ADVANCE 4225i, 4235i, 4245i. Delivered anywhere in Kenya.", "inStock": true},
+  {"id": 5512, "sku": null, "name": "Canon C-Exv 43 Black Toner Cartridge", "brand": "Canon", "category": "Canon Toners", "price": 5000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/Canon-C-Exv-43-Black-Toner-Cartridge.webp", "imageFile": "Canon-C-Exv-43-Black-Toner-Cartridge.webp", "description": `The Canon C-EXV43 Black Toner Cartridge guarantees exceptional image quality and unmatched reliability for your latest-generation Canon imageRUNNER ADVANCE multifunction machine. Engineered for heavy-duty A4 enterprise environments, this high-capacity toner ensures your workflow never skips a beat. It produces up to 15,200 pages of laser-sharp text, making it the ultimate choice for businesses that handle large-scale document processing and invoicing.
+
+## Compatible printers
+Canon imageRUNNER ADVANCE 400i
+Canon imageRUNNER ADVANCE 400iF
+Canon imageRUNNER ADVANCE 500i
+Canon imageRUNNER ADVANCE 500iF
+If your model isn't listed, send us the number from the front of the machine and we'll confirm before you pay.
+
+## Specifications
+| Page yield | Cartridge type | Colour | Capacity | Part number | Genuine or compatible |
+|---|---|---|---|---|---|
+| ~15,200 pages | Laser Toner | Black | Standard | 2788B002 | Genuine |
+
+## Genuine or compatible?
+This is a genuine, Original Canon toner cartridge. It provides the exact toner formulation designed to melt perfectly at your specific machine's fusing temperature. While it offers superior reliability and protects your copier's warranty, our Royal compatible equivalent is also available, giving you the same dependable yield for your machine at a lower cost for everyday paperwork.
+
+## Why buy from Trinatech
+Stock held locally in Nairobi CBD for rapid dispatch.
+Delivery across Kenya including Kisumu, Nakuru, Eldoret and Mombasa.
+M-Pesa and bank transfer accepted.
+WhatsApp ordering available, walk-in at The One Mall River Road.
+
+## Getting the most from this cartridge
+Always store the large toner bottle horizontally in a cool, dry place.
+Because this cartridge holds a massive amount of powder, shaking it firmly from side to side before installation is crucial to ensure it dispenses smoothly into the developer unit.
+Do not force the bottle into the copier; it should slide smoothly into the locking mechanism.
+
+## Frequently asked questions
+Is there an XL or high-yield alternative?
+This is the maximum capacity toner available for these specific copier models. Do I need other colours to print? No, the 400i and 500i are purely monochrome machines requiring only black toner. What is the delivery time?
+Expect same-day delivery in Nairobi CBD, and next-day for the rest of the country. What is your warranty or returns policy?
+We support standard manufacturer warranties on all sealed genuine supplies. Will the machine stop when toner is low?
+It will warn you first, allowing you to print a few more pages before it halts entirely.`, "metaTitle": "Canon C-EXV43 Black Original Toner Cartridge", "metaDescription": "Genuine Canon C-EXV43 black toner (2788B002), approx 15,200 pages, for imageRUNNER ADVANCE 400i, 500i series. Reliable delivery across Kenya.", "inStock": true},
   {"id": 5511, "sku": null, "name": "Canon C-Exv 51L Cym Toner Cartridges Each", "brand": "Canon", "category": "Canon Toners", "price": 5000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/Canon-C-Exv-51L-Cym-Toner-Cartridges-Each.webp", "imageFile": "Canon-C-Exv-51L-Cym-Toner-Cartridges-Each.webp", "description": "CANON C-EXV 51L CYM TONER CARTRIDGES EACH", "inStock": true},
   {"id": 5510, "sku": null, "name": "Canon C-Exv 54 Toners Each Bcmy", "brand": "Canon", "category": "Canon Toners", "price": 3000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/Canon-C-Exv-54-Toners-Each-Bcmy-1.webp", "imageFile": "Canon-C-Exv-54-Toners-Each-Bcmy-1.webp", "description": "CANON C-EXV 54 TONERS EACH BCMY", "inStock": true},
   {"id": 5543, "sku": null, "name": "Canon CL-41 Color Ink Original Cartridge Each", "brand": "Canon", "category": "Canon Ink Cartridges", "price": 1700, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/Canon-CL-41-Color-Ink-Original-Cartridge-Each.webp", "imageFile": "Canon-CL-41-Color-Ink-Original-Cartridge-Each.webp", "description": "CANON CL-41 COLOR INK ORIGINAL CARTRIDGE EACH", "inStock": true},

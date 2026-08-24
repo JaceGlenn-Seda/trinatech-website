@@ -2726,10 +2726,207 @@ Why did my ink run out so fast? Printing large, full-colour graphics or borderle
     Is it bright enough for a room with windows? At 3,000 lumens it holds up well in a lit room. Direct sunlight on the screen will still wash it out — close the curtains for anything important.
     Can I connect external speakers? Yes, over Bluetooth or through the audio output.
     Do you deliver outside Nairobi? Yes — Kisumu, Nakuru, Eldoret, Mombasa and countrywide.`, "metaTitle": "Epson CO-FH02 Projector Price in Kenya - Trinatech", "metaDescription": "Epson CO-FH02 Full HD 1080p projector, 3000 lumens, 3LCD, with Android TV built in. Screens up to 300 inches. Nairobi stock, countrywide delivery.", "inStock": true},
-  {"id": 3423, "sku": null, "name": "Epson EB-FH06 Projector", "brand": "Epson", "category": "Projectors", "price": 130000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2024/12/epson-eb-Projector.png", "imageFile": "epson-eb-Projector.png", "description": "The Epson EB-FH06 projector is engineered to provide exceptional performance for both professional and home use.", "inStock": true},
-  {"id": 3414, "sku": null, "name": "Epson EB-X49 Projector", "brand": "Epson", "category": "Projectors", "price": 90000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2024/12/epson-eb-Projector.png", "imageFile": "epson-eb-Projector.png", "description": "The Epson EB-X49 projector is an ideal solution for both home and business environments, offering exceptional value without sacrificing quality.", "inStock": true},
-  {"id": 3433, "sku": null, "name": "Epson EH-TW6150 Projector", "brand": "Epson", "category": "Projectors", "price": 200000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2024/12/epson-eh-projector.png", "imageFile": "epson-eh-projector.png", "description": "The Epson EH-TW6150 projector offers an impressive cinematic experience with its 4K enhancement technology.", "inStock": true},
-  {"id": 3425, "sku": null, "name": "Epson EH-TW6250 Projector", "brand": "Epson", "category": "Projectors", "price": 120000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2024/12/epson-eh-projector.png", "imageFile": "epson-eh-projector.png", "description": "The Epson EH-TW6250 projector delivers an extraordinary viewing experience with its 4K enhancement technology.", "inStock": true},
+  {"id": 3423, "sku": null, "name": "Epson EB-FH06 Projector", "brand": "Epson", "category": "Projectors", "price": 130000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2024/12/epson-eb-Projector.png", "imageFile": "epson-eb-Projector.png", "description": `The Epson EB-FH06 is a Full HD 1080p projector rated at 3,500 lumens, built for rooms where you cannot control the light — a classroom at midday, a church hall, a boardroom with windows. That brightness figure is the reason to choose it over a cheaper model: most projection disappointments come from buying something too dim for the room, not from resolution.
+
+## What it works with
+
+Two HDMI inputs let you leave a permanent source connected — a media box or a computer — and still plug a visiting laptop into the second one without crawling behind the unit. A VGA input covers older laptops and desktops still in service. Wireless is available as an optional module for Epson's iProjection app; it is not fitted as standard, so do not assume wireless projection out of the box.
+
+Connections:
+
+- 2 x HDMI in
+- 1 x VGA in
+- 1 x USB 2.0 Type-A
+- 1 x USB 2.0 Type-B
+- Optional wireless LAN module
+
+Throw ratio runs 1.22 to 1.47:1 with a 1.2x manual zoom, so a 60-inch image needs the projector roughly 1.6 to 2 metres back. Measure your room before you order a screen.
+
+## Specifications
+
+| Field | Value |
+|---|---|
+| Technology | 3LCD, 3-chip |
+| Native resolution | Full HD 1920 x 1080, 16:9 |
+| Brightness | 3,500 lumens white and colour (2,300 in eco mode) |
+| Contrast ratio | 16,000:1 |
+| Maximum image size | Up to 332 inches (843 cm) |
+| Light source | UHE lamp |
+| Lamp life | 6,000 hours normal, 12,000 hours eco |
+| Keystone | Auto vertical ±30°, manual horizontal ±30° |
+| Zoom | 1.2x manual |
+| Noise level | 37 dB normal, 28 dB eco |
+| Dimensions | Approx. 302 x 252 x 92 mm |
+| Weight | Approx. 2.7 kg |
+
+## Who this is for
+Schools, churches, training rooms and offices that need a bright, straightforward Full HD projector and do not need streaming apps built in. It has no smart platform — you connect a source. If you want Netflix and YouTube on the projector itself with no laptop attached, look at the CO-FH02 instead and we will show you both.
+
+## Why buy from Trinatech
+Stock held in Nairobi CBD — see it projecting before you buy.
+Delivery across Kenya including Kisumu, Nakuru, Eldoret and Mombasa.
+M-Pesa and bank transfer accepted.
+Order over WhatsApp, or walk in at The One Mall, River Road.
+
+## Getting the most from this projector
+
+Run it in eco mode where the room allows it. At 3,500 lumens you rarely need full brightness indoors, and eco doubles rated lamp life from 6,000 hours to 12,000 while dropping fan noise from 37dB to 28dB — quieter matters more than most buyers expect in a small room. Let it cool fully before unplugging or moving it; cutting power to a hot lamp is the fastest way to shorten its life. Keep the air filter clean, which in a dusty Nairobi office means checking it every few months rather than annually.
+
+## Frequently asked questions
+Does it have Wi-Fi built in? No. Wireless is an optional add-on module. Ask us about it if you need wireless projection.
+Can I connect two sources at once? Yes, it has two HDMI inputs plus VGA.
+How far back does it need to sit? Roughly 1.6 to 2 metres for a 60-inch image. Send us your room measurements and we will work it out.
+How long does the lamp last? Up to 6,000 hours normally, or 12,000 hours in eco mode.
+Do you deliver outside Nairobi? Yes — Kisumu, Nakuru, Eldoret, Mombasa and countrywide.`, "metaTitle": "Epson EB-FH06 Full HD Projector Price in Kenya", "metaDescription": "Epson EB-FH06 Full HD 1080p projector, 3500 lumens, 3LCD, 16000:1 contrast. Screens up to 332 inches. Nairobi stock, countrywide delivery.", "inStock": true},
+  {"id": 3414, "sku": null, "name": "Epson EB-X49 Projector", "brand": "Epson", "category": "Projectors", "price": 90000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2024/12/epson-eb-Projector.png", "imageFile": "epson-eb-Projector.png", "description": `The Epson EB-X49 is a 3,600-lumen XGA projector built for classrooms and meeting rooms. It is the brightest projector in this price bracket and the most practical for teaching: a built-in 5W speaker, a wired network port, and a lamp rated up to 12,000 hours in eco mode mean it can be mounted once and largely left alone.
+
+## What it works with
+
+The connection list is unusually generous, and deliberately so — schools and offices run a mix of old and new equipment:
+
+- 1 x HDMI in
+- 2 x VGA in, 1 x VGA out
+- 1 x Composite video in
+- 1 x USB 2.0 Type-A, 1 x USB 2.0 Type-B
+- 1 x RJ-45 wired network
+- RS-232C control
+- Stereo mini jack audio in and out
+
+The wired network port allows the projector to be controlled and monitored from a computer on the same network — useful when you have several rooms to manage. Optional wireless can be added later. Epson's Moderator function lets up to 50 devices connect and take turns presenting.
+
+Note the native resolution is XGA 1024 x 768 in 4:3. Widescreen laptop content will show with black bars top and bottom. For text-heavy teaching and standard presentations this is fine and the brightness more than compensates; for film or widescreen video, choose a 16:9 model such as the EB-FH06.
+
+## Specifications
+
+| Field | Value |
+|---|---|
+| Technology | 3LCD, 3-chip |
+| Native resolution | XGA 1024 x 768, 4:3 |
+| Brightness | 3,600 lumens white and colour (2,400 in eco mode) |
+| Contrast ratio | 16,000:1 |
+| Maximum image size | Up to 300 inches (762 cm) |
+| Lamp | 210W UHE |
+| Lamp life | 6,000 hours normal, 12,000 hours eco |
+| Speaker | Built-in 5W |
+| Throw ratio | 1.48 to 1.77:1 |
+| Dimensions | Approx. 302 x 249 x 87 mm |
+| Weight | Approx. 2.7 kg |
+
+## Who this is for
+Schools, colleges, training centres and churches. If your main use is projecting slides, documents and teaching material to a room of people, this is the sensible buy — brighter than the alternatives at the price, with a speaker so you are not also solving an audio problem on day one.
+
+## Why buy from Trinatech
+Stock held in Nairobi CBD — see it running before you commit.
+Delivery across Kenya including Kisumu, Nakuru, Eldoret and Mombasa.
+M-Pesa and bank transfer accepted.
+Order over WhatsApp, or walk in at The One Mall, River Road.
+
+## Getting the most from this projector
+
+Set your laptop's display resolution to 1024 x 768 when presenting; leaving it at the laptop's native widescreen resolution makes the projector rescale everything, and text goes soft. Use eco mode for daily teaching — it doubles lamp life and cuts fan noise, which matters in a quiet classroom. In dusty conditions, clean the air filter every few months; a blocked filter is the single most common cause of a projector shutting itself down mid-lesson. If you ceiling-mount it, use a proper bracket and have it fitted properly.
+
+## Frequently asked questions
+Is it widescreen? No, it is 4:3 XGA. Widescreen content will show with bars above and below.
+Does it have a speaker? Yes, a built-in 5W speaker — enough for a classroom.
+Can I connect it to a network? Yes, over the RJ-45 port. Wireless is available as an option.
+How long does the lamp last? Up to 6,000 hours normally, 12,000 hours in eco mode.
+Do you deliver outside Nairobi? Yes — Kisumu, Nakuru, Eldoret, Mombasa and countrywide.`, "metaTitle": "Epson EB-X49 XGA Projector Price in Kenya", "metaDescription": "Epson EB-X49 XGA projector, 3600 lumens, 3LCD, built-in speaker and wired network port. Nairobi stock, delivered across Kenya.", "inStock": true},
+  {"id": 3433, "sku": null, "name": "Epson EH-TW6150 Projector", "brand": "Epson", "category": "Projectors", "price": 200000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2024/12/epson-eh-projector.png", "imageFile": "epson-eh-projector.png", "description": `The Epson EH-TW6150 is a 4K PRO-UHD home cinema projector with 2,800 lumens, a 35,000:1 contrast ratio and input lag under 20 milliseconds. It is aimed squarely at people who want a proper cinema picture at home and who also game — that lag figure is what separates a projector you can play on from one that feels disconnected from the controller.
+
+## What it works with
+
+Two HDMI 1.4 inputs, so a console and a media box can both stay connected. A 10W built-in speaker is fitted, though for a projector at this level most buyers will run audio to a soundbar or receiver instead.
+
+The feature that justifies the TW6150 over its sibling is 60% vertical lens shift. This lets you move the image up or down without tilting the projector, which means you can place it on a shelf or coffee table well off-centre and still get a square, undistorted picture. Keystone correction fakes the same result by distorting the image digitally and costs you sharpness; lens shift does it optically and costs you nothing. If your room does not allow a perfectly centred position — and most do not — this matters more than any other feature on the spec sheet.
+
+A 1.62x zoom gives further placement freedom.
+
+## Specifications
+
+| Field | Value |
+|---|---|
+| Technology | 3LCD with 4K PRO-UHD pixel shifting |
+| Output resolution | 3840 x 2160 (pixel-shifted from Full HD panels) |
+| Brightness | 2,800 lumens |
+| Contrast ratio | 35,000:1 |
+| HDR | HDR10 and HLG |
+| Input lag | Under 20 ms |
+| Lens shift | 60% vertical |
+| Zoom | 1.62x |
+| Inputs | 2 x HDMI 1.4 |
+| Speaker | Built-in 10W |
+| Lamp life | 4,500 hours normal, 7,500 hours eco |
+| Weight | Approx. 4.1 kg |
+
+## Who this is for
+Home cinema buyers and gamers who want 4K-class images and flexible placement, and who already have or plan to add proper speakers. One thing to understand before you buy: this is not a native 4K projector. It uses Full HD panels and shifts them diagonally to produce a 3840 x 2160 image. The result is genuinely sharper and smoother than Full HD, and it is not the same as a true 4K panel — anyone telling you otherwise is overselling it.
+
+If you want streaming apps built into the projector, the EH-TW6250 is the same picture with Android TV added. If you want lens shift, this is the one.
+
+## Why buy from Trinatech
+Stock held in Nairobi CBD — see it running before you buy.
+Delivery across Kenya including Kisumu, Nakuru, Eldoret and Mombasa.
+M-Pesa and bank transfer accepted.
+Order over WhatsApp, or walk in at The One Mall, River Road.
+
+## Getting the most from this projector
+
+Use lens shift rather than keystone correction to square the image — keystone throws away resolution, lens shift does not. Control the light in the room; at 2,800 lumens this projector rewards curtains far more than a brighter one would. Use game mode for consoles to get the sub-20ms lag figure, and switch out of it for films, where the extra picture processing is worth the latency. Let it cool before unplugging.
+
+## Frequently asked questions
+Is it true 4K? No. It uses pixel shifting from Full HD panels to produce a 4K-resolution image. Sharper than Full HD, not the same as native 4K.
+What is the difference from the EH-TW6250? This model has vertical lens shift and two HDMI ports. The TW6250 drops both but adds Android TV.
+Is it good for gaming? Yes — under 20ms input lag in game mode.
+Do I need separate speakers? It has a 10W speaker built in, but at this level most buyers use external audio.
+Do you deliver outside Nairobi? Yes — Kisumu, Nakuru, Eldoret, Mombasa and countrywide.`, "metaTitle": "Epson EH-TW6150 4K Projector Price in Kenya", "metaDescription": "Epson EH-TW6150 4K PRO-UHD home cinema projector, 2800 lumens, under 20ms lag, vertical lens shift. Nairobi stock, countrywide delivery.", "inStock": true},
+  {"id": 3425, "sku": null, "name": "Epson EH-TW6250 Projector", "brand": "Epson", "category": "Projectors", "price": 120000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2024/12/epson-eh-projector.png", "imageFile": "epson-eh-projector.png", "description": `The Epson EH-TW6250 is a 4K PRO-UHD home cinema projector with Android TV built in — 2,800 lumens, 35,000:1 contrast, and streaming apps running on the projector itself with no laptop or media box attached. It is the same picture engine as the EH-TW6150 with the smart platform added, which for most households is the version that actually gets used.
+
+## What it works with
+
+Android TV gives you Netflix, YouTube, Prime Video, Disney+ and around 4,000 other apps directly, with voice search on the remote. Built-in Chromecast lets you cast from an Android or iOS phone, a Windows PC or a Mac. One HDMI 1.4 input covers a console or a set-top box.
+
+A 10W speaker is built in. As with any projector at this level, external audio is worth adding when budget allows.
+
+Note what this model does not have: vertical lens shift, and a second HDMI port. Both are on the TW6150. Without lens shift you will need to position the projector more carefully — roughly level with the top or bottom of the screen — or fall back on keystone correction, which squares the picture digitally at some cost to sharpness. Tell us your room layout and we will tell you honestly which of the two suits it.
+
+## Specifications
+
+| Field | Value |
+|---|---|
+| Technology | 3LCD with 4K PRO-UHD pixel shifting |
+| Output resolution | 3840 x 2160 (pixel-shifted from Full HD panels) |
+| Brightness | 2,800 lumens |
+| Contrast ratio | 35,000:1 |
+| HDR | HDR10 and HLG |
+| Smart platform | Android TV with voice remote and Chromecast |
+| Input lag | Under 20 ms |
+| Zoom | 1.62x |
+| Inputs | 1 x HDMI 1.4 |
+| Speaker | Built-in 10W |
+| Lamp life | 4,500 hours normal, 7,500 hours eco |
+| Weight | Approx. 4.1 kg |
+
+## Who this is for
+Households and small venues wanting a big-screen picture that anyone can switch on and use. The Android TV inclusion is the practical difference — a projector that needs a laptop connected tends to be used on occasions, while one with streaming built in gets used on ordinary evenings.
+
+As with the TW6150, this is pixel-shifted 4K rather than native 4K. Sharper than Full HD, genuinely, but not a true 4K panel.
+
+## Why buy from Trinatech
+Stock held in Nairobi CBD — see it running before you commit.
+Delivery across Kenya including Kisumu, Nakuru, Eldoret and Mombasa.
+M-Pesa and bank transfer accepted.
+Order over WhatsApp, or walk in at The One Mall, River Road.
+
+## Getting the most from this projector
+
+Position it as close to level with the screen as your room allows, so you need as little keystone correction as possible — every degree of digital correction costs a little sharpness. Give it a proper screen or a plain matte wall; a textured or coloured wall undoes a lot of what you paid for. Use game mode for consoles and switch out of it for films. Keep the vents clear and let it cool before moving it.
+
+## Frequently asked questions
+Do I need a laptop or a streaming stick? No. Android TV is built in with its own remote.
+Can I cast from my phone? Yes, over the built-in Chromecast, from Android or iOS.
+How many HDMI ports does it have? One. If you need two, the EH-TW6150 has a pair.
+Does it have lens shift? No — that is on the TW6150. Placement needs more care on this model.
+Do you deliver outside Nairobi? Yes — Kisumu, Nakuru, Eldoret, Mombasa and countrywide.`, "metaTitle": "Epson EH-TW6250 4K Projector Price in Kenya", "metaDescription": "Epson EH-TW6250 4K PRO-UHD projector with Android TV built in. 2800 lumens, under 20ms lag. Nairobi stock, delivered across Kenya.", "inStock": true},
   {"id": 3580, "sku": null, "name": "Epson ERC-31 Ribbon Cartridge", "brand": "Epson", "category": "Inks & Toner Cartridges", "price": 600, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2024/12/Epson-ERC-31-Ribbon.png", "imageFile": "Epson-ERC-31-Ribbon.png", "description": `The Epson ERC-31 Black Ribbon Cartridge is a highly durable fabric ribbon designed for point-of-sale (POS) systems, receipt printers, and slip printers. Engineered to withstand the rigorous demands of retail and hospitality environments, it delivers crisp, highly legible receipts and invoices that will not fade quickly. This continuous loop ribbon guarantees smooth operation, preventing jams and protecting the delicate pins on your dot matrix printer head.
 
 ## Compatible printers
@@ -3397,7 +3594,50 @@ Can it print carbon copies? Yes, handles 1 original + 4 copies.
 How fast is Nairobi delivery? Delivered within 1 to 3 hours in Nairobi.
 How do I pay? Pay via M-Pesa, bank transfer, or cash.
 Is warranty included? Standard shop defect warranty covers unopened units.`, "metaTitle": "Epson LX-350 Black Ribbon Cartridge Price - Trinatech", "metaDescription": "Buy genuine Epson LX-350 ribbon cartridge in Nairobi. Yields ~4M characters for LX-350 9-pin dot matrix printer. Fast shipping in Kenya.", "inStock": true},
-  {"id": 3434, "sku": null, "name": "Epson Perfection V39 Scanner", "brand": "Epson", "category": "Scanner", "price": 23000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2024/12/epson-v39-scanner.png", "imageFile": "epson-v39-scanner.png", "description": "The Epson Perfection V39 Scanner is a compact and efficient solution for anyone needing high-quality scans at home or in the office.", "inStock": true},
+  {"id": 3434, "sku": null, "name": "Epson Perfection V39 Scanner", "brand": "Epson", "category": "Scanner", "price": 23000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2024/12/epson-v39-scanner.png", "imageFile": "epson-v39-scanner.png", "description": `The Epson Perfection V39 is a compact A4 flatbed scanner with 4,800 dpi optical resolution that draws all its power from the USB cable — no adapter, no second plug. The high resolution makes it a photo scanner as much as a document scanner: at 4,800 dpi you can scan an old print and enlarge it without the result falling apart.
+
+## What it works with
+
+It connects over USB to Windows and Mac computers using Epson's bundled software, which handles scan-to-PDF, scan-to-email, colour restoration for faded photographs, dust removal, and OCR for turning scanned pages into editable text. Four buttons on the front cover the common jobs without opening any software first.
+
+Two design details do real work. The lid is removable and high-rise, so you can lay a book or photo album flat on the glass and scan a page without damaging the spine. And there is a built-in kickstand, so the scanner stands upright when not in use — genuinely useful on a crowded desk.
+
+It scans up to A4 or Letter. There is no automatic document feeder; pages go on the glass one at a time. If you need to scan large stacks routinely, ask us about a feeder-equipped document scanner instead.
+
+## Specifications
+
+| Field | Value |
+|---|---|
+| Scanner type | Flatbed, Contact Image Sensor (CIS) |
+| Optical resolution | 4,800 x 4,800 dpi |
+| Colour bit depth | 48-bit input / 24-bit output |
+| Grayscale bit depth | 16-bit input / 8-bit output |
+| Maximum scan area | A4 / Letter, 216 x 297 mm |
+| Scan speed | Approx. 10 seconds A4 colour at 300 dpi; approx. 30 seconds at 600 dpi |
+| Light source | Three-colour RGB LEDs, no warm-up time |
+| Interface | USB, powered by USB |
+| Buttons | 4 (PDF, Send, Copy, Start) |
+| Features | Removable high-rise lid, built-in kickstand |
+
+## Who this is for
+Offices, studios, schools and home users who want document scanning and photo scanning from one machine. If your work is purely documents, a lower-resolution scanner will serve you just as well and you need not pay for the extra dpi; if you have boxes of family photographs or artwork to digitise, this is where the resolution earns its money.
+
+## Why buy from Trinatech
+Stock held in Nairobi CBD — walk in and collect.
+Delivery across Kenya including Kisumu, Nakuru, Eldoret and Mombasa.
+M-Pesa and bank transfer accepted.
+Order over WhatsApp, or visit The One Mall, River Road.
+
+## Getting the most from this scanner
+
+Scan documents at 300 dpi and photographs you intend to enlarge at 1,200 dpi or above. Scanning ordinary paperwork at 4,800 dpi produces enormous files, takes thirty times as long, and shows you nothing extra. Clean the glass with a dry microfibre cloth before an important job — dust is the usual cause of what looks like a scanner fault. Because it runs on USB power alone, plug it straight into the computer rather than through a hub, or scans may fail partway. Use the PDF button for multi-page documents so pages land in one file.
+
+## Frequently asked questions
+Does it need a power adapter? No — it runs on USB power alone.
+Can it scan books? Yes. The lid lifts off and sits high, so a book lies flat on the glass.
+Can it restore faded photos? Yes, with the bundled colour restoration software.
+Does it work on a Mac? Yes. Download the current driver from Epson's support site for your macOS version.
+Do you deliver outside Nairobi? Yes — Kisumu, Nakuru, Eldoret, Mombasa and countrywide.`, "metaTitle": "Epson Perfection V39 Scanner Price in Kenya", "metaDescription": "Epson Perfection V39 flatbed scanner, 4800 dpi, A4, USB powered with no mains adapter. Nairobi stock, delivered across Kenya.", "inStock": true},
   {"id": 5311, "sku": "FX9000", "name": "Epson Ribbon DFX9000 Black Cartridge", "brand": "Epson", "category": "Epson Ribbons & Inks", "price": 1500, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/Epson-Ribbon-DFX9000-Black-Cartridge.webp", "imageFile": "Epson-Ribbon-DFX9000-Black-Cartridge.webp", "description": `The Epson Ribbon DFX9000 Black Cartridge (C13S015384) is an ultra-heavy-duty industrial ribbon cassette built for high-speed DFX-9000 line printers. Formulated for continuous, high-volume logistics printing across Kenya.
 
 ## Compatible printers

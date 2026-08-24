@@ -1422,8 +1422,98 @@ Do I need anything else? These take a single black cartridge, so no. Ask us abou
 How fast is delivery? Same day within Nairobi, next working day to most towns.
 Can I return it? Yes, sealed and unused.
 Which cartridge suits a machine printing all day? Ask us to compare 14A and 14X against your monthly volume. On heavy use the larger cartridge usually wins clearly.`, "metaTitle": "HP 14A Black Toner CF214A - Genuine HP Kenya", "metaDescription": "Genuine HP 14A black toner (CF214A), 10,000 pages, for HP LaserJet Enterprise 700 M712 and MFP M725. Nairobi stock, countrywide delivery.", "inStock": true},
-  {"id": 3496, "sku": null, "name": "HP 15 Celeron 4GB/500GB/15.6in Laptop", "brand": "HP", "category": "Laptops", "price": 42000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2024/12/HP-15-Celeron-Laptop.png", "imageFile": "HP-15-Celeron-Laptop.png", "description": "The HP 15 Celeron is a practical and affordable laptop that offers reliable performance for everyday computing needs.", "inStock": true},
-  {"id": 3501, "sku": null, "name": "HP 15 Core I7 8GB/1TB/15.6in DOS Laptop", "brand": "HP", "category": "Laptops", "price": 98000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2024/12/HP-15-Celeron-Laptop.png", "imageFile": "HP-15-Celeron-Laptop.png", "description": "The HP 15 Core i7 is a robust and high-performance laptop designed for users who require speed, efficiency, and ample storage.", "inStock": true},
+  {"id": 3496, "sku": null, "name": "HP 15 Celeron 4GB/500GB/15.6in Laptop", "brand": "HP", "category": "Laptops", "price": 42000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2024/12/HP-15-Celeron-Laptop.png", "imageFile": "HP-15-Celeron-Laptop.png", "description": `The HP 15 Celeron with 4GB RAM and a 500GB hard drive is an entry-level 15.6-inch laptop for the everyday jobs most people actually do on a computer — email, browsing, Word and Excel, online classes and streaming. It is one of the most common first laptops in Kenya, and at this price the honest question is not what it can do but what it cannot.
+
+## What it works with
+
+Windows with Microsoft 365, Google Workspace, Zoom, Teams and browser-based systems. HDMI output connects it to a monitor, TV or projector. USB ports cover printers, flash drives and external hard drives.
+
+What it will not do comfortably: heavy multitasking, photo or video editing, design software, or twenty browser tabs alongside a video call. A Celeron processor with 4GB of RAM is built for one or two things at a time. If your work is more than that, we would rather point you at a Core i3 or i5 machine than sell you this and have you disappointed in three months.
+
+Send us your model number and we will confirm the exact processor, screen and port set on the unit in stock — the HP 15 line spans several generations and the specifics differ.
+
+## Specifications
+
+| Field | Value |
+|---|---|
+| Processor | Intel Celeron |
+| Memory | 4GB DDR4 |
+| Storage | 500GB hard drive |
+| Display | 15.6-inch |
+| Graphics | Intel integrated |
+| Wireless | Wi-Fi and Bluetooth |
+| Video output | HDMI |
+
+Exact processor model, screen resolution and Windows version vary by build — ask us to confirm on current stock before you buy.
+
+## Who this is for
+Students, first-time buyers and households needing one reliable machine for documents and browsing. It is also a sensible second machine for a business — something to leave at a counter or lend out.
+
+Worth knowing: this build uses a mechanical hard drive rather than an SSD. That is where the cost saving comes from, and it is also the main reason a machine like this feels slow. Adding an SSD later is usually the single most effective upgrade available on it, and cheaper than most people expect.
+
+## Why buy from Trinatech
+Stock held in Nairobi CBD — see the machine before you buy.
+Delivery across Kenya including Kisumu, Nakuru, Eldoret and Mombasa.
+M-Pesa and bank transfer accepted.
+Order over WhatsApp, or walk in at The One Mall, River Road.
+
+## Getting the most from this laptop
+
+Restart it once a week rather than living in sleep mode; Windows on a hard drive slows noticeably over long stretches. Keep at least 15% of the drive free. Close what you are not using — with 4GB of RAM, browser tabs are where the memory goes, and closing them is free speed. Shut down properly before moving the machine, because a spinning hard drive does not like being carried. Keep the underside vents clear and do not use it on a bed or sofa.
+
+## Frequently asked questions
+Can I add an SSD? Usually yes, and it makes the biggest difference of any upgrade on this machine. Bring it in and we will check.
+Can I add more RAM? Often yes. We will confirm on the specific unit.
+Which Windows does it come with? Ask us to confirm on current stock.
+Is it good for online classes? Yes, if you close other applications during the call.
+Do you deliver outside Nairobi? Yes — Kisumu, Nakuru, Eldoret, Mombasa and countrywide.`, "metaTitle": "HP 15 Celeron 4GB 500GB Laptop Price in Kenya", "metaDescription": "HP 15 laptop with Intel Celeron, 4GB RAM and a 500GB hard drive on a 15.6-inch screen. Nairobi stock, delivered across Kenya.", "inStock": true},
+  {"id": 3501, "sku": null, "name": "HP 15 Core I7 8GB/1TB/15.6in DOS Laptop", "brand": "HP", "category": "Laptops", "price": 98000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2024/12/HP-15-Celeron-Laptop.png", "imageFile": "HP-15-Celeron-Laptop.png", "description": `The HP 15 Core i7 with 8GB RAM and a 1TB drive is a 15.6-inch laptop with real processing headroom, aimed at people whose work involves several demanding applications at once. It ships with FreeDOS rather than Windows, which is where a good part of the price advantage comes from.
+
+## What it works with
+
+Read this before you buy. FreeDOS is not Windows. Out of the box this machine will start up to a command prompt — no desktop, no Start menu, no Office, no browser. You need to install an operating system before it is usable in the normal sense. That is a perfectly sensible way to buy a laptop if you know it going in: a Windows licence bought separately, or a free Linux distribution installed instead. It is a bad surprise if nobody told you.
+
+We will tell you the total cost with a Windows licence included before you decide, and we can install it for you. Ask.
+
+Once an operating system is on it, the Core i7 and 8GB of RAM handle Microsoft 365, accounting packages, large spreadsheets, video calls and light photo and video editing comfortably.
+
+Send us the model number for the exact port set and screen specification — the HP 15 line covers several processor generations.
+
+## Specifications
+
+| Field | Value |
+|---|---|
+| Processor | Intel Core i7 |
+| Memory | 8GB DDR4 |
+| Storage | 1TB |
+| Display | 15.6-inch |
+| Operating system | FreeDOS — no Windows included |
+| Wireless | Wi-Fi and Bluetooth |
+| Video output | HDMI |
+
+Processor generation and screen resolution vary by build — ask us to confirm on current stock.
+
+## Who this is for
+Professionals, developers and students on technical courses who want the strongest processor available at the price and are comfortable installing their own operating system. It is also a good buy for organisations with volume Windows licensing already in place, since you are not paying twice.
+
+One technical point most sellers will not mention: Intel's Iris Xe graphics, fitted to recent Core i7 chips, need two memory sticks to work at full capability. With a single stick they fall back to performing like basic UHD graphics. If this unit ships with 8GB as one stick, adding a second matching stick is the cheapest meaningful performance upgrade available. We will check the configuration for you.
+
+## Why buy from Trinatech
+Stock held in Nairobi CBD — see it before you commit.
+Delivery across Kenya including Kisumu, Nakuru, Eldoret and Mombasa.
+M-Pesa and bank transfer accepted.
+Order over WhatsApp, or walk in at The One Mall, River Road.
+
+## Getting the most from this laptop
+
+Install your operating system before you put any files on the machine. If you are going with Windows, buy the licence at the same time as the laptop so you are not left with an unusable computer over a weekend. Once running, keep the vents clear — an i7 runs warm and will throttle itself on a soft surface. Check whether the memory is one stick or two, for the reason above.
+
+## Frequently asked questions
+Does it come with Windows? No. It ships with FreeDOS. We can quote you a licence and install it.
+Can I install Linux instead? Yes, and free of charge. Ubuntu is the common choice.
+Which generation of Core i7 is it? Ask us to confirm on the current unit — we will read the label rather than guess.
+Can I add more RAM? Usually yes, and on Iris Xe machines it makes a real difference.
+Do you deliver outside Nairobi? Yes — Kisumu, Nakuru, Eldoret, Mombasa and countrywide.`, "metaTitle": "HP 15 Core i7 8GB 1TB Laptop Price in Kenya", "metaDescription": "HP 15 laptop with Intel Core i7, 8GB RAM and a 1TB drive. Ships with FreeDOS, no Windows. Nairobi stock, countrywide delivery.", "inStock": true},
   {"id": 4822, "sku": null, "name": "HP 150A Black Original Laserjet Toner Cartridge", "brand": "HP", "category": "Inks & Toner Cartridges", "price": 7500, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2025/07/HP-150A-Black-Original-Toner.png", "imageFile": "HP-150A-Black-Original-Toner.png", "description": `The HP 150A black toner cartridge is the genuine Original HP replacement, part number W1500A, for HP's current compact LaserJet range. These are the small mono lasers sold to home offices and small businesses in the last few years, and this is the cartridge they take.
 
 ## Compatible printers
@@ -1578,7 +1668,57 @@ Are alternative brands available? Yes, compatible 19A units are also available.
 How fast is Nairobi delivery? Delivered within 1 to 3 hours in Nairobi CBD.
 How can I pay? M-Pesa, bank wire, or cash.
 Is warranty provided? Standard official warranty applies.`, "metaTitle": "HP 19A Original LaserJet Imaging Drum - Trinatech Kenya", "metaDescription": "Buy genuine HP 19A CF219A imaging drum unit in Nairobi. Yields ~12,000 pages for LaserJet Pro M102 & MFP M130 series. Fast Kenya delivery.", "inStock": true},
-  {"id": 3507, "sku": null, "name": "HP 200 G4 All-In-One Pc Core I3 10Th Gen 4GB 1TB 18.5in", "brand": "HP", "category": "Computers & Computer Accessories", "price": 80000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2024/12/HP-All-in-One-PC-200-G4.png", "imageFile": "HP-All-in-One-PC-200-G4.png", "description": "The HP 200 G4 All-in-One PC is a compact and efficient solution for users who need reliable performance without the clutter of traditional desktop setups.", "inStock": true},
+  {"id": 3507, "sku": null, "name": "HP 200 G4 All-In-One Pc Core I3 10Th Gen 4GB 1TB 18.5in", "brand": "HP", "category": "Computers & Computer Accessories", "price": 80000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2024/12/HP-All-in-One-PC-200-G4.png", "imageFile": "HP-All-in-One-PC-200-G4.png", "description": `The HP 200 G4 All-in-One is a complete desktop computer built into the back of its own Full HD screen — one unit, one power cable, keyboard and mouse in the box. For a small office or a reception desk it removes the tower, the cable run and most of the clutter, and it arrives ready to place and switch on.
+
+## What it works with
+
+A full port set on the back and underside, so it works as a proper desktop rather than a compromise:
+
+- 2 x USB 3.2 Gen 1
+- 2 x USB 2.0
+- 1 x HDMI out 1.4 — drives a second monitor
+- 1 x Ethernet RJ-45
+- 1 x headphone/microphone combo
+- 3-in-1 SD card reader
+
+The HDMI output is worth noting: an all-in-one is not a dead end, and you can add a second screen when the work needs it. A 5MP pull-up webcam is fitted — it physically retracts into the chassis when not in use, which is a more convincing privacy measure than a software setting, and a real consideration for a machine that sits on a reception desk.
+
+This unit ships with FreeDOS, not Windows. It will boot to a command prompt out of the box. Ask us for the total cost with a Windows licence included, and we can install it before delivery.
+
+## Specifications
+
+| Field | Value |
+|---|---|
+| Processor | Intel Core i3-10110U, 10th gen, 2 cores / 4 threads, 2.1 GHz up to 4.1 GHz, 4MB cache |
+| Memory | 4GB DDR4-2666 (2 SODIMM slots, upgradeable) |
+| Storage | 1TB hard drive |
+| Display | Full HD 1920 x 1080, anti-glare, non-touch |
+| Graphics | Intel UHD Graphics (integrated) |
+| Webcam | 5MP pull-up privacy camera |
+| Security | TPM embedded security chip |
+| Operating system | FreeDOS — no Windows included |
+| Power | 65W external adapter |
+| Included | Keyboard and mouse |
+
+## Who this is for
+Reception desks, small offices, cyber cafés, school labs and home users who want a tidy single-unit computer. The 4GB of RAM is the constraint — enough for documents, email and browsing, not for heavy multitasking. There are two memory slots, so adding a second stick later is straightforward and cheap. Ask us to quote it at the same time.
+
+## Why buy from Trinatech
+Stock held in Nairobi CBD — see it switched on before you buy.
+Delivery across Kenya including Kisumu, Nakuru, Eldoret and Mombasa.
+M-Pesa and bank transfer accepted.
+Order over WhatsApp, or walk in at The One Mall, River Road.
+
+## Getting the most from this all-in-one
+
+Sort the operating system before anything else — buy the Windows licence with the machine so it arrives usable. Use the Ethernet port rather than Wi-Fi where you can; it is faster and steadier for a machine that does not move. If the 1TB drive is mechanical, shut down properly rather than pulling the plug, and leave 15% free. Plug it into a UPS: an all-in-one has no separate tower to protect, so a power cut takes the whole machine down at once.
+
+## Frequently asked questions
+Does it come with Windows? No — FreeDOS. We can quote and install a licence for you.
+Does it come with a keyboard and mouse? Yes, both are included.
+Can I add a second screen? Yes, through the HDMI output.
+Can I upgrade the memory? Yes, there are two memory slots and 4GB fills only one.
+Do you deliver outside Nairobi? Yes — Kisumu, Nakuru, Eldoret, Mombasa and countrywide.`, "metaTitle": "HP 200 G4 All-in-One Core i3 Price in Kenya", "metaDescription": "HP 200 G4 all-in-one PC, 10th-gen Core i3, 4GB RAM, 1TB drive, Full HD screen. Keyboard and mouse included. Nairobi stock, countrywide.", "inStock": true},
   {"id": 4808, "sku": null, "name": "HP 201A Black Original Laserjet Toner Cartridge", "brand": "HP", "category": "Inks & Toner Cartridges", "price": 7500, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2025/07/HP-201A-Black-Original-Toner.png", "imageFile": "HP-201A-Black-Original-Toner.png", "description": `The HP 201A black toner cartridge is the genuine Original HP replacement, part number CF400A, for the HP Color LaserJet Pro M252 and MFP M277 series. These are compact colour lasers built for offices that print presentable colour daily without needing a departmental machine.
 
 ## Compatible printers
@@ -2075,8 +2215,93 @@ Do I need the black cartridge too? Yes for normal documents, and many of these m
 When will it arrive? Same day within Nairobi, next working day for most other towns.
 What if I ordered the wrong one? Sealed and unused cartridges can be exchanged or refunded.
 Can just the empty colour be topped up? No. The three colours share one body and the cartridge is replaced whole.`, "metaTitle": "HP 22 Tri-Colour Ink Cartridge C9352AE - Genuine HP", "metaDescription": "Genuine HP 22 tri-colour ink (C9352AE), about 165 pages, for DeskJet F380, F4180, PSC 1410 and OfficeJet 4315. Nairobi stock, delivered Kenya-wide.", "inStock": true},
-  {"id": 3495, "sku": null, "name": "HP 250 G7 Celeron 4GB/500GB/15.6in Laptop", "brand": "HP", "category": "Laptops", "price": 42000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2024/12/HP-250-G7-Laptop.png", "imageFile": "HP-250-G7-Laptop.png", "description": "The HP 250 G7 Celeron is a practical, budget-friendly laptop designed for users seeking reliable performance for everyday tasks.", "inStock": true},
-  {"id": 3493, "sku": null, "name": "HP 250 G7 Core I3 4GB/1TB/15.6in DOS Laptop", "brand": "HP", "category": "Laptops", "price": 55000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2024/12/HP-250-G7-Laptop.png", "imageFile": "HP-250-G7-Laptop.png", "description": "The HP 250 G7 Core i3 is an affordable, reliable laptop designed to meet the needs of everyday computing.", "inStock": true},
+  {"id": 3495, "sku": null, "name": "HP 250 G7 Celeron 4GB/500GB/15.6in Laptop", "brand": "HP", "category": "Laptops", "price": 42000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2024/12/HP-250-G7-Laptop.png", "imageFile": "HP-250-G7-Laptop.png", "description": `The HP 250 G7 Celeron with 4GB RAM and a 500GB hard drive is an entry-level 15.6-inch laptop from HP's business range rather than its consumer one. The specification looks similar to a consumer machine at the same price; the difference is in the chassis and the ports, and whether that difference is worth anything depends entirely on where the machine will be used.
+
+## What it works with
+
+Windows with Microsoft 365, Google Workspace and the accounting and payroll packages in common use. The port that distinguishes it from consumer laptops at this price is Gigabit Ethernet — a wired network socket, which most 15-inch consumer machines have dropped. In an office with cabled networking, or anywhere the Wi-Fi is unreliable, that removes a recurring problem and saves buying adapters that get lost.
+
+HDMI output drives a monitor or projector. USB ports cover printers, flash drives and external storage. Some builds include a DVD writer, which is increasingly rare and still occasionally necessary — ask us whether the unit in stock has one.
+
+As with any Celeron machine, be realistic about the ceiling: this is built for one or two applications at a time, not for heavy multitasking.
+
+## Specifications
+
+| Field | Value |
+|---|---|
+| Processor | Intel Celeron |
+| Memory | 4GB DDR4 |
+| Storage | 500GB hard drive |
+| Display | 15.6-inch |
+| Graphics | Intel UHD Graphics (integrated) |
+| Networking | Gigabit LAN, plus Wi-Fi and Bluetooth |
+| Video output | HDMI |
+| Optical drive | DVD writer on some builds |
+
+Exact Celeron model, screen resolution and Windows version vary by build — ask us to confirm on current stock.
+
+## Who this is for
+Small businesses buying several machines for staff, schools, and anyone who wants a durable business chassis rather than a consumer one at the same budget. If the machine will live at a desk in an office with cabled networking, the Ethernet port alone is a reason to choose this over a consumer 15-inch. If it is going home with a student, the difference matters much less and either will serve.
+
+## Why buy from Trinatech
+Stock held in Nairobi CBD — see the machine before you buy.
+Delivery across Kenya including Kisumu, Nakuru, Eldoret and Mombasa.
+M-Pesa and bank transfer accepted.
+Order over WhatsApp, or walk in at The One Mall, River Road.
+
+## Getting the most from this laptop
+
+Use the Ethernet port when you are at a desk — faster, steadier, and it costs you nothing. Restart weekly rather than relying on sleep; Windows on a mechanical hard drive gets sluggish otherwise. Keep 15% of the drive free and shut down properly before moving the machine. With 4GB of RAM, closing unused browser tabs is the most effective thing you can do for speed. If it feels slow after a year, an SSD is the upgrade that will change how the machine feels — bring it in and we will tell you what fits.
+
+## Frequently asked questions
+Does it have a wired network port? Yes, Gigabit Ethernet — one of the main reasons to pick this over a consumer laptop.
+Does it have a DVD drive? Some builds do. Ask us to check the unit in stock.
+Can I add an SSD or more RAM? Usually both. We will confirm on the specific machine.
+Which Windows does it come with? Ask us to confirm on current stock.
+Do you deliver outside Nairobi? Yes — Kisumu, Nakuru, Eldoret, Mombasa and countrywide.`, "metaTitle": "HP 250 G7 Celeron 4GB 500GB Laptop Price Kenya", "metaDescription": "HP 250 G7 business laptop, Intel Celeron, 4GB RAM, 500GB drive, 15.6-inch with Gigabit LAN. Nairobi stock, delivered across Kenya.", "inStock": true},
+  {"id": 3493, "sku": null, "name": "HP 250 G7 Core I3 4GB/1TB/15.6in DOS Laptop", "brand": "HP", "category": "Laptops", "price": 55000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2024/12/HP-250-G7-Laptop.png", "imageFile": "HP-250-G7-Laptop.png", "description": `The HP 250 G7 Core i3 with 4GB RAM and a 1TB drive is a 15.6-inch business laptop with a full terabyte of storage and a Core i3 processor — a meaningful step up from the Celeron model in the same chassis. It ships with FreeDOS rather than Windows, which is where part of the price advantage comes from.
+
+## What it works with
+
+Before anything else: FreeDOS is not Windows. This machine boots to a command prompt out of the box — no desktop, no Office, no browser. You install an operating system yourself, either a Windows licence bought separately or a free Linux distribution. That is a sensible way to buy if you know it in advance, and an unpleasant surprise if you do not. Ask us for the total including a licence and we can install it before you collect.
+
+Once running, the Core i3 and 1TB drive suit office work, accounting packages, large document libraries and anyone who would rather keep files locally than pay monthly for cloud storage. Gigabit Ethernet is fitted, which most consumer 15-inch laptops no longer have, along with HDMI output and Wi-Fi.
+
+Worth confirming before you buy: the 250 G7 shipped with Core i3 processors from three different generations over its life, and they are not equivalent. Send us the model number and we will tell you exactly which one this is.
+
+## Specifications
+
+| Field | Value |
+|---|---|
+| Processor | Intel Core i3 — generation varies, ask us to confirm |
+| Memory | 4GB DDR4 |
+| Storage | 1TB hard drive |
+| Display | 15.6-inch |
+| Graphics | Intel integrated |
+| Networking | Gigabit LAN, plus Wi-Fi and Bluetooth |
+| Operating system | FreeDOS — no Windows included |
+| Video output | HDMI |
+| Optical drive | DVD writer on some builds |
+
+## Who this is for
+Small businesses, schools and organisations with existing Windows licensing, who would rather not pay for an operating system twice. It also suits anyone comfortable installing Linux. If you need a machine that works the moment you open it and you have no licence to hand, buy a Windows model or budget for the licence here — we will give you the honest total either way.
+
+## Why buy from Trinatech
+Stock held in Nairobi CBD — see it before you commit.
+Delivery across Kenya including Kisumu, Nakuru, Eldoret and Mombasa.
+M-Pesa and bank transfer accepted.
+Order over WhatsApp, or walk in at The One Mall, River Road.
+
+## Getting the most from this laptop
+
+Install the operating system before you put files on the machine, not after. Use the Ethernet port at a desk. Keep 15% of the 1TB drive free and shut down properly rather than closing the lid and carrying it, since a mechanical drive needs its heads parked. With 4GB of RAM there is usually a free memory slot — adding a second stick is the cheapest upgrade that will make the machine feel different, and worth asking about at the time of purchase rather than later.
+
+## Frequently asked questions
+Does it come with Windows? No. It ships with FreeDOS. We can quote a licence and install it for you.
+Can I install Linux instead? Yes, free of charge. Ubuntu is the usual choice.
+Which Core i3 is it? The 250 G7 used three different generations. We will read the label on the actual unit rather than guess.
+Does it have a wired network port? Yes, Gigabit Ethernet.
+Do you deliver outside Nairobi? Yes — Kisumu, Nakuru, Eldoret, Mombasa and countrywide.`, "metaTitle": "HP 250 G7 Core i3 4GB 1TB Laptop Price in Kenya", "metaDescription": "HP 250 G7 business laptop, Intel Core i3, 4GB RAM, 1TB drive, 15.6-inch. Ships with FreeDOS, no Windows. Nairobi stock, countrywide.", "inStock": true},
   {"id": 3498, "sku": null, "name": "HP 250 G8 10Th Gen Core I7 1TB HDD 8GB RAM 15.6in Laptop", "brand": "HP", "category": "Laptops", "price": 95000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2024/12/HP-250-G8-laptop.png", "imageFile": "HP-250-G8-laptop.png", "description": "The HP 250 G8 is a powerful and efficient laptop designed to meet the needs of professionals, students, and casual users alike.", "inStock": true},
   {"id": 3491, "sku": null, "name": "HP 255 G8 Amd Ryzen 3 Core I5 4GB/1TB/DOS Laptop", "brand": "HP", "category": "Laptops", "price": 55000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2024/12/HP-255-G8-AMD-Ryzen-3-Laptop.png", "imageFile": "HP-255-G8-AMD-Ryzen-3-Laptop.png", "description": "The HP 255 G8 AMD Ryzen 3 Core i5 4GB/1TB/DOS Laptop is an affordable, reliable, and versatile laptop designed for students, small businesses, and home users.", "inStock": true},
   {"id": 4145, "sku": null, "name": "HP 26A Black Original Laserjet Toner Cartridge", "brand": "HP", "category": "Inks & Toner Cartridges", "price": 8500, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2025/01/HP-26A-Black-Original-LaserJet-Toner.png", "imageFile": "HP-26A-Black-Original-LaserJet-Toner.png", "description": `The HP 26A black toner cartridge is the genuine Original HP replacement, part number CF226A, for the HP LaserJet Pro M402 and MFP M426 series. These are proper workgroup mono lasers, fast and built for volume, and at 3,100 pages the cartridge matches the machine rather than holding it back.

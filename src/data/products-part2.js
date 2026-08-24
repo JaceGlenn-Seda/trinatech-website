@@ -2,8 +2,72 @@
 // Combined by src/data/products.js — do not edit by hand.
 
 export const PRODUCTS_2 = [
-  {"id": 5309, "sku": "LQ-2170", "name": "Epson Ribbon LQ-2170/2180/2190 Black", "brand": "Epson", "category": "Epson Ribbons & Inks", "price": 1200, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/Epson-Ribbon-LQ-2170-2180-2190-Black.webp", "imageFile": "Epson-Ribbon-LQ-2170-2180-2190-Black.webp", "description": "EPSON RIBBON LQ-2170/2180/2190 BLACK", "inStock": true},
-  {"id": 5308, "sku": "LX-350", "name": "Epson Ribbons LX-350 Black Cartridge", "brand": "Epson", "category": "Epson Ribbons & Inks", "price": 600, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/Epson-Ribbons-LX-350-Black-Cartridge.webp", "imageFile": "Epson-Ribbons-LX-350-Black-Cartridge.webp", "description": "EPSON RIBBONS LX-350 BLACK CARTRIDGE", "inStock": true},
+  {"id": 5309, "sku": "LQ-2170", "name": "Epson Ribbon LQ-2170/2180/2190 Black", "brand": "Epson", "category": "Epson Ribbons & Inks", "price": 1200, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/Epson-Ribbon-LQ-2170-2180-2190-Black.webp", "imageFile": "Epson-Ribbon-LQ-2170-2180-2190-Black.webp", "description": `The Epson Ribbon LQ-2170/2180/2190 Black (C13S015086) is a wide-carriage fabric ribbon cartridge for 24-pin heavy-duty Epson dot matrix printers. Designed to produce sharp continuous invoices and wide spreadsheets in Kenya.
+
+## Compatible printers
+Epson LQ-2070
+Epson LQ-2080
+Epson LQ-2170
+Epson LQ-2180
+Epson LQ-2190
+Epson LQ-2190N
+If your model isn't listed, send us the number from the front of the machine and we'll confirm before you pay.
+
+## Specifications
+| Page yield | Cartridge type | Colour | Capacity | Part number | Genuine or compatible |
+|---|---|---|---|---|---|
+| ~15 Million characters | Ribbon Cartridge | Black | High Capacity | C13S015086 / S015086 | Genuine / Compatible |
+
+## Genuine or compatible?
+Covers original Genuine Epson supply units; Royal compatible brand equivalent ribbons fit the same wide-carriage printers at reduced costs.
+
+## Why buy from Trinatech
+Stock held in Nairobi CBD.
+Delivery across Kenya including Kisumu, Nakuru, Eldoret, and Mombasa.
+M-Pesa and bank transfer accepted.
+WhatsApp ordering and walk-in options at The One Mall, River Road.
+
+## Getting the most from this cartridge
+Turn manual advance knob to remove ribbon slack before clipping onto wide carriage bar. Store flat away from direct heat.
+
+## Frequently asked questions
+Will this fit LQ-2190 printer? Yes, fully compatible with LQ-2170, LQ-2180, and LQ-2190 models.
+Does it print multi-part forms? Yes, handles up to 1 original + 5 carbon copies.
+How fast is delivery in Nairobi? Delivered within 1 to 3 hours in Nairobi.
+How can I pay? Pay via M-Pesa, bank wire, or cash.
+Is warranty included? Standard shop defect warranty covers unopened units.`, "metaTitle": "Epson LQ-2170 / LQ-2190 Ribbon Cartridge - Trinatech", "metaDescription": "Shop Epson LQ-2170, LQ-2180, LQ-2190 black ribbon cartridge in Nairobi. Yields ~15M characters for wide carriage printers. Fast shipping.", "inStock": true},
+  {"id": 5308, "sku": "LX-350", "name": "Epson Ribbons LX-350 Black Cartridge", "brand": "Epson", "category": "Epson Ribbons & Inks", "price": 600, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/Epson-Ribbons-LX-350-Black-Cartridge.webp", "imageFile": "Epson-Ribbons-LX-350-Black-Cartridge.webp", "description": `The Epson Ribbons LX-350 Black Cartridge provides an affordable fabric ribbon replacement for 9-pin Epson desktop dot matrix printers. Built to deliver clear text characters and durable operation for accounting tasks in Nairobi.
+
+## Compatible printers
+Epson LX-300
+Epson LX-300+
+Epson LX-300+II
+Epson LX-350
+If your model isn't listed, send us the number from the front of the machine and we'll confirm before you pay.
+
+## Specifications
+| Page yield | Cartridge type | Colour | Capacity | Part number | Genuine or compatible |
+|---|---|---|---|---|---|
+| ~4 Million characters | Ribbon Cartridge | Black | Standard | S015637 / S015631 Compatible | Compatible |
+
+## Genuine or compatible?
+This entry covers Compatible ribbon cartridges (including our Royal compatible house brand). Fits the same printers as original Epson LX-350 ribbons at a lower cost per page. Original ribbons are also stocked upon request.
+
+## Why buy from Trinatech
+Stock held in Nairobi CBD.
+Delivery across Kenya including Kisumu, Nakuru, Eldoret, and Mombasa.
+M-Pesa and bank transfer accepted.
+WhatsApp ordering and walk-in options at The One Mall, River Road.
+
+## Getting the most from this cartridge
+Ensure printer ribbon shield is positioned correctly over printhead. Tension ribbon before snap-fitting cassette into machine frame.
+
+## Frequently asked questions
+Is an XL version available? Standard 4M character capacity provides long service life.
+Does it damage the printhead? High-grade lubricated nylon fabric runs smoothly without causing printhead pin wear.
+How fast is Nairobi delivery? Same-day inside 1 to 3 hours.
+How do I pay? Pay via M-Pesa Buy Goods/Till or bank transfer.
+Is warranty provided? Covered against technical defects.`, "metaTitle": "Compatible Epson LX-350 Black Ribbon - Trinatech Kenya", "metaDescription": "Order compatible Epson LX-350 black ribbon cartridge in Nairobi. Yields ~4M characters for LX-300+II and LX-350. Fast Kenya delivery.", "inStock": true},
   {"id": 5318, "sku": "T6735", "name": "Epson T6735 Light Cyan Ink Bottle 70ML", "brand": "Epson", "category": "Epson Ribbons & Inks", "price": 300, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/Epson-T6735-Light-Cyan-Ink-Bottle-70ML.webp", "imageFile": "Epson-T6735-Light-Cyan-Ink-Bottle-70ML.webp", "description": "EPSON T6735 LIGHT CYAN INK BOTTLE 70ML", "inStock": true},
   {"id": 5283, "sku": null, "name": "Royal Premium Epson 103 Ink CMYK", "brand": "Epson", "category": "Master Rolls & Inks", "price": 400, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/Royal-Premium-Epson-103-Ink-CMYK.webp", "imageFile": "Royal-Premium-Epson-103-Ink-CMYK.webp", "description": `The Royal Premium Epson 103 Compatible Ink is Trinatech's trusted house brand, delivering incredible value for users of Epson EcoTank printers. Sold individually or as a CMYK set, these compatible bottles feature an anti-drip nozzle designed to fit perfectly into your printer's specialized tanks. They deliver bright, vibrant colours and sharp text that rivals the original, allowing you to slash your home or office printing costs without sacrificing the quality of your school projects, photos, and daily documents.
 

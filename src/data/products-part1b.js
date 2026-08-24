@@ -2568,14 +2568,264 @@ Do I need other colours to print? No, this is a dedicated black ribbon for monoc
 What is the delivery time? We offer same-day delivery in Nairobi CBD, and next-day dispatch countrywide.
 What is your warranty or returns policy? We honour the standard Epson warranty for factory-sealed, genuine items.
 Why is the print quality suddenly light? You may have reached the 5-million character limit, and the ink is depleted.`, "metaTitle": "Epson LQ-590 Black Ribbon Cartridge", "metaDescription": "Genuine Epson LQ-590 black fabric ribbon (S015337) for Epson LQ-590 and LQ-590II dot matrix printers. Order via WhatsApp for delivery in Kenya.", "inStock": true},
-  {"id": 5314, "sku": "LQ-590-2", "name": "Epson LQ-590/690 Generic Ribbon Black Cartridge", "brand": "Epson", "category": "Epson Ribbons & Inks", "price": 1000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/Epson-LQ-590-690-Generic-Ribbon-Black-Cartridge.webp", "imageFile": "Epson-LQ-590-690-Generic-Ribbon-Black-Cartridge.webp", "description": "EPSON LQ-590/690 GENERIC RIBBON BLACK CARTRIDGE", "inStock": true},
-  {"id": 5313, "sku": "LQ-590", "name": "Epson LQ-590/690 Genuine Ribbon Black Cartridge", "brand": "Epson", "category": "Epson Ribbons & Inks", "price": 1000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/Epson-LQ-590-690-Genuine-Ribbon-Black-Cartridge.webp", "imageFile": "Epson-LQ-590-690-Genuine-Ribbon-Black-Cartridge.webp", "description": "EPSON LQ-590/690 GENUINE RIBBON BLACK CARTRIDGE", "inStock": true},
-  {"id": 3574, "sku": null, "name": "Epson LQ-680 Ribbon Cartridge", "brand": "Epson", "category": "Inks & Toner Cartridges", "price": 500, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2024/12/Epson-LQ-680-Ribbon.png", "imageFile": "Epson-LQ-680-Ribbon.png", "description": "The Epson LQ-680 Ribbon Cartridge offers reliability and consistent performance for both personal and business use.", "inStock": true},
-  {"id": 3569, "sku": null, "name": "Epson LQ-690 Ribbon Cartridge", "brand": "Epson", "category": "Inks & Toner Cartridges", "price": 1200, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2024/12/Epson-Ribbon-LQ-690.png", "imageFile": "Epson-Ribbon-LQ-690.png", "description": "Compatible with: Epson LQ-690 Epson LQ-690+ Epson LQ-680 Pro Epson LQ-590 / 590II / 590II NT", "inStock": true},
-  {"id": 5312, "sku": "LX-300", "name": "Epson LX-300/350 Ribbon Cartridge", "brand": "Epson", "category": "Epson Ribbons & Inks", "price": 600, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/Epson-LX-300-350-Ribbon-Cartridge-1.webp", "imageFile": "Epson-LX-300-350-Ribbon-Cartridge-1.webp", "description": "EPSON LX-300/350 RIBBON CARTRIDGE", "inStock": true},
+  {"id": 5314, "sku": "LQ-590-2", "name": "Epson LQ-590/690 Generic Ribbon Black Cartridge", "brand": "Epson", "category": "Epson Ribbons & Inks", "price": 1000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/Epson-LQ-590-690-Generic-Ribbon-Black-Cartridge.webp", "imageFile": "Epson-LQ-590-690-Generic-Ribbon-Black-Cartridge.webp", "description": `The Epson LQ-590/690 Generic Ribbon Black Cartridge delivers cost-effective continuous dot matrix printing for busy office environments. Engineered with high-density fabric ink for clear invoice, receipt, and multi-part form printing across Kenya.
+
+## Compatible printers
+Epson LQ-590
+Epson LQ-590II
+Epson LQ-590IIN
+Epson LQ-690
+Epson LQ-690II
+If your model isn't listed, send us the number from the front of the machine and we'll confirm before you pay.
+
+## Specifications
+| Page yield | Cartridge type | Colour | Capacity | Part number | Genuine or compatible |
+|---|---|---|---|---|---|
+| ~5 Million characters | Ribbon Cartridge | Black | Standard | S015589 / S015337 Compatible | Compatible |
+
+## Genuine or compatible?
+This is a Compatible ribbon cartridge (including our Royal compatible house brand). It fits the same dot matrix printers as original Epson ribbons at a lower cost per page. Original ribbons are also stocked upon request.
+
+## Why buy from Trinatech
+Stock held in Nairobi CBD.
+Delivery across Kenya including Kisumu, Nakuru, Eldoret, and Mombasa.
+M-Pesa and bank transfer accepted.
+WhatsApp ordering and walk-in options at The One Mall, River Road.
+
+## Getting the most from this cartridge
+Ensure the ribbon fabric sits properly inside the printhead guide before tensioning the manual knob. Keep the shield guard closed during long printing runs.
+
+## Frequently asked questions
+Will this work on both LQ-590 and LQ-690? Yes, cross-compatible ribbon structure fits both printer groups.
+Does it print multi-part carbon forms? Yes, dot matrix impact printing penetrates multi-part forms easily.
+How fast is Nairobi delivery? Delivered within 1 to 3 hours in Nairobi CBD.
+How can I pay? Pay via M-Pesa Buy Goods/Till, bank wire, or cash.
+Is warranty provided? Covered against factory defects.`, "metaTitle": "Compatible Epson LQ-590 / LQ-690 Ribbon - Trinatech Kenya", "metaDescription": "Buy compatible Epson LQ-590 & LQ-690 black ribbon cartridge in Nairobi. Yields ~5M characters. Fast shipping for continuous stationery printing.", "inStock": true},
+  {"id": 5313, "sku": "LQ-590", "name": "Epson LQ-590/690 Genuine Ribbon Black Cartridge", "brand": "Epson", "category": "Epson Ribbons & Inks", "price": 1000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/Epson-LQ-590-690-Genuine-Ribbon-Black-Cartridge.webp", "imageFile": "Epson-LQ-590-690-Genuine-Ribbon-Black-Cartridge.webp", "description": `The Epson LQ-590/690 Genuine Ribbon Black Cartridge is an original fabric ribbon cassette designed for heavy-duty Epson 24-pin impact printers. Formulated with lubricating ink to minimize printhead friction and ensure clear text for logistics and finance tasks across Kenya.
+
+## Compatible printers
+Epson LQ-590
+Epson LQ-590II
+Epson LQ-590IIN
+Epson LQ-690
+Epson LQ-690II
+If your model isn't listed, send us the number from the front of the machine and we'll confirm before you pay.
+
+## Specifications
+| Page yield | Cartridge type | Colour | Capacity | Part number | Genuine or compatible |
+|---|---|---|---|---|---|
+| ~5 Million characters | Ribbon Cartridge | Black | Standard | C13S015589 / C13S015337 | Genuine |
+
+## Genuine or compatible?
+Genuine Original Epson ribbon cartridge. Royal compatible alternatives are also available to reduce running costs on continuous stationery printing.
+
+## Why buy from Trinatech
+Stock held in Nairobi CBD.
+Delivery across Kenya including Kisumu, Nakuru, Eldoret, and Mombasa.
+M-Pesa and bank transfer accepted.
+WhatsApp ordering and walk-in options at The One Mall, River Road.
+
+## Getting the most from this cartridge
+Store in cool ambient conditions. Turn the tension wheel clockwise to remove slack from the fabric ribbon before clipping into place.
+
+## Frequently asked questions
+Is a lower cost alternative available? Yes, generic/compatible LQ-590/690 ribbons are stocked.
+Does it support multi-part printing? Yes, ideal for printing up to 1+6 carbonless delivery notes.
+What is Nairobi delivery time? Delivered within 1 to 3 hours across Nairobi.
+How do I pay? Pay via M-Pesa or bank transfer.
+Is warranty included? Standard manufacturer warranty applies to sealed units.`, "metaTitle": "Epson LQ-590 / LQ-690 Original Ribbon Price - Trinatech", "metaDescription": "Order genuine Epson LQ-590 & LQ-690 black ribbon cartridge in Nairobi. Yields ~5M characters for dot matrix printers. Fast Kenya delivery.", "inStock": true},
+  {"id": 3574, "sku": null, "name": "Epson LQ-680 Ribbon Cartridge", "brand": "Epson", "category": "Inks & Toner Cartridges", "price": 500, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2024/12/Epson-LQ-680-Ribbon.png", "imageFile": "Epson-LQ-680-Ribbon.png", "description": `The Epson LQ-680 Ribbon Cartridge (C13S015262) is a specialized fabric ribbon cassette for flatbed Epson dot matrix printers. Engineered for durable impact printing on thick forms, multipart receipts, and passbooks across Kenya.
+
+## Compatible printers
+Epson LQ-670
+Epson LQ-680
+Epson LQ-680Pro
+Epson LQ-860
+Epson LQ-1060
+If your model isn't listed, send us the number from the front of the machine and we'll confirm before you pay.
+
+## Specifications
+| Page yield | Cartridge type | Colour | Capacity | Part number | Genuine or compatible |
+|---|---|---|---|---|---|
+| ~2 Million characters | Ribbon Cartridge | Black | Standard | C13S015262 / S015262 | Genuine |
+
+## Genuine or compatible?
+Genuine Original Epson product entry. Royal compatible brand alternative ribbons fit the same flatbed printer mechanisms at a lower price point.
+
+## Why buy from Trinatech
+Stock held in Nairobi CBD.
+Delivery across Kenya including Kisumu, Nakuru, Eldoret, and Mombasa.
+M-Pesa and bank transfer accepted.
+WhatsApp ordering and walk-in options at The One Mall, River Road.
+
+## Getting the most from this cartridge
+Ensure printer power is off when loading ribbon cassette. Align the drive gear properly with the printer carriage mechanism to prevent jam errors.
+
+## Frequently asked questions
+Is an XL version available? Standard 2M character yield is standard for this cassette model.
+Does it support continuous tractor paper? Yes, handles continuous feed tractor paper and cut sheets.
+How fast is Nairobi delivery? Same-day inside 1 to 3 hours.
+How can I pay? Pay via M-Pesa, bank wire, or cash.
+Is warranty provided? Covered against technical defects.`, "metaTitle": "Epson LQ-680 Black Ribbon Cartridge Price - Trinatech", "metaDescription": "Shop genuine Epson LQ-680 black ribbon cartridge in Nairobi. Yields ~2M characters for LQ-670, LQ-680, LQ-680Pro. Fast shipping in Kenya.", "inStock": true},
+  {"id": 3569, "sku": null, "name": "Epson LQ-690 Ribbon Cartridge", "brand": "Epson", "category": "Inks & Toner Cartridges", "price": 1200, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2024/12/Epson-Ribbon-LQ-690.png", "imageFile": "Epson-Ribbon-LQ-690.png", "description": `The Epson LQ-690 Ribbon Cartridge (C13S015610) is a heavy-duty fabric ribbon cassette designed for fast 24-pin Epson dot matrix printers. Offers high-density black ink and long character longevity for bulk form processing in Nairobi.
+
+## Compatible printers
+Epson LQ-690
+Epson LQ-690II
+Epson LQ-690IIN
+If your model isn't listed, send us the number from the front of the machine and we'll confirm before you pay.
+
+## Specifications
+| Page yield | Cartridge type | Colour | Capacity | Part number | Genuine or compatible |
+|---|---|---|---|---|---|
+| ~10 Million characters | Ribbon Cartridge | Black | High Capacity | C13S015610 / S015610 | Genuine |
+
+## Genuine or compatible?
+Genuine Original Epson product entry. Royal compatible brand alternative ribbons fit the same printer carriage at lower price points.
+
+## Why buy from Trinatech
+Stock held in Nairobi CBD.
+Delivery across Kenya including Kisumu, Nakuru, Eldoret, and Mombasa.
+M-Pesa and bank transfer accepted.
+WhatsApp ordering and walk-in options at The One Mall, River Road.
+
+## Getting the most from this cartridge
+Turn the manual advance knob prior to insertion to prevent ribbon slack. Avoid storing near heat or high humidity.
+
+## Frequently asked questions
+Is a lower-yield ribbon available? The LQ-590/690 standard ribbon (~5M chars) can also be used.
+Can it print multipart invoices? Yes, prints up to 1 original + 6 carbon copies smoothly.
+How fast is delivery in Nairobi? Delivered within 1-3 hours across Nairobi CBD.
+How do I pay? Pay via M-Pesa Buy Goods/Till or bank wire.
+Is warranty included? Standard shop defect warranty covers unopened cassettes.`, "metaTitle": "Epson LQ-690 Black Ribbon Cartridge Price - Trinatech", "metaDescription": "Buy original Epson LQ-690 ribbon cartridge in Nairobi. High yield ~10M characters for high-speed dot matrix printers. Fast Kenya shipping.", "inStock": true},
+  {"id": 5312, "sku": "LX-300", "name": "Epson LX-300/350 Ribbon Cartridge", "brand": "Epson", "category": "Epson Ribbons & Inks", "price": 600, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/Epson-LX-300-350-Ribbon-Cartridge-1.webp", "imageFile": "Epson-LX-300-350-Ribbon-Cartridge-1.webp", "description": `The Epson LX-300/350 Ribbon Cartridge (C13S015637) supplies reliable black fabric ribbon ink for 9-pin compact Epson dot matrix printers. Formulated to produce clear, legible receipts, bills, and shipping manifests across Kenya.
+
+## Compatible printers
+Epson LX-300
+Epson LX-300+
+Epson LX-300+II
+Epson LX-350
+If your model isn't listed, send us the number from the front of the machine and we'll confirm before you pay.
+
+## Specifications
+| Page yield | Cartridge type | Colour | Capacity | Part number | Genuine or compatible |
+|---|---|---|---|---|---|
+| ~4 Million characters | Ribbon Cartridge | Black | Standard | C13S015637 / S015637 | Genuine / Compatible |
+
+## Genuine or compatible?
+Covers original Genuine Epson supply units; Royal compatible brand alternatives fit the same compact printers at lower costs.
+
+## Why buy from Trinatech
+Stock held in Nairobi CBD.
+Delivery across Kenya including Kisumu, Nakuru, Eldoret, and Mombasa.
+M-Pesa and bank transfer accepted.
+WhatsApp ordering and walk-in options at The One Mall, River Road.
+
+## Getting the most from this cartridge
+Snap the cassette tabs firmly onto the printer frame. Keep ribbon feed path clear of paper dust build-up.
+
+## Frequently asked questions
+Will this fit both LX-300 and LX-350? Yes, fully backward and forward compatible across these 9-pin models.
+What paper types are supported? Continuous tractor paper, pre-printed vouchers, and cut sheets.
+How long does shipping take? 1 to 3 hours in Nairobi CBD; 24 hours upcountry.
+How can I pay? M-Pesa, bank wire, or cash at counter.
+Is warranty provided? Covered against factory defects.`, "metaTitle": "Epson LX-300 / LX-350 Ribbon Cartridge - Trinatech Kenya", "metaDescription": "Order Epson LX-300 & LX-350 ribbon cartridge in Nairobi. Yields ~4M characters for LX-300, LX-300+, LX-350. Fast delivery across Kenya.", "inStock": true},
   {"id": 4517, "sku": null, "name": "Epson LX-350 Impact Dot Matrix Printer", "brand": "Epson", "category": "Printers & Copiers", "price": 35000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2025/01/Epson-LX-350-Printer.png", "imageFile": "Epson-LX-350-Printer.png", "description": "The Epson LX-350 Impact Dot Matrix Printer is a durable, high-performance printer designed for businesses that require reliable, high-speed printing for forms and reports.", "inStock": true},
-  {"id": 3571, "sku": null, "name": "Epson LX-350 Ribbon Cartridge", "brand": "Epson", "category": "Inks & Toner Cartridges", "price": 600, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2024/12/Epson-LX-300-Ribbon.png", "imageFile": "Epson-LX-300-Ribbon.png", "description": "The Epson LX-350 Ribbon Cartridge is an essential accessory for those using the Epson LX-350 dot matrix printer.", "inStock": true},
+  {"id": 3571, "sku": null, "name": "Epson LX-350 Ribbon Cartridge", "brand": "Epson", "category": "Inks & Toner Cartridges", "price": 600, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2024/12/Epson-LX-300-Ribbon.png", "imageFile": "Epson-LX-300-Ribbon.png", "description": `The Epson LX-350 Ribbon Cartridge is an original fabric ribbon cassette designed specifically for the Epson LX-350 9-pin eco-friendly impact printer. Delivers sharp text definition and low energy operation for counter sales in Nairobi.
+
+## Compatible printers
+Epson LX-300+II
+Epson LX-350
+If your model isn't listed, send us the number from the front of the machine and we'll confirm before you pay.
+
+## Specifications
+| Page yield | Cartridge type | Colour | Capacity | Part number | Genuine or compatible |
+|---|---|---|---|---|---|
+| ~4 Million characters | Ribbon Cartridge | Black | Standard | C13S015637 / S015637 | Genuine |
+
+## Genuine or compatible?
+Genuine Original Epson ribbon cassette. Royal compatible brand alternative ribbons are also available to lower operational costs further.
+
+## Why buy from Trinatech
+Stock held in Nairobi CBD.
+Delivery across Kenya including Kisumu, Nakuru, Eldoret, and Mombasa.
+M-Pesa and bank transfer accepted.
+WhatsApp ordering and walk-in options at The One Mall, River Road.
+
+## Getting the most from this cartridge
+Rotate the ribbon tightening knob clockwise prior to installation to ensure ribbon feeds smoothly without jamming.
+
+## Frequently asked questions
+Is an XL version available? Standard 4M character capacity provides long service life for small business counters.
+Can it print carbon copies? Yes, handles 1 original + 4 copies.
+How fast is Nairobi delivery? Delivered within 1 to 3 hours in Nairobi.
+How do I pay? Pay via M-Pesa, bank transfer, or cash.
+Is warranty included? Standard shop defect warranty covers unopened units.`, "metaTitle": "Epson LX-350 Black Ribbon Cartridge Price - Trinatech", "metaDescription": "Buy genuine Epson LX-350 ribbon cartridge in Nairobi. Yields ~4M characters for LX-350 9-pin dot matrix printer. Fast shipping in Kenya.", "inStock": true},
   {"id": 3434, "sku": null, "name": "Epson Perfection V39 Scanner", "brand": "Epson", "category": "Scanner", "price": 23000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2024/12/epson-v39-scanner.png", "imageFile": "epson-v39-scanner.png", "description": "The Epson Perfection V39 Scanner is a compact and efficient solution for anyone needing high-quality scans at home or in the office.", "inStock": true},
-  {"id": 5311, "sku": "FX9000", "name": "Epson Ribbon DFX9000 Black Cartridge", "brand": "Epson", "category": "Epson Ribbons & Inks", "price": 1500, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/Epson-Ribbon-DFX9000-Black-Cartridge.webp", "imageFile": "Epson-Ribbon-DFX9000-Black-Cartridge.webp", "description": "EPSON RIBBON DFX9000 BLACK CARTRIDGE", "inStock": true},
-  {"id": 5310, "sku": "TM300A", "name": "Epson Ribbon ERC38/39 Original For TM300A Black", "brand": "Epson", "category": "Epson Ribbons & Inks", "price": 600, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/Epson-Ribbon-ERC38-39-Original-For-TM300A-Black.webp", "imageFile": "Epson-Ribbon-ERC38-39-Original-For-TM300A-Black.webp", "description": "EPSON RIBBON ERC38/39 ORIGINAL FOR TM300A BLACK", "inStock": true},
+  {"id": 5311, "sku": "FX9000", "name": "Epson Ribbon DFX9000 Black Cartridge", "brand": "Epson", "category": "Epson Ribbons & Inks", "price": 1500, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/Epson-Ribbon-DFX9000-Black-Cartridge.webp", "imageFile": "Epson-Ribbon-DFX9000-Black-Cartridge.webp", "description": `The Epson Ribbon DFX9000 Black Cartridge (C13S015384) is an ultra-heavy-duty industrial ribbon cassette built for high-speed DFX-9000 line printers. Formulated for continuous, high-volume logistics printing across Kenya.
+
+## Compatible printers
+Epson DFX-9000
+Epson DFX-9000N
+If your model isn't listed, send us the number from the front of the machine and we'll confirm before you pay.
+
+## Specifications
+| Page yield | Cartridge type | Colour | Capacity | Part number | Genuine or compatible |
+|---|---|---|---|---|---|
+| ~15 Million characters | Industrial Ribbon Cartridge | Black | High Capacity | C13S015384 / S015384 | Genuine / Compatible |
+
+## Genuine or compatible?
+Covers original Genuine Epson industrial supply cartridges; Royal compatible alternatives fit the same high-speed printers at lower price points.
+
+## Why buy from Trinatech
+Stock held in Nairobi CBD.
+Delivery across Kenya including Kisumu, Nakuru, Eldoret, and Mombasa.
+M-Pesa and bank transfer accepted.
+WhatsApp ordering and walk-in options at The One Mall, River Road.
+
+## Getting the most from this cartridge
+Store horizontally in ambient dry room conditions. Follow industrial printer guide locks when securing the heavy cassette frame into the carriage base.
+
+## Frequently asked questions
+Is a lower yield version available? Extended 15M character capacity is standard for the DFX industrial series.
+Can it handle thick multi-part forms? Yes, prints up to 1 original + 9 carbon copies.
+How fast is Nairobi shipping? Same-day inside 1 to 3 hours.
+How can I pay? Pay via M-Pesa Buy Goods/Till or bank wire.
+Is warranty included? Covered against technical defects.`, "metaTitle": "Epson DFX-9000 Ribbon Cartridge Price - Trinatech Kenya", "metaDescription": "Order genuine Epson DFX-9000 black ribbon cartridge in Nairobi. Yields ~15M characters for high-speed heavy industrial printing. Fast delivery.", "inStock": true},
+  {"id": 5310, "sku": "TM300A", "name": "Epson Ribbon ERC38/39 Original For TM300A Black", "brand": "Epson", "category": "Epson Ribbons & Inks", "price": 600, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/Epson-Ribbon-ERC38-39-Original-For-TM300A-Black.webp", "imageFile": "Epson-Ribbon-ERC38-39-Original-For-TM300A-Black.webp", "description": `The Epson Ribbon ERC38/39 Original For TM300A Black (C43S015374) is a specialized fabric ribbon cartridge for Epson POS dot matrix receipt printers. Built for clear receipt printing in retail, restaurants, and kitchens across Kenya.
+
+## Compatible printers
+Epson TM-300
+Epson TM-U200
+Epson TM-U220A
+Epson TM-U220B
+Epson TM-U220D
+Epson TM-U230
+Epson TM-U375
+Bixolon SRP-275
+If your model isn't listed, send us the number from the front of the machine and we'll confirm before you pay.
+
+## Specifications
+| Page yield | Cartridge type | Colour | Capacity | Part number | Genuine or compatible |
+|---|---|---|---|---|---|
+| ~3 Million characters | POS Ribbon Cartridge | Black | Standard | C43S015374 / ERC-38B | Genuine |
+
+## Genuine or compatible?
+Genuine Original Epson POS product. Royal compatible brand alternative ribbons are also stocked to help cut costs on high-frequency receipt printing.
+
+## Why buy from Trinatech
+Stock held in Nairobi CBD.
+Delivery across Kenya including Kisumu, Nakuru, Eldoret, and Mombasa.
+M-Pesa and bank transfer accepted.
+WhatsApp ordering and walk-in options at The One Mall, River Road.
+
+## Getting the most from this cartridge
+Keep sealed until installation to prevent fabric ink drying. Snap cassette down firmly until latch clicks into place.
+
+## Frequently asked questions
+Is a purple or red/black dual option available? Yes, ERC-38 is also available in purple and red/black versions.
+Does it print duplicate NCR receipts? Yes, supports 2-ply and 3-ply thermalless receipt paper.
+How fast is Nairobi delivery? Delivered within 1 to 3 hours in Nairobi.
+How do I pay? Pay via M-Pesa or bank transfer.
+Is warranty provided? Covered against factory defect.`, "metaTitle": "Epson ERC-38 / ERC-39 POS Ribbon Price - Trinatech Kenya", "metaDescription": "Buy genuine Epson ERC-38 / ERC-39 black ribbon cartridge in Nairobi. Yields ~3M characters for TM-U220 & TM-U375 receipt printers. Fast delivery.", "inStock": true},
 ];

@@ -323,7 +323,32 @@ How fast is delivery? Same day within Nairobi, next working day to most towns.
 Can I return it? Yes, sealed and unused.
 Which is cheaper to run, 55A or 55X? On steady daily printing the 55X almost always wins on cost per page. Send us your monthly volume and we will work it out.`, "metaTitle": "HP 55A Black Toner Cartridge CE255A - Genuine HP Kenya", "metaDescription": "Genuine HP 55A black toner (CE255A), 6,000 pages, for HP LaserJet Enterprise P3015, MFP M525 and Pro MFP M521. Nairobi stock, countrywide delivery.", "inStock": true},
   {"id": 5083, "sku": "CE255A", "name": "HP 55A Black Toner Original Laserjet Original (CE255A)", "brand": "HP", "category": "HP Original Toners", "price": 10000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/HP-55A-Black-Toner-Original-Laserjet-Original-CE255A-scaled.webp", "imageFile": "HP-55A-Black-Toner-Original-Laserjet-Original-CE255A-scaled.webp", "description": "HP 55A BLACK TONER ORIGINAL LASERJET ORIGINAL (CE255A", "inStock": true},
-  {"id": 5082, "sku": "CE256A", "name": "HP 56A Black Toner Original Laserjet (CE256A)", "brand": "HP", "category": "HP Original Toners", "price": 4000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/HP-56A-Black-Toner-Original-Laserjet-CE256A-scaled.webp", "imageFile": "HP-56A-Black-Toner-Original-Laserjet-CE256A-scaled.webp", "description": "HP 56A BLACK TONER ORIGINAL LASERJET (CE256A", "inStock": true},
+  {"id": 5082, "sku": "CE256A", "name": "HP 56A Black Toner Original Laserjet (CE256A)", "brand": "HP", "category": "HP Original Toners", "price": 4000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/HP-56A-Black-Toner-Original-Laserjet-CE256A-scaled.webp", "imageFile": "HP-56A-Black-Toner-Original-Laserjet-CE256A-scaled.webp", "description": `The HP 56A Black Toner Original Laserjet (CF256A) supplies enterprise monochrome printing for HP LaserJet M433 and M436 MFP series. Built to ensure crisp black text, low cost per page, and steady paper handling across Kenya.
+
+## Compatible printers
+HP LaserJet MFP M436n / M436nda / M436dn
+HP LaserJet MFP M433a
+If your printer model isn't listed, send us the number from the front panel and we'll confirm before you pay.
+
+## Specifications
+| Page yield | Part type | Colour | Part number | Genuine or compatible |
+|---|---|---|---|---|
+| ~7,400 pages | Laser Toner Cartridge | Black | CF256A / HP 56A | Genuine / Compatible |
+
+## Genuine or compatible?
+Available in OEM Genuine HP toner supplies as well as high-capacity Compatible options.
+
+## Why buy from Trinatech
+Stock held in Nairobi CBD. Delivery across Kenya including Kisumu, Nakuru, Eldoret, and Mombasa. M-Pesa and bank transfer accepted. WhatsApp ordering and walk-in options at The One Mall, River Road.
+
+## Getting the most from this product
+Tilt and rock the cartridge horizontally to distribute toner evenly before sliding into the copier bay.
+
+## Frequently asked questions
+What is the page yield? Approximately 7,400 standard pages.
+How fast is Nairobi delivery? Delivered in 1 to 3 hours across Nairobi CBD.
+How do I pay? M-Pesa Buy Goods/Till or bank wire.
+Is warranty included? Covered against defects.`, "metaTitle": "HP 56A Black Original LaserJet Toner (CF256A)", "metaDescription": "Buy genuine HP 56A Black toner cartridge (CF256A) in Nairobi. High yield ~7,400 pages for LaserJet MFP M436, M433. Fast Kenya delivery.", "inStock": true},
   {"id": 3535, "sku": null, "name": "HP 59A Black Original Laserjet Toner Cartridge", "brand": "HP", "category": "Inks & Toner Cartridges", "price": 12000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2024/12/HP-59A-Toner.png", "imageFile": "HP-59A-Toner.png", "description": `The HP 59A black toner cartridge is the genuine Original HP replacement, part number CF259A, for the HP LaserJet Pro M404 and MFP M428 series. These are among the most widely sold business mono lasers of recent years and are common in Kenyan offices, so this is a cartridge worth keeping a spare of.
 
 ## Compatible printers
@@ -397,8 +422,60 @@ Do I need a colour cartridge as well? Only for colour printing, though most of t
 How fast is delivery? Same day within Nairobi, next working day upcountry.
 Can I return it? Yes, sealed and unused.
 Is HP 60 the same as HP 121? Effectively yes. Same cartridge, same fit, same yield, different regional part number and box.`, "metaTitle": "HP 60 Black Ink Cartridge CC640WN - Genuine HP Kenya", "metaDescription": "Genuine HP 60 black ink (CC640WN), about 200 pages, for DeskJet D2560, F4280, ENVY 100 and PhotoSmart C4680. Nairobi stock, delivered Kenya-wide.", "inStock": true},
-  {"id": 5488, "sku": "CH561W", "name": "HP 61 Black Original Ink Cartridge (CH561WA)", "brand": "HP", "category": "Original Hp Ink Cartridges", "price": 4200, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/HP-61-Black-Original-Ink-Cartridge-CH561WA.webp", "imageFile": "HP-61-Black-Original-Ink-Cartridge-CH561WA.webp", "description": "HP 61 BLACK ORIGINAL INK CARTRIDGE (CH561WA", "inStock": true},
-  {"id": 5487, "sku": null, "name": "HP 61 Tri Color Original Ink Cartridge", "brand": "HP", "category": "Original Hp Ink Cartridges", "price": 4300, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/HP-61-Tri-Color-Original-Ink-Cartridge.webp", "imageFile": "HP-61-Tri-Color-Original-Ink-Cartridge.webp", "description": "HP 61 TRI COLOR ORIGINAL INK CARTRIDGE", "inStock": true},
+  {"id": 5488, "sku": "CH561W", "name": "HP 61 Black Original Ink Cartridge (CH561WA)", "brand": "HP", "category": "Original Hp Ink Cartridges", "price": 4200, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/HP-61-Black-Original-Ink-Cartridge-CH561WA.webp", "imageFile": "HP-61-Black-Original-Ink-Cartridge-CH561WA.webp", "description": `The HP 61 Black Original Ink Cartridge (CH561WA) supplies original HP black ink for compact DeskJet, ENVY, and OfficeJet printers. Formulated to produce clear text documents, everyday school work, and smudge-proof prints across Kenya.
+
+## Compatible printers
+HP DeskJet 1000 / 1050 / 1055 / 2050 / 3000 / 3050
+HP ENVY 4500 / 5530 All-in-One
+HP OfficeJet 2620 / 4630 All-in-One
+If your printer model isn't listed, send us the number from the front panel and we'll confirm before you pay.
+
+## Specifications
+| Page yield | Part type | Colour | Part number | Genuine or compatible |
+|---|---|---|---|---|
+| ~190 pages | Inkjet Cartridge | Black | CH561WA / HP 61 | Genuine / Compatible |
+
+## Genuine or compatible?
+Available in OEM Genuine HP ink cartridges as well as budget-friendly Compatible options.
+
+## Why buy from Trinatech
+Stock held in Nairobi CBD. Delivery across Kenya including Kisumu, Nakuru, Eldoret, and Mombasa. M-Pesa and bank transfer accepted. WhatsApp ordering and walk-in options at The One Mall, River Road.
+
+## Getting the most from this product
+Peel off the protective nozzle tape tab before seating into the left carriage carrier.
+
+## Frequently asked questions
+What is the page yield? ~190 pages (Standard) / XL version yields ~480 pages.
+How fast is Nairobi shipping? Delivered within 1 to 3 hours across Nairobi.
+How do I pay? Pay via M-Pesa Buy Goods/Till or bank transfer.
+Is warranty included? Covered against defects.`, "metaTitle": "HP 61 Black Original Ink Cartridge (CH561WA)", "metaDescription": "Buy genuine HP 61 Black ink cartridge (CH561WA) in Nairobi. Yields ~190 pages for DeskJet 1000, 1050, 2050, 3050. Fast Kenya delivery.", "inStock": true},
+  {"id": 5487, "sku": null, "name": "HP 61 Tri Color Original Ink Cartridge", "brand": "HP", "category": "Original Hp Ink Cartridges", "price": 4300, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/HP-61-Tri-Color-Original-Ink-Cartridge.webp", "imageFile": "HP-61-Tri-Color-Original-Ink-Cartridge.webp", "description": `The HP 61 Tri Color Original Ink Cartridge (CH562WA) delivers original HP multi-color performance for home photo and document printing. Formulated for vivid color graphics, sharp photo output, and reliable jetting in Nairobi.
+
+## Compatible printers
+HP DeskJet 1000 / 1050 / 1055 / 2050 / 3000 / 3050
+HP ENVY 4500 / 5530 All-in-One
+HP OfficeJet 2620 / 4630 All-in-One
+If your printer model isn't listed, send us the number from the front panel and we'll confirm before you pay.
+
+## Specifications
+| Page yield | Part type | Colour | Part number | Genuine or compatible |
+|---|---|---|---|---|
+| ~165 pages | Inkjet Cartridge | Tri-Color (C/M/Y) | CH562WA / HP 61 | Genuine / Compatible |
+
+## Genuine or compatible?
+Covers OEM Genuine HP cartridges as well as high-yield Compatible options.
+
+## Why buy from Trinatech
+Stock held in Nairobi CBD. Delivery across Kenya including Kisumu, Nakuru, Eldoret, and Mombasa. M-Pesa and bank transfer accepted. WhatsApp ordering and walk-in options at The One Mall, River Road.
+
+## Getting the most from this product
+Remove the protective plastic strip without touching nozzle contacts.
+
+## Frequently asked questions
+What is the page yield? ~165 pages at 5% coverage.
+How fast is Nairobi delivery? Same-day inside 1 to 3 hours.
+How can I pay? Pay via M-Pesa or bank wire.
+Is warranty provided? Covered against factory defects.`, "metaTitle": "HP 61 Tri-Color Original Ink Cartridge (CH562WA)", "metaDescription": "Order genuine HP 61 Tri-Color ink cartridge (CH562WA) in Nairobi. Yields ~165 pages for DeskJet 1000, 1050, 2050, ENVY 4500. Fast delivery.", "inStock": true},
   {"id": 3932, "sku": null, "name": "HP 61 Tri-Colour Original Ink Cartridge", "brand": "HP", "category": "Inks & Toner Cartridges", "price": 4500, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2024/12/HP-61-Tri-colour-Original-Ink.png", "imageFile": "HP-61-Tri-colour-Original-Ink.png", "description": `The HP 61 tri-colour ink cartridge is the genuine Original HP colour cartridge, part number CH562WN, holding cyan, magenta and yellow in one unit. It covers a wide spread of HP DeskJet, ENVY and OfficeJet all-in-ones that are still in daily use across Kenyan offices. It pairs with the HP 61 black, and most of these printers will not start a job unless both cartridges are seated.
 
 ## Compatible printers
@@ -433,7 +510,33 @@ Do I need the black cartridge too? Yes in practice, as most of these models refu
 How fast is delivery? Same day within Nairobi, next working day to most other towns.
 Can I return it? Yes, if it is sealed and unused.
 Can I top up only the colour that ran out? No. The three colours share one cartridge and it is replaced whole.`, "metaTitle": "HP 61 Tri-Colour Ink Cartridge CH562WN - Genuine HP", "metaDescription": "Genuine HP 61 tri-colour ink (CH562WN), about 165 pages, for DeskJet 1510, 2540, ENVY 4500 and OfficeJet 4630. Nairobi stock, Kenya-wide.", "inStock": true},
-  {"id": 5486, "sku": null, "name": "HP 63 Black Ink Original Cartridge (F6U62AA)", "brand": "HP", "category": "Original Hp Ink Cartridges", "price": 4500, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/HP-63-Black-Ink-Original-Cartridge-F6U62AA.webp", "imageFile": "HP-63-Black-Ink-Original-Cartridge-F6U62AA.webp", "description": "HP 63 BLACK INK ORIGINAL CARTRIDGE (F6U62AA", "inStock": true},
+  {"id": 5486, "sku": null, "name": "HP 63 Black Ink Original Cartridge (F6U62AA)", "brand": "HP", "category": "Original Hp Ink Cartridges", "price": 4500, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/HP-63-Black-Ink-Original-Cartridge-F6U62AA.webp", "imageFile": "HP-63-Black-Ink-Original-Cartridge-F6U62AA.webp", "description": `The HP 63 Black Ink Original Cartridge (F6U62AA) provides original HP black ink for home and office All-in-One printers. Engineered to deliver dark text rendering, clean line definition, and smudge-resistant text across Kenya.
+
+## Compatible printers
+HP DeskJet 1112 / 2130 / 2132 / 3630 / 3632
+HP OfficeJet 3830 / 4650 / 5255 All-in-One
+HP ENVY 4520 All-in-One
+If your printer model isn't listed, send us the number from the front panel and we'll confirm before you pay.
+
+## Specifications
+| Page yield | Part type | Colour | Part number | Genuine or compatible |
+|---|---|---|---|---|
+| ~190 pages | Inkjet Cartridge | Black | F6U62AA / HP 63 | Genuine / Compatible |
+
+## Genuine or compatible?
+Available in OEM Genuine HP ink cartridges as well as cost-effective Compatible alternatives.
+
+## Why buy from Trinatech
+Stock held in Nairobi CBD. Delivery across Kenya including Kisumu, Nakuru, Eldoret, and Mombasa. M-Pesa and bank transfer accepted. WhatsApp ordering and walk-in options at The One Mall, River Road.
+
+## Getting the most from this product
+Peel off the protective tape tab before inserting into the black ink carriage slot.
+
+## Frequently asked questions
+What is the page yield? ~190 standard pages.
+How fast is Nairobi shipping? Same-day inside 1 to 3 hours.
+How do I pay? Pay via M-Pesa Buy Goods/Till or bank transfer.
+Is warranty included? Covered against defects.`, "metaTitle": "HP 63 Black Original Ink Cartridge (F6U62AA)", "metaDescription": "Shop genuine HP 63 Black ink cartridge (F6U62AA) in Nairobi. Yields ~190 pages for DeskJet 1112, 2130, 3630, OfficeJet 3830. Fast shipping.", "inStock": true},
   {"id": 3832, "sku": null, "name": "HP 63 Black Original Ink Cartridge", "brand": "HP", "category": "Inks & Toner Cartridges", "price": 4500, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2024/12/HP-63-Black-Original-Ink.png", "imageFile": "HP-63-Black-Original-Ink.png", "description": `The HP 63 black ink cartridge is the genuine Original HP replacement, part number F6U62AE, for a broad run of HP DeskJet, ENVY and OfficeJet all-in-ones. If your machine sits in the 2130, 3630, 4520 or 3830 families, this is the black cartridge it takes. Pigment-based ink gives crisp text that survives handling and filing.
 
 ## Compatible printers
@@ -468,7 +571,33 @@ Do I need the colour cartridge too? Only for colour printing, though most of the
 How long is delivery? Same day in Nairobi, next working day upcountry.
 What are the returns terms? Sealed and unused cartridges can be exchanged or refunded.
 My printer already asks for ink and it is nearly new. Why? These machines ship with starter cartridges holding less ink than a retail one. A full HP 63 will last noticeably longer.`, "metaTitle": "HP 63 Black Ink Cartridge F6U62AE - Genuine HP Kenya", "metaDescription": "Genuine HP 63 black ink (F6U62AE), about 190 pages, for DeskJet 2130, 3630, ENVY 4520 and OfficeJet 3830. Nairobi stock, delivered across Kenya.", "inStock": true},
-  {"id": 5485, "sku": null, "name": "HP 63 Tri Color Ink Cartridge (F6U61AA)", "brand": "HP", "category": "Original Hp Ink Cartridges", "price": 3000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/HP-63-Tri-Color-Ink-Cartridge-F6U61AA.webp", "imageFile": "HP-63-Tri-Color-Ink-Cartridge-F6U61AA.webp", "description": "HP 63 TRI COLOR INK CARTRIDGE (F6U61AA", "inStock": true},
+  {"id": 5485, "sku": null, "name": "HP 63 Tri Color Ink Cartridge (F6U61AA)", "brand": "HP", "category": "Original Hp Ink Cartridges", "price": 3000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/HP-63-Tri-Color-Ink-Cartridge-F6U61AA.webp", "imageFile": "HP-63-Tri-Color-Ink-Cartridge-F6U61AA.webp", "description": `The HP 63 Tri Color Ink Cartridge (F6U61AA) delivers original HP multi-color performance for DeskJet, ENVY, and OfficeJet printers. Formulated to produce bright graphics, sharp color photos, and clean document highlights in Nairobi.
+
+## Compatible printers
+HP DeskJet 1112 / 2130 / 2132 / 3630 / 3632
+HP OfficeJet 3830 / 4650 / 5255 All-in-One
+HP ENVY 4520 All-in-One
+If your printer model isn't listed, send us the number from the front panel and we'll confirm before you pay.
+
+## Specifications
+| Page yield | Part type | Colour | Part number | Genuine or compatible |
+|---|---|---|---|---|
+| ~165 pages | Inkjet Cartridge | Tri-Color (C/M/Y) | F6U61AA / HP 63 | Genuine / Compatible |
+
+## Genuine or compatible?
+Covers OEM Genuine HP cartridges as well as budget-friendly Compatible options.
+
+## Why buy from Trinatech
+Stock held in Nairobi CBD. Delivery across Kenya including Kisumu, Nakuru, Eldoret, and Mombasa. M-Pesa and bank transfer accepted. WhatsApp ordering and walk-in options at The One Mall, River Road.
+
+## Getting the most from this product
+Remove the protective plastic strip without touching the metallic contact points.
+
+## Frequently asked questions
+What is the page yield? ~165 pages based on ISO standards.
+How fast is Nairobi delivery? Delivered within 1 to 3 hours across Nairobi.
+How can I pay? Pay via M-Pesa or bank wire.
+Is warranty provided? Covered against factory defects.`, "metaTitle": "HP 63 Tri-Color Original Ink Cartridge (F6U61AA)", "metaDescription": "Order genuine HP 63 Tri-Color ink cartridge (F6U61AA) in Nairobi. Yields ~165 pages for DeskJet 1112, 2130, 3630, OfficeJet 3830. Fast delivery.", "inStock": true},
   {"id": 3901, "sku": null, "name": "HP 63 Tri-Colour Original Ink Cartridge", "brand": "HP", "category": "Inks & Toner Cartridges", "price": 4300, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2024/12/HP-63-Tri-colour-Original-Ink.png", "imageFile": "HP-63-Tri-colour-Original-Ink.png", "description": `The HP 63 tri-colour ink cartridge is the genuine Original HP colour cartridge, part number F6U61AE, carrying cyan, magenta and yellow in one unit. It serves the same wide range of DeskJet, ENVY and OfficeJet all-in-ones as the HP 63 black, and the two are normally bought together since most of these printers will not run on one cartridge alone.
 
 ## Compatible printers
@@ -1260,9 +1389,87 @@ How fast is delivery? Same day within Nairobi, next working day upcountry.
 Can I return it? Yes, sealed and unused.
 Will the printer stop if one colour is empty? Usually yes, even for a black-only job, so monitor all four levels.`, "metaTitle": "HP 655 Yellow Ink Cartridge CZ112AE - Genuine HP Kenya", "metaDescription": "Genuine HP 655 yellow Ink Advantage cartridge (CZ112AE), ~600 pages, for HP DeskJet Ink Advantage 3525, 4615, 4625, 5525 and 6525. Nairobi stock.", "inStock": true},
   {"id": 5069, "sku": "CF450A", "name": "HP 655A Black Toner Laserjet Cartridge (CF450A)", "brand": "HP", "category": "HP Original Toners", "price": 30500, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/HP-655A-Black-Toner-Laserjet-Cartridge-CF450A-scaled.webp", "imageFile": "HP-655A-Black-Toner-Laserjet-Cartridge-CF450A-scaled.webp", "description": "The HP 655A black toner cartridge is the genuine Original HP replacement, part number CF450A, for the HP Color LaserJet Enterprise M652 and M653 series and the MFP M681 and M682. At 12,500 pages this is a departmental cartridge for a machine an entire floor shares.\n\n## Compatible printers\nHP Color LaserJet Enterprise M652n Printer\nHP Color LaserJet Enterprise M652dn Printer\nHP Color LaserJet Enterprise M653dn Printer\nHP Color LaserJet Enterprise M653dh Printer\nHP Color LaserJet Enterprise M653x Printer\nHP Color LaserJet Enterprise MFP M681dh\nHP Color LaserJet Enterprise MFP M681f\nHP Color LaserJet Enterprise Flow MFP M681z\nHP Color LaserJet Enterprise Flow MFP M682z\nIf your model isn't listed, send us the number from the front of the machine and we'll confirm before you pay.\n\n## Specifications\n| Page yield | Cartridge type | Colour | Capacity | Part number | Genuine or compatible |\n|---|---|---|---|---|---|\n| 12,500 pages at 5% coverage | Laser toner cartridge | Black | Standard capacity | CF450A | Genuine Original HP |\n\n## Genuine or compatible?\nGenuine, Original HP in the sealed box. Not a refill and not our Royal house brand. On enterprise fleets this matters more than anywhere. These machines usually sit on a service contract or a managed print agreement, and non-genuine consumables can put that arrangement in question. HP also builds anti-fraud technology into this range, so a non-genuine cartridge can be rejected outright rather than simply printing badly, and a rejected cartridge stops a department rather than one desk.\n\n## Why buy from Trinatech\nEnterprise-class stock held in the Nairobi CBD rather than ordered in on request.\nCountrywide courier delivery, Nakuru, Eldoret, Kisumu and Mombasa included.\nM-Pesa or bank transfer, with proper invoicing and LPO handling for corporate accounts.\nWhatsApp us the model number, or visit The One Mall on River Road.\n\n## Getting the most from this cartridge\nRock the cartridge gently before fitting. These are large, heavy cartridges and toner settles in transit.\nOrder before you run out. On a shared enterprise machine the low-toner warning is usually ignored until the queue stops.\nBlack empties before the colours here, which yield 10,500 against 12,500. Buying black singly rather than as a set is usually the cheaper approach.\n12,500 pages assumes 5% coverage. Heavy colour reports and branded documents will come in well under that.\n\n## Frequently asked questions\nIs there a higher-yield version? Yes. HP 656X fits the same printers and holds substantially more, which costs less per page on a busy machine.\nDo I need the colours too? Yes for colour printing. HP 655A cyan CF451A, yellow CF452A and magenta CF453A are sold separately at around 10,500 pages each.\nHow fast is delivery? Same day within Nairobi where stock is held, otherwise we will confirm lead time when you order.\nCan I return it? Yes, sealed and unused.\nWhich cartridge suits a machine printing all day? Ask us to compare 655A and 656X against your monthly volume. On heavy use the larger cartridge usually wins clearly.", "metaTitle": "HP 655A Black Toner CF450A - Genuine HP Kenya", "metaDescription": "Genuine HP 655A black toner (CF450A), 12,500 pages, for HP Color LaserJet Enterprise M652, M653 and MFP M681, M682. Nairobi stock, countrywide delivery.", "inStock": true},
-  {"id": 5475, "sku": null, "name": "HP 655A Cym Toner Cartridge Each", "brand": "HP", "category": "Original Hp Ink Cartridges", "price": 36500, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/HP-655A-Cym-Toner-Cartridge-Each.webp", "imageFile": "HP-655A-Cym-Toner-Cartridge-Each.webp", "description": "HP 655A CYM TONER CARTRIDGE EACH", "inStock": true},
-  {"id": 5068, "sku": "W2010A", "name": "HP 659A Black Toner Laserjet Cartridge (W2010A)", "brand": "HP", "category": "HP Original Toners", "price": 24000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/HP-659A-Black-Toner-Laserjet-Cartridge-W2010A-scaled.webp", "imageFile": "HP-659A-Black-Toner-Laserjet-Cartridge-W2010A-scaled.webp", "description": "HP 659A BLACK TONER LASERJET CARTRIDGE (W2010A", "inStock": true},
-  {"id": 5067, "sku": null, "name": "HP 659A Cym Toner Each", "brand": "HP", "category": "HP Original Toners", "price": 44000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/HP-659A-Cym-Toner-Each-scaled.webp", "imageFile": "HP-659A-Cym-Toner-Each-scaled.webp", "description": "HP 659A CYM TONER EACH", "inStock": true},
+  {"id": 5475, "sku": null, "name": "HP 655A Cym Toner Cartridge Each", "brand": "HP", "category": "Original Hp Ink Cartridges", "price": 36500, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/HP-655A-Cym-Toner-Cartridge-Each.webp", "imageFile": "HP-655A-Cym-Toner-Cartridge-Each.webp", "description": `The HP 655A Cym Toner Cartridge Each offers individual high-yield color toner bottles (Cyan CF451A, Yellow CF452A, Magenta CF453A) for HP Color LaserJet Enterprise 600 series workgroup printers across Kenya.
+
+## Compatible printers
+HP Color LaserJet Enterprise M652dn / M652n
+HP Color LaserJet Enterprise M653dn / M653x
+HP Color LaserJet Enterprise MFP M681dh / M681f / M682z
+If your printer model isn't listed, send us the number from the front panel and we'll confirm before you pay.
+
+## Specifications
+| Page yield | Part type | Colour | Part number | Genuine or compatible |
+|---|---|---|---|---|
+| ~10,500 pages each | Laser Toner Cartridge | Cyan, Yellow, Magenta | CF451A / CF452A / CF453A | Genuine / Compatible |
+
+## Genuine or compatible?
+Available in OEM Genuine HP Enterprise supplies as well as premium Compatible alternatives.
+
+## Why buy from Trinatech
+Stock held in Nairobi CBD. Delivery across Kenya including Kisumu, Nakuru, Eldoret, and Mombasa. M-Pesa and bank transfer accepted. WhatsApp ordering and walk-in options at The One Mall, River Road.
+
+## Getting the most from this product
+Tilt and rock the toner unit 5 times horizontally before loading into its color-coded slot.
+
+## Frequently asked questions
+Are these sold individually? Yes, available per color (Cyan, Yellow, or Magenta).
+How fast is Nairobi delivery? Same-day inside 1 to 3 hours.
+How can I pay? Pay via M-Pesa or bank transfer.
+Is warranty provided? Covered against factory defects.`, "metaTitle": "HP 655A Color LaserJet Toner Cartridge Set", "metaDescription": "Shop HP 655A Cyan (CF451A), Yellow (CF452A), Magenta (CF453A) toner cartridges in Nairobi. High yield ~10,500 pages for Enterprise M652, M653.", "inStock": true},
+  {"id": 5068, "sku": "W2010A", "name": "HP 659A Black Toner Laserjet Cartridge (W2010A)", "brand": "HP", "category": "HP Original Toners", "price": 24000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/HP-659A-Black-Toner-Laserjet-Cartridge-W2010A-scaled.webp", "imageFile": "HP-659A-Black-Toner-Laserjet-Cartridge-W2010A-scaled.webp", "description": `The HP 659A Black Toner Laserjet Cartridge (W2010A) supplies enterprise black toner output for HP Color LaserJet Enterprise M856 and M776 series printers. Built for heavy graphic printing, rich black density, and long life in Nairobi.
+
+## Compatible printers
+HP Color LaserJet Enterprise M856dn / M856x
+HP Color LaserJet Enterprise MFP M776dn / M776zs
+HP Color LaserJet Enterprise Flow MFP M776z
+If your printer model isn't listed, send us the number from the front panel and we'll confirm before you pay.
+
+## Specifications
+| Page yield | Part type | Colour | Part number | Genuine or compatible |
+|---|---|---|---|---|
+| ~16,000 pages | Laser Toner Cartridge | Black | W2010A / HP 659A | Genuine / Compatible |
+
+## Genuine or compatible?
+Covers OEM Genuine HP Enterprise toner cartridges as well as cost-effective Compatible options.
+
+## Why buy from Trinatech
+Stock held in Nairobi CBD. Delivery across Kenya including Kisumu, Nakuru, Eldoret, and Mombasa. M-Pesa and bank transfer accepted. WhatsApp ordering and walk-in options at The One Mall, River Road.
+
+## Getting the most from this product
+Rock horizontally 5 times before removing sealing tape to facilitate smooth powder flow.
+
+## Frequently asked questions
+What is the page yield? ~16,000 standard pages.
+How fast is Nairobi delivery? Same-day inside 1 to 3 hours.
+How do I pay? Pay via M-Pesa Buy Goods/Till or bank transfer.
+Is warranty included? Covered against defects.`, "metaTitle": "HP 659A Black Original LaserJet Toner (W2010A)", "metaDescription": "Order genuine HP 659A Black toner cartridge (W2010A) in Nairobi. High yield ~16,000 pages for Color LaserJet Enterprise M856, MFP M776. Fast shipping.", "inStock": true},
+  {"id": 5067, "sku": null, "name": "HP 659A Cym Toner Each", "brand": "HP", "category": "HP Original Toners", "price": 44000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/HP-659A-Cym-Toner-Each-scaled.webp", "imageFile": "HP-659A-Cym-Toner-Each-scaled.webp", "description": `The HP 659A Cym Toner Each provides high-capacity individual color toner cartridges (Cyan W2011A, Yellow W2012A, Magenta W2013A) for HP Color LaserJet Enterprise 700 and 800 series presses across Kenya.
+
+## Compatible printers
+HP Color LaserJet Enterprise M856dn / M856x
+HP Color LaserJet Enterprise MFP M776dn / M776zs
+HP Color LaserJet Enterprise Flow MFP M776z
+If your printer model isn't listed, send us the number from the front panel and we'll confirm before you pay.
+
+## Specifications
+| Page yield | Part type | Colour | Part number | Genuine or compatible |
+|---|---|---|---|---|
+| ~13,000 pages each | Laser Toner Cartridge | Cyan, Yellow, Magenta | W2011A / W2012A / W2013A | Genuine / Compatible |
+
+## Genuine or compatible?
+Available in OEM Genuine HP Enterprise cartridges as well as high-grade Compatible options.
+
+## Why buy from Trinatech
+Stock held in Nairobi CBD. Delivery across Kenya including Kisumu, Nakuru, Eldoret, and Mombasa. M-Pesa and bank transfer accepted. WhatsApp ordering and walk-in options at The One Mall, River Road.
+
+## Getting the most from this product
+Keep sealed in foil protective bags until immediately prior to inserting into the machine.
+
+## Frequently asked questions
+Are these sold individually? Yes, available per color (Cyan, Yellow, or Magenta).
+How fast is Nairobi shipping? Delivered in 1 to 3 hours in Nairobi.
+How can I pay? Pay via M-Pesa or bank transfer.
+Is warranty provided? Covered against defects.`, "metaTitle": "HP 659A Color LaserJet Toner Cartridges Each", "metaDescription": "Buy HP 659A Cyan (W2011A), Yellow (W2012A), Magenta (W2013A) toner cartridges in Nairobi. High yield ~13,000 pages for Enterprise M856, M776. Fast delivery.", "inStock": true},
   {"id": 5474, "sku": null, "name": "HP 711 Black Ink Cartridge", "brand": "HP", "category": "Original Hp Ink Cartridges", "price": 6000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/HP-711-Black-Ink-Cartridge.webp", "imageFile": "HP-711-Black-Ink-Cartridge.webp", "description": `The HP 711 black ink cartridge (CZ129A) is the genuine Original HP 38ml black cartridge for HP DesignJet wide-format plotters. If you are running a T120 or T520 for technical drawings, CAD output or engineering plans, this is the black cartridge it takes. Pigment-based ink gives sharp, smudge-resistant lines on plain paper and technical media.
 
 ## Compatible printers
@@ -1627,7 +1834,33 @@ Do I need colour cartridges too? Yes — the T920/T2500 series uses six ink type
 How fast is delivery? Same day within Nairobi, next working day upcountry.
 Can I return it? Yes, sealed and unused.
 What is the difference between B3P22A and C1Q12A? Both are HP 727 matte black — B3P22A is 130ml and C1Q12A is 300ml. Same ink, same printers, different volumes.`, "metaTitle": "HP 727 Matte Black Ink Cartridge B3P22A - Genuine HP", "metaDescription": "Genuine HP 727 matte black ink cartridge (B3P22A), 130ml, for HP DesignJet T920, T930, T1500, T1530, T2500 and T2530. Nairobi stock.", "inStock": true},
-  {"id": 5303, "sku": null, "name": "HP 727 Cym Designjet Ink (130-ML Cartridge Each)", "brand": "HP", "category": "Master Rolls & Inks", "price": 18000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/HP-727-Cym-Designjet-Ink-130-ML-Cartridge-Each.webp", "imageFile": "HP-727-Cym-Designjet-Ink-130-ML-Cartridge-Each.webp", "description": "HP 727 CYM DESIGNJET INK (130-ML CARTRIDGE EACH", "inStock": true},
+  {"id": 5303, "sku": null, "name": "HP 727 Cym Designjet Ink (130-ML Cartridge Each)", "brand": "HP", "category": "Master Rolls & Inks", "price": 18000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/HP-727-Cym-Designjet-Ink-130-ML-Cartridge-Each.webp", "imageFile": "HP-727-Cym-Designjet-Ink-130-ML-Cartridge-Each.webp", "description": `The HP 727 Cym Designjet Ink (130-ML Cartridge Each) supplies individual 130ml ink cartridges (Cyan B3P19A, Magenta B3P20A, Yellow B3P21A, Matte Black B3P22A, Photo Black B3P23A, Gray B3P24A) for HP DesignJet large-format plotters in Kenya.
+
+## Compatible printers
+HP DesignJet T920 / T930 Plotter
+HP DesignJet T1500 / T1530 Plotter
+HP DesignJet T2500 / T2530 MFP Plotter
+If your plotter model isn't listed, send us the number from the front panel and we'll confirm before you pay.
+
+## Specifications
+| Volume | Part type | Colour | Part number | Genuine or compatible |
+|---|---|---|---|---|
+| 130 ml each | Large Format Ink Cartridge | Cyan, Magenta, Yellow, Blacks, Gray | B3P19A to B3P24A | Genuine / Compatible |
+
+## Genuine or compatible?
+Covers OEM Genuine HP DesignJet ink cartridges as well as quality Compatible options.
+
+## Why buy from Trinatech
+Stock held in Nairobi CBD. Delivery across Kenya including Kisumu, Nakuru, Eldoret, and Mombasa. M-Pesa and bank transfer accepted. WhatsApp ordering and walk-in options at The One Mall, River Road.
+
+## Getting the most from this product
+Ensure printer power is ON when snapping ink cartridges into the plotter carriage to register chip codes.
+
+## Frequently asked questions
+Which capacity is this? Standard 130ml volume.
+How fast is Nairobi delivery? Same-day inside 1 to 3 hours.
+How do I pay? Pay via M-Pesa Buy Goods/Till or bank transfer.
+Is warranty included? Covered against factory defects.`, "metaTitle": "HP 727 130ml DesignJet Ink Cartridge Each", "metaDescription": "Buy genuine HP 727 130ml DesignJet ink cartridges (Cyan, Magenta, Yellow, Matte Black) in Nairobi. Fits T920, T1500, T2500 plotter series. Fast delivery.", "inStock": true},
   {"id": 5301, "sku": null, "name": "HP 728 Black 300ML Matte Designjet Ink Cartridge Each", "brand": "HP", "category": "Master Rolls & Inks", "price": 18000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/HP-728-Black-300ML-Matte-Designjet-Ink-Cartridge-Each.webp", "imageFile": "HP-728-Black-300ML-Matte-Designjet-Ink-Cartridge-Each.webp", "description": `The HP 728 matte black ink cartridge (F9J68A) is the genuine Original HP 300ml black cartridge for the HP DesignJet T730 and T830. The T730 and T830 are HP's current mid-range wide-format plotters, built for offices, studios and engineering teams producing technical drawings, construction plans and presentation graphics at scale. This 300ml cartridge is well suited to production environments where downtime from cartridge changes has a real cost.
 
 ## Compatible printers
@@ -1661,7 +1894,32 @@ Do I need colour cartridges too? Yes — the T730 and T830 use separate cyan, ma
 How fast is delivery? Same day within Nairobi, next working day upcountry.
 Can I return it? Yes, sealed and unused.
 Is HP 728 the same as HP 727? No — HP 727 fits the T920/T2500 generation; HP 728 fits the T730/T830. They are different cartridges for different machines.`, "metaTitle": "HP 728 Matte Black Ink Cartridge F9J68A - Genuine HP", "metaDescription": "Genuine HP 728 matte black ink cartridge (F9J68A), 300ml, for HP DesignJet T730 and T830 large-format plotters. Nairobi stock.", "inStock": true},
-  {"id": 5300, "sku": null, "name": "HP 728 Cym High Capacity Ink 130-ML Each", "brand": "HP", "category": "Master Rolls & Inks", "price": 18000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/HP-728-Cym-High-Capacity-Ink-130-ML-Each.webp", "imageFile": "HP-728-Cym-High-Capacity-Ink-130-ML-Each.webp", "description": "HP 728 CYM HIGH CAPACITY INK 130-ML EACH", "inStock": true},
+  {"id": 5300, "sku": null, "name": "HP 728 Cym High Capacity Ink 130-ML Each", "brand": "HP", "category": "Master Rolls & Inks", "price": 18000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/HP-728-Cym-High-Capacity-Ink-130-ML-Each.webp", "imageFile": "HP-728-Cym-High-Capacity-Ink-130-ML-Each.webp", "description": `The HP 728 Cym High Capacity Ink 130-ML Each provides individual 130ml ink cartridges (Cyan F9J65A, Magenta F9J66A, Yellow F9J67A, Matte Black F9J68A) engineered for HP DesignJet CAD/GIS plotters in Nairobi.
+
+## Compatible printers
+HP DesignJet T730 36-in Plotter
+HP DesignJet T830 24-in / 36-in Multifunction Plotter
+If your plotter model isn't listed, send us the number from the front panel and we'll confirm before you pay.
+
+## Specifications
+| Volume | Part type | Colour | Part number | Genuine or compatible |
+|---|---|---|---|---|
+| 130 ml each | Large Format Ink Cartridge | Cyan, Magenta, Yellow, Matte Black | F9J65A / F9J66A / F9J67A / F9J68A | Genuine / Compatible |
+
+## Genuine or compatible?
+Available in OEM Genuine HP DesignJet supplies as well as high-capacity Compatible alternatives.
+
+## Why buy from Trinatech
+Stock held in Nairobi CBD. Delivery across Kenya including Kisumu, Nakuru, Eldoret, and Mombasa. M-Pesa and bank transfer accepted. WhatsApp ordering and walk-in options at The One Mall, River Road.
+
+## Getting the most from this product
+Insert cartridges firmly until the locking latch clicks securely shut.
+
+## Frequently asked questions
+Are these sold individually? Yes, available per color.
+How fast is Nairobi shipping? Delivered in 1 to 3 hours across Nairobi CBD.
+How can I pay? Pay via M-Pesa or bank transfer.
+Is warranty provided? Covered against manufacturing defects.`, "metaTitle": "HP 728 130ml DesignJet High Capacity Ink Each", "metaDescription": "Shop genuine HP 728 130ml DesignJet ink cartridges in Nairobi. Fits DesignJet T730, T830 plotters. Fast delivery across Kenya.", "inStock": true},
   {"id": 5299, "sku": null, "name": "HP 730 Designjet Ink Cartridges 130-ML Each", "brand": "HP", "category": "Master Rolls & Inks", "price": 18000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/HP-730-Designjet-Ink-Cartridges-130-ML-Each.webp", "imageFile": "HP-730-Designjet-Ink-Cartridges-130-ML-Each.webp", "description": `The HP 730 DesignJet ink cartridges are the genuine Original HP 130ml ink for the HP DesignJet T1600, T1700 and T2600 generation of large-format plotters. The range includes matte black (P2V65A), cyan (P2V62A), magenta (P2V63A), yellow (P2V64A), photo black (P2V67A) and grey (P2V66A) — all at 130ml per cartridge and all replaced individually. Tell us which colour you need when you order. The HP 730 range also comes in 300ml cartridges for higher-volume sites, which cost less per ml at production throughput.
 
 ## Compatible printers
@@ -1805,7 +2063,32 @@ How fast is delivery? Same day within Nairobi, next working day to most towns.
 Can I return it? Yes, sealed and unused.
 I have seen this cartridge advertised at 3,000 pages. Which is right? 2,100 pages is HP's figure for the genuine cartridge. The 3,000-page claims belong to non-genuine jumbo-fill products, which is a different thing entirely.`, "metaTitle": "HP 78A Black Toner Cartridge CE278A - Genuine HP Kenya", "metaDescription": "Genuine HP 78A black toner (CE278A), 2,100 pages, for HP LaserJet Pro P1566, P1606dn and MFP M1536dnf. Nairobi stock, delivered across Kenya.", "inStock": true},
   {"id": 5065, "sku": "CE278A", "name": "HP 78A Black Toner Laserjet (CE278A)", "brand": "HP", "category": "HP Original Toners", "price": 6000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/HP-78A-Black-Toner-Laserjet-CE278A-scaled.webp", "imageFile": "HP-78A-Black-Toner-Laserjet-CE278A-scaled.webp", "description": "HP 78A BLACK TONER LASERJET (CE278A", "inStock": true},
-  {"id": 5064, "sku": null, "name": "HP 79A Black Laserjet Toner Cartridge", "brand": "HP", "category": "HP Original Toners", "price": 9500, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/HP-79A-Black-Laserjet-Toner-Cartridge-scaled.webp", "imageFile": "HP-79A-Black-Laserjet-Toner-Cartridge-scaled.webp", "description": "HP 79A BLACK LASERJET TONER CARTRIDGE", "inStock": true},
+  {"id": 5064, "sku": null, "name": "HP 79A Black Laserjet Toner Cartridge", "brand": "HP", "category": "HP Original Toners", "price": 9500, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/HP-79A-Black-Laserjet-Toner-Cartridge-scaled.webp", "imageFile": "HP-79A-Black-Laserjet-Toner-Cartridge-scaled.webp", "description": `The HP 79A Black Laserjet Toner Cartridge (CF279A) delivers compact monochrome performance for entry-level HP LaserJet Pro M12 and M26 series printers. Built for crisp black text rendering and dependable daily page yields in Nairobi.
+
+## Compatible printers
+HP LaserJet Pro M12a / M12w
+HP LaserJet Pro MFP M26a / M26nw
+If your printer model isn't listed, send us the number from the front panel and we'll confirm before you pay.
+
+## Specifications
+| Page yield | Part type | Colour | Part number | Genuine or compatible |
+|---|---|---|---|---|
+| ~1,000 pages | Laser Toner Cartridge | Black | CF279A / HP 79A | Genuine / Compatible |
+
+## Genuine or compatible?
+Available in OEM Genuine HP toner cartridges as well as budget-friendly Compatible options.
+
+## Why buy from Trinatech
+Stock held in Nairobi CBD. Delivery across Kenya including Kisumu, Nakuru, Eldoret, and Mombasa. M-Pesa and bank transfer accepted. WhatsApp ordering and walk-in options at The One Mall, River Road.
+
+## Getting the most from this product
+Remove the protective orange clips and pull out the sealing ribbon completely before loading.
+
+## Frequently asked questions
+What is the page yield? ~1,000 pages based on 5% coverage.
+How fast is Nairobi shipping? Delivered in 1 to 3 hours across Nairobi CBD.
+How can I pay? Pay via M-Pesa or bank transfer.
+Is warranty provided? Covered against defects.`, "metaTitle": "HP 79A Black Original LaserJet Toner (CF279A)", "metaDescription": "Buy genuine HP 79A Black toner cartridge (CF279A) in Nairobi. Yields ~1,000 pages for LaserJet Pro M12, MFP M26. Fast Kenya delivery.", "inStock": true},
   {"id": 4151, "sku": null, "name": "HP 79A Black Original Laserjet Toner Cartridge", "brand": "HP", "category": "Inks & Toner Cartridges", "price": 9000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2025/01/HP-79A-Black-Original-LaserJet-Toner.png", "imageFile": "HP-79A-Black-Original-LaserJet-Toner.png", "description": `The HP 79A black toner cartridge is the genuine Original HP replacement, part number CF279A, for the HP LaserJet Pro M12 and MFP M26 series. These are the smallest laser printers HP makes, built for a desk, a shop counter or a home office that needs proper laser output without the footprint.
 
 ## Compatible printers
@@ -1841,7 +2124,32 @@ Do I need a separate drum? No. The drum is built into the cartridge, so both are
 How fast is delivery? Same day within Nairobi, next working day to most towns.
 Can I return it? Yes, sealed and unused.
 Why does such a small cartridge cost this much? The M12 and M26 were sold cheaply and the running cost sits in the toner. If you print steadily, a larger machine like the M404 works out cheaper per page over a year, and we are happy to work that out with you.`, "metaTitle": "HP 79A Black Toner Cartridge CF279A - Genuine HP Kenya", "metaDescription": "Genuine HP 79A black toner (CF279A), 1,000 pages, for HP LaserJet Pro M12a, M12w and MFP M26a, M26nw. Nairobi stock, delivered across Kenya.", "inStock": true},
-  {"id": 4603, "sku": null, "name": "HP 80A Black Original Laserjet Toner Cartridge (CF280A)", "brand": "HP", "category": "Inks & Toner Cartridges", "price": 6000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2025/07/HP-80A-Black-Original-LaserJet-Toner-Cartridge.png", "imageFile": "HP-80A-Black-Original-LaserJet-Toner-Cartridge.png", "description": "Compatible with: HP LaserJet Pro 400 M401 models: M401a, M401d, M401dn, M401dne, M401dw, M401n HP LaserJet Pro 400 MFP M425 models: M425dn, M425dw", "inStock": true},
+  {"id": 4603, "sku": null, "name": "HP 80A Black Original Laserjet Toner Cartridge (CF280A)", "brand": "HP", "category": "Inks & Toner Cartridges", "price": 6000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2025/07/HP-80A-Black-Original-LaserJet-Toner-Cartridge.png", "imageFile": "HP-80A-Black-Original-LaserJet-Toner-Cartridge.png", "description": `The HP 80A Black Original Laserjet Toner Cartridge (CF280A) provides crisp black document output for HP LaserJet Pro 400 series printers. Engineered for dark text, clear graphic rendering, and trouble-free continuous operation across Kenya.
+
+## Compatible printers
+HP LaserJet Pro 400 M401a / M401d / M401dn / M401dw / M401n
+HP LaserJet Pro 400 MFP M425dn / M425dw
+If your printer model isn't listed, send us the number from the front panel and we'll confirm before you pay.
+
+## Specifications
+| Page yield | Part type | Colour | Part number | Genuine or compatible |
+|---|---|---|---|---|
+| ~2,700 pages | Laser Toner Cartridge | Black | CF280A / HP 80A | Genuine / Compatible |
+
+## Genuine or compatible?
+Covers OEM Genuine HP supplies as well as high-capacity Compatible alternatives.
+
+## Why buy from Trinatech
+Stock held in Nairobi CBD. Delivery across Kenya including Kisumu, Nakuru, Eldoret, and Mombasa. M-Pesa and bank transfer accepted. WhatsApp ordering and walk-in options at The One Mall, River Road.
+
+## Getting the most from this product
+Pull out the full length of the orange sealing tape before seating into the toner tray.
+
+## Frequently asked questions
+What is the page yield? ~2,700 standard pages.
+How fast is Nairobi delivery? Same-day inside 1 to 3 hours.
+How do I pay? Pay via M-Pesa Buy Goods/Till or bank transfer.
+Is warranty provided? Covered against factory defects.`, "metaTitle": "HP 80A Black Original LaserJet Toner (CF280A)", "metaDescription": "Shop genuine HP 80A Black toner cartridge (CF280A) in Nairobi. Yields ~2,700 pages for LaserJet Pro 400 M401, MFP M425. Fast delivery.", "inStock": true},
   {"id": 5063, "sku": "CE280A", "name": "HP 80A Black Toner Laserjet (CE280A)", "brand": "HP", "category": "HP Original Toners", "price": 6000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/HP-80A-Black-Toner-Laserjet-CE280A-scaled.webp", "imageFile": "HP-80A-Black-Toner-Laserjet-CE280A-scaled.webp", "description": `The HP 80A black toner cartridge is the genuine Original HP replacement, part number CF280A, for the HP LaserJet Pro 400 M401 series and the MFP M425. These were fast, well-built business mono lasers and a good number are still doing daily duty in Kenyan offices.
 
 ## Compatible printers

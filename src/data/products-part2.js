@@ -4330,7 +4330,32 @@ What is the page yield? ~2,100 standard pages.
 How fast is Nairobi shipping? Same-day inside 1 to 3 hours.
 How can I pay? Pay via M-Pesa or bank transfer.
 Is warranty provided? Covered against factory defects.`, "metaTitle": "HP 415A Magenta Original LaserJet Toner (W2033A)", "metaDescription": "Order genuine HP 415A Magenta toner cartridge (W2033A) in Nairobi. Yields ~2,100 pages for Color LaserJet Pro M454, MFP M479. Fast delivery.", "inStock": true},
-  {"id": 5100, "sku": "W2030A", "name": "HP 415A Yellow Toner Laserjet (W2030A)", "brand": "HP", "category": "HP Original Toners", "price": 11000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/HP-415A-Yellow-Toner-Laserjet-W2030A-scaled.webp", "imageFile": "HP-415A-Yellow-Toner-Laserjet-W2030A-scaled.webp", "description": "HP 415A YELLOW TONER LASERJET (W2030A", "inStock": true},
+  {"id": 5100, "sku": "W2030A", "name": "HP 415A Yellow Toner Laserjet (W2030A)", "brand": "HP", "category": "HP Original Toners", "price": 11000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/HP-415A-Yellow-Toner-Laserjet-W2030A-scaled.webp", "imageFile": "HP-415A-Yellow-Toner-Laserjet-W2030A-scaled.webp", "description": `The HP 415A Yellow Toner Laserjet (W2032A) supplies authentic yellow color toner for HP Color LaserJet Pro 400 series printers. Engineered with JetIntelligence to deliver vibrant yellow tones, crisp color rendering, and energy-efficient operation in Nairobi.
+
+## Compatible printers
+HP Color LaserJet Pro M454dn / M454dw
+HP Color LaserJet Pro MFP M479dw / M479fdn / M479fdw / M479fnw
+If your printer model isn't listed, send us the number from the front panel and we'll confirm before you pay.
+
+## Specifications
+| Page yield | Part type | Colour | Part number | Genuine or compatible |
+|---|---|---|---|---|
+| ~2,100 pages | Laser Toner Cartridge | Yellow | W2032A / HP 415A | Genuine / Compatible |
+
+## Genuine or compatible?
+Covers OEM Genuine HP toner cartridges as well as cost-effective Compatible options.
+
+## Why buy from Trinatech
+Stock held in Nairobi CBD. Delivery across Kenya including Kisumu, Nakuru, Eldoret, and Mombasa. M-Pesa and bank transfer accepted. WhatsApp ordering and walk-in options at The One Mall, River Road.
+
+## Getting the most from this product
+Remove the protective plastic shield before seating into the yellow toner tray slot.
+
+## Frequently asked questions
+What is the page yield? ~2,100 pages based on ISO standards.
+How fast is Nairobi delivery? Delivered within 1 to 3 hours in Nairobi.
+How do I pay? Pay via M-Pesa Buy Goods/Till or bank transfer.
+Is warranty provided? Covered against factory defects.`, "metaTitle": "HP 415A Yellow Original LaserJet Toner (W2032A)", "metaDescription": "Buy genuine HP 415A Yellow toner cartridge (W2032A) in Nairobi. Yields ~2,100 pages for Color LaserJet Pro M454, MFP M479. Fast delivery.", "inStock": true},
   {"id": 5099, "sku": "Q5942", "name": "HP 42A Black Toner Original Laserjet (Q5942)", "brand": "HP", "category": "HP Original Toners", "price": 13000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/HP-42A-Black-Toner-Original-Laserjet-Q5942-scaled.webp", "imageFile": "HP-42A-Black-Toner-Original-Laserjet-Q5942-scaled.webp", "description": `The HP 42A black toner cartridge is the genuine Original HP replacement, part number Q5942A, for the HP LaserJet 4240, 4250 and 4350 series. These are heavy-duty departmental mono lasers, and at 10,000 pages the cartridge is sized for the volume those machines were built to handle.
 
 ## Compatible printers

@@ -822,7 +822,39 @@ What is the delivery time? Expect same-day delivery in Nairobi CBD, and next-day
 What is your warranty or returns policy? We support standard manufacturer warranties on all sealed genuine supplies.
 Will the machine stop when toner is low? It will warn you first, allowing you to print a few more pages before it halts entirely.`, "metaTitle": "Canon C-EXV43 Black Original Toner Cartridge", "metaDescription": "Genuine Canon C-EXV43 black toner (2788B002), approx 15,200 pages, for imageRUNNER ADVANCE 400i, 500i series. Reliable delivery across Kenya.", "inStock": true},
   {"id": 5511, "sku": null, "name": "Canon C-Exv 51L Cym Toner Cartridges Each", "brand": "Canon", "category": "Canon Toners", "price": 5000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/Canon-C-Exv-51L-Cym-Toner-Cartridges-Each.webp", "imageFile": "Canon-C-Exv-51L-Cym-Toner-Cartridges-Each.webp", "description": "CANON C-EXV 51L CYM TONER CARTRIDGES EACH", "inStock": true},
-  {"id": 5510, "sku": null, "name": "Canon C-Exv 54 Toners Each Bcmy", "brand": "Canon", "category": "Canon Toners", "price": 3000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/Canon-C-Exv-54-Toners-Each-Bcmy-1.webp", "imageFile": "Canon-C-Exv-54-Toners-Each-Bcmy-1.webp", "description": "CANON C-EXV 54 TONERS EACH BCMY", "inStock": true},
+  {"id": 5510, "sku": null, "name": "Canon C-Exv 54 Toners Each Bcmy", "brand": "Canon", "category": "Canon Toners", "price": 3000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/Canon-C-Exv-54-Toners-Each-Bcmy-1.webp", "imageFile": "Canon-C-Exv-54-Toners-Each-Bcmy-1.webp", "description": `The Canon C-EXV 54 Color & Black Toner Cartridge series (Black, Cyan, Magenta, Yellow) supplies high-definition toner for Canon imageRUNNER Advance multifunction copiers. Formulated for heavy document workflows, sharp text density, and smooth color graphics across corporate offices in Nairobi.
+
+## Compatible printers
+Canon imageRUNNER C3025i
+Canon imageRUNNER C3125i
+Canon imageRUNNER C3226i
+Canon imageRUNNER ADVANCE C3025i
+If your model isn't listed, send us the number from the front of the machine and we'll confirm before you pay.
+
+## Specifications
+| Page yield | Cartridge type | Colour | Capacity | Part number | Genuine or compatible |
+|---|---|---|---|---|---|
+| ~15,500 BK / 8,500 CMY | Toner Cartridge | Black, Cyan, Magenta, Yellow | High Capacity | 1394C002 / 1395C002 / 1396C002 / 1397C002 | Genuine |
+
+## Genuine or compatible?
+Genuine Original Canon toner cartridge. Royal compatible brand alternatives fit the same copiers at a lower cost, providing significant savings on routine office printing.
+
+## Why buy from Trinatech
+Stock held in Nairobi CBD.
+Delivery across Kenya including Kisumu, Nakuru, Eldoret, and Mombasa.
+M-Pesa and bank transfer accepted.
+WhatsApp ordering and walk-in options at The One Mall, River Road.
+
+## Getting the most from this cartridge
+Store cartridges horizontally in ambient room temperature.
+Rotate the bottle gently before insertion into the corresponding copier bay to loosen settled toner powder.
+
+## Frequently asked questions
+Is an XL version available? Standard yield provides ~15,500 pages for Black and ~8,500 pages for Color.
+Are all four colors required? Yes, active cartridges in all four color slots (K, C, M, Y) are mandatory for printer operation.
+How fast is Nairobi delivery? Same-day delivery within 1 to 3 hours across Nairobi CBD.
+How can I pay? Pay via M-Pesa Buy Goods/Till, bank wire, or cash at counter.
+Are colors sold individually? Yes, priced separately per color unit.`, "metaTitle": "Canon C-EXV 54 Toner Cartridge Price in Kenya - Trinatech", "metaDescription": "Buy genuine Canon C-EXV 54 black, cyan, magenta, yellow toner in Nairobi. High yield for imageRUNNER C3025i. Fast delivery across Kenya.", "inStock": true},
   {"id": 5543, "sku": null, "name": "Canon CL-41 Color Ink Original Cartridge Each", "brand": "Canon", "category": "Canon Ink Cartridges", "price": 1700, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/Canon-CL-41-Color-Ink-Original-Cartridge-Each.webp", "imageFile": "Canon-CL-41-Color-Ink-Original-Cartridge-Each.webp", "description": "CANON CL-41 COLOR INK ORIGINAL CARTRIDGE EACH", "inStock": true},
   {"id": 5542, "sku": "CL-441", "name": "Canon CL-441 Color Ink Original Cartridge", "brand": "Canon", "category": "Canon Ink Cartridges", "price": 2200, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/Canon-CL-441-Color-Ink-Original-Cartridge.webp", "imageFile": "Canon-CL-441-Color-Ink-Original-Cartridge.webp", "description": "CANON CL-441 COLOR INK ORIGINAL CARTRIDGE", "inStock": true},
   {"id": 5541, "sku": "CL-446", "name": "Canon CL-446 Color Ink Original Cartridge", "brand": "Canon", "category": "Canon Ink Cartridges", "price": 2200, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/Canon-CL-446-Color-Ink-Original-Cartridge.webp", "imageFile": "Canon-CL-446-Color-Ink-Original-Cartridge.webp", "description": "CANON CL-446 COLOR INK ORIGINAL CARTRIDGE", "inStock": true},
@@ -847,22 +879,394 @@ Will the machine stop when toner is low? It will warn you first, allowing you to
   {"id": 5524, "sku": "GI-2400X-2", "name": "Canon PGI-2400XL Magenta Ink Cartridge", "brand": "Canon", "category": "Canon Ink Cartridges", "price": 3500, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/Canon-PGI-2400XL-Magenta-Ink-Cartridge.webp", "imageFile": "Canon-PGI-2400XL-Magenta-Ink-Cartridge.webp", "description": "CANON PGI-2400XL MAGENTA INK CARTRIDGE", "inStock": true},
   {"id": 5523, "sku": "GI-2400X", "name": "Canon PGI-2400XL Yellow Ink Cartridge", "brand": "Canon", "category": "Canon Ink Cartridges", "price": 3500, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/Canon-PGI-2400XL-Yellow-Ink-Cartridge.webp", "imageFile": "Canon-PGI-2400XL-Yellow-Ink-Cartridge.webp", "description": "CANON PGI-2400XL YELLOW INK CARTRIDGE", "inStock": true},
   {"id": 5522, "sku": null, "name": "Canon PGI-35 Black Ink Original Cartridge", "brand": "Canon", "category": "Canon Ink Cartridges", "price": 3500, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/Canon-PGI-35-Black.png", "imageFile": "Canon-PGI-35-Black.png", "description": "CANON PGI-35 BLACK INK ORIGINAL CARTRIDGE", "inStock": true},
-  {"id": 4341, "sku": null, "name": "Canon Pixma CL-411 Color Ink Cartridge", "brand": "Canon", "category": "Inks & Toner Cartridges", "price": 2400, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2025/01/Canon-Pixma-CL-411-Color-Ink.png", "imageFile": "Canon-Pixma-CL-411-Color-Ink.png", "description": "The Canon Pixma CL-411 Color Ink Cartridge is the perfect choice for those who need vibrant, high-quality color prints without the high price tag.", "inStock": true},
-  {"id": 4347, "sku": null, "name": "Canon Pixma CL-446 Color Ink Cartridge", "brand": "Canon", "category": "Inks & Toner Cartridges", "price": 2300, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2025/01/Canon-Pixma-CL-446-Cartridge.png", "imageFile": "Canon-Pixma-CL-446-Cartridge.png", "description": "The Canon Pixma CL-446 Color Ink Cartridge delivers rich, vibrant color prints.", "inStock": true},
-  {"id": 4334, "sku": null, "name": "Canon Pixma CL-511 Color Ink Cartridge", "brand": "Canon", "category": "Inks & Toner Cartridges", "price": 2300, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2025/01/Canon-CL-511-Ink-Cartridge.png", "imageFile": "Canon-CL-511-Ink-Cartridge.png", "description": "The Canon Pixma CL-511 Color Ink Cartridge is the perfect choice for users looking to print vibrant, high-quality color documents and photos.", "inStock": true},
-  {"id": 4353, "sku": null, "name": "Canon Pixma CL-56 Color Ink Cartridge", "brand": "Canon", "category": "Inks & Toner Cartridges", "price": 2400, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2025/01/Canon-Pixma-CL-56-Color-Cartridge.png", "imageFile": "Canon-Pixma-CL-56-Color-Cartridge.png", "description": "The Canon Pixma CL-56 Color Ink Cartridge is designed for users who need to produce high-quality, color-rich prints at home or in the office.", "inStock": true},
+  {"id": 4341, "sku": null, "name": "Canon Pixma CL-411 Color Ink Cartridge", "brand": "Canon", "category": "Inks & Toner Cartridges", "price": 2400, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2025/01/Canon-Pixma-CL-411-Color-Ink.png", "imageFile": "Canon-Pixma-CL-411-Color-Ink.png", "description": `The Canon Pixma CL-41 Color Ink Cartridge delivers bright Cyan, Magenta, and Yellow dye-based inks for Canon desktop Pixma inkjet printers. Ideal for crisp photo prints, school projects, and vibrant color graphics across Kenya.
+
+## Compatible printers
+Canon Fax JX200
+Canon Fax JX300
+Canon Fax JX500
+Canon PIXMA iP1200
+Canon PIXMA iP1300
+Canon PIXMA iP1600
+Canon PIXMA iP1700
+Canon PIXMA iP1800
+Canon PIXMA iP1900
+Canon PIXMA iP2200
+Canon PIXMA iP2500
+Canon PIXMA iP2600
+Canon PIXMA MP140
+Canon PIXMA MP150
+Canon PIXMA MP160
+Canon PIXMA MP170
+Canon PIXMA MP180
+Canon PIXMA MP190
+Canon PIXMA MP210
+Canon PIXMA MP220
+Canon PIXMA MP450
+Canon PIXMA MP460
+Canon PIXMA MP470
+Canon PIXMA MX300
+Canon PIXMA MX310
+and other models in the same series — send us your model number and we'll confirm.
+If your model isn't listed, send us the number from the front of the machine and we'll confirm before you pay.
+
+## Specifications
+| Page yield | Cartridge type | Colour | Capacity | Part number | Genuine or compatible |
+|---|---|---|---|---|---|
+| ~312 pages | Ink Cartridge | Cyan, Magenta, Yellow (Tri-color) | 12 ml | 0617B001 / CL-41 | Genuine |
+
+## Genuine or compatible?
+Genuine Original Canon FINE ink cartridge. Royal compatible alternatives are available upon request for low-cost everyday color printing.
+
+## Why buy from Trinatech
+Stock held in Nairobi CBD.
+Delivery across Kenya including Kisumu, Nakuru, Eldoret, and Mombasa.
+M-Pesa and bank transfer accepted.
+WhatsApp ordering and walk-in options at The One Mall, River Road.
+
+## Getting the most from this cartridge
+Keep protective nozzle tape intact until right before loading.
+Run a printhead alignment check after replacement if text alignment appears jagged.
+
+## Frequently asked questions
+Is a high-yield XL version available? Yes, high-capacity CL-51 ink cartridges fit the same printers for longer print runs.
+Do I need a black cartridge as well? Yes, your printer requires both a black (PG-40/PG-37) and color cartridge installed to operate.
+What is delivery time to Mombasa? Delivered within 24 hours via courier services.
+How do I pay? M-Pesa, bank wire, or cash at counter.
+Is warranty provided? Standard shop defect warranty covers unopened cartridges.`, "metaTitle": "Canon CL-41 Color Ink Cartridge Price - Trinatech Kenya", "metaDescription": "Order genuine Canon Pixma CL-41 tri-color ink cartridge in Nairobi. Yields ~312 pages for iP1800, MP140, MP160. Fast shipping in Kenya.", "inStock": true},
+  {"id": 4347, "sku": null, "name": "Canon Pixma CL-446 Color Ink Cartridge", "brand": "Canon", "category": "Inks & Toner Cartridges", "price": 2300, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2025/01/Canon-Pixma-CL-446-Cartridge.png", "imageFile": "Canon-Pixma-CL-446-Cartridge.png", "description": `The Canon Pixma CL-446 Color Ink Cartridge is an authentic FINE tri-color cartridge built for compact home Pixma all-in-one printers. Formulated to produce clear, vivid photos and sharp colorful documents for home offices in Nairobi.
+
+## Compatible printers
+Canon PIXMA iP2840
+Canon PIXMA MG2440
+Canon PIXMA MG2540
+Canon PIXMA MG2540S
+Canon PIXMA MG2545S
+Canon PIXMA MG2940
+Canon PIXMA MG3040
+Canon PIXMA MX494
+Canon PIXMA TS204
+Canon PIXMA TS304
+Canon PIXMA TS3140
+Canon PIXMA TS3340
+Canon PIXMA TS3440
+If your model isn't listed, send us the number from the front of the machine and we'll confirm before you pay.
+
+## Specifications
+| Page yield | Cartridge type | Colour | Capacity | Part number | Genuine or compatible |
+|---|---|---|---|---|---|
+| ~180 pages | Ink Cartridge | Cyan, Magenta, Yellow (Tri-color) | 9 ml | 8286B001 / CL-446 | Genuine |
+
+## Genuine or compatible?
+Genuine Original Canon ink cartridge. Royal compatible color cartridges offer budget savings while fitting the same printer carriage.
+
+## Why buy from Trinatech
+Stock held in Nairobi CBD.
+Delivery across Kenya including Kisumu, Nakuru, Eldoret, and Mombasa.
+M-Pesa and bank transfer accepted.
+WhatsApp ordering and walk-in options at The One Mall, River Road.
+
+## Getting the most from this cartridge
+Do not touch the gold electrical contacts or printhead nozzles during handling.
+Store in upright position in cool surroundings.
+
+## Frequently asked questions
+Is an XL version available? Yes, Canon CL-446XL yields ~300 pages for high-volume users.
+Is black ink required? Yes, the printer operates with both PG-445 Black and CL-446 Color cartridges loaded.
+How fast is Nairobi delivery? Delivered within 1 to 3 hours in Nairobi.
+How do I order via WhatsApp? Send your order details directly to our shop contact number.
+Is it easily replaced? Yes, uses a simple drop-in snap-lock lever.`, "metaTitle": "Canon CL-446 Color Ink Cartridge Price - Trinatech Kenya", "metaDescription": "Buy genuine Canon CL-446 color ink cartridge in Nairobi. Yields ~180 pages for IP2840, MG2540, TS3340. Fast Kenya delivery & M-Pesa.", "inStock": true},
+  {"id": 4334, "sku": null, "name": "Canon Pixma CL-511 Color Ink Cartridge", "brand": "Canon", "category": "Inks & Toner Cartridges", "price": 2300, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2025/01/Canon-CL-511-Ink-Cartridge.png", "imageFile": "Canon-CL-511-Ink-Cartridge.png", "description": `The Canon Pixma CL-511 Color Ink Cartridge supplies original Canon ChromaLife100 ink for everyday document and photo printing. Provides rich color reproduction and fade resistance for desktop printing in Kenya.
+
+## Compatible printers
+Canon PIXMA iP2700
+Canon PIXMA iP2702
+Canon PIXMA MP230
+Canon PIXMA MP240
+Canon PIXMA MP250
+Canon PIXMA MP260
+Canon PIXMA MP270
+Canon PIXMA MP280
+Canon PIXMA MP480
+Canon PIXMA MP490
+Canon PIXMA MP492
+Canon PIXMA MP495
+Canon PIXMA MX320
+Canon PIXMA MX330
+Canon PIXMA MX340
+Canon PIXMA MX350
+Canon PIXMA MX360
+Canon PIXMA MX410
+Canon PIXMA MX420
+If your model isn't listed, send us the number from the front of the machine and we'll confirm before you pay.
+
+## Specifications
+| Page yield | Cartridge type | Colour | Capacity | Part number | Genuine or compatible |
+|---|---|---|---|---|---|
+| ~244 pages | Ink Cartridge | Cyan, Magenta, Yellow (Tri-color) | 9 ml | 2972B001 / CL-511 | Genuine |
+
+## Genuine or compatible?
+Original Genuine Canon ink unit. Royal compatible brand cartridges are available at a lower price point for budget-minded operations.
+
+## Why buy from Trinatech
+Stock held in Nairobi CBD.
+Delivery across Kenya including Kisumu, Nakuru, Eldoret, and Mombasa.
+M-Pesa and bank transfer accepted.
+WhatsApp ordering and walk-in options at The One Mall, River Road.
+
+## Getting the most from this cartridge
+Avoid leaving open cartridges outside the machine to prevent nozzle drying.
+Print at least once a week to keep ink flowing smoothly.
+
+## Frequently asked questions
+Is an XL alternative available? Yes, Canon CL-513 offers a higher yield of ~349 pages.
+Do I need black ink too? Yes, requires a PG-510 or PG-512 Black cartridge to print.
+How fast is delivery in Kenya? Same-day inside Nairobi; 24 hours upcountry.
+What payment options exist? M-Pesa Buy Goods/Till, bank wire, or cash.
+Is warranty included? Standard return policy applies to factory defects.`, "metaTitle": "Canon CL-511 Color Ink Cartridge - Trinatech Kenya", "metaDescription": "Shop genuine Canon CL-511 tri-color ink cartridge in Nairobi. Yields ~244 pages for MP230, MP250, IP2700. Fast shipping across Kenya.", "inStock": true},
+  {"id": 4353, "sku": null, "name": "Canon Pixma CL-56 Color Ink Cartridge", "brand": "Canon", "category": "Inks & Toner Cartridges", "price": 2400, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2025/01/Canon-Pixma-CL-56-Color-Cartridge.png", "imageFile": "Canon-Pixma-CL-56-Color-Cartridge.png", "description": `The Canon Pixma CL-56 Color Ink Cartridge is designed for Canon's E-series Efficient Inkjet printers. Delivers vibrant color photos, clear graphics, and reliable page yields for cost-conscious home and office printing across Kenya.
+
+## Compatible printers
+Canon PIXMA E141
+Canon PIXMA E404
+Canon PIXMA E414
+Canon PIXMA E464
+Canon PIXMA E474
+Canon PIXMA E484
+If your model isn't listed, send us the number from the front of the machine and we'll confirm before you pay.
+
+## Specifications
+| Page yield | Cartridge type | Colour | Capacity | Part number | Genuine or compatible |
+|---|---|---|---|---|---|
+| ~300 pages | Ink Cartridge | Cyan, Magenta, Yellow (Tri-color) | 12.6 ml | 9072B001 / CL-56 | Genuine |
+
+## Genuine or compatible?
+Genuine Original Canon supply unit. Royal compatible equivalent cartridges fit the same E-series models at lower cost for maximum savings.
+
+## Why buy from Trinatech
+Stock held in Nairobi CBD.
+Delivery across Kenya including Kisumu, Nakuru, Eldoret, and Mombasa.
+M-Pesa and bank transfer accepted.
+WhatsApp ordering and walk-in options at The One Mall, River Road.
+
+## Getting the most from this cartridge
+Remove the protective orange plastic cap and seal strip cleanly.
+Insert firmly into the color slot until the locking clip clicks.
+
+## Frequently asked questions
+Is an XL version available? CL-56 is already an extended high-yield cartridge tailored for E-series printers.
+Is black ink required? Yes, must be paired with PG-46 Black ink cartridge.
+What is Nairobi delivery speed? 1 to 3 hours across Nairobi CBD.
+How can I pay? Pay via M-Pesa or bank wire transfer.
+Is it genuine Canon? Yes, genuine sealed Canon product.`, "metaTitle": "Canon CL-56 Color Ink Cartridge Price - Trinatech Kenya", "metaDescription": "Buy Canon Pixma CL-56 color ink cartridge in Nairobi. Yields ~300 pages for E404, E414, E474, E484. Fast delivery across Kenya.", "inStock": true},
   {"id": 4461, "sku": null, "name": "Canon Pixma G3420 Printer", "brand": "Canon", "category": "Printers & Copiers", "price": 29000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2025/01/Canon-PIXMA-G3420.png", "imageFile": "Canon-PIXMA-G3420.png", "description": "The Canon PIXMA G3420 Printer is an advanced all-in-one solution that offers print, scan, and copy functions.", "inStock": true},
   {"id": 4464, "sku": null, "name": "Canon Pixma G3430 Printer", "brand": "Canon", "category": "Printers & Copiers", "price": 31000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2025/01/Canon-PIXMA-G3430.png", "imageFile": "Canon-PIXMA-G3430.png", "description": "The Canon PIXMA G3430 Printer is a powerful all-in-one device designed for home offices and small businesses.", "inStock": true},
   {"id": 4467, "sku": null, "name": "Canon Pixma G640 Printer", "brand": "Canon", "category": "Printers & Copiers", "price": 48000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2025/01/Canon-PIXMA-G640.png", "imageFile": "Canon-PIXMA-G640.png", "description": "The Canon PIXMA G640 Printer is an advanced all-in-one printer designed for photo enthusiasts and everyday users.", "inStock": true},
   {"id": 4458, "sku": null, "name": "Canon Pixma MG2550S Printer", "brand": "Canon", "category": "Printers & Copiers", "price": 25000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2025/01/Canon-PIXMA-MG2550S.png", "imageFile": "Canon-PIXMA-MG2550S.png", "description": "The Canon PIXMA MG2550S is a reliable and affordable all-in-one printer designed for everyday home use.", "inStock": true},
-  {"id": 4337, "sku": null, "name": "Canon Pixma PG-440 Black Ink Cartridge", "brand": "Canon", "category": "Inks & Toner Cartridges", "price": 2400, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2025/01/Canon-Pixma-PG-440-Black-Ink.png", "imageFile": "Canon-Pixma-PG-440-Black-Ink.png", "description": "The Canon Pixma PG-440 Black Ink Cartridge is designed to meet your everyday printing needs while delivering consistent, professional results.", "inStock": true},
-  {"id": 4344, "sku": null, "name": "Canon Pixma PG-445 Black Ink Cartridge", "brand": "Canon", "category": "Inks & Toner Cartridges", "price": 2400, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2025/01/Canon-Pixma-PG-445-Ink.png", "imageFile": "Canon-Pixma-PG-445-Ink.png", "description": "Compatible with: PIXMA MG-series: MG 2440, 2540, 2540S, 2545, 2940, 3040 PIXMA iP-series: iP 2840, 2845 PIXMA MX494 PIXMA TS-series: TS 204, 304, 3140, TR 4540, TR 3340, TR 4640", "inStock": true},
-  {"id": 4350, "sku": null, "name": "Canon Pixma PG-46 Black Ink Cartridge", "brand": "Canon", "category": "Inks & Toner Cartridges", "price": 2300, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2025/01/Canon-Pixma-PG-46-Cartridge.png", "imageFile": "Canon-Pixma-PG-46-Cartridge.png", "description": "The Canon Pixma PG-46 Black Ink Cartridge is designed for users who want high-quality, consistent black printing results.", "inStock": true},
-  {"id": 4329, "sku": null, "name": "Canon Pixma PG-510 Black Ink Cartridge", "brand": "Canon", "category": "Inks & Toner Cartridges", "price": 2300, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2025/01/Canon-PG-510-Black-Ink.png", "imageFile": "Canon-PG-510-Black-Ink.png", "description": "The Canon Pixma PG-510 Black Ink Cartridge offers an excellent solution for individuals or small businesses looking for an affordable, reliable ink cartridge.", "inStock": true},
+  {"id": 4337, "sku": null, "name": "Canon Pixma PG-440 Black Ink Cartridge", "brand": "Canon", "category": "Inks & Toner Cartridges", "price": 2400, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2025/01/Canon-Pixma-PG-440-Black-Ink.png", "imageFile": "Canon-Pixma-PG-440-Black-Ink.png", "description": `The Canon Pixma PG-440 Black Ink Cartridge uses pigment black ink to produce laser-sharp text and clear contract lines. Built for everyday document printing on compact Canon Pixma desktop all-in-ones in Nairobi.
+
+## Compatible printers
+Canon PIXMA MG2140
+Canon PIXMA MG2240
+Canon PIXMA MG3140
+Canon PIXMA MG3240
+Canon PIXMA MG3540
+Canon PIXMA MG3640
+Canon PIXMA MG3640S
+Canon PIXMA MG4140
+Canon PIXMA MG4240
+Canon PIXMA MX374
+Canon PIXMA MX394
+Canon PIXMA MX434
+Canon PIXMA MX454
+Canon PIXMA MX474
+Canon PIXMA MX514
+Canon PIXMA MX524
+Canon PIXMA MX534
+If your model isn't listed, send us the number from the front of the machine and we'll confirm before you pay.
+
+## Specifications
+| Page yield | Cartridge type | Colour | Capacity | Part number | Genuine or compatible |
+|---|---|---|---|---|---|
+| ~180 pages | Ink Cartridge | Black | 8 ml | 5219B001 / PG-440 | Genuine |
+
+## Genuine or compatible?
+Genuine Original Canon product. Royal compatible black cartridges are also available to lower cost per page for high-volume office printing.
+
+## Why buy from Trinatech
+Stock held in Nairobi CBD.
+Delivery across Kenya including Kisumu, Nakuru, Eldoret, and Mombasa.
+M-Pesa and bank transfer accepted.
+WhatsApp ordering and walk-in options at The One Mall, River Road.
+
+## Getting the most from this cartridge
+Store horizontally in original packaging.
+Do not touch electrical contacts with fingers to avoid connection faults.
+
+## Frequently asked questions
+Is an XL version available? Yes, Canon PG-440XL (~600 pages) is available for heavy printing.
+Are color inks needed? Yes, requires CL-441 color cartridge loaded in the printer.
+How long does shipping take? Same-day inside Nairobi; 24 hours upcountry.
+How do I pay? Pay via M-Pesa Buy Goods/Till or bank transfer.
+Is warranty provided? Covered against factory defects.`, "metaTitle": "Canon PG-440 Black Ink Cartridge Price - Trinatech Kenya", "metaDescription": "Order genuine Canon PG-440 black ink cartridge in Nairobi. Yields ~180 pages for MG2140, MG3140, MX374. Fast delivery & M-Pesa.", "inStock": true},
+  {"id": 4344, "sku": null, "name": "Canon Pixma PG-445 Black Ink Cartridge", "brand": "Canon", "category": "Inks & Toner Cartridges", "price": 2400, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2025/01/Canon-Pixma-PG-445-Ink.png", "imageFile": "Canon-Pixma-PG-445-Ink.png", "description": `The Canon Pixma PG-445 Black Ink Cartridge is an original pigment black cartridge engineered for everyday desktop text documents. Provides crisp legibility, smudge resistance, and dependable performance across Kenya.
+
+## Compatible printers
+Canon PIXMA iP2840
+Canon PIXMA MG2440
+Canon PIXMA MG2540
+Canon PIXMA MG2540S
+Canon PIXMA MG2545S
+Canon PIXMA MG2940
+Canon PIXMA MG3040
+Canon PIXMA MX494
+Canon PIXMA TS204
+Canon PIXMA TS304
+Canon PIXMA TS3140
+Canon PIXMA TS3340
+Canon PIXMA TS3440
+If your model isn't listed, send us the number from the front of the machine and we'll confirm before you pay.
+
+## Specifications
+| Page yield | Cartridge type | Colour | Capacity | Part number | Genuine or compatible |
+|---|---|---|---|---|---|
+| ~180 pages | Ink Cartridge | Black | 8 ml | 8283B001 / PG-445 | Genuine |
+
+## Genuine or compatible?
+Genuine Original Canon ink cartridge. Royal compatible alternatives fit the same printers at lower costs for budget-conscious users.
+
+## Why buy from Trinatech
+Stock held in Nairobi CBD.
+Delivery across Kenya including Kisumu, Nakuru, Eldoret, and Mombasa.
+M-Pesa and bank transfer accepted.
+WhatsApp ordering and walk-in options at The One Mall, River Road.
+
+## Getting the most from this cartridge
+Keep sealed in foil wrapper until ready to fit.
+Remove tape seal cleanly before sliding into the black cartridge bay.
+
+## Frequently asked questions
+Is an XL alternative available? Yes, Canon PG-445XL yields ~400 pages.
+Do I need color ink as well? Yes, printer requires CL-446 Color cartridge to print.
+What is Nairobi delivery lead time? 1 to 3 hours across Nairobi CBD.
+How can I pay? Pay via M-Pesa, bank wire, or cash at shop.
+Is chip included? Integrated FINE printhead chip comes pre-installed.`, "metaTitle": "Canon PG-445 Black Ink Cartridge - Trinatech Kenya", "metaDescription": "Buy genuine Canon PG-445 black ink cartridge in Nairobi. Yields ~180 pages for MG2540, TS3340, IP2840. Fast shipping across Kenya.", "inStock": true},
+  {"id": 4350, "sku": null, "name": "Canon Pixma PG-46 Black Ink Cartridge", "brand": "Canon", "category": "Inks & Toner Cartridges", "price": 2300, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2025/01/Canon-Pixma-PG-46-Cartridge.png", "imageFile": "Canon-Pixma-PG-46-Cartridge.png", "description": `The Canon Pixma PG-46 Black Ink Cartridge powers Canon Ink Efficient E-series printers with low-cost, high-yield pigment black ink. Engineered to produce crisp, dark text documents for office and academic work in Kenya.
+
+## Compatible printers
+Canon PIXMA E141
+Canon PIXMA E404
+Canon PIXMA E414
+Canon PIXMA E464
+Canon PIXMA E474
+Canon PIXMA E484
+If your model isn't listed, send us the number from the front of the machine and we'll confirm before you pay.
+
+## Specifications
+| Page yield | Cartridge type | Colour | Capacity | Part number | Genuine or compatible |
+|---|---|---|---|---|---|
+| ~400 pages | Ink Cartridge | Black | 15 ml | 9071B001 / PG-46 | Genuine |
+
+## Genuine or compatible?
+Original Genuine Canon supply unit. Royal compatible brand cartridges are available at reduced cost to cut page printing expenses.
+
+## Why buy from Trinatech
+Stock held in Nairobi CBD.
+Delivery across Kenya including Kisumu, Nakuru, Eldoret, and Mombasa.
+M-Pesa and bank transfer accepted.
+WhatsApp ordering and walk-in options at The One Mall, River Road.
+
+## Getting the most from this cartridge
+Store in cool, dry conditions away from direct heat.
+Gently wipe nozzle with lint-free cloth if print text appears streaked.
+
+## Frequently asked questions
+Is an XL version available? PG-46 is already a high-capacity cartridge printing ~400 pages.
+Are color cartridges needed? Yes, pair with CL-56 Color ink cartridge.
+How fast is delivery in Nairobi? 1 to 3 hours within Nairobi CBD.
+How do I pay? Pay via M-Pesa or direct bank wire transfer.
+Is it easy to replace? Yes, simple drop-in FINE cartridge installation.`, "metaTitle": "Canon PG-46 Black Ink Cartridge Price - Trinatech Kenya", "metaDescription": "Shop genuine Canon PG-46 black ink cartridge in Nairobi. Yields ~400 pages for E404, E414, E474, E484. Fast Kenya-wide delivery.", "inStock": true},
+  {"id": 4329, "sku": null, "name": "Canon Pixma PG-510 Black Ink Cartridge", "brand": "Canon", "category": "Inks & Toner Cartridges", "price": 2300, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2025/01/Canon-PG-510-Black-Ink.png", "imageFile": "Canon-PG-510-Black-Ink.png", "description": `The Canon Pixma PG-510 Black Ink Cartridge provides sharp black text printing for classic Pixma desktop all-in-one printers. Formulated for high legibility and smudge-free results on plain paper across Kenya.
+
+## Compatible printers
+Canon PIXMA iP2700
+Canon PIXMA iP2702
+Canon PIXMA MP230
+Canon PIXMA MP240
+Canon PIXMA MP250
+Canon PIXMA MP260
+Canon PIXMA MP270
+Canon PIXMA MP280
+Canon PIXMA MP480
+Canon PIXMA MP490
+Canon PIXMA MP492
+Canon PIXMA MP495
+Canon PIXMA MX320
+Canon PIXMA MX330
+Canon PIXMA MX340
+Canon PIXMA MX350
+Canon PIXMA MX360
+Canon PIXMA MX410
+Canon PIXMA MX420
+If your model isn't listed, send us the number from the front of the machine and we'll confirm before you pay.
+
+## Specifications
+| Page yield | Cartridge type | Colour | Capacity | Part number | Genuine or compatible |
+|---|---|---|---|---|---|
+| ~220 pages | Ink Cartridge | Black | 9 ml | 2970B001 / PG-510 | Genuine |
+
+## Genuine or compatible?
+Genuine Original Canon ink cartridge. Royal compatible alternatives fit the same printers at lower costs for everyday budget printing.
+
+## Why buy from Trinatech
+Stock held in Nairobi CBD.
+Delivery across Kenya including Kisumu, Nakuru, Eldoret, and Mombasa.
+M-Pesa and bank transfer accepted.
+WhatsApp ordering and walk-in options at The One Mall, River Road.
+
+## Getting the most from this cartridge
+Store flat in original box until ready to use.
+Clean printhead contacts gently if printer fails to recognize cartridge after swap.
+
+## Frequently asked questions
+Is an XL version available? Yes, Canon PG-512 (~401 pages) is available for higher volume printing.
+Is color ink required? Yes, must be installed alongside CL-511 Color cartridge.
+How fast is Nairobi shipping? Delivered within 1 to 3 hours.
+How do I pay? Pay via M-Pesa, bank wire, or cash.
+Is warranty provided? Covered against technical defects.`, "metaTitle": "Canon PG-510 Black Ink Cartridge Price - Trinatech Kenya", "metaDescription": "Buy genuine Canon PG-510 black ink cartridge in Nairobi. Yields ~220 pages for MP230, MP250, IP2700. Fast delivery across Kenya.", "inStock": true},
   {"id": 4455, "sku": null, "name": "Canon Pixma TS3340 Printer", "brand": "Canon", "category": "Printers & Copiers", "price": 9000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2025/01/Canon-PIXMA-TS3340.png", "imageFile": "Canon-PIXMA-TS3340.png", "description": "The Canon PIXMA TS3340 Printer is an affordable, all-in-one solution designed to meet the everyday printing, scanning, and copying needs of home users and small offices.", "inStock": true},
   {"id": 5286, "sku": null, "name": "Canon Premium Comp 490 Ink CMYK", "brand": "Canon", "category": "Master Rolls & Inks", "price": 400, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/Canon-Premium-Comp-490-Ink-CMYK.webp", "imageFile": "Canon-Premium-Comp-490-Ink-CMYK.webp", "description": "CANON PREMIUM COMP 490 INK CMYK", "inStock": true},
   {"id": 4356, "sku": null, "name": "Canon Print Head BH-4 Black", "brand": "Canon", "category": "Printer Parts", "price": 5000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2025/01/Canon-Print-Head-BH-4.png", "imageFile": "Canon-Print-Head-BH-4.png", "description": "The Canon Print Head BH-4 Black is an essential component for ensuring your Canon printer delivers high-quality black text and graphics with every print.", "inStock": true},
-  {"id": 5521, "sku": null, "name": "Canon Ts 3340", "brand": "Canon", "category": "Canon Toners", "price": 9000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/Canon-Ts-3340.webp", "imageFile": "Canon-Ts-3340.webp", "description": "canon ts 3340", "inStock": true},
+  {"id": 5521, "sku": null, "name": "Canon Ts 3340", "brand": "Canon", "category": "Canon Toners", "price": 9000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/Canon-Ts-3340.webp", "imageFile": "Canon-Ts-3340.webp", "description": `The Canon Ts 3340 (Canon PIXMA TS3340) is an affordable, compact wireless all-in-one printer for home offices and students. Offers convenient Wi-Fi printing, copying, and scanning from smartphones, tablets, and laptops across Kenya.
+
+## Compatible printers
+Canon PIXMA TS3340
+If your model isn't listed, send us the number from the front of the machine and we'll confirm before you pay.
+
+## Specifications
+| Page yield | Cartridge type | Colour | Capacity | Part number | Genuine or compatible |
+|---|---|---|---|---|---|
+| Uses PG-445 (~180 pgs) & CL-446 (~180 pgs) | All-in-One Inkjet Printer | Black & Color | A4 / Wireless | 3771C007 / TS3340 | Genuine Hardware |
+
+## Genuine or compatible?
+Genuine Original Canon hardware unit. Uses standard PG-445 black and CL-446 color cartridges; Royal compatible replacement cartridges fit this machine at lower prices.
+
+## Why buy from Trinatech
+Stock held in Nairobi CBD.
+Delivery across Kenya including Kisumu, Nakuru, Eldoret, and Mombasa.
+M-Pesa and bank transfer accepted.
+WhatsApp ordering and walk-in options at The One Mall, River Road.
+
+## Getting the most from this cartridge
+Position printer close to your Wi-Fi router for seamless wireless connectivity.
+Use Canon Print app on mobile devices for easy scanning and direct cloud document printing.
+
+## Frequently asked questions
+Does it support XL cartridges? Yes, supports high-yield PG-445XL and CL-446XL cartridges.
+Does it come with starter ink? Yes, factory setup starter cartridges are included in the box.
+How long does delivery take? Delivered within 1 to 3 hours in Nairobi; overnight upcountry.
+How can I pay? Pay via M-Pesa, bank transfer, or cash in shop.
+Does it print borderless photos? Yes, supports borderless photo printing up to 13x18cm.`, "metaTitle": "Canon PIXMA TS3340 All-in-One Printer - Trinatech Kenya", "metaDescription": "Order Canon PIXMA TS3340 wireless all-in-one printer in Nairobi. Print, copy, scan with Wi-Fi. Fast CBD delivery & M-Pesa.", "inStock": true},
   {"id": 5507, "sku": null, "name": "ROYAL Canon C-EXV29 Toner Value Each B/Cm/Y", "brand": "Canon", "category": "Canon Toners", "price": 5000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/Canon-C-EXV29-Toner-Value-Each-BCmY.webp", "imageFile": "Canon-C-EXV29-Toner-Value-Each-BCmY.webp", "description": "CANON C-EXV29 TONER VALUE EACH B/CM/Y", "inStock": true},
   {"id": 3511, "sku": null, "name": "Dell S2721HL 27-INCH Full Hd 8MS LCD Monitor", "brand": "Dell", "category": "Monitors", "price": 36000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2024/12/Dell-S2721HL-27-inch-Monitor.png", "imageFile": "Dell-S2721HL-27-inch-Monitor.png", "description": "The Dell S2721HL 27-inch Full HD LCD Monitor offers an impressive visual experience with its 27-inch screen and Full HD (1080p) resolution.", "inStock": true},
   {"id": 3485, "sku": null, "name": "Dell Vostro 3400 Core I3 4GB/1TB/14in Laptop", "brand": "Dell", "category": "Laptops", "price": 55000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2024/12/Dell-Vostro-3400-laptop.png", "imageFile": "Dell-Vostro-3400-laptop.png", "description": "The DELL Vostro 3400 Core i3 4GB/1TB/14in Laptop is a budget-friendly yet powerful device, designed to meet the needs of students, home users, and small businesses.", "inStock": true},

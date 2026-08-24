@@ -298,9 +298,93 @@ Do I need the other colours to print? Yes, Brother requires all cartridges to be
 What is the delivery time? Same-day within Nairobi CBD; overnight delivery for the rest of Kenya.
 What is your warranty or returns policy? Standard Brother warranties apply to all genuine, factory-sealed cartridges.
 Is the ink water-resistant? Yes, genuine Brother pigment ink is highly resistant to water and highlighter smears once dried on the page.`, "metaTitle": "Brother LC3719XL Black High Yield Ink Cartridge", "metaDescription": "Genuine Brother LC3719XL high-yield black ink, approx 3,000 pages, for MFC-J2330DW, MFC-J3930DW. Stocked locally in Nairobi.", "inStock": true},
-  {"id": 5352, "sku": "LC3719X-3", "name": "Brother LC3719XL Cyan Ink Cartridges", "brand": "Brother", "category": "Brother Inks Cartridges", "price": 3000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/Brother-LC3719XL-Cyan-Ink-Cartridges.webp", "imageFile": "Brother-LC3719XL-Cyan-Ink-Cartridges.webp", "description": "BROTHER LC3719XL CYAN INK CARTRIDGES", "inStock": true},
-  {"id": 5351, "sku": "LC3719X-2", "name": "Brother LC3719XL Magenta Ink Cartridges", "brand": "Brother", "category": "Brother Inks Cartridges", "price": 3000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/Brother-LC3719XL-Magenta-Ink-Cartridges.webp", "imageFile": "Brother-LC3719XL-Magenta-Ink-Cartridges.webp", "description": "BROTHER LC3719XL MAGENTA INK CARTRIDGES", "inStock": true},
-  {"id": 5350, "sku": "LC3719X", "name": "Brother LC3719XL Yellow Ink Cartridges", "brand": "Brother", "category": "Brother Inks Cartridges", "price": 3000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/Brother-LC3719XL-Yellow-Ink-Cartridges.webp", "imageFile": "Brother-LC3719XL-Yellow-Ink-Cartridges.webp", "description": "BROTHER LC3719XL YELLOW INK CARTRIDGES", "inStock": true},
+  {"id": 5352, "sku": "LC3719X-3", "name": "Brother LC3719XL Cyan Ink Cartridges", "brand": "Brother", "category": "Brother Inks Cartridges", "price": 3000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/Brother-LC3719XL-Cyan-Ink-Cartridges.webp", "imageFile": "Brother-LC3719XL-Cyan-Ink-Cartridges.webp", "description": `The Brother LC3719XL Cyan Ink Cartridge is an original super high-yield ink cartridge designed for Brother Business Inkjet multifunction printers. Engineered to produce bright, fade-resistant cyan tones and sharp graphic details for professional documents across Kenya.
+
+## Compatible printers
+Brother MFC-J2330DW
+Brother MFC-J2730DW
+Brother MFC-J3530DW
+Brother MFC-J3930DW
+If your model isn't listed, send us the number from the front of the machine and we'll confirm before you pay.
+
+## Specifications
+| Page yield | Cartridge type | Colour | Capacity | Part number | Genuine or compatible |
+|---|---|---|---|---|---|
+| ~1,500 pages | Ink Cartridge | Cyan | High Capacity | LC3719XLC / LC-3719XLC | Genuine |
+
+## Genuine or compatible?
+Genuine Original Brother ink cartridge. Royal compatible brand alternatives are also stocked to lower cost per page for high-volume office printing.
+
+## Why buy from Trinatech
+Stock held in Nairobi CBD. Delivery across Kenya including Kisumu, Nakuru, Eldoret, and Mombasa. M-Pesa and bank transfer accepted. WhatsApp ordering and walk-in options at The One Mall, River Road.
+
+## Getting the most from this cartridge
+Store in cool ambient conditions away from direct sunlight. Do not unseal the protective vacuum wrapper until immediately before inserting into the cyan cartridge bay.
+
+## Frequently asked questions
+Is a lower-yield version available? Yes, standard-yield Brother LC3717 Cyan (~550 pages) is available if required.
+Are all four ink cartridges needed? Yes, Brother inkjet printers require active cartridges in all four color bays (K, C, M, Y) to operate.
+How fast is delivery in Nairobi? Delivered within 1 to 3 hours across Nairobi CBD.
+How can I pay? Pay via M-Pesa Buy Goods/Till, bank transfer, or cash in-store.
+Is warranty provided? Covered against factory and technical defects under standard shop policy.`, "metaTitle": "Brother LC3719XL Cyan Ink Cartridge Price - Trinatech Kenya", "metaDescription": "Buy genuine Brother LC3719XL Cyan high-yield ink cartridge in Nairobi. Yields ~1,500 pages for MFC-J2330DW & MFC-J3530DW. Fast shipping.", "inStock": true},
+  {"id": 5351, "sku": "LC3719X-2", "name": "Brother LC3719XL Magenta Ink Cartridges", "brand": "Brother", "category": "Brother Inks Cartridges", "price": 3000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/Brother-LC3719XL-Magenta-Ink-Cartridges.webp", "imageFile": "Brother-LC3719XL-Magenta-Ink-Cartridges.webp", "description": `The Brother LC3719XL Magenta Ink Cartridge is a genuine super high-capacity ink supply engineered for Brother Business Inkjet printers. Formulated to deliver rich magenta hues, vibrant charts, and sharp photo graphics for business presentations in Nairobi.
+
+## Compatible printers
+Brother MFC-J2330DW
+Brother MFC-J2730DW
+Brother MFC-J3530DW
+Brother MFC-J3930DW
+If your model isn't listed, send us the number from the front of the machine and we'll confirm before you pay.
+
+## Specifications
+| Page yield | Cartridge type | Colour | Capacity | Part number | Genuine or compatible |
+|---|---|---|---|---|---|
+| ~1,500 pages | Ink Cartridge | Magenta | High Capacity | LC3719XLM / LC-3719XLM | Genuine |
+
+## Genuine or compatible?
+Original Genuine Brother supply unit. Royal compatible equivalent cartridges fit the same printers at a reduced price point for budget-conscious printing.
+
+## Why buy from Trinatech
+Stock held in Nairobi CBD. Delivery across Kenya including Kisumu, Nakuru, Eldoret, and Mombasa. M-Pesa and bank transfer accepted. WhatsApp ordering and walk-in options at The One Mall, River Road.
+
+## Getting the most from this cartridge
+Keep sealed until installation. Gently snap the cartridge firmly into the magenta slot until the locking clip clicks securely into place.
+
+## Frequently asked questions
+Is an XL version available? This LC3719XL is already the super high-yield capacity variant (~1,500 pages).
+Do I need other color cartridges? Yes, all four slots (Black, Cyan, Magenta, Yellow) must contain active cartridges.
+How fast is upcountry shipping? Delivered within 24 hours to major towns across Kenya.
+How do I pay? Pay via M-Pesa or direct bank wire transfer.
+Is chip pre-installed? Yes, genuine microchip comes pre-installed.`, "metaTitle": "Brother LC3719XL Magenta Ink Cartridge Price - Trinatech", "metaDescription": "Order genuine Brother LC3719XL Magenta high-yield ink in Nairobi. Yields ~1,500 pages for MFC-J2330DW & MFC-J3930DW. Fast CBD delivery.", "inStock": true},
+  {"id": 5350, "sku": "LC3719X", "name": "Brother LC3719XL Yellow Ink Cartridges", "brand": "Brother", "category": "Brother Inks Cartridges", "price": 3000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/Brother-LC3719XL-Yellow-Ink-Cartridges.webp", "imageFile": "Brother-LC3719XL-Yellow-Ink-Cartridges.webp", "description": `The Brother LC3719XL Yellow Ink Cartridge supplies high-yield original yellow ink for heavy-duty Brother A3 and A4 inkjet multifunctions. Designed to maintain vivid color accuracy, high text contrast, and reliable operation across Kenya.
+
+## Compatible printers
+Brother MFC-J2330DW
+Brother MFC-J2730DW
+Brother MFC-J3530DW
+Brother MFC-J3930DW
+If your model isn't listed, send us the number from the front of the machine and we'll confirm before you pay.
+
+## Specifications
+| Page yield | Cartridge type | Colour | Capacity | Part number | Genuine or compatible |
+|---|---|---|---|---|---|
+| ~1,500 pages | Ink Cartridge | Yellow | High Capacity | LC3719XLY / LC-3719XLY | Genuine |
+
+## Genuine or compatible?
+Genuine Original Brother product. Royal compatible brand alternatives fit the same machines at lower costs to reduce total printing expenses.
+
+## Why buy from Trinatech
+Stock held in Nairobi CBD. Delivery across Kenya including Kisumu, Nakuru, Eldoret, and Mombasa. M-Pesa and bank transfer accepted. WhatsApp ordering and walk-in options at The One Mall, River Road.
+
+## Getting the most from this cartridge
+Store in upright position in ambient room temperature. Run a automated printhead cleaning cycle if yellow tones appear uneven after long idle periods.
+
+## Frequently asked questions
+Is a lower yield version available? Yes, standard-yield Brother LC3717 Yellow (~550 pages) is available.
+Are all four colors required? Yes, full set presence is mandatory for printer operation.
+What is delivery speed in Nairobi? Delivered within 1 to 3 hours across Nairobi CBD.
+How can I pay? Pay via M-Pesa, bank wire, or cash at shop.
+Is warranty included? Standard shop defect warranty covers unopened cartridges.`, "metaTitle": "Brother LC3719XL Yellow Ink Cartridge - Trinatech Kenya", "metaDescription": "Buy genuine Brother LC3719XL Yellow high-yield ink cartridge in Nairobi. Yields ~1,500 pages for MFC-J3530DW. Fast Kenya shipping.", "inStock": true},
   {"id": 4967, "sku": "TN-1000", "name": "Brother TN-1000 Black Toner Cartridge", "brand": "Brother", "category": "Brother Toners", "price": 2500, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/Brother-TN-1000-Black-Toner-Cartridge.webp", "imageFile": "Brother-TN-1000-Black-Toner-Cartridge.webp", "description": `The Brother TN-1000 Black Toner Cartridge is a highly dependable, standard-capacity supply for Brother's most compact and popular monochrome laser printers. Formulated to deliver crisp, dark text for up to 1,000 pages, it ensures your home office or small workspace keeps functioning without constant interruptions. It is an excellent, low-maintenance choice for users that need to produce high-quality black-and-white documents cost-effectively.
 
 ## Compatible printers

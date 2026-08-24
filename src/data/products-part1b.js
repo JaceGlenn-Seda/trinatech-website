@@ -2053,17 +2053,213 @@ Will it clog my printhead? Micro-filtered dye ink prevents printhead blockages.
 How fast is Nairobi delivery? Delivered within 1 to 3 hours in Nairobi.
 How do I pay? Pay via M-Pesa Buy Goods/Till, bank transfer, or cash.
 Is warranty provided? Covered against manufacturing defects.`, "metaTitle": "Compatible Epson 664 / 673 Ink Bottle - Trinatech Kenya", "metaDescription": "Buy compatible Epson 664 & 673 refill ink bottle in Nairobi. High yield for EcoTank L310, L382, L800, L805. Fast delivery in Kenya.", "inStock": true},
-  {"id": 5322, "sku": null, "name": "Epson 673 Black Ink Bottle 70ML", "brand": "Epson", "category": "Epson Ribbons & Inks", "price": 1200, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/Epson-673-Black-Ink-Bottle-70ML.webp", "imageFile": "Epson-673-Black-Ink-Bottle-70ML.webp", "description": "EPSON 673 BLACK INK BOTTLE 70ML", "inStock": true},
-  {"id": 5321, "sku": null, "name": "Epson 673 Cyan Ink Bottle 70ML", "brand": "Epson", "category": "Epson Ribbons & Inks", "price": 1200, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/Epson-673-Cyan-Ink-Bottle-70ML.webp", "imageFile": "Epson-673-Cyan-Ink-Bottle-70ML.webp", "description": "EPSON 673 CYAN INK BOTTLE 70ML", "inStock": true},
-  {"id": 5320, "sku": "T6736", "name": "Epson 673 Light Magenta Ink Bottle 70ML (T6736)", "brand": "Epson", "category": "Epson Ribbons & Inks", "price": 1200, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/Epson-673-Light-Magenta-Ink-Bottle-70ML-T6736.webp", "imageFile": "Epson-673-Light-Magenta-Ink-Bottle-70ML-T6736.webp", "description": "EPSON 673 LIGHT MAGENTA INK BOTTLE 70ML (T6736)", "inStock": true},
-  {"id": 5319, "sku": "T6733", "name": "Epson 673 Magenta Ink Bottle 70ML (T6733)", "brand": "Epson", "category": "Epson Ribbons & Inks", "price": 1200, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/Epson-673-Magenta-Ink-Bottle-70ML-T6733.webp", "imageFile": "Epson-673-Magenta-Ink-Bottle-70ML-T6733.webp", "description": "EPSON 673 MAGENTA INK BOTTLE 70ML (T6733)", "inStock": true},
+  {"id": 5322, "sku": null, "name": "Epson 673 Black Ink Bottle 70ML", "brand": "Epson", "category": "Epson Ribbons & Inks", "price": 1200, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/Epson-673-Black-Ink-Bottle-70ML.webp", "imageFile": "Epson-673-Black-Ink-Bottle-70ML.webp", "description": `The Epson 673 Black Original Ink Bottle (70ml) is the cornerstone of Epson's 6-colour EcoTank photo printing system. Formulated specifically to produce gallery-quality, long-lasting photographs and striking graphics, this genuine dye-based ink ensures flawless reproduction on both glossy photo paper and standard documents. It is an indispensable supply for photography studios, design agencies, and home hobbyists looking to achieve professional results at an incredibly low cost per print.
+
+## Compatible printers
+Epson EcoTank L800
+Epson EcoTank L805
+Epson EcoTank L810
+Epson EcoTank L850
+Epson EcoTank L1800
+If your model isn't listed, send us the number from the front of the machine and we'll confirm before you pay.
+
+## Specifications
+| Page yield | Cartridge type | Colour | Capacity | Part number | Genuine or compatible |
+|---|---|---|---|---|---|
+| ~3,000 pages / 1,800 photos | Ink Bottle (Dye) | Black | 70ml Standard | T6731 | Genuine |
+
+## Genuine or compatible?
+This is a 100% genuine, Original Epson ink bottle. Genuine Epson 673 ink is specifically engineered to protect your printer's micro-piezo printhead and deliver unmatched photographic longevity. If you are printing massive volumes of non-archival internal documents and want to lower costs, ask about our Royal compatible version---it fits the exact same ink tanks securely and provides excellent value for standard draft printing.
+
+## Why buy from Trinatech
+Stock held in Nairobi CBD for rapid dispatch.
+Delivery across Kenya including Kisumu, Nakuru, Eldoret and Mombasa.
+M-Pesa and bank transfer accepted.
+WhatsApp ordering, walk-in at The One Mall River Road.
+
+## Getting the most from this cartridge
+When refilling, carefully snap off the tip of the bottle and squeeze the ink gently into the black tank. Never let your EcoTank printer's ink levels drop below the lower limit line marked on the translucent tank, as allowing air into the internal tubes will cause severe, often permanent, damage to the printhead. Keep the bottle tightly sealed if you have any leftover ink.
+
+## Frequently asked questions
+Is there an XL or high-yield alternative? This 70ml bottle is the standard maximum size designed to fill the EcoTank reservoirs.
+Do I need all 6 colours to print? Yes, these specialized photo printers require all six colours to operate properly.
+What is the delivery time? Same-day within Nairobi CBD; overnight delivery for the rest of Kenya.
+What is your warranty or returns policy? Genuine bottles carry a manufacturer warranty against manufacturing faults.
+Will this ink fade in sunlight? Genuine Epson photo inks are highly resistant to UV fading when printed on quality photo paper.`, "metaTitle": "Epson 673 Black Original Ink Bottle 70ml", "metaDescription": "Genuine Epson 673 black ink (T6731), 70ml, for EcoTank L800, L805, L810, L850, L1800 photo printers. Fast delivery across Kenya from Nairobi.", "inStock": true},
+  {"id": 5321, "sku": null, "name": "Epson 673 Cyan Ink Bottle 70ML", "brand": "Epson", "category": "Epson Ribbons & Inks", "price": 1200, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/Epson-673-Cyan-Ink-Bottle-70ML.webp", "imageFile": "Epson-673-Cyan-Ink-Bottle-70ML.webp", "description": `The Epson 673 Cyan Original Ink Bottle (70ml) provides the vibrant, true-to-life blue hues essential for high-definition photo printing. As part of Epson's advanced 6-colour EcoTank system, this dye-based ink seamlessly blends to create millions of accurate shades, ensuring your borderless photos and design proofs look exactly as they do on screen. It guarantees a spill-free refill process and protects the long-term health of your printer's delicate printhead.
+
+## Compatible printers
+Epson EcoTank L800
+Epson EcoTank L805
+Epson EcoTank L810
+Epson EcoTank L850
+Epson EcoTank L1800
+If your model isn't listed, send us the number from the front of the machine and we'll confirm before you pay.
+
+## Specifications
+| Page yield | Cartridge type | Colour | Capacity | Part number | Genuine or compatible |
+|---|---|---|---|---|---|
+| ~1,800 photos (Composite) | Ink Bottle (Dye) | Cyan | 70ml Standard | T6732 | Genuine |
+
+## Genuine or compatible?
+Genuine, Original Epson ink in factory packaging. This guarantees the highest print quality and completely protects your printer's permanent printhead. If you print incredibly heavy volumes of draft documents and want to save money, ask us about the Royal compatible version, which provides excellent value and fits the exact same ink tanks securely.
+
+## Why buy from Trinatech
+Reliable stock held in Nairobi CBD.
+Delivery across Kenya including Kisumu, Nakuru, Eldoret and Mombasa.
+M-Pesa and bank transfer accepted.
+WhatsApp ordering, walk-in at The One Mall River Road.
+
+## Getting the most from this cartridge
+Store the ink bottle upright in a cool, dry place away from direct sunlight. To refill, simply uncap the bottle and pour the ink into the cyan tank up to the upper fill line. If your prints start looking faint or banded, run a printhead cleaning cycle from your printer's maintenance menu to clear any microscopic blockages in the nozzles before assuming the tank is empty.
+
+## Frequently asked questions
+Is there an XL or high-yield alternative? The 70ml bottle is designed to completely fill the colour tank, acting as a high-yield supply.
+Can I use this in a 4-colour EcoTank? No, the 673 series is uniquely formulated for Epson's 6-colour photo printers only.
+What is the delivery time? Same-day delivery within Nairobi CBD and next-day for the rest of Kenya.
+What is your warranty or returns policy? Genuine Epson inks come with a standard manufacturer defect warranty.
+Can I mix this with generic ink? We strongly advise against mixing formulas, as it can permanently clog the printhead.`, "metaTitle": "Epson 673 Cyan Original Ink Bottle 70ml", "metaDescription": "Genuine Epson 673 cyan ink (T6732), 70ml, for EcoTank L800, L805, L810, L850, L1800 photo printers. Reliable stock at Trinatech Nairobi CBD.", "inStock": true},
+  {"id": 5320, "sku": "T6736", "name": "Epson 673 Light Magenta Ink Bottle 70ML (T6736)", "brand": "Epson", "category": "Epson Ribbons & Inks", "price": 1200, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/Epson-673-Light-Magenta-Ink-Bottle-70ML-T6736.webp", "imageFile": "Epson-673-Light-Magenta-Ink-Bottle-70ML-T6736.webp", "description": `The Epson 673 Light Magenta Ink Bottle (T6736) is the secret behind the exceptionally smooth skin tones and subtle colour gradients produced by Epson's 6-colour photo printers. This genuine 70ml dye-based ink ensures your portraits and high-resolution graphics are printed with breathtaking accuracy and virtually no visible dot patterns. It is a critical supply for professional photographers and graphic designers who refuse to compromise on print quality.
+
+## Compatible printers
+Epson EcoTank L800
+Epson EcoTank L805
+Epson EcoTank L810
+Epson EcoTank L850
+Epson EcoTank L1800
+If your model isn't listed, send us the number from the front of the machine and we'll confirm before you pay.
+
+## Specifications
+| Page yield | Cartridge type | Colour | Capacity | Part number | Genuine or compatible |
+|---|---|---|---|---|---|
+| ~1,800 photos (Composite) | Ink Bottle (Dye) | Light Magenta | 70ml Standard | T6736 | Genuine |
+
+## Genuine or compatible?
+This is a 100% genuine, Original Epson ink bottle. It provides the exact dye formulation required to protect your EcoTank printhead and deliver archival-quality photos. However, if cost savings are your primary concern for non-photographic internal documents, our Royal compatible brand is available. Royal ink bottles fit the exact same printers at a lower cost, offering exceptional value.
+
+## Why buy from Trinatech
+Stock held locally in Nairobi CBD.
+Delivery across Kenya including Kisumu, Nakuru, Eldoret and Mombasa.
+M-Pesa and bank transfer accepted securely.
+WhatsApp ordering available, walk-in at The One Mall River Road.
+
+## Getting the most from this cartridge
+Always store ink bottles away from direct sunlight. When refilling, ensure you pour this into the specifically designated "Light Magenta" (LM) tank, not the standard Magenta tank, as mixing them will completely ruin your printer's colour calibration. Because actual page yield depends heavily on your photos, borderless A4 images will consume the ink faster than standard 10x15cm prints.
+
+## Frequently asked questions
+Is there an XL or high-yield alternative? The 70ml capacity is the maximum size available for the tanks on these models.
+Do I need the other colours to print? Yes, your EcoTank printer requires all six tanks to have ink to function safely.
+What is the delivery time? We offer same-day delivery in Nairobi CBD, and next-day delivery nationwide.
+What is your warranty or returns policy? We provide the manufacturer's warranty on all genuine sealed products.
+Why is the ink level not updating? After refilling, you may need to manually reset the ink levels via the printer's software or button combination.`, "metaTitle": "Epson 673 Light Magenta Ink Bottle T6736", "metaDescription": "Genuine Epson 673 light magenta ink (T6736), 70ml, for EcoTank L800, L805, L810, L850, L1800 printers. Order via WhatsApp for fast delivery.", "inStock": true},
+  {"id": 5319, "sku": "T6733", "name": "Epson 673 Magenta Ink Bottle 70ML (T6733)", "brand": "Epson", "category": "Epson Ribbons & Inks", "price": 1200, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/Epson-673-Magenta-Ink-Bottle-70ML-T6733.webp", "imageFile": "Epson-673-Magenta-Ink-Bottle-70ML-T6733.webp", "description": `The Epson 673 Magenta Ink Bottle (T6733) is essential for producing the vivid, punchy reds and warm tones required in high-quality photographs and professional business documents. Formulated with Epson's premium dye-based ink, it ensures your marketing materials and family photos look sharp and resist fading. Offering thousands of prints per bottle, this genuine refill keeps your 6-colour EcoTank printer running efficiently during demanding, high-volume print tasks.
+
+## Compatible printers
+Epson EcoTank L800
+Epson EcoTank L805
+Epson EcoTank L810
+Epson EcoTank L850
+Epson EcoTank L1800
+If your model isn't listed, send us the number from the front of the machine and we'll confirm before you pay.
+
+## Specifications
+| Page yield | Cartridge type | Colour | Capacity | Part number | Genuine or compatible |
+|---|---|---|---|---|---|
+| ~1,800 photos (Composite) | Ink Bottle (Dye) | Magenta | 70ml Standard | T6733 | Genuine |
+
+## Genuine or compatible?
+Genuine, Original Epson ink in factory packaging. This ensures you avoid printhead clogging issues common with cheap generic refills and guarantees accurate colour mixing. For customers looking to aggressively optimize their printing budget for everyday drafts, mention our Royal compatible alternative---it offers the same high volume at a lower price point, suitable for non-archival work.
+
+## Why buy from Trinatech
+Stock held right here in Nairobi CBD.
+Delivery across Kenya including Kisumu, Nakuru, Eldoret and Mombasa.
+M-Pesa and bank transfer accepted.
+WhatsApp ordering, walk-in at The One Mall River Road.
+
+## Getting the most from this cartridge
+Keep the bottle sealed until you are ready to top up the printer. Be very careful to pour this into the standard Magenta (M) tank, and not the Light Magenta (LM) tank. If you experience missing colours on your printed page, run the printer's automated cleaning cycle to clear any microscopic blockages in the printhead before assuming the printer is broken.
+
+## Frequently asked questions
+Is there an XL or high-yield alternative? This is the maximum capacity (70ml) bottle for the 673 series.
+Do I need the other colours to print? Yes, the printer requires all six colours to function and prevent printhead damage.
+What is the delivery time? Same-day delivery within Nairobi CBD and next-day for the rest of Kenya.
+What is your warranty or returns policy? Genuine Epson bottles come with a standard manufacturer defect warranty.
+Why did my ink run out so fast? Printing large, full-colour graphics or borderless A3/A4 photos will deplete the ink much faster than standard text.`, "metaTitle": "Epson 673 Magenta Ink Bottle T6733 70ml", "metaDescription": "Genuine Epson 673 magenta ink (T6733), 70ml, for EcoTank L800, L805, L810, L850, L1800 photo printers. Buy genuine Epson supplies in Kenya.", "inStock": true},
   {"id": 3420, "sku": null, "name": "Epson CO-FH02 Projector", "brand": "Epson", "category": "Projectors", "price": 95000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2024/12/epson-co-projector.png", "imageFile": "epson-co-projector.png", "description": "The Epson CO-FH02 projector brings your content to life with Full HD 1080p resolution, delivering sharp, vibrant visuals for movies, presentations, and gaming.", "inStock": true},
   {"id": 3423, "sku": null, "name": "Epson EB-FH06 Projector", "brand": "Epson", "category": "Projectors", "price": 130000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2024/12/epson-eb-Projector.png", "imageFile": "epson-eb-Projector.png", "description": "The Epson EB-FH06 projector is engineered to provide exceptional performance for both professional and home use.", "inStock": true},
   {"id": 3414, "sku": null, "name": "Epson EB-X49 Projector", "brand": "Epson", "category": "Projectors", "price": 90000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2024/12/epson-eb-Projector.png", "imageFile": "epson-eb-Projector.png", "description": "The Epson EB-X49 projector is an ideal solution for both home and business environments, offering exceptional value without sacrificing quality.", "inStock": true},
   {"id": 3433, "sku": null, "name": "Epson EH-TW6150 Projector", "brand": "Epson", "category": "Projectors", "price": 200000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2024/12/epson-eh-projector.png", "imageFile": "epson-eh-projector.png", "description": "The Epson EH-TW6150 projector offers an impressive cinematic experience with its 4K enhancement technology.", "inStock": true},
   {"id": 3425, "sku": null, "name": "Epson EH-TW6250 Projector", "brand": "Epson", "category": "Projectors", "price": 120000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2024/12/epson-eh-projector.png", "imageFile": "epson-eh-projector.png", "description": "The Epson EH-TW6250 projector delivers an extraordinary viewing experience with its 4K enhancement technology.", "inStock": true},
-  {"id": 3580, "sku": null, "name": "Epson ERC-31 Ribbon Cartridge", "brand": "Epson", "category": "Inks & Toner Cartridges", "price": 600, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2024/12/Epson-ERC-31-Ribbon.png", "imageFile": "Epson-ERC-31-Ribbon.png", "description": "The Epson ERC-31 Ribbon Cartridge is the ideal solution for businesses and offices looking for consistent, high-quality prints from Epson dot matrix printers.", "inStock": true},
-  {"id": 3578, "sku": null, "name": "Epson ERC-38 B Ribbon Cartridge", "brand": "Epson", "category": "Inks & Toner Cartridges", "price": 600, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2024/12/Epson-ERC-38-B-Ribbon.png", "imageFile": "Epson-ERC-38-B-Ribbon.png", "description": "The Epson ERC-38 B Ribbon Cartridge is a high-performance ribbon designed to work seamlessly with a range of Epson dot matrix printers.", "inStock": true},
+  {"id": 3580, "sku": null, "name": "Epson ERC-31 Ribbon Cartridge", "brand": "Epson", "category": "Inks & Toner Cartridges", "price": 600, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2024/12/Epson-ERC-31-Ribbon.png", "imageFile": "Epson-ERC-31-Ribbon.png", "description": `The Epson ERC-31 Black Ribbon Cartridge is a highly durable fabric ribbon designed for point-of-sale (POS) systems, receipt printers, and slip printers. Engineered to withstand the rigorous demands of retail and hospitality environments, it delivers crisp, highly legible receipts and invoices that will not fade quickly. This continuous loop ribbon guarantees smooth operation, preventing jams and protecting the delicate pins on your dot matrix printer head.
+
+## Compatible printers
+Epson TM-U950
+Epson TM-U930
+Epson TM-U590
+Epson TM-290II
+Epson TM-H5000
+If your model isn't listed, send us the number from the front of the machine and we'll confirm before you pay.
+
+## Specifications
+| Page yield | Cartridge type | Colour | Capacity | Part number | Genuine or compatible |
+|---|---|---|---|---|---|
+| ~3 Million Characters | Fabric Ribbon | Black | Standard | ERC-31B | Genuine |
+
+## Genuine or compatible?
+This is a genuine, Original Epson ribbon cartridge. Genuine Epson fabric ribbons are heavily saturated with high-quality lubricating ink that extends the life of your printer's printhead pins. If you are operating on a strict budget for high-volume retail receipt printing, our Royal compatible equivalent is available---it provides the exact same physical fit at a lower cost.
+
+## Why buy from Trinatech
+Stock held locally in Nairobi CBD.
+Delivery across Kenya including Kisumu, Nakuru, Eldoret and Mombasa.
+M-Pesa and bank transfer accepted securely.
+WhatsApp ordering available, walk-in at The One Mall River Road.
+
+## Getting the most from this cartridge
+Before installing the new ribbon, locate the small tension knob on the cartridge and turn it in the direction of the arrow to pull the fabric taut. A loose ribbon can snag on the printhead and tear. Always keep spare ribbons sealed in their plastic packaging; exposure to dry, hot air will cause the lubricating ink to evaporate prematurely.
+
+## Frequently asked questions
+Is there an XL or high-yield alternative? This is the standard maximum capacity ribbon for these specific POS printers.
+Do I need other colours to print? No, this is a dedicated black ribbon for monochrome receipt printing.
+What is the delivery time? Same-day for Nairobi CBD; expect next-day delivery for other regions in Kenya.
+What is your warranty or returns policy? We provide the manufacturer's warranty on all genuine sealed products.
+Why is the text suddenly very faint? The ink is depleted, or the printhead gap lever on your printer is set too wide for the paper thickness.`, "metaTitle": "Epson ERC-31 Black Ribbon Cartridge", "metaDescription": "Genuine Epson ERC-31 black fabric ribbon cartridge for Epson TM-U950, TM-U930, TM-U590 POS printers. Delivered anywhere in Kenya from Nairobi.", "inStock": true},
+  {"id": 3578, "sku": null, "name": "Epson ERC-38 B Ribbon Cartridge", "brand": "Epson", "category": "Inks & Toner Cartridges", "price": 600, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2024/12/Epson-ERC-38-B-Ribbon.png", "imageFile": "Epson-ERC-38-B-Ribbon.png", "description": `The Epson ERC-38 B Black Ribbon Cartridge is the industry standard for Epson's incredibly popular TM-U series kitchen and receipt printers. Built to endure the high-heat, fast-paced environments of restaurants and retail stores, this heavy-duty fabric ribbon produces consistently dark, easy-to-read tickets. It is precision-engineered to advance smoothly without fraying, protecting your dot matrix printhead from unnecessary wear and tear.
+
+## Compatible printers
+Epson TM-U220
+Epson TM-U220A
+Epson TM-U220B
+Epson TM-U220D
+Epson TM-U200
+Epson TM-U210
+Epson TM-U230
+Epson TM-U300
+Epson TM-U375
+If your model isn't listed, send us the number from the front of the machine and we'll confirm before you pay.
+
+## Specifications
+| Page yield | Cartridge type | Colour | Capacity | Part number | Genuine or compatible |
+|---|---|---|---|---|---|
+| ~3 Million Characters | Fabric Ribbon | Black | Standard | ERC-38B | Genuine |
+
+## Genuine or compatible?
+This is a genuine, Original Epson ribbon cartridge. Genuine ribbons use specially formulated ink that lubricates the printhead pins, reducing heat and preventing breakage. However, if cost savings are your primary concern for high-volume ticket printing, our Royal compatible equivalent is available. Royal cartridges fit perfectly and offer exceptional value for busy POS stations.
+
+## Why buy from Trinatech
+Stock held in Nairobi CBD for rapid dispatch.
+Delivery across Kenya including Kisumu, Nakuru, Eldoret and Mombasa.
+M-Pesa and bank transfer accepted.
+WhatsApp ordering, walk-in at The One Mall River Road.
+
+## Getting the most from this cartridge
+Always tighten the ribbon by turning the small tension knob before you drop it into the printer. This prevents the fabric from snagging on the printhead during the first print. When the text starts getting faint, do not attempt to re-ink the ribbon manually with stamping ink, as this will instantly destroy the microscopic pins in your printer's head.
+
+## Frequently asked questions
+Is there a two-colour version available? Yes, the ERC-38 B/R (Black/Red) is available if your POS software requires red highlighting.
+What is the delivery time? Same-day within Nairobi CBD; overnight delivery for the rest of Kenya.
+What is your warranty or returns policy? Standard manufacturer warranties apply to all genuine, factory-sealed ribbons.
+How do I install the ribbon? Lift the printer lid, pull out the old cartridge, drop the new one over the printhead, and turn the tension knob.
+Why is the ribbon shredding? Your printer's printhead may have a broken pin, or the ribbon was installed without being tightened first.`, "metaTitle": "Epson ERC-38 B Black Ribbon Cartridge", "metaDescription": "Genuine Epson ERC-38 B black fabric ribbon for Epson TM-U220, TM-U200, TM-U230 series POS receipt printers. Nairobi stock, delivered nationwide.", "inStock": true},
   {"id": 4511, "sku": null, "name": "Epson Ecotank L1800 Single Function Inktank A3 Photo Printer", "brand": "Epson", "category": "Printers & Copiers", "price": 150000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2025/01/Epson-L1800-Printer.png", "imageFile": "Epson-L1800-Printer.png", "description": "The Epson EcoTank L1800 Single Function InkTank A3 Photo Printer is a professional-grade printer designed for photographers, graphic designers, and businesses.", "inStock": true},
   {"id": 4496, "sku": null, "name": "Epson Ecotank L3210 A4 All-In-One Ink Tank Printer", "brand": "Epson", "category": "Printers & Copiers", "price": 26000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2025/01/Epson-L3210-Printer.png", "imageFile": "Epson-L3210-Printer.png", "description": `The Epson Ecotank L3210 A4 All-In-One Ink Tank Printer is an entry-level EcoTank system designed for ultra-low-cost home and small office printing. Offers high page yields, crisp text, and borderless photo printing up to 4R across Kenya.
 
@@ -2246,10 +2442,132 @@ Can it print directly onto printable CDs/DVDs? Yes, includes a dedicated CD/DVD 
 How fast is Nairobi delivery? 1 to 3 hours in Nairobi CBD.
 How do I pay? Pay via M-Pesa, bank transfer, or cash.
 Is warranty included? Standard manufacturer warranty applies.`, "metaTitle": "Epson L850 6-Color Photo Printer Price - Trinatech Kenya", "metaDescription": "Shop Epson L850 6-color photo ink tank printer in Nairobi. Direct CD/DVD printing, LCD screen, SD card slot. Fast shipping in Kenya.", "inStock": true},
-  {"id": 5317, "sku": "LQ-2190", "name": "Epson LQ-2190 Ribbon Cartridge", "brand": "Epson", "category": "Epson Ribbons & Inks", "price": 1200, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/Epson-LQ-2190-Ribbon-Cartridge.webp", "imageFile": "Epson-LQ-2190-Ribbon-Cartridge.webp", "description": "EPSON LQ-2190 RIBBON CARTRIDGE", "inStock": true},
-  {"id": 5316, "sku": "LQ-350-2", "name": "Epson LQ-350 Generic Ribbon Black Cartridge", "brand": "Epson", "category": "Epson Ribbons & Inks", "price": 600, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/Epson-LQ-350-Generic-Ribbon-Black-Cartridge.webp", "imageFile": "Epson-LQ-350-Generic-Ribbon-Black-Cartridge.webp", "description": "EPSON LQ-350 GENERIC RIBBON BLACK CARTRIDGE", "inStock": true},
-  {"id": 5315, "sku": "LQ-350", "name": "Epson LQ-350 Original Ribbon Black Cartridge", "brand": "Epson", "category": "Epson Ribbons & Inks", "price": 600, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/Epson-LQ-350-Original-Ribbon-Black-Cartridge.webp", "imageFile": "Epson-LQ-350-Original-Ribbon-Black-Cartridge.webp", "description": "EPSON LQ-350 ORIGINAL RIBBON BLACK CARTRIDGE", "inStock": true},
-  {"id": 3576, "sku": null, "name": "Epson LQ-590 Ribbon Cartridge", "brand": "Epson", "category": "Inks & Toner Cartridges", "price": 1000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2024/12/Epson-LQ-590-Ribbon.png", "imageFile": "Epson-LQ-590-Ribbon.png", "description": "Compatible with: Epson LQ-590 (including LQ-590H) Epson LQ-590II Epson LQ-590IIN", "inStock": true},
+  {"id": 5317, "sku": "LQ-2190", "name": "Epson LQ-2190 Ribbon Cartridge", "brand": "Epson", "category": "Epson Ribbons & Inks", "price": 1200, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/Epson-LQ-2190-Ribbon-Cartridge.webp", "imageFile": "Epson-LQ-2190-Ribbon-Cartridge.webp", "description": `The Epson LQ-2190 Black Ribbon Cartridge (S015327) is a high-capacity, extreme-durability supply designed for Epson's heavy-duty wide-carriage dot matrix printers. Engineered to print up to 8 million characters, this continuous fabric ribbon ensures flawless, uninterrupted production of multi-part invoices, shipping manifests, and continuous tractor-feed forms. The rich, lubricating ink provides dark, legible text while actively cooling the printer's 24-pin printhead during massive print runs.
+
+## Compatible printers
+Epson LQ-2190
+Epson LQ-2180
+Epson LQ-2080
+Epson LQ-2070
+If your model isn't listed, send us the number from the front of the machine and we'll confirm before you pay.
+
+## Specifications
+| Page yield | Cartridge type | Colour | Capacity | Part number | Genuine or compatible |
+|---|---|---|---|---|---|
+| ~8 Million Characters | Fabric Ribbon | Black | High Yield | S015327 | Genuine |
+
+## Genuine or compatible?
+This is a genuine, Original Epson ribbon cartridge. Genuine Epson ribbons are seamlessly welded to prevent the fabric from fraying and jamming the delicate 24-pin printhead. If you are operating a busy logistics or accounting department on a strict budget, we also stock a Royal compatible cartridge for these models. The Royal version fits exactly the same and is highly cost-effective for continuous daily printing.
+
+## Why buy from Trinatech
+Secure stock held in Nairobi CBD.
+Delivery across Kenya including Kisumu, Nakuru, Eldoret and Mombasa.
+M-Pesa and bank transfer accepted.
+WhatsApp ordering, walk-in at The One Mall River Road.
+
+## Getting the most from this cartridge
+Before snapping the massive cartridge into the printer chassis, turn the tension knob several times to ensure the fabric is pulled tightly across the ribbon mask. Ensure your printer's paper thickness lever is set correctly for the type of forms you are using; if it is set too close, it will smear the ink and wear out the ribbon extremely quickly.
+
+## Frequently asked questions
+Is there an XL or high-yield alternative? This S015327 is the maximum capacity ribbon designed for this heavy-duty series.
+Do I need other colours to print? No, this is a dedicated black ribbon for monochrome document printing.
+What is the delivery time? Same-day within Nairobi CBD; overnight delivery for the rest of Kenya.
+What is your warranty or returns policy? Standard Epson warranties apply to all genuine, factory-sealed cartridges.
+Why is the print quality suddenly light? You may have reached the 8-million character limit, and the ink is simply depleted.`, "metaTitle": "Epson LQ-2190 Black Ribbon Cartridge", "metaDescription": "Genuine Epson LQ-2190 black fabric ribbon (S015327) for Epson LQ-2190, LQ-2180, LQ-2080, LQ-2070 dot matrix printers. Fast delivery across Kenya.", "inStock": true},
+  {"id": 5316, "sku": "LQ-350-2", "name": "Epson LQ-350 Generic Ribbon Black Cartridge", "brand": "Epson", "category": "Epson Ribbons & Inks", "price": 600, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/Epson-LQ-350-Generic-Ribbon-Black-Cartridge.webp", "imageFile": "Epson-LQ-350-Generic-Ribbon-Black-Cartridge.webp", "description": `The Epson LQ-350 Compatible Black Ribbon Cartridge provides an incredibly economical solution for businesses running Epson's compact dot matrix printers. Designed as a direct drop-in replacement for the original S015633, this high-quality compatible fabric ribbon delivers dark, sharp text for multi-part forms and receipts. It allows you to reliably print thousands of invoices and dispatch notes while aggressively lowering your operational overheads.
+
+## Compatible printers
+Epson LQ-350
+Epson LQ-300
+Epson LQ-300+
+Epson LQ-300+II
+If your model isn't listed, send us the number from the front of the machine and we'll confirm before you pay.
+
+## Specifications
+| Page yield | Cartridge type | Colour | Capacity | Part number | Genuine or compatible |
+|---|---|---|---|---|---|
+| ~2.5 Million Characters | Fabric Ribbon | Black | Standard | S015633 (Comp) | Compatible |
+
+## Genuine or compatible?
+This is a compatible ribbon cartridge. It is entirely brand new and manufactured to meet standard OEM character yields without the premium price tag. It is not an original Epson product. We recommend this compatible version for businesses looking to cut their printing overheads on heavy-duty text documents, such as delivery books and waybills, without sacrificing legibility.
+
+## Why buy from Trinatech
+Stock held locally in Nairobi CBD.
+Delivery across Kenya including Kisumu, Nakuru, Eldoret and Mombasa.
+M-Pesa and bank transfer accepted securely.
+WhatsApp ordering available, walk-in at The One Mall River Road.
+
+## Getting the most from this cartridge
+Always tighten the ribbon by turning the small tension knob before you drop it into the printer. This prevents the fabric from snagging on the printhead during the first print. Keep your spare ribbons sealed in their plastic packaging, as the ink will dry out if left exposed to the air for long periods before installation.
+
+## Frequently asked questions
+Is there an XL or high-yield alternative? This compatible provides the standard maximum capacity of 2.5 million characters.
+Do I need other colours to print? No, the LQ-350 is a strictly black-and-white dot matrix printer.
+What is the delivery time? Same-day for Nairobi CBD; expect next-day delivery for other regions in Kenya.
+What is your warranty or returns policy? We offer a replacement guarantee on compatible ribbons that fail out of the box.
+Will using a compatible ribbon break my machine? High-quality compatibles like this one are perfectly safe for daily document printing.`, "metaTitle": "Epson LQ-350 Compatible Black Ribbon", "metaDescription": "Compatible black fabric ribbon cartridge for Epson LQ-350, LQ-300, LQ-300+II dot matrix printers. Economical printing, delivered safely in Kenya.", "inStock": true},
+  {"id": 5315, "sku": "LQ-350", "name": "Epson LQ-350 Original Ribbon Black Cartridge", "brand": "Epson", "category": "Epson Ribbons & Inks", "price": 600, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/Epson-LQ-350-Original-Ribbon-Black-Cartridge.webp", "imageFile": "Epson-LQ-350-Original-Ribbon-Black-Cartridge.webp", "description": `The Epson LQ-350 Original Black Ribbon Cartridge (S015633) is designed to keep your compact Epson dot matrix printer running flawlessly. Providing a yield of up to 2.5 million characters, this genuine fabric ribbon ensures your multi-part invoices and receipts are printed with crisp, dark, and highly legible text. The proprietary lubricating ink actively cools the 24-pin printhead, extending the life of your machine and preventing costly downtime.
+
+## Compatible printers
+Epson LQ-350
+Epson LQ-300
+Epson LQ-300+
+Epson LQ-300+II
+If your model isn't listed, send us the number from the front of the machine and we'll confirm before you pay.
+
+## Specifications
+| Page yield | Cartridge type | Colour | Capacity | Part number | Genuine or compatible |
+|---|---|---|---|---|---|
+| ~2.5 Million Characters | Fabric Ribbon | Black | Standard | S015633 | Genuine |
+
+## Genuine or compatible?
+This is a genuine, Original Epson ribbon cartridge. Genuine ribbons use specially formulated ink that lubricates the printhead pins, reducing heat and preventing breakage. However, if cost savings are your primary concern for high-volume invoice printing, our Royal compatible equivalent is available. Royal cartridges fit perfectly and offer exceptional value for busy accounting desks.
+
+## Why buy from Trinatech
+Stock held right here in Nairobi CBD.
+Delivery across Kenya including Kisumu, Nakuru, Eldoret and Mombasa.
+M-Pesa and bank transfer accepted.
+WhatsApp ordering, walk-in at The One Mall River Road.
+
+## Getting the most from this cartridge
+Before snapping the cartridge into the printer chassis, turn the tension knob a few times to ensure the fabric is pulled tightly across the ribbon mask. Ensure your printer's paper thickness lever is set correctly for the type of carbon-copy forms you are using; if it is set too tight, it will smear the ink and fray the ribbon.
+
+## Frequently asked questions
+Is there an XL or high-yield alternative? This is the standard maximum capacity ribbon for the LQ-350 series.
+What is the delivery time? Same-day delivery for Nairobi CBD, and next-day for the rest of Kenya.
+What is your warranty or returns policy? Genuine sealed cartridges are backed by the manufacturer's warranty against defects.
+How do I install the ribbon? Slide the printhead to the middle, hook the cartridge into the plastic tabs, and guide the ribbon between the printhead and the metal mask.
+Why is the ribbon shredding? Your printer's printhead may have a broken pin, or the paper thickness lever is set too close.`, "metaTitle": "Epson LQ-350 Original Black Ribbon", "metaDescription": "Genuine Epson LQ-350 black fabric ribbon (S015633) for Epson LQ-350, LQ-300, LQ-300+II printers. Reliable stock at Trinatech Nairobi CBD.", "inStock": true},
+  {"id": 3576, "sku": null, "name": "Epson LQ-590 Ribbon Cartridge", "brand": "Epson", "category": "Inks & Toner Cartridges", "price": 1000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2024/12/Epson-LQ-590-Ribbon.png", "imageFile": "Epson-LQ-590-Ribbon.png", "description": `The Epson LQ-590 Black Ribbon Cartridge (S015337) is a highly durable, continuous fabric supply designed for Epson's incredibly fast, mid-volume 24-pin dot matrix printers. Engineered to print up to 5 million characters, it guarantees dark, razor-sharp text on demanding multi-part forms, waybills, and continuous tractor-feed paper. This genuine ribbon is essential for busy logistics hubs, warehouses, and front desks that cannot afford poor print quality or hardware jams.
+
+## Compatible printers
+Epson LQ-590
+Epson LQ-590II
+If your model isn't listed, send us the number from the front of the machine and we'll confirm before you pay.
+
+## Specifications
+| Page yield | Cartridge type | Colour | Capacity | Part number | Genuine or compatible |
+|---|---|---|---|---|---|
+| ~5 Million Characters | Fabric Ribbon | Black | Standard | S015337 | Genuine |
+
+## Genuine or compatible?
+This is a 100% genuine, Original Epson ribbon cartridge. Genuine Epson ribbons are seamlessly welded to prevent the fabric from fraying and jamming the delicate printhead. If you are operating a busy dispatch department on a strict budget, we also stock a Royal compatible cartridge for these models. The Royal version fits exactly the same and is highly cost-effective for continuous daily printing.
+
+## Why buy from Trinatech
+Reliable stock held in Nairobi CBD.
+Delivery across Kenya including Kisumu, Nakuru, Eldoret and Mombasa.
+M-Pesa and bank transfer accepted securely.
+WhatsApp ordering, walk-in at The One Mall River Road.
+
+## Getting the most from this cartridge
+Always tighten the ribbon by turning the small tension knob before you drop it into the printer. This prevents the fabric from snagging on the printhead mask during the first pass. When the text starts getting faint, do not attempt to re-ink the ribbon manually with generic liquid ink, as this will instantly destroy the microscopic pins in your printer's head.
+
+## Frequently asked questions
+Is there an XL or high-yield alternative? The 5-million character yield is the maximum capacity available for the LQ-590 series.
+Do I need other colours to print? No, this is a dedicated black ribbon for monochrome document printing.
+What is the delivery time? We offer same-day delivery in Nairobi CBD, and next-day dispatch countrywide.
+What is your warranty or returns policy? We honour the standard Epson warranty for factory-sealed, genuine items.
+Why is the print quality suddenly light? You may have reached the 5-million character limit, and the ink is depleted.`, "metaTitle": "Epson LQ-590 Black Ribbon Cartridge", "metaDescription": "Genuine Epson LQ-590 black fabric ribbon (S015337) for Epson LQ-590 and LQ-590II dot matrix printers. Order via WhatsApp for delivery in Kenya.", "inStock": true},
   {"id": 5314, "sku": "LQ-590-2", "name": "Epson LQ-590/690 Generic Ribbon Black Cartridge", "brand": "Epson", "category": "Epson Ribbons & Inks", "price": 1000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/Epson-LQ-590-690-Generic-Ribbon-Black-Cartridge.webp", "imageFile": "Epson-LQ-590-690-Generic-Ribbon-Black-Cartridge.webp", "description": "EPSON LQ-590/690 GENERIC RIBBON BLACK CARTRIDGE", "inStock": true},
   {"id": 5313, "sku": "LQ-590", "name": "Epson LQ-590/690 Genuine Ribbon Black Cartridge", "brand": "Epson", "category": "Epson Ribbons & Inks", "price": 1000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/Epson-LQ-590-690-Genuine-Ribbon-Black-Cartridge.webp", "imageFile": "Epson-LQ-590-690-Genuine-Ribbon-Black-Cartridge.webp", "description": "EPSON LQ-590/690 GENUINE RIBBON BLACK CARTRIDGE", "inStock": true},
   {"id": 3574, "sku": null, "name": "Epson LQ-680 Ribbon Cartridge", "brand": "Epson", "category": "Inks & Toner Cartridges", "price": 500, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2024/12/Epson-LQ-680-Ribbon.png", "imageFile": "Epson-LQ-680-Ribbon.png", "description": "The Epson LQ-680 Ribbon Cartridge offers reliability and consistent performance for both personal and business use.", "inStock": true},

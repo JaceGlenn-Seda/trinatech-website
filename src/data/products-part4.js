@@ -2260,7 +2260,42 @@ Is warranty provided? Covered against factory defects.`,
   "metaTitle": "Kyocera KM-2560 / 300i Pick Up Rollers Price - Trinatech",
   "metaDescription": "Buy Kyocera KM-2560 and TASKalfa 300i paper pickup rollers in Nairobi. Fix paper feed issues for KM-3060, KM-2540. Fast Kenya delivery.",
   "inStock": true},
-  {"id": 5249, "sku": null, "name": "Km 2560/30I Drum", "brand": "Other", "category": "Maintenance Kits & Spare Parts", "price": 9500, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/Km-2560-30I-Drum-scaled.webp", "imageFile": "Km-2560-30I-Drum-scaled.webp", "description": "km 2560/30i drum", "inStock": true},
+  {"id": 5249, "sku": null, "name": "Km 2560/30I Drum", "brand": "Other", "category": "Maintenance Kits & Spare Parts", "price": 9500, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/Km-2560-30I-Drum-scaled.webp", "imageFile": "Km-2560-30I-Drum-scaled.webp", "description": `The Km 2560/30I Drum (DK-703 compatible) provides a complete replacement imaging drum unit for Kyocera monochrome workgroup copiers. Formulated to restore deep black text clarity, eliminate background fog, and ensure long-term durability across Kenya.
+
+## Compatible printers
+Kyocera KM-2540
+Kyocera KM-2560
+Kyocera KM-3040
+Kyocera KM-3060
+Kyocera TASKalfa 300i
+If your model isn't listed, send us the number from the front of the machine and we'll confirm before you pay.
+
+## Specifications
+| Page yield | ~300,000 pages |
+|---|---|
+| Part type | Drum Unit (Imaging Unit) |
+| Colour | Black |
+| Part number | DK-703 / 302H093030 |
+| Genuine or compatible | Compatible |
+
+## Genuine or compatible?
+This is a premium Compatible replacement drum unit. It matches OEM Kyocera DK-703 performance at a fraction of the cost, making it ideal for heavy-use copy centers.
+
+## Why buy from Trinatech
+Stock held in Nairobi CBD.
+Delivery across Kenya including Kisumu, Nakuru, Eldoret, and Mombasa.
+M-Pesa and bank transfer accepted.
+WhatsApp ordering and walk-in options at The One Mall, River Road.
+
+## Getting the most from this product
+Keep the unit shielded from direct room illumination or sunlight until installation to protect the sensitive photosensitive drum surface.
+
+## Frequently asked questions
+Does it include developer? No, this is the imaging drum unit only (DK-703); developer is housed separately.
+What is the expected page yield? Up to ~300,000 pages.
+How fast is Nairobi shipping? Delivered within 1 to 3 hours across Nairobi CBD.
+How do I pay? Pay via M-Pesa, bank wire, or cash.
+Is warranty provided? Covered against factory defects prior to installation.`, "metaTitle": "Kyocera KM-2560 / TASKalfa 300i Drum Unit Price", "metaDescription": "Order compatible Kyocera KM-2560 & TASKalfa 300i drum unit in Nairobi. Replaces DK-703 for high-volume copiers. Fast Kenya delivery.", "inStock": true},
   {"id": 5248, "sku": null, "name": "Km 6525 Drum", "brand": "Other", "category": "Maintenance Kits & Spare Parts", "price": 9500, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/Km-6525-Drum-scaled.webp", "imageFile": "Km-6525-Drum-scaled.webp", "description": `The Km 6525 Drum (DK-475 compatible) is a complete replacement imaging drum unit for Kyocera ECOSYS and TASKalfa multifunction copiers. Engineered to restore factory-level print clarity, sharp black text, and clear document contrast for busy office networks in Kenya.
 
 ## Compatible printers

@@ -1989,8 +1989,76 @@ Do I need the black too? Yes. HP 827A black is CF300A at around 29,500 pages, an
 How fast is delivery? Same day within Nairobi where stock is held, otherwise we will confirm lead time when you order.
 Can I return it? Yes, sealed and unused.
 Can I run a colour job with one cartridge empty? No. These machines halt rather than substituting another colour, so keep all four stocked.`, "metaTitle": "HP 827A Colour Toner Cartridges - Genuine HP Kenya", "metaDescription": "Genuine HP 827A colour toner, 32,000 pages each, for HP Color LaserJet Enterprise flow MFP M880. Nairobi stock, delivered across Kenya.", "inStock": true},
-  {"id": 5059, "sku": "CF358A", "name": "HP 828A Black Drum Laserjet Image (CF358A)", "brand": "HP", "category": "HP Original Toners", "price": 26000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/HP-828A-Black-Drum-Laserjet-Image-CF358A-scaled.webp", "imageFile": "HP-828A-Black-Drum-Laserjet-Image-CF358A-scaled.webp", "description": "HP 828A BLACK DRUM LASERJET IMAGE (CF358A", "inStock": true},
-  {"id": 5058, "sku": null, "name": "HP 828A Drum Units Cym Each", "brand": "HP", "category": "HP Original Toners", "price": 36000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/HP-828A-Drum-Units-Cym-Each-scaled.webp", "imageFile": "HP-828A-Drum-Units-Cym-Each-scaled.webp", "description": "HP 828A DRUM UNITS CYM EACH", "inStock": true},
+  {"id": 5059, "sku": "CF358A", "name": "HP 828A Black Drum Laserjet Image (CF358A)", "brand": "HP", "category": "HP Original Toners", "price": 26000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/HP-828A-Black-Drum-Laserjet-Image-CF358A-scaled.webp", "imageFile": "HP-828A-Black-Drum-Laserjet-Image-CF358A-scaled.webp", "description": `The HP 828A Black Drum Laserjet Image (CF358A) is an original high-capacity black imaging drum unit for HP LaserJet Enterprise color printers. Formulated to deliver ultra-sharp black text and deep monochrome contrast across heavy office print runs in Kenya.
+
+## Compatible printers
+HP LaserJet Enterprise Flow MFP M880z
+HP LaserJet Enterprise Flow MFP M880z+
+HP LaserJet Enterprise M855dn
+HP LaserJet Enterprise M855xh
+If your model isn't listed, send us the number from the front of the machine and we'll confirm before you pay.
+
+## Specifications
+| Page yield | ~30,000 pages |
+|---|---|
+| Part type | Imaging Drum Unit |
+| Colour | Black |
+| Part number | CF358A / 828A |
+| Genuine or compatible | Genuine |
+
+## Genuine or compatible?
+Genuine Original HP product entry. Royal compatible alternative black drum units are also stocked to cut corporate printing overhead.
+
+## Why buy from Trinatech
+Stock held in Nairobi CBD.
+Delivery across Kenya including Kisumu, Nakuru, Eldoret, and Mombasa.
+M-Pesa and bank transfer accepted.
+WhatsApp ordering and walk-in options at The One Mall, River Road.
+
+## Getting the most from this product
+Store horizontally in ambient room conditions. Ensure protective covers are fully removed prior to insertion into the printer carriage.
+
+## Frequently asked questions
+Is this a toner cartridge? No, this is the black imaging drum unit (CF358A); black toner is separate.
+What is the yield? Up to ~30,000 pages.
+How fast is Nairobi delivery? Same-day inside 1 to 3 hours.
+How do I pay? Pay via M-Pesa Buy Goods/Till or bank wire.
+Is warranty provided? Covered under official HP manufacturer warranty.`, "metaTitle": "HP 828A Black LaserJet Imaging Drum Price - Trinatech", "metaDescription": "Buy genuine HP 828A Black imaging drum in Nairobi. Yields ~30,000 pages for LaserJet Enterprise M855 & MFP M880. Fast Kenya delivery.", "inStock": true},
+  {"id": 5058, "sku": null, "name": "HP 828A Drum Units Cym Each", "brand": "HP", "category": "HP Original Toners", "price": 36000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/HP-828A-Drum-Units-Cym-Each-scaled.webp", "imageFile": "HP-828A-Drum-Units-Cym-Each-scaled.webp", "description": `The HP 828A Drum Units Cym Each (Cyan CF359A, Magenta CF360A, Yellow CF361A) supply original high-capacity imaging drums for HP LaserJet Enterprise color printers. Formulated for brilliant color accuracy and sharp graphic rendering in Nairobi.
+
+## Compatible printers
+HP LaserJet Enterprise Flow MFP M880z
+HP LaserJet Enterprise Flow MFP M880z+
+HP LaserJet Enterprise M855dn
+HP LaserJet Enterprise M855xh
+If your model isn't listed, send us the number from the front of the machine and we'll confirm before you pay.
+
+## Specifications
+| Page yield | ~30,000 pages each |
+|---|---|
+| Part type | Imaging Drum Unit |
+| Colour | Cyan, Magenta, Yellow |
+| Part number | CF359A / CF360A / CF361A |
+| Genuine or compatible | Genuine |
+
+## Genuine or compatible?
+Genuine Original HP supply unit. Royal compatible brand alternative drums are also available for enterprise cost savings.
+
+## Why buy from Trinatech
+Stock held in Nairobi CBD.
+Delivery across Kenya including Kisumu, Nakuru, Eldoret, and Mombasa.
+M-Pesa and bank transfer accepted.
+WhatsApp ordering and walk-in options at The One Mall, River Road.
+
+## Getting the most from this product
+Keep drums sealed in packaging until deployment. Avoid exposing photosensitive drums to direct light.
+
+## Frequently asked questions
+Are colors sold separately? Yes, priced each per individual color drum unit.
+What is the yield? Up to ~30,000 pages per drum.
+How fast is Nairobi shipping? Delivered within 1 to 3 hours across Nairobi CBD.
+How can I pay? Pay via M-Pesa, bank wire, or cash.
+Is warranty provided? Covered under official HP warranty.`, "metaTitle": "HP 828A Color LaserJet Imaging Drum Price - Trinatech", "metaDescription": "Shop genuine HP 828A Cyan, Magenta, Yellow drum units in Nairobi. Yields ~30,000 pages for Enterprise M855, M880. Fast Kenya delivery.", "inStock": true},
   {"id": 3542, "sku": null, "name": "HP 83A Black Original Laserjet Toner Cartridge", "brand": "HP", "category": "Inks & Toner Cartridges", "price": 5500, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2024/12/HP-83A-Toner.png", "imageFile": "HP-83A-Toner.png", "description": `The HP 83A black toner cartridge is the genuine Original HP replacement, part number CF283A, for the HP LaserJet Pro M125, M127, M201 and M225 series. These compact mono lasers and all-in-ones sold in large numbers to small offices, clinics and shopfronts, and plenty are still in daily service.
 
 ## Compatible printers

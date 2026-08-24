@@ -128,7 +128,46 @@ Is BT6000BK the same as BT-D60BK? No, BT6000BK is for older models (T300/T500W),
 How fast is upcountry shipping? Delivered within 24 hours nationwide.
 What payment options exist? Pay via M-Pesa Buy Goods or Till.
 Is warranty included? Standard shop return policy applies.`, "metaTitle": "Brother BT6000BK Black Ink Bottle - Trinatech Kenya", "metaDescription": "Buy Brother BT6000BK black ink bottle in Nairobi. Yields ~6,000 pages for DCP-T300, T500W, T700W, MFC-T800W. Fast Kenya shipping.", "inStock": true},
-  {"id": 5558, "sku": "DR-2305", "name": "Brother DR-2305 Drum Unit", "brand": "Brother", "category": "Brother Toners", "price": 3500, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/Brother-DR-2305-Drum-Unit.webp", "imageFile": "Brother-DR-2305-Drum-Unit.webp", "description": "BROTHER DR-2305 DRUM UNIT", "inStock": true},
+  {"id": 5558, "sku": "DR-2305", "name": "Brother DR-2305 Drum Unit", "brand": "Brother", "category": "Brother Toners", "price": 3500, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/Brother-DR-2305-Drum-Unit.webp", "imageFile": "Brother-DR-2305-Drum-Unit.webp", "description": `The Brother DR-2305 Drum Unit is an authentic replacement drum cartridge designed for Brother monochrome laser printers and multi-function centers. Formulated to deliver sharp text definition and long-lasting print reliability across Kenya.
+
+## Compatible printers
+Brother DCP-L2520DW
+Brother DCP-L2540DN
+Brother HL-L2300D
+Brother HL-L2320D
+Brother HL-L2340DW
+Brother HL-L2360DN
+Brother HL-L2365DW
+Brother MFC-L2700DW
+Brother MFC-L2720DW
+Brother MFC-L2740DW
+If your model isn't listed, send us the number from the front of the machine and we'll confirm before you pay.
+
+## Specifications
+| Page yield | ~12,000 pages |
+|---|---|
+| Part type | Drum Unit |
+| Colour | Black |
+| Part number | DR-2305 / DR-2325 |
+| Genuine or compatible | Genuine / Compatible |
+
+## Genuine or compatible?
+Covers original Genuine Brother drum units; Royal compatible alternative drum units are also available to lower printing costs for small businesses.
+
+## Why buy from Trinatech
+Stock held in Nairobi CBD.
+Delivery across Kenya including Kisumu, Nakuru, Eldoret, and Mombasa.
+M-Pesa and bank transfer accepted.
+WhatsApp ordering and walk-in options at The One Mall, River Road.
+
+## Getting the most from this product
+Clean the primary corona wire inside the drum unit periodically by sliding the green tab back and forth to prevent vertical streaks on prints.
+
+## Frequently asked questions
+Does it include toner? No, the DR-2305 is the drum unit; toner cartridge (TN-2305 / TN-2340) is sold separately.
+How fast is Nairobi shipping? Delivered within 1 to 3 hours across Nairobi CBD.
+How can I pay? Pay via M-Pesa, bank wire, or cash.
+Is warranty provided? Covered against factory defects.`, "metaTitle": "Brother DR-2305 Drum Unit Price - Trinatech Kenya", "metaDescription": "Buy genuine Brother DR-2305 drum unit in Nairobi. Yields ~12,000 pages for HL-L2320D, L2360DN, MFC-L2700DW. Fast delivery in Kenya.", "inStock": true},
   {"id": 5357, "sku": "LC3717", "name": "Brother LC3717 Black Ink Cartridges", "brand": "Brother", "category": "Brother Inks Cartridges", "price": 3000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/Brother-LC3717-Black-Ink-Cartridges.webp", "imageFile": "Brother-LC3717-Black-Ink-Cartridges.webp", "description": `The Brother LC3717 Black Ink Cartridge ensures your Brother Business Smart printer delivers professional, razor-sharp text for all your important documentation. Delivering a standard yield of up to 550 pages, this genuine pigment ink is highly resistant to water, fading, and highlighter smears. It is the perfect, reliable choice for small businesses and home offices that want consistent, trouble-free performance from their A3 multifunction inkjet.
 
 ## Compatible printers

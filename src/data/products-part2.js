@@ -298,7 +298,40 @@ Will HP 116A fit instead? No. The 116A is for a different HP Color Laser range d
   {"id": 5180, "sku": "W2070A", "name": "HP 117A Black Toner Cartridge (W2070A)", "brand": "HP", "category": "HP Original Toners", "price": 7500, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/HP-117A-Black-Toner-Cartridge-W2070A.webp", "imageFile": "HP-117A-Black-Toner-Cartridge-W2070A.webp", "description": "HP 117A BLACK TONER CARTRIDGE (W2070A", "inStock": true},
   {"id": 5179, "sku": "CF214A-2", "name": "HP 117A Cym Toner Laserjet Cartridge Each (CF214A)", "brand": "HP", "category": "HP Original Toners", "price": 7500, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/HP-117A-Cym-Toner-Laserjet-Cartridge-Each-CF214A.webp", "imageFile": "HP-117A-Cym-Toner-Laserjet-Cartridge-Each-CF214A.webp", "description": "HP 117A CYM TONER LASERJET CARTRIDGE EACH (CF214A", "inStock": true},
   {"id": 5178, "sku": "Q6511A", "name": "HP 11A Black Toner Original Laserjet (Q6511A)", "brand": "HP", "category": "HP Original Toners", "price": 11000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/HP-11A-Black-Toner-Original-Laserjet-Q6511A.webp", "imageFile": "HP-11A-Black-Toner-Original-Laserjet-Q6511A.webp", "description": "The HP 11A black toner cartridge is the genuine Original HP replacement, part number Q6511A, for the HP LaserJet 2410, 2420 and 2430 series. These were workgroup machines built to a standard that has kept many of them running long past their contemporaries.\n\n## Compatible printers\nHP LaserJet 2410 Printer\nHP LaserJet 2410n Printer\nHP LaserJet 2420 Printer\nHP LaserJet 2420d Printer\nHP LaserJet 2420dn Printer\nHP LaserJet 2420n Printer\nHP LaserJet 2430 Printer\nHP LaserJet 2430n Printer\nHP LaserJet 2430t Printer\nHP LaserJet 2430tn Printer\nIf your model isn't listed, send us the number from the front of the machine and we'll confirm before you pay.\n\n## Specifications\n| Page yield | Cartridge type | Colour | Capacity | Part number | Genuine or compatible |\n|---|---|---|---|---|---|\n| 6,000 pages at 5% coverage | Laser toner cartridge | Black | Standard capacity | Q6511A | Genuine Original HP |\n\n## Genuine or compatible?\nGenuine, Original HP in the sealed box. Not a refill and not our Royal house brand, which is always sold under the Royal name. HP has discontinued this cartridge, which matters when you are buying: remaining genuine stock is finite, and the gap gets filled by remanufactured and counterfeit product. The signs of a fake are grey rather than black text, poor fusing and toner escaping into the machine. On a printer that has already given you years of service, that is a poor trade. Ask us and we will tell you honestly what we hold.\n\n## Why buy from Trinatech\nDepartmental-class stock held in the Nairobi CBD rather than ordered in on request.\nCountrywide courier delivery, Nakuru, Eldoret, Kisumu and Mombasa included.\nM-Pesa or bank transfer, with proper invoicing and LPO handling for corporate accounts.\nWhatsApp us the model number, or visit The One Mall on River Road.\n\n## Getting the most from this cartridge\nRock the cartridge gently side to side before fitting and remove the sealing strip completely.\nWhen print goes faint, take it out and rock it again before ordering. On these older designs that reliably buys another fifty pages or so.\nStore spares flat and boxed, away from heat and damp. Toner clumps in humidity and clumped toner streaks down the page.\n6,000 pages assumes 5% coverage. Forms, invoices with heavy rules and dark headers will come in under that.\n\n## Frequently asked questions\nIs there a higher-yield version? Yes, HP 11X (Q6511X) fits the same printers and holds around 12,000 pages, double the 11A.\nDo I need a separate drum? No. The drum is built into the cartridge, so both are replaced together.\nHow fast is delivery? Same day within Nairobi, next working day to most towns.\nCan I return it? Yes, sealed and unused.\nMy printer is well over a decade old. Is it still worth buying toner for? Usually yes. These machines were built to last and a cartridge costs a fraction of a replacement printer. If the drum or fuser is failing, we will tell you rather than sell you toner that will not fix it.", "metaTitle": "HP 11A Black Toner Q6511A - Genuine HP Kenya", "metaDescription": "Genuine HP 11A black toner (Q6511A), 6,000 pages, for LaserJet 2410 Printer and related models. Nairobi stock, delivered across Kenya.", "inStock": true},
-  {"id": 5177, "sku": "W1120", "name": "HP 120A Imaging Drum (W1120)", "brand": "HP", "category": "HP Original Toners", "price": 15000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/HP-120A-Imaging-Drum-W1120.webp", "imageFile": "HP-120A-Imaging-Drum-W1120.webp", "description": "HP 120A IMAGING DRUM (W1120", "inStock": true},
+  {"id": 5177, "sku": "W1120", "name": "HP 120A Imaging Drum (W1120)", "brand": "HP", "category": "HP Original Toners", "price": 15000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/HP-120A-Imaging-Drum-W1120.webp", "imageFile": "HP-120A-Imaging-Drum-W1120.webp", "description": `The HP 120A Imaging Drum (W1120) is an original replacement imaging drum unit designed for compact HP color laser printers. Engineered to work in tandem with individual toner cartridges to deliver sharp black text and vibrant color output across Kenya.
+
+## Compatible printers
+HP Color Laser 150a
+HP Color Laser 150nw
+HP Color Laser MFP 178nw
+HP Color Laser MFP 179fnw
+If your printer model isn't listed, send us the number from the front of the machine and we'll confirm before you pay.
+
+## Specifications
+| Page yield | ~16,000 pages (BK) / ~4,000 (Color) |
+|---|---|
+| Part type | Imaging Drum Unit |
+| Colour | Black / Cyan / Magenta / Yellow |
+| Part number | W1120A / 120A |
+| Genuine or compatible | Genuine |
+
+## Genuine or compatible?
+Genuine Original HP product. Royal compatible alternative drum units are also stocked to help lower operating costs on heavy color printing.
+
+## Why buy from Trinatech
+Stock held in Nairobi CBD.
+Delivery across Kenya including Kisumu, Nakuru, Eldoret, and Mombasa.
+M-Pesa and bank transfer accepted.
+WhatsApp ordering and walk-in options at The One Mall, River Road.
+
+## Getting the most from this product
+Keep the imaging drum protected from direct light during installation. Reset printer drum counter warnings through the device menu after replacement.
+
+## Frequently asked questions
+Does this include toner? No, the 120A is the imaging drum unit; toner cartridges are sold separately.
+How fast is Nairobi delivery? Delivered within 1 to 3 hours across Nairobi CBD.
+How can I pay? Pay via M-Pesa Buy Goods/Till, bank wire, or cash.
+Is warranty provided? Covered under HP manufacturer warranty.`, "metaTitle": "HP 120A Imaging Drum W1120 Price - Trinatech Kenya", "metaDescription": "Buy genuine HP 120A imaging drum W1120 in Nairobi. Yields ~16,000 pages for HP Color Laser 150a, 150nw, MFP 178nw, 179fnw. Fast delivery.", "inStock": true},
   {"id": 5502, "sku": "CC640H-2", "name": "HP 121 Black Ink Original Cartridge (CC640HE)", "brand": "HP", "category": "Original Hp Ink Cartridges", "price": 2800, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/HP-121-Black-Ink-Original-Cartridge-CC640HE.webp", "imageFile": "HP-121-Black-Ink-Original-Cartridge-CC640HE.webp", "description": "HP 121 BLACK INK ORIGINAL CARTRIDGE (CC640HE", "inStock": true},
   {"id": 3588, "sku": null, "name": "HP 121 Black Original Ink Cartridge", "brand": "HP", "category": "Inks & Toner Cartridges", "price": 4500, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2024/12/HP-121-Black-Ink.png", "imageFile": "HP-121-Black-Ink.png", "description": `The HP 121 black ink cartridge is the genuine Original HP replacement, part number CC640HE, for older HP DeskJet, PhotoSmart and ENVY all-in-ones. It is aimed at the small office still running a reliable machine from that generation, where the printer works fine and only the ink has run out. Pigment-based black ink means text holds up to handling, stamping and filing.
 
@@ -705,7 +738,41 @@ Do I need the other cartridges too? In time yes. The set is black CE310A at 1,20
 How fast is delivery? Same day within Nairobi, next working day upcountry.
 Can I return it? Yes, sealed and unused.
 My pages are streaked even with a new cartridge. What now? That usually points to the imaging drum, CE314A, rather than the toner. Bring the machine details to us and we will work out which part you actually need.`, "metaTitle": "HP 126A Cyan Toner CE311A - Genuine HP Kenya", "metaDescription": "Genuine HP 126A cyan toner (CE311A), 1,000 pages, for HP LaserJet Pro CP1025, MFP M175 and TopShot M275. Nairobi stock, delivered Kenya-wide.", "inStock": true},
-  {"id": 5170, "sku": "CE314A", "name": "HP 126A Imaging Drum Laserjet (CE314A)", "brand": "HP", "category": "HP Original Toners", "price": 4500, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/HP-126A-Imaging-Drum-Laserjet-CE314A.webp", "imageFile": "HP-126A-Imaging-Drum-Laserjet-CE314A.webp", "description": "HP 126A IMAGING DRUM LASERJET (CE314A", "inStock": true},
+  {"id": 5170, "sku": "CE314A", "name": "HP 126A Imaging Drum Laserjet (CE314A)", "brand": "HP", "category": "HP Original Toners", "price": 4500, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/HP-126A-Imaging-Drum-Laserjet-CE314A.webp", "imageFile": "HP-126A-Imaging-Drum-Laserjet-CE314A.webp", "description": `The HP 126A Imaging Drum Laserjet (CE314A) is an original 4-in-1 imaging drum unit designed for HP LaserJet Pro color printers. Engineered to transfer black and color toner accurately for smooth graphics and crisp text across Kenya.
+
+## Compatible printers
+HP LaserJet Pro CP1025nw
+HP LaserJet Pro MFP M175a
+HP LaserJet Pro MFP M175nw
+HP LaserJet Pro MFP M275nw
+If your model isn't listed, send us the number from the front of the machine and we'll confirm before you pay.
+
+## Specifications
+| Page yield | ~14,000 BK / ~7,000 Color |
+|---|---|
+| Part type | Imaging Drum Unit |
+| Colour | Black, Cyan, Magenta, Yellow |
+| Part number | CE314A / 126A |
+| Genuine or compatible | Genuine |
+
+## Genuine or compatible?
+Genuine Original HP product entry. Royal compatible brand alternative CE314A drum units are also available to lower color print costs.
+
+## Why buy from Trinatech
+Stock held in Nairobi CBD.
+Delivery across Kenya including Kisumu, Nakuru, Eldoret, and Mombasa.
+M-Pesa and bank transfer accepted.
+WhatsApp ordering and walk-in options at The One Mall, River Road.
+
+## Getting the most from this product
+Rotate drum gear gently and avoid touching the roller surface during replacement.
+
+## Frequently asked questions
+Does this drum take all four colors? Yes, the single CE314A drum unit handles the imaging cycle for all four toner slots.
+What is the yield? ~14,000 monochrome or ~7,000 color pages.
+How fast is Nairobi delivery? Same-day inside 1 to 3 hours.
+How do I pay? Pay via M-Pesa Buy Goods/Till or bank wire.
+Is warranty provided? Covered against factory defects.`, "metaTitle": "HP 126A CE314A LaserJet Imaging Drum - Trinatech Kenya", "metaDescription": "Buy genuine HP 126A CE314A imaging drum in Nairobi. Yields ~14,000 BK / 7,000 Color pages for LaserJet Pro CP1025nw, MFP M175nw. Fast delivery.", "inStock": true},
   {"id": 5169, "sku": "CE313A", "name": "HP 126A Magneta Toner Original Laserjet (CE313A)", "brand": "HP", "category": "HP Original Toners", "price": 4500, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/HP-126A-Magneta-Toner-Original-Laserjet-CE313A.webp", "imageFile": "HP-126A-Magneta-Toner-Original-Laserjet-CE313A.webp", "description": `The HP 126A magenta toner cartridge is the genuine Original HP replacement, part number CE313A, for the HP LaserJet Pro CP1025, the 100 colour MFP M175 and the TopShot M275. These are the smallest colour lasers HP built, aimed at a desk or a small reception area that needs occasional colour rather than volume.
 
 ## Compatible printers
@@ -1403,8 +1470,79 @@ How soon can I get it? Same day within Nairobi, next working day upcountry.
 Can I return it? Yes, if it is sealed and unused.
 My printer says the cartridge is not genuine. What now? Reseat it and clean the chip contacts with a dry cloth. If it persists on a cartridge bought from us, bring it in and we will sort it out.`, "metaTitle": "HP 17A Black Toner Cartridge CF217A - Genuine HP Kenya", "metaDescription": "Genuine HP 17A black toner (CF217A), 1,600 pages, for HP LaserJet Pro M102a, M102w and MFP M130 series. Nairobi stock, delivered Kenya-wide.", "inStock": true},
   {"id": 5146, "sku": "CF217A", "name": "HP 17A Black Toner Laserjet (CF217A)", "brand": "HP", "category": "HP Original Toners", "price": 7000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/HP-17A-Black-Toner-Laserjet-CF217A-scaled.webp", "imageFile": "HP-17A-Black-Toner-Laserjet-CF217A-scaled.webp", "description": "HP 17A BLACK TONER LASERJET (CF217A", "inStock": true},
-  {"id": 5145, "sku": null, "name": "HP 19A Imaging Drum Unit", "brand": "HP", "category": "HP Original Toners", "price": 8000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/HP-19A-Imaging-Drum-Unit-scaled.webp", "imageFile": "HP-19A-Imaging-Drum-Unit-scaled.webp", "description": "HP 19A IMAGING DRUM UNIT", "inStock": true},
-  {"id": 4123, "sku": null, "name": "HP 19A Original Laserjet Imaging Drum", "brand": "HP", "category": "Inks & Toner Cartridges", "price": 8000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2025/01/HP-19A-LaserJet-Imaging-Drum.png", "imageFile": "HP-19A-LaserJet-Imaging-Drum.png", "description": "Compatible with: HP LaserJet Pro M102 series (M102a, M102w) HP LaserJet Pro MFP M130 series (M130a, M130fn, M130fw, M130nw)", "inStock": true},
+  {"id": 5145, "sku": null, "name": "HP 19A Imaging Drum Unit", "brand": "HP", "category": "HP Original Toners", "price": 8000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/HP-19A-Imaging-Drum-Unit-scaled.webp", "imageFile": "HP-19A-Imaging-Drum-Unit-scaled.webp", "description": `The HP 19A Imaging Drum Unit (CF219A) is an original replacement drum unit designed for HP LaserJet Pro monochrome printers. Formulated to ensure crisp text clarity and reliable page yield for small office document workflows in Nairobi.
+
+## Compatible printers
+HP LaserJet Pro M102a
+HP LaserJet Pro M102w
+HP LaserJet Pro MFP M130a
+HP LaserJet Pro MFP M130fn
+HP LaserJet Pro MFP M130fw
+HP LaserJet Pro MFP M130nw
+If your model isn't listed, send us the number from the front of the machine and we'll confirm before you pay.
+
+## Specifications
+| Page yield | ~12,000 pages |
+|---|---|
+| Part type | Imaging Drum Unit |
+| Colour | Black |
+| Part number | CF219A / 19A |
+| Genuine or compatible | Genuine / Compatible |
+
+## Genuine or compatible?
+Covers original Genuine HP 19A drum units; Royal compatible brand alternative drum units are also available for budget-conscious print operations.
+
+## Why buy from Trinatech
+Stock held in Nairobi CBD.
+Delivery across Kenya including Kisumu, Nakuru, Eldoret, and Mombasa.
+M-Pesa and bank transfer accepted.
+WhatsApp ordering and walk-in options at The One Mall, River Road.
+
+## Getting the most from this product
+Install the separate toner cartridge (HP 17A) into the new drum housing carefully until it clicks securely into place.
+
+## Frequently asked questions
+Is toner included with the drum? No, the HP 19A is the drum unit; toner (HP 17A) is sold separately.
+How fast is Nairobi shipping? Same-day inside 1 to 3 hours.
+How do I pay? Pay via M-Pesa or bank transfer.
+Is warranty provided? Covered against factory defects.`, "metaTitle": "HP 19A Original LaserJet Imaging Drum Price - Trinatech", "metaDescription": "Shop genuine HP 19A CF219A imaging drum in Nairobi. Yields ~12,000 pages for LaserJet Pro M102a, M102w, MFP M130a, M130fn. Fast delivery.", "inStock": true},
+  {"id": 4123, "sku": null, "name": "HP 19A Original Laserjet Imaging Drum", "brand": "HP", "category": "Inks & Toner Cartridges", "price": 8000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2025/01/HP-19A-LaserJet-Imaging-Drum.png", "imageFile": "HP-19A-LaserJet-Imaging-Drum.png", "description": `The HP 19A Original LaserJet Imaging Drum delivers authentic HP engineering for consistent monochrome print quality. Designed to pair with HP 17A toner cartridges to maintain high-speed printing performance across offices in Kenya.
+
+## Compatible printers
+HP LaserJet Pro M102a
+HP LaserJet Pro M102w
+HP LaserJet Pro MFP M130a
+HP LaserJet Pro MFP M130fn
+HP LaserJet Pro MFP M130fw
+HP LaserJet Pro MFP M130nw
+If your model isn't listed, send us the number from the front of the machine and we'll confirm before you pay.
+
+## Specifications
+| Page yield | ~12,000 pages |
+|---|---|
+| Part type | Imaging Drum Unit |
+| Colour | Black |
+| Part number | CF219A / 19A |
+| Genuine or compatible | Genuine |
+
+## Genuine or compatible?
+Genuine Original HP product entry. Royal compatible brand alternative drum units are also stocked for reduced operational costs.
+
+## Why buy from Trinatech
+Stock held in Nairobi CBD.
+Delivery across Kenya including Kisumu, Nakuru, Eldoret, and Mombasa.
+M-Pesa and bank transfer accepted.
+WhatsApp ordering and walk-in options at The One Mall, River Road.
+
+## Getting the most from this product
+Avoid touching the roller cylinder surface with fingers to prevent oils from causing print smudges.
+
+## Frequently asked questions
+What is the expected yield? Up to ~12,000 pages under standard office test conditions.
+Are alternative brands available? Yes, compatible 19A units are also available.
+How fast is Nairobi delivery? Delivered within 1 to 3 hours in Nairobi CBD.
+How can I pay? M-Pesa, bank wire, or cash.
+Is warranty provided? Standard official warranty applies.`, "metaTitle": "HP 19A Original LaserJet Imaging Drum - Trinatech Kenya", "metaDescription": "Buy genuine HP 19A CF219A imaging drum unit in Nairobi. Yields ~12,000 pages for LaserJet Pro M102 & MFP M130 series. Fast Kenya delivery.", "inStock": true},
   {"id": 3507, "sku": null, "name": "HP 200 G4 All-In-One Pc Core I3 10Th Gen 4GB 1TB 18.5in", "brand": "HP", "category": "Computers & Computer Accessories", "price": 80000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2024/12/HP-All-in-One-PC-200-G4.png", "imageFile": "HP-All-in-One-PC-200-G4.png", "description": "The HP 200 G4 All-in-One PC is a compact and efficient solution for users who need reliable performance without the clutter of traditional desktop setups.", "inStock": true},
   {"id": 4808, "sku": null, "name": "HP 201A Black Original Laserjet Toner Cartridge", "brand": "HP", "category": "Inks & Toner Cartridges", "price": 7500, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2025/07/HP-201A-Black-Original-Toner.png", "imageFile": "HP-201A-Black-Original-Toner.png", "description": `The HP 201A black toner cartridge is the genuine Original HP replacement, part number CF400A, for the HP Color LaserJet Pro M252 and MFP M277 series. These are compact colour lasers built for offices that print presentable colour daily without needing a departmental machine.
 
@@ -2591,8 +2729,82 @@ Do I need the other cartridges too? In time yes. The set is black CF380A at 2,40
 How fast is delivery? Same day within Nairobi, next working day upcountry.
 Can I return it? Yes, sealed and unused.
 Will the printer stop if one cartridge runs out? On most of these models yes, even for a black-only job, so watch all four levels.`, "metaTitle": "HP 312A Yellow Toner CF382A - Genuine HP Kenya", "metaDescription": "Genuine HP 312A yellow toner (CF382A), 2,700 pages, for HP Color LaserJet Pro MFP M476dn, M476dw and M476nw. Nairobi stock, delivered across Kenya.", "inStock": true},
-  {"id": 5111, "sku": "CF232A", "name": "HP 32A Laserjet Imaging Drum (CF232A)", "brand": "HP", "category": "HP Original Toners", "price": 9000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/HP-32A-Laserjet-Imaging-Drum-CF232A-scaled.webp", "imageFile": "HP-32A-Laserjet-Imaging-Drum-CF232A-scaled.webp", "description": "HP 32A LASERJET IMAGING DRUM (CF232A", "inStock": true},
-  {"id": 4138, "sku": null, "name": "HP 32A Original Laserjet Imaging Drum", "brand": "HP", "category": "Inks & Toner Cartridges", "price": 7500, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2025/01/HP-32A-LaserJet-Imaging-Drum.png", "imageFile": "HP-32A-LaserJet-Imaging-Drum.png", "description": "Compatible with: HP LaserJet Pro M118dw HP LaserJet Pro MFP M148dw / M148fdw HP LaserJet Pro M203dn / M203dw HP LaserJet Pro MFP M227fdn / M227fdw / M227sdn", "inStock": true},
+  {"id": 5111, "sku": "CF232A", "name": "HP 32A Laserjet Imaging Drum (CF232A)", "brand": "HP", "category": "HP Original Toners", "price": 9000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/HP-32A-Laserjet-Imaging-Drum-CF232A-scaled.webp", "imageFile": "HP-32A-Laserjet-Imaging-Drum-CF232A-scaled.webp", "description": `The HP 32A Laserjet Imaging Drum (CF232A) supplies original high-endurance drum components for HP LaserJet Pro monochrome printers. Built for clean text definition and reliable heavy-duty office document printing in Nairobi.
+
+## Compatible printers
+HP LaserJet Pro M203d
+HP LaserJet Pro M203dn
+HP LaserJet Pro M203dw
+HP LaserJet Pro MFP M227d
+HP LaserJet Pro MFP M227fdn
+HP LaserJet Pro MFP M227fdw
+HP LaserJet Pro MFP M227sdn
+If your model isn't listed, send us the number from the front of the machine and we'll confirm before you pay.
+
+## Specifications
+| Page yield | ~23,000 pages |
+|---|---|
+| Part type | Imaging Drum Unit |
+| Colour | Black |
+| Part number | CF232A / 32A |
+| Genuine or compatible | Genuine / Compatible |
+
+## Genuine or compatible?
+Covers original Genuine HP supply units; Royal compatible brand alternative 32A drum units are also stocked for maximum operational savings.
+
+## Why buy from Trinatech
+Stock held in Nairobi CBD.
+Delivery across Kenya including Kisumu, Nakuru, Eldoret, and Mombasa.
+M-Pesa and bank transfer accepted.
+WhatsApp ordering and walk-in options at The One Mall, River Road.
+
+## Getting the most from this product
+Keep sealed in box until deployment. Clean printer interior dust tracks when swapping drum units.
+
+## Frequently asked questions
+Is a compatible version available? Yes, high-grade compatible 32A drums are available at lower prices.
+What is the yield? Up to ~23,000 pages.
+How fast is Nairobi shipping? Delivered within 1 to 3 hours across Nairobi CBD.
+How can I pay? Pay via M-Pesa, bank wire, or cash.
+Is warranty provided? Covered under standard shop defect warranty.`, "metaTitle": "HP 32A CF232A LaserJet Imaging Drum Price - Trinatech", "metaDescription": "Order genuine HP 32A CF232A imaging drum in Nairobi. Yields ~23,000 pages for LaserJet Pro M203 & MFP M227 printers. Fast Kenya delivery.", "inStock": true},
+  {"id": 4138, "sku": null, "name": "HP 32A Original Laserjet Imaging Drum", "brand": "HP", "category": "Inks & Toner Cartridges", "price": 7500, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2025/01/HP-32A-LaserJet-Imaging-Drum.png", "imageFile": "HP-32A-LaserJet-Imaging-Drum.png", "description": `The HP 32A Original Laserjet Imaging Drum (CF232A) is an authentic high-yield replacement drum unit designed for HP LaserJet Pro monochrome printers. Engineered for sharp text definition and professional document output across Kenya.
+
+## Compatible printers
+HP LaserJet Pro M203d
+HP LaserJet Pro M203dn
+HP LaserJet Pro M203dw
+HP LaserJet Pro MFP M227d
+HP LaserJet Pro MFP M227fdn
+HP LaserJet Pro MFP M227fdw
+HP LaserJet Pro MFP M227sdn
+If your model isn't listed, send us the number from the front of the machine and we'll confirm before you pay.
+
+## Specifications
+| Page yield | ~23,000 pages |
+|---|---|
+| Part type | Imaging Drum Unit |
+| Colour | Black |
+| Part number | CF232A / 32A |
+| Genuine or compatible | Genuine |
+
+## Genuine or compatible?
+Genuine Original HP product entry. Royal compatible brand alternative 32A drum units are also stocked to reduce ongoing print operating costs.
+
+## Why buy from Trinatech
+Stock held in Nairobi CBD.
+Delivery across Kenya including Kisumu, Nakuru, Eldoret, and Mombasa.
+M-Pesa and bank transfer accepted.
+WhatsApp ordering and walk-in options at The One Mall, River Road.
+
+## Getting the most from this product
+Store unopened in cool, dry conditions. Ensure toner cartridge (HP 30A) is correctly seated above the drum unit during installation.
+
+## Frequently asked questions
+Does it include toner? No, the HP 32A is the drum unit; toner cartridge is sold separately.
+What is the page yield? Up to ~23,000 pages.
+How fast is Nairobi delivery? Same-day inside 1 to 3 hours.
+How do I pay? M-Pesa Buy Goods/Till, bank wire, or cash.
+Is warranty provided? Covered under HP official warranty.`, "metaTitle": "HP 32A Original LaserJet Imaging Drum - Trinatech Kenya", "metaDescription": "Buy genuine HP 32A CF232A imaging drum in Nairobi. Yields ~23,000 pages for LaserJet Pro MFP M203dw, M227fdw. Fast delivery in Kenya.", "inStock": true},
   {"id": 4587, "sku": null, "name": "HP 35A Black Original Laserjet Toner Cartridge (CB435A)", "brand": "HP", "category": "Inks & Toner Cartridges", "price": 5500, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2025/07/HP-35A-Black-Original-LaserJet-Toner-Cartridge.png", "imageFile": "HP-35A-Black-Original-LaserJet-Toner-Cartridge.png", "description": `The HP 35A black toner cartridge is the genuine Original HP replacement, part number CB435A, for the HP LaserJet P1005 and P1006. These small mono lasers were sold in large numbers to home offices, small shops and schools, and the cartridge is the only part that ever needs buying. Laser output does not run or fade the way inkjet can, which matters for receipts and records kept in a humid office.
 
 ## Compatible printers

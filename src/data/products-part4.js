@@ -1542,8 +1542,83 @@ Do I need to replace the ink at the same time? No, the master roll and the black
 What is the delivery time? Same-day delivery for Nairobi CBD, and next-day for the rest of Kenya.
 What is your warranty or returns policy? We offer a replacement guarantee on compatible masters that fail out of the box.
 Why is the machine not cutting the master? You may have loaded the roll upside down, or the cutter blade may need servicing.`, "metaTitle": "Ricoh DX2430 Compatible Master Roll", "metaDescription": "Compatible Ricoh DX2430 master roll for Ricoh Priport DX 2330, DX 2430. High quality duplicator supplies, fast nationwide delivery from Trinatech.", "inStock": true},
-  {"id": 5260, "sku": null, "name": "Developer Type 26", "brand": "Other", "category": "Maintenance Kits & Spare Parts", "price": 3000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/Developer-Type-26-scaled.webp", "imageFile": "Developer-Type-26-scaled.webp", "description": "developer type 26", "inStock": true},
-  {"id": 5259, "sku": null, "name": "Developer Type 28", "brand": "Other", "category": "Maintenance Kits & Spare Parts", "price": 2500, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/Developer-Type-28-scaled.webp", "imageFile": "Developer-Type-28-scaled.webp", "description": "developer type 28", "inStock": true},
+  {"id": 5260, "sku": null, "name": "Developer Type 26", "brand": "Other", "category": "Maintenance Kits & Spare Parts", "price": 3000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/Developer-Type-26-scaled.webp", "imageFile": "Developer-Type-26-scaled.webp", "description": `The Developer Type 26 (B079-9640) supplies premium iron carrier powder for Ricoh, Savin, and Gestetner monochrome photocopiers. Engineered to mix perfectly with toner to maintain optimal image density and stable performance over long, high-volume production print runs across Kenya.
+
+## Compatible printers
+Ricoh Aficio 2035
+Ricoh Aficio 2045
+Ricoh Aficio 3035
+Ricoh Aficio 3045
+Ricoh Aficio MP 3500
+Ricoh Aficio MP 4500
+If your model isn't listed, send us the number from the front of the machine and we'll confirm before you pay.
+
+## Specifications
+| Page yield | ~300,000 pages |
+|---|---|
+| Part type | Copier Developer |
+| Colour | Black |
+| Part number | B0799640 / Type 26 |
+| Genuine or compatible | Genuine / Compatible |
+
+## Genuine or compatible?
+Covers original Genuine Ricoh developer bags; Royal compatible alternative developer is also available for budget-conscious technicians servicing heavy-use machines.
+
+## Why buy from Trinatech
+Stock held in Nairobi CBD.
+Delivery across Kenya including Kisumu, Nakuru, Eldoret, and Mombasa.
+M-Pesa and bank transfer accepted.
+WhatsApp ordering and walk-in options at The One Mall, River Road.
+
+## Getting the most from this product
+Requires a trained technician for installation. After pouring the developer powder into the developer unit housing, run the necessary SP mode initialization commands to set the TD sensor baseline.
+
+## Frequently asked questions
+Does it include toner? No, this is the magnetic developer carrier powder only, not the toner itself.
+When should it be replaced? Typically every 300,000 pages when copies begin to look faded or developer begins leaking.
+How fast is Nairobi delivery? Delivered within 1 to 3 hours across Nairobi CBD.
+How can I pay? Pay via M-Pesa, bank transfer, or cash.
+Is warranty provided? Covered against factory defects.`, "metaTitle": "Ricoh Developer Type 26 Price - Trinatech Kenya", "metaDescription": "Buy Ricoh Developer Type 26 (B0799640) in Nairobi. High yield ~300,000 pages for Aficio 1022, 2035, 3035. Fast delivery across Kenya.", "inStock": true},
+  {"id": 5259, "sku": null, "name": "Developer Type 28", "brand": "Other", "category": "Maintenance Kits & Spare Parts", "price": 2500, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/Developer-Type-28-scaled.webp", "imageFile": "Developer-Type-28-scaled.webp", "description": `The Developer Type 28 provides essential magnetic carrier powder for medium-duty Ricoh Aficio monochrome copiers. Designed to deliver superior print quality, sharp text, and reliable toner distribution for office document processing.
+
+## Compatible printers
+Ricoh Aficio 1013
+Ricoh Aficio 1015
+Ricoh Aficio 1018
+Ricoh Aficio 2015
+Ricoh Aficio 2016
+Ricoh Aficio 2018
+Ricoh Aficio MP 1600
+Ricoh Aficio MP 1800
+Ricoh Aficio MP 2000
+If your model isn't listed, send us the number from the front of the machine and we'll confirm before you pay.
+
+## Specifications
+| Page yield | ~60,000 pages |
+|---|---|
+| Part type | Copier Developer |
+| Colour | Black |
+| Part number | B1219645 / Type 28 |
+| Genuine or compatible | Genuine / Compatible |
+
+## Genuine or compatible?
+Covers original Genuine Ricoh developer packets; Royal compatible brand developer powder is also stocked to reduce routine maintenance costs.
+
+## Why buy from Trinatech
+Stock held in Nairobi CBD.
+Delivery across Kenya including Kisumu, Nakuru, Eldoret, and Mombasa.
+M-Pesa and bank transfer accepted.
+WhatsApp ordering and walk-in options at The One Mall, River Road.
+
+## Getting the most from this product
+Installation should be performed by a service engineer. Ensure the developer unit is completely vacuumed clean of old developer before pouring in the new bag.
+
+## Frequently asked questions
+Is this a toner cartridge? No, this is developer powder that sits inside the imaging unit to carry the toner to the drum.
+What is the yield? Approximately 60,000 pages depending on coverage.
+How fast is Nairobi shipping? Same-day delivery inside 1 to 3 hours.
+How do I pay? M-Pesa Buy Goods/Till or bank wire.
+Is warranty included? Standard manufacturer warranty applies to unopened bags.`, "metaTitle": "Ricoh Developer Type 28 Price - Trinatech Kenya", "metaDescription": "Order Ricoh Developer Type 28 (B1219645) in Nairobi. Yields ~60,000 pages for Aficio 1013, 1015, 2015, 2018. Fast Kenya delivery.", "inStock": true},
   {"id": 5284, "sku": null, "name": "F11 Ink", "brand": "Other", "category": "Master Rolls & Inks", "price": 5000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/F11-Ink.webp", "imageFile": "F11-Ink.webp", "description": `The Riso FII Type Black Ink (commonly referred to as F11 ink) is a premium supply designed for heavy-duty Risograph digital duplicators. Engineered to dry quickly and adhere perfectly to standard copy paper, this high-volume emulsion ink ensures your school exams, church bulletins, and mass flyers are printed with crisp, highly legible text without offsetting onto the back of the next page. It is a critical supply for organizations running mass print jobs.
 
 ## Compatible printers
@@ -1650,14 +1725,301 @@ What is your warranty or returns policy? We replace any compatible master rolls 
 Why are my prints coming out blank? Ensure the master roll is loaded with the correct side facing the thermal head.`, "metaTitle": "Gestetner CPMT21 Compatible Master Roll", "metaDescription": "Compatible Gestetner CPMT21 master roll for Gestetner CP 6123, CP 6223 duplicators. Economical high-volume printing. Delivered across Kenya.", "inStock": true},
   {"id": 5224, "sku": "SM415", "name": "Gestetner DSM415 Black Toner Cartridge", "brand": "Other", "category": "Ricoh Toners", "price": 1200, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/08/5224_other_gestetner-dsm415-black-toner-cartridge.jpg", "imageFile": "5224_other_gestetner-dsm415-black-toner-cartridge.jpg", "description": "GESTETNER DSM415 BLACK TONER CARTRIDGE", "inStock": true},
   {"id": 5223, "sku": "SM615", "name": "Gestetner DSM615/DSM618 Black Toner Cartridge", "brand": "Other", "category": "Ricoh Toners", "price": 1200, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/08/5223_other_gestetner-dsm615-dsm618-black-toner-cartridge.jpg.png", "imageFile": "5223_other_gestetner-dsm615-dsm618-black-toner-cartridge.jpg.png", "description": "GESTETNER DSM615/DSM618 BLACK TONER CARTRIDGE", "inStock": true},
-  {"id": 5258, "sku": null, "name": "Km 2050 Blade", "brand": "Other", "category": "Maintenance Kits & Spare Parts", "price": 1000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/Km-2050-Blade-scaled.webp", "imageFile": "Km-2050-Blade-scaled.webp", "description": "km 2050 blade", "inStock": true},
-  {"id": 5257, "sku": null, "name": "Km 2050 Drum", "brand": "Other", "category": "Maintenance Kits & Spare Parts", "price": 2000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/Km-2050-Drum-scaled.webp", "imageFile": "Km-2050-Drum-scaled.webp", "description": "km 2050 drum", "inStock": true},
-  {"id": 5256, "sku": null, "name": "Km 2050 Fingers", "brand": "Other", "category": "Maintenance Kits & Spare Parts", "price": 1500, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/Km-2050-Fingers-scaled.webp", "imageFile": "Km-2050-Fingers-scaled.webp", "description": "km 2050 fingers", "inStock": true},
-  {"id": 5255, "sku": null, "name": "Km 2050 Gear Lever", "brand": "Other", "category": "Maintenance Kits & Spare Parts", "price": 1800, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/Km-2050-Gear-Lever-scaled.webp", "imageFile": "Km-2050-Gear-Lever-scaled.webp", "description": "km 2050 gear lever", "inStock": true},
-  {"id": 5254, "sku": null, "name": "Km 2050 Heatroller", "brand": "Other", "category": "Maintenance Kits & Spare Parts", "price": 1500, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/Km-2050-Heatroller-scaled.webp", "imageFile": "Km-2050-Heatroller-scaled.webp", "description": "km 2050 heatroller", "inStock": true},
-  {"id": 5253, "sku": null, "name": "Km 2050 Main Motor Gear", "brand": "Other", "category": "Maintenance Kits & Spare Parts", "price": 1500, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/Km-2050-Main-Motor-Gear-scaled.webp", "imageFile": "Km-2050-Main-Motor-Gear-scaled.webp", "description": "km 2050 main motor gear", "inStock": true},
-  {"id": 5252, "sku": null, "name": "Km 2050 Pressure Roller", "brand": "Other", "category": "Maintenance Kits & Spare Parts", "price": 2000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/08/5252_other_km-2050-pressure-roller.jpg.png", "imageFile": "5252_other_km-2050-pressure-roller.jpg.png", "description": "km 2050 pressure roller", "inStock": true},
-  {"id": 5251, "sku": null, "name": "Km 2560 Upper Fuser Roller", "brand": "Other", "category": "Maintenance Kits & Spare Parts", "price": 3000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/Km-2560-Upper-Fuser-Roller-scaled.webp", "imageFile": "Km-2560-Upper-Fuser-Roller-scaled.webp", "description": "km 2560 upper fuser roller", "inStock": true},
+  {"id": 5258, "sku": null, "name": "Km 2050 Blade", "brand": "Other", "category": "Maintenance Kits & Spare Parts", "price": 1000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/Km-2050-Blade-scaled.webp", "imageFile": "Km-2050-Blade-scaled.webp", "description": `The Km 2050 Blade is a high-grade polyurethane drum cleaning blade for Kyocera Mita monochrome digital copiers. Engineered to efficiently sweep residual waste toner off the OPC drum surface to prevent background streaking and ensure crisp copies in Kenya.
+
+## Compatible printers
+Kyocera KM-1620
+Kyocera KM-1635
+Kyocera KM-1650
+Kyocera KM-2035
+Kyocera KM-2050
+Kyocera KM-2550
+If your model isn't listed, send us the number from the front of the machine and we'll confirm before you pay.
+
+## Specifications
+| Part type | Cleaning Blade |
+|---|---|
+| Material | Polyurethane / Metal |
+| Machine section | Drum Unit / Imaging Unit |
+| Part compatibility | KM-2050 Series |
+| Genuine or compatible | Compatible |
+
+## Genuine or compatible?
+This is a premium Compatible cleaning blade. It matches OEM Kyocera durability at a fraction of the cost, making it ideal for standard drum unit rebuilds.
+
+## Why buy from Trinatech
+Stock held in Nairobi CBD.
+Delivery across Kenya including Kisumu, Nakuru, Eldoret, and Mombasa.
+M-Pesa and bank transfer accepted.
+WhatsApp ordering and walk-in options at The One Mall, River Road.
+
+## Getting the most from this product
+Dust the new polyurethane blade edge with setting powder or yellow toner before installation to prevent it from flipping or tearing on the dry OPC drum during the first rotation.
+
+## Frequently asked questions
+Will it fix black lines on copies? Yes, if the lines are caused by waste toner slipping past a worn original blade.
+Should I change the drum too? It is highly recommended to change the drum and blade together.
+How fast is Nairobi delivery? 1 to 3 hours across Nairobi CBD.
+How can I pay? Pay via M-Pesa, bank wire, or cash.
+Is warranty provided? Covered against physical manufacturing defects upon arrival.`, "metaTitle": "Kyocera KM-2050 Drum Cleaning Blade Price - Trinatech", "metaDescription": "Buy Kyocera KM-2050 drum cleaning blade in Nairobi. Compatible with KM-1620, KM-1635, KM-1650, KM-2050 copiers. Fast delivery across Kenya.", "inStock": true},
+  {"id": 5257, "sku": null, "name": "Km 2050 Drum", "brand": "Other", "category": "Maintenance Kits & Spare Parts", "price": 2000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/Km-2050-Drum-scaled.webp", "imageFile": "Km-2050-Drum-scaled.webp", "description": `The Km 2050 Drum provides a high-durability OPC (Organic Photo-Conductor) cylinder replacement for Kyocera Mita A3 desktop copiers. Formulated with a long-life protective coating to restore deep contrast and eliminate repeating print defects on office documents in Nairobi.
+
+## Compatible printers
+Kyocera KM-1620
+Kyocera KM-1635
+Kyocera KM-1650
+Kyocera KM-2035
+Kyocera KM-2050
+Kyocera KM-2550
+If your model isn't listed, send us the number from the front of the machine and we'll confirm before you pay.
+
+## Specifications
+| Part type | OPC Drum Cylinder |
+|---|---|
+| Material | Aluminum / OPC Coating |
+| Machine section | Drum Unit / Imaging Unit |
+| Part compatibility | KM-2050 Series (DK-410 compatible) |
+| Genuine or compatible | Compatible |
+
+## Genuine or compatible?
+This is a premium Compatible OPC drum cylinder. It serves as an affordable rebuild component for Kyocera DK-410 drum units, saving you from purchasing the entire expensive OEM housing.
+
+## Why buy from Trinatech
+Stock held in Nairobi CBD.
+Delivery across Kenya including Kisumu, Nakuru, Eldoret, and Mombasa.
+M-Pesa and bank transfer accepted.
+WhatsApp ordering and walk-in options at The One Mall, River Road.
+
+## Getting the most from this product
+Avoid exposing the bare green cylinder to direct sunlight or bright room lighting for extended periods, as UV light degrades the photo-sensitive coating permanently.
+
+## Frequently asked questions
+Does it come with the plastic housing? No, this is the bare OPC aluminum cylinder only for rebuilding your existing unit.
+Should I replace the blade? Yes, replacing the cleaning blade simultaneously is required.
+What is Nairobi delivery time? Delivered within 1 to 3 hours across Nairobi.
+How do I pay? Pay via M-Pesa Buy Goods/Till or bank transfer.
+Is warranty included? Covered against factory defect prior to installation.`, "metaTitle": "Kyocera KM-2050 OPC Drum Price - Trinatech Kenya", "metaDescription": "Shop Kyocera KM-2050 OPC drum cylinder in Nairobi. Long-life drum for KM-1620, KM-1635, KM-1650, KM-2050 copiers. Fast Kenya shipping.", "inStock": true},
+  {"id": 5256, "sku": null, "name": "Km 2050 Fingers", "brand": "Other", "category": "Maintenance Kits & Spare Parts", "price": 1500, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/Km-2050-Fingers-scaled.webp", "imageFile": "Km-2050-Fingers-scaled.webp", "description": `The Km 2050 Fingers are essential replacement picker/separator fingers designed for the fuser assembly of Kyocera Mita office copiers. Built to prevent paper from wrapping around the hot upper fuser roller, ensuring smooth document output and eliminating accordion jams.
+
+## Compatible printers
+Kyocera KM-1620
+Kyocera KM-1635
+Kyocera KM-1650
+Kyocera KM-2035
+Kyocera KM-2050
+Kyocera KM-2550
+If your model isn't listed, send us the number from the front of the machine and we'll confirm before you pay.
+
+## Specifications
+| Part type | Picker / Separator Finger |
+|---|---|
+| Function | Paper stripping |
+| Machine section | Fuser Unit |
+| Part compatibility | KM-2050 Series |
+| Genuine or compatible | Compatible |
+
+## Genuine or compatible?
+High-grade Compatible replacement parts. Manufactured with heat-resistant tips to perfectly match original Kyocera specifications without the premium OEM price tag.
+
+## Why buy from Trinatech
+Stock held in Nairobi CBD.
+Delivery across Kenya including Kisumu, Nakuru, Eldoret, and Mombasa.
+M-Pesa and bank transfer accepted.
+WhatsApp ordering and walk-in options at The One Mall, River Road.
+
+## Getting the most from this product
+Check the upper fuser heat roller for deep scratch marks when replacing these fingers. If the old fingers have worn grooves into the roller, the roller must also be replaced to prevent ongoing jams.
+
+## Frequently asked questions
+Will these fix accordion paper jams? Yes, if paper is curling and jamming inside the hot fuser section, broken or caked-on fingers are the primary cause.
+Are they sold individually or as a set? Typically priced per individual finger; check with our counter team for multi-pack deals.
+How fast is Nairobi shipping? Same-day inside 1 to 3 hours.
+How can I pay? Pay via M-Pesa or bank wire.
+Is warranty provided? Covered against factory defects.`, "metaTitle": "Kyocera KM-2050 Fuser Picker Fingers - Trinatech Kenya", "metaDescription": "Order Kyocera KM-2050 fuser separator fingers in Nairobi. Fix paper jam issues on KM-1620, KM-1650, KM-2050, KM-2550 copiers. Fast delivery.", "inStock": true},
+  {"id": 5255, "sku": null, "name": "Km 2050 Gear Lever", "brand": "Other", "category": "Maintenance Kits & Spare Parts", "price": 1800, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/Km-2050-Gear-Lever-scaled.webp", "imageFile": "Km-2050-Gear-Lever-scaled.webp", "description": `The Km 2050 Gear Lever is a durable internal mechanical drive component for Kyocera Mita copiers. Built from heavy-duty industrial plastic to reliably engage and transfer rotational force from the main motor to the drum and fuser assemblies, preventing grinding noises and drive failures.
+
+## Compatible printers
+Kyocera KM-1620
+Kyocera KM-1635
+Kyocera KM-1650
+Kyocera KM-2035
+Kyocera KM-2050
+Kyocera KM-2550
+If your model isn't listed, send us the number from the front of the machine and we'll confirm before you pay.
+
+## Specifications
+| Part type | Gear / Lever Assembly |
+|---|---|
+| Material | Hardened Plastic / Resin |
+| Machine section | Main Drive / Motor Assembly |
+| Part compatibility | KM-2050 Series |
+| Genuine or compatible | Compatible |
+
+## Genuine or compatible?
+Premium Compatible replacement part. Engineered to exact Kyocera mechanical tolerances to guarantee smooth gear meshing and extended durability.
+
+## Why buy from Trinatech
+Stock held in Nairobi CBD.
+Delivery across Kenya including Kisumu, Nakuru, Eldoret, and Mombasa.
+M-Pesa and bank transfer accepted.
+WhatsApp ordering and walk-in options at The One Mall, River Road.
+
+## Getting the most from this product
+Apply a small amount of machine-grade silicone gear grease to the contact teeth and lever pivot points prior to assembly to reduce wear and minimize operating noise.
+
+## Frequently asked questions
+Will this fix a loud clicking noise? Yes, stripped teeth on gear levers are a leading cause of clicking/grinding sounds during printing.
+Is it difficult to install? Requires a technician as side panels and drive assemblies must be dismantled.
+How fast is Nairobi delivery? 1 to 3 hours across Nairobi CBD.
+How do I pay? Pay via M-Pesa Buy Goods/Till or bank wire.
+Is warranty included? Covered against manufacturing defects.`, "metaTitle": "Kyocera KM-2050 Gear Lever Price - Trinatech Kenya", "metaDescription": "Buy Kyocera KM-2050 gear lever assembly in Nairobi. Essential drive component for KM-1620, KM-1635, KM-1650, KM-2050 copiers. Fast shipping.", "inStock": true},
+  {"id": 5254, "sku": null, "name": "Km 2050 Heatroller", "brand": "Other", "category": "Maintenance Kits & Spare Parts", "price": 1500, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/Km-2050-Heatroller-scaled.webp", "imageFile": "Km-2050-Heatroller-scaled.webp", "description": `The Km 2050 Heatroller is a premium upper fuser heat roller for Kyocera KM-series copiers. Constructed with a heavy aluminum core and a non-stick Teflon coating to ensure optimal toner melting, preventing ghosting and smudging on printed documents in busy offices.
+
+## Compatible printers
+Kyocera KM-1620
+Kyocera KM-1635
+Kyocera KM-1650
+Kyocera KM-2035
+Kyocera KM-2050
+Kyocera KM-2550
+If your model isn't listed, send us the number from the front of the machine and we'll confirm before you pay.
+
+## Specifications
+| Part type | Upper Heat Roller |
+|---|---|
+| Material | Aluminum / Teflon Coating |
+| Machine section | Fuser Unit |
+| Part compatibility | KM-2050 Series |
+| Genuine or compatible | Compatible |
+
+## Genuine or compatible?
+This is a high-grade Compatible replacement heat roller. It offers excellent thermal conductivity and non-stick performance equal to OEM Kyocera rollers at a significantly lower cost.
+
+## Why buy from Trinatech
+Stock held in Nairobi CBD.
+Delivery across Kenya including Kisumu, Nakuru, Eldoret, and Mombasa.
+M-Pesa and bank transfer accepted.
+WhatsApp ordering and walk-in options at The One Mall, River Road.
+
+## Getting the most from this product
+Inspect the picker fingers and cleaning web/roller when replacing the heat roller. Sharp, toner-caked fingers will quickly scratch the delicate Teflon coating on your new roller.
+
+## Frequently asked questions
+Will this stop toner from rubbing off the page? Yes, a worn or failed heat roller prevents toner from fusing permanently into the paper fibers.
+Can I clean my old scratched roller? No, once the Teflon coating is scratched through to the aluminum, the roller must be replaced.
+What is Nairobi delivery speed? Delivered within 1 to 3 hours in Nairobi.
+How can I pay? Pay via M-Pesa or bank transfer.
+Is warranty provided? Covered against factory defect prior to installation.`, "metaTitle": "Kyocera KM-2050 Upper Fuser Heat Roller - Trinatech", "metaDescription": "Shop Kyocera KM-2050 upper fuser heat roller in Nairobi. Fits KM-1620, KM-1635, KM-1650, KM-2050 copiers. Fast delivery across Kenya.", "inStock": true},
+  {"id": 5253, "sku": null, "name": "Km 2050 Main Motor Gear", "brand": "Other", "category": "Maintenance Kits & Spare Parts", "price": 1500, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/Km-2050-Main-Motor-Gear-scaled.webp", "imageFile": "Km-2050-Main-Motor-Gear-scaled.webp", "description": `The Km 2050 Main Motor Gear provides a robust rotational drive connection for Kyocera monochrome copiers. Designed from reinforced polymer resin to handle high torque output from the main drive motor, ensuring synchronized rotation of the drum and fuser assemblies across heavy print workloads.
+
+## Compatible printers
+Kyocera KM-1620
+Kyocera KM-1635
+Kyocera KM-1650
+Kyocera KM-2035
+Kyocera KM-2050
+Kyocera KM-2550
+If your model isn't listed, send us the number from the front of the machine and we'll confirm before you pay.
+
+## Specifications
+| Part type | Drive Gear |
+|---|---|
+| Material | Reinforced Polymer |
+| Machine section | Main Drive Assembly |
+| Part compatibility | KM-2050 Series |
+| Genuine or compatible | Compatible |
+
+## Genuine or compatible?
+Premium Compatible replacement gear. Molded to exact Kyocera OEM dimensions to ensure tight meshing and prevent backlash or slipping during machine operation.
+
+## Why buy from Trinatech
+Stock held in Nairobi CBD.
+Delivery across Kenya including Kisumu, Nakuru, Eldoret, and Mombasa.
+M-Pesa and bank transfer accepted.
+WhatsApp ordering and walk-in options at The One Mall, River Road.
+
+## Getting the most from this product
+Ensure the main motor shaft is clean of debris before pressing the new gear into place. Lubricate adjoining gears lightly with white lithium grease to extend component lifespan.
+
+## Frequently asked questions
+How do I know if this gear is failing? Copier will typically display paper jams without actual paper stuck, or make loud rhythmic clicking noises from the rear chassis.
+Does it require a technician? Yes, replacing main drive components requires partial machine teardown.
+How fast is Nairobi delivery? Same-day inside 1 to 3 hours.
+How do I pay? Pay via M-Pesa Buy Goods/Till or bank wire.
+Is warranty included? Covered against manufacturing defects.`, "metaTitle": "Kyocera KM-2050 Main Motor Drive Gear Price - Trinatech", "metaDescription": "Order Kyocera KM-2050 main motor gear in Nairobi. Fix drive issues on KM-1620, KM-1635, KM-1650, KM-2050 copiers. Fast Kenya delivery.", "inStock": true},
+  {"id": 5252, "sku": null, "name": "Km 2050 Pressure Roller", "brand": "Other", "category": "Maintenance Kits & Spare Parts", "price": 2000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/08/5252_other_km-2050-pressure-roller.jpg.png", "imageFile": "5252_other_km-2050-pressure-roller.jpg.png", "description": `The Km 2050 Pressure Roller serves as the vital lower rubber pressure component for Kyocera KM-series fuser units. Engineered with a durable metal shaft and high-temperature silicone rubber to provide the exact nip pressure required to press melting toner firmly into the paper passing through the fuser.
+
+## Compatible printers
+Kyocera KM-1620
+Kyocera KM-1635
+Kyocera KM-1650
+Kyocera KM-2035
+Kyocera KM-2050
+Kyocera KM-2550
+If your model isn't listed, send us the number from the front of the machine and we'll confirm before you pay.
+
+## Specifications
+| Part type | Lower Pressure Roller |
+|---|---|
+| Material | Silicone Rubber / Metal |
+| Machine section | Fuser Unit |
+| Part compatibility | KM-2050 Series |
+| Genuine or compatible | Compatible |
+
+## Genuine or compatible?
+This is a top-quality Compatible pressure roller. It provides excellent elasticity and heat resistance, matching Kyocera OEM performance without the high replacement cost.
+
+## Why buy from Trinatech
+Stock held in Nairobi CBD.
+Delivery across Kenya including Kisumu, Nakuru, Eldoret, and Mombasa.
+M-Pesa and bank transfer accepted.
+WhatsApp ordering and walk-in options at The One Mall, River Road.
+
+## Getting the most from this product
+Never attempt to pry jammed paper out of the fuser with scissors or a screwdriver, as sharp objects will immediately gouge the soft silicone rubber of the pressure roller, causing permanent print defects.
+
+## Frequently asked questions
+Will a bad pressure roller cause paper jams? Yes, a wrinkled, deformed, or loose rubber sleeve on the roller will cause paper to accordion jam before exiting the machine.
+Should I replace the upper roller too? It is best practice to replace both the upper heat roller and lower pressure roller together.
+How fast is Nairobi delivery? Delivered within 1 to 3 hours.
+How can I pay? Pay via M-Pesa, bank wire, or cash.
+Is warranty provided? Covered against factory defects.`, "metaTitle": "Kyocera KM-2050 Lower Pressure Roller Price - Trinatech", "metaDescription": "Buy Kyocera KM-2050 lower fuser pressure roller in Nairobi. High-quality replacement for KM-1620, KM-1650, KM-2050 copiers. Fast shipping.", "inStock": true},
+  {"id": 5251, "sku": null, "name": "Km 2560 Upper Fuser Roller", "brand": "Other", "category": "Maintenance Kits & Spare Parts", "price": 3000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/Km-2560-Upper-Fuser-Roller-scaled.webp", "imageFile": "Km-2560-Upper-Fuser-Roller-scaled.webp", "description": `The Km 2560 Upper Fuser Roller (Part 2H094690) is a premium Teflon-coated heating cylinder for Kyocera Mita monochrome multifunctional copiers. Designed to deliver rapid thermal conductivity and reliable toner fusing to ensure smudge-free administrative documents and contracts across Kenya.
+
+## Compatible printers
+Kyocera KM-2540
+Kyocera KM-2560
+Kyocera KM-3040
+Kyocera KM-3060
+Kyocera TASKalfa 300i
+If your model isn't listed, send us the number from the front of the machine and we'll confirm before you pay.
+
+## Specifications
+| Part type | Upper Heat Roller |
+|---|---|
+| Material | Aluminum / Teflon Coating |
+| Machine section | Fuser Unit |
+| Part number | 302H094690 / 2H094690 |
+| Genuine or compatible | Compatible |
+
+## Genuine or compatible?
+This is a high-grade Compatible replacement heat roller. It perfectly mirrors original Kyocera OEM specifications for thermal transfer, offering tremendous savings for commercial copy shops and busy offices.
+
+## Why buy from Trinatech
+Stock held in Nairobi CBD.
+Delivery across Kenya including Kisumu, Nakuru, Eldoret, and Mombasa.
+M-Pesa and bank transfer accepted.
+WhatsApp ordering and walk-in options at The One Mall, River Road.
+
+## Getting the most from this product
+When replacing this roller, always thoroughly clean the fuser thermistors. Toner buildup on the thermistors can trick the machine into overheating, which will prematurely destroy the new Teflon coating.
+
+## Frequently asked questions
+What causes the upper roller to fail? Continual friction from paper, hardened separation fingers, and overheating eventually wear through the non-stick coating.
+Will this fix smudging on the edges of my paper? Yes, if the roller's edges are worn bare, toner will stick to it and smudge onto subsequent pages.
+How fast is Nairobi delivery? Same-day inside 1 to 3 hours across Nairobi CBD.
+How do I pay? Pay via M-Pesa Buy Goods/Till or bank transfer.
+Is warranty included? Covered against manufacturing defects prior to installation.`, "metaTitle": "Kyocera KM-2560 Upper Fuser Heat Roller Price - Trinatech", "metaDescription": "Shop Kyocera KM-2560 upper fuser roller in Nairobi. Compatible with KM-2540, KM-3040, KM-3060, TASKalfa 300i. Fast delivery across Kenya.", "inStock": true},
   {"id": 5250, "sku": null, "name": "Km 2560/300 Pick Up Rollers", "brand": "Other", "category": "Maintenance Kits & Spare Parts", "price": 1800, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/Km-2560-300-Pick-Up-Rollers-scaled.webp", "imageFile": "Km-2560-300-Pick-Up-Rollers-scaled.webp", "description": `The Km 2560/300 Pick Up Rollers provide essential paper feeding performance for Kyocera Mita monochrome copiers. Designed with high-friction, wear-resistant rubber to reliably pull paper from the cassette trays without slipping, eliminating frustrating misfeeds and false jam errors.
 
 ## Compatible printers

@@ -5,7 +5,45 @@ export const PRODUCTS_2 = [
   {"id": 5309, "sku": "LQ-2170", "name": "Epson Ribbon LQ-2170/2180/2190 Black", "brand": "Epson", "category": "Epson Ribbons & Inks", "price": 1200, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/Epson-Ribbon-LQ-2170-2180-2190-Black.webp", "imageFile": "Epson-Ribbon-LQ-2170-2180-2190-Black.webp", "description": "EPSON RIBBON LQ-2170/2180/2190 BLACK", "inStock": true},
   {"id": 5308, "sku": "LX-350", "name": "Epson Ribbons LX-350 Black Cartridge", "brand": "Epson", "category": "Epson Ribbons & Inks", "price": 600, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/Epson-Ribbons-LX-350-Black-Cartridge.webp", "imageFile": "Epson-Ribbons-LX-350-Black-Cartridge.webp", "description": "EPSON RIBBONS LX-350 BLACK CARTRIDGE", "inStock": true},
   {"id": 5318, "sku": "T6735", "name": "Epson T6735 Light Cyan Ink Bottle 70ML", "brand": "Epson", "category": "Epson Ribbons & Inks", "price": 300, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/Epson-T6735-Light-Cyan-Ink-Bottle-70ML.webp", "imageFile": "Epson-T6735-Light-Cyan-Ink-Bottle-70ML.webp", "description": "EPSON T6735 LIGHT CYAN INK BOTTLE 70ML", "inStock": true},
-  {"id": 5283, "sku": null, "name": "Royal Premium Epson 103 Ink CMYK", "brand": "Epson", "category": "Master Rolls & Inks", "price": 400, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/Royal-Premium-Epson-103-Ink-CMYK.webp", "imageFile": "Royal-Premium-Epson-103-Ink-CMYK.webp", "description": "ROYAL PREMIUM EPSON 103 INK CMYK", "inStock": true},
+  {"id": 5283, "sku": null, "name": "Royal Premium Epson 103 Ink CMYK", "brand": "Epson", "category": "Master Rolls & Inks", "price": 400, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/Royal-Premium-Epson-103-Ink-CMYK.webp", "imageFile": "Royal-Premium-Epson-103-Ink-CMYK.webp", "description": `The Royal Premium Epson 103 Compatible Ink is Trinatech's trusted house brand, delivering incredible value for users of Epson EcoTank printers. Sold individually or as a CMYK set, these compatible bottles feature an anti-drip nozzle designed to fit perfectly into your printer's specialized tanks. They deliver bright, vibrant colours and sharp text that rivals the original, allowing you to slash your home or office printing costs without sacrificing the quality of your school projects, photos, and daily documents.
+
+## Compatible printers
+Epson EcoTank L1110
+Epson EcoTank L3110
+Epson EcoTank L3111
+Epson EcoTank L3150
+Epson EcoTank L3151
+Epson EcoTank L3210
+Epson EcoTank L3250
+Epson EcoTank L3251
+Epson EcoTank L5190
+If your model isn't listed, send us the number from the front of the machine and we'll confirm before you pay.
+
+## Specifications
+| Page yield | Cartridge type | Colour | Capacity | Part number | Genuine or compatible |
+|---|---|---|---|---|---|
+| ~4,500 (Black) / ~7,500 (Colour) | Ink Bottle | Black, Cyan, Magenta OR Yellow | Standard | 103 (Comp) | Compatible (Royal) |
+
+## Genuine or compatible?
+This is a Royal compatible ink bottle. It is our premium house brand, specifically manufactured to provide an excellent alternative that fits the exact same Epson EcoTank machines at a much lower price. It is not an original Epson product. We highly recommend our Royal brand for households and businesses looking to aggressively lower their cost per page without the messy complications of cheap, unbranded generic refills.
+
+## Why buy from Trinatech
+Stock held locally in Nairobi CBD.
+Delivery across Kenya including Kisumu, Nakuru, Eldoret and Mombasa.
+M-Pesa and bank transfer accepted securely.
+WhatsApp ordering available, walk-in at The One Mall River Road.
+
+## Getting the most from this cartridge
+When refilling, simply slot the Royal bottle onto the corresponding colour tank; the anti-drip valve will release the ink automatically.
+Do not squeeze the bottle.
+Never let your EcoTank printer's ink levels drop below the lower line marked on the front of the tank, as allowing air into the internal ink tubes will cause permanent damage to the printhead.
+
+## Frequently asked questions
+Is there an XL or high-yield alternative? These bottles are designed to completely fill the printer's high-capacity tanks.
+Do I need other colours to print? Yes, Epson EcoTank printers require all four colours to be adequately filled to operate.
+What is the delivery time? Same-day for Nairobi CBD; expect next-day delivery for other regions in Kenya.
+What is your warranty or returns policy? We offer a replacement guarantee on Royal compatible inks that fail out of the box.
+Will mixing this with genuine ink cause issues? Our Royal ink is specially formulated to safely mix with residual original ink in the tank.`, "metaTitle": "Royal Epson 103 Compatible Ink Bottles", "metaDescription": "Royal premium compatible Epson 103 ink bottles (CMYK). Trinatech house brand for EcoTank L3110, L3150, L3210. High quality at a lower cost.", "inStock": true},
   {"id": 4599, "sku": null, "name": "HP 05A Black Original Laserjet Toner Cartridge (CE505A)", "brand": "HP", "category": "Inks & Toner Cartridges", "price": 7000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2025/07/HP-05A-Black-Original-LaserJet-Toner-Cartridge.png", "imageFile": "HP-05A-Black-Original-LaserJet-Toner-Cartridge.png", "description": `The HP 05A black toner cartridge is the genuine Original HP replacement, part number CE505A, for the HP LaserJet P2035 and P2055 series. These were fast, solidly built business mono lasers and a good number are still printing daily in Kenyan offices.
 
 ## Compatible printers

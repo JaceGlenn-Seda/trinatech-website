@@ -1114,7 +1114,40 @@ Do I need all four colors to print? Yes, color copiers require all slots populat
 What is the delivery lead time? Same-day inside Nairobi city; 24 hours to major upcountry centers.
 How do I pay? Payments are accepted via M-Pesa, bank transfer, or cash in-store.
 Are all colors sold separately? Yes, each color unit is sold individual per piece.`, "metaTitle": "Ricoh MPC 3001 / 3501 Toner Cartridges - Trinatech Kenya", "metaDescription": "Buy Ricoh MP C3001 and MP C3501 color toner cartridges in Nairobi, Kenya. Full set available (BK/C/M/Y). Fast delivery nationwide.", "inStock": true},
-  {"id": 5349, "sku": "DX-3442C", "name": "Ricoh Priport DX-3442C Ink", "brand": "Ricoh", "category": "Riso Master Rolls & Inks", "price": 5000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/Ricoh-Priport-DX-3442C-Ink.webp", "imageFile": "Ricoh-Priport-DX-3442C-Ink.webp", "description": "RICOH PRIPORT DX-3442C INK", "inStock": true},
+  {"id": 5349, "sku": "DX-3442C", "name": "Ricoh Priport DX-3442C Ink", "brand": "Ricoh", "category": "Riso Master Rolls & Inks", "price": 5000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/Ricoh-Priport-DX-3442C-Ink.webp", "imageFile": "Ricoh-Priport-DX-3442C-Ink.webp", "description": `The Ricoh Priport DX-3442C Black Ink is formulated specifically for Ricoh's highly efficient digital duplicators. Providing a rapid drying time and incredibly dark pigmentation, this 600ml ink tube ensures your mass print runs—such as school exam papers, internal forms, and promotional flyers—are produced quickly and cost-effectively without smudging. It guarantees smooth operation with the machine's master material, preventing ink bleed-through on standard copy paper.
+
+## Compatible printers
+Ricoh Priport DX 3442
+Ricoh Priport DX 3440
+Ricoh Priport DX 3240
+Ricoh Priport DX 3242
+If your model isn't listed, send us the number from the front of the machine and we'll confirm before you pay.
+
+## Specifications
+| Page yield | Cartridge type | Colour | Capacity | Part number | Genuine or compatible |
+|---|---|---|---|---|---|
+| Varies by master usage | Duplicator Ink | Black | 600ml | DX-3442C | Genuine |
+
+## Genuine or compatible?
+This is a genuine, Original Ricoh Priport ink. Genuine ink is specifically engineered to protect the lifespan of your machine's master cylinder. However, if cost savings are your primary concern for extremely high-volume printing, our Royal compatible equivalent is available for these models, giving you the same perfect fit at a significantly lower cost for everyday production.
+
+## Why buy from Trinatech
+Stock held locally in Nairobi CBD.
+Delivery across Kenya including Kisumu, Nakuru, Eldoret and Mombasa.
+M-Pesa and bank transfer accepted securely.
+WhatsApp ordering, walk-in at The One Mall River Road.
+
+## Getting the most from this cartridge
+Keep the ink safely stored in a cool, dry place until your machine physically prompts for a replacement.
+Because actual page yield depends heavily on the amount of text on your master and the density settings on your duplicator, you can stretch the life of this 600ml tube by avoiding overly dark solid blocks in your original documents.
+Always shake the tube firmly before installing.
+
+## Frequently asked questions
+Is there an XL or high-yield alternative? The 600ml tube is the standard size designed specifically for the DX 3442 series.
+Do I need other colours to print? No, these digital duplicators run on a single black ink drum.
+What is the delivery time? Same-day within Nairobi CBD; overnight delivery for the rest of Kenya.
+What is your warranty or returns policy? Standard Ricoh warranties apply to all genuine, factory-sealed tubes.
+How do I know the ink is empty? The duplicator's display panel will flash the ink replacement icon and halt printing.`, "metaTitle": "Ricoh Priport DX-3442C Black Ink", "metaDescription": "Genuine Ricoh Priport DX-3442C black duplicator ink, approx 600ml, for DX 3442, DX 3440, DX 3240. Delivered safely across Kenya.", "inStock": true},
   {"id": 4368, "sku": null, "name": "Ricoh Priport Ink Dx 2430", "brand": "Ricoh", "category": "Inks & Toner Cartridges", "price": 500, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2025/01/Ricoh-Ink-DX-2430.png", "imageFile": "Ricoh-Ink-DX-2430.png", "description": `Ricoh Priport Ink DX 2430 is a high-volume liquid duplicator ink engineered for Ricoh Priport copy printers. Ideal for schools, churches, and print shops running high-speed bulk duplication runs across Kenya.
 
 ## Compatible printers

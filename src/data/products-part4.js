@@ -1245,7 +1245,43 @@ Is this laser toner? No, this is liquid ink designed for digital duplicator pres
   {"id": 5276, "sku": "DX2430", "name": "DX2430 Master", "brand": "Other", "category": "Master Rolls & Inks", "price": 1000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/DX2430-Master.png", "imageFile": "DX2430-Master.png", "description": "DX2430 MASTER", "inStock": true},
   {"id": 5260, "sku": null, "name": "Developer Type 26", "brand": "Other", "category": "Maintenance Kits & Spare Parts", "price": 3000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/Developer-Type-26-scaled.webp", "imageFile": "Developer-Type-26-scaled.webp", "description": "developer type 26", "inStock": true},
   {"id": 5259, "sku": null, "name": "Developer Type 28", "brand": "Other", "category": "Maintenance Kits & Spare Parts", "price": 2500, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/Developer-Type-28-scaled.webp", "imageFile": "Developer-Type-28-scaled.webp", "description": "developer type 28", "inStock": true},
-  {"id": 5284, "sku": null, "name": "F11 Ink", "brand": "Other", "category": "Master Rolls & Inks", "price": 5000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/F11-Ink.webp", "imageFile": "F11-Ink.webp", "description": "F11 INK", "inStock": true},
+  {"id": 5284, "sku": null, "name": "F11 Ink", "brand": "Other", "category": "Master Rolls & Inks", "price": 5000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/F11-Ink.webp", "imageFile": "F11-Ink.webp", "description": `The Riso FII Type Black Ink (commonly referred to as F11 ink) is a premium supply designed for heavy-duty Risograph digital duplicators. Engineered to dry quickly and adhere perfectly to standard copy paper, this high-volume emulsion ink ensures your school exams, church bulletins, and mass flyers are printed with crisp, highly legible text without offsetting onto the back of the next page. It is a critical supply for organizations running mass print jobs.
+
+## Compatible printers
+Riso SF 5030
+Riso SF 5050
+Riso SF 5130
+Riso SF 5330
+Riso SF 5350
+Riso SF 9350
+Riso SE 9380
+If your model isn't listed, send us the number from the front of the machine and we'll confirm before you pay.
+
+## Specifications
+| Page yield | Cartridge type | Colour | Capacity | Part number | Genuine or compatible |
+|---|---|---|---|---|---|
+| Varies by master usage | Duplicator Ink | Black | 1000ml | S-8113E / FII Type | Genuine |
+
+## Genuine or compatible?
+Genuine, Original Riso ink. Using genuine Risograph ink is critical for protecting the delicate print cylinder and ensuring the master material behaves correctly during heavy print runs. If you are looking to aggressively optimize your printing budget, mention our Royal compatible alternative—it fits the very same machines at a lower price point while maintaining excellent performance for internal documents.
+
+## Why buy from Trinatech
+Reliable stock held in Nairobi CBD.
+Delivery across Kenya including Kisumu, Nakuru, Eldoret and Mombasa.
+M-Pesa and bank transfer accepted securely.
+Easy WhatsApp ordering or walk-in at The One Mall River Road.
+
+## Getting the most from this cartridge
+Before inserting the new ink tube into your Risograph, hold it securely and shake it vigorously.
+Duplicator ink can separate slightly during prolonged storage, and shaking it ensures an even consistency for smooth printing.
+Store your spare ink tubes in a cool environment; extreme heat can alter the viscosity of the ink and cause heavy saturation or bleeding on the page.
+
+## Frequently asked questions
+Is there an XL or high-yield alternative? The 1000ml tube is the standard, maximum-yield size for these duplicators.
+Do I need other colours to print? Standard duplicators print in monochrome, but separate colour drums can be purchased.
+What is the delivery time? We offer same-day delivery in Nairobi CBD, and next-day delivery nationwide.
+What is your warranty or returns policy? We provide the manufacturer's warranty on all genuine sealed products.
+Why is the ink smudging? You may need to lower your print density settings or use more absorbent paper.`, "metaTitle": "Riso FII Type Black Ink (F11)", "metaDescription": "Genuine Riso FII Type (F11) black ink for digital duplicators. Stocked in Nairobi CBD with fast, reliable delivery anywhere in Kenya.", "inStock": true},
   {"id": 5282, "sku": null, "name": "Gestetner CPMT20 Duplicator Master Paper", "brand": "Other", "category": "Master Rolls & Inks", "price": 900, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/Gestetner-CPMT20-Duplicator-Master-Paper.webp", "imageFile": "Gestetner-CPMT20-Duplicator-Master-Paper.webp", "description": "GESTETNER CPMT20 DUPLICATOR MASTER PAPER", "inStock": true},
   {"id": 5281, "sku": null, "name": "Gestetner CPMT21 Cpi 10 Master Roll", "brand": "Other", "category": "Master Rolls & Inks", "price": 900, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/Gestetner-CPMT21-Cpi-10-Master-Roll.webp", "imageFile": "Gestetner-CPMT21-Cpi-10-Master-Roll.webp", "description": "GESTETNER CPMT21 CPI 10 MASTER ROLL", "inStock": true},
   {"id": 5224, "sku": "SM415", "name": "Gestetner DSM415 Black Toner Cartridge", "brand": "Other", "category": "Ricoh Toners", "price": 1200, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/08/5224_other_gestetner-dsm415-black-toner-cartridge.jpg", "imageFile": "5224_other_gestetner-dsm415-black-toner-cartridge.jpg", "description": "GESTETNER DSM415 BLACK TONER CARTRIDGE", "inStock": true},

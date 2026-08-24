@@ -113,12 +113,79 @@ What is your warranty or returns policy? Genuine Ricoh toners come with a standa
 Can I refill this bottle manually? We strongly advise against manual refills, as incorrect toner powder will instantly destroy the developer unit.`, "metaTitle": "Ricoh Type 1230D Black Toner Cartridge", "metaDescription": "Genuine Ricoh Type 1230D black toner, approx 9,000 pages, for Aficio 2015, 2018, MP 1600, MP 2000. Delivered anywhere in Kenya from Nairobi.", "inStock": true},
   {"id": 4375, "sku": null, "name": "Cz/Cv Riso Compatible Ink", "brand": "Riso", "category": "Inks & Toner Cartridges", "price": 5000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2025/01/CZCV-Ink.png", "imageFile": "CZCV-Ink.png", "description": "The CZ/CV Riso Compatible Ink is a high-performance ink solution designed to provide exceptional print quality for CZ and CV Riso printers.", "inStock": true},
   {"id": 5347, "sku": "CZ100-2", "name": "Riso CZ100 (S-7608 A4 Master Roll Compatible For CZ100)", "brand": "Riso", "category": "Riso Master Rolls & Inks", "price": 5000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/Riso-CZ100-S-7608-A4-Master-Roll-Compatible-For-CZ100.webp", "imageFile": "Riso-CZ100-S-7608-A4-Master-Roll-Compatible-For-CZ100.webp", "description": "RISO CZ100 (S-7608 A4 MASTER ROLL COMPATIBLE FOR CZ100", "inStock": true},
-  {"id": 5348, "sku": "S-4877", "name": "Riso Cz 100 Black Ink S-4877", "brand": "Riso", "category": "Riso Master Rolls & Inks", "price": 5500, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/Riso-Cz-100-Black-Ink-S-4877.webp", "imageFile": "Riso-Cz-100-Black-Ink-S-4877.webp", "description": "RISO CZ 100 BLACK INK S-4877", "inStock": true},
+  {"id": 5348, "sku": "S-4877", "name": "Riso Cz 100 Black Ink S-4877", "brand": "Riso", "category": "Riso Master Rolls & Inks", "price": 5500, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/Riso-Cz-100-Black-Ink-S-4877.webp", "imageFile": "Riso-Cz-100-Black-Ink-S-4877.webp", "description": `The Riso CZ 100 Black Ink (S-4877) is an essential, high-volume supply for Riso's compact digital duplicator series. Engineered to produce exceptionally sharp, clear text on high-speed print runs, this 800ml ink tube is a staple for schools, churches, and print shops across Kenya. By using this genuine supply, you ensure your duplicator runs reliably without the messy ink buildup or paper jams often caused by incorrect ink viscosities.
+
+## Compatible printers
+Riso CZ 100
+Riso CZ 180
+Riso CV 1860
+If your model isn't listed, send us the number from the front of the machine and we'll confirm before you pay.
+
+## Specifications
+| Page yield | Cartridge type | Colour | Capacity | Part number | Genuine or compatible |
+|---|---|---|---|---|---|
+| Varies by master usage | Duplicator Ink | Black | 800ml | S-4877 | Genuine |
+
+## Genuine or compatible?
+Genuine, Original Riso ink. Not a refill. Using genuine Riso ink is critical for these machines, as the emulsion viscosity is perfectly balanced for Riso's master material. If you are aiming to cut overhead costs on massive print runs, mention our Royal compatible brand when you order—it fits the exact same duplicators at a significantly lower price point without sacrificing text clarity.
+
+## Why buy from Trinatech
+Stock held in Nairobi CBD for rapid dispatch.
+Delivery across Kenya including Kisumu, Nakuru, Eldoret and Mombasa.
+M-Pesa and bank transfer accepted.
+WhatsApp ordering, walk-in at The One Mall River Road.
+
+## Getting the most from this cartridge
+Always agitate the ink tube before installation by shaking it firmly; this ensures the emulsion is perfectly mixed.
+Digital duplicators are most efficient when printing hundreds of copies from a single master; printing only five or ten copies per master will waste significant amounts of ink as the machine floods the drum for each new original.
+
+## Frequently asked questions
+Is there an XL or high-yield alternative? This 800ml tube is the standard, maximum-yield size for the CZ series.
+Do I need other colours to print? No, the CZ series is typically operated as a single-drum black duplicator.
+What is the delivery time? Delivery is completed within the same day in Nairobi, and by the next day countrywide.
+What is your warranty or returns policy? We honour standard Riso warranties for factory-sealed, genuine items.
+Why is my paper sticking to the drum? The ink density setting may be too high, or you may be using paper that is too thin.`, "metaTitle": "Riso CZ 100 Black Ink (S-4877)", "metaDescription": "Genuine Riso CZ 100 black duplicator ink (S-4877), approx 800ml, for Riso CZ 100 and CZ 180 machines. Fast delivery from Trinatech Nairobi.", "inStock": true},
   {"id": 5278, "sku": "CZ100", "name": "Riso Cz A4 Master Original For CZ100 (S-7608)", "brand": "Riso", "category": "Master Rolls & Inks", "price": 5500, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/Riso-Cz-A4-Master-Original-For-CZ100-S-7608.webp", "imageFile": "Riso-Cz-A4-Master-Original-For-CZ100-S-7608.webp", "description": "RISO CZ A4 MASTER ORIGINAL FOR CZ100 (S-7608", "inStock": true},
   {"id": 5346, "sku": null, "name": "Riso Rz Digital Duplicator Original Ink", "brand": "Riso", "category": "Riso Master Rolls & Inks", "price": 1700, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/Riso-Rz-Digital-Duplicator-Original-Ink.webp", "imageFile": "Riso-Rz-Digital-Duplicator-Original-Ink.webp", "description": "RISO RZ DIGITAL DUPLICATOR ORIGINAL INK", "inStock": true},
   {"id": 5345, "sku": null, "name": "Riso Rz Type A4-L Master Standard", "brand": "Riso", "category": "Riso Master Rolls & Inks", "price": 1800, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/Riso-Rz-Type-A4-L-Master-Standard.webp", "imageFile": "Riso-Rz-Type-A4-L-Master-Standard.webp", "description": "RISO RZ TYPE A4-L MASTER STANDARD", "inStock": true},
   {"id": 5344, "sku": "S-7041E", "name": "Riso S-7041E A4 Master Roll Digital Duplicator", "brand": "Riso", "category": "Riso Master Rolls & Inks", "price": 5000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/Riso-S-7041E-A4-Master-Roll-Digital-Duplicator.webp", "imageFile": "Riso-S-7041E-A4-Master-Roll-Digital-Duplicator.webp", "description": "RISO S-7041E A4 MASTER ROLL DIGITAL DUPLICATOR", "inStock": true},
-  {"id": 5343, "sku": "S-8113E", "name": "Riso S-8113E Ink For Risograph Black 1000ML", "brand": "Riso", "category": "Riso Master Rolls & Inks", "price": 5500, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/Riso-S-8113E-Ink-For-Risograph-Black-1000ML.webp", "imageFile": "Riso-S-8113E-Ink-For-Risograph-Black-1000ML.webp", "description": "RISO S-8113E INK FOR RISOGRAPH BLACK 1000ML", "inStock": true},
+  {"id": 5343, "sku": "S-8113E", "name": "Riso S-8113E Ink For Risograph Black 1000ML", "brand": "Riso", "category": "Riso Master Rolls & Inks", "price": 5500, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/Riso-S-8113E-Ink-For-Risograph-Black-1000ML.webp", "imageFile": "Riso-S-8113E-Ink-For-Risograph-Black-1000ML.webp", "description": `The Riso S-8113E Black Ink (FII Type) is a heavy-duty, 1000ml supply designed for Riso's fastest, most advanced digital duplicators. It provides incredibly fast drying times and deep, consistent blacks, allowing you to run thousands of copies per hour without the fear of offsetting or smudging. It is the gold standard for institutions running exam papers, newsletters, and bulk flyers that require dependable quality at high speeds.
+
+## Compatible printers
+Riso SF 5030
+Riso SF 5050
+Riso SF 5130
+Riso SF 5330
+Riso SF 5350
+Riso SF 9350
+Riso SE 9380
+If your model isn't listed, send us the number from the front of the machine and we'll confirm before you pay.
+
+## Specifications
+| Page yield | Cartridge type | Colour | Capacity | Part number | Genuine or compatible |
+|---|---|---|---|---|---|
+| Varies by master usage | Duplicator Ink | Black | 1000ml | S-8113E | Genuine |
+
+## Genuine or compatible?
+This is a 100% genuine, Original Riso ink tube. It provides the exact emulsion formulation designed for your specific machine's drum. While it offers superior reliability and protects your duplicator's hardware, our Royal compatible equivalent is also available, giving you the same exact fit and a generous 1000ml volume at a lower cost for everyday bulk printing.
+
+## Why buy from Trinatech
+Stock held right here in Nairobi CBD.
+Delivery across Kenya including Kisumu, Nakuru, Eldoret and Mombasa.
+M-Pesa and bank transfer accepted securely.
+WhatsApp ordering, walk-in at The One Mall River Road.
+
+## Getting the most from this cartridge
+Avoid exposing the ink tubes to extreme heat, as this can cause the oil and water components of the emulsion ink to separate.
+When you install it, ensure you push the tube firmly into the drum assembly until it clicks.
+To extend your ink yield, optimize your original documents to avoid large, solid blocks of black, which consume ink extremely quickly on a duplicator.
+
+## Frequently asked questions
+Is there an XL or high-yield alternative? The 1000ml size is the maximum capacity available for these models.
+What is the difference between Riso ink and laser toner? Duplicator ink is a liquid emulsion used to press through a master stencil, unlike dry laser toner.
+What is the delivery time? Same-day delivery for Nairobi CBD, and 24 hours for the rest of Kenya.
+What is your warranty or returns policy? Genuine sealed tubes are backed by the manufacturer's warranty against defects.
+How do I unblock the drum? Usually, running 50 to 100 scrap copies will pull fresh ink through and clear minor blockages.`, "metaTitle": "Riso S-8113E FII Type Black Ink 1000ml", "metaDescription": "Genuine Riso S-8113E FII Type black duplicator ink, 1000ml, for Riso SF and SE series machines. Order via WhatsApp for delivery in Kenya.", "inStock": true},
   {"id": 5342, "sku": "S-8131E", "name": "Riso S-8131E Fii Type Duplicator Masters 2 Per Box", "brand": "Riso", "category": "Riso Master Rolls & Inks", "price": 11000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/Riso-S-8131E-Fii-Type-Duplicator-Masters-2-Per-Box.webp", "imageFile": "Riso-S-8131E-Fii-Type-Duplicator-Masters-2-Per-Box.webp", "description": "RISO S-8131E FII TYPE DUPLICATOR MASTERS 2 PER BOX", "inStock": true},
   {"id": 5341, "sku": "S-8188E", "name": "Riso S-8188E A4 Master Roll Fii Type", "brand": "Riso", "category": "Riso Master Rolls & Inks", "price": 5500, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/Riso-S-8188E-A4-Master-Roll-Fii-Type.webp", "imageFile": "Riso-S-8188E-A4-Master-Roll-Fii-Type.webp", "description": "RISO S-8188E A4 MASTER ROLL FII TYPE", "inStock": true},
   {"id": 5403, "sku": "CE505A-2", "name": "Royal 05A Black Compatible (CE505A)", "brand": "Royal", "category": "Royal Hp Compatible Toners", "price": 1600, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/08/5403_royal_royal-05a-black-compatible-ce505a.jpg-1.png", "imageFile": "5403_royal_royal-05a-black-compatible-ce505a.jpg-1.png", "description": "ROYAL 05A BLACK COMPATIBLE (CE505A", "inStock": true},

@@ -490,7 +490,38 @@ Is smart chip pre-installed? Yes, genuine RFID core chip included.`, "metaTitle"
   {"id": 4919, "sku": null, "name": "Royal Superior Laserjet Toner Cartridge 222A", "brand": "Royal", "category": "Inks & Toner Cartridges", "price": 4000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2025/11/Royal-Superior-LaserJet-Toner-222A.png", "imageFile": "Royal-Superior-LaserJet-Toner-222A.png", "description": "Compatible with: HP Color LaserJet Pro 3203dw HP Color LaserJet Pro 3288dw HP Color LaserJet Pro MFP 3303fdw HP Color LaserJet Pro MFP 3303sdw", "inStock": true},
   {"id": 4922, "sku": null, "name": "Royal Superior Laserjet Toner Cartridge 230A", "brand": "Royal", "category": "Inks & Toner Cartridges", "price": 4000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2025/11/Royal-Superior-LaserJet-Toner-230A.png", "imageFile": "Royal-Superior-LaserJet-Toner-230A.png", "description": "Compatible with: HP Color LaserJet Pro 4203dn HP Color LaserJet Pro 4203dw HP Color LaserJet Pro MFP 4303dw HP Color LaserJet Pro MFP 4303fdn HP Color LaserJet Pro MFP 4303fdw", "inStock": true},
   {"id": 4528, "sku": null, "name": "Royal Superior Laserjet Toner Cartridge 85A/35A", "brand": "Royal", "category": "Inks & Toner Cartridges", "price": 1700, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2025/01/ROYAL-TONER-85A35A.png", "imageFile": "ROYAL-TONER-85A35A.png", "description": "Compatible with: HP LaserJet Pro P1100 series: P1102, P1102w, P1109w HP LaserJet Pro M1130 / M1132 / M1136 (MFPs) HP LaserJet Pro M1210 / M1212nf", "inStock": true},
-  {"id": 4925, "sku": null, "name": "Royal Superior Laserjet Toner Cartridge CRG 045/CRG 054/203A/201A", "brand": "Royal", "category": "Inks & Toner Cartridges", "price": 1800, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2025/11/Royal-Superior-LaserJet-Toner-CRG045CRG054203A201A.png", "imageFile": "Royal-Superior-LaserJet-Toner-CRG045CRG054203A201A.png", "description": "", "inStock": true},
+  {"id": 4925, "sku": null, "name": "Royal Superior Laserjet Toner Cartridge CRG 045/CRG 054/203A/201A", "brand": "Royal", "category": "Inks & Toner Cartridges", "price": 1800, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2025/11/Royal-Superior-LaserJet-Toner-CRG045CRG054203A201A.png", "imageFile": "Royal-Superior-LaserJet-Toner-CRG045CRG054203A201A.png", "description": `The Royal Superior Laserjet Toner Cartridge CRG 045/CRG 054/203A/201A supplies high-performance compatible color laser toner for HP Color LaserJet and Canon imageCLASS desktop printers. Engineered with ultra-fine color powder to ensure crisp text and vibrant graphic reproduction across offices in Kenya.
+
+## Compatible printers
+HP Color LaserJet Pro M254dn / M254dw / MFP M281fdw (203A / CF540A series)
+HP Color LaserJet Pro M252n / M252dw / MFP M277dw (201A / CF400A series)
+Canon imageCLASS LBP611Cn / LBP612Cdw / MF634Cdw (CRG 045 series)
+Canon imageCLASS LBP622Cdw / MF642Cdw / MF644Cdw (CRG 054 series)
+If your printer model isn't listed, send us the number from the front panel and we'll confirm before you pay.
+
+## Specifications
+| Page yield | Part type | Colour | Part number compatibility | Genuine or compatible |
+|---|---|---|---|---|
+| ~1,400 (BK) / ~1,300 (CMY) | Toner Cartridge | Black, Cyan, Magenta, Yellow | CRG-045 / CRG-054 / CF540A / CF400A | Compatible |
+
+## Genuine or compatible?
+This is a premium Compatible toner cartridge from Royal. It delivers performance matching OEM HP and Canon standards at a significantly lower cost per page.
+
+## Why buy from Trinatech
+Stock held in Nairobi CBD.
+Delivery across Kenya including Kisumu, Nakuru, Eldoret, and Mombasa.
+M-Pesa and bank transfer accepted.
+WhatsApp ordering and walk-in options at The One Mall, River Road.
+
+## Getting the most from this product
+Remove the protective orange seal clip and pull the sealing tape out horizontally before inserting the cartridge into your printer.
+
+## Frequently asked questions
+Which color does this cover? Available in Black, Cyan, Magenta, and Yellow (specify color on checkout).
+Does it include a chip? Yes, comes equipped with a smart chip ready for drop-in installation.
+How fast is Nairobi delivery? Delivered within 1 to 3 hours in Nairobi CBD.
+How do I pay? Pay via M-Pesa Buy Goods/Till or bank transfer.
+Is warranty provided? Covered against factory defects.`, "metaTitle": "Royal Compatible CRG 045 / CRG 054 / 203A / 201A Toner Price", "metaDescription": "Order Royal compatible CRG 045, CRG 054, HP 203A & 201A color toners in Nairobi. Yields ~1,400 pages for Color LaserJet & Canon LBP. Fast delivery.", "inStock": true},
   {"id": 4932, "sku": null, "name": "Royal Superior Laserjet Toner Cartridge CRG-070", "brand": "Royal", "category": "Inks & Toner Cartridges", "price": 4000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2025/11/Royal-Superior-LaserJet-Toner-CRG-070.png", "imageFile": "Royal-Superior-LaserJet-Toner-CRG-070.png", "description": "Compatible with: Canon i-SENSYS / imageCLASS LBP-243dw Canon i-SENSYS / imageCLASS LBP-246dw / LBP-246 Canon i-SENSYS / imageCLASS LBP-247dw / LBP-247", "inStock": true},
   {"id": 4929, "sku": null, "name": "Royal Superior Laserjet Toner Cartridge TNP60", "brand": "Royal", "category": "Inks & Toner Cartridges", "price": 7500, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2025/11/Royal-Superior-LaserJet-Toner-TNP60.png", "imageFile": "Royal-Superior-LaserJet-Toner-TNP60.png", "description": "Compatible with: Konica Minolta Bizhub 3622 Konica Minolta Ineo 3622", "inStock": true},
   {"id": 5051, "sku": null, "name": "Royal TK 1110 Original Toner Cartridge", "brand": "Royal", "category": "Royal Toners", "price": 1800, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/TK-1110.png", "imageFile": "TK-1110.png", "description": "ROYAL TK 1110 ORIGINAL TONER CARTRIDGE", "inStock": true},

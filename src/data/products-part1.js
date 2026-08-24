@@ -768,7 +768,48 @@ Are color toners needed? No, supported models are monochrome laser printers.
 How fast is Nairobi delivery? 1 to 3 hours within Nairobi CBD.
 How can I pay? M-Pesa, bank wire, or cash at counter.
 Is warranty provided? Covered against factory defects under Brother standard warranty.`, "metaTitle": "Brother TN-3350 Original Toner Cartridge - Trinatech Kenya", "metaDescription": "Order original Brother TN-3350 black toner cartridge in Nairobi. Yields ~8,000 pages for HL-5450DN and MFC-8950DW. Fast shipping in Kenya.", "inStock": true},
-  {"id": 5545, "sku": "TN-3437", "name": "Brother TN-3437 Black Toner High Capacity", "brand": "Brother", "category": "Brother Toners", "price": 3500, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/Brother-TN-3437-Black-Toner-High-Capacity.webp", "imageFile": "Brother-TN-3437-Black-Toner-High-Capacity.webp", "description": "BROTHER TN-3437 BLACK TONER HIGH CAPACITY", "inStock": true},
+  {"id": 5545, "sku": "TN-3437", "name": "Brother TN-3437 Black Toner High Capacity", "brand": "Brother", "category": "Brother Toners", "price": 3500, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/Brother-TN-3437-Black-Toner-High-Capacity.webp", "imageFile": "Brother-TN-3437-Black-Toner-High-Capacity.webp", "description": `The Brother TN-3437 Black Toner High Capacity ensures your fast-paced corporate office can continuously output high-quality, professional documents without frustrating downtime. Delivering a massive yield of up to 8,000 pages of sharp, smudge-free text, this genuine high-capacity toner is formulated specifically for Brother's robust enterprise-level monochrome laser printers. By choosing this authentic Brother supply, you ensure your machine runs cleanly and efficiently, protecting your expensive hardware investment while keeping your overall cost per page incredibly low during heavy print runs.
+
+## Compatible printers
+Brother HL-L5000D
+Brother HL-L5100DN
+Brother HL-L5200DW
+Brother HL-L6200DW
+Brother HL-L6400DW
+Brother DCP-L5500D
+Brother DCP-L5600DN
+Brother MFC-L5700DW
+Brother MFC-L5900DW
+Brother MFC-L6700DW
+Brother MFC-L6900DW
+If your model isn't listed, send us the number from the front of the machine and we'll confirm before you pay.
+
+## Specifications
+| Page yield | Cartridge type | Colour | Capacity | Part number | Genuine or compatible |
+|---|---|---|---|---|---|
+| ~8,000 pages | Laser Toner | Black | High Yield | TN-3437 | Genuine |
+
+## Genuine or compatible?
+This is a 100% genuine, Original Brother toner cartridge supplied in a factory-sealed box. Genuine toner is precisely formulated to melt exactly at your specific machine's fusing temperature, which protects the lifespan of your separate DR-3405 imaging drum. However, if aggressive cost savings are your primary concern for internal operations, our Royal compatible equivalent is available for these heavy-duty models. The Royal version gives you the same perfect fit and high capacity at a significantly lower cost, making it an excellent trade-off for high-volume, non-archival everyday printing.
+
+## Why buy from Trinatech
+Stock held locally in Nairobi CBD.
+Delivery across Kenya including Kisumu, Nakuru, Eldoret and Mombasa.
+M-Pesa and bank transfer accepted securely.
+WhatsApp ordering, walk-in at The One Mall River Road.
+
+## Getting the most from this cartridge
+Keep the toner safely stored in its original foil packaging away from direct sunlight or extreme temperatures until your machine explicitly prompts you for a replacement.
+Before inserting the new high-capacity cartridge, hold it horizontally and rock it back and forth several times to ensure the micro-fine toner is evenly distributed inside the chamber.
+To maximize your impressive 8,000-page yield, encourage your team to utilize the printer's toner-save function for internal memos and draft documents that do not require deep, presentation-quality solid blacks.
+Furthermore, always remember to slide the green corona wire tab on your drum unit to clean it when installing this new toner.
+
+## Frequently asked questions
+Is there an XL or high-yield alternative? This TN-3437 is already the high-yield version; an ultra-high yield TN-3467 (12,000 pages) also exists.
+Do I need other colours to print? No, these enterprise copiers and printers only require a single black toner cartridge.
+What is the delivery time? Same-day delivery for Nairobi CBD, and 24 hours for the rest of Kenya.
+What is your warranty or returns policy? We honour the standard Brother warranty for factory-sealed, genuine items.
+Is the toner difficult to install? Not at all; simply open the front door, pull the drum assembly out, and the new toner clicks securely into the drum frame.`, "metaTitle": "Brother TN-3437 Black High Yield Toner", "metaDescription": "Genuine Brother TN-3437 black high-yield toner, approx 8,000 pages, for HL-L5200DW, MFC-L5700DW. Fast delivery across Kenya from Trinatech.", "inStock": true},
   {"id": 5544, "sku": "TN-2355", "name": "Compatible Brother TN-2355 ~ DR-2305 Black Toner", "brand": "Brother", "category": "Brother Toners", "price": 2500, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/Compatible-Brother-TN-2355-DR-2305-Black-Toner.webp", "imageFile": "Compatible-Brother-TN-2355-DR-2305-Black-Toner.webp", "description": `The Compatible Brother TN-2355 Black Toner Cartridge is the ultimate cost-saving solution for offices that produce large volumes of everyday documents on their Brother L2000 series printers. Designed as a direct drop-in replacement for the original part, this high-quality compatible toner matches the 2,600-page high yield of the original at a fraction of the cost. It delivers deep, reliable black text, making it ideal for internal paperwork, heavy invoice runs, and school environments.
 
 ## Compatible printers

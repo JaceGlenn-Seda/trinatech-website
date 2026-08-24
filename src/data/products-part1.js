@@ -135,14 +135,294 @@ Is warranty included? Standard shop return policy applies.`, "metaTitle": "Broth
   {"id": 5352, "sku": "LC3719X-3", "name": "Brother LC3719XL Cyan Ink Cartridges", "brand": "Brother", "category": "Brother Inks Cartridges", "price": 3000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/Brother-LC3719XL-Cyan-Ink-Cartridges.webp", "imageFile": "Brother-LC3719XL-Cyan-Ink-Cartridges.webp", "description": "BROTHER LC3719XL CYAN INK CARTRIDGES", "inStock": true},
   {"id": 5351, "sku": "LC3719X-2", "name": "Brother LC3719XL Magenta Ink Cartridges", "brand": "Brother", "category": "Brother Inks Cartridges", "price": 3000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/Brother-LC3719XL-Magenta-Ink-Cartridges.webp", "imageFile": "Brother-LC3719XL-Magenta-Ink-Cartridges.webp", "description": "BROTHER LC3719XL MAGENTA INK CARTRIDGES", "inStock": true},
   {"id": 5350, "sku": "LC3719X", "name": "Brother LC3719XL Yellow Ink Cartridges", "brand": "Brother", "category": "Brother Inks Cartridges", "price": 3000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/Brother-LC3719XL-Yellow-Ink-Cartridges.webp", "imageFile": "Brother-LC3719XL-Yellow-Ink-Cartridges.webp", "description": "BROTHER LC3719XL YELLOW INK CARTRIDGES", "inStock": true},
-  {"id": 4967, "sku": "TN-1000", "name": "Brother TN-1000 Black Toner Cartridge", "brand": "Brother", "category": "Brother Toners", "price": 2500, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/Brother-TN-1000-Black-Toner-Cartridge.webp", "imageFile": "Brother-TN-1000-Black-Toner-Cartridge.webp", "description": "BROTHER TN-1000 BLACK TONER CARTRIDGE", "inStock": true},
-  {"id": 5557, "sku": "TN-2130", "name": "Brother TN-2130 Black Toner Cartridge", "brand": "Brother", "category": "Brother Toners", "price": 3500, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/Brother-TN-2130-Black-Toner-Cartridge.webp", "imageFile": "Brother-TN-2130-Black-Toner-Cartridge.webp", "description": "BROTHER TN-2130 BLACK TONER CARTRIDGE", "inStock": true},
-  {"id": 4968, "sku": "TN-2280", "name": "Brother TN-2280 Black Toner Cartridge", "brand": "Brother", "category": "Brother Toners", "price": 3500, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/Brother-TN-2280-Black-Toner-Cartridge.webp", "imageFile": "Brother-TN-2280-Black-Toner-Cartridge.webp", "description": "BROTHER TN-2280 BLACK TONER CARTRIDGE", "inStock": true},
-  {"id": 4969, "sku": "TN-2305", "name": "Brother TN-2305 Black Toner Cartridge", "brand": "Brother", "category": "Brother Toners", "price": 3500, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/Brother-TN-2305-Black-Toner-Cartridge.webp", "imageFile": "Brother-TN-2305-Black-Toner-Cartridge.webp", "description": "BROTHER TN-2305 BLACK TONER CARTRIDGE", "inStock": true},
-  {"id": 4395, "sku": null, "name": "Brother TN-2350 Black Toner Cartridge", "brand": "Brother", "category": "Inks & Toner Cartridges", "price": 11000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2025/01/Brother-TN-2350-Toner.png", "imageFile": "Brother-TN-2350-Toner.png", "description": "Compatible with: Brother HL-L2300D HL-L2305W HL-L2340DW HL-L2365DW HL-L2380DW MFC-L2700DW MFC-L2703DW MFC-L2720DW MFC-L2740DW", "inStock": true},
-  {"id": 5556, "sku": "TN-2355-2", "name": "Brother TN-2355 Black Toner Cartridge", "brand": "Brother", "category": "Brother Toners", "price": 2500, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/Brother-TN-2355-Black-Toner-Cartridge.webp", "imageFile": "Brother-TN-2355-Black-Toner-Cartridge.webp", "description": "BROTHER TN-2355 BLACK TONER CARTRIDGE", "inStock": true},
-  {"id": 5555, "sku": "TN-2405", "name": "Brother TN-2405 Black Toner Cartridge", "brand": "Brother", "category": "Brother Toners", "price": 3500, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/Brother-TN-2405-Black-Toner-Cartridge.webp", "imageFile": "Brother-TN-2405-Black-Toner-Cartridge.webp", "description": "BROTHER TN-2405 BLACK TONER CARTRIDGE", "inStock": true},
-  {"id": 5554, "sku": "TN-261", "name": "Brother TN-261 Toners CMYK Cartridges Each", "brand": "Brother", "category": "Brother Toners", "price": 4000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/Brother-TN-261-Toners-CMYK-Cartridges-Each.webp", "imageFile": "Brother-TN-261-Toners-CMYK-Cartridges-Each.webp", "description": "BROTHER TN-261 TONERS CMYK CARTRIDGES EACH", "inStock": true},
+  {"id": 4967, "sku": "TN-1000", "name": "Brother TN-1000 Black Toner Cartridge", "brand": "Brother", "category": "Brother Toners", "price": 2500, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/Brother-TN-1000-Black-Toner-Cartridge.webp", "imageFile": "Brother-TN-1000-Black-Toner-Cartridge.webp", "description": `The Brother TN-1000 Black Toner Cartridge is a highly dependable, standard-capacity supply for Brother's most compact and popular monochrome laser printers. Formulated to deliver crisp, dark text for up to 1,000 pages, it ensures your home office or small workspace keeps functioning without constant interruptions. It is an excellent, low-maintenance choice for users that need to produce high-quality black-and-white documents cost-effectively.
+
+## Compatible printers
+Brother HL-1110
+Brother HL-1112
+Brother DCP-1510
+Brother DCP-1512
+Brother MFC-1810
+Brother MFC-1815
+If your model isn't listed, send us the number from the front of the machine and we'll confirm before you pay.
+
+## Specifications
+| Page yield | Cartridge type | Colour | Capacity | Part number | Genuine or compatible |
+|---|---|---|---|---|---|
+| ~1,000 pages | Laser Toner | Black | Standard | TN-1000 | Genuine |
+
+## Genuine or compatible?
+Genuine, Original Brother toner. It guarantees precise compatibility and protects your printer's separate drum unit from the wear and tear caused by counterfeit powder. If you are looking to aggressively lower your cost per copy on everyday printing, we also stock a Royal compatible cartridge for these models. The Royal version fits exactly the same and is highly cost-effective for non-archival documents.
+
+## Why buy from Trinatech
+Stock held in Nairobi CBD for rapid dispatch.
+Delivery across Kenya including Kisumu, Nakuru, Eldoret and Mombasa.
+M-Pesa and bank transfer accepted.
+WhatsApp ordering, walk-in at The One Mall River Road.
+
+## Getting the most from this cartridge
+Always shake the toner gently from side to side before inserting it into the drum unit to ensure the powder feeds correctly from the very first page.
+Because Brother printers use a separate toner and drum system, ensure you only replace the toner (TN-1000) when prompted, and do not throw away your drum unit (DR-1000).
+
+## Frequently asked questions
+Is there an XL or high-yield alternative? This is the standard, maximum-yield toner designed for these specific desktop models.
+Do I need other colours to print? No, these Brother machines are strictly black-and-white printers.
+What is the delivery time? Same-day within Nairobi CBD; overnight delivery for the rest of Kenya.
+What is your warranty or returns policy? Standard manufacturer warranties apply to all genuine, factory-sealed toners.
+Does this toner include the drum unit? No, the toner clicks into the drum unit, which is sold separately.`, "metaTitle": "Brother TN-1000 Black Original Toner Cartridge", "metaDescription": "Genuine Brother TN-1000 black toner, approx 1,000 pages, for HL-1110, DCP-1510, MFC-1810. Fast delivery across Kenya via WhatsApp ordering.", "inStock": true},
+  {"id": 5557, "sku": "TN-2130", "name": "Brother TN-2130 Black Toner Cartridge", "brand": "Brother", "category": "Brother Toners", "price": 3500, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/Brother-TN-2130-Black-Toner-Cartridge.webp", "imageFile": "Brother-TN-2130-Black-Toner-Cartridge.webp", "description": `The Brother TN-2130 Black Toner Cartridge ensures your reliable legacy Brother laser printer continues to output high-quality, professional documents without frustrating downtime. Formulated to adhere perfectly to the page, this genuine toner provides sharp, smudge-free text and clear greyscale graphics for up to 1,500 pages. It is an essential supply for businesses and home offices still depending on these incredibly durable monochrome machines.
+
+## Compatible printers
+Brother HL-2140
+Brother HL-2150N
+Brother HL-2170W
+Brother DCP-7030
+Brother DCP-7040
+Brother MFC-7340
+Brother MFC-7440N
+Brother MFC-7840W
+If your model isn't listed, send us the number from the front of the machine and we'll confirm before you pay.
+
+## Specifications
+| Page yield | Cartridge type | Colour | Capacity | Part number | Genuine or compatible |
+|---|---|---|---|---|---|
+| ~1,500 pages | Laser Toner | Black | Standard | TN-2130 | Genuine |
+
+## Genuine or compatible?
+This is a genuine, Original Brother toner cartridge. Genuine toner is specifically engineered to protect the lifespan of your drum. However, if cost savings are your primary concern, our Royal compatible equivalent is available for these models, giving you the same perfect fit at a significantly lower cost for high-volume everyday printing.
+
+## Why buy from Trinatech
+Stock held locally in Nairobi CBD.
+Delivery across Kenya including Kisumu, Nakuru, Eldoret and Mombasa.
+M-Pesa and bank transfer accepted securely.
+WhatsApp ordering, walk-in at The One Mall River Road.
+
+## Getting the most from this cartridge
+Avoid exposing the toner to direct sunlight or high temperatures.
+When it is time to replace the cartridge, rock it horizontally several times to ensure the toner is evenly distributed inside the chamber.
+To maximize your 1,500-page yield, use the printer's toner-save function for everyday internal memos that do not require deep, presentation-quality blacks.
+
+## Frequently asked questions
+Is there an XL or high-yield alternative? Yes, the Brother TN-2150 is the high-yield version for these same printers.
+Do I need other colours to print? No, these copiers and printers only require a single black toner cartridge.
+What is the delivery time? Same-day delivery for Nairobi CBD, and 24 hours for the rest of Kenya.
+What is your warranty or returns policy? We honour the standard Brother warranty for factory-sealed, genuine items.
+Is the toner difficult to install? Not at all; the front door opens, the drum pulls out, and the new toner clicks into the drum frame.`, "metaTitle": "Brother TN-2130 Black Original Toner Cartridge", "metaDescription": "Genuine Brother TN-2130 black toner, approx 1,500 pages, for Brother HL-2140, DCP-7030, MFC-7340. Reliable stock at Trinatech Nairobi CBD.", "inStock": true},
+  {"id": 4968, "sku": "TN-2280", "name": "Brother TN-2280 Black Toner Cartridge", "brand": "Brother", "category": "Brother Toners", "price": 3500, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/Brother-TN-2280-Black-Toner-Cartridge.webp", "imageFile": "Brother-TN-2280-Black-Toner-Cartridge.webp", "description": `The Brother TN-2280 Black Toner Cartridge is a high-yield powerhouse built to keep up with your fast-paced office's document demands. Delivering up to 2,600 pages, this genuine toner offers long replacement cycles, minimizing printer downtime and reducing your overall cost per page. It produces consistent, deep text that resists smudging, ensuring your critical corporate documents are always highly legible and professional.
+
+## Compatible printers
+Brother HL-2240D
+Brother HL-2250DN
+Brother HL-2270DW
+Brother DCP-7060D
+Brother DCP-7065DN
+Brother MFC-7360N
+Brother MFC-7460DN
+Brother MFC-7860DW
+If your model isn't listed, send us the number from the front of the machine and we'll confirm before you pay.
+
+## Specifications
+| Page yield | Cartridge type | Colour | Capacity | Part number | Genuine or compatible |
+|---|---|---|---|---|---|
+| ~2,600 pages | Laser Toner | Black | High Yield | TN-2280 | Genuine |
+
+## Genuine or compatible?
+This is a 100% genuine, Original Brother toner cartridge. It provides the exact toner formulation designed to melt perfectly at your specific machine's fusing temperature. While it offers superior reliability and protects your copier's warranty, our Royal compatible equivalent is also available, giving you the same dependable yield at a much lower cost for everyday paperwork.
+
+## Why buy from Trinatech
+Reliable stock held right here in Nairobi CBD.
+Delivery across Kenya including Kisumu, Nakuru, Eldoret and Mombasa.
+M-Pesa and bank transfer accepted securely.
+Easy WhatsApp ordering or walk-in at The One Mall River Road.
+
+## Getting the most from this cartridge
+Keep the toner safely stored in its original foil bag until your machine physically prompts for a replacement.
+Because Brother utilizes a two-part system, ensure you slide the green corona wire tab back and forth on the drum unit every time you install a new TN-2280 toner to ensure print quality remains flawless.
+
+## Frequently asked questions
+Is there an XL or high-yield alternative? This TN-2280 is already the high-yield version (upgraded from the TN-2260).
+Do I need other colours to print? No, these Brother machines are strictly black-and-white.
+What is the delivery time? We offer same-day delivery in Nairobi CBD, and next-day delivery nationwide.
+What is your warranty or returns policy? We provide the manufacturer's warranty on all genuine sealed products.
+Will this fit my DR-2255 drum? Yes, the TN-2280 toner is designed to click perfectly into the DR-2255 drum unit.`, "metaTitle": "Brother TN-2280 Black High Yield Toner", "metaDescription": "Genuine Brother TN-2280 black high-yield toner, approx 2,600 pages, for HL-2240D, HL-2270DW, MFC-7360N. Fast delivery across Kenya.", "inStock": true},
+  {"id": 4969, "sku": "TN-2305", "name": "Brother TN-2305 Black Toner Cartridge", "brand": "Brother", "category": "Brother Toners", "price": 3500, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/Brother-TN-2305-Black-Toner-Cartridge.webp", "imageFile": "Brother-TN-2305-Black-Toner-Cartridge.webp", "description": `The Brother TN-2305 Black Toner Cartridge is a highly dependable, standard-capacity supply for Brother's popular L2000 series monochrome laser printers. Formulated to deliver crisp, dark text for up to 1,200 pages, it ensures your small office keeps functioning without constant interruptions. It is an excellent, low-maintenance choice for users that need to produce high-quality black-and-white documents with genuine Brother reliability.
+
+## Compatible printers
+Brother HL-L2320D
+Brother HL-L2365DW
+Brother DCP-L2500D
+Brother DCP-L2520DW
+Brother DCP-L2540DW
+Brother MFC-L2700DW
+Brother MFC-L2740DW
+If your model isn't listed, send us the number from the front of the machine and we'll confirm before you pay.
+
+## Specifications
+| Page yield | Cartridge type | Colour | Capacity | Part number | Genuine or compatible |
+|---|---|---|---|---|---|
+| ~1,200 pages | Laser Toner | Black | Standard | TN-2305 | Genuine |
+
+## Genuine or compatible?
+Genuine, Original Brother toner. It guarantees precise compatibility and protects your printer's separate drum unit from the wear and tear caused by counterfeit powder. If you are looking to aggressively lower your cost per copy on everyday printing, we also stock a Royal compatible cartridge for these models. The Royal version fits exactly the same and is highly cost-effective for internal drafts.
+
+## Why buy from Trinatech
+Stock held in Nairobi CBD for rapid dispatch.
+Delivery across Kenya including Kisumu, Nakuru, Eldoret and Mombasa.
+M-Pesa and bank transfer accepted.
+WhatsApp ordering, walk-in at The One Mall River Road.
+
+## Getting the most from this cartridge
+Always shake the toner gently from side to side before inserting it into the drum unit to ensure the powder feeds correctly from the very first page.
+Because actual page yield depends heavily on your printing habits, you can extend the life of the toner by setting your defaults to lower density for everyday internal paperwork.
+
+## Frequently asked questions
+Is there an XL or high-yield alternative? Yes, you can upgrade to the high-yield TN-2355 for more than double the pages.
+Do I need other colours to print? No, these Brother machines are strictly black-and-white printers.
+What is the delivery time? Same-day within Nairobi CBD; overnight delivery for the rest of Kenya.
+What is your warranty or returns policy? Standard manufacturer warranties apply to all genuine, factory-sealed toners.
+Does this toner include the drum unit? No, the toner clicks into the DR-2305 drum unit, which is sold separately.`, "metaTitle": "Brother TN-2305 Black Original Toner Cartridge", "metaDescription": "Genuine Brother TN-2305 black toner, approx 1,200 pages, for Brother HL-L2320D, DCP-L2520DW, MFC-L2700DW. Delivered anywhere in Kenya.", "inStock": true},
+  {"id": 4395, "sku": null, "name": "Brother TN-2350 Black Toner Cartridge", "brand": "Brother", "category": "Inks & Toner Cartridges", "price": 11000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2025/01/Brother-TN-2350-Toner.png", "imageFile": "Brother-TN-2350-Toner.png", "description": `The Brother TN-2350 Black Toner Cartridge is a high-yield powerhouse built to keep up with your fast-paced office's document demands on the Brother L2000 series. Delivering up to 2,600 pages, this genuine toner offers long replacement cycles, minimizing printer downtime and significantly reducing your overall cost per page. It produces consistent, deep text that resists smudging, ensuring your critical corporate documents are always highly legible.
+
+## Compatible printers
+Brother HL-L2300D
+Brother HL-L2340DW
+Brother HL-L2365DW
+Brother DCP-L2520DW
+Brother DCP-L2540DW
+Brother MFC-L2700DW
+Brother MFC-L2740DW
+If your model isn't listed, send us the number from the front of the machine and we'll confirm before you pay.
+
+## Specifications
+| Page yield | Cartridge type | Colour | Capacity | Part number | Genuine or compatible |
+|---|---|---|---|---|---|
+| ~2,600 pages | Laser Toner | Black | High Yield | TN-2350 | Genuine |
+
+## Genuine or compatible?
+This is a 100% genuine, Original Brother toner cartridge. It provides the exact toner formulation designed to melt perfectly at your specific machine's fusing temperature. While it offers superior reliability, our Royal compatible equivalent is also available, giving you the same dependable 2,600-page yield at a lower cost for everyday non-archival paperwork.
+
+## Why buy from Trinatech
+Reliable stock held right here in Nairobi CBD.
+Delivery across Kenya including Kisumu, Nakuru, Eldoret and Mombasa.
+M-Pesa and bank transfer accepted securely.
+Easy WhatsApp ordering or walk-in at The One Mall River Road.
+
+## Getting the most from this cartridge
+Keep the toner safely stored in its original foil bag until your machine physically prompts for a replacement.
+Because Brother utilizes a two-part system, ensure you slide the green corona wire tab back and forth on the drum unit every time you install a new TN-2350 toner to ensure print quality remains flawless and free of vertical lines.
+
+## Frequently asked questions
+Is there an XL or high-yield alternative? This TN-2350 is already the high-yield version of the standard TN-2330.
+Do I need other colours to print? No, these Brother machines are strictly black-and-white.
+What is the delivery time? We offer same-day delivery in Nairobi CBD, and next-day delivery nationwide.
+What is your warranty or returns policy? We provide the manufacturer's warranty on all genuine sealed products.
+Are TN-2350 and TN-2355 the same? They fit similar machines, but region coding dictates which one your specific printer will accept.`, "metaTitle": "Brother TN-2350 Black High Yield Toner", "metaDescription": "Genuine Brother TN-2350 black high-yield toner, approx 2,600 pages, for HL-L2340DW, MFC-L2700DW. Genuine stock delivered across Kenya.", "inStock": true},
+  {"id": 5556, "sku": "TN-2355-2", "name": "Brother TN-2355 Black Toner Cartridge", "brand": "Brother", "category": "Brother Toners", "price": 2500, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/Brother-TN-2355-Black-Toner-Cartridge.webp", "imageFile": "Brother-TN-2355-Black-Toner-Cartridge.webp", "description": `The Brother TN-2355 Black Toner Cartridge ensures your busy small office can continuously output high-quality, professional documents without frustrating downtime. Delivering up to 2,600 pages of sharp, smudge-free text, this high-yield genuine toner is formulated specifically for Brother's robust monochrome laser printers. It ensures your machine runs cleanly and efficiently, protecting your investment while keeping your cost per page incredibly low.
+
+## Compatible printers
+Brother HL-L2320D
+Brother HL-L2365DW
+Brother DCP-L2500D
+Brother DCP-L2520DW
+Brother DCP-L2540DW
+Brother MFC-L2700DW
+Brother MFC-L2740DW
+If your model isn't listed, send us the number from the front of the machine and we'll confirm before you pay.
+
+## Specifications
+| Page yield | Cartridge type | Colour | Capacity | Part number | Genuine or compatible |
+|---|---|---|---|---|---|
+| ~2,600 pages | Laser Toner | Black | High Yield | TN-2355 | Genuine |
+
+## Genuine or compatible?
+This is a genuine, Original Brother toner cartridge. Genuine toner is specifically engineered to protect the lifespan of your DR-2305 drum. However, if cost savings are your primary concern, our Royal compatible equivalent is available for these models, giving you the same perfect fit at a significantly lower cost for high-volume everyday printing.
+
+## Why buy from Trinatech
+Stock held locally in Nairobi CBD.
+Delivery across Kenya including Kisumu, Nakuru, Eldoret and Mombasa.
+M-Pesa and bank transfer accepted securely.
+WhatsApp ordering, walk-in at The One Mall River Road.
+
+## Getting the most from this cartridge
+Avoid exposing the toner to direct sunlight or high temperatures.
+When it is time to replace the cartridge, rock it horizontally several times to ensure the toner is evenly distributed inside the chamber.
+To maximize your 2,600-page yield, use the printer's toner-save function for everyday internal memos that do not require deep, presentation-quality blacks.
+
+## Frequently asked questions
+Is there an XL or high-yield alternative? This TN-2355 is already the high-yield version of the standard TN-2305.
+Do I need other colours to print? No, these copiers and printers only require a single black toner cartridge.
+What is the delivery time? Same-day delivery for Nairobi CBD, and 24 hours for the rest of Kenya.
+What is your warranty or returns policy? We honour the standard Brother warranty for factory-sealed, genuine items.
+Is the toner difficult to install? Not at all; open the front door, pull the drum out, and the new toner clicks into the drum frame.`, "metaTitle": "Brother TN-2355 Black High Yield Toner", "metaDescription": "Genuine Brother TN-2355 black high-yield toner, approx 2,600 pages, for HL-L2320D, MFC-L2700DW. Buy genuine supplies at Trinatech Nairobi.", "inStock": true},
+  {"id": 5555, "sku": "TN-2405", "name": "Brother TN-2405 Black Toner Cartridge", "brand": "Brother", "category": "Brother Toners", "price": 3500, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/Brother-TN-2405-Black-Toner-Cartridge.webp", "imageFile": "Brother-TN-2405-Black-Toner-Cartridge.webp", "description": `The Brother TN-2405 Black Toner Cartridge is a highly dependable, standard-capacity supply for Brother's modern, compact monochrome laser printers. Formulated to deliver crisp, dark text for up to 1,200 pages, it ensures your small office or reception desk keeps functioning without constant interruptions. It is an excellent, low-maintenance choice for users that need to produce high-quality black-and-white documents cost-effectively.
+
+## Compatible printers
+Brother HL-L2370DN
+Brother HL-L2375DW
+Brother HL-L2385DW
+Brother DCP-L2550DW
+Brother MFC-L2715DW
+Brother MFC-L2750DW
+If your model isn't listed, send us the number from the front of the machine and we'll confirm before you pay.
+
+## Specifications
+| Page yield | Cartridge type | Colour | Capacity | Part number | Genuine or compatible |
+|---|---|---|---|---|---|
+| ~1,200 pages | Laser Toner | Black | Standard | TN-2405 | Genuine |
+
+## Genuine or compatible?
+Genuine, Original Brother toner. It guarantees precise compatibility and protects your printer's separate drum unit from the wear and tear caused by counterfeit powder. If you are looking to aggressively lower your cost per copy on everyday printing, we also stock a Royal compatible cartridge for these models. The Royal version fits exactly the same and is highly cost-effective for non-archival documents.
+
+## Why buy from Trinatech
+Stock held in Nairobi CBD for rapid dispatch.
+Delivery across Kenya including Kisumu, Nakuru, Eldoret and Mombasa.
+M-Pesa and bank transfer accepted.
+WhatsApp ordering, walk-in at The One Mall River Road.
+
+## Getting the most from this cartridge
+Always shake the toner gently from side to side before inserting it into the drum unit to ensure the powder feeds correctly from the very first page.
+Because Brother printers use a separate toner and drum system, ensure you only replace the toner (TN-2405) when prompted, and do not throw away your drum unit (DR-2405).
+
+## Frequently asked questions
+Is there an XL or high-yield alternative? Yes, you can upgrade to the Brother TN-2455 for a high-yield capacity of up to 3,000 pages.
+Do I need other colours to print? No, these Brother machines are strictly black-and-white printers.
+What is the delivery time? Same-day within Nairobi CBD; overnight delivery for the rest of Kenya.
+What is your warranty or returns policy? Standard manufacturer warranties apply to all genuine, factory-sealed toners.
+Does this toner include the drum unit? No, the toner clicks into the drum unit, which is a separate consumable part.`, "metaTitle": "Brother TN-2405 Black Original Toner Cartridge", "metaDescription": "Genuine Brother TN-2405 black toner, approx 1,200 pages, for Brother HL-L2370DN, DCP-L2550DW, MFC-L2715DW. Same-day Nairobi CBD delivery.", "inStock": true},
+  {"id": 5554, "sku": "TN-261", "name": "Brother TN-261 Toners CMYK Cartridges Each", "brand": "Brother", "category": "Brother Toners", "price": 4000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/Brother-TN-261-Toners-CMYK-Cartridges-Each.webp", "imageFile": "Brother-TN-261-Toners-CMYK-Cartridges-Each.webp", "description": `The Brother TN-261 Toner Cartridges provide the premium, fast-drying powder your Brother colour LED machine requires to output stunning colour documents at high speeds. Whether you are printing marketing brochures or double-sided reports, these standard-capacity toners ensure smooth, streak-free results. Sold individually (in Black, Cyan, Magenta, or Yellow), they keep your office printer running perfectly with minimal intervention, delivering vivid graphics and sharp text.
+
+## Compatible printers
+Brother HL-3150CDN
+Brother HL-3170CDW
+Brother MFC-9140CDN
+Brother MFC-9330CDW
+If your model isn't listed, send us the number from the front of the machine and we'll confirm before you pay.
+
+## Specifications
+| Page yield | Cartridge type | Colour | Capacity | Part number | Genuine or compatible |
+|---|---|---|---|---|---|
+| ~2,500 (Black) / ~1,400 (Colour) | Laser Toner | Black, Cyan, Magenta OR Yellow | Standard | TN-261 | Genuine |
+
+## Genuine or compatible?
+This is a 100% genuine, Original Brother toner. Genuine supplies are critical for maintaining the health of your printer's sensitive internal LED drum units over years of use. For customers doing massive volumes of draft-quality internal printing, our Royal compatible equivalent is available—it fits seamlessly into the same machines at a much lower price, offering a highly practical trade-off.
+
+## Why buy from Trinatech
+Stock held right here in Nairobi CBD.
+Delivery across Kenya including Kisumu, Nakuru, Eldoret and Mombasa.
+M-Pesa and bank transfer accepted.
+WhatsApp ordering, walk-in at The One Mall River Road.
+
+## Getting the most from this cartridge
+Store spare toners horizontally in a cool, dry place away from direct sunlight.
+When your printer alerts you of low toner, do not immediately discard the old cartridge; the machine will give you ample warning to order a replacement before it completely stops printing.
+Slide the green corona wire cleaner on the corresponding drum unit every time you change a colour toner.
+
+## Frequently asked questions
+Is there an XL or high-yield alternative? Yes, the TN-265 series offers high-yield capacities for the colour cartridges.
+Do I need other colours to print? Yes, all four toners (CMYK) must have powder for the machine to operate safely.
+What is the delivery time? Same-day delivery within Nairobi CBD and next-day for the rest of Kenya.
+What is your warranty or returns policy? Genuine Brother toners come with a standard manufacturer defect warranty.
+Can I buy the colours separately? Yes, these are priced and sold as individual colours, so you only replace what you need.`, "metaTitle": "Brother TN-261 Original Toner Cartridges (CMYK)", "metaDescription": "Genuine Brother TN-261 toner cartridges (Black, Cyan, Magenta, Yellow) for HL-3150CDN, MFC-9140CDN. Sold individually. Delivered in Kenya.", "inStock": true},
   {"id": 5553, "sku": "TN-273-2", "name": "Brother TN-273 Black Toner Cartridge", "brand": "Brother", "category": "Brother Toners", "price": 4000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/Brother-TN-273-Black-Toner-Cartridge.webp", "imageFile": "Brother-TN-273-Black-Toner-Cartridge.webp", "description": "BROTHER TN-273 BLACK TONER CARTRIDGE", "inStock": true},
   {"id": 5552, "sku": "TN-273", "name": "Brother TN-273 Color Toner Cartridges Each", "brand": "Brother", "category": "Brother Toners", "price": 4000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/Brother-TN-273-Color-Toner-Cartridges-Each.webp", "imageFile": "Brother-TN-273-Color-Toner-Cartridges-Each.webp", "description": "BROTHER TN-273 COLOR TONER CARTRIDGES EACH", "inStock": true},
   {"id": 5551, "sku": "TN-277", "name": "Brother TN-277 Color Toner Cartridges Each", "brand": "Brother", "category": "Brother Toners", "price": 4000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/Brother-TN-277-Color-Toner-Cartridges-Each.webp", "imageFile": "Brother-TN-277-Color-Toner-Cartridges-Each.webp", "description": "BROTHER TN-277 COLOR TONER CARTRIDGES EACH", "inStock": true},
@@ -153,7 +433,42 @@ Is warranty included? Standard shop return policy applies.`, "metaTitle": "Broth
   {"id": 5546, "sku": "TN-3350", "name": "Brother TN-3350 Black Toner Cartridge", "brand": "Brother", "category": "Brother Toners", "price": 3500, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/Brother-TN-3350-Black-Toner-Cartridge.webp", "imageFile": "Brother-TN-3350-Black-Toner-Cartridge.webp", "description": "BROTHER TN-3350 BLACK TONER CARTRIDGE", "inStock": true},
   {"id": 4403, "sku": null, "name": "Brother TN-3350 Toner Cartridge", "brand": "Brother", "category": "Inks & Toner Cartridges", "price": 13000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2025/01/Brother-TN-3350-Toner.png", "imageFile": "Brother-TN-3350-Toner.png", "description": "Compatible with: HL-5440D HL-5450DN / DNT / DWT HL-5470DW / DWT HL-6180DW / DWT HL-6100 and HL-5480 series DCP-8100 / 8110DN / 8155DN / 8250DN MFC-8510DN", "inStock": true},
   {"id": 5545, "sku": "TN-3437", "name": "Brother TN-3437 Black Toner High Capacity", "brand": "Brother", "category": "Brother Toners", "price": 3500, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/Brother-TN-3437-Black-Toner-High-Capacity.webp", "imageFile": "Brother-TN-3437-Black-Toner-High-Capacity.webp", "description": "BROTHER TN-3437 BLACK TONER HIGH CAPACITY", "inStock": true},
-  {"id": 5544, "sku": "TN-2355", "name": "Compatible Brother TN-2355 ~ DR-2305 Black Toner", "brand": "Brother", "category": "Brother Toners", "price": 2500, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/Compatible-Brother-TN-2355-DR-2305-Black-Toner.webp", "imageFile": "Compatible-Brother-TN-2355-DR-2305-Black-Toner.webp", "description": "COMPATIBLE BROTHER TN-2355 ~ DR-2305 BLACK TONER", "inStock": true},
+  {"id": 5544, "sku": "TN-2355", "name": "Compatible Brother TN-2355 ~ DR-2305 Black Toner", "brand": "Brother", "category": "Brother Toners", "price": 2500, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/Compatible-Brother-TN-2355-DR-2305-Black-Toner.webp", "imageFile": "Compatible-Brother-TN-2355-DR-2305-Black-Toner.webp", "description": `The Compatible Brother TN-2355 Black Toner Cartridge is the ultimate cost-saving solution for offices that produce large volumes of everyday documents on their Brother L2000 series printers. Designed as a direct drop-in replacement for the original part, this high-quality compatible toner matches the 2,600-page high yield of the original at a fraction of the cost. It delivers deep, reliable black text, making it ideal for internal paperwork, heavy invoice runs, and school environments.
+
+## Compatible printers
+Brother HL-L2320D
+Brother HL-L2365DW
+Brother DCP-L2500D
+Brother DCP-L2520DW
+Brother DCP-L2540DW
+Brother MFC-L2700DW
+Brother MFC-L2740DW
+If your model isn't listed, send us the number from the front of the machine and we'll confirm before you pay.
+
+## Specifications
+| Page yield | Cartridge type | Colour | Capacity | Part number | Genuine or compatible |
+|---|---|---|---|---|---|
+| ~2,600 pages | Laser Toner | Black | High Yield | TN-2355 (Comp) | Compatible |
+
+## Genuine or compatible?
+This is a compatible toner cartridge. It is entirely brand new and manufactured to meet standard OEM page yields without the premium price tag. It is not an original Brother product. We recommend this compatible version for businesses looking to aggressively cut their printing overheads on heavy-duty text documents without sacrificing page capacity.
+
+## Why buy from Trinatech
+Stock held locally in Nairobi CBD.
+Delivery across Kenya including Kisumu, Nakuru, Eldoret and Mombasa.
+M-Pesa and bank transfer accepted securely.
+WhatsApp ordering available, walk-in at The One Mall River Road.
+
+## Getting the most from this cartridge
+Before inserting the new compatible toner into your Brother drum unit (DR-2305), hold it horizontally and rock it back and forth several times to loosen the toner powder.
+Make sure you slide the green corona wire cleaner on the drum back and forth a few times to ensure crisp, clean prints before inserting the whole assembly back into the printer.
+
+## Frequently asked questions
+Is there an XL or high-yield alternative? This is a high-capacity compatible matching the 2,600-page OEM yield.
+Do I need other colours to print? No, these Brother models are monochrome machines requiring only black toner.
+What is the delivery time? Same-day for Nairobi CBD; expect next-day delivery for other regions in Kenya.
+What is your warranty or returns policy? We offer a replacement guarantee on compatible toners that fail out of the box.
+Does this include the DR-2305 drum? No, this is the replacement TN-2355 toner powder cartridge that fits into your existing drum.`, "metaTitle": "Compatible Brother TN-2355 Black Toner Cartridge", "metaDescription": "Compatible Brother TN-2355 black toner, approx 2,600 pages, for HL-L2365DW, MFC-L2740DW. High-quality replacement stock delivered in Kenya.", "inStock": true},
   {"id": 5520, "sku": null, "name": "Canon 045 Cym Toner Cartridges Each", "brand": "Canon", "category": "Canon Toners", "price": 3000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/Canon-045-Cym-Toner-Cartridges-Each-1.webp", "imageFile": "Canon-045-Cym-Toner-Cartridges-Each-1.webp", "description": `The Canon 045 Color Toner Cartridge series (Cyan, Magenta, Yellow) delivers high-definition color prints for compact imageCLASS laser printers. Formulated for sharp graphics, brochures, and daily document printing across Kenya.
 
 ## Compatible printers
@@ -821,7 +1136,41 @@ Do I need other colours to print? No, the 400i and 500i are purely monochrome ma
 What is the delivery time? Expect same-day delivery in Nairobi CBD, and next-day for the rest of the country.
 What is your warranty or returns policy? We support standard manufacturer warranties on all sealed genuine supplies.
 Will the machine stop when toner is low? It will warn you first, allowing you to print a few more pages before it halts entirely.`, "metaTitle": "Canon C-EXV43 Black Original Toner Cartridge", "metaDescription": "Genuine Canon C-EXV43 black toner (2788B002), approx 15,200 pages, for imageRUNNER ADVANCE 400i, 500i series. Reliable delivery across Kenya.", "inStock": true},
-  {"id": 5511, "sku": null, "name": "Canon C-Exv 51L Cym Toner Cartridges Each", "brand": "Canon", "category": "Canon Toners", "price": 5000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/Canon-C-Exv-51L-Cym-Toner-Cartridges-Each.webp", "imageFile": "Canon-C-Exv-51L-Cym-Toner-Cartridges-Each.webp", "description": "CANON C-EXV 51L CYM TONER CARTRIDGES EACH", "inStock": true},
+  {"id": 5511, "sku": null, "name": "Canon C-Exv 51L Cym Toner Cartridges Each", "brand": "Canon", "category": "Canon Toners", "price": 5000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/Canon-C-Exv-51L-Cym-Toner-Cartridges-Each.webp", "imageFile": "Canon-C-Exv-51L-Cym-Toner-Cartridges-Each.webp", "description": `The Canon C-EXV51L Colour Toner Cartridges provide the premium, vibrant powder your heavy-duty enterprise Canon machine requires to output stunning documents at a slightly lower initial cost than the standard C-EXV51. These "L" versions offer a lower, but still massive, page yield, making them ideal for offices that want genuine Canon colour quality without the highest upfront investment. Available individually (in Cyan, Magenta, or Yellow), they keep your corporate-level copier running flawlessly.
+
+## Compatible printers
+Canon imageRUNNER ADVANCE C5535
+Canon imageRUNNER ADVANCE C5535i
+Canon imageRUNNER ADVANCE C5540i
+Canon imageRUNNER ADVANCE C5550i
+Canon imageRUNNER ADVANCE C5560i
+If your model isn't listed, send us the number from the front of the machine and we'll confirm before you pay.
+
+## Specifications
+| Page yield | Cartridge type | Colour | Capacity | Part number | Genuine or compatible |
+|---|---|---|---|---|---|
+| ~26,000 pages | Laser Toner | Cyan, Magenta OR Yellow | Standard (L-Version) | Varies | Genuine |
+
+## Genuine or compatible?
+This is a genuine, Original Canon toner. Genuine supplies are critical for maintaining the health of your copier's sensitive internal components over years of heavy use. For customers doing massive volumes of draft-quality internal printing, our Royal compatible equivalent is available—it fits seamlessly into the same machines at a much lower price, offering a highly practical trade-off.
+
+## Why buy from Trinatech
+Stock held right here in Nairobi CBD.
+Delivery across Kenya including Kisumu, Nakuru, Eldoret and Mombasa.
+M-Pesa and bank transfer accepted securely.
+WhatsApp ordering, walk-in at The One Mall River Road.
+
+## Getting the most from this cartridge
+Store spare toner bottles horizontally in a cool, dry place away from direct sunlight.
+When your copier alerts you of low toner, do not immediately discard the old bottle; the machine will give you ample warning to order a replacement before it completely stops printing.
+Keep the internal cavity of the copier clean of spilled powder when changing bottles.
+
+## Frequently asked questions
+Is there an XL or high-yield alternative? Yes, the standard C-EXV51 (without the L) offers a much higher yield.
+Do I need other colours to print? Yes, all four toners (CMYK) must have powder for the machine to operate safely.
+What is the delivery time? Same-day delivery within Nairobi CBD and next-day for the rest of Kenya.
+What is your warranty or returns policy? Genuine Canon toners come with a standard manufacturer defect warranty.
+Can I buy the colours separately? Yes, these are priced and sold as individual colour cartridges.`, "metaTitle": "Canon C-EXV51L Colour Toner Cartridges", "metaDescription": "Genuine Canon C-EXV51L low-yield colour toners (Cyan, Magenta, Yellow) for imageRUNNER ADVANCE C5535, C5540, C5550. Delivered across Kenya.", "inStock": true},
   {"id": 5510, "sku": null, "name": "Canon C-Exv 54 Toners Each Bcmy", "brand": "Canon", "category": "Canon Toners", "price": 3000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/Canon-C-Exv-54-Toners-Each-Bcmy-1.webp", "imageFile": "Canon-C-Exv-54-Toners-Each-Bcmy-1.webp", "description": `The Canon C-EXV 54 Color & Black Toner Cartridge series (Black, Cyan, Magenta, Yellow) supplies high-definition toner for Canon imageRUNNER Advance multifunction copiers. Formulated for heavy document workflows, sharp text density, and smooth color graphics across corporate offices in Nairobi.
 
 ## Compatible printers

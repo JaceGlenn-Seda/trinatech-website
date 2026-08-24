@@ -3771,7 +3771,7 @@ Is a lower yield version available? Yes, standard-yield HP 913A Black (~3,500 pa
 Are color cartridges required? Yes, active color cartridges are mandatory for printer operation.
 How fast is Nairobi shipping? Delivered within 1 to 3 hours in Nairobi CBD.
 How can I pay? Pay via M-Pesa Buy Goods/Till, bank transfer, or cash.
-Is warranty provided? Covered under HP official warranty.`, "metaTitle": "HP 973X High Yield Black PageWide Cartridge - Trinatech", "metaDescription": "Buy genuine HP 973X High Yield Black PageWide cartridge in Nairobi. Yields ~10,000 pages for PageWide Pro 452dn & 477dw. Fast Kenya delivery." true},
+Is warranty provided? Covered under HP official warranty.`, "metaTitle": "HP 973X High Yield Black PageWide Cartridge - Trinatech", "metaDescription": "Buy genuine HP 973X High Yield Black PageWide cartridge in Nairobi. Yields ~10,000 pages for PageWide Pro 452dn & 477dw. Fast Kenya delivery.", "inStock": true},
   {"id": 5296, "sku": null, "name": "HP 973X Cmy High Yield Pagewide Cartridge Each", "brand": "HP", "category": "Master Rolls & Inks", "price": 18000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/HP-973X-Cmy-High-Yield-Pagewide-Cartridge-Each.webp", "imageFile": "HP-973X-Cmy-High-Yield-Pagewide-Cartridge-Each.webp", "description": `The HP 973X Cmy High Yield Pagewide Cartridge Each supplies high-capacity pigment ink in Cyan (F6T81A), Magenta (F6T82A), or Yellow (F6T83A) for HP PageWide business printers. Formulated for fast, smudge-proof color document printing across Kenya.
 
 ## Compatible printers
@@ -3805,7 +3805,7 @@ Are colors sold separately? Yes, priced each per individual Cyan, Magenta, or Ye
 Is a lower yield version available? Yes, HP 913A color cartridges (~3,000 pages) are available.
 How fast is Nairobi delivery? Same-day inside 1 to 3 hours.
 How do I pay? Pay via M-Pesa, bank wire, or cash at counter.
-Is warranty provided? Covered against technical and manufacturing defects.`, "metaTitle": "HP 973X High Yield Color PageWide Cartridge - Trinatech", "metaDescription": "Order HP 973X High Yield Cyan, Magenta, Yellow PageWide cartridge in Nairobi. Yields ~7,000 pages each for 452dw & 477dw. Fast Kenya delivery." true},
+Is warranty provided? Covered against technical and manufacturing defects.`, "metaTitle": "HP 973X High Yield Color PageWide Cartridge - Trinatech", "metaDescription": "Order HP 973X High Yield Cyan, Magenta, Yellow PageWide cartridge in Nairobi. Yields ~7,000 pages each for 452dw & 477dw. Fast Kenya delivery.", "inStock": true},
   {"id": 5295, "sku": null, "name": "HP Black 970XL/971XL Ink Original Cartridges", "brand": "HP", "category": "Master Rolls & Inks", "price": 18000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/HP-Black-970XL-971XL-Ink-Original-Cartridges.webp", "imageFile": "HP-Black-970XL-971XL-Ink-Original-Cartridges.webp", "description": `The HP 970XL Black Original Ink Cartridge delivers unprecedented page yields and laser-like text for the revolutionary HP OfficeJet Pro X series printers. Utilizing HP's advanced PageWide technology, this ultra-high-capacity cartridge is capable of printing a massive 9,200 pages, making it ideal for high-volume enterprise and heavy-duty office environments. When paired with the 971XL colour series, this genuine pigment ink guarantees highly durable, water-resistant documents at incredibly fast print speeds.
 
 ## Compatible printers

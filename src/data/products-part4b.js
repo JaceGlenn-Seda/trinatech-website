@@ -1001,7 +1001,7 @@ Is an XL version available? Standard roll length cuts up to ~100-200 masters dep
 Are ink required too? Yes, requires CPI10 / DX2430 liquid ink bottles to print.
 How fast is Nairobi shipping? Delivered within 1 to 3 hours across Nairobi CBD.
 How can I pay? Pay via M-Pesa Buy Goods/Till, bank transfer, or cash.
-Is warranty provided? Covered against technical defects.`, "metaTitle": "Ricoh DX-2430 Master Roll Price - Trinatech Kenya", "metaDescription": "Buy Ricoh DX-2430 master roll in Nairobi. B4/A4 size master roll for DX-2430, DD-5540 digital duplicators. Fast delivery across Kenya." true},
+Is warranty provided? Covered against technical defects.`, "metaTitle": "Ricoh DX-2430 Master Roll Price - Trinatech Kenya", "metaDescription": "Buy Ricoh DX-2430 master roll in Nairobi. B4/A4 size master roll for DX-2430, DD-5540 digital duplicators. Fast delivery across Kenya.", "inStock": true},
   {"id": 5213, "sku": null, "name": "Ricoh Im 3000/3500/4000 Cymk Toner Cartridges Each", "brand": "Ricoh", "category": "Ricoh Toners", "price": 1700, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/Ricoh-Im-3000-3500-4000-Cymk-Toner-Cartridges-Each.webp", "imageFile": "Ricoh-Im-3000-3500-4000-Cymk-Toner-Cartridges-Each.webp", "description": `The Ricoh IM 3000/3500/4000 Black Toner Cartridge powers Ricoh's modern intelligent monochrome multifunction printers. Designed to support high-speed scanning, copy workflows, and dense document output with sharp dark text.
 
 ## Compatible printers

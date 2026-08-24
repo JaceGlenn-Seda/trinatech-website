@@ -210,7 +210,41 @@ Is color toner required? No, supported copiers are monochrome machines.
 How fast is Nairobi shipping? Delivered within 1-3 hours across Nairobi CBD.
 How do I pay? Pay via M-Pesa Buy Goods/Till or bank transfer.
 Is developer required separately? Yes, uses separate AR-152DV / AR-202DV developer.`, "metaTitle": "Sharp AR-016FT Black Toner Cartridge Price - Trinatech", "metaDescription": "Buy genuine Sharp AR-016FT black toner in Nairobi. Yields ~16,000 pages for AR-5015, AR-5316, AR-5320 copiers. Fast Kenya delivery.", "inStock": true},
-  {"id": 5196, "sku": "AR-201", "name": "Sharp AR-201/202FT Black Toner Cartridge", "brand": "Sharp", "category": "Sharp Toners", "price": 4000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/Sharp-AR-201202FT-Black-Toner-Cartridge.webp", "imageFile": "Sharp-AR-201202FT-Black-Toner-Cartridge.webp", "description": "SHARP AR-201/202FT BLACK TONER CARTRIDGE", "inStock": true},
+  {"id": 5196, "sku": "AR-201", "name": "Sharp AR-201/202FT Black Toner Cartridge", "brand": "Sharp", "category": "Sharp Toners", "price": 4000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/Sharp-AR-201202FT-Black-Toner-Cartridge.webp", "imageFile": "Sharp-AR-201202FT-Black-Toner-Cartridge.webp", "description": `The Sharp AR-201/202FT Black Toner Cartridge (AR-202FT / AR-201FT) supplies high-capacity monochrome toner for commercial Sharp digital copiers. Engineered for consistent text contrast and clear graphics in offices across Kenya.
+
+## Compatible printers
+Sharp AR-162
+Sharp AR-163
+Sharp AR-164
+Sharp AR-201
+Sharp AR-206
+Sharp AR-207
+Sharp AR-M160
+Sharp AR-M162
+Sharp AR-M205
+Sharp AR-M207
+If your model isn't listed, send us the number from the front of the machine and we'll confirm before you pay.
+
+## Specifications
+| Page yield | Cartridge type | Colour | Capacity | Part number | Genuine or compatible |
+|---|---|---|---|---|---|
+| ~16,000 pages | Copier Toner Cartridge | Black | High Capacity | AR-202FT / AR-201FT | Genuine / Compatible
+
+## Genuine or compatible?
+Genuine Original Sharp supply unit. Royal compatible alternatives are available to lower cost per page for daily document copying.
+
+## Why buy from Trinatech
+Stock held in Nairobi CBD. Delivery across Kenya including Kisumu, Nakuru, Eldoret, and Mombasa. M-Pesa and bank transfer accepted. WhatsApp ordering and walk-in options at The One Mall, River Road.
+
+## Getting the most from this cartridge
+Rock the unit gently side-to-side before unsealing. Clean copier charging wire when loading new toner cartridges.
+
+## Frequently asked questions
+Is an XL alternative available? Standard high-yield design delivers up to ~16,000 pages.
+Are color cartridges needed? No, compatible copiers are monochrome systems.
+How fast is Nairobi shipping? Same-day inside 1 to 3 hours.
+How do I pay? Pay via M-Pesa Buy Goods/Till or bank transfer.
+Is warranty provided? Covered against factory defects.`, "metaTitle": "Sharp AR-202FT Black Toner Cartridge Price - Trinatech", "metaDescription": "Buy Sharp AR-202FT black toner cartridge in Nairobi. Yields ~16,000 pages for AR-162, AR-201, AR-M160 copiers. Fast shipping in Kenya.", "inStock": true},
   {"id": 4412, "sku": null, "name": "Sharp AR-310FT Toner Cartridge", "brand": "Sharp", "category": "Inks & Toner Cartridges", "price": 3000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2025/01/Sharp-AR-310FT-Toner.png", "imageFile": "Sharp-AR-310FT-Toner.png", "description": `The Sharp AR-310FT Toner Cartridge is a high-yield monochrome copier cartridge built for heavy-duty corporate workgroup copiers. Delivers deep black text, uniform fills, and reliable long-term output across Kenya.
 
 ## Compatible printers
@@ -279,7 +313,38 @@ Do these copiers take color? No, these are heavy-duty monochrome copier systems.
 What is upcountry delivery lead time? Delivered within 24 hours nationwide.
 How can I pay? M-Pesa Buy Goods/Till, bank transfer, and cash.
 Is developer included? No, developer unit is supplied separately.`, "metaTitle": "Sharp AR-450FT Black Toner Cartridge Price - Trinatech", "metaDescription": "Buy Sharp AR-450FT black toner cartridge in Nairobi. Yields ~27,000 pages for AR-M280, AR-M350, AR-M450 copiers. Fast Kenya shipping.", "inStock": true},
-  {"id": 5204, "sku": null, "name": "Sharp Ar 021", "brand": "Sharp", "category": "Sharp Toners", "price": 3500, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/Sharp-Ar-27-Ft.webp", "imageFile": "Sharp-Ar-27-Ft.webp", "description": "sharp ar 021", "inStock": true},
+  {"id": 5204, "sku": null, "name": "Sharp Ar 021", "brand": "Sharp", "category": "Sharp Toners", "price": 3500, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/Sharp-Ar-27-Ft.webp", "imageFile": "Sharp-Ar-27-Ft.webp", "description": `The Sharp Ar 021 (AR-021FT / AR-021T) Black Toner Cartridge is a high-yield monochrome copier cartridge designed for Sharp desktop digital copiers. Formulated for clear text documents and uniform copy density across Kenya.
+
+## Compatible printers
+Sharp AR-5516
+Sharp AR-5516D
+Sharp AR-5516N
+Sharp AR-5518
+Sharp AR-5520
+Sharp AR-5520D
+Sharp AR-5520N
+If your model isn't listed, send us the number from the front of the machine and we'll confirm before you pay.
+
+## Specifications
+| Page yield | Cartridge type | Colour | Capacity | Part number | Genuine or compatible |
+|---|---|---|---|---|---|
+| ~16,000 pages | Copier Toner Cartridge | Black | High Capacity | AR-021FT / AR-021T | Genuine / Compatible
+
+## Genuine or compatible?
+This product entry covers genuine Sharp toner; Royal compatible brand alternative cartridges fit the same copiers at a lower price point.
+
+## Why buy from Trinatech
+Stock held in Nairobi CBD. Delivery across Kenya including Kisumu, Nakuru, Eldoret, and Mombasa. M-Pesa and bank transfer accepted. WhatsApp ordering and walk-in options at The One Mall, River Road.
+
+## Getting the most from this cartridge
+Keep stored flat in cool room conditions. Rotate cartridge horizontally prior to insertion into the copier hopper.
+
+## Frequently asked questions
+Is an XL version available? High-yield capacity yields up to ~16,000 pages per cartridge.
+Are color toners required? No, supported copiers are strictly monochrome systems.
+What is delivery speed in Nairobi? Delivered within 1 to 3 hours across Nairobi CBD.
+How can I pay? Pay via M-Pesa, bank wire, or cash.
+Is developer included? No, developer unit (AR-205DV) is sold separately.`, "metaTitle": "Sharp AR-021FT Black Toner Cartridge Price - Trinatech", "metaDescription": "Shop Sharp AR-021FT black toner cartridge in Nairobi. Yields ~16,000 pages for AR-5516 and AR-5520 copiers. Fast delivery across Kenya.", "inStock": true},
   {"id": 5203, "sku": null, "name": "Sharp Ar 27 Ft", "brand": "Sharp", "category": "Sharp Toners", "price": 4500, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/Sharp-Ar-27-Ft-1.webp", "imageFile": "Sharp-Ar-27-Ft-1.webp", "description": `The Sharp Ar 27 Ft (AR-270FT / AR-270ET) Black Toner Cartridge is a high-volume copier cartridge designed for Sharp workgroup copiers. Engineered to produce sharp text lines, rich monochrome contrast, and consistent output in Kenya.
 
 ## Compatible printers
@@ -310,9 +375,105 @@ Are color toners required? No, compatible models are monochrome copiers.
 How fast is Nairobi delivery? Same-day inside 1 to 3 hours.
 How do I pay? Pay via M-Pesa Buy Goods/Till or bank wire.
 Is developer required? Yes, uses separate AR-271CD developer.`, "metaTitle": "Sharp AR-270FT Black Toner Cartridge Price - Trinatech", "metaDescription": "Shop Sharp AR-270FT black toner cartridge in Nairobi. Yields ~25,000 pages for AR-235, AR-275, AR-M236 copiers. Fast delivery across Kenya.", "inStock": true},
-  {"id": 5202, "sku": null, "name": "Sharp Ar 310", "brand": "Sharp", "category": "Sharp Toners", "price": 4000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/Sharp-Ar-310.webp", "imageFile": "Sharp-Ar-310.webp", "description": "sharp ar 310", "inStock": true},
-  {"id": 5201, "sku": null, "name": "Sharp Ar 312", "brand": "Sharp", "category": "Sharp Toners", "price": 4000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/Sharp-Ar-312.webp", "imageFile": "Sharp-Ar-312.webp", "description": "sharp ar 312", "inStock": true},
-  {"id": 5200, "sku": null, "name": "Sharp Ar 450", "brand": "Sharp", "category": "Sharp Toners", "price": 6500, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/Sharp-Ar-450.webp", "imageFile": "Sharp-Ar-450.webp", "description": "sharp ar 450", "inStock": true},
+  {"id": 5202, "sku": null, "name": "Sharp Ar 310", "brand": "Sharp", "category": "Sharp Toners", "price": 4000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/Sharp-Ar-310.webp", "imageFile": "Sharp-Ar-310.webp", "description": `The Sharp Ar 310 (AR-310FT / AR-310ST) Black Toner Cartridge is a high-volume copier cartridge engineered for heavy-duty Sharp workgroup copiers. Delivers crisp monochrome text, smooth shading, and dependable output in Nairobi.
+
+## Compatible printers
+Sharp AR-235
+Sharp AR-275
+Sharp AR-5625
+Sharp AR-5631
+Sharp AR-M208
+Sharp AR-M236
+Sharp AR-M237
+Sharp AR-M275
+Sharp AR-M276
+Sharp AR-M277
+If your model isn't listed, send us the number from the front of the machine and we'll confirm before you pay.
+
+## Specifications
+| Page yield | Cartridge type | Colour | Capacity | Part number | Genuine or compatible |
+|---|---|---|---|---|---|
+| ~25,000 pages | Copier Toner Cartridge | Black | High Capacity | AR-310FT / AR-310ST | Genuine / Compatible
+
+## Genuine or compatible?
+Covers original Genuine Sharp toner units; Royal compatible brand cartridges are also available to reduce total copying expenses.
+
+## Why buy from Trinatech
+Stock held in Nairobi CBD. Delivery across Kenya including Kisumu, Nakuru, Eldoret, and Mombasa. M-Pesa and bank transfer accepted. WhatsApp ordering and walk-in options at The One Mall, River Road.
+
+## Getting the most from this cartridge
+Tilt cartridge horizontally before loading to loosen settled toner. Store spare cartridges in ambient dry conditions.
+
+## Frequently asked questions
+Is an XL version available? High-yield capacity yields up to ~25,000 pages per cartridge.
+Are color toners needed? No, these digital copiers are monochrome systems.
+How fast is Nairobi delivery? Delivered within 1 to 3 hours across Nairobi CBD.
+How can I pay? Pay via M-Pesa, bank wire, or cash.
+Is warranty included? Standard shop defect warranty covers unopened units.`, "metaTitle": "Sharp AR-310FT Black Toner Cartridge Price - Trinatech", "metaDescription": "Order Sharp AR-310FT black toner cartridge in Nairobi. Yields ~25,000 pages for AR-M237, AR-M277, AR-5625. Fast shipping across Kenya.", "inStock": true},
+  {"id": 5201, "sku": null, "name": "Sharp Ar 312", "brand": "Sharp", "category": "Sharp Toners", "price": 4000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/Sharp-Ar-312.webp", "imageFile": "Sharp-Ar-312.webp", "description": `The Sharp Ar 312 (AR-312FT / AR-312ST) Black Toner Cartridge is an original high-yield supply unit designed for Sharp digital multifunction copiers. Built for high page output, clean black text, and reliable long-term performance across Kenya.
+
+## Compatible printers
+Sharp AR-5625
+Sharp AR-5631
+Sharp AR-M256
+Sharp AR-M258
+Sharp AR-M316
+Sharp AR-M318
+If your model isn't listed, send us the number from the front of the machine and we'll confirm before you pay.
+
+## Specifications
+| Page yield | Cartridge type | Colour | Capacity | Part number | Genuine or compatible |
+|---|---|---|---|---|---|
+| ~25,000 pages | Copier Toner Cartridge | Black | High Capacity | AR-312FT / AR-312ST | Genuine / Compatible
+
+## Genuine or compatible?
+Genuine Original Sharp product entry. Royal compatible alternative cartridges fit the same copier models to lower cost per page for daily office copying.
+
+## Why buy from Trinatech
+Stock held in Nairobi CBD. Delivery across Kenya including Kisumu, Nakuru, Eldoret, and Mombasa. M-Pesa and bank transfer accepted. WhatsApp ordering and walk-in options at The One Mall, River Road.
+
+## Getting the most from this cartridge
+Store flat in a dry location. Shake gently side-to-side prior to installation to ensure smooth toner dispensing.
+
+## Frequently asked questions
+Is an XL alternative available? Standard high-yield capacity yields up to ~25,000 pages.
+Do these copiers take color? No, these are monochrome copier systems.
+What is upcountry delivery lead time? Delivered within 24 hours nationwide.
+How can I pay? M-Pesa Buy Goods/Till, bank transfer, and cash.
+Is developer included? No, developer unit is supplied separately.`, "metaTitle": "Sharp AR-312FT Black Toner Cartridge Price - Trinatech", "metaDescription": "Buy Sharp AR-312FT black toner cartridge in Nairobi. Yields ~25,000 pages for AR-5625, AR-5631, AR-M258 copiers. Fast Kenya shipping.", "inStock": true},
+  {"id": 5200, "sku": null, "name": "Sharp Ar 450", "brand": "Sharp", "category": "Sharp Toners", "price": 6500, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/Sharp-Ar-450.webp", "imageFile": "Sharp-Ar-450.webp", "description": `The Sharp Ar 450 (AR-450FT / AR-450NT) Black Toner Cartridge is a commercial-grade monochrome cartridge built for high-speed Sharp document systems. Offers deep black text, uniform solids, and durable print quality across Kenya.
+
+## Compatible printers
+Sharp AR-M280
+Sharp AR-M350
+Sharp AR-M350N
+Sharp AR-M350U
+Sharp AR-M420
+Sharp AR-M450
+Sharp AR-M450N
+Sharp AR-M450U
+If your model isn't listed, send us the number from the front of the machine and we'll confirm before you pay.
+
+## Specifications
+| Page yield | Cartridge type | Colour | Capacity | Part number | Genuine or compatible |
+|---|---|---|---|---|---|
+| ~27,000 pages | Copier Toner Cartridge | Black | High Capacity | AR-450FT / AR-450NT | Genuine / Compatible
+
+## Genuine or compatible?
+Covers original Genuine Sharp supply units; Royal compatible equivalents are stocked to help cut operational page expenses for high-volume copying.
+
+## Why buy from Trinatech
+Stock held in Nairobi CBD. Delivery across Kenya including Kisumu, Nakuru, Eldoret, and Mombasa. M-Pesa and bank transfer accepted. WhatsApp ordering and walk-in options at The One Mall, River Road.
+
+## Getting the most from this cartridge
+Store in horizontal alignment away from heat. Rock gently before loading to break up compacted powder.
+
+## Frequently asked questions
+Is an XL version available? High-yield capacity yields up to ~27,000 pages per unit.
+Are color toners required? No, supported models are monochrome copiers.
+How fast is Nairobi delivery? 1 to 3 hours in Nairobi CBD.
+How do I pay? Pay via M-Pesa, bank wire, or cash.
+Is developer included? No, developer unit is sold separately.`, "metaTitle": "Sharp AR-450FT Black Toner Cartridge Price - Trinatech", "metaDescription": "Shop Sharp AR-450FT black toner cartridge in Nairobi. Yields ~27,000 pages for AR-M280, AR-M350, AR-M450 copiers. Fast delivery Kenya.", "inStock": true},
   {"id": 5199, "sku": null, "name": "Sharp Ar/Mx 500FT Black Toner Cartridge", "brand": "Sharp", "category": "Sharp Toners", "price": 4000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/Sharp-ArMx-500FT-Black-Toner-Cartridge.webp", "imageFile": "Sharp-ArMx-500FT-Black-Toner-Cartridge.webp", "description": `The Sharp Ar/Mx 500FT Black Toner Cartridge (MX-500FT / MX-500GT) is an ultra-high capacity monochrome supply unit for heavy-duty Sharp MX multifunction copiers. Engineered for heavy document output in corporate offices across Kenya.
 
 ## Compatible printers
@@ -640,8 +801,74 @@ Do I need other colours to print? No, these Sharp models are monochrome machines
 What is the delivery time? Same-day for Nairobi CBD; expect next-day delivery for other regions in Kenya.
 What is your warranty or returns policy? We offer a replacement guarantee on compatible toners that fail out of the box.
 Will using a compatible toner break my machine? High-quality compatibles like this one are perfectly safe for daily document printing.`, "metaTitle": "Sharp MX-561NT Compatible Black Toner Cartridge", "metaDescription": "Compatible Sharp MX-561NT black toner, approx 40,000 pages, for Sharp MX-M3050, MX-M364N, MX-M4050, MX-M565N. Economical high-volume printing.", "inStock": true},
-  {"id": 5195, "sku": null, "name": "Sharp Mx 235 Ft", "brand": "Sharp", "category": "Sharp Toners", "price": 3500, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/Sharp-Mx-235-Ft.webp", "imageFile": "Sharp-Mx-235-Ft.webp", "description": "sharp mx 235 ft", "inStock": true},
-  {"id": 5194, "sku": null, "name": "Sharp Mx 235/236FT Black Ar Toner Cartridge", "brand": "Sharp", "category": "Sharp Toners", "price": 3500, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/Sharp-Mx-235236FT-Black-Ar-Toner-Cartridge.webp", "imageFile": "Sharp-Mx-235236FT-Black-Ar-Toner-Cartridge.webp", "description": "SHARP MX 235/236FT BLACK AR TONER CARTRIDGE", "inStock": true},
+  {"id": 5195, "sku": null, "name": "Sharp Mx 235 Ft", "brand": "Sharp", "category": "Sharp Toners", "price": 3500, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/Sharp-Mx-235-Ft.webp", "imageFile": "Sharp-Mx-235-Ft.webp", "description": `The Sharp Mx 235 Ft (MX-235FT) Black Toner Cartridge is a high-yield monochrome supply unit for Sharp AR and MX digital desktop copiers. Designed to produce clean, sharp text documents and reliable page yields in Nairobi.
+
+## Compatible printers
+Sharp AR-5618
+Sharp AR-5618D
+Sharp AR-5618N
+Sharp AR-5620
+Sharp AR-5620D
+Sharp AR-5620N
+Sharp AR-5623
+Sharp AR-5623D
+Sharp AR-5623N
+If your model isn't listed, send us the number from the front of the machine and we'll confirm before you pay.
+
+## Specifications
+| Page yield | Cartridge type | Colour | Capacity | Part number | Genuine or compatible |
+|---|---|---|---|---|---|
+| ~16,000 pages | Copier Toner Cartridge | Black | High Capacity | MX-235FT / MX-235AT | Genuine / Compatible
+
+## Genuine or compatible?
+Original Genuine Sharp product entry. Royal compatible brand alternative cartridges fit the same machines at lower price points.
+
+## Why buy from Trinatech
+Stock held in Nairobi CBD. Delivery across Kenya including Kisumu, Nakuru, Eldoret, and Mombasa. M-Pesa and bank transfer accepted. WhatsApp ordering and walk-in options at The One Mall, River Road.
+
+## Getting the most from this cartridge
+Keep sealed until installation. Gently shake side-to-side before sliding into the copier hopper bay until locked.
+
+## Frequently asked questions
+Is an XL version available? High-capacity yield delivers up to ~16,000 pages.
+Are color cartridges required? No, supported copiers are monochrome machines.
+How fast is Nairobi shipping? Delivered within 1-3 hours across Nairobi CBD.
+How do I pay? Pay via M-Pesa Buy Goods/Till or bank transfer.
+Is developer required separately? Yes, uses separate MX-235DV developer.`, "metaTitle": "Sharp MX-235FT Black Toner Cartridge Price - Trinatech", "metaDescription": "Buy Sharp MX-235FT black toner cartridge in Nairobi. Yields ~16,000 pages for AR-5618, AR-5620, AR-5623. Fast delivery across Kenya.", "inStock": true},
+  {"id": 5194, "sku": null, "name": "Sharp Mx 235/236FT Black Ar Toner Cartridge", "brand": "Sharp", "category": "Sharp Toners", "price": 3500, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/Sharp-Mx-235236FT-Black-Ar-Toner-Cartridge.webp", "imageFile": "Sharp-Mx-235236FT-Black-Ar-Toner-Cartridge.webp", "description": `The Sharp Mx 235/236FT Black Ar Toner Cartridge (MX-237FT / MX-238FT) supplies high-capacity monochrome toner for newer-generation Sharp AR and MX digital copiers. Formulated to ensure crisp document reproduction across Kenya.
+
+## Compatible printers
+Sharp AR-6020
+Sharp AR-6020D
+Sharp AR-6020N
+Sharp AR-6023
+Sharp AR-6023D
+Sharp AR-6023N
+Sharp AR-6026
+Sharp AR-6026N
+Sharp AR-6031N
+If your model isn't listed, send us the number from the front of the machine and we'll confirm before you pay.
+
+## Specifications
+| Page yield | Cartridge type | Colour | Capacity | Part number | Genuine or compatible |
+|---|---|---|---|---|---|
+| ~16,000 pages | Copier Toner Cartridge | Black | High Capacity | MX-237FT / MX-238FT | Genuine / Compatible
+
+## Genuine or compatible?
+Genuine Original Sharp product entry. Royal compatible brand equivalent cartridges are also stocked to help cut costs on daily copying jobs.
+
+## Why buy from Trinatech
+Stock held in Nairobi CBD. Delivery across Kenya including Kisumu, Nakuru, Eldoret, and Mombasa. M-Pesa and bank transfer accepted. WhatsApp ordering and walk-in options at The One Mall, River Road.
+
+## Getting the most from this cartridge
+Store in cool ambient conditions. Rotate the cartridge horizontally prior to insertion into the copier hopper bay.
+
+## Frequently asked questions
+Is an XL version available? High-yield capacity yields up to ~16,000 pages.
+Are color toners needed? No, these digital copiers are monochrome systems.
+How fast is delivery in Nairobi? Delivered within 1 to 3 hours in Nairobi.
+How can I pay? Pay via M-Pesa, bank wire, or cash.
+Is warranty provided? Covered against technical and factory defects.`, "metaTitle": "Sharp MX-237FT Black Toner Cartridge Price - Trinatech", "metaDescription": "Order Sharp MX-237FT black toner cartridge in Nairobi. Yields ~16,000 pages for AR-6020, AR-6023, AR-6026 copiers. Fast shipping Kenya.", "inStock": true},
   {"id": 5193, "sku": null, "name": "Sharp Mx 237", "brand": "Sharp", "category": "Sharp Toners", "price": 4000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/Sharp-Mx-237.webp", "imageFile": "Sharp-Mx-237.webp", "description": "sharp mx 237", "inStock": true},
   {"id": 5192, "sku": null, "name": "Sharp Mx 238 Ft", "brand": "Sharp", "category": "Sharp Toners", "price": 4000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/Sharp-Mx-238-Ft.webp", "imageFile": "Sharp-Mx-238-Ft.webp", "description": "sharp mx 238 ft", "inStock": true},
   {"id": 5191, "sku": null, "name": "Sharp Mx 500", "brand": "Sharp", "category": "Sharp Toners", "price": 4000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/Sharp-Mx-500.webp", "imageFile": "Sharp-Mx-500.webp", "description": "sharp mx 500", "inStock": true},
@@ -753,9 +980,98 @@ Do I need other colours to print? No, these machines are operated as single-drum
 What is the delivery time? Same-day for Nairobi CBD; expect next-day delivery for other regions in Kenya.
 What is your warranty or returns policy? We offer a replacement guarantee on compatible toners that fail upon installation.
 Will this toner damage my drum? No, this high-quality compatible is specifically formulated not to damage Toshiba cylinders.`, "metaTitle": "Toshiba T-5070P Compatible Black Toner Cartridge", "metaDescription": "Compatible Toshiba T-5070P black toner, approx 30,000 pages, for Toshiba e-STUDIO 257, 307, 357, 457, 507. High volume replacement stock in Kenya.", "inStock": true},
-  {"id": 4974, "sku": "T-5070U", "name": "Toshiba T-5070U Toner Cartridge E-Studio", "brand": "Toshiba", "category": "Toshiba Toners", "price": 4000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/Toshiba-T-5070U-Toner-Cartridge-E-Studio.webp", "imageFile": "Toshiba-T-5070U-Toner-Cartridge-E-Studio.webp", "description": "TOSHIBA T-5070U TONER CARTRIDGE E-STUDIO", "inStock": true},
-  {"id": 4977, "sku": "T3008P", "name": "Toshiba T3008P Black Toner Cartridge", "brand": "Toshiba", "category": "Toshiba Toners", "price": 4500, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/Toshiba-T3008P-Black-Toner-Cartridge.webp", "imageFile": "Toshiba-T3008P-Black-Toner-Cartridge.webp", "description": "TOSHIBA T3008P BLACK TONER CARTRIDGE", "inStock": true},
-  {"id": 4973, "sku": "T-2320D", "name": "Toshiba Toner T-2320D E Studio 230/232/280/200L", "brand": "Toshiba", "category": "Toshiba Toners", "price": 5000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/Toshiba-Toner-T-2320D-E-Studio-230232280200L.webp", "imageFile": "Toshiba-Toner-T-2320D-E-Studio-230232280200L.webp", "description": "TOSHIBA TONER T-2320D E STUDIO 230/232/280/200L", "inStock": true},
+  {"id": 4974, "sku": "T-5070U", "name": "Toshiba T-5070U Toner Cartridge E-Studio", "brand": "Toshiba", "category": "Toshiba Toners", "price": 4000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/Toshiba-T-5070U-Toner-Cartridge-E-Studio.webp", "imageFile": "Toshiba-T-5070U-Toner-Cartridge-E-Studio.webp", "description": `The Toshiba T-5070U Toner Cartridge E-Studio is a high-capacity monochrome toner bottle engineered for heavy-duty Toshiba e-STUDIO digital multifunction copiers. Formulated to produce clear text and crisp lines across high-volume document workflows in Kenya.
+
+## Compatible printers
+Toshiba e-STUDIO 257
+Toshiba e-STUDIO 307
+Toshiba e-STUDIO 357
+Toshiba e-STUDIO 457
+Toshiba e-STUDIO 507
+If your model isn't listed, send us the number from the front of the machine and we'll confirm before you pay.
+
+## Specifications
+| Page yield | Cartridge type | Colour | Capacity | Part number | Genuine or compatible |
+|---|---|---|---|---|---|
+| ~36,600 pages | Copier Toner Bottle | Black | High Capacity | T-5070U / T5070U | Genuine / Compatible
+
+## Genuine or compatible?
+Covers original Genuine Toshiba product entries; Royal compatible equivalent bottles fit the same e-STUDIO copiers at a lower cost for budget-focused operations.
+
+## Why buy from Trinatech
+Stock held in Nairobi CBD. Delivery across Kenya including Kisumu, Nakuru, Eldoret, and Mombasa. M-Pesa and bank transfer accepted. WhatsApp ordering and walk-in options at The One Mall, River Road.
+
+## Getting the most from this cartridge
+Store in a cool, dry location. Gently rotate the toner tube horizontally before insertion into the copier bay to break up compacted powder.
+
+## Frequently asked questions
+Is an XL version available? High capacity yields up to ~36,600 pages for extended copying cycles.
+Are color toners required? No, supported e-STUDIO systems are monochrome copiers.
+How fast is Nairobi delivery? Delivered within 1 to 3 hours across Nairobi CBD.
+How can I pay? Pay via M-Pesa Buy Goods/Till, bank transfer, or cash.
+Is developer included? No, developer unit is sold separately.`, "metaTitle": "Toshiba T-5070U Black Toner Cartridge Price - Trinatech", "metaDescription": "Buy genuine Toshiba T-5070U black toner in Nairobi. Yields ~36,600 pages for e-STUDIO 357, 457, 507 copiers. Fast Kenya delivery.", "inStock": true},
+  {"id": 4977, "sku": "T3008P", "name": "Toshiba T3008P Black Toner Cartridge", "brand": "Toshiba", "category": "Toshiba Toners", "price": 4500, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/Toshiba-T3008P-Black-Toner-Cartridge.webp", "imageFile": "Toshiba-T3008P-Black-Toner-Cartridge.webp", "description": `The Toshiba T3008P Black Toner Cartridge is an ultra-high yield monochrome supply unit built for enterprise Toshiba e-STUDIO multifunction printers. Formulated for sharp text reproduction and smooth solid tones across heavy administrative workloads in Kenya.
+
+## Compatible printers
+Toshiba e-STUDIO 2008A
+Toshiba e-STUDIO 2508A
+Toshiba e-STUDIO 3008A
+Toshiba e-STUDIO 3508A
+Toshiba e-STUDIO 4508A
+Toshiba e-STUDIO 5008A
+If your model isn't listed, send us the number from the front of the machine and we'll confirm before you pay.
+
+## Specifications
+| Page yield | Cartridge type | Colour | Capacity | Part number | Genuine or compatible |
+|---|---|---|---|---|---|
+| ~43,900 pages | Copier Toner Bottle | Black | High Capacity | T-3008P / T3008P | Genuine / Compatible
+
+## Genuine or compatible?
+Genuine Original Toshiba supply unit. Royal compatible brand alternatives fit the same machines at lower costs for high-volume copying efficiency.
+
+## Why buy from Trinatech
+Stock held in Nairobi CBD. Delivery across Kenya including Kisumu, Nakuru, Eldoret, and Mombasa. M-Pesa and bank transfer accepted. WhatsApp ordering and walk-in options at The One Mall, River Road.
+
+## Getting the most from this cartridge
+Keep sealed in protective packaging until deployment. Tilt tube side-to-side before installation to ensure uninterrupted toner flow.
+
+## Frequently asked questions
+Is a lower yield version available? Extended ~43,900-page capacity is standard for this e-STUDIO family.
+Are color cartridges required? No, compatible e-STUDIO models are monochrome systems.
+How long does shipping take? 1-3 hours in Nairobi CBD; 24 hours upcountry.
+How can I pay? M-Pesa, bank wire, or cash at counter.
+Is warranty provided? Covered against technical and manufacturing defects.`, "metaTitle": "Toshiba T-3008P Black Toner Cartridge Price - Trinatech", "metaDescription": "Order genuine Toshiba T-3008P black toner in Nairobi. Yields ~43,900 pages for e-STUDIO 2508A, 3008A, 4508A. Fast Kenya delivery.", "inStock": true},
+  {"id": 4973, "sku": "T-2320D", "name": "Toshiba Toner T-2320D E Studio 230/232/280/200L", "brand": "Toshiba", "category": "Toshiba Toners", "price": 5000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/Toshiba-Toner-T-2320D-E-Studio-230232280200L.webp", "imageFile": "Toshiba-Toner-T-2320D-E-Studio-230232280200L.webp", "description": `The Toshiba Toner T-2320D E Studio 230/232/280/200L is a durable monochrome toner cartridge built for commercial Toshiba e-STUDIO digital copiers. Engineered for consistent text legibility and clean line work across office setups in Nairobi.
+
+## Compatible printers
+Toshiba e-STUDIO 200L
+Toshiba e-STUDIO 202L
+Toshiba e-STUDIO 230
+Toshiba e-STUDIO 232
+Toshiba e-STUDIO 280
+Toshiba e-STUDIO 282
+If your model isn't listed, send us the number from the front of the machine and we'll confirm before you pay.
+
+## Specifications
+| Page yield | Cartridge type | Colour | Capacity | Part number | Genuine or compatible |
+|---|---|---|---|---|---|
+| ~22,000 pages | Copier Toner Cartridge | Black | High Capacity | T-2320D / T2320D | Genuine / Compatible
+
+## Genuine or compatible?
+Covers original Genuine Toshiba toner; Royal compatible equivalent cartridges fit the same copier bays at lower prices to reduce ongoing print costs.
+
+## Why buy from Trinatech
+Stock held in Nairobi CBD. Delivery across Kenya including Kisumu, Nakuru, Eldoret, and Mombasa. M-Pesa and bank transfer accepted. WhatsApp ordering and walk-in options at The One Mall, River Road.
+
+## Getting the most from this cartridge
+Store in horizontal alignment away from direct heat. Gently shake end-to-end prior to loading into the copier hopper.
+
+## Frequently asked questions
+Is an XL version available? High-yield capacity yields up to ~22,000 pages per unit.
+Are color toners needed? No, compatible e-STUDIO copiers are monochrome devices.
+How fast is Nairobi delivery? Delivered within 1 to 3 hours across Nairobi CBD.
+How do I pay? Pay via M-Pesa Buy Goods/Till or bank transfer.
+Is developer unit included? No, developer (D-2320) is supplied separately.`, "metaTitle": "Toshiba T-2320D Black Toner Cartridge Price - Trinatech", "metaDescription": "Buy Toshiba T-2320D black toner cartridge in Nairobi. Yields ~22,000 pages for e-STUDIO 200L, 230, 232, 280, 282. Fast Kenya shipping.", "inStock": true},
   {"id": 4041, "sku": null, "name": "Transcend 1TB Portable External Hard Disk", "brand": "Transcend", "category": "Computers & Computer Accessories > External Hard Disks", "price": 9500, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2025/01/Transcend-1TB-External-Hard-Disk.png", "imageFile": "Transcend-1TB-External-Hard-Disk.png", "description": "The Transcend 1TB Portable External Hard Disk is an excellent choice for those in need of reliable and compact storage.", "inStock": true},
   {"id": 4038, "sku": null, "name": "Transcend 2TB Portable External Hard Disk", "brand": "Transcend", "category": "Computers & Computer Accessories > External Hard Disks", "price": 14000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2025/01/Transcend-2TB-External-Hard-Disk.png", "imageFile": "Transcend-2TB-External-Hard-Disk.png", "description": "The Transcend 2TB Portable External Hard Disk offers a perfect blend of capacity, speed, and durability.", "inStock": true},
   {"id": 9001, "sku": null, "name": "HP LaserJet Pro 2320 Printer", "brand": "HP", "category": "Printers & Copiers", "price": 9000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/08/9001_hp_hp-laserjet-pro-2320-printer.jpg.png", "imageFile": "9001_hp_hp-laserjet-pro-2320-printer.jpg.png", "description": "HP LaserJet Pro 2320 printer. Reliable mono laser printing for home and office.", "inStock": true},

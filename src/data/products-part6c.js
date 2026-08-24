@@ -1013,7 +1013,32 @@ What is the page yield? ~1,000 pages.
 How fast is Nairobi delivery? Delivered within 1 to 3 hours across Nairobi.
 How can I pay? Pay via M-Pesa or bank wire.
 Is warranty provided? Covered under HP warranty.`, "metaTitle": "HP 230A Magenta Original LaserJet Toner (W2303A)", "metaDescription": "Buy genuine HP 230A Magenta toner cartridge (W2303A) in Nairobi. Yields ~1,000 pages for Color LaserJet Pro 4201, MFP 4301. Fast delivery.", "inStock": true, "comingSoon": false, "priceOnRequest": true},
-  {"id": 9616, "sku": null, "name": "HP 222A Black Original Laserjet Toner Cartridge", "brand": "HP", "category": "HP Original Toners", "price": null, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/08/9616_hp_hp-222a-black-original-laserjet-toner-cartridge-w222.jpg.png", "imageFile": "9616_hp_hp-222a-black-original-laserjet-toner-cartridge-w222.jpg.png", "description": null, "inStock": true, "comingSoon": false, "priceOnRequest": true},
+  {"id": 9616, "sku": null, "name": "HP 222A Black Original Laserjet Toner Cartridge", "brand": "HP", "category": "HP Original Toners", "price": null, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/08/9616_hp_hp-222a-black-original-laserjet-toner-cartridge-w222.jpg.png", "imageFile": "9616_hp_hp-222a-black-original-laserjet-toner-cartridge-w222.jpg.png", "description": `The HP 222A Black Original LaserJet Toner Cartridge (W2220A) delivers crisp dark black text and smooth monochrome prints for HP Color LaserJet Pro 3303 printers. Uses energy-efficient TerraJet technology across Kenya.
+
+## Compatible printers
+HP Color LaserJet Pro 3203dw
+HP Color LaserJet Pro MFP 3303fdn / 3303fdw
+If your printer model isn't listed, send us the number from the front panel to confirm compatibility.
+
+## Specifications
+| Page yield | Part type | Colour | Part number | Genuine or compatible |
+| --- | --- | --- | --- | --- |
+| ~1,300 pages | Laser Toner Cartridge | Black | W2220A / 222A | Original HP Genuine |
+
+## Genuine or compatible?
+Original Genuine HP laser toner cartridge.
+
+## Why buy from Trinatech
+Stock held in Nairobi CBD. Delivery across Kenya including Kisumu, Nakuru, Eldoret, and Mombasa. M-Pesa and bank transfer accepted. WhatsApp ordering and walk-in options at The One Mall, River Road.
+
+## Getting the most from this product
+Remove the protective orange shield and pull out the sealing tape strip before inserting.
+
+## Frequently asked questions
+What is the page yield? Approximately 1,300 standard pages.
+How fast is Nairobi delivery? Same-day inside 1 to 3 hours.
+How do I pay? Pay via M-Pesa Buy Goods/Till or bank transfer.
+Is warranty provided? Official HP product warranty.`, "metaTitle": "HP 222A Black Original LaserJet Toner Price", "metaDescription": "Buy HP 222A black original toner cartridge (W2220A) in Nairobi. Yields ~1,300 pages for LaserJet Pro 3303 series. Fast delivery.", "inStock": true, "comingSoon": false, "priceOnRequest": true},
   {"id": 9617, "sku": null, "name": "HP 222A Cyan Original Laserjet Toner Cartridge", "brand": "HP", "category": "HP Original Toners", "price": null, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/08/9617_hp_hp-222a-cyan-original-laserjet-toner-cartridge-w2221.jpg.png", "imageFile": "9617_hp_hp-222a-cyan-original-laserjet-toner-cartridge-w2221.jpg.png", "description": `The HP 222A Cyan Original Laserjet Toner Cartridge (W2221A) provides authentic HP print performance for compact color laser printers. Engineered to deliver sharp text rendering, vibrant cyan colors, and consistent page yields across Kenya.
 
 ## Compatible printers

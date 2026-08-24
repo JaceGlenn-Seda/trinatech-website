@@ -347,7 +347,32 @@ Are all four colors required? Yes, active cartridges in all bays are mandatory.
 How fast is Nairobi delivery? Delivered within 1 to 3 hours across Nairobi CBD.
 How can I pay? Pay via M-Pesa, bank wire, or cash.
 Is warranty provided? Covered against factory defects.`, "metaTitle": "Konica Minolta TN324 Toner Cartridge - Trinatech Kenya", "metaDescription": "Shop Konica Minolta TN324 toner cartridge in Nairobi. Yields ~28,000 BK / 26,000 CMY pages for bizhub C258, C308, C368. Fast shipping.", "inStock": true},
-  {"id": 4449, "sku": null, "name": "Blade Cleaning Blade For Kyocera Mita KM-2050", "brand": "Kyocera", "category": "Printer Parts", "price": 1000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2025/01/Blade-KM-2050.png", "imageFile": "Blade-KM-2050.png", "description": "The Blade Cleaning Blade for Kyocera Mita KM-2050 is an essential component for keeping your printer in optimal condition.", "inStock": true},
+  {"id": 4449, "sku": null, "name": "Blade Cleaning Blade For Kyocera Mita KM-2050", "brand": "Kyocera", "category": "Printer Parts", "price": 1000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2025/01/Blade-KM-2050.png", "imageFile": "Blade-KM-2050.png", "description": `The Drum Cleaning Blade for Kyocera Mita KM-2050 is a precision polyurethane wiper blade designed to scrape residual toner off the OPC drum surface. Restores clear copy quality and eliminates background streaks in Nairobi.
+
+## Compatible copiers
+Kyocera Mita KM-1620 / KM-1635 / KM-1650
+Kyocera Mita KM-2020 / KM-2035 / KM-2050
+If your copier model isn't listed, send us the number from the front panel to confirm compatibility.
+
+## Specifications
+| Part type | Material | Function | Compatible drum unit | Genuine or compatible |
+| --- | --- | --- | --- | --- |
+| OPC Drum Cleaning Blade | Polyurethane + Metal Frame | Scrapes Residual Toner | MK-410 / MK-420 | Premium Compatible |
+
+## Genuine or compatible?
+High-durability compatible replacement spare part.
+
+## Why buy from Trinatech
+Stock held in Nairobi CBD. Delivery across Kenya including Kisumu, Nakuru, Eldoret, and Mombasa. M-Pesa and bank transfer accepted. WhatsApp ordering and walk-in options at The One Mall, River Road.
+
+## Getting the most from this product
+Dust the rubber edge with setting powder prior to installation to prevent blade flip during drum rotation.
+
+## Frequently asked questions
+Does it solve grey background lines? Yes, replacing a worn blade resolves streak lines on printed pages.
+How fast is Nairobi delivery? Delivered in 1 to 3 hours.
+How can I pay? M-Pesa or bank transfer.
+Is warranty provided? Covered against defects.`, "metaTitle": "Cleaning Blade for Kyocera KM-1620 KM-2050", "metaDescription": "Buy drum cleaning blade for Kyocera KM-1620, KM-1635, KM-2050 copiers in Nairobi. High durability polyurethane. Fast delivery.", "inStock": true},
   {"id": 3471, "sku": null, "name": "Kyocera Ecosys Fs 1025 Multifunction Laser Printer", "brand": "Kyocera", "category": "Printers & Copiers", "price": 48000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2024/12/Kyocera-FS-1025-Multi-Function-Printer.png", "imageFile": "Kyocera-FS-1025-Multi-Function-Printer.png", "description": `The Kyocera Ecosys Fs 1025 Multifunction Laser Printer (ECOSYS FS-1025MFP) is a durable 3-in-1 monochrome laser printer equipped with long-life drum technology. Delivers low cost per page, automatic duplex printing, and quiet operation for office desktops in Kenya.
 
 ## Compatible toner cartridges
@@ -1545,9 +1570,81 @@ Are color toners required? No, TASKalfa 420i/520i are monochrome copiers.
 How fast is delivery to Mombasa? 24 hours via parcel delivery services.
 How do I pay? Pay via M-Pesa or direct bank wire transfer.
 Is warranty provided? Covered against technical and manufacturing defects.`, "metaTitle": "Kyocera TK-725 Black Toner Cartridge - Trinatech Kenya", "metaDescription": "Order Kyocera TK-725 black toner cartridge in Nairobi. Yields ~34,000 pages for TASKalfa 420i and 520i. Fast shipping across Kenya.", "inStock": true},
-  {"id": 4283, "sku": null, "name": "Kyocera TK-8325 Toner Cartridge", "brand": "Kyocera", "category": "Inks & Toner Cartridges", "price": 4000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2025/01/Kyocera-TK-8325-Toner.png", "imageFile": "Kyocera-TK-8325-Toner.png", "description": "Compatible with: Kyocera TASKalfa 2551ci (and equivalents like TASKalfa 2510i, 3010i, 3510i, 4510i, 5510i)", "inStock": true},
-  {"id": 4280, "sku": null, "name": "Kyocera TK-8335 Toner Cartridge", "brand": "Kyocera", "category": "Inks & Toner Cartridges", "price": 5000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2025/01/Kyocera-TK-8335-Toner.png", "imageFile": "Kyocera-TK-8335-Toner.png", "description": "The Kyocera TK-8335 Toner Cartridge is designed to meet the needs of businesses with high-volume printing demands.", "inStock": true},
-  {"id": 4773, "sku": null, "name": "Kyocera TK-8365 Toner Cartridge", "brand": "Kyocera", "category": "Inks & Toner Cartridges", "price": 4500, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2025/07/Kyocera-TK-8365-Toner.png", "imageFile": "Kyocera-TK-8365-Toner.png", "description": "Compatible with: Kyocera TASKalfa 2554ci (aka Taskalfa 2554 CI)", "inStock": true},
+  {"id": 4283, "sku": null, "name": "Kyocera TK-8325 Toner Cartridge", "brand": "Kyocera", "category": "Inks & Toner Cartridges", "price": 4000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2025/01/Kyocera-TK-8325-Toner.png", "imageFile": "Kyocera-TK-8325-Toner.png", "description": `The Kyocera TK-8325 Toner Cartridge offers high-density color output and dependable performance for Kyocera TASKalfa multifunctional systems in Nairobi. Formulated to protect internal drum components and deliver clean prints.
+
+## Compatible printers
+Kyocera TASKalfa 2552ci / 2553ci
+If your copier model isn't listed, send us the model number from the front panel to confirm compatibility.
+
+## Specifications
+| Page yield | Part type | Available colours | Part number | Genuine or compatible |
+| --- | --- | --- | --- | --- |
+| ~18,000 pages (Black) / ~12,000 pages (Colors) | Laser Toner Cartridge | Black, Cyan, Magenta, Yellow | TK-8325 / TK-8325K | Genuine / Compatible |
+
+## Genuine or compatible?
+Offered in original OEM Kyocera packaging and high-quality compatible options.
+
+## Why buy from Trinatech
+Stock held in Nairobi CBD. Delivery across Kenya including Kisumu, Nakuru, Eldoret, and Mombasa. M-Pesa and bank transfer accepted. WhatsApp ordering and walk-in options at The One Mall, River Road.
+
+## Getting the most from this product
+Ensure toner lock levers are securely snapped into position after replacing cartridges.
+
+## Frequently asked questions
+What models use this toner? Designed specifically for TASKalfa 2552ci series.
+How fast is Nairobi delivery? Delivered in 1 to 3 hours.
+How can I pay? Pay via M-Pesa or bank transfer.
+Is warranty provided? Covered against factory defects.`, "metaTitle": "Kyocera TK-8325 Toner Cartridge Price Kenya", "metaDescription": "Order Kyocera TK-8325 toner cartridge in Nairobi. High yield for TASKalfa 2552ci series copiers. Fast shipping in Kenya.", "inStock": true},
+  {"id": 4280, "sku": null, "name": "Kyocera TK-8335 Toner Cartridge", "brand": "Kyocera", "category": "Inks & Toner Cartridges", "price": 5000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2025/01/Kyocera-TK-8335-Toner.png", "imageFile": "Kyocera-TK-8335-Toner.png", "description": `The Kyocera TK-8335 Toner Cartridge is engineered for high-volume color laser printing on Kyocera TASKalfa A3 copiers. Delivers sharp text, vibrant color rendering, and consistent document quality across Kenya.
+
+## Compatible printers
+Kyocera TASKalfa 3252ci / 3253ci
+If your copier model isn't listed, send us the model number from the front panel to confirm compatibility.
+
+## Specifications
+| Page yield | Part type | Available colours | Part number | Genuine or compatible |
+| --- | --- | --- | --- | --- |
+| ~25,000 pages (Black) / ~15,000 pages (Colors) | Laser Toner Cartridge | Black, Cyan, Magenta, Yellow | TK-8335 / TK-8335K | Genuine / Compatible |
+
+## Genuine or compatible?
+Available in OEM Genuine Kyocera toner kits as well as cost-effective Compatible alternatives.
+
+## Why buy from Trinatech
+Stock held in Nairobi CBD. Delivery across Kenya including Kisumu, Nakuru, Eldoret, and Mombasa. M-Pesa and bank transfer accepted. WhatsApp ordering and walk-in options at The One Mall, River Road.
+
+## Getting the most from this product
+Gently shake the cartridge end-to-end 5 times prior to inserting into the copier bay.
+
+## Frequently asked questions
+What is the page yield? Up to 25,000 pages for black and 15,000 pages per color cartridge.
+How fast is Nairobi delivery? Same-day inside 1 to 3 hours.
+How do I pay? Pay via M-Pesa Buy Goods/Till or bank transfer.
+Is warranty provided? Covered against technical defects.`, "metaTitle": "Kyocera TK-8335 Toner Cartridge Price Kenya", "metaDescription": "Buy Kyocera TK-8335 toner cartridge in Nairobi. Yields up to 25,000 pages for TASKalfa 3252ci & 3253ci. Fast Kenya delivery.", "inStock": true},
+  {"id": 4773, "sku": null, "name": "Kyocera TK-8365 Toner Cartridge", "brand": "Kyocera", "category": "Inks & Toner Cartridges", "price": 4500, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2025/07/Kyocera-TK-8365-Toner.png", "imageFile": "Kyocera-TK-8365-Toner.png", "description": `The Kyocera TK-8365 Toner Cartridge is designed for next-generation Kyocera TASKalfa color A3 multi-function devices. Formulated to supply crisp monochrome documents and vivid color graphics for offices across Kenya.
+
+## Compatible printers
+Kyocera TASKalfa 2554ci
+If your copier model isn't listed, send us the model number from the front panel to confirm compatibility.
+
+## Specifications
+| Page yield | Part type | Available colours | Part number | Genuine or compatible |
+| --- | --- | --- | --- | --- |
+| ~25,000 pages (Black) / ~12,000 pages (Colors) | Laser Toner Cartridge | Black, Cyan, Magenta, Yellow | TK-8365 / TK-8365K | Genuine / Compatible |
+
+## Genuine or compatible?
+Covers original OEM Kyocera toner kits and premium compatible replacements.
+
+## Why buy from Trinatech
+Stock held in Nairobi CBD. Delivery across Kenya including Kisumu, Nakuru, Eldoret, and Mombasa. M-Pesa and bank transfer accepted. WhatsApp ordering and walk-in options at The One Mall, River Road.
+
+## Getting the most from this product
+Store extra toner cartridges horizontally in a cool, dry room out of direct sunlight.
+
+## Frequently asked questions
+What is the black page yield? Up to 25,000 standard pages based on 5% coverage.
+How fast is Nairobi shipping? Delivered in 1 to 3 hours across Nairobi.
+How do I pay? M-Pesa or bank transfer.
+Is warranty included? Covered with warranty.`, "metaTitle": "Kyocera TK-8365 Toner Cartridge Price Kenya", "metaDescription": "Buy Kyocera TK-8365 toner cartridge in Nairobi. Yields up to 25,000 pages for TASKalfa 2554ci. Fast delivery across Kenya.", "inStock": true},
   {"id": 3454, "sku": null, "name": "Kyocera Taskalfa 2020 A4/A3 Monochrome Multifunction Printer", "brand": "Kyocera", "category": "Printers & Copiers", "price": 120000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2024/12/Kyocera-TASKALFA-mfp-Printer.png", "imageFile": "Kyocera-TASKALFA-mfp-Printer.png", "description": `The Kyocera TASKalfa 2020 A3 Monochrome Multifunction Printer is a remarkably robust and cost-efficient machine engineered specifically for busy small to medium-sized offices. Providing seamless A4 and A3 printing, copying, and colour scanning at 20 pages per minute, it tackles your daily document handling with exceptional reliability. Built with Kyocera's renowned long-life ceramic drum technology, it minimizes service interventions and delivers one of the lowest running costs in the A3 copier class.
 
 ## Compatible printers
@@ -1804,7 +1901,31 @@ Do I need to replace the ink at the same time? Not necessarily; you replace the 
 What is the delivery time? Same-day for Nairobi CBD; expect next-day delivery for other regions in Kenya.
 What is your warranty or returns policy? We offer a replacement guarantee on compatible masters that fail upon installation.
 Will this master damage my drum? No, this high-quality compatible is specifically formulated to be safe for your duplicator's cylinder.`, "metaTitle": "Gestetner CPMT21 Compatible Master Roll", "metaDescription": "Compatible Gestetner CPMT21 master roll for Gestetner CP 6123, 6223 duplicators. Economical high-volume printing. Delivered across Kenya.", "inStock": true},
-  {"id": 4372, "sku": null, "name": "Copyprinter Ink Cpi 10", "brand": "Other", "category": "Inks & Toner Cartridges", "price": 450, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2025/01/CPI-10-ink.png", "imageFile": "CPI-10-ink.png", "description": "The CopyPrinter Ink CPI 10 is a premium ink solution designed to deliver high-quality, professional prints for CopyPrinter CPI 10 models.", "inStock": true},
+  {"id": 4372, "sku": null, "name": "Copyprinter Ink Cpi 10", "brand": "Other", "category": "Inks & Toner Cartridges", "price": 450, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2025/01/CPI-10-ink.png", "imageFile": "CPI-10-ink.png", "description": `Copyprinter Ink CPI 10 is a specialized 500ml liquid duplicator ink engineered for Ricoh and Gestetner high-speed digital duplicators. Formulated for instant drying, deep black contrast, and smooth drum flow across Kenya.
+
+## Compatible duplicators
+Ricoh Priport / Gestetner JP730, JP750, 6123L, 6123B
+If your duplicator model isn't listed, send us the number from the front panel to confirm compatibility.
+
+## Specifications
+| Volume | Part type | Colour | Part number | Compatible brands |
+| --- | --- | --- | --- | --- |
+| 500 ml | Digital Duplicator Ink | Black | CPI 10 / CPI-10 | Ricoh, Gestetner |
+
+## Genuine or compatible?
+High-grade compatible duplicator ink cartridge.
+
+## Why buy from Trinatech
+Stock held in Nairobi CBD. Delivery across Kenya including Kisumu, Nakuru, Eldoret, and Mombasa. M-Pesa and bank transfer accepted. WhatsApp ordering and walk-in options at The One Mall, River Road.
+
+## Getting the most from this product
+Insert cap end firmly into the drum assembly until locked in place to avoid air leaks.
+
+## Frequently asked questions
+What volume is each tube? 500ml per ink tube.
+How fast is Nairobi delivery? Same-day inside 1 to 3 hours.
+How do I pay? Pay via M-Pesa or bank transfer.
+Is warranty provided? Covered against defects.`, "metaTitle": "Copyprinter Ink CPI 10 Ricoh Gestetner Price", "metaDescription": "Shop CPI 10 Copyprinter ink 500ml in Nairobi. Compatible with Ricoh & Gestetner digital duplicators. Fast delivery Kenya.", "inStock": true},
   {"id": 5277, "sku": "DX2330", "name": "DX2330 Master", "brand": "Other", "category": "Master Rolls & Inks", "price": 900, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/DX2330-Master.webp", "imageFile": "DX2330-Master.webp", "description": `The DX2330 Compatible Master Roll provides large offices and busy schools with an exceptional alternative to expensive original duplicator supplies. Engineered to match the exact thermal sensitivity required by Ricoh Priport duplicators, this high-quality stencil roll produces sharp, dark text and clear images for all your bulk printing needs. It allows you to run massive batches of documentation such as newsletters and internal forms while drastically slashing your budget.
 
 ## Compatible printers
@@ -2046,8 +2167,58 @@ Do I need to replace the ink at the same time? No, the master roll and the black
 What is the delivery time? Same-day delivery within Nairobi CBD and next-day for the rest of Kenya.
 What is your warranty or returns policy? We replace any compatible master rolls that show manufacturing defects upon installation.
 Why are my prints coming out blank? Ensure the master roll is loaded with the correct side facing the thermal head.`, "metaTitle": "Gestetner CPMT21 Compatible Master Roll", "metaDescription": "Compatible Gestetner CPMT21 master roll for Gestetner CP 6123, CP 6223 duplicators. Economical high-volume printing. Delivered across Kenya.", "inStock": true},
-  {"id": 5224, "sku": "SM415", "name": "Gestetner DSM415 Black Toner Cartridge", "brand": "Other", "category": "Ricoh Toners", "price": 1200, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/08/5224_other_gestetner-dsm415-black-toner-cartridge.jpg", "imageFile": "5224_other_gestetner-dsm415-black-toner-cartridge.jpg", "description": "GESTETNER DSM415 BLACK TONER CARTRIDGE", "inStock": true},
-  {"id": 5223, "sku": "SM615", "name": "Gestetner DSM615/DSM618 Black Toner Cartridge", "brand": "Other", "category": "Ricoh Toners", "price": 1200, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/08/5223_other_gestetner-dsm615-dsm618-black-toner-cartridge.jpg.png", "imageFile": "5223_other_gestetner-dsm615-dsm618-black-toner-cartridge.jpg.png", "description": "GESTETNER DSM615/DSM618 BLACK TONER CARTRIDGE", "inStock": true},
+  {"id": 5224, "sku": "SM415", "name": "Gestetner DSM415 Black Toner Cartridge", "brand": "Other", "category": "Ricoh Toners", "price": 1200, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/08/5224_other_gestetner-dsm415-black-toner-cartridge.jpg", "imageFile": "5224_other_gestetner-dsm415-black-toner-cartridge.jpg", "description": `The Gestetner DSM415 Black Toner Cartridge is a compact monochrome toner container engineered for small-footprint Gestetner desktop copiers in Nairobi. Delivers sharp black text output and consistent page performance.
+
+## Compatible copiers
+Gestetner DSM415 / DSM415f / DSM415pf
+Ricoh Aficio 1515 / 1515F / MP 161
+If your copier model isn't listed, send us the number from the front panel to confirm compatibility.
+
+## Specifications
+| Page yield | Part type | Colour | Part number | Genuine or compatible |
+| --- | --- | --- | --- | --- |
+| ~7,000 pages | Laser Toner Cartridge | Black | Type 1270D / DSM415 | Genuine / Compatible |
+
+## Genuine or compatible?
+Supplies original OEM bottles and compatible aftermarket alternatives.
+
+## Why buy from Trinatech
+Stock held in Nairobi CBD. Delivery across Kenya including Kisumu, Nakuru, Eldoret, and Mombasa. M-Pesa and bank transfer accepted. WhatsApp ordering and walk-in options at The One Mall, River Road.
+
+## Getting the most from this product
+Shake the toner tube thoroughly to loosen settled powder before inserting into the hopper.
+
+## Frequently asked questions
+What is the page capacity? Yields around 7,000 standard pages.
+How fast is Nairobi shipping? Delivered in 1 to 3 hours across Nairobi CBD.
+How can I pay? Pay via M-Pesa or bank transfer.
+Is warranty provided? Covered against defects.`, "metaTitle": "Gestetner DSM415 Black Toner Cartridge Price", "metaDescription": "Buy Gestetner DSM415 black toner cartridge in Nairobi. Yields ~7,000 pages for Gestetner copiers. Fast delivery across Kenya.", "inStock": true},
+  {"id": 5223, "sku": "SM615", "name": "Gestetner DSM615/DSM618 Black Toner Cartridge", "brand": "Other", "category": "Ricoh Toners", "price": 1200, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/08/5223_other_gestetner-dsm615-dsm618-black-toner-cartridge.jpg.png", "imageFile": "5223_other_gestetner-dsm615-dsm618-black-toner-cartridge.jpg.png", "description": `The Gestetner DSM615/DSM618 Black Toner Cartridge provides reliable monochrome document printing and copying for Gestetner office copiers in Kenya. Engineered for crisp text reproduction and consistent page yields.
+
+## Compatible copiers
+Gestetner DSM615 / DSM616 / DSM618 / DSM618d
+Ricoh Aficio 1515 / MP 161 / MP 171 / MP 201
+If your copier model isn't listed, send us the number from the front panel to confirm compatibility.
+
+## Specifications
+| Page yield | Part type | Colour | Part number | Genuine or compatible |
+| --- | --- | --- | --- | --- |
+| ~9,000 pages | Laser Toner Cartridge | Black | Type 1270D / DSM618 | Genuine / Compatible |
+
+## Genuine or compatible?
+Available in OEM original and cost-effective compatible toner bottles.
+
+## Why buy from Trinatech
+Stock held in Nairobi CBD. Delivery across Kenya including Kisumu, Nakuru, Eldoret, and Mombasa. M-Pesa and bank transfer accepted. WhatsApp ordering and walk-in options at The One Mall, River Road.
+
+## Getting the most from this product
+Turn the toner bottle 180 degrees into the locking mechanism until fully seated.
+
+## Frequently asked questions
+What is the page yield? Approximately 9,000 pages at 5% coverage.
+How fast is Nairobi delivery? Same-day inside 1 to 3 hours.
+How do I pay? Pay via M-Pesa Buy Goods/Till or bank wire.
+Is warranty included? Covered against defects.`, "metaTitle": "Gestetner DSM615 / DSM618 Black Toner Price", "metaDescription": "Order Gestetner DSM615 & DSM618 black toner in Nairobi. Yields ~9,000 pages for Ricoh/Gestetner copiers. Fast shipping Kenya.", "inStock": true},
   {"id": 5258, "sku": null, "name": "Km 2050 Blade", "brand": "Other", "category": "Maintenance Kits & Spare Parts", "price": 1000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/Km-2050-Blade-scaled.webp", "imageFile": "Km-2050-Blade-scaled.webp", "description": `The Km 2050 Blade is a high-grade polyurethane drum cleaning blade for Kyocera Mita monochrome digital copiers. Engineered to efficiently sweep residual waste toner off the OPC drum surface to prevent background streaking and ensure crisp copies in Kenya.
 
 ## Compatible printers

@@ -1899,24 +1899,295 @@ Does it support wireless networking? Yes, built-in Wi-Fi is standard.
 How fast is Nairobi shipping? Delivered in 1 to 3 hours across Nairobi.
 How do I pay? Pay via M-Pesa or bank transfer.
 Is warranty provided? Covered with shop warranty.`, "metaTitle": "Kyocera ECOSYS MA4000wifx Mono Laser MFP", "metaDescription": "Shop Kyocera ECOSYS MA4000wifx mono MFP in Nairobi. Fast 40 ppm speed, Wi-Fi, fax, duplex, touch screen. Fast delivery.", "inStock": false, "comingSoon": true},
-  {"id": 9202, "sku": null, "name": "Kyocera ECOSYS MA2600cwfx Printer", "brand": "Kyocera", "category": "Printers & Copiers", "price": null, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/08/9202_kyocera_kyocera-ecosys-ma2600cwfx-printer.jpg.png", "imageFile": "9202_kyocera_kyocera-ecosys-ma2600cwfx-printer.jpg.png", "description": "Kyocera ECOSYS MA2600cwfx colour laser MFP. 26 ppm, duplex, print/scan/copy/fax, wireless, 4.3\" touchscreen, Gigabit Ethernet.", "inStock": false, "comingSoon": true},
-  {"id": 9203, "sku": null, "name": "Kyocera TASKalfa 8003i Printer", "brand": "Kyocera", "category": "Printers & Copiers", "price": null, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/08/9203_kyocera_kyocera-taskalfa-8003i-printer.jpg.png", "imageFile": "9203_kyocera_kyocera-taskalfa-8003i-printer.jpg.png", "description": "Kyocera TASKalfa 8003i A3 mono laser MFP. Up to 80 ppm A4, 40 ppm A3, duplex 80 ppm.", "inStock": false, "comingSoon": true},
-  {"id": 9204, "sku": null, "name": "Epson LQ-690 Printer", "brand": "Epson", "category": "Printers & Copiers", "price": null, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/08/9204_epson_epson-lq-690-printer.jpg.png", "imageFile": "9204_epson_epson-lq-690-printer.jpg.png", "description": "Epson LQ-690 24-pin dot matrix printer. High-speed draft up to 529 cps, 360x180 dpi, barcode support.", "inStock": false, "comingSoon": true},
-  {"id": 9205, "sku": null, "name": "Epson Dot Matrix LQ-350 Printer", "brand": "Epson", "category": "Printers & Copiers", "price": null, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/08/9205_epson_epson-dot-matrix-lq-350-printer.jpg", "imageFile": "9205_epson_epson-dot-matrix-lq-350-printer.jpg", "description": "Epson LQ-350 24-pin dot matrix printer. Draft up to 347 cps, 360x180 dpi, rear single-sheet and continuous feed.", "inStock": false, "comingSoon": true},
+  {"id": 9202, "sku": null, "name": "Kyocera ECOSYS MA2600cwfx Printer", "brand": "Kyocera", "category": "Printers & Copiers", "price": null, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/08/9202_kyocera_kyocera-ecosys-ma2600cwfx-printer.jpg.png", "imageFile": "9202_kyocera_kyocera-ecosys-ma2600cwfx-printer.jpg.png", "description": `The Kyocera ECOSYS MA2600cwfx Printer is a high-efficiency A4 color multi-function laser printer engineered for small office groups in Nairobi. Offers wireless networking, mobile printing, fax, and vibrant color output.
+
+## Compatible consumables
+Kyocera TK-5430K Black Toner Cartridge (~2,600 pages)
+Kyocera TK-5430C / M / Y Color Toner Cartridges (~2,100 pages each)
+
+## Specifications
+| Print speed | Technology | Functions | Max paper size | Connectivity |
+|---|---|---|---|---|
+| Up to 26 ppm | Color Laser | Print, Copy, Scan, Fax | A4 / Legal | Wi-Fi / Gigabit Ethernet / USB 2.0 |
+
+## Why buy from Trinatech
+Stock held in Nairobi CBD. Delivery across Kenya including Kisumu, Nakuru, Eldoret, and Mombasa. M-Pesa and bank transfer accepted. WhatsApp ordering and walk-in options at The One Mall, River Road.
+
+## Getting the most from this product
+Use the front USB host port for quick direct printing from flash memory drives.
+
+## Frequently asked questions
+What is the print speed? Up to 26 pages per minute in color and mono.
+How fast is Nairobi delivery? Same-day inside 1 to 3 hours.
+How can I pay? Pay via M-Pesa or bank wire.
+Is warranty provided? Covered with official warranty.`, "metaTitle": "Kyocera ECOSYS MA2600cwfx Color Laser MFP", "metaDescription": "Order Kyocera ECOSYS MA2600cwfx color MFP in Nairobi. 26 ppm, Wi-Fi, fax, duplex, touchscreen. Fast delivery across Kenya.", "inStock": false, "comingSoon": true},
+  {"id": 9203, "sku": null, "name": "Kyocera TASKalfa 8003i Printer", "brand": "Kyocera", "category": "Printers & Copiers", "price": null, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/08/9203_kyocera_kyocera-taskalfa-8003i-printer.jpg.png", "imageFile": "9203_kyocera_kyocera-taskalfa-8003i-printer.jpg.png", "description": `The Kyocera TASKalfa 8003i Printer is a heavy-duty enterprise A3 monochrome digital multi-function system built for high-volume corporate document centers across Kenya. Delivers 80 ppm print speeds and high paper capacity.
+
+## Compatible consumables
+Kyocera TK-6725 Black Toner Cartridge (~70,000 pages)
+
+## Specifications
+| Print speed | Technology | Functions | Max paper size | Connectivity |
+|---|---|---|---|---|
+| Up to 80 ppm | Mono Laser | Print, Copy, Scan, Fax (Opt) | A3 / SRA3 | Gigabit Ethernet / USB 3.0 |
+
+## Why buy from Trinatech
+Stock held in Nairobi CBD. Delivery across Kenya including Kisumu, Nakuru, Eldoret, and Mombasa. M-Pesa and bank transfer accepted. WhatsApp ordering and walk-in options at The One Mall, River Road.
+
+## Getting the most from this product
+Add optional booklet finishers and hole-punch units for complete in-house document publishing.
+
+## Frequently asked questions
+What is the toner yield? The TK-6725 toner yields up to 70,000 standard pages.
+How fast is Nairobi delivery? Same-day inside 1 to 3 hours.
+How do I pay? M-Pesa Buy Goods/Till or bank wire.
+Is warranty included? Covered with warranty.`, "metaTitle": "Kyocera TASKalfa 8003i Enterprise A3 MFP", "metaDescription": "Buy Kyocera TASKalfa 8003i A3 mono MFP in Nairobi. Ultra-fast 80 ppm speed, heavy-duty production print. Fast Kenya delivery.", "inStock": false, "comingSoon": true},
+  {"id": 9204, "sku": null, "name": "Epson LQ-690 Printer", "brand": "Epson", "category": "Printers & Copiers", "price": null, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/08/9204_epson_epson-lq-690-printer.jpg.png", "imageFile": "9204_epson_epson-lq-690-printer.jpg.png", "description": `The Epson LQ-690 Printer is a heavy-duty 24-pin 106-column dot matrix impact printer designed for banking, logistics, and counter invoicing in Kenya. Features high print speeds and multi-part continuous stationery handling.
+
+## Compatible consumables
+Epson C13S015610 Black Fabric Ribbon Cartridge (~10 million characters)
+
+## Specifications
+| Print speed | Pin count | Columns | Form compatibility | Connectivity |
+|---|---|---|---|---|
+| Up to 529 cps | 24-Pin | 106 Columns | 1 Original + 6 Copies | USB 2.0 / Parallel |
+
+## Why buy from Trinatech
+Stock held in Nairobi CBD. Delivery across Kenya including Kisumu, Nakuru, Eldoret, and Mombasa. M-Pesa and bank transfer accepted. WhatsApp ordering and walk-in options at The One Mall, River Road.
+
+## Getting the most from this product
+Adjust the lever setting to match paper thickness when printing carbon copy forms.
+
+## Frequently asked questions
+How many carbon copies can it print? Up to 1 original plus 6 copies.
+How fast is Nairobi delivery? Same-day inside 1 to 3 hours.
+How do I pay? Pay via M-Pesa or bank transfer.
+Is warranty provided? Covered with 1-Year Epson warranty.`, "metaTitle": "Epson LQ-690 24-Pin Dot Matrix Printer Price", "metaDescription": "Buy Epson LQ-690 24-pin dot matrix printer in Nairobi. Ultra-fast print speed 529 cps, multi-part form printing. Fast shipping.", "inStock": false, "comingSoon": true},
+  {"id": 9205, "sku": null, "name": "Epson Dot Matrix LQ-350 Printer", "brand": "Epson", "category": "Printers & Copiers", "price": null, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/08/9205_epson_epson-dot-matrix-lq-350-printer.jpg", "imageFile": "9205_epson_epson-dot-matrix-lq-350-printer.jpg", "description": `The Epson Dot Matrix LQ-350 Printer is a compact 24-pin 80-column impact printer ideal for front-office invoices, delivery notes, and receipts across Kenya. Offers low power consumption and high ribbon yield.
+
+## Compatible consumables
+Epson C13S015637 Black Fabric Ribbon Cartridge (~2.5 million characters)
+
+## Specifications
+| Print speed | Pin count | Columns | Form compatibility | Connectivity |
+|---|---|---|---|---|
+| Up to 390 cps | 24-Pin | 80 Columns | 1 Original + 3 Copies | USB 2.0 / Parallel / Serial |
+
+## Why buy from Trinatech
+Stock held in Nairobi CBD. Delivery across Kenya including Kisumu, Nakuru, Eldoret, and Mombasa. M-Pesa and bank transfer accepted. WhatsApp ordering and walk-in options at The One Mall, River Road.
+
+## Getting the most from this product
+Use rear tractor feed for continuous carbon copy paper and top slot for cut sheets.
+
+## Frequently asked questions
+What interface options are included? Features USB, Parallel, and Serial ports.
+How fast is Nairobi shipping? Delivered in 1 to 3 hours across Nairobi CBD.
+How can I pay? M-Pesa or bank wire.
+Is warranty provided? Covered with 1-Year Epson warranty.`, "metaTitle": "Epson LQ-350 24-Pin Dot Matrix Printer Price", "metaDescription": "Shop Epson LQ-350 24-pin dot matrix printer in Nairobi. Compact design, low power consumption, 390 cps speed. Fast delivery.", "inStock": false, "comingSoon": true},
   {"id": 9206, "sku": null, "name": "Epson Dot Matrix LX-350 Printer", "brand": "Epson", "category": "Printers & Copiers", "price": null, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/08/9206_epson_epson-dot-matrix-lx-350-printer.webp", "imageFile": "9206_epson_epson-dot-matrix-lx-350-printer.webp", "description": "Epson LX-350 9-pin dot matrix printer. 80 columns, draft up to 347 cps, 240x144 dpi.", "inStock": false, "comingSoon": true},
   {"id": 9207, "sku": null, "name": "Epson EcoTank L3250 Printer", "brand": "Epson", "category": "Printers & Copiers", "price": null, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/08/9207_epson_epson-ecotank-l3250-printer.jpg.png", "imageFile": "9207_epson_epson-ecotank-l3250-printer.jpg.png", "description": "Epson EcoTank L3250 all-in-one. Print, scan, copy, 5760x1440 dpi, 33 ppm mono / 15 ppm colour, USB, Wi-Fi, Wi-Fi Direct.", "inStock": false, "comingSoon": true},
-  {"id": 9208, "sku": null, "name": "Epson EcoTank L3252 Printer", "brand": "Epson", "category": "Printers & Copiers", "price": null, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/08/9208_epson_epson-ecotank-l3252-printer.png", "imageFile": "9208_epson_epson-ecotank-l3252-printer.png", "description": "Epson EcoTank L3252 all-in-one. Print, scan, copy, 5760x1440 dpi, 33 ppm mono / 15 ppm colour, USB, Wi-Fi, Wi-Fi Direct.", "inStock": false, "comingSoon": true},
+  {"id": 9208, "sku": null, "name": "Epson EcoTank L3252 Printer", "brand": "Epson", "category": "Printers & Copiers", "price": null, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/08/9208_epson_epson-ecotank-l3252-printer.png", "imageFile": "9208_epson_epson-ecotank-l3252-printer.png", "description": `The Epson EcoTank L3252 Printer is a sleek black-finished wireless 3-in-1 ink tank printer tailored for home office productivity in Nairobi. Delivers ultra-low cost per page, hassle-free spill-free refilling, and smartphone control.
+
+## Compatible consumables
+Epson 103 Black Ink Bottle (~4,500 pages)
+Epson 103 Cyan / Magenta / Yellow Ink Bottles (~7,500 pages combined)
+
+## Specifications
+| Print speed | Technology | Functions | Max paper size | Connectivity |
+|---|---|---|---|---|
+| Up to 10 ppm mono / 5 ppm color | InkTank / Heat-Free | Print, Copy, Scan | A4 | Wi-Fi / Wi-Fi Direct / USB 2.0 |
+
+## Why buy from Trinatech
+Stock held in Nairobi CBD. Delivery across Kenya including Kisumu, Nakuru, Eldoret, and Mombasa. M-Pesa and bank transfer accepted. WhatsApp ordering and walk-in options at The One Mall, River Road.
+
+## Getting the most from this product
+Ensure key-lock bottle nozzles are fully seated over each color tank before dispensing ink.
+
+## Frequently asked questions
+What is the difference between L3250 and L3252? They share identical performance specs; the L3252 features a distinct dark panel accent color option.
+How fast is Nairobi delivery? Same-day inside 1 to 3 hours.
+How do I pay? M-Pesa or bank wire.
+Is warranty included? Covered with official warranty.`, "metaTitle": "Epson EcoTank L3252 Wi-Fi Ink Tank Printer Price", "metaDescription": "Order Epson EcoTank L3252 printer in Nairobi. Black finish 3-in-1 ink tank with Wi-Fi Direct, scan, copy. Fast Kenya delivery.", "inStock": false, "comingSoon": true},
   {"id": 9209, "sku": null, "name": "Epson EcoTank L3210 Printer", "brand": "Epson", "category": "Printers & Copiers", "price": null, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/08/9209_epson_epson-ecotank-l3210-printer.jpg.png", "imageFile": "9209_epson_epson-ecotank-l3210-printer.jpg.png", "description": "Epson EcoTank L3210 all-in-one. Print, scan, copy, 33 ppm mono / 15 ppm colour.", "inStock": false, "comingSoon": true},
-  {"id": 9210, "sku": null, "name": "Epson EB-W55 WXGA Projector", "brand": "Epson", "category": "Projectors", "price": null, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/08/9210_epson_epson-eb-w55-wxga-projector.jpg.png", "imageFile": "9210_epson_epson-eb-w55-wxga-projector.jpg.png", "description": "Epson EB-W55 WXGA projector, 4,000 lumens brightness.", "inStock": false, "comingSoon": true},
-  {"id": 9211, "sku": null, "name": "Epson TM-T20III Thermal Printer", "brand": "Epson", "category": "Printers & Copiers", "price": null, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/08/9211_epson_epson-tm-t20iii-thermal-printer.jpg", "imageFile": "9211_epson_epson-tm-t20iii-thermal-printer.jpg", "description": "Epson TM-T20III thermal receipt printer. 250 mm/sec, 80mm paper, 203x203 dpi, USB + Serial.", "inStock": false, "comingSoon": true},
-  {"id": 9212, "sku": null, "name": "Epson EcoTank L8050 Photo Printer", "brand": "Epson", "category": "Printers & Copiers", "price": null, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/08/9212_epson_epson-ecotank-l8050-photo-printer.jpg.png", "imageFile": "9212_epson_epson-ecotank-l8050-photo-printer.jpg.png", "description": "Epson EcoTank L8050 A4 Wi-Fi ink tank photo printer. 22 ppm mono/colour, 12 sec per 10x15cm photo.", "inStock": false, "comingSoon": true},
+  {"id": 9210, "sku": null, "name": "Epson EB-W55 WXGA Projector", "brand": "Epson", "category": "Projectors", "price": null, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/08/9210_epson_epson-eb-w55-wxga-projector.jpg.png", "imageFile": "9210_epson_epson-eb-w55-wxga-projector.jpg.png", "description": `The Epson EB-W55 WXGA Projector brings crisp 3,800-lumen brightness and HD widescreen resolution to corporate boardrooms and classrooms across Kenya. Features dual HDMI inputs and flexible keystone positioning for easy setup.
+
+## Compatible accessories
+Epson ELPAP11 Wireless Adapter
+Standard Ceiling Mount Kit / HDMI Cables
+
+## Specifications
+| Brightness | Technology | Resolution | Contrast ratio | Lamp life |
+|---|---|---|---|---|
+| 3,800 Lumens | 3LCD Technology | WXGA (1280 x 800) | 16,000:1 | Up to 12,000 hours (Eco) |
+
+## Why buy from Trinatech
+Stock held in Nairobi CBD. Delivery across Kenya including Kisumu, Nakuru, Eldoret, and Mombasa. M-Pesa and bank transfer accepted. WhatsApp ordering and walk-in options at The One Mall, River Road.
+
+## Getting the most from this product
+Plug optional wireless dongle ELPAP11 into the rear USB-A port to mirror presentations wirelessly.
+
+## Frequently asked questions
+What screen resolution does it support? WXGA widescreen HD resolution.
+How fast is Nairobi delivery? Same-day inside 1 to 3 hours.
+How do I pay? Pay via M-Pesa Buy Goods/Till or bank wire.
+Is warranty included? Covered with 2-Year Epson warranty.`, "metaTitle": "Epson EB-W55 WXGA 3LCD Projector Price Kenya", "metaDescription": "Buy Epson EB-W55 WXGA 3LCD projector in Nairobi. High 3,800 lumens brightness, HDMI, long lamp life. Fast delivery across Kenya.", "inStock": false, "comingSoon": true},
+  {"id": 9211, "sku": null, "name": "Epson TM-T20III Thermal Printer", "brand": "Epson", "category": "Printers & Copiers", "price": null, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/08/9211_epson_epson-tm-t20iii-thermal-printer.jpg", "imageFile": "9211_epson_epson-tm-t20iii-thermal-printer.jpg", "description": `The Epson TM-T20III Thermal Printer is an industry-standard POS thermal receipt printer built for retail shops, supermarkets, and restaurants in Kenya. Offers high reliability, fast 250 mm/sec printing, and built-in auto-cutter.
+
+## Compatible consumables
+80mm x 80mm Thermal Paper Rolls
+Epson ECH410 Cash Drawer
+
+## Specifications
+| Print speed | Paper width | Auto-cutter | Connectivity | Power supply |
+|---|---|---|---|---|
+| 250 mm/sec | 80 mm | Heavy-Duty Auto Cut | USB + Serial (or USB + Ethernet) | Internal AC Power Adapter |
+
+## Why buy from Trinatech
+Stock held in Nairobi CBD. Delivery across Kenya including Kisumu, Nakuru, Eldoret, and Mombasa. M-Pesa and bank transfer accepted. WhatsApp ordering and walk-in options at The One Mall, River Road.
+
+## Getting the most from this product
+Connect the cash drawer cable into the rear RJ11 port for automated kick-out upon bill printing.
+
+## Frequently asked questions
+What paper roll size does it use? Standard 80mm thermal paper rolls.
+How fast is Nairobi shipping? Delivered in 1 to 3 hours.
+How can I pay? Pay via M-Pesa or bank transfer.
+Is warranty provided? Covered with 1-Year Epson warranty.`, "metaTitle": "Epson TM-T20III POS Thermal Receipt Printer", "metaDescription": "Order Epson TM-T20III receipt printer in Nairobi. High speed 250mm/s auto-cutter POS printer USB/Serial. Fast shipping Kenya.", "inStock": false, "comingSoon": true},
+  {"id": 9212, "sku": null, "name": "Epson EcoTank L8050 Photo Printer", "brand": "Epson", "category": "Printers & Copiers", "price": null, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/08/9212_epson_epson-ecotank-l8050-photo-printer.jpg.png", "imageFile": "9212_epson_epson-ecotank-l8050-photo-printer.jpg.png", "description": `The Epson EcoTank L8050 Photo Printer is a high-speed 6-color wireless photo ink tank printer designed for studios and print shops in Kenya. Delivers ultra-low-cost A4 borderless photos, CD/DVD printing, and direct PVC ID card printing.
+
+## Compatible consumables
+Epson 108 Black / Cyan / Magenta / Yellow / Light Cyan / Light Magenta Ink Bottles (~2,100 10x15cm photos)
+
+## Specifications
+| Print speed | Ink colors | Functions | Special media | Connectivity |
+|---|---|---|---|---|
+| Up to 12 ppm (Photo) | 6 Dye Inks | Print Only | PVC ID Cards, CD/DVD | Wi-Fi / Wi-Fi Direct / USB 2.0 |
+
+## Why buy from Trinatech
+Stock held in Nairobi CBD. Delivery across Kenya including Kisumu, Nakuru, Eldoret, and Mombasa. M-Pesa and bank transfer accepted. WhatsApp ordering and walk-in options at The One Mall, River Road.
+
+## Getting the most from this product
+Utilize the included ID card tray to print glossy double-sided PVC cards directly.
+
+## Frequently asked questions
+Can it print on PVC ID cards? Yes, includes a dedicated PVC ID card printing tray.
+How fast is Nairobi delivery? Same-day inside 1 to 3 hours.
+How do I pay? Pay via M-Pesa or bank transfer.
+Is warranty provided? Covered with 1-Year Epson warranty.`, "metaTitle": "Epson EcoTank L8050 6-Color Photo Printer Price", "metaDescription": "Buy Epson EcoTank L8050 6-color photo printer in Nairobi. A4 borderless photos, PVC ID card printing, Wi-Fi. Fast Kenya shipping.", "inStock": false, "comingSoon": true},
   {"id": 9213, "sku": null, "name": "Epson EcoTank L4260 All-in-One Printer", "brand": "Epson", "category": "Printers & Copiers", "price": null, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/08/9213_epson_epson-ecotank-l4260-all-in-one-printer.webp", "imageFile": "9213_epson_epson-ecotank-l4260-all-in-one-printer.webp", "description": "Epson EcoTank L4260 all-in-one. Print, scan, copy, Wi-Fi, USB, 33 ppm mono / 15 ppm colour.", "inStock": false, "comingSoon": true},
-  {"id": 9214, "sku": null, "name": "HP DeskJet 2320 All-in-One Printer", "brand": "HP", "category": "Printers & Copiers", "price": null, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/08/9214_hp_hp-deskjet-2320-all-in-one-printer.jpg.png", "imageFile": "9214_hp_hp-deskjet-2320-all-in-one-printer.jpg.png", "description": "HP DeskJet 2320 all-in-one. Print, copy, scan, up to 1000 pages/month, manual duplex.", "inStock": false, "comingSoon": true},
-  {"id": 9215, "sku": null, "name": "HP LaserJet M211d Printer", "brand": "HP", "category": "Printers & Copiers", "price": null, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/08/9215_hp_hp-laserjet-m211d-printer.jpg.png", "imageFile": "9215_hp_hp-laserjet-m211d-printer.jpg.png", "description": "HP LaserJet M211d mono printer. Up to 30 ppm, automatic duplex, 600x600 dpi, up to 20,000 pages/month.", "inStock": false, "comingSoon": true},
+  {"id": 9214, "sku": null, "name": "HP DeskJet 2320 All-in-One Printer", "brand": "HP", "category": "Printers & Copiers", "price": null, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/08/9214_hp_hp-deskjet-2320-all-in-one-printer.jpg.png", "imageFile": "9214_hp_hp-deskjet-2320-all-in-one-printer.jpg.png", "description": `The HP DeskJet 2320 All-in-One Printer is an affordable entry-level color inkjet printer built for basic household printing, scanning, and copying in Nairobi. Delivers simple USB setup and compact desk placement.
+
+## Compatible consumables
+HP 305 Black Original Ink Cartridge (~120 pages)
+HP 305 Tri-Color Original Ink Cartridge (~100 pages)
+HP 305XL High Yield Black / Tri-Color Ink Cartridges
+
+## Specifications
+| Print speed | Technology | Functions | Max paper size | Connectivity |
+|---|---|---|---|---|
+| Up to 7.5 ppm mono / 5.5 ppm color | HP Thermal Inkjet | Print, Copy, Scan | A4 | Hi-Speed USB 2.0 |
+
+## Why buy from Trinatech
+Stock held in Nairobi CBD. Delivery across Kenya including Kisumu, Nakuru, Eldoret, and Mombasa. M-Pesa and bank transfer accepted. WhatsApp ordering and walk-in options at The One Mall, River Road.
+
+## Getting the most from this product
+Opt for HP 305XL high-yield ink cartridges to print up to twice as many pages per cartridge.
+
+## Frequently asked questions
+Does it support Wi-Fi? No, this model is USB connection only.
+How fast is Nairobi delivery? Same-day inside 1 to 3 hours.
+How do I pay? Pay via M-Pesa Buy Goods/Till or bank transfer.
+Is warranty provided? 1-Year HP official warranty.`, "metaTitle": "HP DeskJet 2320 All-in-One Inkjet Printer Price", "metaDescription": "Buy HP DeskJet 2320 color printer in Nairobi. Budget 3-in-1 print, scan, copy via USB. Fast delivery across Kenya.", "inStock": false, "comingSoon": true},
+  {"id": 9215, "sku": null, "name": "HP LaserJet M211d Printer", "brand": "HP", "category": "Printers & Copiers", "price": null, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/08/9215_hp_hp-laserjet-m211d-printer.jpg.png", "imageFile": "9215_hp_hp-laserjet-m211d-printer.jpg.png", "description": `The HP LaserJet M211d Printer is a compact single-function monochrome laser printer engineered for fast document output in Kenya. Features high-speed automatic double-sided printing and low operational power use.
+
+## Compatible consumables
+HP 136A Black LaserJet Toner Cartridge (W1360A ~1,150 pages)
+HP 136X High Yield Black LaserJet Toner Cartridge (W1360X ~2,600 pages)
+
+## Specifications
+| Print speed | Technology | Functions | Max paper size | Connectivity |
+|---|---|---|---|---|
+| Up to 29 ppm | Mono Laser | Print Only | A4 / Legal | Hi-Speed USB 2.0 |
+
+## Why buy from Trinatech
+Stock held in Nairobi CBD. Delivery across Kenya including Kisumu, Nakuru, Eldoret, and Mombasa. M-Pesa and bank transfer accepted. WhatsApp ordering and walk-in options at The One Mall, River Road.
+
+## Getting the most from this product
+Keep automatic double-sided printing selected in print defaults to reduce paper waste.
+
+## Frequently asked questions
+Does it support automatic duplex? Yes, features built-in automatic two-sided printing.
+How fast is Nairobi shipping? Delivered in 1 to 3 hours across Nairobi CBD.
+How can I pay? M-Pesa or bank wire.
+Is warranty provided? Covered with 1-Year HP warranty.`, "metaTitle": "HP LaserJet M211d Mono Laser Printer Price", "metaDescription": "Order HP LaserJet M211d monochrome printer in Nairobi. Fast 29 ppm speed, automatic duplex, USB connection. Fast delivery.", "inStock": false, "comingSoon": true},
   {"id": 9216, "sku": null, "name": "HP LaserJet MFP M141a Printer", "brand": "HP", "category": "Printers & Copiers", "price": null, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/08/9216_hp_hp-laserjet-mfp-m141a-printer.jpg.png", "imageFile": "9216_hp_hp-laserjet-mfp-m141a-printer.jpg.png", "description": "HP LaserJet MFP M141a. Print, copy, scan, up to 21 ppm, 600x600 dpi, up to 8,000 pages/month.", "inStock": false, "comingSoon": true},
-  {"id": 9217, "sku": null, "name": "HP LaserJet MFP M141W Printer", "brand": "HP", "category": "Printers & Copiers", "price": null, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/08/9217_hp_hp-laserjet-mfp-m141w-printer.jpg.png", "imageFile": "9217_hp_hp-laserjet-mfp-m141w-printer.jpg.png", "description": "HP LaserJet MFP M141W. Print, copy, scan, up to 21 ppm, 600x600 dpi, Wi-Fi.", "inStock": false, "comingSoon": true},
-  {"id": 9218, "sku": null, "name": "HP Color LaserJet Enterprise MFP M578dn Printer", "brand": "HP", "category": "Printers & Copiers", "price": null, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/08/9218_hp_hp-color-laserjet-enterprise-mfp-m578dn-printer.jpg.png", "imageFile": "9218_hp_hp-color-laserjet-enterprise-mfp-m578dn-printer.jpg.png", "description": "HP Color LaserJet Enterprise MFP M578dn. Print, copy, scan, fax, up to 38 ppm, auto duplex, 20.3cm touchscreen.", "inStock": false, "comingSoon": true},
-  {"id": 9219, "sku": null, "name": "HP LaserJet Pro MFP 4103dw Printer", "brand": "HP", "category": "Printers & Copiers", "price": null, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/08/9219_hp_hp-laserjet-pro-mfp-4103dw-printer.jpg.png", "imageFile": "9219_hp_hp-laserjet-pro-mfp-4103dw-printer.jpg.png", "description": "HP LaserJet Pro MFP 4103dw. Print, copy, scan, up to 40 ppm, duplex, 2.7\" colour touchscreen.", "inStock": false, "comingSoon": true},
+  {"id": 9217, "sku": null, "name": "HP LaserJet MFP M141W Printer", "brand": "HP", "category": "Printers & Copiers", "price": null, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/08/9217_hp_hp-laserjet-mfp-m141w-printer.jpg.png", "imageFile": "9217_hp_hp-laserjet-mfp-m141w-printer.jpg.png", "description": `The HP LaserJet MFP M141W Printer is HP's ultra-compact wireless monochrome 3-in-1 laser printer designed for home desks and micro-offices in Kenya. Offers fast mobile printing via the HP Smart App, USB connection, and Wi-Fi Direct.
+
+## Compatible consumables
+HP 150A Black Original LaserJet Toner Cartridge (W1500A ~950 pages)
+
+## Specifications
+| Print speed | Technology | Functions | Max paper size | Connectivity |
+|---|---|---|---|---|
+| Up to 20 ppm | Mono Laser | Print, Copy, Scan | A4 | Wireless 802.11b/g/n / Wi-Fi Direct / USB 2.0 |
+
+## Why buy from Trinatech
+Stock held in Nairobi CBD. Delivery across Kenya including Kisumu, Nakuru, Eldoret, and Mombasa. M-Pesa and bank transfer accepted. WhatsApp ordering and walk-in options at The One Mall, River Road.
+
+## Getting the most from this product
+Use Wi-Fi Direct to print from mobile devices without connecting to a local router.
+
+## Frequently asked questions
+Does it have Wi-Fi? Yes, built-in wireless and Wi-Fi Direct.
+How fast is Nairobi delivery? Delivered in 1 to 3 hours across Nairobi CBD.
+How can I pay? Pay via M-Pesa Buy Goods/Till or bank wire.
+Is warranty provided? 1-Year HP official warranty.`, "metaTitle": "HP LaserJet MFP M141w Wireless Printer Price", "metaDescription": "Order HP LaserJet MFP M141w wireless mono printer in Nairobi. 3-in-1 print, scan, copy, Wi-Fi Direct. Fast delivery across Kenya.", "inStock": false, "comingSoon": true},
+  {"id": 9218, "sku": null, "name": "HP Color LaserJet Enterprise MFP M578dn Printer", "brand": "HP", "category": "Printers & Copiers", "price": null, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/08/9218_hp_hp-color-laserjet-enterprise-mfp-m578dn-printer.jpg.png", "imageFile": "9218_hp_hp-color-laserjet-enterprise-mfp-m578dn-printer.jpg.png", "description": `The HP Color LaserJet Enterprise MFP M578dn Printer is a high-volume corporate A4 color laser multi-function system built for demanding office departments in Nairobi. Delivers 40 ppm print speeds, advanced data encryption, and single-pass dual-head ADF scanning.
+
+## Compatible consumables
+HP 212A Black Original LaserJet Toner Cartridge (W2120A ~5,500 pages)
+HP 212A Cyan / Magenta / Yellow Toner Cartridges (W2121A / W2122A / W2123A ~4,500 pages each)
+HP 212X High Yield Black LaserJet Toner Cartridge (W2120X ~13,000 pages)
+HP 212X High Yield Color Toner Cartridges (~10,000 pages each)
+
+## Specifications
+| Print speed | Technology | Functions | Max paper size | Connectivity |
+|---|---|---|---|---|
+| Up to 40 ppm | Color Laser | Print, Copy, Scan (Optional Fax) | A4 / Legal | Gigabit Ethernet / USB 2.0 |
+
+## Why buy from Trinatech
+Stock held in Nairobi CBD. Delivery across Kenya including Kisumu, Nakuru, Eldoret, and Mombasa. M-Pesa and bank transfer accepted. WhatsApp ordering and walk-in options at The One Mall, River Road.
+
+## Getting the most from this product
+Utilize the 8-inch color touchscreen display to configure secure job storage and PIN release.
+
+## Frequently asked questions
+What is the print speed? Up to 40 pages per minute in both black and color.
+How fast is Nairobi delivery? Same-day inside 1 to 3 hours.
+How do I pay? Pay via M-Pesa or bank transfer.
+Is warranty provided? Covered with shop warranty.`, "metaTitle": "HP Color LaserJet Enterprise MFP M578dn Price", "metaDescription": "Buy HP Color LaserJet Enterprise MFP M578dn in Nairobi. Fast 40 ppm color, automatic duplex, secure network printing. Fast Kenya shipping.", "inStock": false, "comingSoon": true},
+  {"id": 9219, "sku": null, "name": "HP LaserJet Pro MFP 4103dw Printer", "brand": "HP", "category": "Printers & Copiers", "price": null, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/08/9219_hp_hp-laserjet-pro-mfp-4103dw-printer.jpg.png", "imageFile": "9219_hp_hp-laserjet-pro-mfp-4103dw-printer.jpg.png", "description": `The HP LaserJet Pro MFP 4103dw Printer is a fast monochrome multi-function laser printer engineered for medium office teams across Kenya. Delivers rapid 40 ppm printing, auto-duplexing, and dual-band wireless networking.
+
+## Compatible consumables
+HP 151A Black Original LaserJet Toner Cartridge (W1510A ~3,050 pages)
+HP 151X High Yield Black Original Toner Cartridge (W1510X ~9,700 pages)
+
+## Specifications
+| Print speed | Technology | Functions | Max paper size | Connectivity |
+|---|---|---|---|---|
+| Up to 40 ppm | Mono Laser | Print, Copy, Scan | A4 / Legal | Dual-band Wi-Fi / Gigabit Ethernet / USB 2.0 |
+
+## Why buy from Trinatech
+Stock held in Nairobi CBD. Delivery across Kenya including Kisumu, Nakuru, Eldoret, and Mombasa. M-Pesa and bank transfer accepted. WhatsApp ordering and walk-in options at The One Mall, River Road.
+
+## Getting the most from this product
+Use the top ADF tray for scanning multi-page business documents quickly.
+
+## Frequently asked questions
+What is the print speed? Up to 40 pages per minute.
+How fast is Nairobi delivery? Same-day inside 1 to 3 hours.
+How can I pay? Pay via M-Pesa or bank transfer.
+Is warranty included? Covered with 1-Year HP warranty.`, "metaTitle": "HP LaserJet Pro MFP 4103dw Printer Price", "metaDescription": "Shop HP LaserJet Pro MFP 4103dw mono laser printer in Nairobi. Fast 40 ppm speed, auto duplex, Wi-Fi, scan & copy. Fast delivery.", "inStock": false, "comingSoon": true},
   {"id": 9220, "sku": null, "name": "HP LaserJet Pro MFP 4103fdw Printer", "brand": "HP", "category": "Printers & Copiers", "price": null, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/08/9220_hp_hp-laserjet-pro-mfp-4103fdw-printer.jpg.png", "imageFile": "9220_hp_hp-laserjet-pro-mfp-4103fdw-printer.jpg.png", "description": "HP LaserJet Pro MFP 4103fdw. Print, copy, scan, fax, up to 40 ppm, duplex, 2.7\" colour touchscreen.", "inStock": false, "comingSoon": true},
   {"id": 9221, "sku": null, "name": "HP LaserJet Enterprise M611dn Printer", "brand": "HP", "category": "Printers & Copiers", "price": null, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/08/9221_hp_hp-laserjet-enterprise-m611dn-printer.jpg.png", "imageFile": "9221_hp_hp-laserjet-enterprise-m611dn-printer.jpg.png", "description": "HP LaserJet Enterprise M611dn. Up to 61 ppm, duplex, up to 275,000 pages/month, 4.3\" touchscreen.", "inStock": false, "comingSoon": true},
   {"id": 9222, "sku": null, "name": "HP Color LaserJet Pro MFP 3303fdn Printer", "brand": "HP", "category": "Printers & Copiers", "price": null, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/08/9222_hp_hp-color-laserjet-pro-mfp-3303fdn-printer.jpg", "imageFile": "9222_hp_hp-color-laserjet-pro-mfp-3303fdn-printer.jpg", "description": "HP Color LaserJet Pro MFP 3303fdn. Print, copy, scan, fax, up to 25 ppm, duplex, 4.3\" colour display.", "inStock": false, "comingSoon": true},

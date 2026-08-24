@@ -1474,9 +1474,120 @@ Do I need colour cartridges too? Yes — the T-series uses photo black, cyan, ma
 How fast is delivery? Same day within Nairobi, next working day upcountry.
 Can I return it? Yes, sealed and unused.
 Is HP 72 the same as HP 711? No — HP 72 fits the older T610/T770/T1100 generation; HP 711 fits the newer T100/T120/T520 generation. They are not interchangeable.`, "metaTitle": "HP 72 Matte Black Ink Cartridge C9403A - Genuine HP", "metaDescription": "Genuine HP 72 matte black ink cartridge (C9403A), 130ml, for HP DesignJet T610, T620, T770, T790, T1100, T1200 and T1300 plotters. Nairobi stock.", "inStock": true},
-  {"id": 5306, "sku": "C9383A", "name": "HP 72 Design Jet Printehead Magnta | Cyan, C9383A", "brand": "HP", "category": "Master Rolls & Inks", "price": 15000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/HP-72-Design-Jet-Printehead-Magnta-Cyan-C9383A.webp", "imageFile": "HP-72-Design-Jet-Printehead-Magnta-Cyan-C9383A.webp", "description": "HP 72 DESIGN JET PRINTEHEAD MAGNTA | CYAN, C9383A", "inStock": true},
-  {"id": 5305, "sku": "C9380A", "name": "HP 72 Gray | Photo Black Designjet Printhead, C9380A", "brand": "HP", "category": "Master Rolls & Inks", "price": 15000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/HP-72-Gray-Photo-Black-Designjet-Printhead-C9380A.webp", "imageFile": "HP-72-Gray-Photo-Black-Designjet-Printhead-C9380A.webp", "description": "HP 72 GRAY | PHOTO BLACK DESIGNJET PRINTHEAD, C9380A", "inStock": true},
-  {"id": 5304, "sku": "C9384A", "name": "HP 72 Matte Black | Yellow Designjet Printhead, C9384A", "brand": "HP", "category": "Master Rolls & Inks", "price": 15000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/HP-72-Matte-Black-Yellow-Designjet-Printhead-C9384A.webp", "imageFile": "HP-72-Matte-Black-Yellow-Designjet-Printhead-C9384A.webp", "description": "HP 72 MATTE BLACK | YELLOW DESIGNJET PRINTHEAD, C9384A", "inStock": true},
+  {"id": 5306, "sku": "C9383A", "name": "HP 72 Design Jet Printehead Magnta | Cyan, C9383A", "brand": "HP", "category": "Master Rolls & Inks", "price": 15000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/HP-72-Design-Jet-Printehead-Magnta-Cyan-C9383A.webp", "imageFile": "HP-72-Design-Jet-Printehead-Magnta-Cyan-C9383A.webp", "description": `The HP 72 Magenta and Cyan DesignJet Printhead (C9383A) is a vital replacement part designed to restore your HP large-format printer to factory-fresh printing condition. Over years of heavy CAD printing and graphic output, printheads can eventually wear out or become permanently clogged; this genuine replacement snaps easily into the carriage to solve streaking, banding, or missing magenta and cyan colours. It is an essential purchase to ensure your architectural plans and GIS maps continue to print with pinpoint accuracy.
+
+## Compatible printers
+HP DesignJet T610 Printer series
+HP DesignJet T620 Printer series
+HP DesignJet T770 Printer series
+HP DesignJet T790 ePrinter series
+HP DesignJet T795 ePrinter series
+HP DesignJet T1100 Printer series
+HP DesignJet T1120 Printer series
+HP DesignJet T1200 Printer series
+HP DesignJet T1300 ePrinter series
+HP DesignJet T2300 eMultifunction Printer series
+If your model isn't listed, send us the number from the front of the machine and we'll confirm before you pay.
+
+## Specifications
+| Page yield | Cartridge type | Colour | Capacity | Part number | Genuine or compatible |
+|---|---|---|---|---|---|
+| N/A | Printhead | Magenta & Cyan | Standard | C9383A | Genuine |
+
+## Genuine or compatible?
+This is a 100% genuine, Original HP printhead. Because the printhead is a highly precise piece of hardware that interfaces directly with your expensive plotter's electronics, we only supply genuine HP replacement parts for this component. Using genuine ensures flawless drop placement, correct colour mixing, and protects your machine from electrical shorts.
+
+## Why buy from Trinatech
+Locally held stock in Nairobi CBD.
+Delivery across Kenya including Kisumu, Nakuru, Eldoret and Mombasa.
+M-Pesa and bank transfer accepted securely.
+WhatsApp ordering available, walk-in at The One Mall River Road.
+
+## Getting the most from this cartridge
+To maximize the lifespan of your new printhead, always ensure your DesignJet's ink cartridges never run completely dry. Turn the plotter off using its own power button rather than a wall switch, so the printheads have time to park and cap themselves against drying out. Run a printhead alignment from your plotter's menu immediately after installation to ensure perfect line accuracy.
+
+## Frequently asked questions
+Does this include the ink cartridges? No, this is just the hardware printhead. The HP 72 ink cartridges are sold separately.
+How long does a printhead last? Lifespan depends entirely on print volume, but they typically last through several sets of ink cartridges.
+What is the delivery time? Same-day for Nairobi CBD; expect next-day delivery for other regions in Kenya.
+What is your warranty or returns policy? Genuine HP printheads carry a manufacturer warranty against electronic failure.
+Is it easy to install? Yes, lift the carriage latch, remove the old printhead, and drop the new one securely into the corresponding slot.`, "metaTitle": "HP 72 Magenta and Cyan DesignJet Printhead", "metaDescription": "Genuine HP 72 magenta and cyan printhead (C9383A) for HP DesignJet T610, T770, T790, T1100, T1200, T1300, T2300 series. Reliable stock in Nairobi.", "inStock": true},
+  {"id": 5305, "sku": "C9380A", "name": "HP 72 Gray | Photo Black Designjet Printhead, C9380A", "brand": "HP", "category": "Master Rolls & Inks", "price": 15000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/HP-72-Gray-Photo-Black-Designjet-Printhead-C9380A.webp", "imageFile": "HP-72-Gray-Photo-Black-Designjet-Printhead-C9380A.webp", "description": `The HP 72 Gray and Photo Black DesignJet Printhead (C9380A) is an essential hardware replacement designed to maintain the impeccable detail and smooth greyscale transitions of your HP large-format plotter. Responsible for precisely firing microscopic drops of gray and photo black ink, this genuine printhead ensures your architectural renders, CAD drawings, and high-resolution photographs are output without banding or missing lines. Replacing a worn printhead instantly restores your plotter to peak performance.
+
+## Compatible printers
+HP DesignJet T610 Printer series
+HP DesignJet T620 Printer series
+HP DesignJet T770 Printer series
+HP DesignJet T790 ePrinter series
+HP DesignJet T795 ePrinter series
+HP DesignJet T1100 Printer series
+HP DesignJet T1120 Printer series
+HP DesignJet T1200 Printer series
+HP DesignJet T1300 ePrinter series
+HP DesignJet T2300 eMultifunction Printer series
+If your model isn't listed, send us the number from the front of the machine and we'll confirm before you pay.
+
+## Specifications
+| Page yield | Cartridge type | Colour | Capacity | Part number | Genuine or compatible |
+|---|---|---|---|---|---|
+| N/A | Printhead | Gray & Photo Black | Standard | C9380A | Genuine |
+
+## Genuine or compatible?
+This is a genuine, Original HP printhead in a factory-sealed box. Because this part contains hundreds of microscopic nozzles and interfaces directly with the printer's logic board, we strongly advise against using refurbished or third-party printheads. Genuine HP ensures optimal line sharpness, smooth gradients, and protects your DesignJet from electrical faults.
+
+## Why buy from Trinatech
+Reliable stock held right here in Nairobi CBD.
+Delivery across Kenya including Kisumu, Nakuru, Eldoret and Mombasa.
+M-Pesa and bank transfer accepted securely.
+Easy WhatsApp ordering, or walk-in at The One Mall River Road.
+
+## Getting the most from this cartridge
+Always keep the printhead in its protective packaging until your plotter specifically prompts you to replace the old unit. Avoid touching the copper electrical contacts or the nozzles on the bottom. To prevent premature wear on your new printhead, avoid using expired ink cartridges and ensure your plotting environment is relatively dust-free.
+
+## Frequently asked questions
+Does this include the ink cartridges? No, this product is the printhead only. The gray and photo black HP 72 inks must be purchased separately.
+Do I need to replace all three printheads at once? No, you only need to replace the specific printhead that the machine indicates has failed.
+What is the delivery time? We offer same-day delivery in Nairobi CBD, and next-day dispatch countrywide.
+What is your warranty or returns policy? We honour the standard HP warranty for factory-sealed, genuine hardware.
+Why are my prints still banded after replacing the ink? Banding is usually caused by a worn or clogged printhead, not the ink cartridge itself.`, "metaTitle": "HP 72 Gray and Photo Black Printhead C9380A", "metaDescription": "Genuine HP 72 gray and photo black printhead (C9380A) for HP DesignJet T610, T770, T790, T1100, T1200, T1300, T2300. Fast delivery in Kenya.", "inStock": true},
+  {"id": 5304, "sku": "C9384A", "name": "HP 72 Matte Black | Yellow Designjet Printhead, C9384A", "brand": "HP", "category": "Master Rolls & Inks", "price": 15000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/HP-72-Matte-Black-Yellow-Designjet-Printhead-C9384A.webp", "imageFile": "HP-72-Matte-Black-Yellow-Designjet-Printhead-C9384A.webp", "description": `The HP 72 Matte Black and Yellow DesignJet Printhead (C9384A) is a critical component for achieving striking, high-contrast lines and vibrant yellow fills on your HP large-format printer. When your plotter begins producing streaks, dropping lines, or missing colours despite having full ink cartridges, the printhead is likely at the end of its lifecycle. This genuine HP replacement part snaps into the carriage to immediately restore perfect drop placement and flawless, professional output.
+
+## Compatible printers
+HP DesignJet T610 Printer series
+HP DesignJet T620 Printer series
+HP DesignJet T770 Printer series
+HP DesignJet T790 ePrinter series
+HP DesignJet T795 ePrinter series
+HP DesignJet T1100 Printer series
+HP DesignJet T1120 Printer series
+HP DesignJet T1200 Printer series
+HP DesignJet T1300 ePrinter series
+HP DesignJet T2300 eMultifunction Printer series
+If your model isn't listed, send us the number from the front of the machine and we'll confirm before you pay.
+
+## Specifications
+| Page yield | Cartridge type | Colour | Capacity | Part number | Genuine or compatible |
+|---|---|---|---|---|---|
+| N/A | Printhead | Matte Black & Yellow | Standard | C9384A | Genuine |
+
+## Genuine or compatible?
+Genuine, Original HP printhead. This is a highly precise piece of hardware, not a consumable ink tank. Using genuine HP printheads guarantees your plotter's internal electronics remain safe and your prints retain architectural-grade line accuracy. We do not sell or recommend compatible versions of this specific hardware component.
+
+## Why buy from Trinatech
+Stock held in Nairobi CBD.
+Delivery across Kenya including Kisumu, Nakuru, Eldoret and Mombasa.
+M-Pesa and bank transfer accepted.
+WhatsApp ordering, walk-in at The One Mall River Road.
+
+## Getting the most from this cartridge
+To maximize the lifespan of your new printhead, never turn off the plotter directly from the wall socket; always use the power button so the carriage can return to the service station and cap the printheads. After installation, you must allow the printer to complete its automated printhead alignment process on a clean sheet of paper to ensure the matte black and yellow nozzles are perfectly calibrated.
+
+## Frequently asked questions
+Does this include the ink cartridges? No, this is just the printhead. HP 72 ink cartridges feed ink into this unit and are sold separately.
+How do I know if the printhead needs replacing? Your plotter's control panel will explicitly tell you, or your prints will show persistent banding even after cleaning cycles.
+What is the delivery time? Same-day within Nairobi CBD; overnight delivery for the rest of Kenya.
+What is your warranty or returns policy? Genuine hardware carries a manufacturer warranty against electrical faults out of the box.
+Is it difficult to install? It is designed to be easily user-replaceable by lifting a latch on the carriage.`, "metaTitle": "HP 72 Matte Black and Yellow Printhead", "metaDescription": "Genuine HP 72 matte black and yellow printhead (C9384A) for HP DesignJet T610, T770, T790, T1100, T1300, T2300. Buy genuine supplies at Trinatech.", "inStock": true},
   {"id": 5302, "sku": null, "name": "HP 727 Black Designjet Ink (130-ML Cartridge)", "brand": "HP", "category": "Master Rolls & Inks", "price": 18000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/HP-727-Black-Designjet-Ink-130-ML-Cartridge.webp", "imageFile": "HP-727-Black-Designjet-Ink-130-ML-Cartridge.webp", "description": `The HP 727 matte black ink cartridge (B3P22A) is the genuine Original HP 130ml black cartridge for the HP DesignJet T920 and T2500 generation of large-format plotters. These are high-volume production machines used for technical drawings, architectural plans, GIS output and presentations. This cartridge fits the same machines as the HP 727 130ml colour range.
 
 ## Compatible printers
@@ -3931,8 +4042,80 @@ Do I need the colours as well? Only for colour printing. Look for HP GT52 cyan, 
 How fast is delivery? Same day within Nairobi, next working day upcountry.
 Can I return it? Yes, provided the seal is unbroken.
 Does GT53XL replace GT51XL? Yes, GT53XL is the current version and supersedes the older GT51XL bottle.`, "metaTitle": "HP GT53XL Black Ink Bottle 135ml - Genuine HP Kenya", "metaDescription": "Genuine HP GT53XL 135ml black ink bottle, about 6,000 pages, for HP Smart Tank, Ink Tank and DeskJet GT printers. Nairobi stock, delivered Kenya-wide.", "inStock": true},
-  {"id": 5289, "sku": null, "name": "HP M0H50A Tri-Color GT52 Replacement Printhead", "brand": "HP", "category": "Master Rolls & Inks", "price": 3500, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/HP-M0H50A-Tri-Color-GT52-Replacement-Printhead.webp", "imageFile": "HP-M0H50A-Tri-Color-GT52-Replacement-Printhead.webp", "description": "HP M0H50A TRI-COLOR GT52 REPLACEMENT PRINTHEAD", "inStock": true},
-  {"id": 5288, "sku": null, "name": "HP M0H51A Black GT51 Replacement Printhead", "brand": "HP", "category": "Master Rolls & Inks", "price": 3500, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/HP-M0H51A-Black-GT51-Replacement-Printhead.webp", "imageFile": "HP-M0H51A-Black-GT51-Replacement-Printhead.webp", "description": "HP M0H51A BLACK GT51 REPLACEMENT PRINTHEAD", "inStock": true},
+  {"id": 5289, "sku": null, "name": "HP M0H50A Tri-Color GT52 Replacement Printhead", "brand": "HP", "category": "Master Rolls & Inks", "price": 3500, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/HP-M0H50A-Tri-Color-GT52-Replacement-Printhead.webp", "imageFile": "HP-M0H50A-Tri-Color-GT52-Replacement-Printhead.webp", "description": `The HP M0H50A Tri-Color GT52 Replacement Printhead is a vital maintenance part designed to restore your HP continuous ink tank printer to factory-fresh colour printing condition. Over thousands of pages, printheads can eventually wear out or become permanently clogged; this genuine replacement snaps easily into place to solve streaking, banding, or missing cyan, magenta, and yellow colours. It is an essential purchase if your machine is refusing to print colour despite having full ink tanks.
+
+## Compatible printers
+HP DeskJet GT 5810 All-in-One Printer
+HP DeskJet GT 5820 All-in-One Printer
+HP Ink Tank Wireless 415
+HP Ink Tank Wireless 419
+HP Ink Tank 315
+HP Ink Tank 319
+HP Smart Tank 500 All-in-One
+HP Smart Tank 515 Wireless All-in-One
+HP Smart Tank 530 Wireless All-in-One
+HP Smart Tank 615 Wireless All-in-One
+If your model isn't listed, send us the number from the front of the machine and we'll confirm before you pay.
+
+## Specifications
+| Page yield | Cartridge type | Colour | Capacity | Part number | Genuine or compatible |
+|---|---|---|---|---|---|
+| N/A | Printhead | Tri-Colour (CMY) | Standard | M0H50A | Genuine |
+
+## Genuine or compatible?
+This is a 100% genuine, Original HP printhead. Because the printhead is a highly precise piece of hardware that interfaces directly with the printer's electronics, we do not recommend or sell compatible versions of this part. Stick with the genuine HP product to ensure your printer works safely and correctly.
+
+## Why buy from Trinatech
+Locally held stock in Nairobi CBD.
+Delivery across Kenya including Kisumu, Nakuru, Eldoret and Mombasa.
+M-Pesa and bank transfer accepted securely.
+WhatsApp ordering available, walk-in at The One Mall River Road.
+
+## Getting the most from this cartridge
+To maximize the lifespan of your new printhead, always ensure your printer's colour ink tanks never run dry, as printing without ink will instantly burn out the microscopic nozzles. Turn the printer off using its own power button rather than a wall switch, so the printhead has time to park and seal itself. Run a printhead alignment from your printer's menu immediately after installation.
+
+## Frequently asked questions
+Is this an ink cartridge? No, this is a hardware replacement part. Your printer's liquid ink flows from the tanks into this printhead.
+Do I need the black printhead as well? You only need to replace the printhead that is failing (usually indicated by a blinking light or poor print quality).
+What is the delivery time? Same-day for Nairobi CBD; expect next-day delivery for other regions in Kenya.
+What is your warranty or returns policy? Genuine HP printheads carry a manufacturer warranty against electronic failure.
+Is it easy to install? Yes, it snaps into the carriage exactly like a standard inkjet cartridge.`, "metaTitle": "HP M0H50A Tri-Color Replacement Printhead", "metaDescription": "Genuine HP M0H50A tri-color printhead for HP DeskJet GT 5810, GT 5820, Ink Tank 315, 415 and Smart Tank series. Same-day Nairobi CBD delivery.", "inStock": true},
+  {"id": 5288, "sku": null, "name": "HP M0H51A Black GT51 Replacement Printhead", "brand": "HP", "category": "Master Rolls & Inks", "price": 3500, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/HP-M0H51A-Black-GT51-Replacement-Printhead.webp", "imageFile": "HP-M0H51A-Black-GT51-Replacement-Printhead.webp", "description": `The HP M0H51A Black GT51 Replacement Printhead is an essential hardware component required to revive the sharp, dark text capabilities of your HP DeskJet GT and Ink Tank series printers. When your printer begins producing faded text, blank pages, or persistent horizontal white lines despite having a full black ink tank, this printhead is likely exhausted. Installing this genuine replacement part instantly restores your machine's ability to produce crisp, laser-quality documents.
+
+## Compatible printers
+HP DeskJet GT 5810 All-in-One Printer
+HP DeskJet GT 5820 All-in-One Printer
+HP Ink Tank Wireless 410
+HP Ink Tank Wireless 415
+HP Ink Tank Wireless 419
+HP Ink Tank 310
+HP Ink Tank 315
+HP Ink Tank 319
+If your model isn't listed, send us the number from the front of the machine and we'll confirm before you pay.
+
+## Specifications
+| Page yield | Cartridge type | Colour | Capacity | Part number | Genuine or compatible |
+|---|---|---|---|---|---|
+| N/A | Printhead | Black | Standard | M0H51A | Genuine |
+
+## Genuine or compatible?
+Genuine, Original HP printhead in a factory-sealed box. Because this part contains hundreds of microscopic nozzles and interfaces directly with the printer's logic board, we strongly advise against using refurbished or third-party printheads. Genuine HP ensures optimal text sharpness and protects your Ink Tank printer from electrical faults.
+
+## Why buy from Trinatech
+Secure stock held in Nairobi CBD for rapid dispatch.
+Delivery across Kenya including Kisumu, Nakuru, Eldoret and Mombasa.
+M-Pesa and bank transfer accepted securely.
+WhatsApp ordering available, walk-in at The One Mall River Road.
+
+## Getting the most from this cartridge
+Always keep the printhead in its protective packaging until your printer specifically prompts you to replace the old unit. Avoid touching the copper electrical contacts or the nozzles on the bottom. To prevent premature wear on your new printhead, ensure your printer's black ink tank never drops below the minimum fill line, as "dry firing" destroys the printhead rapidly.
+
+## Frequently asked questions
+Will this fit my HP Smart Tank 515? No, the newer Smart Tank 500/600 series requires the X4E75A black printhead, not this M0H51A version.
+Does this include black ink? No, this product is the printhead hardware only. It draws ink from your existing tanks.
+What is the delivery time? We offer same-day delivery in Nairobi CBD, and next-day dispatch countrywide.
+What is your warranty or returns policy? We honour the standard HP warranty for factory-sealed, genuine hardware.
+Why are my prints still banded after replacing the ink? Banding is usually caused by a worn or clogged printhead like this one, not the ink itself.`, "metaTitle": "HP M0H51A Black Replacement Printhead", "metaDescription": "Genuine HP M0H51A black printhead for HP DeskJet GT 5810, GT 5820, Ink Tank 310, 315, 319, 415, 419. Stocked locally in Nairobi, delivered nationwide.", "inStock": true},
   {"id": 3502, "sku": null, "name": "HP M22F Fhd (1080P) Ips Frameless LED Backlit 22-INCH Monitor", "brand": "HP", "category": "Monitors", "price": 27000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2024/12/HP-M22f-Monitor.png", "imageFile": "HP-M22f-Monitor.png", "description": "The HP M22f 22-Inch Monitor delivers exceptional visual clarity with its Full HD (1080p) resolution and IPS technology.", "inStock": true},
   {"id": 3444, "sku": null, "name": "HP Scanjet Pro 3600 F1 Scanner", "brand": "HP", "category": "Scanner", "price": 70000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2024/12/HP-ScanJet-Pro-Scanner.png", "imageFile": "HP-ScanJet-Pro-Scanner.png", "description": "The HP ScanJet Pro 3600 f1 Scanner combines speed, efficiency, and high-quality scanning in a compact, easy-to-use package.", "inStock": true},
 ];

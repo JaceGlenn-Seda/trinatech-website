@@ -68,7 +68,39 @@ Does it damage the printhead? High-grade lubricated nylon fabric runs smoothly w
 How fast is Nairobi delivery? Same-day inside 1 to 3 hours.
 How do I pay? Pay via M-Pesa Buy Goods/Till or bank transfer.
 Is warranty provided? Covered against technical defects.`, "metaTitle": "Compatible Epson LX-350 Black Ribbon - Trinatech Kenya", "metaDescription": "Order compatible Epson LX-350 black ribbon cartridge in Nairobi. Yields ~4M characters for LX-300+II and LX-350. Fast Kenya delivery.", "inStock": true},
-  {"id": 5318, "sku": "T6735", "name": "Epson T6735 Light Cyan Ink Bottle 70ML", "brand": "Epson", "category": "Epson Ribbons & Inks", "price": 300, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/Epson-T6735-Light-Cyan-Ink-Bottle-70ML.webp", "imageFile": "Epson-T6735-Light-Cyan-Ink-Bottle-70ML.webp", "description": "EPSON T6735 LIGHT CYAN INK BOTTLE 70ML", "inStock": true},
+  {"id": 5318, "sku": "T6735", "name": "Epson T6735 Light Cyan Ink Bottle 70ML", "brand": "Epson", "category": "Epson Ribbons & Inks", "price": 300, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/Epson-T6735-Light-Cyan-Ink-Bottle-70ML.webp", "imageFile": "Epson-T6735-Light-Cyan-Ink-Bottle-70ML.webp", "description": `The Epson T6735 Light Cyan Compatible Ink Bottle provides an incredibly budget-friendly alternative for users of Epson's 6-colour EcoTank photo printers. Designed to perfectly match the viscosity and colour profile of the original dye-based ink, this 70ml bottle delivers excellent reproduction of skin tones and skies without the premium price tag. It is the perfect solution for busy photography students, design shops, and commercial printers looking to slash their cost per page on everyday drafts and internal portfolios.
+
+## Compatible printers
+Epson EcoTank L800
+Epson EcoTank L805
+Epson EcoTank L810
+Epson EcoTank L850
+Epson EcoTank L1800
+If your model isn't listed, send us the number from the front of the machine and we'll confirm before you pay.
+
+## Specifications
+| Page yield | Cartridge type | Colour | Capacity | Part number | Genuine or compatible |
+|---|---|---|---|---|---|
+| ~1,800 photos (Composite) | Ink Bottle (Dye) | Light Cyan | 70ml Standard | T6735 (Comp) | Compatible |
+
+## Genuine or compatible?
+This is a compatible ink bottle. It is manufactured to provide a cost-effective alternative that fits the exact same Epson EcoTank machines. It is not an original Epson product. We recommend this compatible version---or our Royal premium house brand---for businesses looking to aggressively lower their printing overheads on non-archival documents and draft photos without sacrificing print capacity.
+
+## Why buy from Trinatech
+Stock held locally in Nairobi CBD.
+Delivery across Kenya including Kisumu, Nakuru, Eldoret and Mombasa.
+M-Pesa and bank transfer accepted securely.
+WhatsApp ordering available, walk-in at The One Mall River Road.
+
+## Getting the most from this cartridge
+When refilling, ensure you pour this directly into the specifically designated "Light Cyan" (LC) tank, not the standard Cyan (C) tank, as mixing them will throw off your printer's colour calibration. Store any remaining ink upright in a cool, dry place. If your prints show faint horizontal lines after heavily using compatible inks, simply run a standard printhead cleaning cycle from your printer's utility menu.
+
+## Frequently asked questions
+Is there an XL or high-yield alternative? This 70ml bottle is designed to completely fill the printer's Light Cyan tank.
+Do I need other colours to print? Yes, Epson 6-colour EcoTanks require all six colours to be adequately filled to operate.
+What is the delivery time? Same-day for Nairobi CBD; expect next-day delivery for other regions in Kenya.
+What is your warranty or returns policy? We offer a replacement guarantee on compatible inks that fail out of the box.
+Will mixing this with genuine ink cause issues? This compatible ink is formulated to safely mix with residual original ink in the tank.`, "metaTitle": "Epson T6735 Light Cyan Compatible Ink", "metaDescription": "Compatible Epson T6735 light cyan ink bottle, 70ml, for EcoTank L800, L805, L810, L850, L1800 printers. Delivered anywhere in Kenya.", "inStock": true},
   {"id": 5283, "sku": null, "name": "Royal Premium Epson 103 Ink CMYK", "brand": "Epson", "category": "Master Rolls & Inks", "price": 400, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/Royal-Premium-Epson-103-Ink-CMYK.webp", "imageFile": "Royal-Premium-Epson-103-Ink-CMYK.webp", "description": `The Royal Premium Epson 103 Compatible Ink is Trinatech's trusted house brand, delivering incredible value for users of Epson EcoTank printers. Sold individually or as a CMYK set, these compatible bottles feature an anti-drip nozzle designed to fit perfectly into your printer's specialized tanks. They deliver bright, vibrant colours and sharp text that rivals the original, allowing you to slash your home or office printing costs without sacrificing the quality of your school projects, photos, and daily documents.
 
 ## Compatible printers

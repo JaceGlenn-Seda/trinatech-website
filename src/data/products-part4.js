@@ -1517,7 +1517,37 @@ What is the delivery time? We offer same-day delivery in Nairobi CBD, and next-d
 What is your warranty or returns policy? We provide the manufacturer's warranty on all genuine sealed products.
 Why is the ink smudging? You may need to lower your print density settings or use more absorbent paper.`, "metaTitle": "Riso FII Type Black Ink (F11)", "metaDescription": "Genuine Riso FII Type (F11) black ink for digital duplicators. Stocked in Nairobi CBD with fast, reliable delivery anywhere in Kenya.", "inStock": true},
   {"id": 5282, "sku": null, "name": "Gestetner CPMT20 Duplicator Master Paper", "brand": "Other", "category": "Master Rolls & Inks", "price": 900, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/Gestetner-CPMT20-Duplicator-Master-Paper.webp", "imageFile": "Gestetner-CPMT20-Duplicator-Master-Paper.webp", "description": "GESTETNER CPMT20 DUPLICATOR MASTER PAPER", "inStock": true},
-  {"id": 5281, "sku": null, "name": "Gestetner CPMT21 Cpi 10 Master Roll", "brand": "Other", "category": "Master Rolls & Inks", "price": 900, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/Gestetner-CPMT21-Cpi-10-Master-Roll.webp", "imageFile": "Gestetner-CPMT21-Cpi-10-Master-Roll.webp", "description": "GESTETNER CPMT21 CPI 10 MASTER ROLL", "inStock": true},
+  {"id": 5281, "sku": null, "name": "Gestetner CPMT21 Cpi 10 Master Roll", "brand": "Other", "category": "Master Rolls & Inks", "price": 900, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/Gestetner-CPMT21-Cpi-10-Master-Roll.webp", "imageFile": "Gestetner-CPMT21-Cpi-10-Master-Roll.webp", "description": `The Gestetner CPMT21 Compatible Master Roll provides high-volume commercial printers, schools, and churches with an exceptional alternative to expensive original duplicator supplies. Engineered to match the exact thermal sensitivity required by Gestetner digital duplicators, this high-quality stencil roll produces sharp, dark text and clear images for all your bulk printing needs. It allows you to run massive batches of documentation---such as exam papers and internal forms---while drastically slashing your operational budget.
+
+## Compatible printers
+Gestetner CP 6123
+Gestetner CP 6223
+Gestetner CP 6333
+If your model isn't listed, send us the number from the front of the machine and we'll confirm before you pay.
+
+## Specifications
+| Page yield | Cartridge type | Colour | Capacity | Part number | Genuine or compatible |
+|---|---|---|---|---|---|
+| ~200 masters | Duplicator Master | White/Stencil | Standard Roll | CPMT21 (Comp) | Compatible |
+
+## Genuine or compatible?
+This is a compatible duplicator master roll. It is a brand-new unit manufactured to perform just like the original, but it is not an OEM Gestetner product. This compatible alternative is perfect for schools, copy shops, and businesses that need to produce high volumes of monochrome documents on a tight budget while maintaining highly legible, professional output quality.
+
+## Why buy from Trinatech
+Reliable stock held in Nairobi CBD.
+Delivery across Kenya including Kisumu, Nakuru, Eldoret and Mombasa.
+M-Pesa and bank transfer accepted.
+WhatsApp ordering, walk-in at The One Mall River Road.
+
+## Getting the most from this cartridge
+To ensure flawless stencil cutting, keep the master roll sealed in its protective wrapping until the exact moment you load it into the duplicator. Always check that the machine's thermal head is clean before installing a new roll, as dust can cause faint lines or missing text on your final prints. For the best economy, try to bundle your print jobs so you print hundreds of copies per single master cut.
+
+## Frequently asked questions
+Is there an XL or high-yield alternative? This roll provides the standard maximum capacity (approx 200 masters) for these models.
+Do I need to replace the ink at the same time? No, the master roll and the black ink tube are replaced independently as they run out.
+What is the delivery time? Same-day delivery within Nairobi CBD and next-day for the rest of Kenya.
+What is your warranty or returns policy? We replace any compatible master rolls that show manufacturing defects upon installation.
+Why are my prints coming out blank? Ensure the master roll is loaded with the correct side facing the thermal head.`, "metaTitle": "Gestetner CPMT21 Compatible Master Roll", "metaDescription": "Compatible Gestetner CPMT21 master roll for Gestetner CP 6123, CP 6223 duplicators. Economical high-volume printing. Delivered across Kenya.", "inStock": true},
   {"id": 5224, "sku": "SM415", "name": "Gestetner DSM415 Black Toner Cartridge", "brand": "Other", "category": "Ricoh Toners", "price": 1200, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/08/5224_other_gestetner-dsm415-black-toner-cartridge.jpg", "imageFile": "5224_other_gestetner-dsm415-black-toner-cartridge.jpg", "description": "GESTETNER DSM415 BLACK TONER CARTRIDGE", "inStock": true},
   {"id": 5223, "sku": "SM615", "name": "Gestetner DSM615/DSM618 Black Toner Cartridge", "brand": "Other", "category": "Ricoh Toners", "price": 1200, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/08/5223_other_gestetner-dsm615-dsm618-black-toner-cartridge.jpg.png", "imageFile": "5223_other_gestetner-dsm615-dsm618-black-toner-cartridge.jpg.png", "description": "GESTETNER DSM615/DSM618 BLACK TONER CARTRIDGE", "inStock": true},
   {"id": 5258, "sku": null, "name": "Km 2050 Blade", "brand": "Other", "category": "Maintenance Kits & Spare Parts", "price": 1000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/Km-2050-Blade-scaled.webp", "imageFile": "Km-2050-Blade-scaled.webp", "description": "km 2050 blade", "inStock": true},

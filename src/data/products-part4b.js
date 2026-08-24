@@ -878,9 +878,96 @@ Does it need color cartridges? No, this series is strictly monochrome.
 How long does Nairobi delivery take? Delivered within a few hours across Nairobi CBD and suburbs.
 What are payment terms? Pay via M-Pesa or direct bank transfer on order placement or walk-in.
 Will this fit MP 2550? Yes, it fits MP 2510, MP 3010, and related model frames.`, "metaTitle": "Ricoh Type 2220D Black Toner Cartridge - Trinatech Kenya", "metaDescription": "Shop Ricoh Aficio Type 2220D black toner cartridge in Nairobi. Genuine high yield copier toner. Fast Kenya-wide shipping & M-Pesa accepted.", "inStock": true},
-  {"id": 4359, "sku": null, "name": "Ricoh DX-2330 Master Roll For Ricoh Copy Printer", "brand": "Ricoh", "category": "Inks & Toner Cartridges", "price": 1000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2025/01/Ricoh-DX-2330-Master-Roll.png", "imageFile": "Ricoh-DX-2330-Master-Roll.png", "description": "The Ricoh DX-2330 Master Roll is a high-performance consumable designed to deliver exceptional print quality and reliability for RICOH copy printers.", "inStock": true},
-  {"id": 5280, "sku": "DX-2330", "name": "Ricoh DX-2330 Master Roll Ricoh Copy Printer", "brand": "Ricoh", "category": "Master Rolls & Inks", "price": 900, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/Ricoh-DX-2330-Master-Roll-Ricoh-Copy-Printer.webp", "imageFile": "Ricoh-DX-2330-Master-Roll-Ricoh-Copy-Printer.webp", "description": "RICOH DX-2330 MASTER ROLL RICOH COPY PRINTER", "inStock": true},
-  {"id": 5279, "sku": "DX-2430", "name": "Ricoh DX-2430 Master Roll Copy Printer", "brand": "Ricoh", "category": "Master Rolls & Inks", "price": 900, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/Ricoh-DX-2430-Master-Roll-Copy-Printer.webp", "imageFile": "Ricoh-DX-2430-Master-Roll-Copy-Printer.webp", "description": "RICOH DX-2430 MASTER ROLL COPY PRINTER", "inStock": true},
+  {"id": 4359, "sku": null, "name": "Ricoh DX-2330 Master Roll For Ricoh Copy Printer", "brand": "Ricoh", "category": "Inks & Toner Cartridges", "price": 1000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2025/01/Ricoh-DX-2330-Master-Roll.png", "imageFile": "Ricoh-DX-2330-Master-Roll.png", "description": `The Ricoh DX-2330 Compatible Master Roll provides large offices, busy schools, and copy shops with an exceptional alternative to expensive original duplicator supplies. Engineered to match the exact thermal sensitivity required by Ricoh Priport duplicators, this high-quality stencil roll produces sharp, dark text and clear images for all your bulk printing needs. It allows you to run massive batches of documentation---such as newsletters and exam papers---while drastically slashing your budget.
+
+## Compatible printers
+Ricoh Priport DX 2330
+Ricoh Priport DX 2430
+If your model isn't listed, send us the number from the front of the machine and we'll confirm before you pay.
+
+## Specifications
+| Page yield | Cartridge type | Colour | Capacity | Part number | Genuine or compatible |
+|---|---|---|---|---|---|
+| ~200 masters | Duplicator Master | White/Stencil | Standard Roll | DX2330 (Comp) | Compatible |
+
+## Genuine or compatible?
+This is a compatible duplicator master roll. It is a brand-new unit manufactured to perform just like the original, but it is not an OEM Ricoh product. This compatible alternative is perfect for schools, copy shops, and businesses that need to produce high volumes of monochrome documents on a tight budget while maintaining professional output quality.
+
+## Why buy from Trinatech
+Reliable stock held in Nairobi CBD.
+Delivery across Kenya including Kisumu, Nakuru, Eldoret and Mombasa.
+M-Pesa and bank transfer accepted.
+WhatsApp ordering, walk-in at The One Mall River Road.
+
+## Getting the most from this cartridge
+To ensure flawless stencil cutting, keep the master roll sealed in its protective wrapping until the moment you load it into the duplicator. Always check that the machine's thermal head is clean before installing a new roll, as dust can cause faint lines or missing text on your final prints. For the best economy, try to bundle your print jobs so you print hundreds of copies per master.
+
+## Frequently asked questions
+Is there an XL or high-yield alternative? This roll provides the standard maximum capacity for the DX 2330 and DX 2430 models.
+Are the DX2330 and DX2430 masters the same? Yes, the DX 2330 and DX 2430 duplicators utilize the exact same master roll and ink.
+What is the delivery time? Same-day delivery within Nairobi CBD and next-day for the rest of Kenya.
+What is your warranty or returns policy? We replace any compatible master rolls that show manufacturing defects upon installation.
+Why are my prints coming out blank? Ensure the master roll is loaded with the correct side facing the thermal head.`, "metaTitle": "Ricoh DX-2330 Compatible Master Roll", "metaDescription": "Compatible Ricoh DX-2330 master roll for Ricoh Priport DX 2330 and DX 2430 duplicators. High quality replacement stock delivered safely in Kenya.", "inStock": true},
+  {"id": 5280, "sku": "DX-2330", "name": "Ricoh DX-2330 Master Roll Ricoh Copy Printer", "brand": "Ricoh", "category": "Master Rolls & Inks", "price": 900, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/Ricoh-DX-2330-Master-Roll-Ricoh-Copy-Printer.webp", "imageFile": "Ricoh-DX-2330-Master-Roll-Ricoh-Copy-Printer.webp", "description": `The Ricoh DX-2330 Compatible Master Roll is an essential, high-volume supply for Ricoh's compact digital duplicator series. Engineered to produce exceptionally sharp, clear text on high-speed print runs, this compatible stencil roll is a staple for schools, churches, and print shops across Kenya. By using this affordable supply, you ensure your duplicator runs reliably while keeping your cost per copy to the absolute bare minimum for internal documents and mass flyers.
+
+## Compatible printers
+Ricoh Priport DX 2330
+Ricoh Priport DX 2430
+If your model isn't listed, send us the number from the front of the machine and we'll confirm before you pay.
+
+## Specifications
+| Page yield | Cartridge type | Colour | Capacity | Part number | Genuine or compatible |
+|---|---|---|---|---|---|
+| ~200 masters | Duplicator Master | White/Stencil | Standard Roll | DX2330 (Comp) | Compatible |
+
+## Genuine or compatible?
+This is a highly reliable compatible master roll designed as a direct drop-in for Ricoh duplicators. It is not an original manufacturer product. For high-speed, high-volume internal document printing and draft copies where budget is the absolute priority, this compatible master offers unbeatable value per page compared to OEM supplies.
+
+## Why buy from Trinatech
+Stock held in Nairobi CBD for rapid dispatch.
+Delivery across Kenya including Kisumu, Nakuru, Eldoret and Mombasa.
+Secure payments via M-Pesa and bank transfer accepted.
+WhatsApp ordering, walk-in at The One Mall River Road.
+
+## Getting the most from this cartridge
+Always store your master rolls away from extreme temperatures. High heat can damage the thermal sensitivity of the roll. Digital duplicators are most efficient when printing hundreds of copies from a single master stencil; printing only small batches of five or ten copies per master will waste significant amounts of your roll and drive up your overall printing costs.
+
+## Frequently asked questions
+Is there an XL or high-yield alternative? This is the standard, maximum-yield size for the DX 2330 series.
+Do I need to replace the ink at the same time? No, the master roll and the black ink tube are replaced independently as they run out.
+What is the delivery time? Same-day delivery for Nairobi CBD, and next-day for the rest of Kenya.
+What is your warranty or returns policy? We offer a replacement guarantee on compatible masters that fail out of the box.
+Why is the machine not cutting the master? You may have loaded the roll upside down, or the cutter blade may need servicing.`, "metaTitle": "Ricoh DX-2330 Compatible Duplicator Master", "metaDescription": "Compatible Ricoh DX-2330 master roll for Ricoh Priport DX 2330 and DX 2430. Cost-effective bulk duplicator supplies. Fast delivery from Trinatech.", "inStock": true},
+  {"id": 5279, "sku": "DX-2430", "name": "Ricoh DX-2430 Master Roll Copy Printer", "brand": "Ricoh", "category": "Master Rolls & Inks", "price": 900, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/Ricoh-DX-2430-Master-Roll-Copy-Printer.webp", "imageFile": "Ricoh-DX-2430-Master-Roll-Copy-Printer.webp", "description": `The Ricoh DX-2430 Compatible Master Roll provides high-volume commercial printers, schools, and churches with an exceptional alternative to expensive original duplicator supplies. Engineered to match the exact thermal sensitivity required by Ricoh Priport duplicators, this high-quality stencil roll produces sharp, dark text and clear images for all your bulk printing needs. It allows you to run massive batches of documentation---such as exam papers and internal forms---while drastically slashing your operational budget.
+
+## Compatible printers
+Ricoh Priport DX 2330
+Ricoh Priport DX 2430
+If your model isn't listed, send us the number from the front of the machine and we'll confirm before you pay.
+
+## Specifications
+| Page yield | Cartridge type | Colour | Capacity | Part number | Genuine or compatible |
+|---|---|---|---|---|---|
+| ~200 masters | Duplicator Master | White/Stencil | Standard Roll | DX2430 (Comp) | Compatible |
+
+## Genuine or compatible?
+This is a compatible duplicator master roll. It is a brand-new unit manufactured to perform just like the original, but it is not an OEM Ricoh product. This compatible alternative is perfect for schools, copy shops, and businesses that need to produce high volumes of monochrome documents on a tight budget while maintaining highly legible, professional output quality.
+
+## Why buy from Trinatech
+Reliable stock held in Nairobi CBD.
+Delivery across Kenya including Kisumu, Nakuru, Eldoret and Mombasa.
+M-Pesa and bank transfer accepted.
+WhatsApp ordering, walk-in at The One Mall River Road.
+
+## Getting the most from this cartridge
+To ensure flawless stencil cutting, keep the master roll sealed in its protective wrapping until the exact moment you load it into the duplicator. Always check that the machine's thermal head is clean before installing a new roll, as dust can cause faint lines or missing text on your final prints. For the best economy, try to bundle your print jobs so you print hundreds of copies per single master cut.
+
+## Frequently asked questions
+Is there an XL or high-yield alternative? This roll provides the standard maximum capacity (approx 200 masters) for these models.
+Do I need to replace the ink at the same time? No, the master roll and the black ink tube are replaced independently as they run out.
+What is the delivery time? Same-day delivery within Nairobi CBD and next-day for the rest of Kenya.
+What is your warranty or returns policy? We replace any compatible master rolls that show manufacturing defects upon installation.
+Why are my prints coming out blank? Ensure the master roll is loaded with the correct side facing the thermal head.`, "metaTitle": "Ricoh DX-2430 Compatible Master Roll", "metaDescription": "Compatible Ricoh DX-2430 master roll for Ricoh Priport DX 2330 and DX 2430. Reliable stock at The One Mall River Road, delivering across Kenya.", "inStock": true},
   {"id": 4362, "sku": null, "name": "Ricoh DX-2430 Master Roll For Ricoh Copy Printer", "brand": "Ricoh", "category": "Inks & Toner Cartridges", "price": 900, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2025/01/Ricoh-DX-2430-Master-Roll.png", "imageFile": "Ricoh-DX-2430-Master-Roll.png", "description": "The Ricoh DX-2430 Master Roll is a premium-quality consumable designed for optimal performance with RICOH DX-2430 copy printers.", "inStock": true},
   {"id": 5213, "sku": null, "name": "Ricoh Im 3000/3500/4000 Cymk Toner Cartridges Each", "brand": "Ricoh", "category": "Ricoh Toners", "price": 1700, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/Ricoh-Im-3000-3500-4000-Cymk-Toner-Cartridges-Each.webp", "imageFile": "Ricoh-Im-3000-3500-4000-Cymk-Toner-Cartridges-Each.webp", "description": `The Ricoh IM 3000/3500/4000 Black Toner Cartridge powers Ricoh's modern intelligent monochrome multifunction printers. Designed to support high-speed scanning, copy workflows, and dense document output with sharp dark text.
 

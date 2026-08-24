@@ -176,7 +176,32 @@ Do I need a separate drum? No. The drum is built into the cartridge, so both are
 How fast is delivery? Same day within Nairobi, next working day to most towns.
 Can I return it? Yes, sealed and unused.
 I have seen this advertised at 2,700 pages. Which is right? 2,300 pages is HP's figure for the genuine cartridge. Higher numbers belong to non-genuine jumbo-fill products, which is a different thing entirely.`, "metaTitle": "HP 05A Black Toner Cartridge CE505A - Genuine HP Kenya", "metaDescription": "Genuine HP 05A black toner (CE505A), 2,300 pages, for HP LaserJet P2035, P2035n, P2055d and P2055dn. Nairobi stock, delivered across Kenya.", "inStock": true},
-  {"id": 5185, "sku": "CE505A", "name": "HP 05A Black Toner Laserjet (CE505A)", "brand": "HP", "category": "HP Original Toners", "price": 6000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/HP-05A-Black-Toner-Laserjet-CE505A.webp", "imageFile": "HP-05A-Black-Toner-Laserjet-CE505A.webp", "description": "HP 05A BLACK TONER LASERJET (CE505A", "inStock": true},
+  {"id": 5185, "sku": "CE505A", "name": "HP 05A Black Toner Laserjet (CE505A)", "brand": "HP", "category": "HP Original Toners", "price": 6000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/HP-05A-Black-Toner-Laserjet-CE505A.webp", "imageFile": "HP-05A-Black-Toner-Laserjet-CE505A.webp", "description": `The HP 05A Black Toner Laserjet (CE505A) supplies monochrome printing for HP LaserJet office desktop printers. Engineered for sharp dark text, crisp grayscale graphics, and trouble-free continuous document feeding across Kenya.
+
+## Compatible printers
+HP LaserJet P2035 / P2035n
+HP LaserJet P2055 / P2055d / P2055dn
+If your printer model isn't listed, send us the number from the front panel and we'll confirm before you pay.
+
+## Specifications
+| Page yield | Part type | Colour | Part number | Genuine or compatible |
+|---|---|---|---|---|
+| ~2,300 pages | Laser Toner Cartridge | Black | CE505A / HP 05A | Genuine / Compatible |
+
+## Genuine or compatible?
+Available in OEM Genuine HP cartridges as well as cost-effective Royal Compatible options.
+
+## Why buy from Trinatech
+Stock held in Nairobi CBD. Delivery across Kenya including Kisumu, Nakuru, Eldoret, and Mombasa. M-Pesa and bank transfer accepted. WhatsApp ordering and walk-in options at The One Mall, River Road.
+
+## Getting the most from this product
+Pull out the entire orange plastic pull-tab seal horizontally before installing into the toner cavity.
+
+## Frequently asked questions
+What is the page yield? ~2,300 standard pages.
+How fast is Nairobi delivery? Delivered within 1 to 3 hours in Nairobi.
+How can I pay? Pay via M-Pesa, bank wire, or cash.
+Is warranty provided? Covered against manufacturing defects.`, "metaTitle": "HP 05A Black Toner Cartridge (CE505A) Price", "metaDescription": "Shop genuine HP 05A Black LaserJet toner cartridge (CE505A) in Nairobi. Yields ~2,300 pages for P2035, P2055. Fast Kenya delivery.", "inStock": true},
   {"id": 5184, "sku": null, "name": "HP 103A Black Neverstop Toner Reload Kit (1103A)", "brand": "HP", "category": "HP Original Toners", "price": 4000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/HP-103A-Black-Neverstop-Toner-Reload-Kit-1103A.webp", "imageFile": "HP-103A-Black-Neverstop-Toner-Reload-Kit-1103A.webp", "description": `The HP 103A Neverstop toner reload kit is genuine Original HP toner, part number W1103A, for HP's cartridge-free Neverstop Laser printers. It is not a toner cartridge. You load it into a port on the printer and the toner flows into a tank built into the machine, which is what makes Neverstop the cheapest laser printing HP sells.
 
 ## Compatible printers
@@ -292,7 +317,33 @@ Do I need a separate drum? No. On this design the drum is part of the cartridge,
 How fast is delivery? Same day within Nairobi, next working day upcountry.
 Can I return it? Yes, sealed and unused.
 Is this the same as HP 105A? No. HP 105A is for a different HP Laser series. Send us your model number and we will match it before you pay.`, "metaTitle": "HP 107A Black Toner Cartridge W1107A - Genuine HP Kenya", "metaDescription": "Genuine HP 107A black toner (W1107A), 1,000 pages, for HP Laser 107a, 107w and MFP 135a, 135w, 137fnw. Nairobi stock, delivered across Kenya.", "inStock": true},
-  {"id": 5181, "sku": "W1107A", "name": "HP 107A Black Toner Cartridge (W1107A)", "brand": "HP", "category": "HP Original Toners", "price": 7500, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/HP-107A-Black-Toner-Cartridge-W1107A.webp", "imageFile": "HP-107A-Black-Toner-Cartridge-W1107A.webp", "description": "HP 107A BLACK TONER CARTRIDGE (W1107A", "inStock": true},
+  {"id": 5181, "sku": "W1107A", "name": "HP 107A Black Toner Cartridge (W1107A)", "brand": "HP", "category": "HP Original Toners", "price": 7500, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/HP-107A-Black-Toner-Cartridge-W1107A.webp", "imageFile": "HP-107A-Black-Toner-Cartridge-W1107A.webp", "description": `The HP 107A Black Toner Cartridge (W1107A) delivers crisp, clear text for HP entry-level laser printers. Compactly designed to maintain high page-to-page consistency, clean lines, and reliable performance across Kenya.
+
+## Compatible printers
+HP Laser 107a / 107w
+HP Laser MFP 135a / 135w / 135r
+HP Laser MFP 137fnw
+If your printer model isn't listed, send us the number from the front panel and we'll confirm before you pay.
+
+## Specifications
+| Page yield | Part type | Colour | Part number | Genuine or compatible |
+|---|---|---|---|---|
+| ~1,000 pages | Laser Toner Cartridge | Black | W1107A / HP 107A | Genuine / Compatible |
+
+## Genuine or compatible?
+Covers OEM Genuine HP toner cartridges as well as high-yield Compatible alternatives.
+
+## Why buy from Trinatech
+Stock held in Nairobi CBD. Delivery across Kenya including Kisumu, Nakuru, Eldoret, and Mombasa. M-Pesa and bank transfer accepted. WhatsApp ordering and walk-in options at The One Mall, River Road.
+
+## Getting the most from this product
+Remove the protective orange clips and pull out the sealing strip completely prior to installation.
+
+## Frequently asked questions
+What is the page yield? Approximately 1,000 pages at 5% coverage.
+How fast is Nairobi shipping? Same-day inside 1 to 3 hours.
+How do I pay? Pay via M-Pesa Buy Goods/Till or bank transfer.
+Is warranty provided? Covered against factory defects.`, "metaTitle": "HP 107A Black Toner Cartridge (W1107A) Price", "metaDescription": "Buy genuine HP 107A Black LaserJet toner cartridge (W1107A) in Nairobi. Yields ~1,000 pages for HP 107, MFP 135, MFP 137. Fast delivery.", "inStock": true},
   {"id": 4793, "sku": null, "name": "HP 117A Black Original Laserjet Toner Cartridge", "brand": "HP", "category": "Inks & Toner Cartridges", "price": 7500, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2025/07/HP-117A-Black-Original-Toner.png", "imageFile": "HP-117A-Black-Original-Toner.png", "description": `The HP 117A black toner cartridge is the genuine Original HP replacement, part number W2070A, for HP's compact Color Laser 150 and MFP 178 series. These are the entry-level colour lasers that put colour documents within reach of a small office without the running costs of a larger machine. Black is the cartridge that empties first on almost every colour laser, so it is the one worth keeping a spare of.
 
 ## Compatible printers
@@ -330,8 +381,60 @@ Do I need the colours too? Yes for colour printing. The matching HP 117A cyan, m
 How soon can I get it? Same day within Nairobi, next working day upcountry.
 Can I return it? Yes, sealed and unused.
 Will HP 116A fit instead? No. The 116A is for a different HP Color Laser range despite the similar printers. Confirm your model with us first.`, "metaTitle": "HP 117A Black Toner Cartridge W2070A - Genuine HP Kenya", "metaDescription": "Genuine HP 117A black toner (W2070A), 1,000 pages, for HP Color Laser 150a, 150nw and MFP 178nw, 179fnw. Nairobi stock, delivered Kenya-wide.", "inStock": true},
-  {"id": 5180, "sku": "W2070A", "name": "HP 117A Black Toner Cartridge (W2070A)", "brand": "HP", "category": "HP Original Toners", "price": 7500, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/HP-117A-Black-Toner-Cartridge-W2070A.webp", "imageFile": "HP-117A-Black-Toner-Cartridge-W2070A.webp", "description": "HP 117A BLACK TONER CARTRIDGE (W2070A", "inStock": true},
-  {"id": 5179, "sku": "CF214A-2", "name": "HP 117A Cym Toner Laserjet Cartridge Each (CF214A)", "brand": "HP", "category": "HP Original Toners", "price": 7500, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/HP-117A-Cym-Toner-Laserjet-Cartridge-Each-CF214A.webp", "imageFile": "HP-117A-Cym-Toner-Laserjet-Cartridge-Each-CF214A.webp", "description": "HP 117A CYM TONER LASERJET CARTRIDGE EACH (CF214A", "inStock": true},
+  {"id": 5180, "sku": "W2070A", "name": "HP 117A Black Toner Cartridge (W2070A)", "brand": "HP", "category": "HP Original Toners", "price": 7500, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/HP-117A-Black-Toner-Cartridge-W2070A.webp", "imageFile": "HP-117A-Black-Toner-Cartridge-W2070A.webp", "description": `The HP 117A Black Toner Cartridge (W2070A) supplies crisp black text rendering for compact HP Color Laser printers. Engineered to ensure sharp monochrome document output and reliable page counts in Kenya.
+
+## Compatible printers
+HP Color Laser 150a / 150nw
+HP Color Laser MFP 178nw / 178nwg
+HP Color Laser MFP 179fnw / 179fwg
+If your printer model isn't listed, send us the number from the front panel and we'll confirm before you pay.
+
+## Specifications
+| Page yield | Part type | Colour | Part number | Genuine or compatible |
+|---|---|---|---|---|
+| ~1,000 pages | Laser Toner Cartridge | Black | W2070A / HP 117A | Genuine / Compatible |
+
+## Genuine or compatible?
+Available in OEM Genuine HP toner cartridges as well as cost-effective Compatible alternatives.
+
+## Why buy from Trinatech
+Stock held in Nairobi CBD. Delivery across Kenya including Kisumu, Nakuru, Eldoret, and Mombasa. M-Pesa and bank transfer accepted. WhatsApp ordering and walk-in options at The One Mall, River Road.
+
+## Getting the most from this product
+Rock the cartridge side-to-side 5 times before placing it into the printer black toner slot.
+
+## Frequently asked questions
+What is the page yield? ~1,000 pages.
+How fast is Nairobi delivery? Delivered within 1 to 3 hours across Nairobi.
+How can I pay? Pay via M-Pesa or bank wire.
+Is warranty provided? Covered against defects.`, "metaTitle": "HP 117A Black LaserJet Toner Cartridge (W2070A)", "metaDescription": "Order genuine HP 117A Black toner cartridge (W2070A) in Nairobi. Yields ~1,000 pages for Color Laser 150, MFP 178, MFP 179. Fast delivery.", "inStock": true},
+  {"id": 5179, "sku": "CF214A-2", "name": "HP 117A Cym Toner Laserjet Cartridge Each (CF214A)", "brand": "HP", "category": "HP Original Toners", "price": 7500, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/HP-117A-Cym-Toner-Laserjet-Cartridge-Each-CF214A.webp", "imageFile": "HP-117A-Cym-Toner-Laserjet-Cartridge-Each-CF214A.webp", "description": `The HP 117A Cym Toner Laserjet Cartridge Each supplies high-quality individual color cartridges (Cyan W2071A, Yellow W2072A, Magenta W2073A) for HP Color Laser 150 and 170 MFP series. Formulated to ensure crisp image contrast and vivid photo colors in Nairobi.
+
+## Compatible printers
+HP Color Laser 150a / 150nw
+HP Color Laser MFP 178nw / 178nwg
+HP Color Laser MFP 179fnw / 179fwg
+If your printer model isn't listed, send us the number from the front panel and we'll confirm before you pay.
+
+## Specifications
+| Page yield | Part type | Colour | Part number | Genuine or compatible |
+|---|---|---|---|---|
+| ~700 pages each | Laser Toner Cartridge | Cyan, Yellow, Magenta | W2071A / W2072A / W2073A | Genuine / Compatible |
+
+## Genuine or compatible?
+Covers OEM Genuine HP color cartridges and premium Compatible options for low cost-per-page operation.
+
+## Why buy from Trinatech
+Stock held in Nairobi CBD. Delivery across Kenya including Kisumu, Nakuru, Eldoret, and Mombasa. M-Pesa and bank transfer accepted. WhatsApp ordering and walk-in options at The One Mall, River Road.
+
+## Getting the most from this product
+Check the color-coded tray slots carefully during installation to ensure correct cartridge placement.
+
+## Frequently asked questions
+Are these sold individually? Yes, available per color (Cyan, Yellow, or Magenta).
+How fast is Nairobi delivery? Same-day inside 1 to 3 hours.
+How do I pay? M-Pesa Buy Goods/Till or bank wire.
+Is warranty provided? Covered against manufacturing defects.`, "metaTitle": "HP 117A Color LaserJet Toner Set - Trinatech Kenya", "metaDescription": "Shop HP 117A Color LaserJet toner cartridges (Cyan, Yellow, Magenta) in Nairobi. Fits Color Laser 150 & MFP 178, 179 series. Fast delivery.", "inStock": true},
   {"id": 5178, "sku": "Q6511A", "name": "HP 11A Black Toner Original Laserjet (Q6511A)", "brand": "HP", "category": "HP Original Toners", "price": 11000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/HP-11A-Black-Toner-Original-Laserjet-Q6511A.webp", "imageFile": "HP-11A-Black-Toner-Original-Laserjet-Q6511A.webp", "description": "The HP 11A black toner cartridge is the genuine Original HP replacement, part number Q6511A, for the HP LaserJet 2410, 2420 and 2430 series. These were workgroup machines built to a standard that has kept many of them running long past their contemporaries.\n\n## Compatible printers\nHP LaserJet 2410 Printer\nHP LaserJet 2410n Printer\nHP LaserJet 2420 Printer\nHP LaserJet 2420d Printer\nHP LaserJet 2420dn Printer\nHP LaserJet 2420n Printer\nHP LaserJet 2430 Printer\nHP LaserJet 2430n Printer\nHP LaserJet 2430t Printer\nHP LaserJet 2430tn Printer\nIf your model isn't listed, send us the number from the front of the machine and we'll confirm before you pay.\n\n## Specifications\n| Page yield | Cartridge type | Colour | Capacity | Part number | Genuine or compatible |\n|---|---|---|---|---|---|\n| 6,000 pages at 5% coverage | Laser toner cartridge | Black | Standard capacity | Q6511A | Genuine Original HP |\n\n## Genuine or compatible?\nGenuine, Original HP in the sealed box. Not a refill and not our Royal house brand, which is always sold under the Royal name. HP has discontinued this cartridge, which matters when you are buying: remaining genuine stock is finite, and the gap gets filled by remanufactured and counterfeit product. The signs of a fake are grey rather than black text, poor fusing and toner escaping into the machine. On a printer that has already given you years of service, that is a poor trade. Ask us and we will tell you honestly what we hold.\n\n## Why buy from Trinatech\nDepartmental-class stock held in the Nairobi CBD rather than ordered in on request.\nCountrywide courier delivery, Nakuru, Eldoret, Kisumu and Mombasa included.\nM-Pesa or bank transfer, with proper invoicing and LPO handling for corporate accounts.\nWhatsApp us the model number, or visit The One Mall on River Road.\n\n## Getting the most from this cartridge\nRock the cartridge gently side to side before fitting and remove the sealing strip completely.\nWhen print goes faint, take it out and rock it again before ordering. On these older designs that reliably buys another fifty pages or so.\nStore spares flat and boxed, away from heat and damp. Toner clumps in humidity and clumped toner streaks down the page.\n6,000 pages assumes 5% coverage. Forms, invoices with heavy rules and dark headers will come in under that.\n\n## Frequently asked questions\nIs there a higher-yield version? Yes, HP 11X (Q6511X) fits the same printers and holds around 12,000 pages, double the 11A.\nDo I need a separate drum? No. The drum is built into the cartridge, so both are replaced together.\nHow fast is delivery? Same day within Nairobi, next working day to most towns.\nCan I return it? Yes, sealed and unused.\nMy printer is well over a decade old. Is it still worth buying toner for? Usually yes. These machines were built to last and a cartridge costs a fraction of a replacement printer. If the drum or fuser is failing, we will tell you rather than sell you toner that will not fix it.", "metaTitle": "HP 11A Black Toner Q6511A - Genuine HP Kenya", "metaDescription": "Genuine HP 11A black toner (Q6511A), 6,000 pages, for LaserJet 2410 Printer and related models. Nairobi stock, delivered across Kenya.", "inStock": true},
   {"id": 5177, "sku": "W1120", "name": "HP 120A Imaging Drum (W1120)", "brand": "HP", "category": "HP Original Toners", "price": 15000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/HP-120A-Imaging-Drum-W1120.webp", "imageFile": "HP-120A-Imaging-Drum-W1120.webp", "description": `The HP 120A Imaging Drum (W1120) is an original replacement imaging drum unit designed for compact HP color laser printers. Engineered to work in tandem with individual toner cartridges to deliver sharp black text and vibrant color output across Kenya.
 
@@ -367,7 +470,33 @@ Does this include toner? No, the 120A is the imaging drum unit; toner cartridges
 How fast is Nairobi delivery? Delivered within 1 to 3 hours across Nairobi CBD.
 How can I pay? Pay via M-Pesa Buy Goods/Till, bank wire, or cash.
 Is warranty provided? Covered under HP manufacturer warranty.`, "metaTitle": "HP 120A Imaging Drum W1120 Price - Trinatech Kenya", "metaDescription": "Buy genuine HP 120A imaging drum W1120 in Nairobi. Yields ~16,000 pages for HP Color Laser 150a, 150nw, MFP 178nw, 179fnw. Fast delivery.", "inStock": true},
-  {"id": 5502, "sku": "CC640H-2", "name": "HP 121 Black Ink Original Cartridge (CC640HE)", "brand": "HP", "category": "Original Hp Ink Cartridges", "price": 2800, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/HP-121-Black-Ink-Original-Cartridge-CC640HE.webp", "imageFile": "HP-121-Black-Ink-Original-Cartridge-CC640HE.webp", "description": "HP 121 BLACK INK ORIGINAL CARTRIDGE (CC640HE", "inStock": true},
+  {"id": 5502, "sku": "CC640H-2", "name": "HP 121 Black Ink Original Cartridge (CC640HE)", "brand": "HP", "category": "Original Hp Ink Cartridges", "price": 2800, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/HP-121-Black-Ink-Original-Cartridge-CC640HE.webp", "imageFile": "HP-121-Black-Ink-Original-Cartridge-CC640HE.webp", "description": `The HP 121 Black Ink Original Cartridge (CC640HE) provides original HP black ink performance for home DeskJet printers. Formulated to produce crisp everyday documents, dark text prints, and smudge-resistant text in Kenya.
+
+## Compatible printers
+HP DeskJet D1660 / D2560 / D2660 / D5560
+HP DeskJet F2480 / F4280 / F4580 All-in-One
+HP Photosmart C4680 / C4780 All-in-One
+If your printer model isn't listed, send us the number from the front panel and we'll confirm before you pay.
+
+## Specifications
+| Page yield | Part type | Colour | Part number | Genuine or compatible |
+|---|---|---|---|---|
+| ~200 pages | Inkjet Cartridge | Black | CC640HE / HP 121 | Genuine |
+
+## Genuine or compatible?
+Genuine Original HP product entry. Compatible alternatives are also stocked for reduced costs.
+
+## Why buy from Trinatech
+Stock held in Nairobi CBD. Delivery across Kenya including Kisumu, Nakuru, Eldoret, and Mombasa. M-Pesa and bank transfer accepted. WhatsApp ordering and walk-in options at The One Mall, River Road.
+
+## Getting the most from this product
+Peel off the pink protective tape tab over the nozzles before snapping into the print carriage.
+
+## Frequently asked questions
+What is the page yield? ~200 standard pages.
+How fast is Nairobi shipping? Same-day inside 1 to 3 hours.
+How can I pay? Pay via M-Pesa, bank wire, or cash.
+Is warranty provided? Covered under HP warranty.`, "metaTitle": "HP 121 Black Original Ink Cartridge (CC640HE)", "metaDescription": "Buy genuine HP 121 Black ink cartridge (CC640HE) in Nairobi. Yields ~200 pages for DeskJet D1660, D2560, F4280. Fast delivery across Kenya.", "inStock": true},
   {"id": 3588, "sku": null, "name": "HP 121 Black Original Ink Cartridge", "brand": "HP", "category": "Inks & Toner Cartridges", "price": 4500, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2024/12/HP-121-Black-Ink.png", "imageFile": "HP-121-Black-Ink.png", "description": `The HP 121 black ink cartridge is the genuine Original HP replacement, part number CC640HE, for older HP DeskJet, PhotoSmart and ENVY all-in-ones. It is aimed at the small office still running a reliable machine from that generation, where the printer works fine and only the ink has run out. Pigment-based black ink means text holds up to handling, stamping and filing.
 
 ## Compatible printers
@@ -403,7 +532,33 @@ Do I need the colour cartridge too? Only if you print in colour, but most of the
 How fast is delivery? Same day within Nairobi, next working day to most other towns.
 What if it does not work in my printer? Return it sealed and unused and we will exchange it or refund you.
 Why does my printer say the cartridge is low when it is new? Reseat it and clean the contacts with a dry cloth first, then run the printer's cartridge check.`, "metaTitle": "HP 121 Black Ink Cartridge CC640HE - Genuine HP Kenya", "metaDescription": "Genuine HP 121 black ink cartridge (CC640HE), about 200 pages. Fits DeskJet D2560, F4280 and more. Nairobi stock, delivery countrywide.", "inStock": true},
-  {"id": 5501, "sku": "CC640H", "name": "HP 121 Tri Color Ink Original Cartridge (CC640HE)", "brand": "HP", "category": "Original Hp Ink Cartridges", "price": 3500, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/HP-121-Tri-Color-Ink-Original-Cartridge-CC640HE.webp", "imageFile": "HP-121-Tri-Color-Ink-Original-Cartridge-CC640HE.webp", "description": "HP 121 TRI COLOR INK ORIGINAL CARTRIDGE (CC640HE", "inStock": true},
+  {"id": 5501, "sku": "CC640H", "name": "HP 121 Tri Color Ink Original Cartridge (CC640HE)", "brand": "HP", "category": "Original Hp Ink Cartridges", "price": 3500, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/HP-121-Tri-Color-Ink-Original-Cartridge-CC640HE.webp", "imageFile": "HP-121-Tri-Color-Ink-Original-Cartridge-CC640HE.webp", "description": `The HP 121 Tri Color Ink Original Cartridge (CC643HE) delivers original HP multi-color performance for home photo and document printing. Engineered for natural color hues, sharp photo output, and reliable cartridge jetting in Nairobi.
+
+## Compatible printers
+HP DeskJet D1660 / D2560 / D2660 / D5560
+HP DeskJet F2480 / F4280 / F4580 All-in-One
+HP Photosmart C4680 / C4780 All-in-One
+If your printer model isn't listed, send us the number from the front panel and we'll confirm before you pay.
+
+## Specifications
+| Page yield | Part type | Colour | Part number | Genuine or compatible |
+|---|---|---|---|---|
+| ~165 pages | Inkjet Cartridge | Tri-Color (C/M/Y) | CC643HE / HP 121 | Genuine |
+
+## Genuine or compatible?
+Genuine Original HP product entry.
+
+## Why buy from Trinatech
+Stock held in Nairobi CBD. Delivery across Kenya including Kisumu, Nakuru, Eldoret, and Mombasa. M-Pesa and bank transfer accepted. WhatsApp ordering and walk-in options at The One Mall, River Road.
+
+## Getting the most from this product
+Remove the protective nozzle strip without touching the copper contacts.
+
+## Frequently asked questions
+What is the page yield? ~165 pages at 5% coverage.
+How fast is Nairobi delivery? Same-day inside 1 to 3 hours.
+How do I pay? Pay via M-Pesa Buy Goods/Till or bank transfer.
+Is warranty included? Official HP warranty.`, "metaTitle": "HP 121 Tri-Color Original Ink Cartridge (CC643HE)", "metaDescription": "Order genuine HP 121 Tri-Color ink cartridge (CC643HE) in Nairobi. Fits DeskJet D1660, D2560, F4280, Photosmart C4680. Fast shipping.", "inStock": true},
   {"id": 3590, "sku": null, "name": "HP 121 Tri-Colour Original Ink Cartridge", "brand": "HP", "category": "Inks & Toner Cartridges", "price": 4000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2024/12/HP-121-Tri-color-Original-Ink.png", "imageFile": "HP-121-Tri-color-Original-Ink.png", "description": `The HP 121 tri-colour ink cartridge is the genuine Original HP colour cartridge, part number CC643HE, carrying cyan, magenta and yellow in a single unit. It is what you need for logos on letterheads, charts inside a report or the occasional colour certificate. It works alongside the HP 121 black, and most of these printers will not run until both are fitted.
 
 ## Compatible printers
@@ -439,7 +594,34 @@ Do I need the black cartridge as well? Yes, in practice. Most of these printers 
 How long does delivery take? Same day in Nairobi, next working day upcountry.
 Can I return it? Yes, if it is sealed and unused.
 One colour ran out but the others look full. Can I refill just that colour? No. The three colours share one cartridge body and it is replaced whole.`, "metaTitle": "HP 121 Tri-Colour Ink Cartridge CC643HE - Genuine HP", "metaDescription": "Genuine HP 121 tri-colour ink (CC643HE): cyan, magenta and yellow in one cartridge, about 165 pages. Nairobi stock, delivered Kenya-wide.", "inStock": true},
-  {"id": 5500, "sku": "CH561H-3", "name": "HP 122 Black Ink Cartridge (CH561HE)", "brand": "HP", "category": "Original Hp Ink Cartridges", "price": 2500, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/HP-122-Black-Ink-Cartridge-CH561HE.webp", "imageFile": "HP-122-Black-Ink-Cartridge-CH561HE.webp", "description": "HP 122 BLACK INK CARTRIDGE (CH561HE", "inStock": true},
+  {"id": 5500, "sku": "CH561H-3", "name": "HP 122 Black Ink Cartridge (CH561HE)", "brand": "HP", "category": "Original Hp Ink Cartridges", "price": 2500, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/HP-122-Black-Ink-Cartridge-CH561HE.webp", "imageFile": "HP-122-Black-Ink-Cartridge-CH561HE.webp", "description": `The HP 122 Black Ink Cartridge (CH561HE) supplies original black ink for HP compact DeskJet All-in-One printers. Formulated to produce clear text documents, everyday school work, and smudge-proof prints across Kenya.
+
+## Compatible printers
+HP DeskJet 1000 / 1050 / 1050a
+HP DeskJet 2000 / 2050 / 2050a
+HP DeskJet 3000 / 3050 / 3050a
+HP DeskJet 1510 / 2540 All-in-One
+If your printer model isn't listed, send us the number from the front panel and we'll confirm before you pay.
+
+## Specifications
+| Page yield | Part type | Colour | Part number | Genuine or compatible |
+|---|---|---|---|---|
+| ~120 pages | Inkjet Cartridge | Black | CH561HE / HP 122 | Genuine / Compatible |
+
+## Genuine or compatible?
+Covers OEM Genuine HP ink cartridges as well as budget-friendly Compatible options.
+
+## Why buy from Trinatech
+Stock held in Nairobi CBD. Delivery across Kenya including Kisumu, Nakuru, Eldoret, and Mombasa. M-Pesa and bank transfer accepted. WhatsApp ordering and walk-in options at The One Mall, River Road.
+
+## Getting the most from this product
+Pull off the protective pull tab tape prior to inserting into the left carriage carrier.
+
+## Frequently asked questions
+What is the page yield? ~120 pages (Standard) / XL version yields ~480 pages.
+How fast is Nairobi delivery? Delivered in 1 to 3 hours across Nairobi.
+How can I pay? Pay via M-Pesa or bank transfer.
+Is warranty provided? Covered against factory defects.`, "metaTitle": "HP 122 Black Original Ink Cartridge (CH561HE)", "metaDescription": "Shop genuine HP 122 Black ink cartridge (CH561HE) in Nairobi. Yields ~120 pages for DeskJet 1000, 1050, 2000, 2050, 3050. Fast delivery.", "inStock": true},
   {"id": 3911, "sku": null, "name": "HP 122 Black Original Ink Cartridge", "brand": "HP", "category": "Inks & Toner Cartridges", "price": 2700, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2024/12/HP-122-Black-Original-Ink.png", "imageFile": "HP-122-Black-Original-Ink.png", "description": `The HP 122 black ink cartridge is the genuine Original HP replacement, part number CH561HE, for the compact DeskJet range that HP sold widely across Kenya. If your DeskJet 1050 or 2050 has stopped mid-invoice, this is the part. It uses pigment black ink, which is the right choice for documents that get handled, filed and read years later.
 
 ## Compatible printers
@@ -479,7 +661,34 @@ Do I need the tri-colour as well? Only for colour work, though most of these mod
 How quickly can I get it? Same day within Nairobi, next working day to most towns.
 Will you take it back if it is wrong? Yes, sealed and unused.
 Will it fit a DeskJet 1050A, 2050A or 3050A? Very likely, but those exact variants are not named in HP's own list, so check with us first rather than risk a return.`, "metaTitle": "HP 122 Black Ink Cartridge CH561HE - Genuine HP Kenya", "metaDescription": "Genuine HP 122 black ink (CH561HE), about 120 pages, for DeskJet 1000, 1050, 2050 and 3050. Nairobi stock, delivered across Kenya.", "inStock": true},
-  {"id": 5499, "sku": "CH562H", "name": "HP 122 Tri Color Ink Cartridge (CH562HE)", "brand": "HP", "category": "Original Hp Ink Cartridges", "price": 3000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/HP-122-Tri-Color-Ink-Cartridge-CH562HE.webp", "imageFile": "HP-122-Tri-Color-Ink-Cartridge-CH562HE.webp", "description": "HP 122 TRI COLOR INK CARTRIDGE (CH562HE", "inStock": true},
+  {"id": 5499, "sku": "CH562H", "name": "HP 122 Tri Color Ink Cartridge (CH562HE)", "brand": "HP", "category": "Original Hp Ink Cartridges", "price": 3000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/HP-122-Tri-Color-Ink-Cartridge-CH562HE.webp", "imageFile": "HP-122-Tri-Color-Ink-Cartridge-CH562HE.webp", "description": `The HP 122 Tri Color Ink Cartridge (CH562HE) is an original HP multi-color ink cartridge for entry-level DeskJet printers. Formulated to produce bright graphics, sharp color photos, and clean document highlights in Nairobi.
+
+## Compatible printers
+HP DeskJet 1000 / 1050 / 1050a
+HP DeskJet 2000 / 2050 / 2050a
+HP DeskJet 3000 / 3050 / 3050a
+HP DeskJet 1510 / 2540 All-in-One
+If your printer model isn't listed, send us the number from the front panel and we'll confirm before you pay.
+
+## Specifications
+| Page yield | Part type | Colour | Part number | Genuine or compatible |
+|---|---|---|---|---|
+| ~100 pages | Inkjet Cartridge | Tri-Color (C/M/Y) | CH562HE / HP 122 | Genuine / Compatible |
+
+## Genuine or compatible?
+Available in OEM Genuine HP cartridges as well as high-yield Compatible options.
+
+## Why buy from Trinatech
+Stock held in Nairobi CBD. Delivery across Kenya including Kisumu, Nakuru, Eldoret, and Mombasa. M-Pesa and bank transfer accepted. WhatsApp ordering and walk-in options at The One Mall, River Road.
+
+## Getting the most from this product
+Remove the protective plastic strip without touching nozzle circuitry.
+
+## Frequently asked questions
+What is the page yield? ~100 pages.
+How fast is Nairobi delivery? Same-day inside 1 to 3 hours.
+How do I pay? Pay via M-Pesa Buy Goods/Till or bank wire.
+Is warranty included? Covered against defects.`, "metaTitle": "HP 122 Tri-Color Ink Cartridge (CH562HE) Price", "metaDescription": "Order genuine HP 122 Tri-Color ink cartridge (CH562HE) in Nairobi. Fits DeskJet 1000, 1050, 2000, 2050, 3050. Fast delivery Kenya.", "inStock": true},
   {"id": 3914, "sku": null, "name": "HP 122 Tri-Colour Original Ink Cartridge", "brand": "HP", "category": "Inks & Toner Cartridges", "price": 2600, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2024/12/HP-122-Tri-colour-Original-Ink.png", "imageFile": "HP-122-Tri-colour-Original-Ink.png", "description": `The HP 122 tri-colour ink cartridge is the genuine Original HP colour cartridge, part number CH562HE, for the compact DeskJet family. Cyan, magenta and yellow sit in one unit, so a single cartridge covers everything from a coloured letterhead to a chart in a monthly report. It pairs with the HP 122 black, and most of these DeskJets want both installed before they will print.
 
 ## Compatible printers
@@ -519,9 +728,87 @@ Do I need the black cartridge too? Yes in most cases, as these printers will usu
 How soon can I have it? Same day in Nairobi, next working day upcountry.
 What is your returns position? Sealed and unused items can be exchanged or refunded.
 Can I replace only the colour that ran out? No. All three colours share one cartridge and it is replaced as a unit.`, "metaTitle": "HP 122 Tri-Colour Ink Cartridge CH562HE - Genuine HP", "metaDescription": "Genuine HP 122 tri-colour ink (CH562HE), about 100 pages, for DeskJet 1000, 1050, 2050 and 3050. Nairobi stock, countrywide delivery.", "inStock": true},
-  {"id": 5498, "sku": null, "name": "HP 123 Black Ink Advantage Cartridge (C2P10AE)", "brand": "HP", "category": "Original Hp Ink Cartridges", "price": 3500, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/HP-123-Black-Ink-Advantage-Cartridge-C2P10AE.webp", "imageFile": "HP-123-Black-Ink-Advantage-Cartridge-C2P10AE.webp", "description": "HP 123 BLACK INK ADVANTAGE CARTRIDGE (C2P10AE", "inStock": true},
-  {"id": 5497, "sku": null, "name": "HP 123 Black Original Ink Cartridge (F6V17AE)", "brand": "HP", "category": "Original Hp Ink Cartridges", "price": 2200, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/HP-123-Black-Original-Ink-Cartridge-F6V17AE.webp", "imageFile": "HP-123-Black-Original-Ink-Cartridge-F6V17AE.webp", "description": "HP 123 BLACK ORIGINAL INK CARTRIDGE (F6V17AE", "inStock": true},
-  {"id": 5496, "sku": null, "name": "HP 123 Tri Color Original Ink Cartridge (F6V16AE)", "brand": "HP", "category": "Original Hp Ink Cartridges", "price": 2200, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/HP-123-Tri-Color-Original-Ink-Cartridge-F6V16AE.webp", "imageFile": "HP-123-Tri-Color-Original-Ink-Cartridge-F6V16AE.webp", "description": "HP 123 TRI COLOR ORIGINAL INK CARTRIDGE (F6V16AE", "inStock": true},
+  {"id": 5498, "sku": null, "name": "HP 123 Black Ink Advantage Cartridge (C2P10AE)", "brand": "HP", "category": "Original Hp Ink Cartridges", "price": 3500, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/HP-123-Black-Ink-Advantage-Cartridge-C2P10AE.webp", "imageFile": "HP-123-Black-Ink-Advantage-Cartridge-C2P10AE.webp", "description": `The HP 123 Black Ink Advantage Cartridge (F6V17AE / C2P10AE) provides original black ink performance for HP DeskJet Ink Advantage series. Formulated to produce crisp, clear text documents and everyday office prints across Kenya.
+
+## Compatible printers
+HP DeskJet 2130 / 2132 / 2630 / 2632
+HP DeskJet 3630 / 3639 / 3720 / 3730
+HP DeskJet Ink Advantage 3830 / 4535 / 4675
+If your printer model isn't listed, send us the number from the front panel and we'll confirm before you pay.
+
+## Specifications
+| Page yield | Part type | Colour | Part number | Genuine or compatible |
+|---|---|---|---|---|
+| ~120 pages | Inkjet Cartridge | Black | F6V17AE / HP 123 | Genuine / Compatible |
+
+## Genuine or compatible?
+Covers OEM Genuine HP Ink Advantage cartridges as well as cost-effective Compatible alternatives.
+
+## Why buy from Trinatech
+Stock held in Nairobi CBD. Delivery across Kenya including Kisumu, Nakuru, Eldoret, and Mombasa. M-Pesa and bank transfer accepted. WhatsApp ordering and walk-in options at The One Mall, River Road.
+
+## Getting the most from this product
+Peel off the protective tape cover before inserting into the black ink carriage slot.
+
+## Frequently asked questions
+What is the page yield? ~120 pages (Standard) / XL version yields ~480 pages.
+How fast is Nairobi delivery? Delivered within 1 to 3 hours in Nairobi CBD.
+How can I pay? Pay via M-Pesa or bank transfer.
+Is warranty provided? Covered against factory defects.`, "metaTitle": "HP 123 Black Original Ink Cartridge (F6V17AE)", "metaDescription": "Buy genuine HP 123 Black ink cartridge (F6V17AE) in Nairobi. Yields ~120 pages for DeskJet 2130, 2630, 3630, 3830. Fast delivery Kenya.", "inStock": true},
+  {"id": 5497, "sku": null, "name": "HP 123 Black Original Ink Cartridge (F6V17AE)", "brand": "HP", "category": "Original Hp Ink Cartridges", "price": 2200, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/HP-123-Black-Original-Ink-Cartridge-F6V17AE.webp", "imageFile": "HP-123-Black-Original-Ink-Cartridge-F6V17AE.webp", "description": `The HP 123 Black Original Ink Cartridge (F6V17AE) provides original black ink performance for HP DeskJet Ink Advantage series. Formulated to produce crisp, clear text documents and everyday office prints across Kenya.
+
+## Compatible printers
+HP DeskJet 2130 / 2132 / 2630 / 2632
+HP DeskJet 3630 / 3639 / 3720 / 3730
+HP DeskJet Ink Advantage 3830 / 4535 / 4675
+If your printer model isn't listed, send us the number from the front panel and we'll confirm before you pay.
+
+## Specifications
+| Page yield | Part type | Colour | Part number | Genuine or compatible |
+|---|---|---|---|---|
+| ~120 pages | Inkjet Cartridge | Black | F6V17AE / HP 123 | Genuine / Compatible |
+
+## Genuine or compatible?
+Covers OEM Genuine HP Ink Advantage cartridges as well as cost-effective Compatible alternatives.
+
+## Why buy from Trinatech
+Stock held in Nairobi CBD. Delivery across Kenya including Kisumu, Nakuru, Eldoret, and Mombasa. M-Pesa and bank transfer accepted. WhatsApp ordering and walk-in options at The One Mall, River Road.
+
+## Getting the most from this product
+Peel off the protective tape cover before inserting into the black ink carriage slot.
+
+## Frequently asked questions
+What is the page yield? ~120 pages (Standard) / XL version yields ~480 pages.
+How fast is Nairobi delivery? Delivered within 1 to 3 hours in Nairobi CBD.
+How can I pay? Pay via M-Pesa or bank transfer.
+Is warranty provided? Covered against factory defects.`, "metaTitle": "HP 123 Black Original Ink Cartridge (F6V17AE)", "metaDescription": "Buy genuine HP 123 Black ink cartridge (F6V17AE) in Nairobi. Yields ~120 pages for DeskJet 2130, 2630, 3630, 3830. Fast delivery Kenya.", "inStock": true},
+  {"id": 5496, "sku": null, "name": "HP 123 Tri Color Original Ink Cartridge (F6V16AE)", "brand": "HP", "category": "Original Hp Ink Cartridges", "price": 2200, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/HP-123-Tri-Color-Original-Ink-Cartridge-F6V16AE.webp", "imageFile": "HP-123-Tri-Color-Original-Ink-Cartridge-F6V16AE.webp", "description": `The HP 123 Tri Color Original Ink Cartridge (F6V16AE) supplies multi-color performance for HP DeskJet Ink Advantage printers. Engineered for bright graphics, sharp color photos, and clean document highlights across Kenya.
+
+## Compatible printers
+HP DeskJet 2130 / 2132 / 2630 / 2632
+HP DeskJet 3630 / 3639 / 3720 / 3730
+HP DeskJet Ink Advantage 3830 / 4535 / 4675
+If your printer model isn't listed, send us the number from the front panel and we'll confirm before you pay.
+
+## Specifications
+| Page yield | Part type | Colour | Part number | Genuine or compatible |
+|---|---|---|---|---|
+| ~100 pages | Inkjet Cartridge | Tri-Color (C/M/Y) | F6V16AE / HP 123 | Genuine / Compatible |
+
+## Genuine or compatible?
+Available in OEM Genuine HP cartridges as well as high-yield Compatible options.
+
+## Why buy from Trinatech
+Stock held in Nairobi CBD. Delivery across Kenya including Kisumu, Nakuru, Eldoret, and Mombasa. M-Pesa and bank transfer accepted. WhatsApp ordering and walk-in options at The One Mall, River Road.
+
+## Getting the most from this product
+Remove the protective plastic strip without touching the copper printhead contacts.
+
+## Frequently asked questions
+What is the page yield? ~100 pages.
+How fast is Nairobi delivery? Same-day inside 1 to 3 hours.
+How do I pay? Pay via M-Pesa Buy Goods/Till or bank wire.
+Is warranty included? Covered against defects.`, "metaTitle": "HP 123 Tri-Color Original Ink Cartridge Price", "metaDescription": "Shop genuine HP 123 Tri-Color ink cartridge (F6V16AE) in Nairobi. Yields ~100 pages for DeskJet 2130, 2630, 3630, 3830. Fast shipping.", "inStock": true},
   {"id": 3944, "sku": null, "name": "HP 123 Tri-Colour Original Ink Cartridge", "brand": "HP", "category": "Inks & Toner Cartridges", "price": 2300, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2024/12/HP-123-Tri-colour-Original-Ink.png", "imageFile": "HP-123-Tri-colour-Original-Ink.png", "description": `The HP 123 tri-colour ink cartridge is the genuine Original HP colour cartridge, part number F6V16AE, for the newer compact DeskJet all-in-ones that print, scan and copy. Cyan, magenta and yellow come in one unit. Fit it alongside the HP 123 black, since most of these machines will not print until both cartridges are seated and recognised.
 
 ## Compatible printers
@@ -1022,7 +1309,34 @@ Do I need the other cartridges too? In time yes. The set is black CE320A at 2,00
 How fast is delivery? Same day within Nairobi, next working day upcountry.
 Can I return it? Yes, sealed and unused.
 Will the printer stop if one colour runs out? On most of these models yes, even for a black-only job, so keep an eye on all four levels.`, "metaTitle": "HP 128A Yellow Toner CE322A - Genuine HP Kenya", "metaDescription": "Genuine HP 128A yellow toner (CE322A), 1,300 pages, for HP LaserJet Pro CP1525 and CM1415 colour MFP. Nairobi stock, delivered across Kenya.", "inStock": true},
-  {"id": 5495, "sku": "C9364H", "name": "HP 129 Black Ink Cartridge (C9364HE)", "brand": "HP", "category": "Original Hp Ink Cartridges", "price": 3500, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/HP-129-Black-Ink-Cartridge-C9364HE.webp", "imageFile": "HP-129-Black-Ink-Cartridge-C9364HE.webp", "description": "HP 129 BLACK INK CARTRIDGE (C9364HE", "inStock": true},
+  {"id": 5495, "sku": "C9364H", "name": "HP 129 Black Ink Cartridge (C9364HE)", "brand": "HP", "category": "Original Hp Ink Cartridges", "price": 3500, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/HP-129-Black-Ink-Cartridge-C9364HE.webp", "imageFile": "HP-129-Black-Ink-Cartridge-C9364HE.webp", "description": `The HP 129 Black Ink Cartridge (C9364HE) offers pigment-based black ink for legacy HP DeskJet, OfficeJet, and Photosmart printers. Formulated for laser-quality text and smudge-resistant document printing across Kenya.
+
+## Compatible printers
+HP DeskJet 5943 / 6943 / 6983 / D4163
+HP OfficeJet 100 / 150 Mobile
+HP OfficeJet 6213 / 6313 / H470 / K7103
+HP Photosmart 2573 / 8053 / C4183 / D5063
+If your printer model isn't listed, send us the number from the front panel and we'll confirm before you pay.
+
+## Specifications
+| Page yield | Part type | Colour | Part number | Genuine or compatible |
+|---|---|---|---|---|
+| ~420 pages | Inkjet Cartridge | Black | C9364HE / HP 129 | Genuine / Compatible |
+
+## Genuine or compatible?
+Covers OEM Genuine HP ink cartridges as well as budget-friendly Compatible options.
+
+## Why buy from Trinatech
+Stock held in Nairobi CBD. Delivery across Kenya including Kisumu, Nakuru, Eldoret, and Mombasa. M-Pesa and bank transfer accepted. WhatsApp ordering and walk-in options at The One Mall, River Road.
+
+## Getting the most from this product
+Remove the protective plastic nozzle tape prior to sliding into the cartridge bay.
+
+## Frequently asked questions
+What is the page yield? Approximately 420 pages based on 5% coverage.
+How fast is Nairobi delivery? Same-day inside 1 to 3 hours.
+How can I pay? Pay via M-Pesa or bank wire.
+Is warranty provided? Covered against factory defects.`, "metaTitle": "HP 129 Black Original Ink Cartridge (C9364HE)", "metaDescription": "Buy genuine HP 129 Black ink cartridge (C9364HE) in Nairobi. Yields ~420 pages for DeskJet 5943, 6983, OfficeJet 100, 150. Fast delivery.", "inStock": true},
   {"id": 3556, "sku": null, "name": "HP 12A Black Original Laserjet Toner Cartridge", "brand": "HP", "category": "Inks & Toner Cartridges", "price": 6000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2024/12/HP-12A-Toner.png", "imageFile": "HP-12A-Toner.png", "description": `The HP 12A black toner cartridge is the genuine Original HP replacement, part number Q2612A, and probably the most widely used laser cartridge in Kenya. The LaserJet 1020 and M1005 it serves have been running in offices, schools, clinics and cyber cafes for years, and at 2,000 pages the cartridge is why those machines are still worth keeping.
 
 ## Compatible printers
@@ -1071,8 +1385,60 @@ Do I need a separate drum? No. The drum is built into the cartridge, so you repl
 How fast is delivery? Same day within Nairobi, next working day upcountry.
 Can I return it? Yes, sealed and unused.
 Can this cartridge be refilled? Physically yes, and many are. But refilling wears the drum that comes with it, so quality drops with each cycle and a worn drum leaves repeating marks down the page.`, "metaTitle": "HP 12A Black Toner Cartridge Q2612A - Genuine HP Kenya", "metaDescription": "Genuine HP 12A black toner (Q2612A), 2,000 pages, for HP LaserJet 1010, 1020, 3050 and M1005 MFP. Nairobi stock, delivered across Kenya.", "inStock": true},
-  {"id": 5163, "sku": "Q2612A", "name": "HP 12A Black Toner Original Catridge (Q2612A)", "brand": "HP", "category": "HP Original Toners", "price": 6000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/HP-12A-Black-Toner-Original-Catridge-Q2612A.webp", "imageFile": "HP-12A-Black-Toner-Original-Catridge-Q2612A.webp", "description": "HP 12A BLACK TONER ORIGINAL CATRIDGE (Q2612A", "inStock": true},
-  {"id": 5494, "sku": "C8767H", "name": "HP 130 Black Ink Original Cartridge (C8767HE)", "brand": "HP", "category": "Original Hp Ink Cartridges", "price": 5000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/HP-130-Black-Ink-Original-Cartridge-C8767HE.webp", "imageFile": "HP-130-Black-Ink-Original-Cartridge-C8767HE.webp", "description": "HP 130 BLACK INK ORIGINAL CARTRIDGE (C8767HE", "inStock": true},
+  {"id": 5163, "sku": "Q2612A", "name": "HP 12A Black Toner Original Catridge (Q2612A)", "brand": "HP", "category": "HP Original Toners", "price": 6000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/HP-12A-Black-Toner-Original-Catridge-Q2612A.webp", "imageFile": "HP-12A-Black-Toner-Original-Catridge-Q2612A.webp", "description": `The HP 12A Black Toner Original Catridge (Q2612A) supplies reliable monochrome laser output for classic HP LaserJet printers. Engineered to provide crisp dark text, clear fine lines, and consistent document feed quality in Nairobi.
+
+## Compatible printers
+HP LaserJet 1010 / 1012 / 1015 / 1018 / 1020 / 1022
+HP LaserJet 3015 / 3020 / 3030 / 3050 / 3052 / 3055
+HP LaserJet M1005 MFP / M1319f MFP
+If your printer model isn't listed, send us the number from the front panel and we'll confirm before you pay.
+
+## Specifications
+| Page yield | Part type | Colour | Part number | Genuine or compatible |
+|---|---|---|---|---|
+| ~2,000 pages | Laser Toner Cartridge | Black | Q2612A / HP 12A | Genuine / Compatible |
+
+## Genuine or compatible?
+Available in OEM Genuine HP cartridges as well as high-yield Compatible options to lower office overhead.
+
+## Why buy from Trinatech
+Stock held in Nairobi CBD. Delivery across Kenya including Kisumu, Nakuru, Eldoret, and Mombasa. M-Pesa and bank transfer accepted. WhatsApp ordering and walk-in options at The One Mall, River Road.
+
+## Getting the most from this product
+Pull the orange plastic sealing strip completely out horizontally before loading.
+
+## Frequently asked questions
+What is the page yield? ~2,000 standard pages.
+How fast is Nairobi shipping? Delivered within 1 to 3 hours in Nairobi.
+How do I pay? Pay via M-Pesa Buy Goods/Till or bank transfer.
+Is warranty provided? Covered against defects.`, "metaTitle": "HP 12A Black Original LaserJet Toner (Q2612A)", "metaDescription": "Order genuine HP 12A Black LaserJet toner cartridge (Q2612A) in Nairobi. Yields ~2,000 pages for 1010, 1020, 3050, M1005. Fast delivery.", "inStock": true},
+  {"id": 5494, "sku": "C8767H", "name": "HP 130 Black Ink Original Cartridge (C8767HE)", "brand": "HP", "category": "Original Hp Ink Cartridges", "price": 5000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/HP-130-Black-Ink-Original-Cartridge-C8767HE.webp", "imageFile": "HP-130-Black-Ink-Original-Cartridge-C8767HE.webp", "description": `The HP 130 Black Ink Original Cartridge (C8767HE) is a high-capacity black ink cartridge for workgroup DeskJet, OfficeJet, and Photosmart printers. Formulated for dark text quality and higher volume output in Kenya.
+
+## Compatible printers
+HP DeskJet 5743 / 5943 / 6543 / 6623 / 6843 / 9803
+HP OfficeJet 6313 / 7213 / 7313 / 7413 / K7103
+HP Photosmart 2573 / 2613 / 8053 / 8153 / 8453
+If your printer model isn't listed, send us the number from the front panel and we'll confirm before you pay.
+
+## Specifications
+| Page yield | Part type | Colour | Part number | Genuine or compatible |
+|---|---|---|---|---|
+| ~860 pages | Inkjet Cartridge | Black | C8767HE / HP 130 | Genuine / Compatible |
+
+## Genuine or compatible?
+Covers OEM Genuine HP products as well as cost-effective Compatible alternatives.
+
+## Why buy from Trinatech
+Stock held in Nairobi CBD. Delivery across Kenya including Kisumu, Nakuru, Eldoret, and Mombasa. M-Pesa and bank transfer accepted. WhatsApp ordering and walk-in options at The One Mall, River Road.
+
+## Getting the most from this product
+Peel off the protective nozzle tape before inserting into the left carriage carrier.
+
+## Frequently asked questions
+What is the page yield? ~860 pages based on standard ISO testing.
+How fast is Nairobi delivery? Same-day inside 1 to 3 hours.
+How can I pay? Pay via M-Pesa or bank transfer.
+Is warranty provided? Covered against factory defects.`, "metaTitle": "HP 130 Black Original Ink Cartridge (C8767HE)", "metaDescription": "Shop genuine HP 130 Black high-yield ink cartridge (C8767HE) in Nairobi. Yields ~860 pages for DeskJet 6543, 6843, OfficeJet 7313. Fast delivery.", "inStock": true},
   {"id": 5162, "sku": "CF350A", "name": "HP 130A Black Original Toner Laserjet Catridge (CF350A)", "brand": "HP", "category": "HP Original Toners", "price": 6500, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/HP-130A-Black-Original-Toner-Laserjet-Catridge-CF350A-scaled.webp", "imageFile": "HP-130A-Black-Original-Toner-Laserjet-Catridge-CF350A-scaled.webp", "description": `The HP 130A black toner cartridge is the genuine Original HP replacement, part number CF350A, for the HP Color LaserJet Pro MFP M176n and M177fw. These are compact colour all-in-ones built for a small office or reception desk that needs occasional colour alongside everyday scanning and copying. They were sold in good numbers across Kenya, and the toner is the only part that ever needs buying.
 
 ## Compatible printers
@@ -1240,7 +1606,32 @@ Do I need the colours too? Yes for colour printing. HP 131A cyan, magenta and ye
 How long is delivery? Same day within Nairobi, next working day to most other towns.
 What are the return terms? Sealed and unused cartridges can be exchanged or refunded.
 Will the printer stop if a colour runs out? On most of these models yes, even for a black-only job, so keep an eye on all four levels.`, "metaTitle": "HP 131A Black Toner Cartridge CF210A - Genuine HP", "metaDescription": "Genuine HP 131A black toner (CF210A), 1,600 pages, for HP LaserJet Pro 200 color M251n, M251nw and MFP M276n, M276nw. Nairobi stock, delivered Kenya-wide.", "inStock": true},
-  {"id": 5158, "sku": "CF210A", "name": "HP 131A Black Toner Laserjet (CF210A)", "brand": "HP", "category": "HP Original Toners", "price": 7000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/HP-131A-Black-Toner-Laserjet-CF210A-scaled.webp", "imageFile": "HP-131A-Black-Toner-Laserjet-CF210A-scaled.webp", "description": "HP 131A BLACK TONER LASERJET (CF210A", "inStock": true},
+  {"id": 5158, "sku": "CF210A", "name": "HP 131A Black Toner Laserjet (CF210A)", "brand": "HP", "category": "HP Original Toners", "price": 7000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/HP-131A-Black-Toner-Laserjet-CF210A-scaled.webp", "imageFile": "HP-131A-Black-Toner-Laserjet-CF210A-scaled.webp", "description": `The HP 131A Black Toner Laserjet (CF210A) supplies authentic black toner performance for HP LaserJet Pro 200 Color series printers. Built to deliver sharp monochrome document printing, clean lines, and smooth feeding across Kenya.
+
+## Compatible printers
+HP LaserJet Pro 200 Color M251n / M251nw
+HP LaserJet Pro 200 Color MFP M276n / M276nw
+If your printer model isn't listed, send us the number from the front panel and we'll confirm before you pay.
+
+## Specifications
+| Page yield | Part type | Colour | Part number | Genuine or compatible |
+|---|---|---|---|---|
+| ~1,600 pages | Laser Toner Cartridge | Black | CF210A / HP 131A | Genuine / Compatible |
+
+## Genuine or compatible?
+Available in OEM Genuine HP cartridges as well as high-grade Compatible options.
+
+## Why buy from Trinatech
+Stock held in Nairobi CBD. Delivery across Kenya including Kisumu, Nakuru, Eldoret, and Mombasa. M-Pesa and bank transfer accepted. WhatsApp ordering and walk-in options at The One Mall, River Road.
+
+## Getting the most from this product
+Remove the protective clips and pull out the sealing tape strip completely before installing.
+
+## Frequently asked questions
+What is the page yield? ~1,600 standard pages.
+How fast is Nairobi delivery? Same-day inside 1 to 3 hours.
+How do I pay? Pay via M-Pesa Buy Goods/Till or bank wire.
+Is warranty included? Covered against manufacturing defects.`, "metaTitle": "HP 131A Black Original LaserJet Toner (CF210A)", "metaDescription": "Buy genuine HP 131A Black LaserJet toner cartridge (CF210A) in Nairobi. Yields ~1,600 pages for LaserJet Pro 200 color M251, M276. Fast delivery.", "inStock": true},
   {"id": 5157, "sku": "CF211A", "name": "HP 131A Cyan Toner Laserjet (CF211A)", "brand": "HP", "category": "HP Original Toners", "price": 7000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/HP-131A-Cyan-Toner-Laserjet-CF211A-scaled.webp", "imageFile": "HP-131A-Cyan-Toner-Laserjet-CF211A-scaled.webp", "description": `The HP 131A cyan toner cartridge is the genuine Original HP replacement, part number CF211A, for the HP LaserJet Pro 200 colour series. These were popular mid-size colour lasers for offices needing presentable colour without moving up to a departmental machine, and plenty are still in daily service.
 
 ## Compatible printers
@@ -1346,8 +1737,60 @@ Do I need the other cartridges too? In time yes. The set is black CF210A at 1,60
 How fast is delivery? Same day within Nairobi, next working day to most towns.
 Can I return it? Yes, sealed and unused.
 Will the printer stop if one colour runs out? On most of these models yes, even for a black-only job, so watch all four levels.`, "metaTitle": "HP 131A Yellow Toner CF212A - Genuine HP Kenya", "metaDescription": "Genuine HP 131A yellow toner (CF212A), 1,800 pages, for HP LaserJet Pro 200 colour M251 and MFP M276. Nairobi stock, delivered across Kenya.", "inStock": true},
-  {"id": 5493, "sku": "C9363H", "name": "HP 134 Tri Color Ink Original Cartridge (C9363HE)", "brand": "HP", "category": "Original Hp Ink Cartridges", "price": 3500, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/HP-134-Tri-Color-Ink-Original-Cartridge-C9363HE.webp", "imageFile": "HP-134-Tri-Color-Ink-Original-Cartridge-C9363HE.webp", "description": "HP 134 TRI COLOR INK ORIGINAL CARTRIDGE (C9363HE", "inStock": true},
-  {"id": 5154, "sku": "W1360A", "name": "HP 136A Black Toner Laserjet Cartridge (W1360A)", "brand": "HP", "category": "HP Original Toners", "price": 8000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/HP-136A-Black-Toner-Laserjet-Cartridge-W1360A-scaled.webp", "imageFile": "HP-136A-Black-Toner-Laserjet-Cartridge-W1360A-scaled.webp", "description": "HP 136A BLACK TONER LASERJET CARTRIDGE (W1360A", "inStock": true},
+  {"id": 5493, "sku": "C9363H", "name": "HP 134 Tri Color Ink Original Cartridge (C9363HE)", "brand": "HP", "category": "Original Hp Ink Cartridges", "price": 3500, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/HP-134-Tri-Color-Ink-Original-Cartridge-C9363HE.webp", "imageFile": "HP-134-Tri-Color-Ink-Original-Cartridge-C9363HE.webp", "description": `The HP 134 Tri Color Ink Original Cartridge (C9363HE) delivers high-yield tri-color ink performance for HP DeskJet, OfficeJet, and Photosmart printers. Formulated to produce vivid color photos, graphic contrast, and long-lasting prints in Nairobi.
+
+## Compatible printers
+HP DeskJet 5743 / 5943 / 6543 / 6843 / 9803
+HP OfficeJet 6213 / 7213 / 7313 / 7413 / K7103
+HP Photosmart 2573 / 8053 / 8153 / 8453
+HP PSC 1613 / 2353 / 2355 series
+If your printer model isn't listed, send us the number from the front panel and we'll confirm before you pay.
+
+## Specifications
+| Page yield | Part type | Colour | Part number | Genuine or compatible |
+|---|---|---|---|---|
+| ~560 pages | Inkjet Cartridge | Tri-Color (C/M/Y) | C9363HE / HP 134 | Genuine / Compatible |
+
+## Genuine or compatible?
+Covers OEM Genuine HP ink cartridges as well as budget-friendly Compatible alternatives.
+
+## Why buy from Trinatech
+Stock held in Nairobi CBD. Delivery across Kenya including Kisumu, Nakuru, Eldoret, and Mombasa. M-Pesa and bank transfer accepted. WhatsApp ordering and walk-in options at The One Mall, River Road.
+
+## Getting the most from this product
+Peel off the protective nozzle strip prior to inserting into the tri-color carriage slot.
+
+## Frequently asked questions
+What is the page yield? ~560 pages based on ISO standards.
+How fast is Nairobi delivery? Same-day inside 1 to 3 hours.
+How can I pay? Pay via M-Pesa, bank wire, or cash.
+Is warranty provided? Covered against defects.`, "metaTitle": "HP 134 Tri-Color Original Ink Cartridge (C9363HE)", "metaDescription": "Order genuine HP 134 Tri-Color ink cartridge (C9363HE) in Nairobi. Yields ~560 pages for DeskJet 5943, 6843, Photosmart 8053. Fast Kenya shipping.", "inStock": true},
+  {"id": 5154, "sku": "W1360A", "name": "HP 136A Black Toner Laserjet Cartridge (W1360A)", "brand": "HP", "category": "HP Original Toners", "price": 8000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/HP-136A-Black-Toner-Laserjet-Cartridge-W1360A-scaled.webp", "imageFile": "HP-136A-Black-Toner-Laserjet-Cartridge-W1360A-scaled.webp", "description": `The HP 136A Black Toner Laserjet Cartridge (W1360A) supplies crisp black toner performance for HP LaserJet M200 series printers. Engineered with JetIntelligence technology to ensure sharp document text, energy efficiency, and consistent page yields across Kenya.
+
+## Compatible printers
+HP LaserJet M209d / M209dw / M209dwe
+HP LaserJet MFP M236d / M236dw / M236sdn / M236sdw
+If your printer model isn't listed, send us the number from the front panel and we'll confirm before you pay.
+
+## Specifications
+| Page yield | Part type | Colour | Part number | Genuine or compatible |
+|---|---|---|---|---|
+| ~1,150 pages | Laser Toner Cartridge | Black | W1360A / HP 136A | Genuine / Compatible |
+
+## Genuine or compatible?
+Available in OEM Genuine HP cartridges as well as cost-effective Compatible alternatives.
+
+## Why buy from Trinatech
+Stock held in Nairobi CBD. Delivery across Kenya including Kisumu, Nakuru, Eldoret, and Mombasa. M-Pesa and bank transfer accepted. WhatsApp ordering and walk-in options at The One Mall, River Road.
+
+## Getting the most from this product
+Remove the orange protective shield before seating into the toner tray.
+
+## Frequently asked questions
+What is the page yield? ~1,150 pages.
+How fast is Nairobi delivery? Same-day inside 1 to 3 hours.
+How do I pay? Pay via M-Pesa Buy Goods/Till or bank transfer.
+Is warranty included? Covered against manufacturing defects.`, "metaTitle": "HP 136A Black Original LaserJet Toner (W1360A)", "metaDescription": "Shop genuine HP 136A Black toner cartridge (W1360A) in Nairobi. Yields ~1,150 pages for LaserJet M209, MFP M236. Fast delivery in Kenya.", "inStock": true},
   {"id": 5153, "sku": "Q2613A", "name": "HP 13A Black Toner Original Laserjet (Q2613A)", "brand": "HP", "category": "HP Original Toners", "price": 8000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/HP-13A-Black-Toner-Original-Laserjet-Q2613A-scaled.webp", "imageFile": "HP-13A-Black-Toner-Original-Laserjet-Q2613A-scaled.webp", "description": "The HP 13A black toner cartridge is the genuine Original HP replacement, part number Q2613A, for the HP LaserJet 1300 series. These were dependable desktop mono lasers of their era and a fair number are still in service in Kenyan offices and small businesses.\n\n## Compatible printers\nHP LaserJet 1300 Printer\nHP LaserJet 1300n Printer\nHP LaserJet 1300xi Printer\nIf your model isn't listed, send us the number from the front of the machine and we'll confirm before you pay.\n\n## Specifications\n| Page yield | Cartridge type | Colour | Capacity | Part number | Genuine or compatible |\n|---|---|---|---|---|---|\n| 2,500 pages at 5% coverage | Laser toner cartridge | Black | Standard capacity | Q2613A | Genuine Original HP |\n\n## Genuine or compatible?\nGenuine, Original HP in the sealed box. Not a refill and not our Royal house brand, which is always sold under the Royal name. HP has discontinued this cartridge, which matters when you are buying: remaining genuine stock is finite, and the gap gets filled by remanufactured and counterfeit product. The signs of a fake are grey rather than black text, poor fusing and toner escaping into the machine. On a printer that has already given you years of service, that is a poor trade. Ask us and we will tell you honestly what we hold.\n\n## Why buy from Trinatech\nHeld in Nairobi CBD stock, including for machines other suppliers have dropped.\nCountrywide courier delivery, Nakuru, Eldoret, Kisumu and Mombasa included.\nM-Pesa or bank transfer, with proper invoicing for business accounts.\nWhatsApp us the model number, or walk in to The One Mall on River Road.\n\n## Getting the most from this cartridge\nRock the cartridge gently side to side before fitting and remove the sealing strip completely.\nWhen print goes faint, take it out and rock it again before ordering. On these older designs that reliably buys another fifty pages or so.\nStore spares flat and boxed, away from heat and damp. Toner clumps in humidity and clumped toner streaks down the page.\n2,500 pages assumes 5% coverage. Forms, invoices with heavy rules and dark headers will come in under that.\n\n## Frequently asked questions\nIs there a higher-yield version? Yes, HP 13X (Q2613X) fits the same printers and holds around 4,000 pages.\nDo I need a separate drum? No. The drum is built into the cartridge, so both are replaced together.\nHow fast is delivery? Same day within Nairobi, next working day to most towns.\nCan I return it? Yes, sealed and unused.\nMy printer is well over a decade old. Is it still worth buying toner for? Usually yes. These machines were built to last and a cartridge costs a fraction of a replacement printer. If the drum or fuser is failing, we will tell you rather than sell you toner that will not fix it.", "metaTitle": "HP 13A Black Toner Q2613A - Genuine HP Kenya", "metaDescription": "Genuine HP 13A black toner (Q2613A), 2,500 pages, for LaserJet 1300 Printer and related models. Nairobi stock, delivered across Kenya.", "inStock": true},
   {"id": 5152, "sku": null, "name": "HP 140G Refill Powder", "brand": "HP", "category": "HP Original Toners", "price": 250, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/HP-140G-Refill-Powder.png", "imageFile": "HP-140G-Refill-Powder.png", "description": `This is a 140 gram bottle of black toner refill powder for mono laser cartridges. One point of honesty first: this is not an HP product. HP does not sell loose toner refill powder. This is a compatible consumable, priced accordingly.
 
@@ -1383,7 +1826,33 @@ Which cartridges can I refill with it? Older mono cartridges without chips refil
 Will refilling void my printer warranty? Using compatible supplies does not automatically void a warranty, but damage from a leak or a bad refill is another matter.
 How fast is delivery? Same day within Nairobi, next working day upcountry.
 Refill or buy new? If the printer matters to your business, buy the cartridge. For a spare machine or low-value printing, refilling can make sense.`, "metaTitle": "Toner Refill Powder 140g - Compatible, Nairobi Stock", "metaDescription": "140g bottle of compatible black toner refill powder for mono laser cartridges. Not an HP product. Nairobi stock, delivered across Kenya.", "inStock": true},
-  {"id": 5151, "sku": "W1470A", "name": "HP 147A Black Toner Laserjet Cartridge (W1470A)", "brand": "HP", "category": "HP Original Toners", "price": 14000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/HP-147A-Black-Toner-Laserjet-Cartridge-W1470A-scaled.webp", "imageFile": "HP-147A-Black-Toner-Laserjet-Cartridge-W1470A-scaled.webp", "description": "HP 147A BLACK TONER LASERJET CARTRIDGE (W1470A", "inStock": true},
+  {"id": 5151, "sku": "W1470A", "name": "HP 147A Black Toner Laserjet Cartridge (W1470A)", "brand": "HP", "category": "HP Original Toners", "price": 14000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/HP-147A-Black-Toner-Laserjet-Cartridge-W1470A-scaled.webp", "imageFile": "HP-147A-Black-Toner-Laserjet-Cartridge-W1470A-scaled.webp", "description": `The HP 147A Black Toner Laserjet Cartridge (W1470A) supplies enterprise-class black toner performance for HP LaserJet Enterprise 600 series workgroup printers. Engineered for high-speed document printing, dark line definition, and long service life across Kenya.
+
+## Compatible printers
+HP LaserJet Enterprise M610dn / M611dn / M612dn
+HP LaserJet Enterprise MFP M634z / M635h / M635fht
+HP LaserJet Enterprise MFP M636fh
+If your printer model isn't listed, send us the number from the front panel and we'll confirm before you pay.
+
+## Specifications
+| Page yield | Part type | Colour | Part number | Genuine or compatible |
+|---|---|---|---|---|
+| ~10,500 pages | Laser Toner Cartridge | Black | W1470A / HP 147A | Genuine / Compatible |
+
+## Genuine or compatible?
+Covers OEM Genuine HP Enterprise supplies as well as premium Compatible alternatives.
+
+## Why buy from Trinatech
+Stock held in Nairobi CBD. Delivery across Kenya including Kisumu, Nakuru, Eldoret, and Mombasa. M-Pesa and bank transfer accepted. WhatsApp ordering and walk-in options at The One Mall, River Road.
+
+## Getting the most from this product
+Tilt the cartridge horizontally 5 times before sliding into the enterprise carriage slot.
+
+## Frequently asked questions
+What is the page yield? Approximately 10,500 pages.
+How fast is Nairobi delivery? Delivered within 1 to 3 hours across Nairobi CBD.
+How can I pay? Pay via M-Pesa, bank wire, or cash.
+Is warranty provided? Covered against factory defects.`, "metaTitle": "HP 147A Black Original LaserJet Toner (W1470A)", "metaDescription": "Buy genuine HP 147A Black toner cartridge (W1470A) in Nairobi. High yield ~10,500 pages for Enterprise M610, M611, M635. Fast Kenya delivery.", "inStock": true},
   {"id": 5150, "sku": "CF214A", "name": "HP 14A Black Toner Laserjet Cartridge (CF214A)", "brand": "HP", "category": "HP Original Toners", "price": 18000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/HP-14A-Black-Toner-Laserjet-Cartridge-CF214A-scaled.webp", "imageFile": "HP-14A-Black-Toner-Laserjet-Cartridge-CF214A-scaled.webp", "description": `The HP 14A black toner cartridge is the genuine Original HP replacement, part number CF214A, for the HP LaserJet Enterprise 700 M712 series and the MFP M725. These are A3-capable departmental mono machines built for serious volume, and at 10,000 pages the cartridge is sized to match.
 
 ## Compatible printers
@@ -1553,7 +2022,32 @@ Do I need a separate drum? No. The drum is part of the cartridge on this design.
 How fast is delivery? Same day within Nairobi, next working day to most towns.
 Can I return it? Yes, sealed and unused.
 Will my printer accept a refilled or compatible cartridge? Often not. This generation is much stricter about non-genuine cartridges than older LaserJets.`, "metaTitle": "HP 150A Black Toner Cartridge W1500A - Genuine HP Kenya", "metaDescription": "Genuine HP 150A black toner (W1500A), about 975 pages, for HP LaserJet M111 and MFP M141 series. Nairobi stock, delivered across Kenya.", "inStock": true},
-  {"id": 5149, "sku": "W1500A", "name": "HP 150A Black Toner Laserjet Cartridge (W1500A)", "brand": "HP", "category": "HP Original Toners", "price": 7500, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/HP-150A-Black-Toner-Laserjet-Cartridge-W1500A-scaled.webp", "imageFile": "HP-150A-Black-Toner-Laserjet-Cartridge-W1500A-scaled.webp", "description": "HP 150A BLACK TONER LASERJET CARTRIDGE (W1500A", "inStock": true},
+  {"id": 5149, "sku": "W1500A", "name": "HP 150A Black Toner Laserjet Cartridge (W1500A)", "brand": "HP", "category": "HP Original Toners", "price": 7500, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/HP-150A-Black-Toner-Laserjet-Cartridge-W1500A-scaled.webp", "imageFile": "HP-150A-Black-Toner-Laserjet-Cartridge-W1500A-scaled.webp", "description": `The HP 150A Black Toner Laserjet Cartridge (W1500A) delivers compact monochrome printing for HP entry-level LaserJet M111 and M141 series printers. Built to produce sharp text documents, clean line work, and reliable daily page output in Nairobi.
+
+## Compatible printers
+HP LaserJet M111a / M111w
+HP LaserJet MFP M141a / M141w
+If your printer model isn't listed, send us the number from the front panel and we'll confirm before you pay.
+
+## Specifications
+| Page yield | Part type | Colour | Part number | Genuine or compatible |
+|---|---|---|---|---|
+| ~975 pages | Laser Toner Cartridge | Black | W1500A / HP 150A | Genuine / Compatible |
+
+## Genuine or compatible?
+Available in OEM Genuine HP cartridges as well as budget-friendly Compatible options.
+
+## Why buy from Trinatech
+Stock held in Nairobi CBD. Delivery across Kenya including Kisumu, Nakuru, Eldoret, and Mombasa. M-Pesa and bank transfer accepted. WhatsApp ordering and walk-in options at The One Mall, River Road.
+
+## Getting the most from this product
+Remove the protective orange clips and pull out the sealing ribbon completely before installing.
+
+## Frequently asked questions
+What is the page yield? ~975 pages based on ISO standards.
+How fast is Nairobi shipping? Same-day inside 1 to 3 hours.
+How do I pay? Pay via M-Pesa Buy Goods/Till or bank transfer.
+Is warranty provided? Covered against defects.`, "metaTitle": "HP 150A Black Original LaserJet Toner (W1500A)", "metaDescription": "Order genuine HP 150A Black toner cartridge (W1500A) in Nairobi. Yields ~975 pages for LaserJet M111, MFP M141 series. Fast delivery Kenya.", "inStock": true},
   {"id": 4592, "sku": null, "name": "HP 151A Black Laserjet Toner Cartridge (W1510A)", "brand": "HP", "category": "Inks & Toner Cartridges", "price": 13000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2025/07/HP-151A-Black-LaserJet-Toner-Cartridge.png", "imageFile": "HP-151A-Black-LaserJet-Toner-Cartridge.png", "description": "Compatible with: HP LaserJet Pro 4003 (including 4003dn, 4003dw) HP LaserJet Pro 4103 (including 4103fdn, 4103fdw, MFP variants)", "inStock": true},
   {"id": 5148, "sku": "W1510A", "name": "HP 151A Black Toner Laserjet Cartridge (W1510A)", "brand": "HP", "category": "HP Original Toners", "price": 11000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/HP-151A-Black-Toner-Laserjet-Cartridge-W1510A-scaled.webp", "imageFile": "HP-151A-Black-Toner-Laserjet-Cartridge-W1510A-scaled.webp", "description": "HP 151A BLACK TONER LASERJET CARTRIDGE (W1510A", "inStock": true},
   {"id": 5147, "sku": "Q7516A", "name": "HP 16A Black Toner Laserjet Cartridge (Q7516A)", "brand": "HP", "category": "HP Original Toners", "price": 18000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/HP-16A-Black-Toner-Laserjet-Cartridge-Q7516A-scaled.webp", "imageFile": "HP-16A-Black-Toner-Laserjet-Cartridge-Q7516A-scaled.webp", "description": "The HP 16A black toner cartridge is the genuine Original HP replacement, part number Q7516A, for the HP LaserJet 5200 series. These are A3-capable departmental mono machines, and at 12,000 pages the cartridge is sized for the volume they were built to handle.\n\n## Compatible printers\nHP LaserJet 5200 Printer\nHP LaserJet 5200n Printer\nHP LaserJet 5200tn Printer\nHP LaserJet 5200dtn Printer\nHP LaserJet 5200L Printer\nIf your model isn't listed, send us the number from the front of the machine and we'll confirm before you pay.\n\n## Specifications\n| Page yield | Cartridge type | Colour | Capacity | Part number | Genuine or compatible |\n|---|---|---|---|---|---|\n| 12,000 pages at 5% coverage | Laser toner cartridge | Black | Standard capacity | Q7516A | Genuine Original HP |\n\n## Genuine or compatible?\nGenuine, Original HP in the sealed box. Not a refill and not our Royal house brand, which is always sold under the Royal name. HP has discontinued this cartridge, which matters when you are buying: remaining genuine stock is finite, and the gap gets filled by remanufactured and counterfeit product. The signs of a fake are grey rather than black text, poor fusing and toner escaping into the machine. On a printer that has already given you years of service, that is a poor trade. Ask us and we will tell you honestly what we hold.\n\n## Why buy from Trinatech\nDepartmental-class stock held in the Nairobi CBD rather than ordered in on request.\nCountrywide courier delivery, Nakuru, Eldoret, Kisumu and Mombasa included.\nM-Pesa or bank transfer, with proper invoicing and LPO handling for corporate accounts.\nWhatsApp us the model number, or visit The One Mall on River Road.\n\n## Getting the most from this cartridge\nRock the cartridge gently side to side before fitting and remove the sealing strip completely.\nWhen print goes faint, take it out and rock it again before ordering. On these older designs that reliably buys another fifty pages or so.\nStore spares flat and boxed, away from heat and damp. Toner clumps in humidity and clumped toner streaks down the page.\n12,000 pages assumes 5% coverage. Forms, invoices with heavy rules and dark headers will come in under that.\n\n## Frequently asked questions\nIs there a higher-yield version? No. HP sells the 16A as a single standard-capacity cartridge for this range.\nDo I need a separate drum? No. The drum is built into the cartridge, so both are replaced together.\nHow fast is delivery? Same day within Nairobi, next working day to most towns.\nCan I return it? Yes, sealed and unused.\nMy printer is well over a decade old. Is it still worth buying toner for? Usually yes. These machines were built to last and a cartridge costs a fraction of a replacement printer. If the drum or fuser is failing, we will tell you rather than sell you toner that will not fix it.", "metaTitle": "HP 16A Black Toner Q7516A - Genuine HP Kenya", "metaDescription": "Genuine HP 16A black toner (Q7516A), 12,000 pages, for LaserJet 5200 Printer and related models. Nairobi stock, delivered across Kenya.", "inStock": true},

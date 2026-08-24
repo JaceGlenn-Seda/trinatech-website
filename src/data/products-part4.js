@@ -122,8 +122,65 @@ Is warranty provided? Covered against factory defects.`,
   {"id": 3586, "sku": null, "name": "Teflon Fuser Film Sleeve For HP Laserjet 2050/PRO 400 Printers", "brand": "HP", "category": "Printer Parts", "price": 1000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2024/12/Teflon-Fuser-Film-Sleeve.png", "imageFile": "Teflon-Fuser-Film-Sleeve.png", "description": "The Teflon Fuser Film Sleeve for HP LaserJet 2050/PRO 400 Printers is a vital component that ensures smooth and efficient printing.", "inStock": true},
   {"id": 4424, "sku": null, "name": "Konica Minolta TN216 Toner Cartridge", "brand": "Konica Minolta", "category": "Inks & Toner Cartridges", "price": 3000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2025/01/Konica-Minolta-TN216-Toner.png", "imageFile": "Konica-Minolta-TN216-Toner.png", "description": "Compatible with: Bizhub C220 Bizhub C280", "inStock": true},
   {"id": 4434, "sku": null, "name": "Konica Minolta TN217 Toner Cartridge", "brand": "Konica Minolta", "category": "Inks & Toner Cartridges", "price": 2200, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2025/01/Konica-Minolta-TN217-Toner.png", "imageFile": "Konica-Minolta-TN217-Toner.png", "description": "Compatible with: Bizhub 223 Bizhub 283 Bizhub 363 Bizhub 423", "inStock": true},
-  {"id": 4431, "sku": null, "name": "Konica Minolta TN321 Toner Cartridge", "brand": "Konica Minolta", "category": "Inks & Toner Cartridges", "price": 3000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2025/01/Konica-Minolta-TN321-Toner.png", "imageFile": "Konica-Minolta-TN321-Toner.png", "description": "Compatible with: Bizhub C224, C224e Bizhub C284, C284e Bizhub C364, C364e", "inStock": true},
-  {"id": 4427, "sku": null, "name": "Konica Minolta TN324 Toner Cartridge", "brand": "Konica Minolta", "category": "Inks & Toner Cartridges", "price": 3500, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2025/01/Konica-Minolta-TN324-Toner.png", "imageFile": "Konica-Minolta-TN324-Toner.png", "description": "Compatible with: C258 C308 C368 C454 / C454e C554 / C554e", "inStock": true},
+  {"id": 4431, "sku": null, "name": "Konica Minolta TN321 Toner Cartridge", "brand": "Konica Minolta", "category": "Inks & Toner Cartridges", "price": 3000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2025/01/Konica-Minolta-TN321-Toner.png", "imageFile": "Konica-Minolta-TN321-Toner.png", "description": `The Konica Minolta TN321 Toner Cartridge is a high-yield polymerized toner supply unit for Konica Minolta bizhub color multifunction copiers. Formulated for precise color matching and sharp line detail across Kenya.
+
+## Compatible printers
+Konica Minolta bizhub C224
+Konica Minolta bizhub C224e
+Konica Minolta bizhub C284
+Konica Minolta bizhub C284e
+Konica Minolta bizhub C364
+Konica Minolta bizhub C364e
+If your model isn't listed, send us the number from the front of the machine and we'll confirm before you pay.
+
+## Specifications
+| Page yield | Cartridge type | Colour | Capacity | Part number | Genuine or compatible |
+|---|---|---|---|---|---|
+| ~27,000 BK / 25,000 CMY | Copier Toner Cartridge | Black, Cyan, Magenta, Yellow | High Capacity | TN-321 / TN321 | Genuine / Compatible
+
+## Genuine or compatible?
+Original Genuine Konica Minolta product entry. Royal compatible equivalent cartridges fit the same machines at reduced costs.
+
+## Why buy from Trinatech
+Stock held in Nairobi CBD. Delivery across Kenya including Kisumu, Nakuru, Eldoret, and Mombasa. M-Pesa and bank transfer accepted. WhatsApp ordering and walk-in options at The One Mall, River Road.
+
+## Getting the most from this cartridge
+Store horizontally in ambient dry conditions. Rock the tube side-to-side prior to loading to loosen settled toner.
+
+## Frequently asked questions
+Is an XL version available? TN321 is the standard high-yield cartridge for this series.
+Are all four colors required? Yes, active cartridges in all bays are required for color copying.
+What is delivery time? 1 to 3 hours in Nairobi CBD; 24 hours upcountry.
+How can I pay? Pay via M-Pesa or bank wire.
+Is warranty included? Standard shop defect warranty covers unopened units.`, "metaTitle": "Konica Minolta TN321 Toner Cartridge - Trinatech Kenya", "metaDescription": "Shop Konica Minolta TN321 toner cartridge in Nairobi. Yields ~27,000 BK / 25,000 CMY pages for bizhub C224, C284, C364. Fast shipping.", "inStock": true},
+  {"id": 4427, "sku": null, "name": "Konica Minolta TN324 Toner Cartridge", "brand": "Konica Minolta", "category": "Inks & Toner Cartridges", "price": 3500, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2025/01/Konica-Minolta-TN324-Toner.png", "imageFile": "Konica-Minolta-TN324-Toner.png", "description": `The Konica Minolta TN324 Toner Cartridge is a high-capacity polymerized toner cartridge engineered for modern Konica Minolta bizhub color copiers. Delivers vivid color accuracy, smooth photo tones, and crisp text in Kenya.
+
+## Compatible printers
+Konica Minolta bizhub C258
+Konica Minolta bizhub C308
+Konica Minolta bizhub C368
+If your model isn't listed, send us the number from the front of the machine and we'll confirm before you pay.
+
+## Specifications
+| Page yield | Cartridge type | Colour | Capacity | Part number | Genuine or compatible |
+|---|---|---|---|---|---|
+| ~28,000 BK / 26,000 CMY | Copier Toner Cartridge | Black, Cyan, Magenta, Yellow | High Capacity | TN-324 / TN324 | Genuine / Compatible
+
+## Genuine or compatible?
+Genuine Original Konica Minolta supply unit. Royal compatible brand alternatives fit the same copiers at lower prices to reduce ongoing color print costs.
+
+## Why buy from Trinatech
+Stock held in Nairobi CBD. Delivery across Kenya including Kisumu, Nakuru, Eldoret, and Mombasa. M-Pesa and bank transfer accepted. WhatsApp ordering and walk-in options at The One Mall, River Road.
+
+## Getting the most from this cartridge
+Keep stored in cool, dry room conditions. Tilt tube horizontally before insertion into the copier bay to distribute toner powder evenly.
+
+## Frequently asked questions
+Is an XL version available? Standard capacity yields up to ~28,000 black and ~26,000 color pages.
+Are all four colors required? Yes, active cartridges in all bays are mandatory.
+How fast is Nairobi delivery? Delivered within 1 to 3 hours across Nairobi CBD.
+How can I pay? Pay via M-Pesa, bank wire, or cash.
+Is warranty provided? Covered against factory defects.`, "metaTitle": "Konica Minolta TN324 Toner Cartridge - Trinatech Kenya", "metaDescription": "Shop Konica Minolta TN324 toner cartridge in Nairobi. Yields ~28,000 BK / 26,000 CMY pages for bizhub C258, C308, C368. Fast shipping.", "inStock": true},
   {"id": 4449, "sku": null, "name": "Blade Cleaning Blade For Kyocera Mita KM-2050", "brand": "Kyocera", "category": "Printer Parts", "price": 1000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2025/01/Blade-KM-2050.png", "imageFile": "Blade-KM-2050.png", "description": "The Blade Cleaning Blade for Kyocera Mita KM-2050 is an essential component for keeping your printer in optimal condition.", "inStock": true},
   {"id": 3471, "sku": null, "name": "Kyocera Ecosys Fs 1025 Multifunction Laser Printer", "brand": "Kyocera", "category": "Printers & Copiers", "price": 48000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2024/12/Kyocera-FS-1025-Multi-Function-Printer.png", "imageFile": "Kyocera-FS-1025-Multi-Function-Printer.png", "description": "The Kyocera ECOSYS FS 1025 Multi-Function Laser Printer is designed to meet the needs of small offices or workgroups.", "inStock": true},
   {"id": 3457, "sku": null, "name": "Kyocera Ecosys M2135DN A4 Mono Multifunction Laser Printer", "brand": "Kyocera", "category": "Printers & Copiers", "price": 95000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2024/12/Kyocera-ECOSYS-M2135dn-A4-mfp-Printer.png", "imageFile": "Kyocera-ECOSYS-M2135dn-A4-mfp-Printer.png", "description": "The Kyocera ECOSYS M2135dn A4 Mono Multifunction Laser Printer is designed to meet the needs of small to medium-sized businesses.", "inStock": true},
@@ -1466,11 +1523,130 @@ Is warranty provided? Covered against factory defects.`,
   "inStock": true},
   {"id": 5340, "sku": null, "name": "Rz/Rv B4 Digital Duplicator Master Paper For Rz 220", "brand": "Other", "category": "Riso Master Rolls & Inks", "price": 1700, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/Rz-Rv-B4-Digital-Duplicator-Master-Paper-For-Rz-220.webp", "imageFile": "Rz-Rv-B4-Digital-Duplicator-Master-Paper-For-Rz-220.webp", "description": "RZ/RV B4 DIGITAL DUPLICATOR MASTER PAPER FOR RZ 220", "inStock": true},
   {"id": 5272, "sku": "TN-221-2", "name": "TN-221 Compatible Toners Each", "brand": "Other", "category": "Brother Toners", "price": 3000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/TN-221-Compatible-Toners-Each.png", "imageFile": "TN-221-Compatible-Toners-Each.png", "description": "TN-221 COMPATIBLE TONERS EACH", "inStock": true},
-  {"id": 5271, "sku": "TN-221", "name": "TN-221 Toner Cartridge Each", "brand": "Other", "category": "Brother Toners", "price": 3000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/TN-221-Compatible-Toners-Each.png", "imageFile": "TN-221-Compatible-Toners-Each.png", "description": "TN-221 TONER CARTRIDGE EACH", "inStock": true},
-  {"id": 5269, "sku": "TN-321", "name": "TN-321 Bizhub C224, 284, 364E C224E", "brand": "Other", "category": "Brother Toners", "price": 3000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/08/5269_other_tn-321-bizhub-c224-284-364e-c224e.jpg.png", "imageFile": "5269_other_tn-321-bizhub-c224-284-364e-c224e.jpg.png", "description": "TN-321 BIZHUB C224, 284, 364e C224e", "inStock": true},
+  {"id": 5271, "sku": "TN-221", "name": "TN-221 Toner Cartridge Each", "brand": "Other", "category": "Brother Toners", "price": 3000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/TN-221-Compatible-Toners-Each.png", "imageFile": "TN-221-Compatible-Toners-Each.png", "description": `The TN-221 Toner Cartridge Each (Brother TN-221 series) provides reliable, high-quality printing for Brother digital LED color printers. Engineered to produce sharp monochrome text and vibrant graphics for small offices across Kenya.
+
+## Compatible printers
+Brother DCP-9020CDN
+Brother HL-3140CW
+Brother HL-3150CDN
+Brother HL-3170CDW
+Brother HL-3180CDW
+Brother MFC-9130CW
+Brother MFC-9330CDW
+Brother MFC-9340CDW
+If your model isn't listed, send us the number from the front of the machine and we'll confirm before you pay.
+
+## Specifications
+| Page yield | Cartridge type | Colour | Capacity | Part number | Genuine or compatible |
+|---|---|---|---|---|---|
+| ~2,500 BK / 1,400 CMY | Toner Cartridge | Black, Cyan, Magenta, Yellow | Standard | TN-221 / TN221 | Genuine / Compatible
+
+## Genuine or compatible?
+Covers original Genuine Brother product entries; Royal compatible equivalent cartridges are also stocked to lower cost per page for budget-conscious print runs.
+
+## Why buy from Trinatech
+Stock held in Nairobi CBD. Delivery across Kenya including Kisumu, Nakuru, Eldoret, and Mombasa. M-Pesa and bank transfer accepted. WhatsApp ordering and walk-in options at The One Mall, River Road.
+
+## Getting the most from this cartridge
+Store flat in original packaging until deployment. Gently rock side-to-side before installation to distribute toner powder evenly.
+
+## Frequently asked questions
+Is an XL version available? Yes, TN-225 high-yield color cartridges (~2,200 pages) offer higher capacity.
+Are color toners required? Yes, active cartridges are required in all four bays.
+How fast is Nairobi delivery? Delivered within 1 to 3 hours across Nairobi CBD.
+How can I pay? Pay via M-Pesa Buy Goods/Till, bank transfer, or cash.
+Is warranty included? Standard shop defect warranty covers unopened units.`, "metaTitle": "Brother TN-221 Toner Cartridge Price - Trinatech Kenya", "metaDescription": "Buy Brother TN-221 toner cartridge in Nairobi. Yields ~2,500 BK / 1,400 CMY pages for HL-3170CDW & MFC-9330CDW. Fast Kenya shipping.", "inStock": true},
+  {"id": 5269, "sku": "TN-321", "name": "TN-321 Bizhub C224, 284, 364E C224E", "brand": "Other", "category": "Brother Toners", "price": 3000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/08/5269_other_tn-321-bizhub-c224-284-364e-c224e.jpg.png", "imageFile": "5269_other_tn-321-bizhub-c224-284-364e-c224e.jpg.png", "description": `The TN-321 Bizhub C224, 284, 364E C224E toner cartridge supplies original high-capacity toner for Konica Minolta e-series color copiers. Engineered to produce vibrant graphics and sharp administrative documents in Nairobi.
+
+## Compatible printers
+Konica Minolta bizhub C224
+Konica Minolta bizhub C224e
+Konica Minolta bizhub C284
+Konica Minolta bizhub C284e
+Konica Minolta bizhub C364
+Konica Minolta bizhub C364e
+If your model isn't listed, send us the number from the front of the machine and we'll confirm before you pay.
+
+## Specifications
+| Page yield | Cartridge type | Colour | Capacity | Part number | Genuine or compatible |
+|---|---|---|---|---|---|
+| ~27,000 BK / 25,000 CMY | Copier Toner Cartridge | Black, Cyan, Magenta, Yellow | High Capacity | TN-321 / A33K130 | Genuine / Compatible
+
+## Genuine or compatible?
+Covers original Genuine Konica Minolta supply units; Royal compatible alternative cartridges are stocked for high-volume operational savings.
+
+## Why buy from Trinatech
+Stock held in Nairobi CBD. Delivery across Kenya including Kisumu, Nakuru, Eldoret, and Mombasa. M-Pesa and bank transfer accepted. WhatsApp ordering and walk-in options at The One Mall, River Road.
+
+## Getting the most from this cartridge
+Keep in sealed protective wrap until deployment. Gently shake side-to-side before inserting into the copier hopper bay.
+
+## Frequently asked questions
+Is an XL alternative available? Standard high-capacity yield delivers up to ~27,000 pages.
+Are colors sold individually? Yes, priced separately per color unit.
+How fast is Nairobi shipping? Delivered same-day in 1 to 3 hours across Nairobi CBD.
+How do I pay? Pay via M-Pesa Buy Goods/Till or bank transfer.
+Is warranty provided? Covered against technical defects.`, "metaTitle": "Konica Minolta TN-321 Toner Price - Trinatech Kenya", "metaDescription": "Buy Konica Minolta TN-321 toner in Nairobi. Yields ~27,000 BK / 25,000 CMY pages for bizhub C224e, C284e, C364e. Fast delivery Kenya.", "inStock": true},
   {"id": 5274, "sku": "TN210", "name": "TN210 Toner Cartridge Each", "brand": "Other", "category": "Brother Toners", "price": 3000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/TN210-Toner-Cartridge-Each.png", "imageFile": "TN210-Toner-Cartridge-Each.png", "description": "TN210 TONER CARTRIDGE EACH", "inStock": true},
   {"id": 5273, "sku": "TN216", "name": "TN216 Tonr Original Cartridge Each", "brand": "Other", "category": "Brother Toners", "price": 3000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/TN216-Tonr-Original-Cartridge-Each.png", "imageFile": "TN216-Tonr-Original-Cartridge-Each.png", "description": "TN216 TONR ORIGINAL CARTRIDGE EACH", "inStock": true},
-  {"id": 5270, "sku": "TN319", "name": "TN319 Toner Cartridge Each", "brand": "Other", "category": "Brother Toners", "price": 3000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/TN319-Toner-Cartridge-Each.png", "imageFile": "TN319-Toner-Cartridge-Each.png", "description": "TN319 TONER CARTRIDGE EACH", "inStock": true},
-  {"id": 5268, "sku": "TN321", "name": "TN321 Toner Cartridge Each", "brand": "Other", "category": "Brother Toners", "price": 3000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/TN321-Toner-Cartridge-Each.png", "imageFile": "TN321-Toner-Cartridge-Each.png", "description": "TN321 TONER CARTRIDGE EACH", "inStock": true},
+  {"id": 5270, "sku": "TN319", "name": "TN319 Toner Cartridge Each", "brand": "Other", "category": "Brother Toners", "price": 3000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/TN319-Toner-Cartridge-Each.png", "imageFile": "TN319-Toner-Cartridge-Each.png", "description": `The TN319 Toner Cartridge Each (Konica Minolta TN319 / TN216 series) supplies original high-capacity toner for Konica Minolta bizhub color laser copiers. Built for smooth solid coverage and deep document contrast in Kenya.
+
+## Compatible printers
+Konica Minolta bizhub C220
+Konica Minolta bizhub C280
+Konica Minolta bizhub C360
+If your model isn't listed, send us the number from the front of the machine and we'll confirm before you pay.
+
+## Specifications
+| Page yield | Cartridge type | Colour | Capacity | Part number | Genuine or compatible |
+|---|---|---|---|---|---|
+| ~29,000 BK / 26,000 CMY | Copier Toner Cartridge | Black, Cyan, Magenta, Yellow | High Capacity | TN-319 / TN-216 | Genuine / Compatible
+
+## Genuine or compatible?
+Genuine Original Konica Minolta product entry. Royal compatible brand alternative cartridges fit the same copier bays at lower price points.
+
+## Why buy from Trinatech
+Stock held in Nairobi CBD. Delivery across Kenya including Kisumu, Nakuru, Eldoret, and Mombasa. M-Pesa and bank transfer accepted. WhatsApp ordering and walk-in options at The One Mall, River Road.
+
+## Getting the most from this cartridge
+Keep sealed in cool surroundings. Rotate the bottle gently before insertion into the copier frame.
+
+## Frequently asked questions
+Is an XL version available? Standard capacity is already an extended high-yield design.
+Are color cartridges sold separately? Yes, priced each per individual color or black cartridge.
+How fast is Nairobi shipping? Delivered within 1-3 hours in Nairobi CBD.
+How do I pay? M-Pesa Buy Goods/Till, bank transfer, and cash.
+Is warranty provided? Covered against factory defects.`, "metaTitle": "Konica Minolta TN319 Toner Price - Trinatech Kenya", "metaDescription": "Order Konica Minolta TN319 toner in Nairobi. High yield ~29,000 BK / 26,000 CMY pages for bizhub C360, C220, C280. Fast delivery.", "inStock": true},
+  {"id": 5268, "sku": "TN321", "name": "TN321 Toner Cartridge Each", "brand": "Other", "category": "Brother Toners", "price": 3000, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/02/TN321-Toner-Cartridge-Each.png", "imageFile": "TN321-Toner-Cartridge-Each.png", "description": `The TN321 Toner Cartridge Each is a high-volume polymerized toner cartridge for Konica Minolta bizhub color office copiers. Built for clear line text and smooth color shading across heavy print runs in Kenya.
+
+## Compatible printers
+Konica Minolta bizhub C224
+Konica Minolta bizhub C224e
+Konica Minolta bizhub C284
+Konica Minolta bizhub C284e
+Konica Minolta bizhub C364
+Konica Minolta bizhub C364e
+If your model isn't listed, send us the number from the front of the machine and we'll confirm before you pay.
+
+## Specifications
+| Page yield | Cartridge type | Colour | Capacity | Part number | Genuine or compatible |
+|---|---|---|---|---|---|
+| ~27,000 BK / 25,000 CMY | Copier Toner Cartridge | Black, Cyan, Magenta, Yellow | High Capacity | TN-321 / TN321 | Genuine / Compatible
+
+## Genuine or compatible?
+Genuine Original Konica Minolta product entry. Royal compatible brand alternative cartridges fit the same copiers at lower costs.
+
+## Why buy from Trinatech
+Stock held in Nairobi CBD. Delivery across Kenya including Kisumu, Nakuru, Eldoret, and Mombasa. M-Pesa and bank transfer accepted. WhatsApp ordering and walk-in options at The One Mall, River Road.
+
+## Getting the most from this cartridge
+Store in cool room temperatures. Gently tilt the tube back and forth prior to installation to ensure continuous toner delivery.
+
+## Frequently asked questions
+Is an XL version available? Standard capacity yields up to ~27,000 pages for black and ~25,000 for colors.
+Are all four colors required? Yes, full set presence is mandatory.
+How fast is Nairobi delivery? 1 to 3 hours across Nairobi CBD.
+How can I pay? Pay via M-Pesa, bank wire, or cash.
+Is warranty included? Standard shop defect warranty covers unopened units.`, "metaTitle": "Konica Minolta TN321 Toner Each Price - Trinatech Kenya", "metaDescription": "Order Konica Minolta TN321 toner cartridge in Nairobi. Yields ~27,000 BK / 25,000 CMY pages for bizhub C224, C284, C364. Fast delivery.", "inStock": true},
   ...PRODUCTS_4B,
 ];

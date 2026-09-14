@@ -3200,7 +3200,7 @@ Are color cartridges sold separately? Yes, priced individually per color cartrid
 How fast is Nairobi delivery? Same-day inside 1 to 3 hours.
 How do I pay? M-Pesa Buy Goods/Till or bank transfer.
 Is warranty provided? Covered under official Canon warranty.`, "metaTitle": "Canon CRG-067 Original Toner Cartridge Price - Trinatech", "metaDescription": "Buy genuine Canon CRG-067 toner cartridge in Nairobi. Fits imageCLASS LBP630, MF650 series. High quality color printing. Fast delivery.", "inStock": true, "comingSoon": false, "priceOnRequest": true},
-  {"id": 9522, "sku": null, "name": "Riso CV-A4", "brand": "Riso", "category": "Riso Master Rolls & Inks", "price": null, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/08/9522_riso_riso-cv-a4.jpg.png", "imageFile": "9522_riso_riso-cv-a4.jpg.png", "description": `The Riso CV-A4 (Riso S-7041 / S-7040 Master Roll) is a thermal stencil master roll designed for Riso CV-series A4 digital duplicators. Formulated to cut precise thermal stencils for high-speed examination paper, flyer, and bulletin printing in Kenya.
+  {"id": 9522, "sku": null, "name": "Riso CV-A4", "brand": "Riso", "category": "Riso Master Rolls & Inks", "price": 5500, "image": "https://old.trinatechtonersandprinters.co.ke/wp-content/uploads/2026/08/9522_riso_riso-cv-a4.jpg.png", "imageFile": "9522_riso_riso-cv-a4.jpg.png", "description": `The Riso CV-A4 (Riso S-7041 / S-7040 Master Roll) is a thermal stencil master roll designed for Riso CV-series A4 digital duplicators. Formulated to cut precise thermal stencils for high-speed examination paper, flyer, and bulletin printing in Kenya.
 
 ## Compatible printers
 Riso CV 3030 digital duplicator
@@ -3229,6 +3229,6 @@ Keep master rolls stored horizontally in dry, ambient room temperatures to preve
 Is this master roll A4 size? Yes, engineered specifically for A4 Riso CV series duplicator drums.
 How fast is Nairobi delivery? Delivered within 1 to 3 hours across Nairobi CBD.
 How can I pay? Pay via M-Pesa, bank wire, or cash.
-Is warranty provided? Covered against factory defects.`, "metaTitle": "Riso CV A4 Digital Duplicator Master Roll - Trinatech", "metaDescription": "Order Riso CV A4 master roll in Nairobi. Compatible with Riso CV 3030, CV 3230 copy printers. Fast delivery across Kenya.", "inStock": true, "comingSoon": false, "priceOnRequest": true},
+Is warranty provided? Covered against factory defects.`, "metaTitle": "Riso CV A4 Digital Duplicator Master Roll - Trinatech", "metaDescription": "Order Riso CV A4 master roll in Nairobi. Compatible with Riso CV 3030, CV 3230 copy printers. Fast delivery across Kenya.", "inStock": true},
   ...PRODUCTS_6B,
 ];

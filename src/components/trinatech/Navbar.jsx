@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+import React, { useState, useEffect } from "react";
 import { Link, useLocation } from "react-router-dom";
 import BrandLogo from "./BrandLogo";
 import { useCart } from "@/context/CartContext";
@@ -13,8 +13,9 @@ const links = [
   { label: "FAQ", href: "/#faq" },
 ];
 
-export default function Navbar() {
+export default function Navbar({ transparent = false }) {
   const [menuOpen, setMenuOpen] = useState(false);
+  const [scrolled, setScrolled] = useState(false);
   const { itemCount } = useCart();
   const setCartOpen = (v) => window.dispatchEvent(new Event(v ? "trinatech:cart:open" : "trinatech:cart:close"));
   const setSearchOpen = (v) => window.dispatchEvent(new Event(v ? "trinatech:search:open" : "trinatech:search:close"));
@@ -26,10 +27,20 @@ export default function Navbar() {
     return href;
   };
 
+  useEffect(() => {
+    if (!transparent) return;
+    const onScroll = () => setScrolled(window.scrollY > 80);
+    onScroll();
+    window.addEventListener("scroll", onScroll, { passive: true });
+    return () => window.removeEventListener("scroll", onScroll);
+  }, [transparent]);
+
+  const isGlass = transparent && !scrolled;
+
   return (
-    <header className="tt-nav">
+    <header className={`tt-nav${transparent ? " tt-nav--fixed" : ""}${isGlass ? " tt-nav--glass" : ""}`}>
       <div className="nav-wrap">
-        <div className="nav-pill">
+        <div className={`nav-pill${isGlass ? " nav-pill--glass" : ""}`}>
             <Link to="/" className="tt-logo nav-zone--left" aria-label="Trinatech Toners and Printers home">
               <BrandLogo variant="nav" />
             </Link>
@@ -46,7 +57,7 @@ export default function Navbar() {
           <div className="nav-actions nav-zone--right">
             {/* Search button */}
             <button
-              className="nav-icon-btn"
+              className={`nav-icon-btn${isGlass ? " nav-icon-btn--glass" : ""}`}
               aria-label="Search products"
               onClick={() => setSearchOpen(true)}
             >
@@ -57,7 +68,7 @@ export default function Navbar() {
 
             {/* Cart button */}
             <button
-              className="nav-icon-btn nav-cart-btn"
+              className={`nav-icon-btn nav-cart-btn${isGlass ? " nav-icon-btn--glass" : ""}`}
               aria-label={`Cart${itemCount ? ` — ${itemCount} items` : ""}`}
               onClick={() => setCartOpen(true)}
             >

@@ -1,26 +1,19 @@
 import React from "react";
 import RevealWrap from "./RevealWrap";
 import TypewriterWord from "./TypewriterWord";
-import CircuitMotif from "./CircuitMotif";
 
 export default function HeroSection() {
   return (
-    <section className="tt-hero" id="top" style={{ position: "relative", overflow: "hidden" }}>
-      <CircuitMotif
-        style={{
-          top: 0,
-          left: 0,
-          color: "#1a2c6b",
-          opacity: 0.08,
-        }}
-      />
-      <div className="tt-container" style={{ position: "relative", zIndex: 1 }}>
+    <section className="tt-hero tt-hero--photo" id="top">
+      <div className="hero-photo-overlay" aria-hidden="true"></div>
+      <div className="tt-container hero-photo-inner">
         <RevealWrap>
-          <div className="eyebrow"><span className="dot"></span> Nairobi · The One Mall, River Road</div>
+          <div className="eyebrow eyebrow--glass"><span className="dot"></span> Nairobi · The One Mall, River Road</div>
         </RevealWrap>
         <RevealWrap>
           <h1 aria-label="Nairobi's One-Stop Shop for Toners, Ink & Printers">
-            Nairobi's One-Stop Shop for{" "}
+            Nairobi's One-Stop Shop for
+            <br />
             <TypewriterWord words={["Toners", "Printers", "Cartridges", "Inks", "Photocopiers"]} />
           </h1>
         </RevealWrap>
@@ -30,7 +23,7 @@ export default function HeroSection() {
         <RevealWrap>
           <div className="cta-row">
             <a className="tt-btn tt-btn-red" href="#contact">Request a Quote</a>
-            <a className="tt-btn tt-btn-ghost" href="#shop">Browse Best Sellers</a>
+            <a className="tt-btn tt-btn-ghost tt-btn-ghost--photo" href="#shop">Browse Best Sellers</a>
           </div>
         </RevealWrap>
       </div>

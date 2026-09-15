@@ -78,11 +78,11 @@ export default function TypewriterWord({ words = WORDS }) {
       aria-hidden="true"
       className="inline-block rounded-2xl px-3"
       style={{
-        background: "rgba(26, 44, 107, 0.07)",
-        border: "1px solid rgba(26, 44, 107, 0.12)",
-        color: "#d3222a",
+        background: "var(--red)",
+        color: "#fff",
         minWidth: "2ch",
         whiteSpace: "nowrap",
+        textAlign: "left",
       }}
     >
       {text}
@@ -92,7 +92,7 @@ export default function TypewriterWord({ words = WORDS }) {
           style={{
             width: "3px",
             height: "0.9em",
-            background: "#d3222a",
+            background: "#fff",
             transform: "translateY(0.12em)",
             animation: "tt-caret 1s steps(1) infinite",
           }}

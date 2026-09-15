@@ -69,7 +69,7 @@ function HomeContent() {
       {/* All page content above the wave mesh */}
       <div style={{ position: "relative", zIndex: 1 }}>
         <TriBar />
-        <Navbar />
+        <Navbar transparent />
         
         <main>
         <HeroSection />

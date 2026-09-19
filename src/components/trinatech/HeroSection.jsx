@@ -11,8 +11,8 @@ export default function HeroSection() {
           <div className="eyebrow eyebrow--glass"><span className="dot"></span> Nairobi · The One Mall, River Road</div>
         </RevealWrap>
         <RevealWrap>
-          <h1 aria-label="Nairobi's One-Stop Shop for Toners, Ink & Printers">
-            Nairobi's One-Stop Shop for
+          <h1 aria-label="Kenya's One-Stop Shop for Toners, Ink & Printers">
+            Kenya's One-Stop Shop for
             <br />
             <TypewriterWord words={["Toners", "Printers", "Cartridges", "Inks", "Photocopiers"]} />
           </h1>

@@ -1,6 +1,7 @@
 import React, { useState } from "react";
 import { Link } from "react-router-dom";
 import RevealWrap from "./RevealWrap";
+import ProductSlider, { SliderProductCard } from "./ProductSlider";
 import { useCart } from "@/context/CartContext";
 import { PRODUCTS, formatPrice, isComingSoon } from "@/data/products";
 
@@ -84,28 +85,31 @@ export function ProductCard({ product }) {
   );
 }
 
+// Homepage "Trending Products" slider (same 8 best-seller ids as before).
+// The named `ProductCard` export above is untouched — Shop and Brand pages use it.
 export default function ProductGrid() {
-  const bestSellers = BEST_SELLER_IDS.map(id => PRODUCTS.find(p => p.id === id)).filter(Boolean);
+  const trending = BEST_SELLER_IDS.map(id => PRODUCTS.find(p => p.id === id)).filter(Boolean);
 
   return (
-    <section id="shop" aria-labelledby="bestsellers-heading" style={{ paddingTop: 0, paddingBottom: 96 }}>
+    <section id="shop" aria-labelledby="trending-heading" style={{ paddingTop: 0, paddingBottom: 96 }}>
       <div className="tt-container">
         <RevealWrap>
-          <div className="shop-head">
-            <div>
-              <span className="eyebrow-label">Our Products</span>
-              <h2 id="bestsellers-heading" className="sec-h2">Best sellers this month</h2>
-              <p className="sec-sub">The toners, cartridges and machines Nairobi offices reorder every month.</p>
-            </div>
+          <ProductSlider
+            theme="light"
+            eyebrow="Featured Products"
+            title="Trending Products"
+            subtitle="Top brands. Competitive prices. Built for performance."
+            headingId="trending-heading"
+            ariaLabel="Trending products"
+          >
+            {trending.map(p => (
+              <SliderProductCard key={p.id} product={p} cta="cart" />
+            ))}
+          </ProductSlider>
+          <div style={{ textAlign: "center", marginTop: 44 }}>
             <Link to="/shop" className="link-arrow">View all products →</Link>
           </div>
         </RevealWrap>
-
-        <div className="product-grid">
-          {bestSellers.map(p => (
-            <ProductCard key={p.id} product={p} />
-          ))}
-        </div>
       </div>
     </section>
   );

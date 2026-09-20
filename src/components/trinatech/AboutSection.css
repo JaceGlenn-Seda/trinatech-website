@@ -1,0 +1,91 @@
+/* About section — two-column top row. Every class is prefixed abt- */
+.abt-row {
+  display: grid;
+  grid-template-columns: 2fr 3fr;
+  gap: 56px;
+  align-items: stretch;
+  margin-bottom: 56px;
+}
+/* RevealWrap renders a div per column — let it fill its grid cell */
+.abt-row > .tt-reveal { display: flex; flex-direction: column; }
+.abt-row > .tt-reveal > * { flex: 1; }
+
+/* Left: skyline card */
+.abt-card {
+  position: relative;
+  overflow: hidden;
+  display: flex;
+  align-items: flex-end;
+  min-height: 420px;
+  border-radius: var(--tt-radius-lg);
+  background-color: var(--navy-deep);
+  box-shadow: 0 22px 56px rgba(18,28,73,0.18);
+  isolation: isolate;
+}
+.abt-card-img {
+  position: absolute; inset: 0; z-index: -2;
+  width: 100%; height: 100%;
+  object-fit: cover;
+  object-position: 72% 62%;
+}
+.abt-card-overlay {
+  position: absolute; inset: 0; z-index: -1; pointer-events: none;
+  background: linear-gradient(0deg, rgba(18,28,73,0.96) 0%, rgba(18,28,73,0.80) 34%, rgba(18,28,73,0.28) 66%, rgba(18,28,73,0) 100%);
+}
+.abt-card-body { padding: 36px; width: 100%; }
+.abt-line { display: block; width: 44px; height: 3px; border-radius: 2px; background: var(--gold); margin-bottom: 16px; }
+.abt-card-label {
+  display: block;
+  margin-bottom: 12px;
+  font-family: var(--font-body);
+  font-size: 11.5px;
+  font-weight: 600;
+  letter-spacing: 2.6px;
+  text-transform: uppercase;
+  color: var(--gold);
+}
+.abt-card-heading {
+  font-family: var(--font-display);
+  font-size: clamp(26px, 2.6vw, 34px);
+  font-weight: 800;
+  letter-spacing: -0.03em;
+  line-height: 1.1;
+  color: #fff;
+}
+.abt-card-heading span { display: block; }
+.abt-card-sub { margin-top: 12px; max-width: 360px; font-size: 14.5px; line-height: 1.55; color: rgba(255,255,255,0.9); }
+
+/* Right: existing label / heading / paragraph (left-aligned) + feature row */
+.abt-copy { display: flex; flex-direction: column; justify-content: center; text-align: left; }
+.abt-copy .sec-sub { margin-left: 0; margin-right: 0; }
+.abt-features { list-style: none; margin: 32px 0 0; padding: 0; display: grid; grid-template-columns: repeat(4, 1fr); gap: 16px; }
+.abt-feature { display: flex; flex-direction: column; align-items: flex-start; gap: 4px; }
+.abt-feature-icon {
+  display: inline-flex; align-items: center; justify-content: center;
+  width: 52px; height: 52px; margin-bottom: 10px;
+  border-radius: 14px;
+  background: #E6EDFB;
+  color: var(--navy);
+}
+.abt-feature strong { font-family: var(--font-display); font-size: 14.5px; font-weight: 700; line-height: 1.25; color: var(--navy); }
+.abt-feature-sub { font-size: 12.5px; line-height: 1.4; color: var(--ink-soft); }
+
+/* 4 across → 2x2 on narrower right columns, incl. stacked tablet */
+@media (max-width: 1024px) {
+  .abt-features { grid-template-columns: repeat(2, 1fr); gap: 24px 16px; }
+}
+/* Stack: card on top, text + icons below */
+@media (max-width: 900px) {
+  .abt-row { grid-template-columns: 1fr; gap: 36px; margin-bottom: 44px; }
+  .abt-card { min-height: 340px; }
+}
+@media (max-width: 600px) {
+  .abt-card { min-height: 320px; }
+  .abt-card-body { padding: 28px 24px; }
+}
+/* Smallest phones: single column */
+@media (max-width: 420px) {
+  .abt-features { grid-template-columns: 1fr; gap: 20px; }
+  .abt-feature { display: grid; grid-template-columns: 52px 1fr; align-items: center; column-gap: 14px; row-gap: 2px; }
+  .abt-feature-icon { grid-row: 1 / span 2; margin-bottom: 0; }
+}

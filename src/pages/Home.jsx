@@ -5,6 +5,7 @@ import TriBar from "../components/trinatech/TriBar";
 import Navbar from "../components/trinatech/Navbar";
 import HeroSection from "../components/trinatech/HeroSection";
 import AboutSection from "../components/trinatech/AboutSection";
+import SkylineBanner from "../components/trinatech/SkylineBanner";
 import CtaBand from "../components/trinatech/CtaBand";
 import SuppliesSection from "../components/trinatech/SuppliesSection";
 import ProductGrid from "../components/trinatech/ProductGrid";
@@ -77,6 +78,7 @@ function HomeContent() {
           <FeaturedCarousel />
         </div>
         <AboutSection />
+        <SkylineBanner />
         <CtaBand
           title="Not sure which toner fits your machine?"
           subtitle="Send us your printer model on WhatsApp — we'll match the exact cartridge, first time."
